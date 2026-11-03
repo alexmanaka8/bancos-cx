@@ -1,0 +1,295 @@
+[
+ {
+  "k": "bd2a20f3bf",
+  "estado": "nueva",
+  "stem": "Paciente gran quemado con 50% SCQ, estabilizado hemodinámicamente, requiere soporte metabólico intensivo. ¿Cuál es la estrategia nutricional de elección?",
+  "opts": [
+   "Nutrición parenteral exclusiva",
+   "Ayuno prolongado",
+   "Suplementación oral aislada",
+   "Nutrición enteral precoz",
+   "Dieta hipoproteica"
+  ],
+  "ans": 3,
+  "why": "La nutrición enteral temprana es la estrategia de elección en el gran quemado: preserva la integridad de la mucosa intestinal, reduce la morbilidad séptica y atenúa la respuesta hipermetabólica; Sabiston describe que los pacientes se alimentan de inmediato por sonda nasogástrica. La parenteral exclusiva se reserva para cuando la vía enteral no es posible. El ayuno, la suplementación oral aislada y la dieta hipoproteica no cubren el enorme gasto energético y proteico del quemado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF",
+   "Sabiston 21.ª ed., p. 137 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Sin clave en el original; el alumno marcó D en la foto."
+ },
+ {
+  "k": "318db9cf69",
+  "estado": "nueva",
+  "stem": "Paciente con quemaduras extensas desarrolla edema generalizado en las primeras horas postinjuria. ¿Cuál es el principal mecanismo fisiopatológico?",
+  "opts": [
+   "Retención renal primaria de sodio",
+   "Aumento de presión oncótica",
+   "Liberación de mediadores inflamatorios con aumento de permeabilidad capilar",
+   "Hipertensión portal",
+   "Disminución de gasto cardíaco aislado"
+  ],
+  "ans": 2,
+  "why": "Según Sabiston, los mediadores liberados en la quemadura (histamina, bradicinina, prostaglandinas, leucotrienos, complemento, entre otros) aumentan la permeabilidad capilar, y la respuesta sistémica produce edema generalizado en piel quemada y no quemada. La presión oncótica plasmática disminuye, no aumenta (B). La retención renal de sodio, la hipertensión portal y la caída aislada del gasto cardíaco no explican el edema precoz del quemado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF",
+   "Sabiston 21.ª ed., p. 512 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Se quitó del enunciado un fragmento de la pregunta 15 que se había pegado por el OCR. Sin clave en el original; el alumno marcó C."
+ },
+ {
+  "k": "30e3ea71bc",
+  "estado": "nueva",
+  "stem": "Se realizó hernioplastia anterior tipo Lichtenstein a paciente varón de 50 años, sin complicaciones o intercurrencias. Mencione el tipo de herida quirúrgica del presente caso:",
+  "opts": [
+   "Limpia-contaminada",
+   "Limpia",
+   "Contaminada",
+   "Sucia"
+  ],
+  "ans": 1,
+  "why": "La hernioplastia de Lichtenstein no entra en el tubo digestivo, respiratorio, genital ni urinario y no hay inflamación ni fallas de asepsia: es una herida limpia (clase I de los CDC), aunque se implante una malla. Sería limpia-contaminada si se entrara en una víscera hueca en condiciones controladas, contaminada si hubiera vertido macroscópico o inflamación aguda, y sucia si hubiera infección o víscera perforada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 249 del PDF"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "El ítem traía pegada la pregunta 2; se separó en 'dividir'. Sin clave en el original; el alumno marcó B.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "No es factor de riesgo dependiente del paciente para ISO:",
+    "opts": [
+     "Hipoalbuminemia",
+     "Obesidad",
+     "Hiperbilirrubinemia",
+     "Hipotermia"
+    ],
+    "ans": 3,
+    "why": "En el cuadro 11.1 de Sabiston, la hipotermia aparece entre los factores del tratamiento (perioperatorios), no entre los del paciente. La hipoalbuminemia, la obesidad y la hiperbilirrubinemia > 1 mg/dl sí se listan como factores de riesgo del paciente.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 249 del PDF"
+    ],
+    "tema": "iso",
+    "nota": "Sin clave en el original; el alumno marcó D."
+   }
+  ]
+ },
+ {
+  "k": "30e7aec49d",
+  "estado": "nueva",
+  "stem": "Paciente programado para coledocotomía y exploración de vías biliares por coledocolitiasis, sin colangitis. Se aborda por incisión mediana supraumbilical. Tipo de herida quirúrgica:",
+  "opts": [
+   "Limpia",
+   "Infectada",
+   "Contaminada",
+   "Limpio-contaminada"
+  ],
+  "ans": 3,
+  "why": "Según la clasificación de los CDC, la herida limpia-contaminada es aquella en la que se entra en el aparato digestivo en condiciones controladas y sin contaminación inusual, e incluye expresamente las operaciones de las vías biliares sin signos de infección. Al no haber colangitis, no es contaminada ni sucia/infectada, y al abrirse el colédoco ya no es limpia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 249 del PDF"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "Sin clave en el original; el alumno marcó D."
+ },
+ {
+  "k": "2387524a4b",
+  "estado": "dudosa",
+  "stem": "Varón de 67 años en el PO de 24 h de hemorroides trombosadas; se le realiza hemorroidectomía y esfinterectomía parcial. De las siguientes complicaciones a presentar, la menos probable sería:",
+  "opts": [
+   "Retención urinaria",
+   "Hematoquecia",
+   "SIHAD",
+   "Absceso perineal",
+   "Melena"
+  ],
+  "ans": null,
+  "why": "Según Sabiston, tras la hemorroidectomía la complicación más frecuente es la hemorragia (1-2%), seguida de la retención urinaria aguda (1-15%); la sepsis pélvica o perineal es infrecuente pero temida. Así, A, B y D son complicaciones reconocidas. Ni el SIHAD ni la melena figuran como complicaciones de la hemorroidectomía: la melena indica sangrado proximal (más del 90% es HDA), y el SIHAD es una alteración posoperatoria general no ligada a esta cirugía. Las dos opciones son defendibles como 'la menos probable' y ninguna fuente fiable las ordena.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1430 del PDF",
+   "Sabiston 21.ª ed., p. 1176 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "En la foto el alumno marcó E (melena). En el PDF del pretest 2024 (misma pregunta) el resaltado es C (SIHAD)."
+ },
+ {
+  "k": "b579d309be",
+  "estado": "nueva",
+  "stem": "Mujer de 56 años. Tiene, desde hace 4 meses, informe ecográfico de litiasis única de 28 mm. Hoy acude a emergencia por dolor abdominal intenso tipo cólico en hipocondrio derecho que se fue intensificando desde hace 20 h, y ahora se acompaña de distensión abdominal, vómitos verdosos y ausencia de flatos; la ecografía actual muestra vesícula biliar de 5x3 cm, paredes gruesas, aerobilia y sin litiasis. ¿Cuál sería el Dx probable?",
+  "opts": [
+   "Gangrena vesicular",
+   "Plastrón vesicular",
+   "Absceso vesicular",
+   "Íleo biliar",
+   "Enfisema vesicular perforada"
+  ],
+  "ans": 3,
+  "why": "Es un íleo biliar: un cálculo grande (28 mm) pasa al intestino por una fístula colecistoentérica y causa obstrucción del intestino delgado (distensión, vómitos, sin flatos). Sabiston señala que la neumobilia es un hallazgo casi constante por esa fístula; además, el cálculo ya no está en la vesícula. La gangrena, el plastrón y el absceso no explican la aerobilia ni la obstrucción. La colecistitis enfisematosa da gas en la pared vesicular, no aerobilia con obstrucción intestinal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1526 del PDF",
+   "Sabiston 21.ª ed., p. 1278 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Sin clave en el original; el alumno marcó D."
+ },
+ {
+  "k": "0cb27b066b",
+  "estado": "nueva",
+  "stem": "Joven de 22 años ingresa con Dx de TAP por PAB. Al examen físico: PAM 60, P 112 x', R 24 x', T 36,8 °C, SO2 94%. Se le realiza laparotomía exploratoria con resección y anastomosis primaria de íleon distal. ¿Cuál es la complicación más grave a presentarse al 5.º día?",
+  "opts": [
+   "Íleo",
+   "Neumonía nosocomial",
+   "Dehiscencia de anastomosis",
+   "Úlcera gástrica",
+   "Shock séptico"
+  ],
+  "ans": 2,
+  "why": "Según Sabiston, las fugas de anastomosis de intestino delgado o colon aparecen sobre todo entre el 5.º y el 7.º día del posoperatorio, y el shock y la cirugía de urgencia son factores de riesgo; es la complicación grave propia de este momento y de esta cirugía. El íleo es más precoz y benigno. La neumonía nosocomial y la úlcera de estrés son posibles, pero no son la complicación característica ni la más grave de una anastomosis. El shock séptico sería una consecuencia de la dehiscencia, no la complicación primaria.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 295 del PDF",
+   "Sabiston 21.ª ed., p. 294 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "En la foto el alumno marcó C. En el PDF del pretest 2024 (misma pregunta) el resaltado es B (neumonía nosocomial), que la evidencia no respalda."
+ },
+ {
+  "k": "d6a7a31452",
+  "estado": "dudosa",
+  "stem": "Mujer de 45 años con dolor y protrusión inguinal izquierda no reductible desde hace 6 h; luego se agregan febrícula, dolor abdominal intenso, vómitos y escasa diarrea. Hma: 7900, 0-65; glucosa: 120; creatinina: 0,7. ¿Cuál sería la hipótesis Dx más completa?",
+  "opts": [
+   "Hernia inguinal estrangulada",
+   "Hernia inguinal incarcerada con sepsis",
+   "Obstrucción intestinal alta por sigmoides atrapado",
+   "Obstrucción intestinal alta por íleon atrapado",
+   "Obstrucción intestinal baja por hernia inguinal"
+  ],
+  "ans": null,
+  "why": "Sabiston define la hernia incarcerada como irreducible y la estrangulada como aquella cuyo contenido no tiene perfusión suficiente; fiebre, taquicardia, leucocitosis o peritonitis sugieren estrangulamiento. El caso (irreducible 6 h, febrícula, dolor intenso, vómitos, leucocitos normales) es compatible tanto con hernia estrangulada (A) como con una obstrucción intestinal baja (de íleon) por hernia inguinal (E), que fue lo marcado por los alumnos. C y D son incorrectas (el sigmoides no produce obstrucción 'alta' y el íleon es intestino distal) y B no se sostiene: no hay datos de sepsis. Ninguna fuente define cuál es la 'hipótesis más completa', por lo que no se puede decidir entre A y E.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "En la foto el alumno marcó E; en el PDF del pretest 2024 el resaltado también es E."
+ },
+ {
+  "k": "5a39705874",
+  "estado": "dudosa",
+  "stem": "El signo de Klein se explica en el diagnóstico diferencial de la apendicitis aguda con la:",
+  "opts": [
+   "Apendicitis de localización pélvica",
+   "Colecistitis aguda",
+   "Apendicitis retrocecal",
+   "Linfadenitis mesentérica",
+   "Obstrucción intestinal por bridas"
+  ],
+  "ans": null,
+  "why": "El resaltado (D) corresponde a la descripción clásica: en la linfadenitis mesentérica el dolor se desplaza al poner al paciente en decúbito lateral izquierdo, porque los ganglios y el mesenterio son móviles. Sin embargo, ni Sabiston (tabla 46.1 de signos abdominales), ni Giménez, ni el ABSITE describen el signo de Klein, y en la web solo aparece en bancos de preguntas o en fuentes que lo confunden con el signo de Alder. Sin una fuente fiable, no se puede confirmar la clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1163 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "En la foto aparece resaltada la D (linfadenitis mesentérica), con la nota del alumno 'desplazamiento por ganglios y mesenterio son móviles'."
+ },
+ {
+  "k": "1aeda2c434",
+  "estado": "nueva",
+  "stem": "No es un estadio evolutivo habitual en la apendicitis:",
+  "opts": [
+   "Apendicitis catarral",
+   "Apendicitis fibrinosa",
+   "Apendicitis eosinofílica",
+   "Apendicitis purulenta",
+   "Apendicitis gangrenosa"
+  ],
+  "ans": 2,
+  "why": "Giménez clasifica la apendicitis aguda por estadio evolutivo en congestiva (catarral), flegmonosa (supurativa/purulenta, con exudado fibrinopurulento), gangrenosa y perforada. La apendicitis eosinofílica es una variante histológica de causa alérgica o parasitaria, no una fase de la evolución natural. Las demás opciones corresponden a fases de esa secuencia.",
+  "fuentes": [
+   "Giménez, Cirugía 2.ª ed., p. 694 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 686 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "En la foto aparece resaltada la C. Giménez no usa el término 'fibrinosa', que corresponde al exudado de la fase flegmonosa."
+ },
+ {
+  "k": "0f3fd666bb",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 54 años. La BAAF sugiere lesión ductal; en el core de 14G se evalúa invasión. ¿Qué inmunomarcador confirma mejor la integridad de la capa mioepitelial para distinguir DCIS de carcinoma invasor?",
+  "opts": [
+   "E-cadherina",
+   "p63",
+   "ER",
+   "GATA3",
+   "Ki-67"
+  ],
+  "ans": 1,
+  "why": "El CDIS conserva la capa de células mioepiteliales y la membrana basal (Sabiston), y el carcinoma invasor la pierde; p63 es un marcador nuclear de células mioepiteliales que se usa en paneles (con calponina y cadena pesada de miosina de músculo liso) para mostrar si esa capa existe. La E-cadherina distingue el carcinoma ductal del lobulillar, ER y GATA3 marcan el epitelio luminal y Ki-67 mide la proliferación: ninguno evalúa la capa mioepitelial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 852 del PDF",
+   "Dewar R et al. Best practices in diagnostic immunohistochemistry: myoepithelial markers in breast pathology. Arch Pathol Lab Med 2011 (PMID 21466356, vía Europe PMC)"
+  ],
+  "tema": "mama",
+  "nota": "Se quitó del enunciado la opción 'E. Malformación del seno urogenital' de la pregunta 1, pegada por el OCR, y se completaron las opciones C-E desde la foto."
+ },
+ {
+  "k": "e440645e99",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 45 años desarrolla \"ala de ángel\" tras disección axilar de niveles I-II. ¿Qué nervio se lesionó con mayor probabilidad?",
+  "opts": [
+   "Toracodorsal",
+   "Espinal accesorio (XI)",
+   "Intercostobraquial",
+   "N. torácico largo",
+   "N. pectoral medial"
+  ],
+  "ans": 3,
+  "why": "El nervio torácico largo (de Bell) recorre la pared medial de la axila e inerva el serrato anterior, que fija la escápula al tórax; su sección produce escápula alada ('ala de ángel'), por eso se preserva en la cirugía axilar (Sabiston). El toracodorsal inerva el dorsal ancho, el intercostobraquial es sensitivo (parestesia de la cara interna del brazo) y el pectoral medial inerva los pectorales. El espinal accesorio puede causar escápula alada, pero no está en el campo de una disección axilar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 834 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Se quitaron del enunciado las opciones 'C. Oxitocina D. Dopamina E. Cortisol' de la pregunta 3, pegadas por el OCR."
+ },
+ {
+  "k": "1ae7b792f6",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 52 años con carcinoma ductal infiltrante pT2N1 y nueva lesión hepática biopsiada positiva para metástasis. ¿Cuál es el estadio clínico actual?",
+  "opts": [
+   "IIA",
+   "IIB",
+   "IIIA",
+   "IIIC",
+   "IV"
+  ],
+  "ans": 4,
+  "why": "Una metástasis a distancia comprobada (M1, en este caso hepática) define el estadio IV, sean cuales sean la T y la N. pT2N1M0 correspondería a IIB, pero la metástasis hepática lo convierte en IV. Las demás opciones son estadios sin metástasis a distancia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 857 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 194 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Sin clave en el original."
+ },
+ {
+  "k": "fec7332e04",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 54 años. La BAAF sugiere lesión ductal; en el core de 14G se evalúa invasión. ¿Qué inmunomarcador confirma mejor la integridad de la capa mioepitelial para distinguir DCIS de carcinoma invasor?",
+  "opts": [
+   "E-cadherina",
+   "p63",
+   "ER",
+   "GATA3",
+   "Ki-67"
+  ],
+  "ans": 1,
+  "why": "El CDIS conserva la capa de células mioepiteliales y la membrana basal (Sabiston), y el carcinoma invasor la pierde; p63 es un marcador nuclear de células mioepiteliales que se usa en paneles (con calponina y cadena pesada de miosina de músculo liso) para mostrar si esa capa existe. La E-cadherina distingue el carcinoma ductal del lobulillar, ER y GATA3 marcan el epitelio luminal y Ki-67 mide la proliferación: ninguno evalúa la capa mioepitelial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 852 del PDF",
+   "Dewar R et al. Best practices in diagnostic immunohistochemistry: myoepithelial markers in breast pathology. Arch Pathol Lab Med 2011 (PMID 21466356, vía Europe PMC)"
+  ],
+  "tema": "mama",
+  "nota": "El OCR había mezclado opciones de la pregunta 3 (Estrógenos, Oxitocina, Dopamina); se repararon con las opciones A-E que se ven en la foto. Es la misma pregunta que 0f3fd666bb."
+ }
+]

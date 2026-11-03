@@ -1,0 +1,408 @@
+[
+ {
+  "k": "0e59bc9448",
+  "estado": "confirmada",
+  "stem": "Durante la inanición los combustibles preferibles por el músculo cardiaco y esquelético son:",
+  "opts": [
+   "Alanina e histidina",
+   "Aminoácidos de cadena ramificada",
+   "Arginina y nucleótidos",
+   "Lisina y metionina"
+  ],
+  "ans": 1,
+  "why": "Los aminoácidos de cadena ramificada (leucina, isoleucina y valina) son la excepción entre los aminoácidos: no se catabolizan en el hígado sino sobre todo en el músculo, que los oxida como fuente de energía; el nitrógeno resultante sale del músculo como alanina y glutamina hacia el hígado. La alanina, la arginina, los nucleótidos, la lisina y la metionina no son combustibles musculares característicos: la alanina es sustrato de la neoglucogénesis hepática y la arginina y los nucleótidos son inmunonutrientes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 124 del PDF",
+   "Sabiston 21.ª ed., p. 1465 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). Matiz: en la inanición prolongada el músculo usa sobre todo ácidos grasos y cuerpos cetónicos (Sabiston p. 123), pero entre las opciones dadas solo los AACR son combustible muscular.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "a84ce3246d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es un ácido graso poliinsaturado esencial omega-3? Es el ácido:",
+  "opts": [
+   "alfa-linolénico",
+   "gamma-linolénico",
+   "araquidónico",
+   "beta-linoleico"
+  ],
+  "ans": 0,
+  "why": "Los ácidos grasos ω-3 y ω-6 no pueden ser sintetizados por el organismo, por lo que son esenciales; los dos ácidos grasos esenciales son el linoleico (ω-6) y el alfa-linolénico (ω-3). El gamma-linolénico y el araquidónico son ω-6 derivados del linoleico, y el «beta-linoleico» no es un ácido graso esencial reconocido.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 125 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "nutricion"
+ },
+ {
+  "k": "29e87c1dba",
+  "estado": "dudosa",
+  "stem": "La pérdida más significativa de proteínas que ocurre durante una cirugía es debido a:",
+  "opts": [
+   "Infección",
+   "Hemorragia",
+   "Hipotermia",
+   "Hipertermia"
+  ],
+  "ans": null,
+  "why": "Sabiston describe el catabolismo proteico del paciente crítico y quirúrgico (degradación de masa magra impulsada por glucagón, catecolaminas y glucocorticoides en traumatismos, cirugía, quemaduras y sepsis), pero ninguno de los libros disponibles compara infección frente a hemorragia como causa de «la pérdida más significativa de proteínas durante una cirugía». La pregunta es además ambigua: una hemorragia pierde proteínas plasmáticas de forma directa, y la infección aumenta el catabolismo. Sin una fuente que lo decida, queda dudosa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 133 del PDF",
+   "Sabiston 21.ª ed., p. 557 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado), no verificable con los libros de la carpeta.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "20929c9e65",
+  "estado": "confirmada",
+  "stem": "Los sustratos preferidos para la neoglucogénesis hepática a partir de aminoácidos son:",
+  "opts": [
+   "Alanina y glutamina",
+   "Arginina y nucleótidos",
+   "Aminoácidos de cadena ramificada",
+   "Aminoácidos esenciales"
+  ],
+  "ans": 0,
+  "why": "La alanina es el aminoácido precursor más importante de la neoglucogénesis (ciclo glucosa-alanina) y la glutamina es el otro gran transportador de nitrógeno y carbono desde el músculo; ambas llegan al hígado para formar glucosa y urea. Los aminoácidos de cadena ramificada se metabolizan sobre todo en el músculo, no en el hígado. La arginina y los nucleótidos son inmunonutrientes, y «aminoácidos esenciales» es inespecífico (la leucina y la lisina, esenciales, solo son cetogénicas).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 124 del PDF",
+   "Sabiston 21.ª ed., p. 125 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "nutricion"
+ },
+ {
+  "k": "50e060c884",
+  "estado": "confirmada",
+  "stem": "Un varón de 35 años sufre quemaduras extensas tras una explosión doméstica. Ingresa a emergencia con compromiso hemodinámico, taquicardia y dificultad respiratoria. Durante la valoración primaria, el cirujano prioriza identificar lesiones asociadas y compromiso sistémico inmediato. ¿Cuál es el objetivo principal de la evaluación inicial en este paciente?",
+  "opts": [
+   "Calcular el tiempo estimado de cicatrización",
+   "Determinar la necesidad de injerto cutáneo",
+   "Identificar lesiones asociadas y compromiso vital",
+   "Cuantificar el dolor basal",
+   "Establecer secuelas funcionales"
+  ],
+  "ans": 2,
+  "why": "Como en cualquier traumatizado, la valoración inicial del quemado se divide en reconocimiento primario y secundario: primero se identifican y tratan rápidamente las condiciones que ponen en riesgo la vida (vía aérea, respiración, circulación) y, en víctimas de explosión, se buscan lesiones asociadas como fracturas o lesión medular. Cicatrización, injertos, dolor basal y secuelas son decisiones posteriores, no el objetivo de la evaluación inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514 del PDF",
+   "Sabiston 21.ª ed., p. 515 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). En la extracción, las opciones de esta pregunta (9) se habían reemplazado por las de la pregunta 10 (úlcera de Curling), que se separa en «dividir».",
+  "tema": "quemados",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Paciente crítico con quemaduras severas presenta hematemesis al quinto día de hospitalización. ¿Cuál complicación gastrointestinal es más probable?",
+    "opts": [
+     "Pancreatitis aguda",
+     "Colecistitis alitiásica",
+     "Úlcera de Curling",
+     "Peritonitis bacteriana",
+     "Colitis isquémica"
+    ],
+    "ans": 2,
+    "why": "La úlcera aguda de estrés asociada a quemaduras graves se denomina úlcera de Curling: se produce por isquemia de la mucosa gástrica en quemaduras extensas (más del 30% del ASCT) y se manifiesta con hemorragia digestiva alta. La pancreatitis, la colecistitis alitiásica, la peritonitis y la colitis isquémica no producen hematemesis como manifestación típica.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1180 del PDF",
+     "Sabiston 21.ª ed., p. 1240 del PDF"
+    ],
+    "nota": "Clave original: C (resaltado). Esta es la pregunta 10 del Segundo pasito, que en la extracción quedó pegada a la 9.",
+    "tema": "quemados"
+   }
+  ]
+ },
+ {
+  "k": "cfc575dd4b",
+  "estado": "confirmada",
+  "stem": "Paciente con lesión inhalatoria severa mantiene edema laríngeo prolongado y dependencia ventilatoria. ¿Cuál es la indicación más frecuente de traqueostomía en este contexto?",
+  "opts": [
+   "Secreciones abundantes",
+   "Fracaso ventilatorio inicial",
+   "Edema laríngeo persistente",
+   "Lesión bronquial distal",
+   "Prevención infecciosa"
+  ],
+  "ans": 2,
+  "why": "Sabiston indica intentar extubar al quemado lo antes posible y reservar la traqueostomía para los pacientes que probablemente necesitarán ventilación de larga duración, es decir, los que no se pueden extubar. En este caso, lo que impide retirar el tubo es la obstrucción alta por edema laríngeo persistente. El fracaso ventilatorio inicial se trata con intubación, no con traqueostomía. La traqueostomía no mejora la higiene de las secreciones respecto al paciente extubado, y la prevención de infecciones y la lesión bronquial distal no son indicaciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF",
+   "Sabiston 21.ª ed., p. 524 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). La extracción había cortado el enunciado; se reconstruyó desde el original.",
+  "tema": "quemados"
+ },
+ {
+  "k": "f6212fe5ab",
+  "estado": "confirmada",
+  "stem": "Paciente con quemadura eléctrica extensa presenta oliguria, elevación de creatinina y mioglobinuria. ¿Cuál es la complicación renal más probable?",
+  "opts": [
+   "Nefropatía diabética",
+   "Litiasis renal",
+   "Insuficiencia renal aguda por mioglobinuria",
+   "Síndrome nefrótico",
+   "Glomerulonefritis"
+  ],
+  "ans": 2,
+  "why": "En la lesión eléctrica el músculo es el tejido por el que más circula la corriente y el más dañado. La rabdomiólisis libera hemocromógenos (mioglobina) que precipitan en los túbulos y causan insuficiencia renal aguda; por eso se dan volúmenes extra, bicarbonato y manitol para mantener la diuresis. Las demás opciones son nefropatías crónicas o inmunológicas que no se relacionan con la quemadura.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF",
+   "Sabiston 21.ª ed., p. 526 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "quemados"
+ },
+ {
+  "k": "2437a3b19b",
+  "estado": "anulada",
+  "stem": "Paciente masculino de 30 años sufre incendio domiciliario. Presenta quemaduras de espesor completo parcial en tórax anterior completo, abdomen completo y miembro superior derecho completo. ¿Según la regla de los nueves de Wallace, cuál es el porcentaje estimado de superficie corporal quemada (SCQ) y cuál es la conducta inicial más adecuada?",
+  "opts": [
+   "27% SCQ - Manejo ambulatorio con curaciones",
+   "36% SCQ - Reposición hídrica inmediata con fórmula de Parkland",
+   "45% SCQ - Injerto inmediato",
+   "18% SCQ - Observación hospitalaria sin líquidos",
+   "54% SCQ - Escarectomía urgente"
+  ],
+  "ans": null,
+  "why": "Según la regla de los nueves, el tronco anterior completo (tórax + abdomen) vale 18% y un miembro superior 9%: la SCQ es 27%. Una quemadura del 27% del ASCT en un adulto requiere reposición intravenosa con fórmulas como la de Parkland (4 ml/kg/% ASCT) y manejo hospitalario. La opción A trae el porcentaje correcto con una conducta errónea (manejo ambulatorio), y la B trae la conducta correcta con un porcentaje erróneo (36%, que contaría el abdomen como 18%). Ninguna opción es correcta del todo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF",
+   "Sabiston 21.ª ed., p. 515 del PDF",
+   "Sabiston 21.ª ed., p. 516 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). Las anotaciones del alumno suman 9+18+9 = 36, lo que cuenta dos veces el abdomen. El enunciado además dice «espesor completo parcial», tal cual en el original.",
+  "tema": "quemados",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Varón de 25 años post laparotomía por apendicitis complicada y peritonitis generalizada: al cuarto día posoperatorio presenta distensión abdominal, náusea y vómitos. Examen: abdomen distendido y doloroso, RHA ausentes. SNG: 1000 ml de líquido verdoso. Electrolitos normales. ¿Cuál es el diagnóstico más probable?",
+    "opts": [
+     "Perforación intestinal",
+     "Obstrucción por bridas",
+     "Íleo paralítico",
+     "Síndrome de Ogilvie"
+    ],
+    "ans": 2,
+    "why": "El íleo posquirúrgico es la forma más frecuente de obstrucción intestinal funcional y se prolonga con la peritonitis y los estados infecciosos intraabdominales: distensión, vómitos, gran débito por SNG y ruidos hidroaéreos ausentes. La obstrucción mecánica por bridas cursa con ruidos aumentados o de lucha y suele ser más tardía. La perforación daría signos peritoneales nuevos y sepsis, y el síndrome de Ogilvie es una seudoobstrucción del colon en pacientes graves, típica tras cirugía ortopédica o cardíaca.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 286 del PDF",
+     "Sabiston 21.ª ed., p. 1282 del PDF"
+    ],
+    "nota": "Clave original: C (resaltado). Esta es la pregunta 14, que en la extracción quedó pegada a la 13.",
+    "tema": "complicaciones"
+   }
+  ]
+ },
+ {
+  "k": "0a0fce02a6",
+  "estado": "confirmada",
+  "stem": "Varón de 50 años, hospitalizado por neumonía aspirativa, en tratamiento con ceftriaxona y clindamicina; al décimo día de evolución presenta fiebre, dolor abdominal y diarreas líquidas con moco en 5 cámaras al día. Laboratorio: leucocitos 18000/µl. Colonoscopía: pared intestinal engrosada y presencia de pseudomembranas. ¿Cuál es el tratamiento indicado?",
+  "opts": [
+   "Ciprofloxacino",
+   "Cotrimoxazol",
+   "Levofloxacino",
+   "Vancomicina"
+  ],
+  "ans": 3,
+  "why": "Es una colitis seudomembranosa por Clostridioides difficile, desencadenada por clindamicina y cefalosporinas. Los fármacos de elección son la vancomicina oral (125 mg cada 6 h por 10 días) o la fidaxomicina, además de suspender el antibiótico causante. Las fluoroquinolonas (ciprofloxacino, levofloxacino) precipitan la infección y no la tratan, y el cotrimoxazol no tiene papel.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 293 del PDF",
+   "Sabiston 21.ª ed., p. 1381 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). La vancomicina debe darse por vía oral; la i.v. no llega al colon.",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "bd8c4e9f21",
+  "estado": "confirmada",
+  "stem": "Varón de 60 años que, en el 6.° día postoperatorio de perforación de cáncer de colon y peritonitis, presenta dolor en la herida operatoria y calor local. Examen: PA 120/60 mmHg, FR 20X', FC 80X'; herida suturada, eritematosa, tumefacta y fluctuante. ¿Cuál es la conducta a seguir?",
+  "opts": [
+   "Iniciar antibioticoterapia",
+   "Abrir herida y cultivo",
+   "Aspiración y cultivo",
+   "Reoperación"
+  ],
+  "ans": 1,
+  "why": "Es una infección superficial de la incisión con colección (fluctuación). Las heridas quirúrgicas infectadas deben abrirse para que drenen, con desbridamiento si hay tejido desvitalizado, y conviene cultivar el material. Los antibióticos se reservan para signos sistémicos (fiebre > 38,5 °C, FC > 110, leucocitosis > 12.000) o celulitis de más de 5 cm, que este paciente estable no tiene. La aspiración no drena de forma adecuada y la reoperación no está indicada en una infección superficial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 267 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). «critematosa» del original es una errata de «eritematosa».",
+  "tema": "iso"
+ },
+ {
+  "k": "11594c55a7",
+  "estado": "confirmada",
+  "stem": "En la estenosis del conducto colédoco como complicación postoperatoria, ¿cuál es la intervención quirúrgica indicada?",
+  "opts": [
+   "Coledocoduodenostomía",
+   "Colocación de dren de Kehr",
+   "Hepatoyeyunostomía en Y de Roux",
+   "Colédoco anastomosis término-terminal",
+   "Dilatación del colédoco vía endoscópica"
+  ],
+  "ans": 2,
+  "why": "Para restablecer un drenaje bilioentérico duradero tras una lesión o estenosis posquirúrgica de la vía biliar se prefiere resecar el segmento dañado y hacer una anastomosis mucosa-mucosa sin tensión a un asa yeyunal en Y de Roux, que sirve para lesiones en todo el árbol biliar. La coledocoduodenostomía queda a tensión y arriesga una fístula duodenal. La anastomosis término-terminal tiene alta tasa de reestenosis, y el tubo de Kehr no corrige la estenosis. La dilatación endoscópica es una alternativa no quirúrgica, de menor durabilidad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1536 del PDF",
+   "Sabiston 21.ª ed., p. 1537 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). El original escribe «dren de Kher»; el epónimo correcto es Kehr.",
+  "tema": "via-biliar"
+ },
+ {
+  "k": "7ec5a2520d",
+  "estado": "confirmada",
+  "stem": "Varón de 30 años en el postoperatorio de colecistectomía refiere dolor intenso en la herida operatoria y recibe un analgésico. Dos horas después cursa con convulsiones tónico-clónicas generalizadas. ¿Qué analgésico se relaciona con dicho efecto secundario?",
+  "opts": [
+   "Tramadol",
+   "Ketorolaco",
+   "Celecoxib",
+   "Meloxicam",
+   "Paracetamol"
+  ],
+  "ans": 0,
+  "why": "El tramadol, analgésico de acción central con efecto opioide e inhibición de la recaptación de serotonina y noradrenalina, baja el umbral convulsivo: la ficha técnica de la FDA advierte de convulsiones incluso a dosis recomendadas. Los AINE (ketorolaco, celecoxib, meloxicam) y el paracetamol no se asocian con convulsiones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 365 del PDF",
+   "FDA, ficha técnica de tramadol hidrocloruro, Warnings and Precautions: Seizure Risk (openFDA, https://api.fda.gov/drug/label.json?search=openfda.generic_name:tramadol)"
+  ],
+  "nota": "Clave original: A (resaltado). Sabiston describe el tramadol, pero no menciona las convulsiones; esa advertencia sale de la ficha de la FDA.",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "f383f899f5",
+  "estado": "confirmada",
+  "stem": "Varón de 58 años, operado hace 18 horas de colecistectomía abierta. Presenta fiebre de 38.2 °C. Examen: PA 120/70 mmHg, FC 88X', FR 22X'. Pulmones: murmullo vesicular disminuido en base derecha. Rx tórax: opacidad laminar basal derecha con elevación del hemidiafragma. ¿Cuál es la complicación postoperatoria más probable?",
+  "opts": [
+   "Neumonía aspirativa",
+   "Tromboembolismo pulmonar",
+   "Atelectasia postoperatoria",
+   "Derrame pleural paraneumónico"
+  ],
+  "ans": 2,
+  "why": "La atelectasia es la causa más frecuente de fiebre en el postoperatorio inmediato, sobre todo tras una cirugía abdominal alta. Cursa con taquipnea, murmullo disminuido y, en la radiografía, opacidades laminares con pérdida de volumen y elevación del hemidiafragma. La neumonía y el derrame paraneumónico aparecen más tarde y con infiltrado o nivel líquido. El TEP suele darse después de varios días, con taquicardia e hipoxemia desproporcionadas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 271 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "a992fb25b2",
+  "estado": "confirmada",
+  "stem": "Mujer de 66 años, sometida a reemplazo total de cadera hace 5 días. Presenta disnea de inicio súbito, dolor pleurítico en hemitórax derecho y hemoptisis escasa. Examen: FC 118X', FR 28X', SatO2 91%. Rx tórax: sin infiltrados. Dímero D: elevado. ¿Cuál es el examen para confirmar el diagnóstico?",
+  "opts": [
+   "Ecocardiograma transtorácico",
+   "Gammagrafía de ventilación-perfusión",
+   "Angiotomografía pulmonar",
+   "Eco-Doppler de miembros inferiores"
+  ],
+  "ans": 2,
+  "why": "Ante una sospecha alta de embolia pulmonar con dímero D elevado, la angiografía pulmonar por TC es el procedimiento de imagen de elección para confirmarla. La gammagrafía V/Q se reserva para cuando no se puede usar contraste. El ecocardiograma solo muestra signos indirectos de sobrecarga del ventrículo derecho, y el eco-Doppler diagnostica la TVP, no la embolia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 274 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). «clevado» del original es una errata de «elevado».",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "002-a1",
+  "agregada": true,
+  "despues_de": "a992fb25b2",
+  "estado": "confirmada",
+  "stem": "En un paciente diabético que utiliza insulina NPH (acción intermedia), ¿cuál es la recomendación estándar sobre la dosis la mañana de la cirugía mientras el paciente está en ayunas?",
+  "opts": [
+   "Omitir la dosis completa",
+   "Administrar el 25% de la dosis",
+   "Administrar el 50% de la dosis",
+   "Administrar la dosis completa habitual"
+  ],
+  "ans": 2,
+  "why": "La insulina de acción intermedia (NPH) se administra a la mitad de la dosis la mañana de la cirugía y se vuelve a la dosis normal cuando se reanuda la dieta. Omitirla expone a hiperglucemia y cetosis, y dar la dosis completa en ayunas arriesga hipoglucemia. El 25% no es la pauta estándar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 228 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). Esta pregunta (n.° 21 del Segundo pasito, p. 6) se perdió en la extracción y se agrega aquí.",
+  "tema": "eras"
+ },
+ {
+  "k": "75444e0564",
+  "estado": "dudosa",
+  "stem": "Paciente mujer de 47 años y 60 kg de peso, con diagnóstico de lesión de vía biliar con fuga biliar post colecistectomía laparoscópica. Fiebre: 38.5 °C. Diuresis: 1200 mL/24 h. Pérdidas por drenaje biliar: 900 mL/24 h. Hidratación endovenosa: SSN 0.9% a 100 mL/h por 24 h. (Balance hídrico)",
+  "opts": [
+   "+256 cc",
+   "+45 cc",
+   "-144 cc",
+   "-258 cc",
+   "-560 cc"
+  ],
+  "ans": null,
+  "why": "Ingresos: 2400 ml de SSN más el agua endógena. Egresos: 1200 ml de diuresis, 900 ml de drenaje biliar y las pérdidas insensibles aumentadas por la fiebre. El resultado depende por completo de la convención que se use para el agua endógena (300 ml o 5 ml/kg), las pérdidas insensibles (0,5 ml/kg/h o 10-15 ml/kg/día) y el ajuste por fiebre, y ninguno de los libros de la carpeta define esa convención. Con la convención más usada (5 ml/kg de agua endógena y 0,5 ml/kg/h de pérdidas insensibles, sin ajuste) el balance sería -120 ml, que no es una opción, y ninguna convención única reproduce a la vez esta clave (-258) y la de la pregunta siguiente (+464). Queda dudosa hasta conocer la fórmula que enseña el curso.",
+  "fuentes": [],
+  "nota": "Clave original: D (-258, resaltado). El texto extraído había perdido la mitad del enunciado y se reconstruyó desde el original, que no incluye una pregunta explícita.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "43460e90d1",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 58 años, 70 kg, sometido a una sigmoidectomía abierta por diverticulitis complicada de 4 horas de duración. Fiebre: 39 °C. Diuresis: 1400 mL/24 h. Drenaje intestinal: 500 ml. Ringer Lactato 3000 ml/24 h. Indique cuánto es el BHE:",
+  "opts": [
+   "+258 cc",
+   "+464 cc",
+   "-167 cc",
+   "-298 cc",
+   "+560 cc"
+  ],
+  "ans": null,
+  "why": "Ingresos: 3000 ml de Ringer más el agua endógena. Egresos: 1400 ml de diuresis, 500 ml de drenaje y las pérdidas insensibles con ajuste por fiebre de 39 °C. Con 5 ml/kg de agua endógena (350 ml) y 0,5 ml/kg/h de pérdidas insensibles (840 ml), sin ajuste por fiebre, el balance es +610 ml, que no es una opción. El +464 de la clave exige restar unos 146 ml por fiebre, con una regla que ningún libro de la carpeta respalda y que no coincide con la usada en la pregunta anterior. Sin la convención oficial del curso no se puede decidir.",
+  "fuentes": [],
+  "nota": "Clave original: B (+464, resaltado).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "1061b3b7dd",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 65 años, 70 kg, postoperado de laparotomía exploratoria de 4 horas, presenta diuresis de 400 ml en 24 horas, fiebre de 39 °C y drenaje nasogástrico de 800 ml. Recibió 3000 ml de Lactato de Ringer. ¿Cuál es el parámetro más importante para ajustar la reposición hídrica inicial?",
+  "opts": [
+   "Frecuencia respiratoria",
+   "Presión venosa central",
+   "Diuresis horaria",
+   "Osmolaridad plasmática",
+   "Hiponatremia severa"
+  ],
+  "ans": 2,
+  "why": "La diuresis horaria es el parámetro clínico estándar para guiar la reposición de volumen en el postoperatorio: se busca mantenerla en 0,5 ml/kg/h o más, y una cifra menor (aquí unos 0,24 ml/kg/h) indica hipoperfusión renal o lesión renal aguda. La PVC es un mal predictor de la respuesta a volumen. La frecuencia respiratoria y la osmolaridad no guían el ritmo de reposición, y la «hiponatremia severa» no es un parámetro de monitorización.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 282 del PDF",
+   "Sabiston 21.ª ed., p. 281 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). El texto extraído estaba cortado y se reconstruyó desde el original.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "79a2a87581",
+  "estado": "confirmada",
+  "stem": "Mujer de 70 años hospitalizada por neumonía desarrolla sodio sérico de 118 mEq/L, cefalea intensa, confusión y convulsiones. ¿Cuál es la complicación fisiopatológica más importante?",
+  "opts": [
+   "Hipoperfusión renal",
+   "Edema cerebral agudo",
+   "Hipovolemia periférica",
+   "Alcalosis metabólica",
+   "Hipercalcemia secundaria"
+  ],
+  "ans": 1,
+  "why": "En la hiponatremia aguda e intensa el agua entra en las neuronas por el gradiente osmótico y produce edema cerebral, que explica la cefalea, la confusión y las convulsiones. La hiponatremia sintomática con convulsiones debe corregirse rápido, con salino hipertónico, hasta que cedan. Las demás opciones no explican el cuadro neurológico ni son consecuencia directa de la hiponatremia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 418 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "liquidos"
+ }
+]

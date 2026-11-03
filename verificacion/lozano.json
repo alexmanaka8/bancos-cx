@@ -1,0 +1,2831 @@
+{
+ "87b2912354": {
+  "k": "87b2912354",
+  "estado": "confirmada",
+  "stem": "Se ha demostrado que el siguiente agente reduce clínicamente los efectos nocivos de los corticosteroides en la cicatrización de heridas:",
+  "opts": [
+   "Vitamina C",
+   "Vitamina A",
+   "Zinc",
+   "Cobre",
+   "Factor de crecimiento transformante β (TGF-β)"
+  ],
+  "ans": 1,
+  "why": "La vitamina A contrarresta los efectos inhibidores de los corticoides sobre la cicatrización (estimula la respuesta inflamatoria, la epitelización y la síntesis de colágeno), incluso en pacientes sin déficit. La vitamina C es cofactor de la hidroxilación de prolina y lisina, y el zinc y el cobre son oligoelementos necesarios, pero ninguno revierte el efecto de los esteroides. El TGF-β no tiene ese uso clínico demostrado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 493 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 498 del PDF",
+   "Sabiston 21.ª ed., p. 160 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ "97c00cf6da": {
+  "k": "97c00cf6da",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la cicatrización de heridas?",
+  "opts": [
+   "La angiogénesis es el principal contribuyente al eritema observado en las heridas.",
+   "El dolor en las primeras 48 horas es secundario a los fibroblastos recién activos que intentan contraer los bordes de la herida.",
+   "A las 48 horas, las células fagocíticas predominan en el lecho de la herida.",
+   "En las primeras 36 horas, los macrófagos son las células predominantes en el lecho de la herida.",
+   "Si bien el eritema y el dolor pueden ser normales, la induración suele ser patológica."
+  ],
+  "ans": 2,
+  "why": "En la fase inflamatoria los neutrófilos (fagocitos) llegan primero y predominan durante las primeras 48 h; luego son reemplazados por macrófagos. El eritema se debe a la vasodilatación y la infiltración de líquido y neutrófilos, no a la angiogénesis (A); el dolor temprano se debe a cambios de pH y destrucción tisular local, no a fibroblastos (B). Los macrófagos no predominan en las primeras 36 h (D), y la induración (edema) es parte normal de la inflamación (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ "167466f199": {
+  "k": "167466f199",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las heridas del pie diabético?",
+  "opts": [
+   "Los pacientes generalmente recuerdan la lesión que provocó que la herida no cicatrizara.",
+   "La deformidad del pie en esta población de pacientes puede aumentar significativamente la formación de úlceras.",
+   "La mayoría de estas úlceras se deben a isquemia.",
+   "Esta complicación es multifactorial y generalmente independiente de los niveles de glucosa en sangre.",
+   "Las heridas no infectadas no deben enyesarse porque limita la evaluación de la herida."
+  ],
+  "ans": 1,
+  "why": "La neuropatía diabética produce deformidades del pie que alteran su biomecánica y crean puntos de alta presión sobre prominencias óseas (cabezas metatarsianas, talón, interfalángicas), donde se forman las úlceras. Por la pérdida de sensibilidad protectora, el paciente no suele notar ni recordar el traumatismo (A). La causa principal es la neuropatía, no la isquemia (C). Es multifactorial, pero mantener la normoglucemia es parte de la prevención (D). El yeso de contacto total es el estándar de descarga en úlceras no infectadas (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1961 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 496 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ "7cb0cadfc1": {
+  "k": "7cb0cadfc1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la cicatrización de heridas?",
+  "opts": [
+   "La angiogénesis es la principal causa del eritema observado en las heridas.",
+   "El dolor en las primeras 48 horas se debe a fibroblastos activados que intentan contraer los bordes de la herida.",
+   "A las 48 horas, las células fagocíticas predominan en el lecho de la herida.",
+   "En las primeras 36 horas, los macrófagos son las células predominantes en el lecho de la herida.",
+   "Aunque el eritema y el dolor pueden ser normales, la induración es típicamente patológica."
+  ],
+  "ans": 2,
+  "why": "En la fase inflamatoria los neutrófilos (fagocitos) llegan primero y predominan durante las primeras 48 h; luego son reemplazados por macrófagos. El eritema se debe a la vasodilatación y la infiltración de líquido y neutrófilos, no a la angiogénesis (A); el dolor temprano se debe a cambios de pH y destrucción tisular local, no a fibroblastos (B). Los macrófagos no predominan en las primeras 36 h (D), y la induración (edema) es parte normal de la inflamación (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ "2a1cbc374e": {
+  "k": "2a1cbc374e",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la cicatrización de una anastomosis de intestino delgado?",
+  "opts": [
+   "Las fugas son menos frecuentes con anastomosis manual que con sutura mecánica.",
+   "Hay un mayor nivel de colagenasa en comparación con heridas cutáneas.",
+   "La serosa tiene un rol mínimo en la cicatrización de una anastomosis intestinal.",
+   "La submucosa proporciona la mayor parte de la resistencia del tubo digestivo.",
+   "Los colgajos omentales libres han demostrado mejorar los resultados en anastomosis de intestino delgado."
+  ],
+  "ans": null,
+  "why": "En la pregunta original (de Virgilio) la clave es D: la submucosa aporta la mayor parte de la fuerza tensil de la anastomosis. Pero en la versión en español la opción B dice \"mayor\" colagenasa, cuando el original dice \"decreased\". Así redactada, B también es verdadera: el libro explica que en el intestino la mayor actividad de colagenasa hace que la degradación supere al depósito de colágeno entre los días 3 y 5. Quedan dos opciones correctas. A es falsa: no hay diferencia concluyente entre la sutura manual y la mecánica. C es falsa: la serosa ayuda a sellar la anastomosis. E es falsa: un colgajo omental libre desvitalizado se necrosa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 498 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). La traducción invirtió el sentido de B (en inglés: \"decreased level of collagenase\"). Si se corrige el texto de B a \"menor nivel\", la respuesta es D.",
+  "tema": "cicatrizacion"
+ },
+ "e52d155eba": {
+  "k": "e52d155eba",
+  "estado": "confirmada",
+  "stem": "Cinco días después de la cirugía por apendicitis perforada, emanan heces líquidas de la herida del cuadrante inferior derecho. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta afección?",
+  "opts": [
+   "La mortalidad es alta para esta complicación.",
+   "La mayoría se cerrará espontáneamente.",
+   "El paciente debe recibir inmediatamente NPT.",
+   "Los trastornos de líquidos y electrolitos son comunes.",
+   "El paciente debe regresar inmediatamente al quirófano para la reparación quirúrgica."
+  ],
+  "ans": 1,
+  "why": "Es una fístula cecal (por deslizamiento de la ligadura o necrosis del muñón apendicular). Es de bajo débito y, con dieta baja en residuos, cierra espontáneamente hasta en el 75% de los casos, porque en el ciego la absorción ya está casi completa. Por eso no causa grandes pérdidas de líquidos ni electrolitos (D), no requiere NPT (C) y tiene mortalidad baja sin otras complicaciones (A). No se reopera de inmediato (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 467 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 472 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ "1e200cb798": {
+  "k": "1e200cb798",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años con insuficiencia renal secundaria a diabetes está programado para colocación de un injerto arteriovenoso de politetrafluoroetileno (PTFE) para acceso a hemodiálisis. ¿Cuál de las siguientes opciones describe mejor el uso de antibióticos profilácticos en este paciente?",
+  "opts": [
+   "No se indican antibióticos profilácticos",
+   "Una dosis de antibióticos la noche anterior a la cirugía y otra en el quirófano",
+   "Una dosis de antibióticos 1 hora antes de la cirugía",
+   "Una dosis de antibióticos justo antes de la incisión de piel",
+   "Administrar antibióticos al llamado a quirófano y continuar por 24 horas postoperatorias"
+  ],
+  "ans": 2,
+  "why": "Al implantar una prótesis permanente (injerto de PTFE), la profilaxis está indicada aunque la herida sea limpia (A es falsa). Basta una dosis única administrada en los 60 min previos a la incisión, para que haya niveles terapéuticos en suero y tejido al incidir. La dosis de la noche anterior es demasiado temprana (B). Darla justo al incidir no asegura niveles tisulares (D). Prolongarla en el posoperatorio no aporta beneficio (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF",
+   "Sabiston 21.ª ed., p. 234 del PDF"
+  ],
+  "nota": "Sabiston recomienda la primera dosis \"en los 60 min previos a la incisión\"; la opción C es la que expresa esa ventana.",
+  "tema": "iso"
+ },
+ "1e2bb4a4e4": {
+  "k": "1e2bb4a4e4",
+  "estado": "confirmada",
+  "stem": "Los antibióticos profilácticos están menos indicados en cuál de las siguientes situaciones:",
+  "opts": [
+   "Cirugía de úlcera duodenal en un paciente que recibe antagonistas de receptores H2",
+   "Hernia inguinal",
+   "Bypass aortobifemoral",
+   "Cirugía de mama",
+   "Colecistectomía por colelitiasis sintomática"
+  ],
+  "ans": 4,
+  "why": "En la colecistectomía (laparoscópica) electiva de bajo riesgo por colelitiasis sintomática, la guía recogida en el Sabiston no recomienda profilaxis. En cambio, la cirugía gastroduodenal en pacientes con pH gástrico elevado (por antagonistas H2 o IBP) es de alto riesgo y requiere profilaxis (A). La hernioplastia con malla (B) y la cirugía vascular con prótesis, como el bypass aortobifemoral (C), llevan cefazolina. En la cirugía de mama oncológica también se suele usar profilaxis (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 233 del PDF",
+   "Sabiston 21.ª ed., p. 235 del PDF"
+  ],
+  "nota": "Si la colecistectomía tiene factores de alto riesgo o es abierta, sí se indica profilaxis (Sabiston, nota l de la tabla 10.12). La clave asume el caso electivo de bajo riesgo.",
+  "tema": "iso"
+ },
+ "f460af7f17": {
+  "k": "f460af7f17",
+  "estado": "confirmada",
+  "stem": "Cuarenta y ocho horas después de una mastectomía total, una paciente de 30 años desarrolla fiebre alta, diarrea, vómitos, enrojecimiento generalizado de la piel e hipotensión. La incisión de la mastectomía parece sin alteraciones. Al día siguiente desarrolla descamación difusa. La etiología más probable es:",
+  "opts": [
+   "Clostridium perfringens",
+   "Clostridium difficile",
+   "Streptococcus β-hemolítico",
+   "Staphylococcus aureus",
+   "Staphylococcus epidermidis"
+  ],
+  "ans": 3,
+  "why": "Es un síndrome de shock tóxico de la herida quirúrgica: fiebre, diarrea, vómitos, eritrodermia e hipotensión en las primeras 48 h, seguidos de descamación difusa, a menudo con una herida de aspecto normal. En la mayoría de los casos lo causan cepas de S. aureus productoras de TSST-1 o de enterotoxinas B o C. S. pyogenes lo causa raramente (C). Clostridium y S. epidermidis no se asocian con este cuadro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 428 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 432 del PDF"
+  ],
+  "tema": "iso"
+ },
+ "da71bcecb9": {
+  "k": "da71bcecb9",
+  "estado": "confirmada",
+  "stem": "La bacteriemia por cuál de los siguientes organismos se asocia con cáncer de colon:",
+  "opts": [
+   "Streptococcus bovis",
+   "C. difficile",
+   "S. aureus resistente a meticilina",
+   "Helicobacter pylori",
+   "Streptococcus viridans"
+  ],
+  "ans": 0,
+  "why": "La bacteriemia o endocarditis por el complejo Streptococcus bovis/equinus (S. gallolyticus) se asocia de forma bien establecida con neoplasia colorrectal. Por eso, ante ella se indica colonoscopia. C. difficile causa colitis pero no bacteriemia asociada a cáncer. H. pylori se relaciona con cáncer gástrico y linfoma MALT, no con cáncer de colon. SARM y S. viridans no tienen esta asociación.",
+  "fuentes": [
+   "Open Forum Infectious Diseases 2023, revisión sistemática y metaanálisis \"Association of the Streptococcus bovis/Streptococcus equinus Complex With Colorectal Neoplasia\" (PMID 38023558)"
+  ],
+  "nota": "No se encontró el dato en los libros de la carpeta; la fuente es un metaanálisis indexado en PubMed.",
+  "tema": "colon"
+ },
+ "815d3cd6ef": {
+  "k": "815d3cd6ef",
+  "estado": "dudosa",
+  "stem": "Se debe sospechar síndrome compartimental abdominal cuando la presión vesical supera:",
+  "opts": [
+   "10 cm H2O",
+   "25 cm H2O",
+   "35 cm H2O",
+   "40 cm H2O",
+   "45 cm H2O"
+  ],
+  "ans": null,
+  "why": "Los libros definen el síndrome compartimental abdominal en mmHg: presión intraabdominal sostenida mayor de 20 mmHg con disfunción orgánica nueva. Según Sabiston, los grados III (21-25 mmHg) y IV (más de 25 mmHg) definen el SCA. Pasado a cm H2O (1 mmHg ≈ 1,36 cm H2O), 20 mmHg son unos 27 cm H2O. Las opciones en cm H2O no coinciden con ese umbral: 25 cm H2O equivale a unos 18 mmHg y 35 cm H2O a unos 26 mmHg. Ninguna fuente disponible fija un umbral en cm H2O que permita elegir con seguridad entre B y C.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 574 del PDF",
+   "Sabiston 21.ª ed., p. 1165 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 246 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). Es probable que venga de una gradación antigua expresada en cm H2O, pero no se pudo comprobar con una fuente fiable.",
+  "tema": "complicaciones"
+ },
+ "df53363270": {
+  "k": "df53363270",
+  "estado": "confirmada",
+  "stem": "El aminoácido más importante utilizado por el hígado para la gluconeogénesis es:",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Asparagina"
+  ],
+  "ans": 2,
+  "why": "La alanina es el principal precursor aminoacídico de la gluconeogénesis hepática (ciclo glucosa-alanina): el músculo la libera y el hígado la convierte en piruvato y luego en glucosa. La glutamina la usa sobre todo el riñón cuando se agota la alanina hepática (A). Serina, tirosina y asparagina no son sustratos relevantes en este contexto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF",
+   "Sabiston 21.ª ed., p. 124 del PDF"
+  ],
+  "tema": "nutricion"
+ },
+ "8a8c77231e": {
+  "k": "8a8c77231e",
+  "estado": "confirmada",
+  "stem": "El tratamiento inicial recomendado del melanoma del canal anal es:",
+  "opts": [
+   "Resección abdominoperineal (APR)",
+   "Escisión local amplia",
+   "Escisión local amplia con disección de ganglios linfáticos regionales",
+   "Radioterapia",
+   "Radioterapia y quimioterapia"
+  ],
+  "ans": 1,
+  "why": "El tratamiento inicial del melanoma anal es quirúrgico. Un metaanálisis no mostró ventaja de supervivencia por estadio de la APR sobre la escisión local amplia (A), así que se recomienda la escisión local amplia. La linfadenectomía no mejora la supervivencia y añade morbilidad (C). La radioterapia y la quimioterapia solo se consideran como adyuvantes (D, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "ea412280d4": {
+  "k": "ea412280d4",
+  "estado": "confirmada",
+  "stem": "El sangrado rectal por proctitis por radiación crónica que no responde a enemas de sucralfato se maneja mejor con:",
+  "opts": [
+   "Coagulación por plasma de argón",
+   "Colostomía de derivación",
+   "Enemas de esteroides",
+   "APR",
+   "Proctectomía"
+  ],
+  "ans": 0,
+  "why": "Las guías de la ASCRS citadas en Sabiston recomiendan para la hemorragia por proctitis rádica crónica la formalina al 4-10%, los enemas de sucralfato, el oxígeno hiperbárico y el tratamiento endoscópico con coagulación con plasma de argón, que es eficaz aunque causa fístulas o estenosis en alrededor del 3%. La derivación y la resección (B, D, E) se reservan para casos refractarios por su morbilidad. Los enemas de esteroides no son el tratamiento de elección del sangrado (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1188 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "4d1bca3a64": {
+  "k": "4d1bca3a64",
+  "estado": "confirmada",
+  "stem": "La causa más común de fístula rectovaginal es:",
+  "opts": [
+   "Carcinoma de recto",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Absceso perianal",
+   "Radiación"
+  ],
+  "ans": 2,
+  "why": "La fístula rectovaginal se debe con más frecuencia a una lesión obstétrica: desgarro perineal de tercer o cuarto grado o episiotomía, sobre todo en primigestas. Otras causas son la enfermedad inflamatoria intestinal (más Crohn que CUCI), el carcinoma de recto, la radioterapia pélvica y, raramente, los abscesos perianales.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 176 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 180 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "f0dd1931b1": {
+  "k": "f0dd1931b1",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el tratamiento médico con mayor tasa de curación de fisura anal crónica?",
+  "opts": [
+   "Fibras y ablandadores",
+   "Nitroglicerina tópica",
+   "Diltiazem tópico",
+   "Betanecol tópico",
+   "Toxina botulínica"
+  ],
+  "ans": null,
+  "why": "Las fuentes no muestran que un tratamiento médico cure claramente más que los otros. Según de Virgilio (con la guía ASCRS 2017), la toxina botulínica tiene una eficacia similar a la nitroglicerina como primera línea, y los nitratos no superan al diltiazem. Sabiston solo describe un aumento \"moderado\" de la cicatrización con toxina botulínica como segunda línea (65% combinada con diltiazem). La esfinterotomía lateral interna, que es quirúrgica, es la que tiene la mayor tasa de curación (88-100%).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF",
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "Sabiston 21.ª ed., p. 1432 del PDF"
+  ],
+  "nota": "Clave original: E (toxina botulínica, resaltado). La evidencia muestra eficacia comparable entre la toxina botulínica, la nitroglicerina y el diltiazem.",
+  "tema": "anorrectal"
+ },
+ "11736d207f": {
+  "k": "11736d207f",
+  "estado": "confirmada",
+  "stem": "Causa bacteriana más común de proctitis:",
+  "opts": [
+   "Chlamydia trachomatis",
+   "Neisseria gonorrhoeae",
+   "Treponema pallidum",
+   "Haemophilus ducreyi",
+   "Shigella"
+  ],
+  "ans": 1,
+  "why": "La proctitis bacteriana suele ser una infección de transmisión sexual asociada al coito anal, y N. gonorrhoeae es su causa bacteriana más común. Le sigue Chlamydia, que da menos síntomas (A). T. pallidum, H. ducreyi y Shigella son causas poco frecuentes (C-E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 182 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "87dc02cf44": {
+  "k": "87dc02cf44",
+  "estado": "confirmada",
+  "stem": "Enfermedad de Hirschsprung en adultos:",
+  "opts": [
+   "No ocurre",
+   "No se asocia a mutación RET",
+   "Se diagnostica mejor con enema baritado",
+   "Requiere resección tipo pull-through",
+   "Puede tratarse con miomectomía anorrectal"
+  ],
+  "ans": 4,
+  "why": "En el adulto, la enfermedad de Hirschsprung suele ser de segmento corto, y la miomectomía anorrectal es una opción terapéutica válida. Es rara, pero existe (A), y puede asociarse a la mutación RET (B). El diagnóstico es por biopsia rectal que demuestra aganglionosis: el enema baritado puede pasar por alto un segmento corto (C). Los descensos tipo pull-through (Soave, Duhamel) se reservan para niños o segmentos largos (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "7a34cf5adc": {
+  "k": "7a34cf5adc",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años se presenta con una masa en la ingle izquierda que es dolorosa de forma intermitente. La masa protruye al hacer esfuerzo y se reduce cuando está en posición supina. De pie, hay una masa evidente en el escroto izquierdo que protruye desde el anillo inguinal interno y se hace más prominente al toser. Se recomienda cirugía electiva. En la cirugía, la pared posterior del saco herniario se siente muy engrosada y es consistente con una posible hernia deslizante. ¿Cuál de las siguientes afirmaciones es verdadera respecto a este tipo de hernia?",
+  "opts": [
+   "Se debe hacer todo intento para resecar todo el saco",
+   "Tiene mayor riesgo de lesión colónica durante la reparación",
+   "Es más común en el lado derecho",
+   "Se asocia más frecuentemente con hernias inguinales directas",
+   "El saco herniario debe dividirse en el anillo inguinal interno"
+  ],
+  "ans": 1,
+  "why": "En la hernia por deslizamiento, una víscera (con más frecuencia el colon, aquí el sigmoides por ser izquierda, o la vejiga) forma parte de la pared del saco. El principal peligro es no reconocer ese componente visceral y lesionarlo, por eso hay mayor riesgo de lesión colónica. Por la misma razón no se intenta resecar todo el saco ni dividirlo en el anillo interno: se reduce el contenido y solo se secciona el saco sobrante (A, E). La mayoría son variantes de hernias indirectas, no directas (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1142 del PDF"
+  ],
+  "nota": "La opción C (lateralidad) no se pudo verificar en los libros, pero no cambia la respuesta.",
+  "tema": "hernias"
+ },
+ "eed5c26811": {
+  "k": "eed5c26811",
+  "estado": "confirmada",
+  "stem": "Una mujer de 66 años acude a su médico de cabecera por dolor intermitente en la ingle izquierda que ha ocurrido en los últimos meses. En el examen físico, se palpa una masa blanda en la ingle izquierda, por debajo del ligamento inguinal y cerca del pulso femoral. A la palpación, la masa es blanda, ligeramente dolorosa y desaparece con compresión suave. ¿Cuál de las siguientes afirmaciones es verdadera respecto a este tipo de hernias?",
+  "opts": [
+   "Son el tipo de hernia más común en mujeres",
+   "El riesgo de estrangulación es relativamente bajo",
+   "El saco herniario viaja lateral a la vena femoral",
+   "Si se descubre incidentalmente y el paciente está asintomático, no está indicada la reparación",
+   "Se asocia con mujeres multíparas"
+  ],
+  "ans": 4,
+  "why": "Es una hernia femoral, con predominio femenino de casi 10:1 y típica de mujeres mayores y multíparas. Las demás opciones están refutadas por las fuentes. Aunque es más frecuente en mujeres, la hernia más común en ellas sigue siendo la inguinal indirecta (A). Tiene la tasa de estrangulación más alta de todas las hernias, 15-20% (B), por lo que se repara siempre que se diagnostica, aunque sea asintomática (D). El saco pasa medial a la vena femoral (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1131 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF"
+  ],
+  "nota": "La asociación con la multiparidad no aparece explícita en los libros de la carpeta. La clave se sostiene porque las fuentes refutan A-D.",
+  "tema": "hernias"
+ },
+ "f4c5f96233": {
+  "k": "f4c5f96233",
+  "estado": "confirmada",
+  "stem": "Una mujer de 30 años se recupera de una colecistectomía abierta en el hospital. Al segundo día postoperatorio, empieza a quejarse de dolor abdominal tipo cólico sin vómitos. No tiene antecedentes médicos o quirúrgicos previos, y su evolución postoperatoria ha sido normal. Está recibiendo hidrocodona por vía oral para el dolor y está en dieta líquida clara. Tiene una temperatura de 99.5 °F, TA de 128/84 mmHg, y pulso de 82/min. El examen físico revela ruidos intestinales ausentes, abdomen levemente distendido y con dolor difuso leve sin rebote ni defensa. ¿Cuál de las siguientes intervenciones beneficiaría más sus hallazgos abdominales?",
+  "opts": [
+   "Estimular la deambulación",
+   "Colocación de una sonda nasogástrica",
+   "Neostigmina",
+   "Cambiar la hidrocodona por un AINE",
+   "Regresar a quirófano para exploración"
+  ],
+  "ans": 3,
+  "why": "Es un íleo posoperatorio, y los opioides lo prolongan. Reducir los opioides y usar AINE como el ketorolaco acorta la duración del íleo, y Sabiston cita los AINE como alternativa a los opioides. La deambulación precoz y la sonda nasogástrica rutinaria no han demostrado acelerar su resolución, y la paciente no vomita (A, B). La neostigmina se usa en la pseudoobstrucción colónica aguda (síndrome de Ogilvie), no en el íleo simple (C). No hay signos de complicación que justifiquen reoperar (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 148 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ "2b1415af94": {
+  "k": "2b1415af94",
+  "estado": "confirmada",
+  "stem": "Un hombre sin hogar de 55 años con esquizofrenia llega a urgencias con dolor abdominal y vómitos. Refiere que el dolor comenzó ayer y ha empeorado. Está afebril, TA 122/86 mmHg y FC 116/min. Vomita contenido verde sin sangre. Su última evacuación fue hace 48 horas. El examen físico revela una cicatriz grande en el cuadrante superior derecho. El abdomen está distendido, con ruidos intestinales hiperactivos, timpánico a la percusión, con dolor difuso leve y sin rebote ni defensa. Leucocitos: 9 ×10³/μL. Una serie abdominal muestra asas intestinales dilatadas con múltiples niveles hidroaéreos. Tras la reanimación con líquidos, ¿cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Aspiración por sonda nasogástrica",
+   "Laparoscopía",
+   "Laparotomía exploradora por línea media",
+   "Eritromicina intravenosa",
+   "Tomografía abdominal"
+  ],
+  "ans": 0,
+  "why": "Es una obstrucción de intestino delgado por adherencias (cirugía previa) sin signos de estrangulación: está afebril, sin leucocitosis y sin peritonitis. Tras los líquidos IV, la descompresión con sonda nasogástrica es el estándar del manejo conservador: vacía el estómago, reduce el riesgo de aspiración y limita la distensión. La cirugía, laparoscópica o abierta, se reserva para estrangulación, peritonitis o fracaso del manejo conservador (B, C). Los procinéticos como la eritromicina están contraindicados en la obstrucción (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 144 del PDF"
+  ],
+  "nota": "La TC (E) es útil para localizar la transición y buscar estrangulación. Sabiston advierte que, si el diagnóstico ya está hecho por la clínica y la radiografía, no debe retrasar el tratamiento. La sonda nasogástrica es el paso inmediato en este caso no complicado.",
+  "tema": "intestino"
+ },
+ "216f59da70": {
+  "k": "216f59da70",
+  "estado": "confirmada",
+  "stem": "Una semana después de una reparación abierta de una gran hernia escrotal derecha, un hombre de 45 años regresa por dolor severo en el testículo derecho. Al examen, el testículo está levemente hinchado y muy sensible a la palpación. Un estudio Doppler demuestra ausencia de flujo en el testículo derecho y flujo normal en el izquierdo. ¿Cuál de las siguientes afirmaciones es correcta?",
+  "opts": [
+   "Usualmente es debido a trombosis del plexo pampiniforme",
+   "Se recomienda exploración urgente del testículo derecho",
+   "Probablemente se deba a sección de la arteria testicular",
+   "Representa torsión testicular",
+   "El testículo probablemente quedará permanentemente agrandado"
+  ],
+  "ans": 0,
+  "why": "Es una orquitis isquémica: según el Sabiston, \"suele deberse a trombosis de las pequeñas venas del plexo pampiniforme\", con congestión venosa del testículo, que se inflama y duele a los 2-5 días de la cirugía. Su factor de riesgo principal es la disección extensa del cordón, como al resecar el saco distal de una hernia escrotal grande. El manejo es expectante, con antiinflamatorios y analgésicos; la reexploración no ayuda (B). La arteria testicular tiene colaterales (deferencial, cremastérica), así que su ligadura rara vez es la causa (C). No es una torsión (D), y la evolución habitual es hacia la atrofia, no hacia un agrandamiento permanente (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1143 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "14318ca281": {
+  "k": "14318ca281",
+  "estado": "confirmada",
+  "stem": "El sangrado persistente potencialmente mortal en un paciente con hemofilia A con altos títulos de inhibidores (aloanticuerpos del factor VIII) se trata mejor con:",
+  "opts": [
+   "Una dosis más alta de factor VIII",
+   "Plasma fresco congelado",
+   "Crioprecipitado",
+   "Factor VIIa recombinante",
+   "DDAVP (desmopresina)"
+  ],
+  "ans": 3,
+  "why": "Los inhibidores neutralizan el factor VIII administrado, de modo que se necesitan agentes de \"bypass\" que eludan la vía intrínseca: factor VIIa recombinante o concentrado de complejo protrombínico activado (Sabiston). Más factor VIII no supera los anticuerpos (A). El plasma y el crioprecipitado aportan factor VIII, que también queda neutralizado, y muy poco factor VII (B, C). La DDAVP solo libera factor VIII endógeno y vWF, lo que es inútil frente a inhibidores de título alto (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 225 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 487 del PDF"
+  ],
+  "tema": "hemostasia"
+ },
+ "1f63d9f9e6": {
+  "k": "1f63d9f9e6",
+  "estado": "confirmada",
+  "stem": "¿A qué nivel se deben aumentar los niveles de los factores VIII y IX antes de una cirugía mayor en un hemofílico?",
+  "opts": [
+   "10%",
+   "30%",
+   "50%",
+   "75%",
+   "100%"
+  ],
+  "ans": 4,
+  "why": "Antes de una cirugía mayor, el factor deficitario (VIII en la hemofilia A, IX en la B) debe reponerse hasta cerca del 100% de lo normal. Así lo indican la tabla de hemoderivados del de Virgilio (\"Transfuse to 100% normal factor VIII levels before major surgery\", y lo mismo para el IX) y su explicación del factor IX recombinante. El Sabiston indica administrar los concentrados 10-20 min antes de la incisión y mantener los niveles después. Los valores del 10% al 75% son insuficientes para cirugía mayor; niveles del 30-50% se usan en sangrados menores.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 479 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 487 del PDF",
+   "Sabiston 21.ª ed., p. 225 del PDF"
+  ],
+  "tema": "hemostasia"
+ },
+ "55188e4711": {
+  "k": "55188e4711",
+  "estado": "confirmada",
+  "stem": "La prueba de laboratorio más útil para evaluar tanto el riesgo de sangrado como la respuesta al tratamiento en pacientes con uremia es:",
+  "opts": [
+   "Tiempo de sangrado",
+   "Recuento plaquetario",
+   "INR",
+   "TTPa",
+   "Tiempo de trombina"
+  ],
+  "ans": 0,
+  "why": "En la uremia, la hemorragia se debe sobre todo a disfunción plaquetaria (adhesión y agregación alteradas, defecto funcional del vWF); los factores de coagulación y el recuento plaquetario suelen ser normales. Por eso, el tiempo de sangría, que mide la función plaquetaria primaria, es la prueba clásica para estimar el riesgo de sangrado y la respuesta a la DDAVP, los estrógenos o la diálisis. La revisión de Am J Med Sci de 1998 lo dice textualmente: \"The most useful clinical laboratory test to assess both bleeding risk and response to therapy is bleeding time\". El recuento plaquetario no mide la función de las plaquetas, y el INR, el TTPa y el tiempo de trombina exploran la cascada de coagulación, que no es el defecto principal en la uremia.",
+  "fuentes": [
+   "Uremic bleeding: pathogenesis and therapy. Am J Med Sci. 1998 (PMID 9704663), resumen en Europe PMC (https://europepmc.org/abstract/MED/9704663)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 488 del PDF"
+  ],
+  "tema": "hemostasia",
+  "nota": "El de Virgilio (p. 488-489) confirma que el defecto urémico es plaquetario (vWF) y que se trata con DDAVP, pero no trae esta pregunta; la clave se apoya en la revisión citada."
+ },
+ "33c9746b57": {
+  "k": "33c9746b57",
+  "estado": "confirmada",
+  "stem": "La prueba de laboratorio más útil para evaluar tanto el riesgo de sangrado como la respuesta al tratamiento en pacientes con uremia es:",
+  "opts": [
+   "Tiempo de sangría",
+   "Recuento de plaquetas",
+   "INR",
+   "aPTT",
+   "Tiempo de trombina"
+  ],
+  "ans": 0,
+  "why": "En la uremia, la hemorragia se debe sobre todo a disfunción plaquetaria (adhesión y agregación alteradas, defecto funcional del vWF); los factores de coagulación y el recuento plaquetario suelen ser normales. Por eso, el tiempo de sangría, que mide la función plaquetaria primaria, es la prueba clásica para estimar el riesgo de sangrado y la respuesta a la DDAVP, los estrógenos o la diálisis. La revisión de Am J Med Sci de 1998 lo dice textualmente: \"The most useful clinical laboratory test to assess both bleeding risk and response to therapy is bleeding time\". El recuento plaquetario no mide la función de las plaquetas, y el INR, el TTPa y el tiempo de trombina exploran la cascada de coagulación, que no es el defecto principal en la uremia.",
+  "fuentes": [
+   "Uremic bleeding: pathogenesis and therapy. Am J Med Sci. 1998 (PMID 9704663), resumen en Europe PMC (https://europepmc.org/abstract/MED/9704663)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 488 del PDF"
+  ],
+  "tema": "hemostasia",
+  "nota": "El de Virgilio (p. 488-489) confirma que el defecto urémico es plaquetario (vWF) y que se trata con DDAVP, pero no trae esta pregunta; la clave se apoya en la revisión citada."
+ },
+ "d447f966e2": {
+  "k": "d447f966e2",
+  "estado": "confirmada",
+  "stem": "En el contexto de trauma, la ligadura es mejor tolerada en cuál de los siguientes vasos:",
+  "opts": [
+   "Vena cava superior",
+   "Arteria subclavia",
+   "Arteria braquial",
+   "Vena porta",
+   "Vena cava inferior suprarrenal"
+  ],
+  "ans": 1,
+  "why": "Por la rica circulación colateral alrededor del hombro, la ligadura de la arteria subclavia se tolera bien; de hecho, se ocluye a menudo durante el stent de la aorta torácica. La ligadura de la vena cava superior produce un síndrome de vena cava superior agudo (A). La vena cava inferior suprarrenal compromete el drenaje de ambos riñones o causa un Budd-Chiari agudo (E). La vena porta lleva el 75% del flujo hepático y su ligadura tiene mayor mortalidad (D). La arteria braquial es de las que siempre deben repararse (C).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ "0daff67327": {
+  "k": "0daff67327",
+  "estado": "confirmada",
+  "stem": "La exposición quirúrgica es más difícil para cuál de los siguientes vasos:",
+  "opts": [
+   "Arteria innominada",
+   "Arteria subclavia derecha proximal",
+   "Arteria subclavia izquierda proximal",
+   "Arteria carótida común izquierda proximal",
+   "Arteria vertebral proximal"
+  ],
+  "ans": 2,
+  "why": "La subclavia izquierda nace de la parte posterior del cayado aórtico, en la profundidad del mediastino superior, y su porción proximal queda mal expuesta por la esternotomía media. Según el Sabiston, el tronco braquiocefálico (innominada), la subclavia derecha y las carótidas proximales se abordan por esternotomía (A, B, D), mientras que \"el control proximal de la arteria subclavia izquierda se logra mejor a través de una toracotomía posterolateral\" o anterolateral en el tercer espacio, es decir, con una vía aparte. La vertebral proximal se expone por una incisión supraclavicular (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1826 del PDF",
+   "Sabiston 21.ª ed., p. 431 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "La tabla de incisiones del de Virgilio (p. 249) incluye la subclavia izquierda proximal entre las estructuras accesibles por esternotomía. Aun así, el Sabiston señala la toracotomía como el mejor acceso y la considera la de exposición más compleja."
+ },
+ "8d325cd7d0": {
+  "k": "8d325cd7d0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre el síndrome compartimental?",
+  "opts": [
+   "Para descomprimir el compartimento posterior profundo de la pierna, es necesario desprender el músculo sóleo de la tibia.",
+   "Se requiere una presión compartimental mayor de 45 mm Hg para hacer el diagnóstico.",
+   "El compartimento lateral es el más comúnmente afectado en la pierna.",
+   "Un signo temprano del compromiso del compartimento anterior es la hipoestesia plantar.",
+   "No ocurre en los glúteos."
+  ],
+  "ans": 0,
+  "why": "El compartimento posterior profundo es el que con más frecuencia queda mal descomprimido, y contiene el nervio tibial. Para abrirlo hay que desprender el sóleo de la tibia. No hay un umbral absoluto de presión: se considera la fasciotomía con presiones >30 mm Hg o con un gradiente (presión diastólica menos presión compartimental) <30 mm Hg (B). El compartimento anterior es el que se afecta primero (C), y su signo temprano es la hipoestesia del primer espacio interdigital dorsal por el nervio peroneo profundo, no de la planta (D). Se ha descrito síndrome compartimental en glúteos, hombros y manos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 270 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Las opciones C y D, cortadas en el texto extraído, se completaron desde el original (p. 56)."
+ },
+ "1ed476d316": {
+  "k": "1ed476d316",
+  "estado": "confirmada",
+  "stem": "En el contexto de trauma, ¿la ligadura es mejor tolerada en cuál de los siguientes vasos?",
+  "opts": [
+   "Vena renal derecha",
+   "Vena renal izquierda",
+   "Arteria braquial",
+   "Arteria poplítea",
+   "Vena cava inferior suprarrenal"
+  ],
+  "ans": 1,
+  "why": "La vena renal izquierda puede ligarse cerca de la cava porque el riñón sigue drenando por las venas suprarrenal, gonadal y lumbares (iliolumbar); esto se hace incluso en la cirugía abierta del aneurisma aórtico. La vena renal derecha no tiene esas colaterales, y su ligadura deja al riñón sin drenaje (A). La vena cava inferior suprarrenal compromete ambos riñones (E). Las arterias braquial y poplítea siempre deben repararse o recibir un shunt (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ "9068b541bb": {
+  "k": "9068b541bb",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al síndrome compartimental?",
+  "opts": [
+   "Se debe despegar el músculo sóleo de la tibia",
+   "Es necesario una presión compartimental mayor a 45 mm Hg para hacer el diagnóstico",
+   "El compartimento lateral es el más afectado con mayor frecuencia en la pierna",
+   "Un signo temprano de afectación del compartimento anterior es entumecimiento en la planta del pie",
+   "No ocurre en los glúteos"
+  ],
+  "ans": 0,
+  "why": "Para descomprimir el compartimento posterior profundo, que es el que más a menudo queda mal liberado y contiene el nervio tibial, hay que despegar el sóleo de la tibia. No existe un umbral absoluto de presión: se usa >30 mm Hg o un gradiente diastólico <30 mm Hg, junto con la clínica (B). El compartimento anterior es el primero en afectarse (C), y su signo temprano es la hipoestesia del primer espacio interdigital (nervio peroneo profundo), no de la planta (D). También ocurre en glúteos, hombros y manos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 270 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ "24bb6f049c": {
+  "k": "24bb6f049c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la fibrosis retroperitoneal?",
+  "opts": [
+   "Tiene origen infeccioso",
+   "Está relacionada con el uso de metisergida",
+   "La velocidad de sedimentación globular suele ser normal",
+   "La pielografía intravenosa es el estudio diagnóstico de elección",
+   "La desviación lateral de los uréteres es característica"
+  ],
+  "ans": 1,
+  "why": "Alrededor del 70% de los casos son idiopáticos (enfermedad de Ormond). El 30% restante se asocia a fármacos, sobre todo alcaloides del cornezuelo como la metisergida, y a agonistas dopaminérgicos (Sabiston). No es primariamente infecciosa (A). Los reactantes de fase aguda, como la VSG y la PCR, están elevados en el 80-100% de los casos (C). El estudio inicial de elección es la TC, no la pielografía (D). Lo característico es la desviación medial de los uréteres, no la lateral (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1124 del PDF"
+  ],
+  "tema": "otros"
+ },
+ "1aaaad0c64": {
+  "k": "1aaaad0c64",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los sarcomas retroperitoneales?",
+  "opts": [
+   "El mejor manejo es la enucleación",
+   "El pronóstico se determina mejor por el grado histológico",
+   "Las metástasis ganglionares son comunes",
+   "Los fibrosarcomas son el tipo más común",
+   "La radioterapia sola es a menudo curativa para sarcomas pequeños"
+  ],
+  "ans": 1,
+  "why": "El grado histológico es el predictor más importante de la evolución de los sarcomas retroperitoneales. El tratamiento es la resección en bloque con márgenes negativos, no la enucleación (A). Las metástasis ganglionares son raras (C). Los tipos más frecuentes son el liposarcoma, el leiomiosarcoma y el histiocitoma fibroso maligno, no el fibrosarcoma (D). La radioterapia sola tiene un papel limitado por la baja tolerancia de las estructuras vecinas y no es curativa (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 34 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 35 del PDF"
+  ],
+  "tema": "piel-partes-blandas"
+ },
+ "1f3623cedb": {
+  "k": "1f3623cedb",
+  "estado": "confirmada",
+  "stem": "El aneurisma de arteria visceral más común es:",
+  "opts": [
+   "Celíaco",
+   "Esplénico",
+   "Arteria mesentérica superior (AMS)",
+   "Hepático",
+   "Pancreatoduodenal"
+  ],
+  "ans": 1,
+  "why": "El aneurisma de la arteria esplénica es el aneurisma arterial visceral más frecuente (alrededor del 60% de los casos); el segundo es el de la arteria hepática. Su principal riesgo es la rotura, que puede presentarse como \"doble rotura\" y es especialmente grave en el embarazo. Los aneurismas celíacos, de la AMS y pancreatoduodenales son mucho menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 282 del PDF",
+   "Sabiston 21.ª ed., p. 2064 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "El enunciado del texto extraído estaba cortado; se reconstruyó desde el original."
+ },
+ "3060c92660": {
+  "k": "3060c92660",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al hematoma de la vaina del recto?",
+  "opts": [
+   "Si está ubicado por encima del ombligo, es más probable que simule un proceso intraabdominal agudo",
+   "Si está por debajo del ombligo, es más probable que cause sangrado severo",
+   "La mayoría se asocian con antecedente de trauma",
+   "El drenaje quirúrgico es el tratamiento de elección en la mayoría de los casos",
+   "Si la masa es palpable, típicamente desaparece al contraer los músculos rectos"
+  ],
+  "ans": 1,
+  "why": "Por debajo de la línea arcuata, infraumbilical, el recto no tiene vaina posterior aponeurótica, así que el hematoma no queda contenido: puede cruzar la línea media, crecer más (sangrado mayor) y simular una víscera perforada con dolor bilateral bajo. Por eso la A es falsa. En la mayoría no hay antecedente de trauma; suelen ser espontáneos en ancianos anticoagulados (C). El manejo es mayormente conservador: reanimación, controles seriados y reversión de la anticoagulación, y embolización si hace falta (D). El signo de Fothergill es una masa que persiste, no que desaparece, al contraer los rectos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 34 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 35 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "427bc4aa54": {
+  "k": "427bc4aa54",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la torsión del epiplón?",
+  "opts": [
+   "La torsión secundaria es más común que la primaria",
+   "El tratamiento suele ser no quirúrgico",
+   "Si se requiere cirugía, el manejo consiste en destorsión y omentopexia",
+   "El dolor generalmente se localiza en el cuadrante inferior izquierdo",
+   "Suele producir líquido peritoneal de aspecto purulento"
+  ],
+  "ans": 0,
+  "why": "La torsión primaria, sin patología subyacente, es muy rara; la secundaria, precipitada por un punto fijo como un tumor, una adherencia, un saco herniario o una inflamación, es mucho más común. El tratamiento clásico es quirúrgico, con resección del epiplón torcido, a menudo infartado, y no destorsión con omentopexia (B, C). La torsión primaria suele ser derecha y simula una apendicitis o una colecistitis (D). El líquido suele ser serosanguinolento; si es purulento sugiere otro diagnóstico (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "f7a198989d": {
+  "k": "f7a198989d",
+  "estado": "confirmada",
+  "stem": "El organismo más comúnmente aislado del líquido peritoneal infectado en un paciente con catéter de diálisis peritoneal es:",
+  "opts": [
+   "Estreptococo β-hemolítico",
+   "Enterococo",
+   "Escherichia coli",
+   "Staphylococcus epidermidis",
+   "Staphylococcus aureus"
+  ],
+  "ans": 3,
+  "why": "Los estafilococos coagulasa negativos (Staphylococcus epidermidis), de la flora cutánea, son con diferencia la causa más frecuente de peritonitis asociada al catéter de diálisis peritoneal; contaminan el catéter por contacto. El estreptococo, el enterococo y E. coli son menos frecuentes; los gramnegativos sugieren un origen entérico. S. aureus, que es coagulasa positivo, es menos frecuente y responde peor solo con antibióticos. El tratamiento inicial son antibióticos intraperitoneales; si la infección no se resuelve, se retira el catéter.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "18e76ab023": {
+  "k": "18e76ab023",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal progresivo y distensión, con matidez no cambiante. Una TC muestra colecciones loculadas de líquido y escallopado de los órganos intraabdominales. En la cirugía se encuentra varios litros de material mucoide amarillento-grisáceo en el epiplón y superficies peritoneales. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "No tiene indicación de resección quirúrgica",
+   "Se indican antimicrobianos a largo plazo",
+   "Lo más probable es que represente una neoplasia peritoneal primaria",
+   "Es más común en varones",
+   "Está indicada la cirugía citorreductora"
+  ],
+  "ans": 4,
+  "why": "El cuadro (mujer mayor, ascitis gelatinosa con matidez que no cambia, festoneado de las vísceras en la TC, material mucoide sobre el epiplón y el peritoneo) es un pseudomixoma peritoneal. Su tratamiento es quirúrgico: citorreducción con peritonectomía y omentectomía, más hemicolectomía derecha si el origen es apendicular, a menudo con quimioterapia intraperitoneal hipertérmica. Por eso es falso que no tenga indicación de resección. Casi siempre se origina en una neoplasia mucinosa del apéndice, no en el peritoneo (primario), y es más frecuente en mujeres de 50 a 70 años. Los antimicrobianos no tienen papel, porque no es un proceso infeccioso.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "La opción E se completó desde el original (\"Está indicada la cirugía citorreductora\")."
+ },
+ "968524c617": {
+  "k": "968524c617",
+  "estado": "confirmada",
+  "stem": "La causa más común de absceso retroperitoneal es:",
+  "opts": [
+   "Diverticulitis",
+   "Apendicitis",
+   "Enfermedad renal",
+   "Tuberculosis de columna",
+   "Diseminación hematógena desde un foco remoto"
+  ],
+  "ans": 2,
+  "why": "La causa más frecuente de absceso retroperitoneal es secundaria, por infección de un órgano vecino; las infecciones renales explican casi el 50% de los casos. La diverticulitis, la apendicitis retrocecal, la úlcera duodenal perforada y la pancreatitis son causas menos frecuentes. La tuberculosis vertebral (Pott) es rara, y la diseminación hematógena (absceso primario) es poco frecuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "otros",
+  "nota": "El enunciado y las opciones D y E estaban cortados en el texto extraído; se reconstruyeron desde el original (p. 70)."
+ },
+ "bd40416871": {
+  "k": "bd40416871",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la torsión del epiplón?",
+  "opts": [
+   "La torsión secundaria es más común que la primaria.",
+   "El tratamiento suele ser observación y control del dolor.",
+   "Si se requiere cirugía, el manejo consiste en destorsión y omentopexia.",
+   "El dolor suele ubicarse en el cuadrante inferior izquierdo del abdomen.",
+   "Típicamente produce líquido peritoneal de apariencia purulenta."
+  ],
+  "ans": 0,
+  "why": "La torsión primaria del epiplón es rarísima, y la secundaria (sobre un tumor, una adherencia, un saco herniario o un foco inflamatorio) es mucho más común. El manejo clásico es resecar el epiplón torcido, a menudo infartado, y no la observación ni la destorsión con omentopexia (B, C). La torsión primaria suele ser derecha y simula una apendicitis o una colecistitis (D). El líquido es serosanguinolento; si es purulento sugiere otro diagnóstico (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "4fc859cdcb": {
+  "k": "4fc859cdcb",
+  "estado": "confirmada",
+  "stem": "El organismo más comúnmente aislado del líquido peritoneal infectado de un paciente con un catéter de diálisis peritoneal es:",
+  "opts": [
+   "Estreptococo beta-hemolítico",
+   "Enterococo",
+   "Escherichia coli",
+   "Estafilococo coagulasa negativo",
+   "Estafilococo coagulasa positivo"
+  ],
+  "ans": 3,
+  "why": "Los estafilococos coagulasa negativos (Staphylococcus epidermidis), de la flora cutánea, son con diferencia la causa más frecuente de peritonitis asociada al catéter de diálisis peritoneal; contaminan el catéter por contacto. El estreptococo, el enterococo y E. coli son menos frecuentes; los gramnegativos sugieren un origen entérico. S. aureus, que es coagulasa positivo, es menos frecuente y responde peor solo con antibióticos. El tratamiento inicial son antibióticos intraperitoneales; si la infección no se resuelve, se retira el catéter.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "8e1269250c": {
+  "k": "8e1269250c",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal progresivo y distensión abdominal con matidez no cambiante. Una tomografía computarizada muestra colecciones loculadas de líquido y escallopado de los órganos intraabdominales. En la cirugía, se encuentran varios litros de material mucoso amarillento grisáceo sobre el epiplón y superficies peritoneales. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "No hay papel para la resección quirúrgica.",
+   "Es poco probable que involucre el apéndice.",
+   "Esto representa más probablemente una malignidad peritoneal primaria.",
+   "Es más común en hombres.",
+   "Está indicada la cirugía de citorreducción."
+  ],
+  "ans": 4,
+  "why": "El cuadro (mujer mayor, ascitis gelatinosa con matidez que no cambia, festoneado de las vísceras en la TC, material mucoide sobre el epiplón y el peritoneo) es un pseudomixoma peritoneal. Su tratamiento es quirúrgico: citorreducción con peritonectomía y omentectomía, más hemicolectomía derecha si el origen es apendicular, a menudo con quimioterapia intraperitoneal hipertérmica. Por eso es falso que no tenga indicación de resección. Casi siempre se origina en una neoplasia mucinosa del apéndice, no en el peritoneo (primario), y es más frecuente en mujeres de 50 a 70 años. Por esa misma razón es falso que sea poco probable que involucre el apéndice.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ "20d39efb8c": {
+  "k": "20d39efb8c",
+  "estado": "confirmada",
+  "stem": "La causa más común de un absceso retroperitoneal es:",
+  "opts": [
+   "Diverticulitis",
+   "Apendicitis",
+   "Enfermedad renal",
+   "Tuberculosis de la columna",
+   "Diseminación hematógena desde un sitio remoto"
+  ],
+  "ans": 2,
+  "why": "La causa más frecuente de absceso retroperitoneal es secundaria, por infección de un órgano vecino; las infecciones renales explican casi el 50% de los casos. La diverticulitis, la apendicitis retrocecal, la úlcera duodenal perforada y la pancreatitis son causas menos frecuentes. La tuberculosis vertebral (Pott) es rara, y la diseminación hematógena (absceso primario) es poco frecuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "otros"
+ },
+ "6d22896a90": {
+  "k": "6d22896a90",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a un hematoma de la vaina del recto?",
+  "opts": [
+   "Si se localiza por encima del ombligo, es más probable que simule un proceso intraabdominal agudo.",
+   "Si se localiza por debajo del ombligo, es más probable que cause sangrado severo.",
+   "La mayoría están asociados con antecedentes de trauma.",
+   "El drenaje quirúrgico es el tratamiento de elección en la mayoría de los casos.",
+   "La embolización angiográfica no es útil."
+  ],
+  "ans": 1,
+  "why": "Por debajo de la línea arqueada no hay vaina posterior del recto, así que el hematoma no queda contenido: puede cruzar la línea media y extenderse a los espacios perivesical y preperitoneal, y crecer hasta causar un sangrado importante. Es esa localización infraumbilical, no la supraumbilical, la que simula una víscera perforada (A). La mayoría son espontáneos, sobre todo en ancianos anticoagulados; en la serie de la Mayo Clinic, el antecedente de trauma o lesión de pared fue del 48% (C). El tratamiento es casi siempre no quirúrgico: reanimación, control del hematocrito y corrección de la anticoagulación (D). La embolización angiográfica sí es útil en casos seleccionados (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 34 del PDF",
+   "Sabiston 21.ª ed., p. 1110 del PDF"
+  ],
+  "tema": "otros"
+ },
+ "b7930b4e45": {
+  "k": "b7930b4e45",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la fibrosis retroperitoneal?",
+  "opts": [
+   "El tratamiento principal implica radioterapia.",
+   "Es más común en mujeres.",
+   "La velocidad de sedimentación globular (VSG) suele ser normal.",
+   "La pielografía intravenosa (PIV) es el estudio diagnóstico de elección.",
+   "La desviación medial de los uréteres es característica."
+  ],
+  "ans": 4,
+  "why": "La placa fibrosa periaórtica atrapa los uréteres y los tracciona hacia la línea media. La urografía muestra la tríada típica de desviación medial de los uréteres, compresión extrínseca e hidronefrosis. El tratamiento de base son los corticoides (más endoprótesis ureterales o ureterólisis), no la radioterapia (A). Afecta 2 a 3 veces más a hombres (B). Los reactantes de fase aguda (VSG, PCR) están elevados en el 80–100% de los casos (C). La evaluación se inicia con TC, no con PIV (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1124 del PDF",
+   "Sabiston 21.ª ed., p. 1125 del PDF",
+   "Cronin CG et al. Retroperitoneal fibrosis: a review of clinical features and imaging findings. RöFo 2009 (PMID 19291600), resumen en Europe PMC"
+  ],
+  "tema": "otros"
+ },
+ "4ae422d44d": {
+  "k": "4ae422d44d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los sarcomas retroperitoneales?",
+  "opts": [
+   "Se tratan mejor mediante enucleación.",
+   "El pronóstico se determina mejor por el grado histológico.",
+   "Las metástasis ganglionares son comunes.",
+   "Los fibrosarcomas son el tipo más común.",
+   "La radioterapia es frecuentemente curativa en sarcomas pequeños."
+  ],
+  "ans": 1,
+  "why": "El grado histológico del tumor es el factor pronóstico más importante. El tratamiento curativo es la resección en bloque con márgenes negativos, no la enucleación (A). Las metástasis ganglionares son raras (C). Los más frecuentes son el liposarcoma, el leiomiosarcoma y el histiocitoma fibroso maligno, no el fibrosarcoma (D). La radioterapia está limitada por la poca tolerancia de los órganos vecinos y no es curativa (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 34 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 35 del PDF"
+  ],
+  "tema": "piel-partes-blandas"
+ },
+ "9400385c81": {
+  "k": "9400385c81",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la línea arqueada?",
+  "opts": [
+   "Se ubica normalmente unos centímetros por encima del ombligo.",
+   "Por debajo de esta línea, la aponeurosis del oblicuo interno se divide.",
+   "Por debajo de esta línea, el músculo recto se encuentra sobre la fascia transversa.",
+   "Por debajo de esta línea, la vaina posterior del recto es más delgada.",
+   "Por debajo de esta línea, el músculo oblicuo externo no contribuye a la vaina anterior del recto."
+  ],
+  "ans": 2,
+  "why": "Por debajo de la línea arqueada desaparece la vaina posterior: las aponeurosis de los tres músculos anchos pasan por delante del recto, que queda apoyado directamente sobre la fascia transversalis. La línea arqueada está por debajo del ombligo, a un tercio de la distancia hacia el pubis (A). La aponeurosis del oblicuo interno se divide por encima de la línea, no por debajo (B). Por debajo no hay vaina posterior, así que no tiene sentido decir que es más delgada (D). El oblicuo externo sí contribuye a la vaina anterior en ese nivel (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "86c8eae971": {
+  "k": "86c8eae971",
+  "estado": "confirmada",
+  "stem": "Una hora después de la reparación laparoscópica de una hernia inguinal izquierda, el paciente se queja de ardor intenso en la ingle. ¿Cuál de las siguientes es la recomendación más adecuada?",
+  "opts": [
+   "Regresar de inmediato al quirófano para laparoscopia",
+   "Fármacos antiinflamatorios no esteroides (AINEs)",
+   "Gabapentina (Neurontin)",
+   "Analgesia opioide",
+   "Inyección de anestésico local en la región inguinal"
+  ],
+  "ans": 0,
+  "why": "Un dolor inguinal intenso, urente, en el posoperatorio inmediato de una hernioplastia laparoscópica sugiere el atrapamiento de un nervio por una grapa o tacker. Por eso se debe volver al quirófano para retirar la grapa responsable. Los AINEs, la gabapentina y los opioides no tratan la causa mecánica (B–D). La infiltración con anestésico local quizá no alivie el dolor y, si lo hace, el alivio es solo temporal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "860b2bbbce": {
+  "k": "860b2bbbce",
+  "estado": "confirmada",
+  "stem": "El componente más importante de la reparación quirúrgica en un bebé con hernia inguinal unilateral confirmada por ecografía es:",
+  "opts": [
+   "Ligadura alta del saco herniario",
+   "Obliteración del anillo inguinal profundo",
+   "Reparación sin tensión con malla",
+   "Liberación de la vaina anterior del recto para permitir unión entre el tendón conjunto y el ligamento de Cooper",
+   "Identificación de todos los nervios"
+  ],
+  "ans": 0,
+  "why": "La hernia inguinal del lactante es indirecta y se debe a que el proceso vaginal no se cerró. Por eso basta con la ligadura alta del saco a nivel del anillo interno. El piso inguinal es normal, así que no hacen falta obliterar el anillo profundo, poner malla ni hacer una reparación tipo McVay con incisión relajante (B–D). Identificar todos los nervios no es el paso clave (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 37 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF"
+  ],
+  "tema": "pediatria"
+ },
+ "c9cc17123d": {
+  "k": "c9cc17123d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones describe mejor las hernias umbilicales en niños?",
+  "opts": [
+   "Son más comunes en niños blancos que en negros",
+   "La reparación está indicada tan pronto se diagnostica la hernia",
+   "Se debe reparar si la hernia persiste más allá de los 6 meses de edad",
+   "La mayoría cierra espontáneamente",
+   "La realización solo debe realizarse si el niño presenta síntomas."
+  ],
+  "ans": 3,
+  "why": "La hernia umbilical infantil es congénita: el anillo umbilical no se cerró. La mayoría son pequeñas y se cierran solas hacia los 2 años, sobre todo si el defecto mide menos de 1 cm. Por eso no se reparan al diagnóstico (B) ni a los 6 meses (C). La cirugía electiva se plantea si persisten a los 4–5 años, aunque no den síntomas (E). Son más frecuentes en niños de ascendencia africana, no en blancos (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "pediatria"
+ },
+ "cb3e5e32f8": {
+  "k": "cb3e5e32f8",
+  "estado": "confirmada",
+  "stem": "Se conoce como hernia delimitada por el músculo dorsal ancho, la cresta ilíaca y el músculo oblicuo externo:",
+  "opts": [
+   "Hernia de Grynfeltt",
+   "Hernia de Richter",
+   "Hernia de pequeño tamaño (Petit)",
+   "Hernia obturatriz",
+   "Hernia espigeliana"
+  ],
+  "ans": 2,
+  "why": "El triángulo lumbar inferior, de Petit, está limitado por el dorsal ancho, la cresta ilíaca y el oblicuo externo; la hernia que lo atraviesa es la de Petit. La de Grynfeltt sale por el triángulo lumbar superior, entre la musculatura sacroespinal, el oblicuo interno y la 12.ª costilla (A). La de Richter es un pinzamiento parcial del borde antimesentérico (B). La obturatriz sale por el agujero obturador (D). La de Spiegel sale por la fascia de Spiegel, junto al borde lateral del recto (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "La opción C dice en el original 'Hernia de pequeño tamaño(petit)', una mala traducción de 'Petit hernia': se refiere a la hernia de Petit."
+ },
+ "795fbccbbd": {
+  "k": "795fbccbbd",
+  "estado": "confirmada",
+  "stem": "La rama genital del nervio genitofemoral:",
+  "opts": [
+   "Generalmente se encuentra en la parte anterior, encima del cordón espermático",
+   "Proporciona sensibilidad a la base del pene y la parte interna del muslo",
+   "Generalmente se encuentra en la superficie anterior del músculo oblicuo interno",
+   "Proporciona sensibilidad al lado del escroto y función motora al músculo cremáster",
+   "A menudo se entremezcla con el nervio iliohipogástrico"
+  ],
+  "ans": 3,
+  "why": "La rama genital del genitofemoral (L1–L2) inerva el músculo cremáster, del que depende el reflejo cremastérico, y da sensibilidad a la cara lateral del escroto o al labio mayor. Viaja dentro del cordón, sobre el tracto iliopúbico, junto a los vasos cremastéricos. El que se ubica encima del cordón es el ilioinguinal (A). La base del pene y la cara interna del muslo son territorio del ilioinguinal y el iliohipogástrico (B). El que discurre sobre el oblicuo interno es el iliohipogástrico (C). El iliohipogástrico se entremezcla con el ilioinguinal, no con el genitofemoral (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "0a3a05d0be": {
+  "k": "0a3a05d0be",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la línea arqueada (línea arcuata)?",
+  "opts": [
+   "Suele localizarse unos centímetros por encima del ombligo",
+   "Por debajo de esta línea, la aponeurosis del oblicuo interno se divide",
+   "El músculo recto se encuentra sobre la fascia transversalis",
+   "Por debajo de esta línea, la vaina posterior del recto es más delgada",
+   "Por debajo de esta línea, el músculo oblicuo externo no contribuye a la vaina del recto anterior"
+  ],
+  "ans": 2,
+  "why": "Por debajo de la línea arqueada desaparece la vaina posterior: las aponeurosis de los tres músculos anchos pasan por delante del recto, que queda apoyado directamente sobre la fascia transversalis. La línea arqueada está por debajo del ombligo, a un tercio de la distancia hacia el pubis (A). La aponeurosis del oblicuo interno se divide por encima de la línea, no por debajo (B). Por debajo no hay vaina posterior, así que no tiene sentido decir que es más delgada (D). El oblicuo externo sí contribuye a la vaina anterior en ese nivel (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "2b251f5633": {
+  "k": "2b251f5633",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años presenta una hernia inguinal derecha asintomática que se reduce fácilmente con presión suave. ¿Cuál de las siguientes afirmaciones es cierta acerca de esta condición?",
+  "opts": [
+   "Alta probabilidad de estrangulamiento sin cirugía",
+   "Sin cirugía, lo más probable es que se desarrolle dolor intratable",
+   "Esperar hasta que aparezcan síntomas es una alternativa razonable a la cirugía",
+   "La reparación laparoscópica es la mejor opción inicial",
+   "Las hernias pequeñas tienen mayor riesgo de encarcelamiento"
+  ],
+  "ans": null,
+  "why": "Según de Virgilio, en un hombre con una hernia inguinal asintomática la conducta expectante es una alternativa aceptable (C), con una incarceración de alrededor del 0,3% (A falsa). Solo una cuarta parte terminó operándose por más dolor, no intratable (B falsa), y no hay una vía de reparación inicial demostrada como la mejor (D falsa). Pero el mismo libro afirma que las hernias pequeñas, por su cuello estrecho, tienen mayor riesgo de incarceración. Tal como está redactada en este banco, la opción E también es verdadera, así que hay dos respuestas defendibles (C y E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: C (resaltado). En el libro, la opción E dice lo contrario ('si la hernia es pequeña, hay menor probabilidad de incarceración', como en el ítem 1d91db35bf) y es falsa, por lo que la clave del libro es C. La traducción de este banco invirtió el sentido de E y la volvió verdadera. Si se corrige E, la respuesta es C."
+ },
+ "a2ec1c6504": {
+  "k": "a2ec1c6504",
+  "estado": "confirmada",
+  "stem": "Una semana después de la reparación abierta de una gran hernia escrotal derecha, un hombre de 45 años regresa quejándose de dolor severo en su testículo derecho. Al examen físico, el testículo parece estar levemente inflamado y es muy sensible a la palpación. Un estudio Doppler demuestra ausencia de flujo en el testículo derecho con flujo normal en el izquierdo. ¿Cuál de las siguientes afirmaciones es correcta sobre esta condición?",
+  "opts": [
+   "Se debe principalmente a trombosis del plexo pampiniforme",
+   "Se recomienda exploración urgente del testículo derecho",
+   "Se debe probablemente a transección de la arteria testicular",
+   "Representa muy probablemente una torsión testicular",
+   "El testículo probablemente permanecerá agrandado permanentemente"
+  ],
+  "ans": 0,
+  "why": "Es una orquitis isquémica, también llamada congestiva, que aparece a los 2–5 días de una disección extensa del cordón, típicamente al extirpar un saco escrotal grande. Se atribuye a la trombosis de las venas del plexo pampiniforme. El manejo es expectante: reexplorar la ingle no ha dado resultado (B). Ligar la arteria testicular no suele causarla, porque hay colaterales de la arteria deferencial y la cremastérica (C). El cuadro es una complicación de la disección, no una torsión (D). Puede evolucionar a la atrofia testicular, no a un agrandamiento permanente (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "89b28bae8d": {
+  "k": "89b28bae8d",
+  "estado": "confirmada",
+  "stem": "Una hora después de la reparación laparoscópica de una hernia inguinal izquierda, el paciente se queja de dolor intenso tipo ardor en la ingle. ¿Cuál de las siguientes es la recomendación más adecuada?",
+  "opts": [
+   "Retorno inmediato al quirófano para laparoscopía",
+   "Antiinflamatorios no esteroideos",
+   "Neurontin",
+   "Analgésicos opioides",
+   "Inyección de anestésico local en la región inguinal"
+  ],
+  "ans": 0,
+  "why": "Un dolor inguinal intenso, urente, en el posoperatorio inmediato de una hernioplastia laparoscópica sugiere el atrapamiento de un nervio por una grapa o tacker. Por eso se debe volver al quirófano para retirar la grapa responsable. Los AINEs, la gabapentina y los opioides no tratan la causa mecánica (B–D). La infiltración con anestésico local quizá no alivie el dolor y, si lo hace, el alivio es solo temporal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "1d91db35bf": {
+  "k": "1d91db35bf",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años se presenta con una hernia inguinal derecha asintomática. Se reduce fácilmente con presión suave. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "La probabilidad de desarrollar estrangulación es alta sin cirugía.",
+   "Sin cirugía, es probable que se desarrolle dolor intratable.",
+   "Esperar hasta que se desarrollen síntomas es una alternativa razonable a la cirugía.",
+   "La reparación laparoscópica es la mejor opción.",
+   "Si la hernia es pequeña, hay menor probabilidad de incarceración."
+  ],
+  "ans": 2,
+  "why": "En un hombre con una hernia inguinal asintomática o poco sintomática, la conducta expectante (watchful waiting) es una alternativa aceptable. En el ensayo de Fitzgibbons, la incarceración aguda fue rarísima, de alrededor del 0,3% (A). Cerca de una cuarta parte de los pacientes en observación terminó operándose por más dolor, pero no por un dolor intratable (B). No hay una vía de reparación que sea la mejor opción inicial establecida (D). Las hernias pequeñas tienen un cuello estrecho y por eso más riesgo de incarceración, no menos. Por eso la opción E es falsa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "3e4c998ccf": {
+  "k": "3e4c998ccf",
+  "estado": "confirmada",
+  "stem": "Se piensa que la enfermedad del quiste coledociano es causada por una anomalía en:",
+  "opts": [
+   "Músculo liso del conducto biliar",
+   "Composición de la bilis",
+   "Adventicia del conducto biliar",
+   "Unión pancreatobiliar",
+   "Mucosa del conducto biliar"
+  ],
+  "ans": 3,
+  "why": "La explicación más aceptada es la unión pancreatobiliar anómala: el conducto pancreático desemboca en el colédoco más de 1 cm antes de la ampolla y forma un canal común largo. Por ese canal refluye la secreción pancreática, que inflama y dilata el conducto. No se atribuye ningún papel al músculo liso, la bilis, la adventicia ni la mucosa (A, B, C, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 59 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ "34487309f6": {
+  "k": "34487309f6",
+  "estado": "confirmada",
+  "stem": "Los senos de Aschoff-Rokitansky se observan en:",
+  "opts": [
+   "Colecistitis aguda",
+   "Colecistitis crónica",
+   "Colangiohepatitis oriental",
+   "Colangitis esclerosante",
+   "Colecistitis alitiásica"
+  ],
+  "ans": 1,
+  "why": "Los senos de Rokitansky-Aschoff son invaginaciones de la mucosa vesicular a través de la muscular, producto de la inflamación crónica y del aumento de presión intraluminal. Son el hallazgo típico de la colecistitis crónica litiásica: en una serie de 540 colecistectomías, el 94% con colecistitis crónica, aparecieron en el 65% de las piezas. No caracterizan a la colecistitis aguda ni a la alitiásica, ni a las colangiopatías, que afectan a los conductos y no a la pared vesicular.",
+  "fuentes": [
+   "Terada T. Histopathologic features and frequency of gall bladder lesions in consecutive 540 cholecystectomies. Int J Clin Exp Pathol 2013 (PMID 23236547), resumen en Europe PMC"
+  ],
+  "tema": "vesicula",
+  "nota": "Los libros de la carpeta no mencionan los senos de Rokitansky-Aschoff. También se ven, en forma exagerada, en la adenomiomatosis, que no está entre las opciones."
+ },
+ "d63ad0f4f1": {
+  "k": "d63ad0f4f1",
+  "estado": "confirmada",
+  "stem": "La ecografía de vesícula biliar revela una lesión polipoide. Esto probablemente representa:",
+  "opts": [
+   "Pólipo de colesterol",
+   "Adenomiomatosis",
+   "Adenoma benigno",
+   "Adenocarcinoma",
+   "Pólipo inflamatorio"
+  ],
+  "ans": 0,
+  "why": "La mayoría de las lesiones polipoides de la vesícula son benignas, y entre ellas la más común es el pólipo de colesterol: suele ser pequeño (<10 mm), pedunculado y múltiple, y se asocia a colesterolosis. Le siguen la adenomiomatosis (B), en segundo lugar, y el pólipo inflamatorio (E), en tercero. Los adenomas y los adenocarcinomas son mucho menos frecuentes y suelen medir más de 10 mm (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 56 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "e253a844d6": {
+  "k": "e253a844d6",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía biliar?",
+  "opts": [
+   "El conducto hepático derecho suele ser más largo que el izquierdo y más propenso a dilatarse",
+   "El retorno venoso de la vesícula es principalmente por una vena cística hacia la vena porta",
+   "Las válvulas de Heister tienen un papel importante en la función de reservorio biliar de la vesícula",
+   "El colédoco y el conducto pancreático usualmente se unen fuera de la pared duodenal",
+   "La irrigación arterial del colédoco proviene principalmente de la arteria hepática izquierda y la arteria gástrica derecha"
+  ],
+  "ans": 3,
+  "why": "En cerca de tres cuartas partes de las personas, el colédoco y el conducto pancreático principal se unen fuera de la pared duodenal y la atraviesan como un solo conducto. El conducto hepático más largo y el que más se dilata ante una obstrucción distal es el izquierdo (A). El drenaje venoso de la vesícula va directamente al parénquima hepático (B). Las válvulas espirales de Heister no tienen una verdadera función valvular (C). El colédoco se irriga por arterias a las 3 y a las 9 horas que vienen de la hepática derecha y de la retroduodenal, rama de la gastroduodenal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 56 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "94102af145": {
+  "k": "94102af145",
+  "estado": "confirmada",
+  "stem": "Durante una colecistectomía laparoscópica, se observa salida de bilis desde la unión del colédoco y el conducto cístico. Al convertir a cirugía abierta, se encuentra una lesión longitudinal de 3 mm en la cara anterolateral del conducto hepático común distal. El conducto mide 6 mm de diámetro. El manejo consiste en:",
+  "opts": [
+   "Reparación primaria de la lesión",
+   "Reparación primaria sobre un tubo en T",
+   "Reparación primaria con colocación de tubo en T a través de una coledocotomía separada",
+   "Hepatoyeyunostomía",
+   "Coledocoduodenostomía"
+  ],
+  "ans": 1,
+  "why": "Una lesión pequeña, limpia y parcial (menos del 50% de la circunferencia) en un conducto de buen calibre conserva la irrigación de las 3 y las 9 horas. Por eso admite una reparación primaria, que se hace sobre un tubo en T. Colocar el tubo en T por una coledocotomía separada se reserva para las lesiones térmicas (C). La hepatoyeyunostomía en Y de Roux se indica en transecciones, lesiones de más del 50% o conductos muy pequeños (D). La coledocoduodenostomía es para lesiones del colédoco distal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 57 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ "71b7cc2d15": {
+  "k": "71b7cc2d15",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones describe mejor el papel de la colecistectomía laparoscópica temprana (dentro de las 24 h del ingreso) en colecistitis aguda?",
+  "opts": [
+   "Reduce la estancia hospitalaria",
+   "Aumenta la tasa de conversión a cirugía abierta",
+   "No debe realizarse; el paciente debe recibir antibióticos por 2-3 días antes",
+   "Se asocia con mayor tasa de complicaciones",
+   "Se asocia con mayor mortalidad"
+  ],
+  "ans": 0,
+  "why": "La colecistectomía laparoscópica temprana, en la primera semana y sobre todo en las primeras horas del ingreso, tiene una morbimortalidad igual o menor que la cirugía diferida. También acorta la estancia hospitalaria total, con una tasa de conversión similar (B, D, E). Además, cerca del 20% de los pacientes manejados primero de forma conservadora no responden y necesitan operarse antes de la cirugía de intervalo. Por eso no se recomienda 'enfriar' la vesícula con antibióticos antes de operar (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1524 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "0990f8f973": {
+  "k": "0990f8f973",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al uso de la colangiografía intraoperatoria (CIO) durante la colecistectomía laparoscópica?",
+  "opts": [
+   "Ayuda a prevenir incisiones involuntarias del conducto colédoco (CC).",
+   "Es la mejor forma de identificar cálculos clínicamente significativos no sospechados en el conducto común.",
+   "Su uso rutinario se justifica por su capacidad para identificar anomalías anatómicas de los conductos hepáticos.",
+   "Su uso rutinario es útil para asegurar la remoción completa de la vesícula y el conducto cístico.",
+   "Su uso rutinario es innecesario."
+  ],
+  "ans": 4,
+  "why": "El uso rutinario de la CIO es controvertido, pero la mayoría de los cirujanos lo considera innecesario y prefiere un uso selectivo, junto con la visión crítica de seguridad. La CIO probablemente no evita la lesión del colédoco; lo que permite es reconocerla antes y evitar su transección completa (A). Los cálculos coledocianos suelen sospecharse antes de operar por las pruebas hepáticas, la dilatación de la vía biliar o el antecedente de pancreatitis (B). Las anomalías anatómicas y la remoción completa de la vesícula no justifican la CIO rutinaria (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 57 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 58 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "El tema sigue en debate: algunos estudios poblacionales asocian la CIO a menos lesiones. La clave del libro, que coincide con la original, es E."
+ },
+ "77de9463c5": {
+  "k": "77de9463c5",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la vesícula biliar?",
+  "opts": [
+   "Absorbe pasivamente sodio y cloruro.",
+   "En el contexto de colelitiasis, la colecistoquinina (CCK) puede causar dolor vesicular fluctuante.",
+   "Tiene un ambiente alcalino.",
+   "El glucagón puede ayudar a vaciar la vesícula biliar.",
+   "Su contracción es inhibida por la estimulación vagal."
+  ],
+  "ans": 3,
+  "why": "La vesícula se llena porque el esfínter de Oddi está contraído. El glucagón relaja ese esfínter y crea un camino de menor resistencia, lo que facilita el vaciamiento de la vesícula hacia el duodeno. La vesícula absorbe sodio y cloruro por transporte activo, y el agua de forma pasiva (A). Su epitelio secreta iones hidrógeno, que acidifican la bilis (C). La estimulación vagal provoca su contracción, no la inhibe (E). El dolor posprandial de la colelitiasis es constante durante horas, no fluctuante (B).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 55 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 56 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "1add120ba9": {
+  "k": "1add120ba9",
+  "estado": "confirmada",
+  "stem": "Un hombre de 24 años se presenta con heces acólicas y orina color cola. Fosfatasa alcalina: 2000 UI/L, AST: 78 UI/L, ALT: 88 UI/L, bilirrubina total: 2.1 mg/dL. La biopsia hepática muestra fibrosis concéntrica periductal alrededor de conductos biliares macroscópicos. Es positivo para p-ANCA. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se asocia más comúnmente con enfermedad de Crohn que con colitis ulcerosa.",
+   "Se deben determinar los niveles de antígeno carcinoembrionario (CA) 19-9.",
+   "La colangiopancreatografía retrógrada endoscópica (CPRE) mostrará predominantemente estrechamientos irregulares del árbol biliar intrahepático.",
+   "Los síntomas suelen controlarse bien con manejo médico.",
+   "Es más común en mujeres."
+  ],
+  "ans": 1,
+  "why": "Es una colangitis esclerosante primaria (fibrosis periductal en 'piel de cebolla', FA muy elevada, p-ANCA). Por su riesgo de colangiocarcinoma (10-20%), a todo paciente se le debe medir el CA 19-9. Se asocia sobre todo a colitis ulcerosa (unos dos tercios), no a Crohn. Estrecha de forma irregular todo el árbol biliar, intra- y extrahepático, no predominantemente el intrahepático. La mayoría termina necesitando stents o trasplante, y es dos veces más frecuente en varones.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 59 del PDF",
+   "Sabiston 21.ª ed., p. 1527 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ "b464b72d6e": {
+  "k": "b464b72d6e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes describe mejor el papel de la colecistectomía laparoscópica temprana (dentro de las 24 horas del ingreso) para colecistitis aguda?",
+  "opts": [
+   "Resulta en una estancia hospitalaria más corta.",
+   "Aumenta la tasa de conversión a colecistectomía abierta.",
+   "No debe realizarse porque el paciente debe ser \"enfriado\" durante 2 a 3 días con antibióticos.",
+   "Se asocia con una tasa global más alta de complicaciones.",
+   "Se asocia con una tasa de mortalidad más alta."
+  ],
+  "ans": 0,
+  "why": "La colecistectomía laparoscópica temprana, en la primera semana y sobre todo al inicio, tiene una morbimortalidad y una tasa de conversión similares a la cirugía diferida. Además acorta la estancia hospitalaria total, porque evita el ingreso de 'enfriamiento' y el reingreso para la cirugía de intervalo. Ya no se recomienda 'enfriar' al paciente antes de operar: cerca del 20% de los tratados de forma conservadora fracasan antes de la cirugía programada. Por eso las demás opciones son falsas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1524 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "El Sabiston dice que la estancia es 'equivalente o mejor' con la cirugía temprana; los ensayos y metaanálisis muestran una estancia total más corta."
+ },
+ "ba21e4be95": {
+  "k": "ba21e4be95",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es una característica del cáncer de vesícula biliar?",
+  "opts": [
+   "Se encuentran depósitos de colesterol moteados en la pared vesicular.",
+   "Hay nódulos engrosados de mucosa y músculo.",
+   "El cáncer de vesícula biliar es más común en varones.",
+   "Es más probable que se acompañe de cálculos grandes en comparación con cálculos pequeños.",
+   "Las vesículas en porcelana tienen mayor riesgo de albergar malignidad y deben ser extirpadas profilácticamente."
+  ],
+  "ans": 3,
+  "why": "Los cálculos únicos y grandes conllevan un riesgo de cáncer mucho mayor que los cálculos múltiples y pequeños, probablemente porque causan más inflamación de la mucosa. Los depósitos de colesterol moteados son colesterolosis y los nódulos de mucosa y músculo son adenomiomatosis, ninguno de ellos maligno. El cáncer de vesícula es 2-3 veces más frecuente en mujeres. Para la vesícula en porcelana, la fuente solo dice que 'puede' tener mayor riesgo; el riesgo es menor de lo que se creía y no se acepta como afirmación categórica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 59 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ "136c114130": {
+  "k": "136c114130",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al colangiocarcinoma?",
+  "opts": [
+   "La mayoría son intrahepáticos.",
+   "El colangiocarcinoma tipo I de Bismuth-Corlette ocurre por encima de la confluencia de los conductos hepáticos derecho e izquierdo.",
+   "La mayoría de los pacientes se benefician de quimiorradiación adyuvante después de la cirugía.",
+   "Se origina de la transformación maligna de los hepatocitos.",
+   "La resección con derivación bilioentérica es un manejo adecuado en pacientes con enfermedad temprana."
+  ],
+  "ans": 4,
+  "why": "La enfermedad extrahepática localizada, sin invasión de la porta o de las arterias hepáticas, sin ganglios y sin metástasis, se trata con resección y derivación bilioentérica. Solo alrededor del 20% de los colangiocarcinomas son intrahepáticos. El tipo I de Bismuth-Corlette está por debajo de la confluencia, no por encima. La quimiorradiación adyuvante se considera de forma selectiva, no de rutina. El tumor nace del epitelio biliar, no de los hepatocitos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 60 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ "123bc0cbb1": {
+  "k": "123bc0cbb1",
+  "estado": "confirmada",
+  "stem": "La hiperplasia nodular focal (HNF):",
+  "opts": [
+   "Es típicamente sintomática",
+   "Usualmente está ubicada en el centro del hígado",
+   "Se reseca mejor mediante una lobectomía formal",
+   "Tiene un riesgo significativo de ruptura",
+   "Se cree que es causada por una alteración embriológica del flujo sanguíneo hepático"
+  ],
+  "ans": 4,
+  "why": "La HNF se atribuye a una alteración embriológica (malformación vascular) del flujo sanguíneo hepático, lo que apoyan sus nódulos regenerativos. Es casi siempre asintomática y un hallazgo incidental, suele ser periférica, no tiene riesgo significativo de ruptura ni de malignización, y el estudio de elección para confirmarla es la RM (no la TC). Solo se reseca si da síntomas o si no se logra un diagnóstico definitivo, nunca de rutina con lobectomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF"
+  ],
+  "tema": "higado"
+ },
+ "1835ec7314": {
+  "k": "1835ec7314",
+  "estado": "confirmada",
+  "stem": "Una mujer de 36 años presenta dolor en hipocondrio derecho, ictericia, ascitis y hepatomegalia al examen físico. La TC muestra hipertrofia marcada del segmento I del hígado, líquido libre en el peritoneo y realce inhomogéneo del resto del hígado. Esto indica con mayor probabilidad:",
+  "opts": [
+   "Síndrome de Budd-Chiari",
+   "Adenoma hepático roto",
+   "Hemangioma roto",
+   "Hepatitis aguda",
+   "Esquistosomiasis"
+  ],
+  "ans": 0,
+  "why": "La tríada de dolor abdominal, ascitis y hepatomegalia, con hipertrofia del lóbulo caudado (segmento I) y realce inhomogéneo del resto del hígado en la TC, es típica del síndrome de Budd-Chiari. El caudado se hipertrofia porque drena directamente a la cava. Un adenoma o un hemangioma rotos darían hemoperitoneo con una masa focal, y ni la hepatitis aguda ni la esquistosomiasis (hipertensión portal presinusoidal) producen esta imagen.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "hipertension-portal"
+ },
+ "762451be18": {
+  "k": "762451be18",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre los adenomas hepáticos?",
+  "opts": [
+   "Presentan una cicatriz central",
+   "Aparecen como \"calientes\" en gammagrafía con coloide de azufre",
+   "La captación rápida de contraste en la TC los diferencia de la HNF",
+   "El manejo de una lesión asintomática de 4 cm es la resección quirúrgica",
+   "Contienen abundantes células no parenquimatosas (Kupffer)"
+  ],
+  "ans": null,
+  "why": "A, B, C y E son falsas: la cicatriz central es propia de la HNF; el adenoma es 'frío' en la gammagrafía con coloide de azufre porque casi no tiene células de Kupffer; y ambas lesiones realzan en fase arterial, así que eso no las distingue. La clave marcada (D) tampoco es correcta en general. La fuente recomienda resecar el adenoma si da síntomas, mide más de 5 cm o crece pese a suspender los anticonceptivos, porque por debajo de 5 cm la ruptura y la malignización son raras; solo en varones se reseca sea cual sea el tamaño. Como la pregunta no dice el sexo, D solo es cierta para un varón y la pregunta queda ambigua.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "higado",
+  "nota": "Clave original: D (resaltado). Es una versión modificada de la pregunta del ABSITE, cuya clave era 'el riesgo de ruptura se asocia al tamaño'. Con 4 cm y sin sexo indicado, D no se sostiene: en una mujer asintomática con una lesión menor de 5 cm se observa. La versión de este banco con una lesión de 5.5 cm (k 0bda86e254) sí es correcta."
+ },
+ "6256f7b91b": {
+  "k": "6256f7b91b",
+  "estado": "confirmada",
+  "stem": "Los principales mediadores de fibrosis que conduce a cirrosis hepática son:",
+  "opts": [
+   "Células de Kupffer",
+   "Células estrelladas hepáticas (de Ito)",
+   "Células endoteliales",
+   "Hepatocitos",
+   "Hendiduras de Mall"
+  ],
+  "ans": 1,
+  "why": "Las células de Ito, o estrelladas, están en el espacio de Disse y almacenan vitamina A. Ante una lesión hepática aguda o crónica se transforman en células parecidas a miofibroblastos con gran capacidad fibrogénica, y son el principal mediador de la fibrosis y la cirrosis. Las células de Kupffer, las endoteliales, los hepatocitos y las hendiduras de Mall no son los mediadores principales de la fibrosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 72 del PDF"
+  ],
+  "tema": "hipertension-portal"
+ },
+ "fa73c16806": {
+  "k": "fa73c16806",
+  "estado": "confirmada",
+  "stem": "El carcinoma fibrolamelar (CFL) del hígado:",
+  "opts": [
+   "Está fuertemente asociado a hepatitis B",
+   "Ocurre con mayor frecuencia en hombres ancianos",
+   "Causa una elevación marcada de AFP",
+   "Frecuentemente contiene una cicatriz central",
+   "Tiene peor pronóstico que el CHC"
+  ],
+  "ans": 3,
+  "why": "El CFL es un tumor bien delimitado que puede tener un área fibrosa central, y por eso se confunde con la HNF; a diferencia de la de la HNF, su cicatriz no realza en fase arterial. Aparece en jóvenes (mediana de 25 años), sin cirrosis, sin hepatitis B y sin elevación de la AFP. Su pronóstico es mejor que el del CHC, sobre todo porque no hay cirrosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 72 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ "ce4b5efba7": {
+  "k": "ce4b5efba7",
+  "estado": "confirmada",
+  "stem": "La hiperplasia nodular focal (HNF):",
+  "opts": [
+   "Es típicamente sintomática",
+   "Usualmente se localiza en el centro del hígado",
+   "Se confirma mejor con tomografía computarizada (TC) de alta resolución",
+   "Representa un riesgo significativo de ruptura",
+   "Se cree que se debe a una alteración embriológica en el flujo sanguíneo hepático"
+  ],
+  "ans": 4,
+  "why": "La HNF se atribuye a una alteración embriológica (malformación vascular) del flujo sanguíneo hepático, lo que apoyan sus nódulos regenerativos. Es casi siempre asintomática y un hallazgo incidental, suele ser periférica, no tiene riesgo significativo de ruptura ni de malignización, y el estudio de elección para confirmarla es la RM (no la TC). Solo se reseca si da síntomas o si no se logra un diagnóstico definitivo, nunca de rutina con lobectomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF"
+  ],
+  "tema": "higado"
+ },
+ "0bda86e254": {
+  "k": "0bda86e254",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los adenomas hepáticos?",
+  "opts": [
+   "Los episodios agudos de sangrado se manejan mejor con resección quirúrgica.",
+   "Tienden a aparecer \"calientes\" en una gammagrafía hepática con coloide de azufre.",
+   "El realce rápido con contraste en TC los distingue de la HNF.",
+   "Una lesión de 5.5 cm debe resecarse incluso si es asintomática.",
+   "Contienen abundantes células no parenquimatosas (de Kupffer)."
+  ],
+  "ans": 3,
+  "why": "Se reseca el adenoma si da síntomas, mide más de 5 cm o crece pese a suspender los anticonceptivos, por el riesgo de hemorragia, ruptura y malignización; una lesión de 5.5 cm cumple el criterio aunque sea asintomática. El adenoma es 'frío' en la gammagrafía con coloide de azufre porque tiene pocas células de Kupffer. La HNF también realza en fase arterial, así que el realce rápido no los distingue. El sangrado agudo no se trata con resección de urgencia: primero se estabiliza al paciente o se emboliza.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "higado"
+ },
+ "54f48e3ba0": {
+  "k": "54f48e3ba0",
+  "estado": "corregida",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al síndrome de Budd-Chiari?",
+  "opts": [
+   "La causa más común en el mundo es la hepatitis viral crónica",
+   "El tratamiento inicial debe ser trasplante hepático",
+   "La mayoría de los casos en adultos se deben a enfermedades mieloproliferativas",
+   "La ascitis es rara",
+   "El diagnóstico requiere biopsia hepática"
+  ],
+  "ans": 2,
+  "why": "En más del 80% de los casos de Budd-Chiari hay un estado de hipercoagulabilidad subyacente, y las neoplasias mieloproliferativas (policitemia vera, trombocitemia esencial, JAK2 V617F) son la causa más frecuente en Occidente (35-50%). El diagnóstico se hace con eco-Doppler y TC de las venas hepáticas, sin biopsia. El tratamiento inicial es la anticoagulación seguida de angioplastia o stent, o TIPS; el trasplante se reserva para la insuficiencia hepática. La ascitis es parte de la tríada clásica, y la hepatitis viral no es causa de Budd-Chiari.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 641 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 73 del PDF",
+   "Cureus 2025, Pathophysiology of Primary Budd-Chiari Syndrome: A Narrative Review (PMC12696600, Europe PMC)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: E (resaltado), que es falsa porque el diagnóstico es por imagen. La opción C dice 'la mayoría'; en rigor, las enfermedades mieloproliferativas son la causa más frecuente (35-50%), no siempre más de la mitad. Aun así es la única opción defendible."
+ },
+ "66117d3961": {
+  "k": "66117d3961",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años se presenta con dolor abdominal, ictericia y pérdida de peso. La biopsia por aspiración de la masa pancreática confirma adenocarcinoma. Estudios de imagen muestran metástasis hepáticas. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Procedimiento de Whipple",
+   "Quimioterapia paliativa",
+   "Derivación quirúrgica biliar",
+   "Pancreatectomía total",
+   "Radioterapia"
+  ],
+  "ans": 1,
+  "why": "Con metástasis hepáticas el adenocarcinoma de páncreas es irresecable, y se trata sobre todo con quimioterapia sistémica (gemcitabina o FOLFIRINOX). El Whipple y la pancreatectomía total no tienen sentido con metástasis a distancia. La ictericia se alivia preferentemente con una prótesis endoscópica, no con una derivación quirúrgica, y la radioterapia no es el tratamiento de la enfermedad metastásica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1586 del PDF",
+   "Sabiston 21.ª ed., p. 1583 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ "8d5403b4cd": {
+  "k": "8d5403b4cd",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años presenta dolor epigástrico de 12 horas de evolución, náuseas y vómitos. Tiene dolor abdominal difuso leve a la palpación. Laboratorio: amilasa 800 U/L, glucosa 130 mg/dL, leucocitos 12,000/μL, sodio 125 mEq/L, triglicéridos 1800 mg/dL. ¿Cuál es la causa más probable de la hiponatremia?",
+  "opts": [
+   "Pérdida excesiva de líquidos",
+   "Secreción inadecuada de hormona antidiurética",
+   "Reposición excesiva de agua libre",
+   "Pseudohiponatremia",
+   "Insuficiencia suprarrenal"
+  ],
+  "ans": 3,
+  "why": "Una hipertrigliceridemia grave desplaza agua del suero y hace que el sodio medido salga falsamente bajo (pseudohiponatremia), un error de medición. El peligro es corregirla con suero salino hipertónico y provocar hipernatremia. La pérdida de líquidos por vómitos daría alcalosis hipoclorémica, la reposición excesiva de agua libre requiere pérdidas digestivas previas, y la insuficiencia suprarrenal cursaría con hipotensión refractaria e hiperpotasemia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 86 del PDF"
+  ],
+  "tema": "liquidos"
+ },
+ "929e33aff1": {
+  "k": "929e33aff1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al alcohol y la pancreatitis?",
+  "opts": [
+   "Ocurre comúnmente después de una sola ingesta excesiva",
+   "El tipo de alcohol consumido es un factor de riesgo importante",
+   "Los pacientes con dieta alta en proteínas y grasas tienen mayor riesgo",
+   "Existe un umbral de consumo por debajo del cual no ocurre pancreatitis",
+   "Típicamente se desarrolla tras una media de 5 años de consumo excesivo"
+  ],
+  "ans": 2,
+  "why": "El riesgo de pancreatitis alcohólica parece mayor en quienes llevan una dieta alta en proteínas y grasas. La mayoría de los pacientes tiene una historia larga de consumo intenso (media de 100-175 g/día), y solo rara vez aparece tras una sola ingesta excesiva. Importan la cantidad y la duración, no el tipo de bebida. No se describe un umbral seguro. El Sabiston habla de más de 100 g/día durante al menos 5 años como mínimo, no de una media de 5 años.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 87 del PDF",
+   "Sabiston 21.ª ed., p. 1558 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "b9cc16a671": {
+  "k": "b9cc16a671",
+  "estado": "confirmada",
+  "stem": "La causa más común de pancreatitis crónica en el mundo es:",
+  "opts": [
+   "Litiasis biliar",
+   "Consumo de alcohol",
+   "Hereditaria",
+   "Hipertrigliceridemia",
+   "Infecciosa"
+  ],
+  "ans": 1,
+  "why": "El consumo intenso de alcohol causa el 70-80% de las pancreatitis crónicas y es su factor de riesgo más importante. La litiasis biliar es la causa principal de la pancreatitis aguda, pero rara vez de la crónica. Las causas hereditaria, por hipertrigliceridemia e infecciosa son poco frecuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1565 del PDF",
+   "Sabiston 21.ª ed., p. 1566 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "087a5e6d19": {
+  "k": "087a5e6d19",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al papel de la colangiopancreatografía retrógrada endoscópica (CPRE) y/o el momento de la cirugía en la pancreatitis biliar aguda?",
+  "opts": [
+   "En pancreatitis leve, la colecistectomía laparoscópica puede realizarse con seguridad dentro de las primeras 48 horas del ingreso.",
+   "La CPRE con esfinterotomía debe realizarse rutinariamente antes de la cirugía.",
+   "Si se sospecha un cálculo en el colédoco, debe realizarse CPRE con esfinterotomía preoperatoria.",
+   "En pancreatitis severa, la colecistectomía temprana reduce la morbilidad y mortalidad.",
+   "Existe riesgo mínimo de empeoramiento de la pancreatitis con la realización de CPRE."
+  ],
+  "ans": 0,
+  "why": "En la pancreatitis biliar leve a moderada, la colecistectomía temprana (en 48 horas) es segura, y retrasarla mucho da hasta un 30% de recidivas. La CPRE de rutina no está indicada, porque los cálculos residuales son poco probables y la CPRE puede causar pancreatitis. La CPRE preoperatoria se reserva para la colangitis o la obstrucción biliar clara; si solo se sospecha un cálculo, se hace colangiografía intraoperatoria. En la pancreatitis grave, operar pronto aumenta la morbimortalidad, así que hay que esperar a que se resuelva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 85 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "a82837021e": {
+  "k": "a82837021e",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la indicación más común para esplenectomía electiva?",
+  "opts": [
+   "Estadificación del linfoma de Hodgkin",
+   "Esferocitosis hereditaria",
+   "Púrpura trombocitopénica inmunitaria",
+   "Púrpura trombocitopénica trombótica",
+   "Anemia hemolítica autoinmunitaria"
+  ],
+  "ans": 2,
+  "why": "Hoy la PTI es la indicación más frecuente de esplenectomía electiva, seguida de la esferocitosis hereditaria, la anemia hemolítica autoinmunitaria y la PTT. La estadificación del linfoma de Hodgkin fue la principal en el pasado, pero ya no se hace. El trauma es la indicación más frecuente de esplenectomía en general, pero no es electiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 100 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "5be5a2b9c3": {
+  "k": "5be5a2b9c3",
+  "estado": "confirmada",
+  "stem": "Comparando esplenectomía laparoscópica versus abierta en trastornos hematológicos, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "La esplenectomía abierta tiene mejores resultados a largo plazo",
+   "La estancia hospitalaria es similar en ambas técnicas",
+   "La mortalidad operatoria es menor en la laparoscópica",
+   "La esplenectomía laparoscópica es el estándar actual de atención",
+   "La esplenectomía laparoscópica se asocia con mayor costo para el paciente"
+  ],
+  "ans": 3,
+  "why": "La esplenectomía laparoscópica es hoy el estándar para la esplenectomía electiva no traumática. Frente a la abierta dura más en quirófano, pero acorta la estancia hospitalaria y tiene menos morbilidad, con pérdida de sangre, mortalidad y tasas de respuesta similares. Aunque el quirófano cuesta más, el costo total para el paciente suele ser menor gracias a la estancia más corta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "d9bed2117f": {
+  "k": "d9bed2117f",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la localización más común de un bazo accesorio?",
+  "opts": [
+   "Hilio esplénico",
+   "Ligamento gastrocólico",
+   "Epiplón mayor",
+   "Ligamento esplenorrenal",
+   "Adyacente al testículo izquierdo"
+  ],
+  "ans": 0,
+  "why": "El bazo accesorio se encuentra con más frecuencia en el hilio esplénico, seguido de la cola del páncreas; también puede aparecer en los ligamentos gastroesplénico y esplenocólico, en el epiplón o, rara vez, junto al testículo o el ovario izquierdos. Hay que buscarlo en la esplenectomía por PTI, porque si queda puede causar una recidiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 93 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "311d84fd8f": {
+  "k": "311d84fd8f",
+  "estado": "confirmada",
+  "stem": "La indicación más común para esplenectomía electiva es:",
+  "opts": [
+   "Estadificación de linfoma de Hodgkin",
+   "Esferocitosis hereditaria",
+   "Púrpura trombocitopénica idiopática",
+   "Leucemia linfocítica crónica",
+   "Anemia hemolítica autoinmune"
+  ],
+  "ans": 2,
+  "why": "La PTI es la indicación más frecuente de esplenectomía electiva, seguida de la esferocitosis hereditaria y la anemia hemolítica autoinmune. La estadificación del linfoma de Hodgkin fue la principal en el pasado, pero se abandonó, y la leucemia linfocítica crónica es una indicación poco frecuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 100 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ "e8eb84aa86": {
+  "k": "e8eb84aa86",
+  "estado": "confirmada",
+  "stem": "Comparando la esplenectomía laparoscópica con la abierta para trastornos hematológicos, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "La esplenectomía abierta tiene mejores resultados a largo plazo en cuanto a tasa de respuesta",
+   "La duración de la hospitalización es la misma",
+   "La mortalidad operatoria es menor con la esplenectomía laparoscópica",
+   "La esplenectomía laparoscópica se ha convertido en el estándar de atención",
+   "La esplenectomía laparoscópica tiene una menor morbilidad en pacientes cirróticos"
+  ],
+  "ans": 3,
+  "why": "La esplenectomía laparoscópica es hoy el estándar para la esplenectomía electiva no traumática. Frente a la abierta dura más en quirófano, pero acorta la estancia hospitalaria y tiene menos morbilidad, con pérdida de sangre, mortalidad y tasas de respuesta similares. Aunque el quirófano cuesta más, el costo total para el paciente suele ser menor gracias a la estancia más corta. La opción E habla de pacientes cirróticos, que quedan fuera de la pregunta (trastornos hematológicos), y la fuente no la respalda.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "En el ABSITE la opción E original era 'mayor costo para el paciente'; este banco la cambió por 'menor morbilidad en cirróticos', que no responde a la pregunta."
+ },
+ "3396c811b0": {
+  "k": "3396c811b0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre el síndrome de Mallory-Weiss?",
+  "opts": [
+   "El hallazgo patológico principal es perforación espontánea del esófago.",
+   "Ocurre típicamente en el lado derecho.",
+   "Suele estar asociado con aire en el mediastino.",
+   "Debe realizarse endoscopía para confirmar el diagnóstico.",
+   "El tratamiento quirúrgico inmediato es la elección."
+  ],
+  "ans": 3,
+  "why": "El Mallory-Weiss es un desgarro mucoso parcial (no transmural) de la unión gastroesofágica tras vómitos o arcadas intensas, y la endoscopia confirma el diagnóstico y permite tratar el sangrado (inyección de epinefrina o esclerosante). La perforación transmural con aire mediastínico corresponde al síndrome de Boerhaave (A y C falsas). El desgarro suele estar en el lado izquierdo, 3–5 cm por encima de la UGE (B falsa), y la mayoría de sangrados cede sin cirugía (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ "b3fdb02abd": {
+  "k": "b3fdb02abd",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al esófago de Barrett?",
+  "opts": [
+   "Los IBP se consideran una opción de tratamiento más eficaz que los bloqueadores H2.",
+   "Las restricciones dietéticas como las usadas en ERGE no son útiles.",
+   "Los pacientes con esófago de Barrett de segmento corto y largo tienen riesgo similar de displasia de alto grado.",
+   "El uso de IBP en dosis altas comparado con dosis bajas ha demostrado reducir la progresión a carcinoma en pacientes con esófago de Barrett.",
+   "Photofrin es una modalidad útil de tratamiento."
+  ],
+  "ans": null,
+  "why": "El de Virgilio da como verdadera la A (los IBP son más eficaces que los bloqueadores H2 en el Barrett). Pero en esta versión la opción D fue cambiada y dice que el IBP en dosis altas frente a dosis bajas reduce la progresión a carcinoma; el mismo libro, al comentar el ensayo AspECT, afirma que el IBP en dosis altas (con aspirina) reduce de forma significativa la progresión a cáncer. Con esa fuente, A y D quedan defendibles. B, C y E son falsas: las restricciones dietéticas sí ayudan, el Barrett de segmento largo tiene más riesgo de displasia de alto grado y el Photofrin no ha demostrado utilidad.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (resaltado). En la pregunta original del de Virgilio la opción D era otra ('IBP en dosis altas con aspirina está contraindicado'). La traducción del banco la volvió defendible."
+ },
+ "a70bb3e579": {
+  "k": "a70bb3e579",
+  "estado": "dudosa",
+  "stem": "La erradicación exitosa de H. pylori se documenta mejor con:",
+  "opts": [
+   "Endoscopía con biopsia",
+   "Prueba del aliento con urea",
+   "Prueba serológica",
+   "Antígeno en heces",
+   "No es necesaria documentación si los síntomas han desaparecido"
+  ],
+  "ans": null,
+  "why": "El de Virgilio dice que la prueba del aliento con urea es la mejor para confirmar la erradicación. Pero el Sabiston afirma que el antígeno en heces (monoclonal) detecta la erradicación con más del 90% de precisión, 'a la par' de la histología y del aliento con urea, y que es probablemente el método más rentable. Con las dos fuentes, B y D son defendibles como 'mejor'. La serología no sirve porque sigue positiva tras la curación; la endoscopia es invasiva y no se usa de rutina para el control; y la erradicación siempre debe documentarse.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 129 del PDF",
+   "Sabiston 21.ª ed., p. 1230 del PDF",
+   "Sabiston 21.ª ed., p. 1233 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). La pregunta original del de Virgilio no incluía el antígeno en heces entre las opciones. Si el examen sigue al de Virgilio, la respuesta esperada es B."
+ },
+ "f5693ffbd1": {
+  "k": "f5693ffbd1",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el procedimiento de elección para una úlcera gástrica tipo I intratable que no sana a pesar del tratamiento médico máximo?",
+  "opts": [
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Vagotomía altamente selectiva solamente",
+   "Gastrectomía distal con reconstrucción tipo Billroth I",
+   "Gastrectomía distal con reconstrucción tipo Billroth II"
+  ],
+  "ans": 3,
+  "why": "La úlcera gástrica tipo I (curvatura menor, cerca de la incisura) no se asocia con hipersecreción ácida, así que no requiere vagotomía. Se trata con la resección de la úlcera mediante gastrectomía distal, que también descarta cáncer, con reconstrucción Billroth I. Las opciones con vagotomía (A, B y C) añaden un procedimiento antiácido innecesario y la C no reseca la úlcera. Cuando la anatomía lo permite, se prefiere Billroth I a Billroth II porque es más fisiológico y causa menos reflujo alcalino.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1231 del PDF",
+   "Sabiston 21.ª ed., p. 1180 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 128 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ "972daa2757": {
+  "k": "972daa2757",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes afirmaciones sobre la enfermedad de Crohn son verdaderas, EXCEPTO:",
+  "opts": [
+   "Es más común en personas de bajo nivel socioeconómico",
+   "Es la enfermedad quirúrgica primaria más común del intestino delgado",
+   "Tiene una distribución bimodal",
+   "Es más prevalente en fumadores",
+   "Está asociada con el uso de Accutane (isotretinoína)"
+  ],
+  "ans": 0,
+  "why": "La enfermedad de Crohn es más frecuente en zonas urbanas y en personas de nivel socioeconómico alto, no bajo, así que A es la falsa. Las demás son verdaderas: es la enfermedad quirúrgica primaria más común del intestino delgado; tiene distribución bimodal (picos en la 2.ª–3.ª y en la 6.ª década); el tabaquismo es un factor de riesgo; y se ha descrito asociación con la isotretinoína (Accutane).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 148 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "23072b88c0": {
+  "k": "23072b88c0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al manejo quirúrgico del intestino delgado en la enfermedad de Crohn?",
+  "opts": [
+   "El margen óptimo es al menos 4 cm más allá de la enfermedad visible",
+   "Se debe realizar biopsia intraoperatoria por congelación para confirmar la ausencia de enfermedad activa en al menos un margen",
+   "La enfermedad duodenal se maneja mejor mediante resección",
+   "Un segmento de yeyuno estenosado de 10 cm puede manejarse con estricturoplastia tipo Heineke-Mikulicz en lugar de resección",
+   "Las estenosis mayores de 10 cm se manejan mejor con resección"
+  ],
+  "ans": 3,
+  "why": "En el Crohn se busca preservar intestino: la estricturoplastia es tan eficaz como la resección en yeyuno e íleon. El de Virgilio indica Heineke-Mikulicz para estenosis menores de 12 cm y Finney para las de hasta 25 cm, así que un segmento de 10 cm admite Heineke-Mikulicz (D) y las estenosis largas no requieren resección (E falsa). El margen recomendado es de 2 cm y la enfermedad microscópica en el margen no cambia la recidiva, así que no hace falta biopsia por congelación (A y B falsas). La estenosis duodenal se trata con derivación, no con resección (C falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 149 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "En otra página el mismo libro da un límite de menos de 7 cm para Heineke-Mikulicz (p. 134). La explicación de esta pregunta (p. 149) usa menos de 12 cm."
+ },
+ "653990f99f": {
+  "k": "653990f99f",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la mejor opción terapéutica para enfermedad de Crohn leve activa?",
+  "opts": [
+   "Sulfasalazina",
+   "Prednisona",
+   "Budesonida",
+   "Metronidazol",
+   "Infliximab"
+  ],
+  "ans": null,
+  "why": "El de Virgilio da la sulfasalazina como el fármaco más usado en el Crohn leve activo, sobre todo con afectación colónica o ileocolónica. Pero el Sabiston dice que la eficacia de la sulfasalazina en el Crohn del intestino delgado es polémica y recomienda la budesonida de liberación ileal como tratamiento inicial del Crohn leve a moderado de localización ileal o del colon derecho. Como el enunciado no dice dónde está la enfermedad, A y C son defendibles. La prednisona es para brotes moderados a graves, el metronidazol es un coadyuvante (enfermedad perianal, fístulas) y el infliximab se usa si fallan los corticoides.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 149 del PDF",
+   "Sabiston 21.ª ed., p. 1289 del PDF",
+   "Sabiston 21.ª ed., p. 1290 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: A (resaltado), igual que la del de Virgilio. Si el examen sigue al de Virgilio, la respuesta esperada es A."
+ },
+ "47c4aa142c": {
+  "k": "47c4aa142c",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los divertículos duodenales?",
+  "opts": [
+   "Tienden a ocurrir en el lado antimesentérico del intestino",
+   "Usualmente son divertículos verdaderos",
+   "El tratamiento mediante intervenciones endoscópicas está contraindicado",
+   "Se localizan con mayor frecuencia en la región periampular",
+   "Si se descubren incidentalmente durante la cirugía, deben dejarse sin intervención"
+  ],
+  "ans": null,
+  "why": "Según el de Virgilio, los divertículos duodenales adquiridos son falsos (B falsa), nacen en el borde mesentérico (A falsa) y sus complicaciones biliares suelen tratarse por vía endoscópica (C falsa). El mismo libro dice que son más frecuentes en la segunda porción del duodeno, junto a la ampolla (periampulares), y que no se operan si se descubren incidentalmente. Por eso en esta versión D y E son verdaderas a la vez.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E (resaltado). En la versión del de Virgilio la opción D era otra (malabsorción que requiere cirugía), y E era la única correcta. La versión del banco con 'periampular' tiene dos respuestas verdaderas."
+ },
+ "aa7e54a889": {
+  "k": "aa7e54a889",
+  "estado": "confirmada",
+  "stem": "Dos semanas después de una reparación abierta de aneurisma aórtico, el paciente se presenta con distensión abdominal marcada sin náuseas ni vómitos. No hay dolor a la palpación abdominal. Las radiografías simples son normales. La tomografía computarizada (TC) revela una gran cantidad de ascitis pero por lo demás es normal. La paracentesis revela líquido turbio con cultivo negativo. El análisis del líquido muestra un nivel de triglicéridos de 400 mg/dL. El recuento de leucocitos es 600/μL con predominio linfocítico. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "El paciente debe ser puesto en nutrición parenteral total (NPT) y nada por vía oral",
+   "El octreótido no es útil",
+   "El paciente debe ser reintervenido de inmediato",
+   "La derivación peritoneovenosa es altamente exitosa",
+   "La mayoría de los pacientes responde a una dieta alta en proteínas y baja en grasas"
+  ],
+  "ans": 4,
+  "why": "Es una ascitis quilosa posoperatoria (líquido turbio, triglicéridos >200 mg/dL, leucocitos >500 con predominio linfocítico, cultivo negativo), típica tras cirugía aórtica por lesión de linfáticos retroperitoneales. El tratamiento inicial es una dieta hiperproteica y baja en grasas con triglicéridos de cadena media, que reduce la producción de quilo. La NPT con ayuno y el octreótido se usan si la dieta fracasa (son útiles, no primera línea); la reexploración se reserva para fugas que persisten más de 2 semanas; la derivación peritoneovenosa no es una opción de alto éxito.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ "c560d6499a": {
+  "k": "c560d6499a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con antecedente de laparotomía y radioterapia abdominal y pélvica (5000 Gy) por cáncer de ovario hace 10 años presenta síntomas y signos de obstrucción intestinal aguda. La TC muestra una obstrucción completa del intestino delgado a nivel del yeyuno medio sin evidencia de masas. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Si hay una estenosis presente, se maneja mejor con estricturoplastia",
+   "La paciente debe someterse a una lisis completa de adherencias",
+   "La enteritis por radiación crónica se debe a una arteritis obliterante",
+   "Está indicado un ensayo con corticosteroides",
+   "El daño por radiación no se ve afectado por si el paciente recibió quimioterapia"
+  ],
+  "ans": 2,
+  "why": "La enteritis por radiación crónica se debe a una arteritis obliterante de los vasos submucosos, que produce fibrosis progresiva y estenosis. La estricturoplastia no se recomienda en el intestino irradiado por el alto riesgo de dehiscencia (A falsa). Debe evitarse la adherenciolisis extensa por el riesgo de enterotomías y fístulas; se prefiere resecar o derivar (B falsa). Los corticoides no se usan (D falsa), y la quimioterapia, la vasculopatía y la diabetes aumentan el daño (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 146 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El original dice '5000 Gy'; la dosis real de la pregunta fuente es 5000 cGy."
+ },
+ "fc2dd591fd": {
+  "k": "fc2dd591fd",
+  "estado": "dudosa",
+  "stem": "Un niño de 5 años se presenta con síntomas y signos de apendicitis aguda. Se le realiza una apendicectomía abierta. En cirugía, el apéndice está inflamado pero no perforado. Se encuentra incidentalmente un divertículo de Meckel. Además de la apendicectomía, el manejo adicional consiste en:",
+  "opts": [
+   "Observación",
+   "Diverticulectomía de Meckel",
+   "Diverticulectomía solo si se palpa mucosa ectópica",
+   "Diverticulectomía solo si hay una banda adhesiva al ombligo",
+   "Diverticulectomía solo si hay signos previos de inflamación"
+  ],
+  "ans": null,
+  "why": "El manejo del Meckel asintomático hallado de forma incidental es controvertido, y el propio Sabiston se contradice. En el capítulo de intestino delgado dice que en general se recomienda extirpar los divertículos asintomáticos hallados en una laparotomía pediátrica, lo que apoya B. En el capítulo de cirugía pediátrica dice que el Meckel asintomático debe ser respetado, lo que apoya A. El de Virgilio propone resecar de forma selectiva según factores de riesgo (menos de 50 años, sexo masculino, diámetro mayor de 2 cm, tejido heterotópico, nódulos palpables, bandas fibrosas), que este niño cumple en parte. Con estas fuentes, A y B son defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1314 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: B (resaltado). Es la respuesta tradicional tipo board para niños, pero la referencia principal se contradice entre capítulos."
+ },
+ "0c0059eaf2": {
+  "k": "0c0059eaf2",
+  "estado": "confirmada",
+  "stem": "La causa más común de sangrado gastrointestinal oculto en adultos es:",
+  "opts": [
+   "Angiodisplasia del intestino delgado",
+   "Divertículo de Meckel",
+   "Enfermedad de Crohn",
+   "Enteritis infecciosa",
+   "Vasculitis"
+  ],
+  "ans": 0,
+  "why": "Cuando la endoscopia alta y la colonoscopia no encuentran el origen, el sangrado suele venir del intestino delgado. En el adulto, la angiodisplasia del intestino delgado explica alrededor del 75% de estos casos. El divertículo de Meckel es la causa más común en niños, no en adultos. El Crohn, la enteritis infecciosa y la vasculitis son causas menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "f0c774080d": {
+  "k": "f0c774080d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta respecto a la enfermedad de Crohn?",
+  "opts": [
+   "El engrosamiento graso mesentérico se considera patognomónico.",
+   "Los síntomas de espondilitis anquilosante mejoran con la resección del intestino afectado.",
+   "La mayoría de los pacientes con presentación inicial de ileítis terminal progresa a enfermedad de Crohn en el seguimiento a largo plazo.",
+   "La patergia es un hallazgo común.",
+   "El pioderma gangrenoso es común en la presentación inicial de la enfermedad de Crohn."
+  ],
+  "ans": 0,
+  "why": "La grasa reptante (creeping fat), en la que la grasa mesentérica envuelve la serosa, es un hallazgo macroscópico que se considera patognomónico de la enfermedad de Crohn. La espondilitis anquilosante y la colangitis esclerosante no mejoran con la resección (B falsa). Solo una minoría (alrededor del 10%) de las ileítis terminales progresa a Crohn (C falsa). La patergia es rara (D falsa) y el pioderma gangrenoso rara vez es la presentación inicial (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 146 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 147 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "a664e6083a": {
+  "k": "a664e6083a",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los divertículos duodenales?",
+  "opts": [
+   "Tienden a ocurrir en el lado antimesentérico del intestino.",
+   "Se identifican con mayor frecuencia en pacientes jóvenes.",
+   "El tratamiento con intervenciones endoscópicas está contraindicado.",
+   "La malabsorción por sobrecrecimiento bacteriano dentro del divertículo requiere cirugía.",
+   "Si se descubren incidentalmente en cirugía, deben dejarse sin intervención."
+  ],
+  "ans": 4,
+  "why": "La mayoría de los divertículos duodenales son asintomáticos, así que no se operan si se descubren incidentalmente en imagen o en cirugía. Nacen en el borde mesentérico, donde los vasos penetran la pared (A falsa). Se diagnostican sobre todo entre los 56 y 76 años (B falsa). Sus complicaciones biliares suelen resolverse por vía endoscópica (C falsa), y la malabsorción por sobrecrecimiento bacteriano se trata con antibióticos (D falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "e92b5aed2b": {
+  "k": "e92b5aed2b",
+  "estado": "confirmada",
+  "stem": "Dos semanas después de una reparación abierta de aneurisma aórtico, el paciente se presenta con distensión abdominal marcada sin náuseas ni vómitos. No hay sensibilidad en el examen abdominal. Las radiografías simples no muestran hallazgos relevantes. La tomografía computarizada (TC) revela una gran cantidad de ascitis pero por lo demás es normal. La paracentesis muestra líquido turbio con cultivo negativo. El análisis del líquido revela un nivel de triglicéridos de 400 mg/dL. El recuento de leucocitos es de 600 células/μL con predominio de linfocitos. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "El paciente debe ser puesto en nutrición parenteral total (NPT) y dieta absoluta (NPO).",
+   "La octreotida no es útil.",
+   "El paciente debe ser reexplorado inmediatamente.",
+   "El cortocircuito peritoneo-venoso tiene alta tasa de éxito.",
+   "La mayoría de los pacientes responde a una dieta alta en proteínas y baja en grasas con triglicéridos de cadena media."
+  ],
+  "ans": 4,
+  "why": "Es una ascitis quilosa posoperatoria (líquido turbio, triglicéridos >200 mg/dL, leucocitos >500 con predominio linfocítico, cultivo negativo), típica tras cirugía aórtica por lesión de linfáticos retroperitoneales. El tratamiento inicial es una dieta hiperproteica y baja en grasas con triglicéridos de cadena media, que reduce la producción de quilo. La NPT con ayuno y el octreótido se usan si la dieta fracasa (son útiles, no primera línea); la reexploración se reserva para fugas que persisten más de 2 semanas; la derivación peritoneovenosa no es una opción de alto éxito.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ "93d75717b1": {
+  "k": "93d75717b1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al manejo del síndrome de intestino corto?",
+  "opts": [
+   "La glutamina debe evitarse.",
+   "La octreotida es la base del tratamiento.",
+   "La codeína está contraindicada.",
+   "Se indica alimentación enteral temprana.",
+   "Los pacientes que aún requieren NPT después de 6 meses necesitarán NPT permanente."
+  ],
+  "ans": 3,
+  "why": "La nutrición enteral debe iniciarse en cuanto se resuelve el íleo, porque estimula la adaptación intestinal y evita la atrofia de las vellosidades. La glutamina es útil como combustible trófico del enterocito (A falsa). El papel del octreótido es controvertido y puede inhibir la adaptación (B falsa). La codeína y la loperamida se usan para enlentecer el tránsito (C falsa). La adaptación tarda de 1 a 2 años, así que a los 6 meses no se puede concluir que la NPT será permanente (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "880a4e5175": {
+  "k": "880a4e5175",
+  "estado": "confirmada",
+  "stem": "El síndrome de la arteria mesentérica superior (síndrome de Wilkie):",
+  "opts": [
+   "Involucra la segunda porción del duodeno",
+   "Ocurre cuando la AMS sale de la aorta con un ángulo ascendente",
+   "Se diagnostica mejor con arteriografía",
+   "Debe manejarse inicialmente con ingesta calórica alta",
+   "Se maneja mejor con una gastro-yeyunostomía"
+  ],
+  "ans": 3,
+  "why": "El síndrome de Wilkie aparece tras una pérdida de peso marcada: desaparece la grasa del mesenterio y la AMS comprime el duodeno. Por eso el manejo inicial es conservador, con aporte calórico alto para ganar peso y recuperar ese colchón graso. Afecta la tercera porción del duodeno (A falsa); la AMS sale con un ángulo agudo hacia abajo (B falsa); se diagnostica con TC o tránsito baritado, no con arteriografía (C falsa); y si se opera, la técnica es la duodenoyeyunostomía (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "fd0964148a": {
+  "k": "fd0964148a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con antecedentes de laparotomía y 5000 cGy de irradiación abdominopélvica por cáncer de ovario hace 10 años se presenta con síntomas y signos de obstrucción intestinal aguda. La TC muestra una obstrucción completa del intestino delgado a nivel del yeyuno medio sin evidencia de masas. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Si hay una estenosis, se maneja mejor con plastia de estenosis.",
+   "Deben administrarse esteroides.",
+   "La enteritis por radiación aguda se debe a una arteritis obliterante.",
+   "El riesgo de esta complicación aumenta en el contexto de diabetes.",
+   "El grado de daño por radiación no se ve afectado por si el paciente recibió quimioterapia."
+  ],
+  "ans": 3,
+  "why": "El riesgo de daño por radiación aumenta con la dosis, con la quimioterapia previa y con la vasculopatía o la diabetes de base. La estricturoplastia no se recomienda en el intestino irradiado por el riesgo de dehiscencia (A falsa) y los corticoides no se usan (B falsa). La arteritis obliterante explica la enteritis crónica, no la aguda, que es un cuadro transitorio alrededor de 3 semanas después del tratamiento (C falsa). La quimioterapia sí aumenta el daño (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 146 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "d36a71f551": {
+  "k": "d36a71f551",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años con leucemia mieloide aguda presenta dolor y sensibilidad en el cuadrante inferior derecho del abdomen. Recientemente completó quimioterapia. Su temperatura es de 102 °F (38.8 °C) y su recuento de leucocitos es 1.9 × 10³ células/μL. Una tomografía computarizada revela inflamación y engrosamiento del colon derecho, con estriación de la grasa adyacente. El manejo consiste en:",
+  "opts": [
+   "Antibióticos intravenosos únicamente",
+   "Hemicolectomía derecha con ileotransversostomía primaria",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Cecostomía",
+   "Apendicectomía"
+  ],
+  "ans": 0,
+  "why": "Es una enterocolitis neutropénica (tiflitis): paciente neutropénico tras quimioterapia, con dolor en la fosa ilíaca derecha, fiebre y engrosamiento del ciego o colon derecho en la TC. La mayoría responde al reposo intestinal y a antibióticos intravenosos. La cirugía (resección, ostomías, cecostomía o apendicectomía) se reserva para la perforación u otras complicaciones, que no hay en este caso.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "d13d566370": {
+  "k": "d13d566370",
+  "estado": "confirmada",
+  "stem": "Un paciente institucionalizado de 65 años se presenta con distensión abdominal, náuseas y obstipación de 2 días de evolución. El examen físico revela gran distensión con dolor abdominal leve y difuso, sin defensa ni rebote. El recuento de leucocitos es de 10,000/μL. Las radiografías simples muestran un asa intestinal dilatada con forma de U invertida (signo del omega). El manejo debe consistir en:",
+  "opts": [
+   "Detorsión endoscópica",
+   "Detorsión endoscópica seguida de colectomía sigmoidea electiva",
+   "Detorsión endoscópica seguida de colectomía sigmoidea electiva solo si hay recurrencia",
+   "Laparotomía exploradora con colectomía sigmoidea, lavado intraoperatorio y anastomosis primaria",
+   "Laparotomía exploradora con colectomía sigmoidea, colostomía proximal y cierre del muñón rectal"
+  ],
+  "ans": 1,
+  "why": "Es un vólvulo de sigmoides sin signos de isquemia (sin peritonitis ni toxicidad sistémica). El primer paso es la detorsión endoscópica, pero la recurrencia llega al 40%, así que se recomienda una colectomía sigmoidea electiva posterior. Detorsionar solo, o operar solo si recurre, deja ese riesgo (A y C). La laparotomía urgente (D y E) se reserva para el colon isquémico o gangrenoso, o cuando falla la detorsión.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "8723a8d898": {
+  "k": "8723a8d898",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la fisiología del colon?",
+  "opts": [
+   "El colon absorbe hasta 500 mL/día de agua.",
+   "El sodio se absorbe activamente por medio de la Na⁺/K⁺-ATPasa.",
+   "La reabsorción de amonio no se ve afectada por el pH luminal.",
+   "El cloro se secreta.",
+   "No produce ningún nutriente."
+  ],
+  "ans": 1,
+  "why": "El colon absorbe sodio de forma activa mediante la Na⁺/K⁺-ATPasa, y el agua lo sigue de forma pasiva. Absorbe normalmente 1–2 L de agua al día y puede llegar a 5 L (A falsa). Bajar el pH luminal, como hace la lactulosa, reduce la reabsorción de amonio (C falsa). El cloro se absorbe a cambio de bicarbonato, no se secreta (D falsa). La fermentación bacteriana produce ácidos grasos de cadena corta, el principal combustible del colonocito (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 162 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "e666cbac0a": {
+  "k": "e666cbac0a",
+  "estado": "confirmada",
+  "stem": "La lesión perianal más frecuente en la enfermedad de Crohn es:",
+  "opts": [
+   "Fisuras",
+   "Plicomas (skin tags)",
+   "Absceso perianal",
+   "Fístulas perianales",
+   "Hemorroides"
+  ],
+  "ans": 1,
+  "why": "La lesión perianal más frecuente en el Crohn son los plicomas (acrocordones), seguidos de las fisuras. El Sabiston también señala que muchos pacientes tienen lesiones benignas como simples acrocordones. Las fisuras, los abscesos, las fístulas y las hemorroides también aumentan en el Crohn, pero son menos frecuentes que los plicomas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF",
+   "Sabiston 21.ª ed., p. 1439 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "368c2352d8": {
+  "k": "368c2352d8",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con pancolitis por colitis ulcerosa de 15 años de evolución se somete a colonoscopía de vigilancia. No se detectan pólipos. Las biopsias aleatorias revelan displasia de alto grado en el colon sigmoide. El manejo recomendado sería:",
+  "opts": [
+   "Repetir la colonoscopía en 6 meses con nuevas biopsias aleatorias",
+   "Colectomía sigmoidea",
+   "Colectomía total con anastomosis ileorrectal",
+   "Proctocolectomía total con ileostomía",
+   "Proctocolectomía restauradora con anastomosis íleo-anal en bolsa (pouch)"
+  ],
+  "ans": 4,
+  "why": "En la colitis ulcerosa la displasia (incluso plana, hallada en biopsias aleatorias) es indicación de cirugía, porque el cáncer aparece sin pólipos y la displasia suele ser multifocal. La operación curativa de elección es la proctocolectomía restauradora con anastomosis íleo-anal en bolsa (IPAA), que extirpa toda la mucosa enferma y conserva la continencia. Repetir la colonoscopía es inapropiado; la colectomía sigmoidea y la colectomía total con anastomosis ileorrectal dejan mucosa en riesgo (recto); la proctocolectomía con ileostomía terminal es curativa pero no es la de elección en una paciente candidata a reconstrucción.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 162 del PDF",
+   "Sabiston 21.ª ed., p. 1394 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "61bfb945eb": {
+  "k": "61bfb945eb",
+  "estado": "confirmada",
+  "stem": "La manifestación más temprana de la colitis ulcerosa es:",
+  "opts": [
+   "Ulceraciones mucosas",
+   "Edema mucoso",
+   "Colon en “tubo de plomo”",
+   "Pseudopólipos",
+   "Abscesos crípticos"
+  ],
+  "ans": 1,
+  "why": "El edema de la mucosa es el hallazgo endoscópico más temprano de la colitis ulcerosa; con la progresión aparecen mucosa friable y ulceraciones. El colon en 'tubo de plomo' es un signo radiológico de enfermedad de larga evolución; los pseudopólipos aparecen en CU y Crohn ya establecidos; los abscesos crípticos son característicos pero no son la manifestación más temprana y se ven en otras colitis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 162 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "fbb8757fae": {
+  "k": "fbb8757fae",
+  "estado": "confirmada",
+  "stem": "Un hombre de 56 años presenta fiebre, náuseas y dolor en cuadrante inferior izquierdo de 2 días de evolución. El recuento de leucocitos es de 14,000/μL. La TC muestra engrosamiento del colon sigmoide, estriación de la grasa y un absceso pélvico de 5 cm. El manejo óptimo sería:",
+  "opts": [
+   "Colectomía sigmoidea inmediata, colostomía terminal y drenaje del absceso",
+   "Drenaje guiado por TC seguido de colectomía sigmoidea en 6 semanas",
+   "Solo drenaje guiado por TC",
+   "Antibióticos IV seguidos de colectomía",
+   "Solo antibióticos intravenosos"
+  ],
+  "ans": 1,
+  "why": "Es una diverticulitis complicada Hinchey II (absceso pélvico). Los abscesos grandes (como este de 5 cm) requieren drenaje percutáneo guiado por imagen junto con antibióticos y, tras la recuperación, se recomienda la colectomía sigmoidea programada (habitualmente a las 6 semanas). La cirugía inmediata (Hartmann) se reserva para peritonitis generalizada o falla del drenaje; solo antibióticos sirven para abscesos pequeños; el drenaje solo, sin resección electiva, no es lo recomendado tras diverticulitis complicada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF",
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "f3be35d3e2": {
+  "k": "f3be35d3e2",
+  "estado": "confirmada",
+  "stem": "Diez años después de una resección abdominoperineal por cáncer rectal localmente avanzado, un paciente se presenta con una hernia adyacente a su estoma que le causa molestias e interfiere con la colocación de la bolsa de colostomía. Ha estado aumentando de tamaño en los últimos meses. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a esta condición?",
+  "opts": [
+   "La enfermedad pulmonar obstructiva crónica (EPOC) es el factor de riesgo más importante.",
+   "El tratamiento incluye un dispositivo de soporte como un cinturón para hernias y pérdida de peso.",
+   "La reparación se logra mejor reubicando el estoma.",
+   "La colocación profiláctica de malla en la operación inicial disminuye el riesgo de esta complicación.",
+   "Esta complicación es más común con ileostomía en asa que con colostomía terminal."
+  ],
+  "ans": 3,
+  "why": "La colocación de malla profiláctica en la operación inicial reduce la incidencia de hernia paraestomal (en un estudio, de 55% a 7,8%). La EPOC es solo uno de varios factores de riesgo (también obesidad, edad, desnutrición, infección de herida), no el más importante. El cinturón y la pérdida de peso son para la hernia asintomática; este paciente tiene dolor y problemas con la bolsa, indicación de reparación. La reubicación del estoma conlleva el mismo riesgo de nueva hernia, por lo que se prefiere la reparación con malla. La hernia paraestomal es más frecuente con colostomía terminal y menos con ileostomía en asa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 165 del PDF",
+   "Sabiston 21.ª ed., p. 1154 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "0a34e88c44": {
+  "k": "0a34e88c44",
+  "estado": "confirmada",
+  "stem": "Cinco días después de una apendicectomía, se observa salida de heces líquidas a través de la herida en el cuadrante inferior derecho. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "El paciente debe mantenerse en ayunas y recibir nutrición parenteral",
+   "Debe iniciarse octreótido",
+   "El paciente debe ser llevado inmediatamente a reexploración y cecostomía",
+   "El paciente debe ser llevado inmediatamente a reexploración y colectomía derecha",
+   "La condición se resuelve espontáneamente en la mayoría de los casos"
+  ],
+  "ans": 4,
+  "why": "Es una fístula cecal (colocutánea) por deslizamiento de la ligadura o necrosis del muñón apendicular. Es de bajo débito y la mayoría cierra espontáneamente; se debe descartar un absceso con imagen y se puede dar dieta baja en residuos. No requiere nutrición parenteral, el octreótido no ayuda al cierre y la reexploración (cecostomía o colectomía) no es el manejo inicial. Si no cierra, sospechar neoplasia, EII, tuberculosis u obstrucción distal.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "97afa42c2b": {
+  "k": "97afa42c2b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la quimioterapia para el carcinoma de colon?",
+  "opts": [
+   "La combinación de 5-fluorouracilo y leucovorina prolonga la supervivencia en cáncer de colon estadio IV",
+   "La radioterapia se utiliza comúnmente junto con quimioterapia en el manejo del cáncer de colon",
+   "Se ha demostrado que bevacizumab (Avastin) no prolonga la supervivencia en cáncer de colon estadio IV",
+   "5-fluorouracilo y leucovorina prolongan la supervivencia en pacientes con cáncer de colon estadio III",
+   "Bevacizumab (Avastin) es un anticuerpo monoclonal contra el receptor del factor de crecimiento epidérmico"
+  ],
+  "ans": 3,
+  "why": "El 5-fluorouracilo con leucovorina prolonga la supervivencia en el cáncer de colon estadio III (ganglios positivos), donde la quimioterapia adyuvante es el estándar. Según la fuente, ese beneficio de 5-FU/leucovorina se demuestra en estadio III y no en estadio IV (A); la radioterapia no se usa de rutina en cáncer de colon (sí en recto); el bevacizumab sí prolonga la supervivencia en estadio IV, y es un anticuerpo contra el VEGF, no contra el receptor del factor de crecimiento epidérmico (ese es el cetuximab).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "La opción A, tal como está redactada, es discutible (la quimioterapia basada en 5-FU sí mejora la supervivencia en estadio IV frente a no tratar), pero la fuente la da como falsa y la D es la afirmación inequívocamente correcta."
+ },
+ "b376ca7625": {
+  "k": "b376ca7625",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es la más confiable para confirmar el diagnóstico de apendicitis aguda?",
+  "opts": [
+   "Historia clásica de dolor periumbilical inicial que migra al cuadrante inferior derecho",
+   "Sensibilidad localizada en el punto de McBurney",
+   "Dolor a la descompresión (rebote)",
+   "Signo del obturador",
+   "Signo de Rovsing"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la localización del dolor en la fosa ilíaca derecha tras el dolor periumbilical inicial (migración) 'continúa siendo el indicador más fiable de la apendicitis', lo que apoya la opción A. La clave original (B, sensibilidad en el punto de McBurney) corresponde a la del texto de origen de la pregunta (estilo Schwartz), que no está en los libros de la carpeta. El Sabiston también aclara que ningún síntoma o signo aislado predice la apendicitis por sí solo. El rebote, el obturador y el Rovsing solo indican peritonitis localizada. Las fuentes no coinciden entre A y B, así que no se puede fijar una clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). Sabiston p. 1327 respalda A ('indicador más fiable'). Se deja dudosa por contradicción entre fuentes."
+ },
+ "67bb99a19f": {
+  "k": "67bb99a19f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis aguda?",
+  "opts": [
+   "La capacidad luminal del apéndice es de 1 mL",
+   "El dolor periumbilical inicial se debe a la estimulación de las fibras aferentes parietales del dolor",
+   "La apendicitis perforada puede drenar en forma dependiente hacia el fondo de saco rectovesical",
+   "La náusea precede frecuentemente al dolor abdominal",
+   "No existe diferencia en las tasas de perforación según la edad"
+  ],
+  "ans": 2,
+  "why": "Tras la perforación, la secuela más común es un absceso periapendicular o pélvico: el pus drena por declive hacia la pelvis (fondo de saco rectovesical en el hombre). El dolor periumbilical inicial es visceral, por distensión del apéndice y estímulo de aferentes viscerales, no parietales. La luz del apéndice es muy pequeña (~0,1 mL), no 1 mL. Lo típico es que el dolor preceda a la náusea. Las tasas de perforación sí varían con la edad: son mayores en niños pequeños y en ancianos (40–70%).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Sabiston 21.ª ed., p. 1338 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "12a2551b00": {
+  "k": "12a2551b00",
+  "estado": "confirmada",
+  "stem": "La causa más común de fístula rectovaginal es:",
+  "opts": [
+   "Carcinoma de colon",
+   "Diverticulitis",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Carcinoma vesical"
+  ],
+  "ans": 3,
+  "why": "La causa más frecuente de fístula rectovaginal es la lesión obstétrica: desgarro perineal de tercer o cuarto grado o episiotomía en un parto vaginal, típicamente en primigestas. Otras causas son la enfermedad inflamatoria intestinal (más Crohn que CU), el carcinoma rectal, la radioterapia pélvica y, raramente, la diverticulitis. El carcinoma vesical no es una causa habitual.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 179 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "5ea2d99522": {
+  "k": "5ea2d99522",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la función inmunológica del apéndice?",
+  "opts": [
+   "Secreta IgA",
+   "Secreta IgE",
+   "Secreta IgM",
+   "Secreta IgG",
+   "No tiene función inmunológica"
+  ],
+  "ans": 0,
+  "why": "El apéndice contiene abundante tejido linfoide asociado al intestino (GALT) en la submucosa y es un sitio importante de producción de IgA secretora, que regula la flora intestinal en las superficies mucosas. No es un sitio característico de secreción de IgE, IgM o IgG. Afirmar que no tiene función inmunológica es falso: el Sabiston describe su posible función inmunitaria y su papel como reservorio de flora.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1325 del PDF",
+   "Exploring the Immunological Role of the Microbial Composition of the Appendix… J Pers Med 2025 (PMC11943658, https://europepmc.org/article/PMC/PMC11943658)"
+  ],
+  "tema": "apendicitis"
+ },
+ "ea92a77d7e": {
+  "k": "ea92a77d7e",
+  "estado": "confirmada",
+  "stem": "Una hernia que contiene el apéndice se conoce como:",
+  "opts": [
+   "Hernia de Petit",
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia de Spigelio",
+   "Hernia de Grynfeltt"
+  ],
+  "ans": 1,
+  "why": "La hernia de Amyand es la que contiene el apéndice; el nombre viene de Claudius Amyand, que hizo la primera apendicectomía en un niño con una hernia inguinoescrotal. La hernia de Littre contiene un divertículo de Meckel. Las de Petit (triángulo lumbar inferior) y Grynfeltt (triángulo lumbar superior) son hernias lumbares. La de Spiegel ocurre a través de la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "43c6b3783a": {
+  "k": "43c6b3783a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 35 años se presenta con 1 día de anorexia, dolor en cuadrante inferior derecho y fiebre leve. En la cirugía, el apéndice parece normal. Sin embargo, el ciego y el íleon terminal están rojos e inflamados. El manejo consiste en:",
+  "opts": [
+   "Hemicolectomía derecha",
+   "Apendicectomía",
+   "Cierre de la herida sin intervención adicional",
+   "Biopsia de la pared cecal",
+   "Biopsia del íleon terminal"
+  ],
+  "ans": 2,
+  "why": "Es una ileítis terminal aguda (posible Crohn) con el ciego inflamado. Si el ciego está inflamado no se debe hacer apendicectomía ni biopsias, porque aumentan el riesgo de fístula enterocutánea. La resección (hemicolectomía) solo se indica ante perforación libre, fístula o estenosis. Lo correcto es cerrar sin más intervención y estudiar luego con colonoscopía y biopsias.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "6be72a1205": {
+  "k": "6be72a1205",
+  "estado": "confirmada",
+  "stem": "Un adolescente de 15 años se presenta con 5 días de dolor en el cuadrante inferior derecho y fiebre de 39.4 °C (103 °F). Al examen presenta sensibilidad en los cuadrantes inferior y superior derechos. La bilirrubina total es 3 mg/dL y la fosfatasa alcalina es 250 UI/L. La TC con contraste muestra múltiples densidades en el lóbulo derecho hepático, un flemón en el cuadrante inferior derecho y estriación alrededor de la vena mesentérica superior con burbujas de aire dentro de la vena. El cuadro clínico representa con mayor probabilidad:",
+  "opts": [
+   "Absceso hepático amebiano",
+   "Pileflebitis",
+   "Síndrome carcinoide",
+   "Adenocarcinoma metastásico",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": 1,
+  "why": "La pileflebitis es una tromboflebitis séptica del sistema porta, secundaria a apendicitis o diverticulitis. Produce múltiples abscesos hepáticos, sobre todo en el lóbulo derecho, eleva la fosfatasa alcalina y la bilirrubina, y en la TC se ven trombos o burbujas de aire en la vena mesentérica superior o la porta. El absceso amebiano suele ser único y no se acompaña de aire en la VMS. El síndrome carcinoide, las metástasis y la EII no explican el cuadro séptico agudo con gas portomesentérico.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "8471e9d3ab": {
+  "k": "8471e9d3ab",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis en pacientes con VIH?",
+  "opts": [
+   "La apendicitis ocurre más frecuentemente que en la población general",
+   "Los pacientes con VIH usualmente no manifiestan síntomas ni signos abdominales",
+   "Un recuento bajo de CD4 se asocia a menor riesgo de ruptura",
+   "La morbilidad postoperatoria para la apendicitis no perforada es mayor que en la población general",
+   "Los recuentos leucocitarios absolutos típicamente están elevados"
+  ],
+  "ans": 0,
+  "why": "Varios estudios muestran que la apendicitis es más frecuente en personas con VIH que en la población general; una serie de la era HAART halló una incidencia más de cuatro veces mayor. Los pacientes sí presentan síntomas y signos abdominales. Un CD4 bajo (<200) se asocia a más apendicitis complicada o perforada, no a menos. La morbilidad elevada se vincula a la perforación y la demora, no a la apendicitis no perforada operada a tiempo. El recuento leucocitario es un indicador poco fiable en estos pacientes; los datos son variables, así que E no es la afirmación sólida.",
+  "fuentes": [
+   "Crum-Cianflone N et al. Appendicitis in HIV-infected patients during the era of HAART. HIV Med 2008 (PMC2753588, https://europepmc.org/article/PMC/PMC2753588)",
+   "Acute appendicitis in people living with HIV: What does the emergency surgeon needs to know? SAGE Open Med 2021 (PMC7871281, https://europepmc.org/article/PMC/PMC7871281)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Nota sobre la opción E: en la serie de Crum-Cianflone, el 88% tenía leucocitosis, mientras que otra revisión describe baja prevalencia de leucocitosis. La opción A es la única respaldada de forma consistente."
+ },
+ "87bf432fc9": {
+  "k": "87bf432fc9",
+  "estado": "confirmada",
+  "stem": "El parásito intestinal más común en todo el mundo que causa apendicitis es:",
+  "opts": [
+   "Enterobius vermicularis",
+   "Strongyloides stercoralis",
+   "Ascaris lumbricoides",
+   "Echinococcus granulosus",
+   "Clonorchis sinensis"
+  ],
+  "ans": 2,
+  "why": "Ascaris lumbricoides es el parásito intestinal más común del mundo (unos 1400 millones de infectados) y puede causar apendicitis al obstruir la luz. Enterobius vermicularis (oxiuro) es el segundo. Strongyloides causa neumonitis, malabsorción y úlceras sangrantes. Echinococcus causa quiste hidatídico. Clonorchis se asocia a cálculos pigmentados y colangiocarcinoma.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "c21fb25d86": {
+  "k": "c21fb25d86",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años se presenta con signos y síntomas de apendicitis aguda. En la cirugía, se observa gran cantidad de ascitis gelatinosa con implantes peritoneales. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Tumor ovárico benigno",
+   "Adenoma mucinoso del apéndice",
+   "Apendicitis tuberculosa",
+   "Salmonella enteritidis",
+   "Yersinia enterocolítica"
+  ],
+  "ans": 1,
+  "why": "La ascitis gelatinosa con implantes peritoneales es un pseudomixoma peritoneal; su causa más frecuente es la rotura de un adenoma (cistoadenoma) mucinoso del apéndice, que da la adenomucinosis peritoneal diseminada. La TBC peritoneal da ascitis con nódulos blanquecinos y cuadro subagudo. Salmonella da gastroenteritis y raramente perforación de placas de Peyer. Yersinia da adenitis mesentérica o ileítis. El tumor ovárico benigno se asocia al síndrome de Meigs (ascitis y derrame pleural), no a ascitis gelatinosa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "17dbf02fad": {
+  "k": "17dbf02fad",
+  "estado": "confirmada",
+  "stem": "La presentación más común del adenocarcinoma apendicular es:",
+  "opts": [
+   "Masa abdominal palpable",
+   "Apendicitis aguda",
+   "Ascitis",
+   "Hallazgo incidental durante una cirugía",
+   "Anemia crónica"
+  ],
+  "ans": 1,
+  "why": "El adenocarcinoma primario del apéndice se presenta con más frecuencia como apendicitis aguda; por eso siempre debe revisarse la anatomía patológica de la pieza. El tratamiento definitivo es la hemicolectomía derecha y una colonoscopía completa por el riesgo de neoplasias sincrónicas. La masa palpable, la ascitis, el hallazgo incidental y la anemia no son la forma de presentación habitual.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "7c665163f2": {
+  "k": "7c665163f2",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años con leucemia mieloide aguda se presenta con dolor abdominal en cuadrante inferior derecho. Recientemente completó quimioterapia. Su temperatura es de 102 °F (38.9 °C) y su recuento de leucocitos es de 900 células/µL. La TC revela inflamación y engrosamiento del colon derecho y estriación grasa adyacente. El manejo consiste en:",
+  "opts": [
+   "Antibióticos IV, reposo intestinal e hidratación IV",
+   "Hemicolectomía derecha con ileotransversostomía",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Cecostomía",
+   "Apendicectomía"
+  ],
+  "ans": 0,
+  "why": "Es una enterocolitis neutropénica (tiflitis): niño con leucemia y neutropenia, con dolor en el cuadrante inferior derecho, fiebre y engrosamiento del colon derecho con estriación grasa. La mayoría responde a reposo intestinal, antibióticos IV de amplio espectro e hidratación. La cirugía (hemicolectomía o cecostomía) se reserva para perforación u otras complicaciones. La apendicectomía no está indicada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 del PDF",
+   "Sabiston 21.ª ed., p. 1338 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "bec5ec8d21": {
+  "k": "bec5ec8d21",
+  "estado": "confirmada",
+  "stem": "Una hernia que contiene un apéndice se conoce como:",
+  "opts": [
+   "Hernia de Petit",
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia de Spiegel",
+   "Hernia de Grynfelt"
+  ],
+  "ans": 1,
+  "why": "La hernia de Amyand es la que contiene el apéndice. La de Littre contiene un divertículo de Meckel. Las de Petit y Grynfelt son hernias lumbares (triángulo inferior y superior). La de Spiegel ocurre por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "04b8f5bff0": {
+  "k": "04b8f5bff0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la apendicitis en pacientes con VIH?",
+  "opts": [
+   "Es más frecuente que en la población general.",
+   "Generalmente no manifiestan síntomas ni signos abdominales.",
+   "Recuentos bajos de CD4 están asociados a menor riesgo de ruptura.",
+   "La morbilidad postoperatoria para apendicitis no perforada es mayor que en la población general.",
+   "Los leucocitos suelen estar elevados."
+  ],
+  "ans": 0,
+  "why": "Varios estudios muestran que la apendicitis es más frecuente en personas con VIH que en la población general; una serie de la era HAART halló una incidencia más de cuatro veces mayor. Los pacientes sí presentan síntomas y signos abdominales. Un CD4 bajo (<200) se asocia a más apendicitis complicada o perforada, no a menos. La morbilidad elevada se vincula a la perforación y la demora, no a la apendicitis no perforada operada a tiempo. El recuento leucocitario es un indicador poco fiable en estos pacientes; los datos son variables, así que E no es la afirmación sólida.",
+  "fuentes": [
+   "Crum-Cianflone N et al. Appendicitis in HIV-infected patients during the era of HAART. HIV Med 2008 (PMC2753588, https://europepmc.org/article/PMC/PMC2753588)",
+   "Acute appendicitis in people living with HIV: What does the emergency surgeon needs to know? SAGE Open Med 2021 (PMC7871281, https://europepmc.org/article/PMC/PMC7871281)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Nota sobre la opción E: en la serie de Crum-Cianflone, el 88% tenía leucocitosis, mientras que otra revisión describe baja prevalencia de leucocitosis. La opción A es la única respaldada de forma consistente."
+ },
+ "f34c6554ba": {
+  "k": "f34c6554ba",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años se presenta con signos y síntomas de apendicitis aguda. En la cirugía se encuentra una gran cantidad de ascitis gelatinosa con implantes peritoneales. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Cáncer de ovario",
+   "Adenoma mucinoso apendicular",
+   "Apendicitis tuberculosa",
+   "Salmonella enteritidis",
+   "Yersinia enterocolitica"
+  ],
+  "ans": 1,
+  "why": "La ascitis gelatinosa con implantes peritoneales es un pseudomixoma peritoneal; su causa más frecuente es la rotura de un adenoma (cistoadenoma) mucinoso del apéndice, que da la adenomucinosis peritoneal diseminada. La TBC peritoneal da ascitis con nódulos blanquecinos y cuadro subagudo. Salmonella da gastroenteritis y raramente perforación de placas de Peyer. Yersinia da adenitis mesentérica o ileítis. Los tumores mucinosos de ovario pueden dar pseudomixoma, pero el origen más común es el apéndice.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ "2b3dc3bd4b": {
+  "k": "2b3dc3bd4b",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis aguda?",
+  "opts": [
+   "Las náuseas y vómitos acompañantes resultan de la irritación del peritoneo parietal.",
+   "Es una forma de obstrucción en asa cerrada.",
+   "La proporción hombre:mujer es 1:1.",
+   "La incidencia ha aumentado en las últimas 4 décadas.",
+   "El uso creciente de la tomografía ha disminuido la tasa de apendicectomías negativas."
+  ],
+  "ans": null,
+  "why": "B (obstrucción en asa cerrada) es correcta: la apendicitis se produce por obstrucción de la luz de un órgano ciego, con aumento de presión distal, isquemia y perforación. Pero E también es defendible: el Sabiston afirma que las pruebas de imagen pueden reducir la tasa de apendicectomía negativa, que llega al 15%. La clave clásica la daba como falsa por estudios poblacionales antiguos. A es falsa (las náuseas son de origen visceral); C es falsa (predominio masculino); D es dudosa (la incidencia ha disminuido en países occidentales). Con dos opciones defendibles (B y E), no se puede fijar una clave única.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1327 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). B es verdadera, pero E también lo es según el Sabiston 21.ª ed. (p. 1327)."
+ },
+ "465eb6761d": {
+  "k": "465eb6761d",
+  "estado": "confirmada",
+  "stem": "Un hombre de 74 años con fístulas anales recurrentes presenta dolor y secreción perianal. El examen físico revela una fístula anorrectal extrasfinteriana. Nunca se le ha realizado anoscopía. ¿Qué diagnóstico debe considerarse en este paciente?",
+  "opts": [
+   "Carcinoma anorrectal",
+   "Hemorroides externas",
+   "Hemorroides internas",
+   "Seno pilonidal",
+   "Hemorroide externa trombosada"
+  ],
+  "ans": 0,
+  "why": "Una fístula recurrente o atípica (extraesfinteriana, no criptoglandular) en un anciano nunca estudiado obliga a descartar una causa específica; el Sabiston incluye el carcinoma rectal o anal entre las etiologías de fístula y pide evaluar la mucosa anorrectal para descartar Crohn o cáncer. Las hemorroides (internas, externas o trombosadas) no producen fístulas anorrectales, y el seno pilonidal es una enfermedad de la hendidura interglútea sin comunicación con el recto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "ea208e686f": {
+  "k": "ea208e686f",
+  "estado": "confirmada",
+  "stem": "Causa más común de fístula rectovaginal:",
+  "opts": [
+   "Carcinoma de recto",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Colitis ulcerosa",
+   "Radioterapia"
+  ],
+  "ans": 2,
+  "why": "La fístula rectovaginal se debe con mayor frecuencia a una lesión obstétrica tras parto vaginal (sobre todo con episiotomía, en primigestas). La enfermedad de Crohn (más que la colitis ulcerosa), el carcinoma de recto y la radioterapia pélvica son causas reconocidas pero menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 180 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ "c3089ebaba": {
+  "k": "c3089ebaba",
+  "estado": "confirmada",
+  "stem": "Sobre la enfermedad de Hirschsprung en adultos:",
+  "opts": [
+   "No ocurre",
+   "No está asociada a mutaciones RET",
+   "Mejor diagnóstico con enema de bario",
+   "Requiere cirugía de extracción (pull-through) para tratamiento definitivo",
+   "Puede tratarse con miomectomía anorrectal"
+  ],
+  "ans": 4,
+  "why": "En el adulto, el Hirschsprung suele ser de segmento corto y puede tratarse con una miomectomía (miectomía) anorrectal; los descensos tipo Soave o Duhamel se reservan para niños y segmentos largos. Es rara pero sí ocurre, se asocia a mutaciones RET en una parte de los pacientes y el enema de bario puede no detectar el segmento corto: el diagnóstico es por biopsia rectal que muestra aganglionosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Opción D: el original dice 'cirugía de extracción', traducción de 'pull-through procedure' (descenso)."
+ },
+ "01b1c91d5e": {
+  "k": "01b1c91d5e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los pseudoaneurismas femorales que ocurren después de una arteriografía?",
+  "opts": [
+   "La compresión con ultrasonido es el procedimiento de elección.",
+   "La compresión con ultrasonido usualmente tiene éxito incluso si el paciente está anticoagulado.",
+   "La reparación quirúrgica generalmente requiere un injerto venoso interpuesto.",
+   "Puede manejarse con inyección directa de trombina guiada por ultrasonido.",
+   "Está contraindicado un ensayo de observación debido al alto riesgo de sangrado."
+  ],
+  "ans": 3,
+  "why": "La inyección de trombina guiada por ecografía es el tratamiento de elección del pseudoaneurisma femoral posarteriografía. La compresión ecoguiada tiene alta tasa de fracaso, sobre todo en anticoagulados; la cirugía se reserva para los infectados o de crecimiento rápido y no suele requerir injerto, y los pequeños y estables pueden observarse.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "4be9d9cb57": {
+  "k": "4be9d9cb57",
+  "estado": "confirmada",
+  "stem": "Un día después de una reparación abierta de un aneurisma de aorta abdominal (AAA), el paciente desarrolla diarrea acuosa y distensión abdominal. En el examen, presenta sensibilidad leve en el cuadrante inferior izquierdo sin defensa. Todas las siguientes intervenciones son apropiadas, EXCEPTO:",
+  "opts": [
+   "Proctosigmoidoscopia",
+   "Nada por vía oral con descompresión mediante sonda nasogástrica",
+   "Hidratación intravenosa",
+   "Antibióticos de amplio espectro",
+   "Arteriografía"
+  ],
+  "ans": 4,
+  "why": "El cuadro sugiere colitis isquémica tras ligadura de la arteria mesentérica inferior o exclusión de las ilíacas internas. Se confirma con proctosigmoidoscopia flexible y se trata inicialmente con NPO, sonda nasogástrica, hidratación IV y antibióticos de amplio espectro. La arteriografía no ayuda, porque la causa suele ser una ligadura o exclusión intencional de vasos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "102f99be9a": {
+  "k": "102f99be9a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 69 años se presenta en emergencias con inicio súbito de dolor en el flanco izquierdo y espalda, sensibilidad abdominal, presión arterial de 70/50 mmHg y una masa abdominal media pulsátil y dolorosa. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se debe iniciar hidratación intravenosa vigorosa en emergencias para elevar la presión sistólica a una meta de 110 mmHg.",
+   "Debe realizarse inmediatamente una tomografía computarizada (TC) de abdomen y pelvis.",
+   "Se debe realizar una ecografía urgente para descartar ruptura.",
+   "La reparación endovascular es el procedimiento de elección.",
+   "Probablemente será necesario clampar la aorta en el diafragma."
+  ],
+  "ans": 4,
+  "why": "Es un AAA roto con inestabilidad hemodinámica: va directo a quirófano y, por el gran hematoma retroperitoneal, el control proximal se logra mejor clampando la aorta a nivel del diafragma. Se prefiere la hipotensión permisiva (no reanimar a 110 mmHg); la TC es para el paciente relativamente estable; la ecografía no es exacta para detectar la ruptura retroperitoneal; y la revisión Cochrane no mostró menor mortalidad a 30 días con la vía endovascular frente a la abierta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Guías vasculares recientes (SVS/ESVS) favorecen EVAR en el AAA roto cuando la anatomía es adecuada, pero eso requiere imagen previa; en este paciente inestable y sin TC la opción defendida por la fuente es E."
+ },
+ "d018bfa6a5": {
+  "k": "d018bfa6a5",
+  "estado": "confirmada",
+  "stem": "El umbral para la reparación electiva de un aneurisma de la arteria ilíaca común asintomático es mayor de:",
+  "opts": [
+   "2.0 cm",
+   "2.5 cm",
+   "3.5 cm",
+   "4.0 cm",
+   "4.5 cm"
+  ],
+  "ans": 2,
+  "why": "Los aneurismas de ilíaca común crecen lento (~0,29 cm/año) y no se observó rotura por debajo de 3,8 cm, por lo que el umbral recomendado de reparación electiva en asintomáticos es >3,5 cm. Los valores de 2-2,5 cm son demasiado bajos y 4-4,5 cm exponen a riesgo de rotura.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 290 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "9781b1ede2": {
+  "k": "9781b1ede2",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el aneurisma de arteria visceral más común?",
+  "opts": [
+   "Arteria celíaca",
+   "Arteria esplénica",
+   "Arteria mesentérica superior (AMS)",
+   "Arteria hepática",
+   "Arteria pancreaticoduodenal"
+  ],
+  "ans": 1,
+  "why": "El aneurisma de la arteria esplénica es el aneurisma arterial visceral más frecuente; su principal riesgo es la rotura (fenómeno de doble rotura), mayor en el embarazo. Los de arteria hepática, celíaca, mesentérica superior y pancreaticoduodenal son menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 282 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "cf640e28f1": {
+  "k": "cf640e28f1",
+  "estado": "confirmada",
+  "stem": "Un día después de una reparación abierta de aneurisma de aorta abdominal (AAA), el paciente desarrolla diarrea acuosa y distensión abdominal. Al examen, presenta leve sensibilidad en el cuadrante inferior izquierdo sin defensa. Leucocitos: 14,000/μL. ¿Cuál de las siguientes es la conducta apropiada?",
+  "opts": [
+   "Proctosigmoidoscopia",
+   "Angiotomografía",
+   "Laparotomía exploradora",
+   "Laparoscopía diagnóstica",
+   "Arteriografía transfemoral"
+  ],
+  "ans": 0,
+  "why": "Diarrea precoz, dolor en fosa ilíaca izquierda y leucocitosis tras reparar un AAA sugieren colitis isquémica, que se confirma con proctosigmoidoscopia flexible (mucosa friable). La laparotomía con resección se reserva para necrosis transmural (peritonitis, acidosis persistente), que aquí no hay. La angiografía no ayuda porque la causa suele ser la ligadura intencional de la mesentérica inferior o de las ilíacas internas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "4b4b2a23d1": {
+  "k": "4b4b2a23d1",
+  "estado": "confirmada",
+  "stem": "Un hombre de 69 años se presenta a emergencias con inicio súbito de dolor en flanco y espalda izquierdos, sensibilidad abdominal, presión arterial de 100/50 mm Hg y masa pulsátil en línea media abdominal. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "El paciente debe recibir un bolo de 3 L de solución salina normal.",
+   "Una tomografía abdominal y pélvica es razonable si hay acceso a reparación endovascular.",
+   "La ecografía a pie de cama es útil para descartar ruptura.",
+   "La reparación endovascular tiene menor mortalidad perioperatoria que la abierta.",
+   "El riesgo de colitis isquémica es similar al de una reparación electiva."
+  ],
+  "ans": 1,
+  "why": "En un AAA roto con paciente relativamente estable se prefiere la TC para confirmar la rotura y valorar si es factible la reparación endovascular, siempre que haya un equipo con capacidad endovascular inmediata. Se recomienda hipotensión permisiva (no bolos grandes); la ecografía no es exacta para detectar la rotura retroperitoneal; la Cochrane no halló diferencia en mortalidad a 30 días entre EVAR y cirugía abierta; y la rotura es un factor de riesgo de colitis isquémica, mayor que en la cirugía electiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 275 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "2550100156": {
+  "k": "2550100156",
+  "estado": "confirmada",
+  "stem": "El umbral para reparación electiva de un aneurisma de arteria ilíaca común asintomático es mayor de:",
+  "opts": [
+   "2.0 cm",
+   "2.5 cm",
+   "3.5 cm",
+   "4.0 cm",
+   "4.5 cm"
+  ],
+  "ans": 2,
+  "why": "No se ha observado rotura de aneurismas de ilíaca común menores de 3,8 cm y crecen ~0,29 cm/año, por eso el umbral de reparación electiva en asintomáticos es >3,5 cm. Los valores menores llevarían a operar sin beneficio y los mayores aumentan el riesgo de rotura.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 290 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ "c5c7bc5258": {
+  "k": "c5c7bc5258",
+  "estado": "confirmada",
+  "stem": "Un hombre de 34 años se somete a una apendectomía de urgencia. Después de realizar la apendectomía satisfactoriamente, el paciente se somete a una laparoscopia exploratoria. ¿Cuál de las siguientes características anatómicas es más útil para distinguir entre yeyuno e íleon?",
+  "opts": [
+   "El yeyuno tiene las paredes más delgadas que el íleon.",
+   "El yeyuno tiene menos grasa mesentérica que el íleon.",
+   "El yeyuno tiene más arcadas vasculares que el íleon.",
+   "El yeyuno tiene más folículos linfáticos bajo la mucosa que el íleon.",
+   "El yeyuno tiene menos vellosidades que el íleon."
+  ],
+  "ans": 1,
+  "why": "B es la única afirmación verdadera: el mesenterio del yeyuno tiene menos grasa (deja ver 'ventanas' entre los vasos rectos), mientras que el del íleon es más graso. Las demás son falsas: el yeyuno es más grueso y de mayor calibre, tiene solo 1-2 arcadas con vasos rectos largos (el íleon 4-5 con vasos rectos cortos), las placas de Peyer predominan en el íleon distal y el yeyuno tiene más pliegues y vellosidades.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1266 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 535 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 542 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Los libros de la carpeta respaldan explícitamente que A, C y D son falsas; la menor grasa mesentérica del yeyuno es anatomía clásica pero no la encontré escrita textualmente en los libros, por lo que B se confirma por exclusión."
+ },
+ "1c7a0ba2be": {
+  "k": "1c7a0ba2be",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años ingresa en urgencias con diarrea intensa. La arteriografía revela un bloqueo del 90% en el origen aórtico de la arteria mesentérica inferior. ¿Cuál de las siguientes arterias proporcionará muy probablemente irrigación colateral al colon descendente?",
+  "opts": [
+   "Arteria gastroomental izquierda.",
+   "Arteria cólica media.",
+   "Arteria sigmoidea.",
+   "Arteria esplénica.",
+   "Arteria rectal superior."
+  ],
+  "ans": 1,
+  "why": "La rama izquierda de la arteria cólica media (de la mesentérica superior) se anastomosa con la rama ascendente de la cólica izquierda a través del arco marginal (de Riolano), que permite revascularizar el colon izquierdo cuando se ocluye la mesentérica inferior. Las arterias sigmoideas y rectal superior son ramas de la propia mesentérica inferior obstruida; la gastroomental izquierda y la esplénica no irrigan el colon.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t.2, p. 564 del PDF"
+  ],
+  "tema": "colon"
+ },
+ "a627635958": {
+  "k": "a627635958",
+  "estado": "confirmada",
+  "stem": "Un hombre de 44 años ingresa en urgencias con vómitos abundantes y deshidratación. Las imágenes radiológicas demuestran que parte del intestino está comprimido entre la aorta abdominal y la arteria mesentérica superior. ¿Cuál de las siguientes estructuras intestinales estará muy probablemente comprimida?",
+  "opts": [
+   "Segunda porción del duodeno.",
+   "Colon transverso.",
+   "Tercera porción del duodeno.",
+   "Primera porción del duodeno.",
+   "Yeyuno."
+  ],
+  "ans": 2,
+  "why": "El síndrome de la arteria mesentérica superior (síndrome de Wilkie) es la compresión de la tercera porción (horizontal) del duodeno entre la AMS y la aorta. Las porciones primera y segunda, el colon transverso y el yeyuno no cruzan la pinza aortomesentérica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1321 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "11b92cbaad": {
+  "k": "11b92cbaad",
+  "estado": "confirmada",
+  "stem": "Un hombre alcohólico de 58 años ingresa en el hospital por vómitos con sangre de color rojo oscuro (hematemesis). La endoscopia revela rotura de varices esofágicas por hipertensión portal. ¿Cuál de las siguientes venas tributarias del sistema porta se anastomosa con las venas cavas para causar las varices?",
+  "opts": [
+   "Esplénica.",
+   "Gastroomental izquierda.",
+   "Gástrica izquierda.",
+   "Hepática izquierda.",
+   "Gástrica derecha."
+  ],
+  "ans": 2,
+  "why": "En el esófago abdominal, la vena gástrica izquierda (coronaria estomáquica, afluente de la porta) se anastomosa con las venas esofágicas que drenan a la ácigos/hemiácigos (sistema cava superior); en la hipertensión portal estas anastomosis submucosas se dilatan y forman las várices esofágicas. La vena hepática izquierda drena a la cava y no es tributaria portal; la esplénica, la gastroomental izquierda y la gástrica derecha no forman esta anastomosis.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t.2, p. 182 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 448 del PDF"
+  ],
+  "tema": "hipertension-portal"
+ },
+ "a923dfaf96": {
+  "k": "a923dfaf96",
+  "estado": "confirmada",
+  "stem": "Los cirujanos de urgencias deciden realizar una laparotomía exploratoria a una mujer de 32 años con dolor abdominal intenso. ¿Dónde es más probable que se haga la incisión para separar las vainas de los rectos derecho e izquierdo?",
+  "opts": [
+   "Línea medioaxilar.",
+   "Línea arqueada.",
+   "Línea semilunar.",
+   "Intersección tendinosa.",
+   "Línea alba."
+  ],
+  "ans": 4,
+  "why": "En la línea media, las vainas de ambos rectos se unen y forman la línea alba, sitio de la laparotomía media que separa los rectos derecho e izquierdo. La línea semilunar es el borde lateral del recto, la línea arqueada marca el fin de la vaina posterior, las intersecciones tendinosas cruzan el músculo recto y la línea medioaxilar es lateral.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1145 del PDF"
+  ],
+  "tema": "suturas"
+ },
+ "1487d5966c": {
+  "k": "1487d5966c",
+  "estado": "confirmada",
+  "stem": "Un hombre de 49 años presenta dolor abdominal agudo e ictericia. Los estudios radiológicos muestran un tumor en la cabeza del páncreas. ¿Cuál de las siguientes estructuras está muy probablemente obstruida?",
+  "opts": [
+   "Conducto hepático común",
+   "Conducto colédoco",
+   "Conducto cístico",
+   "Conducto pancreático accesorio"
+  ],
+  "ans": 1,
+  "why": "La porción distal (intrapancreática) del colédoco atraviesa la cabeza del páncreas, por lo que un tumor a ese nivel la comprime y causa ictericia obstructiva. El hepático común y el cístico están por encima del páncreas, y la obstrucción del conducto pancreático accesorio no produce ictericia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1559 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 454 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ "736f6594d1": {
+  "k": "736f6594d1",
+  "estado": "confirmada",
+  "stem": "Durante la reparación quirúrgica de una úlcera duodenal perforada en un hombre de 47 años, se liga la arteria gastroduodenal. ¿Qué rama de las siguientes arterias seguirá irrigando el páncreas en este paciente?",
+  "opts": [
+   "Gástrica derecha",
+   "Mesentérica superior",
+   "Gástrica izquierda",
+   "Mesentérica inferior"
+  ],
+  "ans": 1,
+  "why": "La cabeza del páncreas recibe las pancreaticoduodenales superiores (de la gastroduodenal) y las pancreaticoduodenales inferiores, ramas de la mesentérica superior; al ligar la gastroduodenal, la irrigación persiste por la pancreaticoduodenal inferior. Las gástricas derecha e izquierda irrigan la curvatura menor del estómago y la mesentérica inferior irriga el colon izquierdo, no el páncreas.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t.2, p. 512 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 510 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "En el original la clave resaltada es 'B. Mesentérica superior' (línea suelta tras la opción D); la extracción la pegó a la opción D y registró la clave como D. La clave real del banco es B y es correcta."
+ }
+}

@@ -1,0 +1,8 @@
+/* Barra "← Menú" que se agrega arriba de los bancos HTML originales */
+.pwa-barra{display:flex;align-items:center;gap:12px;margin:0 -16px 8px;padding:calc(env(safe-area-inset-top,0px) + 8px) 16px 8px;
+  border-bottom:1px solid var(--line,#D5DCE6);background:var(--surface,#fff);font:600 15px/1.2 "IBM Plex Sans",system-ui,sans-serif}
+.pwa-barra a{display:inline-flex;align-items:center;min-height:44px;padding:0 14px;border-radius:8px;text-decoration:none;
+  background:var(--accent-soft,#DCE8F6);color:var(--ink,#0F1D2E)}
+.pwa-barra span{color:var(--muted,#4A5A6E);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* botones y opciones más cómodos al dedo */
+@media (pointer:coarse){ .opt{min-height:52px} .btn{min-height:48px} .chip{min-height:40px} }

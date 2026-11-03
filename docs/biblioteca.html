@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Biblioteca</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#1E5FA8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bancos Cx">
+<link rel="apple-touch-icon" href="iconos/apple-touch-icon.png">
+<link rel="icon" href="iconos/favicon-64.png">
+<link rel="stylesheet" href="fuentes/fuentes.css">
+<link rel="stylesheet" href="comun/app.css">
+</head><body>
+<div class="wrap">
+  <div class="top"><a class="back" href="index.html">← Menú</a><h1 id="titulo">Biblioteca</h1></div>
+  <p class="muted" style="margin:0 0 12px;font-size:14px" id="nota"></p>
+  <div class="pages" id="paginas"></div>
+</div>
+<script src="comun/app.js"></script>
+<script>
+(async () => {
+  const { esc, $ } = App;
+  const id = new URLSearchParams(location.search).get('id');
+  const cat = await (await fetch('datos/catalogo.json')).json();
+  const d = cat.biblioteca.find(x => x.id === id);
+  if (!d) { $('#titulo').textContent = 'Documento no encontrado'; return; }
+  document.title = d.nombre;
+  $('#titulo').textContent = d.nombre;
+  $('#nota').textContent = `${d.paginas} páginas · pellizca para hacer zoom · queda guardado sin internet después de verlo.`;
+  $('#paginas').innerHTML = Array.from({ length: d.paginas }, (_, i) =>
+    `<img loading="lazy" src="biblioteca/${esc(d.id)}/${String(i + 1).padStart(3, '0')}.jpg" alt="Página ${i + 1}">`).join('');
+})();
+</script>
+</body></html>

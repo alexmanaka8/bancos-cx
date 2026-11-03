@@ -1,0 +1,597 @@
+[
+ {
+  "k": "1b7b9b11d6",
+  "estado": "nueva",
+  "stem": "En el drenaje torácico, ¿cuál es la finalidad principal?",
+  "opts": [
+   "Medir la cantidad de líquido drenado",
+   "Extraer el líquido pleural a alta presión",
+   "Permitir la salida de aire, pero evitar su entrada en el tórax",
+   "Mantener el tubo esterilizado"
+  ],
+  "ans": 2,
+  "why": "El drenaje torácico se conecta a un sistema con mecanismo valvular (sello de agua): el extremo del tubo queda bajo unos 3 cm de agua, de modo que el aire y el líquido salen de la pleura pero el aire no puede volver a entrar; así se reexpande el pulmón. Medir el débito es solo un dato de control, el drenaje no extrae líquido 'a alta presión' y mantener el tubo estéril no es su finalidad.",
+  "fuentes": [
+   "BTS, Online Appendix 8 Pleural Procedures: How to set up a chest drain bottle/underwater seal drain (https://brit-thoracic.org.uk/document-library/clinical-statements/pleural-procedures/online-appendix-8-pleural-procedures-chest-drain-bottle)"
+  ],
+  "nota": "El ítem tenía pegadas las preguntas 1 a 6 del original; las 2 a 6 se separan en 'dividir'. El lote no traía clave para este ítem; en el original estaba resaltada la C, que coincide.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Paciente con sistema de drenaje pleural es trasladado por el servicio de enfermería a realizar un examen y accidentalmente se desconecta el sistema de drenaje. ¿Qué medida inmediata sería prioridad?",
+    "opts": [
+     "Sacar el tubo de drenaje",
+     "Sumergir el extremo distal del tubo en suero fisiológico estéril",
+     "Hacer que el paciente tosa fuertemente",
+     "Colocar apósito oclusivo y llamar al médico"
+    ],
+    "ans": 1,
+    "why": "Si el tubo se desconecta, la pleura queda abierta a la atmósfera y puede entrar aire; lo prioritario es restablecer de inmediato un cierre bajo agua (sumergir el extremo en líquido estéril) o reconectar/pinzar y colocar tubuladura estéril nueva, como indica la BTS. Retirar el tubo no corresponde, hacer toser no cierra el sistema y el apósito oclusivo es la conducta cuando el drenaje se sale del tórax, no cuando se desconecta la tubuladura.",
+    "fuentes": [
+     "BTS, Online Appendix 8 Pleural Procedures: How to set up a chest drain bottle/underwater seal drain (https://brit-thoracic.org.uk/document-library/clinical-statements/pleural-procedures/online-appendix-8-pleural-procedures-chest-drain-bottle)"
+    ],
+    "nota": "Clave resaltada en el original: B. La BTS describe reconectar o pinzar y cambiar la tubuladura; sumergir el extremo es la medida inmediata equivalente para recuperar el sello de agua y es la única opción que lo logra.",
+    "tema": "procedimientos"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "El equipo de cirugía del Hospital Lazarte termina de realizar un drenaje torácico a un paciente. ¿Qué recomendación daría al equipo de enfermería en relación con dónde debería colocar el frasco de drenaje respecto al paciente?",
+    "opts": [
+     "Dejarlo a la misma altura del tórax",
+     "A nivel del hombro",
+     "Siempre por debajo del nivel de inserción",
+     "Puede colocarse en cualquier posición"
+    ],
+    "ans": 2,
+    "why": "La BTS indica que el frasco colector debe mantenerse siempre por debajo del sitio de inserción del drenaje (y en posición vertical) para evitar el reflujo de líquido hacia el espacio pleural. A la altura del tórax, del hombro o en cualquier posición se pierde ese gradiente y el líquido puede volver a la pleura.",
+    "fuentes": [
+     "BTS, Online Appendix 8 Pleural Procedures: How to set up a chest drain bottle/underwater seal drain (https://brit-thoracic.org.uk/document-library/clinical-statements/pleural-procedures/online-appendix-8-pleural-procedures-chest-drain-bottle)"
+    ],
+    "nota": "Clave resaltada en el original: C.",
+    "tema": "procedimientos"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "¿Qué signo clínico es el más indicativo de una complicación grave tras la inserción del drenaje torácico?",
+    "opts": [
+     "Dolor leve en la zona de inserción del tubo de drenaje",
+     "Oscilación del nivel de agua",
+     "Disminución de la disnea",
+     "Enfisema subcutáneo crepitante en la zona de inserción"
+    ],
+    "ans": 3,
+    "why": "El enfisema subcutáneo (quirúrgico) sugiere que el drenaje está desplazado o parcialmente fuera del tórax, con un orificio abierto a los tejidos, o una fuga de aire no controlada; la BTS pide buscarlo ante cualquier problema del drenaje. La oscilación del agua con la respiración indica que el tubo es permeable y funciona, la disminución de la disnea indica mejoría y un dolor leve en el sitio de inserción es esperable.",
+    "fuentes": [
+     "BTS, Online Appendix 8 Pleural Procedures: How to set up a chest drain bottle/underwater seal drain (https://brit-thoracic.org.uk/document-library/clinical-statements/pleural-procedures/online-appendix-8-pleural-procedures-chest-drain-bottle)"
+    ],
+    "nota": "Clave resaltada en el original: D.",
+    "tema": "procedimientos"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Usted atiende a un paciente de 32 años politraumatizado en Trauma Shock, realiza ATLS y diagnostica neumotórax a tensión. Indique la localización anatómica para una toracocentesis (descompresión con aguja) de emergencia:",
+    "opts": [
+     "Segundo espacio intercostal en línea axilar anterior",
+     "Segundo espacio intercostal en línea medioclavicular",
+     "Cuarto espacio intercostal, línea axilar anterior",
+     "Quinto espacio intercostal, línea axilar media"
+    ],
+    "ans": 3,
+    "why": "El ATLS 10.ª ed. cambió el sitio de descompresión con aguja en adultos al 4.º o 5.º espacio intercostal, ligeramente por delante de la línea axilar media, porque la pared torácica es más delgada allí y la aguja alcanza la pleura con más éxito que en el 2.º espacio. El 2.º espacio intercostal en la línea medioclavicular es el sitio clásico (ATLS 9.ª ed.) y se mantiene en niños; el 2.º espacio en línea axilar anterior no es un sitio recomendado.",
+    "fuentes": [
+     "ATLS 10.ª ed. (2018), citado en: Estudio de TC sobre sitio de descompresión, PMC6469218 (https://pmc.ncbi.nlm.nih.gov/articles/PMC6469218)",
+     "World Journal of Emergency Surgery 2025, metaanálisis sobre descompresión con aguja (doi:10.1186/s13017-025-00613-7)"
+    ],
+    "nota": "Clave resaltada en el original: D. La opción C (4.º espacio, línea axilar anterior) se acerca, pero el ATLS describe el 4.º–5.º espacio en la línea axilar media (ligeramente anterior); D es la que coincide.",
+    "tema": "procedimientos"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Paciente mujer de 58 años con antecedente, hace 2 semanas, de histerectomía por miomas uterinos; acude a su control. Actualmente no presenta signos febriles. ¿Qué porcentaje de infección se puede asociar a este tipo de herida?",
+    "opts": [
+     "10%",
+     "20%",
+     "30%",
+     "50%"
+    ],
+    "ans": 0,
+    "why": "La histerectomía entra al aparato genital (vagina) en condiciones controladas, así que es una herida limpia-contaminada. Su tasa de infección es baja: el Sabiston da 5-8% y las tablas clásicas la sitúan por debajo del 10%, por lo que 10% es la única opción compatible. Un 20-25% corresponde a la herida contaminada y un 30-40% a la sucia.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 266 del PDF",
+     "Sabiston 21.ª ed., p. 231 del PDF"
+    ],
+    "nota": "Clave resaltada en el original: A (10%). Ojo: el Sabiston 21.ª ed. da 5-8% para limpia-contaminada; 10% es el límite superior de las tablas clásicas y la opción más cercana.",
+    "tema": "cicatrizacion"
+   }
+  ],
+  "tema": "procedimientos"
+ },
+ {
+  "k": "72439aa920",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 10 años post operado de laparoscopia exploratoria por apendicitis aguda supurada. Acude a emergencia al 5.º día postoperatorio. Herida con presencia de sutura de nylon, con secreción maloliente y dolor intenso en el sitio operatorio. ¿Qué tipo de herida se considera de acuerdo con la clasificación de las heridas quirúrgicas?",
+  "opts": [
+   "Sucia",
+   "Limpia contaminada",
+   "Contaminada",
+   "Limpia"
+  ],
+  "ans": 0,
+  "why": "Según la clasificación de los CDC, la herida 'contaminada' incluye la inflamación aguda no purulenta; cuando hay pus (apendicitis supurada), infección clínica presente o víscera perforada, la herida es sucia-infectada. Además, la herida ya tiene secreción purulenta maloliente, es decir, está infectada. Limpia y limpia-contaminada exigen que no haya inflamación ni infección.",
+  "fuentes": [
+   "CDC/NHSN, clasificación de heridas quirúrgicas (citada en Sabiston 21.ª ed., p. 231 del PDF, tabla 10.11)",
+   "Sabiston 21.ª ed., p. 266 del PDF"
+  ],
+  "nota": "En el original las opciones de esta pregunta empiezan en b) (no hay a). La clave del lote (índice 2) correspondía a las opciones de la pregunta 8, que estaba pegada a este ítem; en esta pregunta estaba resaltada 'Sucia'. La pregunta 8 se separa en 'dividir'.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "Paciente varón de 60 años ingresa a una laparotomía exploratoria de emergencia por trauma abdominal cerrado, a las 2 horas de producido el accidente; se evidencia bazo con tejido desvitalizado. Diga usted, ¿qué tipo de herida corresponde según la clasificación?",
+    "opts": [
+     "Herida contaminada",
+     "Herida limpia contaminada",
+     "Herida sucia",
+     "Herida limpia"
+    ],
+    "ans": null,
+    "why": "La clave resaltada (sucia) no la respalda la definición de los CDC: la herida sucia es la herida traumática antigua con tejido desvitalizado retenido, la infección clínica presente o la víscera perforada. Aquí el trauma es cerrado, de 2 horas y sin víscera hueca abierta. Con la definición estricta sería limpia (no se entra a tubo digestivo ni a otra vía), pero la definición actual de herida contaminada incluye el 'tejido necrótico sin drenaje purulento', lo que podría aplicarse al bazo desvitalizado. Limpia y contaminada son ambas defendibles, y la fuente no decide entre ellas.",
+    "fuentes": [
+     "CDC/NHSN, clasificación de heridas quirúrgicas (citada en Sabiston 21.ª ed., p. 231 del PDF, tabla 10.11)"
+    ],
+    "nota": "Clave resaltada en el original: C (sucia), probablemente lo que esperaba el examen por 'tejido desvitalizado', pero esa categoría exige herida traumática antigua, infección o perforación.",
+    "tema": "cicatrizacion"
+   }
+  ],
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "cc161cf1b7",
+  "estado": "confirmada",
+  "stem": "Paciente con antecedente de cirugía por apendicitis complicada. Trae ecografía de partes blandas: en tejido celular subcutáneo se aprecia una colección que mide aproximadamente 3 x 3 cm, de contenido ecogénico y paredes irregulares, sugestiva de absceso. De acuerdo con los hallazgos ecográficos, ¿cómo clasifica la infección de sitio operatorio?",
+  "opts": [
+   "Infección órgano/cavidad",
+   "Infección incisional profunda",
+   "Infección incisional superficial",
+   "NA"
+  ],
+  "ans": 2,
+  "why": "La ISO incisional superficial afecta solo a la piel y al tejido subcutáneo de la incisión, que es donde está la colección. La incisional profunda afecta a la fascia y al músculo, y la de órgano/espacio a una zona anatómica distinta de la incisión (por ejemplo, un absceso intraabdominal).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 266 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: C.",
+  "tema": "iso"
+ },
+ {
+  "k": "0f6e458820",
+  "estado": "confirmada",
+  "stem": "¿Qué gérmenes espera encontrar con mayor frecuencia en una ISO/ISQ con antecedente de apendicectomía laparoscópica por apendicitis necrosada (resultado de patología) con peritonitis localizada?",
+  "opts": [
+   "Bacteroides fragilis",
+   "Staphylococcus epidermidis",
+   "Escherichia coli",
+   "Clostridium fragilis"
+  ],
+  "ans": 2,
+  "why": "Las infecciones asociadas a la apendicitis son polimicrobianas, de flora colónica; el aislamiento más frecuente es Escherichia coli (64,6% de los cultivos en la apendicitis perforada, tabla 51.1 del Sabiston). Bacteroides fragilis es el anaerobio principal, pero se aísla con menos frecuencia. S. epidermidis es flora cutánea y 'Clostridium fragilis' no es una especie válida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: C.",
+  "tema": "iso"
+ },
+ {
+  "k": "6cfd365d2a",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el principal efecto hemodinámico del neumoperitoneo?",
+  "opts": [
+   "Aumento del gasto cardíaco",
+   "Disminución del retorno venoso",
+   "Aumento del volumen sistólico",
+   "Disminución de la presión arterial media",
+   "Vasodilatación periférica"
+  ],
+  "ans": 1,
+  "why": "El aumento de la presión intraabdominal comprime la vena cava inferior, con lo que disminuyen el retorno venoso y la precarga; de ahí caen el volumen sistólico y el gasto cardíaco. A la vez aumenta la resistencia vascular sistémica (no hay vasodilatación), así que la presión arterial media suele mantenerse o subir.",
+  "fuentes": [
+   "SLS, Prevention & Management of Laparoendoscopic Surgical Complications, 3.ª ed., cap. 7: Laparoscopic Physiologic Perturbations (Dunham, Hutchinson, Kavic) (https://sls.org/the-3rd-edition-prevention-management/chapter-7/)"
+  ],
+  "nota": "Clave resaltada en el original: B. Se agregan las opciones D y E, que faltaban en la extracción.",
+  "tema": "laparoscopia"
+ },
+ {
+  "k": "22abe86830",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la complicación más grave al colocar el primer trocar?",
+  "opts": [
+   "Enfisema subcutáneo",
+   "Lesión intestinal",
+   "Hematoma de pared",
+   "Lesión de grandes vasos",
+   "Infección del sitio operatorio"
+  ],
+  "ans": 3,
+  "why": "La lesión de grandes vasos (aorta, cava, ilíacas) con la aguja de Veress o el primer trocar es la complicación de acceso más temida: es una causa importante de muerte en laparoscopia, con una mortalidad cercana al 15%. La lesión intestinal es más frecuente y peligrosa si se diagnostica tarde, pero su mortalidad es menor (2,5-5%). El enfisema subcutáneo, el hematoma de pared y la ISO son complicaciones menores.",
+  "fuentes": [
+   "Krishnakumar S, Tambe P. Entry complications in laparoscopic surgery. J Gynecol Endosc Surg. 2009 (PMC3304260)"
+  ],
+  "nota": "Clave resaltada en el original: D.",
+  "tema": "laparoscopia"
+ },
+ {
+  "k": "95c7eb8cb6",
+  "estado": "confirmada",
+  "stem": "¿Qué ventaja NO corresponde a la laparoscopia?",
+  "opts": [
+   "Menor dolor postoperatorio",
+   "Menor estancia hospitalaria",
+   "Mejor resultado estético",
+   "Mayor riesgo de infección",
+   "Recuperación más rápida"
+  ],
+  "ans": 3,
+  "why": "Los procedimientos laparoscópicos son un factor protector frente a la infección del sitio quirúrgico (tabla 12.3 del Sabiston), así que un 'mayor riesgo de infección' no es ventaja ni rasgo de la laparoscopia. Menor dolor, estancia más corta, mejor estética y recuperación más rápida son ventajas reconocidas del abordaje mínimamente invasivo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 266 del PDF",
+   "Sabiston 21.ª ed., p. 405 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: D.",
+  "tema": "laparoscopia"
+ },
+ {
+  "k": "3c4732c918",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la configuración de energía recomendada para el primer choque en la cardioversión de la fibrilación auricular en adultos?",
+  "opts": [
+   "90 a 100 J",
+   "120 a 150 J",
+   "menos 200 J",
+   "360 J (monofásico)"
+  ],
+  "ans": null,
+  "why": "Las guías AHA 2025 (Part 9, Adult ALS) recomiendan para la FA, con desfibrilador bifásico, una energía inicial de al menos 200 J (≥200 J es preferible a energías menores). La opción C dice 'menos 200 J': si se quiso escribir 'al menos 200 J', es la correcta según la guía actual; leída al pie de la letra ('menos de 200 J') es incorrecta. Las guías previas (AHA 2020) daban 120-200 J bifásico, lo que acercaba la opción B. Por la redacción ambigua no se puede fijar una clave.",
+  "fuentes": [
+   "AHA 2025, Part 9: Adult Advanced Life Support, Circulation 2025 (doi:10.1161/CIR.0000000000001376; https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support)"
+  ],
+  "nota": "Clave resaltada en el original: C ('menos 200J.'). El propio documento tenía escrito '(CUESTIONABLE)' junto a esa opción, y se quitó del texto. Si el examen decía 'al menos 200 J', la clave C sería correcta según AHA 2025.",
+  "tema": "rcp"
+ },
+ {
+  "k": "454a53955a",
+  "estado": "confirmada",
+  "stem": "En relación con la climatización del quirófano, ¿cuál es una característica esencial para mantener la bioseguridad y prevenir infecciones?",
+  "opts": [
+   "Mantener una presión negativa constante para evitar la salida de contaminantes",
+   "Reducir al mínimo los recambios de aire para conservar la temperatura",
+   "Utilizar filtros HEPA y mantener una presión positiva para evitar la entrada de partículas contaminadas",
+   "Permitir el flujo de aire unidireccional desde áreas sucias a limpias",
+   "Ajustar la humedad relativa por debajo del 30% para inhibir el crecimiento bacteriano"
+  ],
+  "ans": 2,
+  "why": "El quirófano debe tener ventilación con presión positiva, de modo que el aire salga hacia las zonas no estériles y arrastre las partículas, y aire filtrado con filtros HEPA, con temperatura de 20-24 °C. La presión negativa es propia de los aislamientos de pacientes infecciosos. Reducir los recambios de aire y llevar el aire de lo sucio a lo limpio favorecen la contaminación, y una humedad menor del 30% no es una norma de bioseguridad.",
+  "fuentes": [
+   "MEHU, Técnica quirúrgica, p. 29 del PDF",
+   "MEHU, Técnica quirúrgica, p. 31 del PDF",
+   "MEHU, Técnica quirúrgica, p. 32 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: C. El texto del ítem traía fragmentos de las preguntas 13, 14, 16, 17, 18, 19 y 20 de la página 2. Se separan en 'dividir' la 13, la 14 y de la 17 a la 20; la 16 (cardioversión de la FA) no se duplica porque ya es el ítem propio 3c4732c918.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "¿Qué maniobra reduce el riesgo de lesión biliar en la colecistectomía laparoscópica?",
+    "opts": [
+     "Disección rápida del triángulo de Calot",
+     "Uso rutinario de drenajes",
+     "Visión crítica de seguridad",
+     "Clipaje precoz del conducto cístico",
+     "Conversión sistemática a cirugía abierta"
+    ],
+    "ans": 2,
+    "why": "La visión crítica de seguridad de Strasberg (triángulo hepatocístico limpio, tercio inferior de la vesícula separado del lecho y solo dos estructuras entrando en la vesícula) es la principal medida para prevenir la lesión de la vía biliar. La disección rápida y el clipaje precoz antes de identificar las estructuras aumentan el riesgo. Los drenajes no previenen la lesión y la conversión sistemática no está indicada.",
+    "fuentes": [
+     "Giménez, Cirugía 2.ª ed., p. 555 del PDF",
+     "Sabiston 21.ª ed., p. 1531 del PDF",
+     "Sabiston 21.ª ed., p. 1535 del PDF"
+    ],
+    "nota": "Pregunta 13 del original (p. 2), pegada como fragmento en este ítem. Clave resaltada: C.",
+    "tema": "vesicula"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál es el cambio respiratorio más frecuente durante el neumoperitoneo?",
+    "opts": [
+     "Disminución del CO arterial",
+     "Aumento de la compliance pulmonar",
+     "Disminución de la presión intratorácica",
+     "Hipercapnia",
+     "Alcalosis respiratoria"
+    ],
+    "ans": 3,
+    "why": "El CO2 insuflado se absorbe desde el peritoneo, y la elevación del diafragma reduce la distensibilidad pulmonar y aumenta el espacio muerto; por eso la hipercapnia (hipercarbia), con tendencia a la acidosis respiratoria, es frecuente durante el neumoperitoneo. La compliance disminuye, la presión intratorácica aumenta y no hay alcalosis ni descenso del CO2 arterial.",
+    "fuentes": [
+     "SLS, Prevention & Management of Laparoendoscopic Surgical Complications, 3.ª ed., cap. 7: Laparoscopic Physiologic Perturbations (https://sls.org/the-3rd-edition-prevention-management/chapter-7/)"
+    ],
+    "nota": "Pregunta 14 del original (p. 2), pegada como fragmento en este ítem. Clave resaltada: D. La opción A dice 'CO arterial' en el original (probablemente CO2).",
+    "tema": "laparoscopia"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "En pacientes con un dispositivo de asistencia ventricular izquierda (LVAD) en los que no se puede palpar el pulso, ¿qué parámetros deben usarse para evaluar la perfusión?",
+    "opts": [
+     "Frecuencia respiratoria y escala de coma de Glasgow",
+     "Únicamente la oximetría de pulso",
+     "Color y temperatura de la piel, llenado capilar, PAM y ETCO2",
+     "Auscultación cardíaca y reflejo pupilar"
+    ],
+    "ans": 2,
+    "why": "El LVAD de flujo continuo suele no generar pulso palpable, así que la perfusión se evalúa con el color y la temperatura de la piel, el llenado capilar, la PAM medida con Doppler y el ETCO2, según la declaración científica de la AHA sobre RCP en pacientes con asistencia mecánica circulatoria. La oximetría de pulso suele fallar sin flujo pulsátil, y la frecuencia respiratoria, el Glasgow, la auscultación o el reflejo pupilar no miden la perfusión de forma adecuada.",
+    "fuentes": [
+     "Peberdy MA et al. Cardiopulmonary Resuscitation in Adults and Children With Mechanical Circulatory Support: A Scientific Statement From the AHA. Circulation 2017 (PMID 28533303)"
+    ],
+    "nota": "Pregunta 17 del original (p. 2), pegada como fragmento en este ítem. Clave resaltada: C.",
+    "tema": "rcp"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Tras lograr el retorno de la circulación espontánea (ROSC), ¿cuál es el objetivo de presión arterial media (PAM) que se debe mantener en adultos?",
+    "opts": [
+     "Al menos 50 mm Hg",
+     "Al menos 65 mm Hg",
+     "Entre 80 y 100 mm Hg",
+     "No hay un objetivo específico de PAM"
+    ],
+    "ans": 1,
+    "why": "La guía AHA 2025 de cuidados posparo recomienda evitar la hipotensión y mantener una PAM de al menos 65 mm Hg después del ROSC. 50 mm Hg es insuficiente, no se recomienda un rango fijo de 80-100 mm Hg y sí existe un objetivo mínimo.",
+    "fuentes": [
+     "AHA 2025, Part 11: Post-Cardiac Arrest Care, Circulation 2025 (doi:10.1161/CIR.0000000000001375; https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/post-cardiac-arrest-care)"
+    ],
+    "nota": "Pregunta 18 del original (p. 2), pegada como fragmento en este ítem. Clave resaltada: B.",
+    "tema": "rcp"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál es la profundidad recomendada para las compresiones torácicas en una reanimación cardiopulmonar (RCP) de alta calidad en adultos?",
+    "opts": [
+     "Entre 3 y 4 cm",
+     "Máximo 5 cm",
+     "Al menos 5 cm (evitando profundidades excesivas superiores a 6 cm)",
+     "Al menos un tercio del diámetro anteroposterior del tórax"
+    ],
+    "ans": 2,
+    "why": "En adultos la AHA recomienda comprimir al menos 5 cm y evitar más de 6 cm. 3-4 cm es insuficiente, y 'máximo 5 cm' invierte el criterio. 'Un tercio del diámetro anteroposterior' es la referencia pediátrica.",
+    "fuentes": [
+     "AHA 2025, Part 7: Adult Basic Life Support, Circulation 2025 (doi:10.1161/CIR.0000000000001369)"
+    ],
+    "nota": "Pregunta 19 del original (p. 2), pegada como fragmento en este ítem. Clave resaltada: C.",
+    "tema": "rcp"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "En una paciente embarazada en paro cardíaco con el fondo uterino a la altura del ombligo o por encima, ¿qué maniobra se recomienda realizar simultáneamente con las compresiones torácicas?",
+    "opts": [
+     "Posición de Trendelenburg",
+     "Inclinación lateral de la camilla a 30 grados",
+     "Desplazamiento uterino lateral izquierdo manual",
+     "Compresiones torácicas exclusivamente (sin otras maniobras)"
+    ],
+    "ans": 2,
+    "why": "Con el útero a la altura del ombligo o más arriba se comprime la aortocava; la AHA recomienda el desplazamiento uterino lateral izquierdo manual continuo durante las compresiones, que se pueden hacer en supino sobre una superficie firme. La inclinación lateral de la camilla dificulta compresiones eficaces y se dejó de recomendar, el Trendelenburg no alivia la compresión aortocava y omitir la maniobra empeora el retorno venoso.",
+    "fuentes": [
+     "AHA 2025, Part 10: Adult and Pediatric Special Circumstances of Resuscitation, Circulation 2025 (doi:10.1161/CIR.0000000000001380)"
+    ],
+    "nota": "Pregunta 20 del original (p. 2), pegada como fragmento en este ítem. Clave resaltada: C.",
+    "tema": "rcp"
+   }
+  ],
+  "tema": "seguridad"
+ },
+ {
+  "k": "8f50bdc455",
+  "estado": "confirmada",
+  "stem": "Respecto a la Lista de Verificación de la OMS, la fase de entrada (antes de la inducción anestésica), ¿qué objetivo principal tiene?",
+  "opts": [
+   "Confirmar la identidad del paciente y el sitio quirúrgico correcto",
+   "Realizar la presentación de todos …..quirúrgicos"
+  ],
+  "ans": 0,
+  "why": "En la 'Entrada' (Sign In), antes de la inducción anestésica, se confirma con el paciente su identidad, el sitio quirúrgico, el procedimiento y el consentimiento, y se revisan el marcado del sitio, la seguridad anestésica, la alergia, la vía aérea y el riesgo de hemorragia. La presentación de todos los miembros del equipo por nombre y función corresponde a la 'Pausa quirúrgica' (Time Out), antes de la incisión.",
+  "fuentes": [
+   "OMS, Lista de verificación de la seguridad de la cirugía y Manual de aplicación (2009) (https://www.who.int/publications/i/item/9789241598590)"
+  ],
+  "nota": "Clave resaltada en el original: A. El propio original está incompleto: la opción B está truncada y las opciones C y D están vacías. Se conservan solo A y B.",
+  "tema": "seguridad"
+ },
+ {
+  "k": "8109e38917",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes situaciones corresponde a la falla de comunicación tipo \"Audiencia\" en la sala quirúrgica?",
+  "opts": [
+   "Un cirujano pregunta si se administró antibiótico una hora después de iniciada la incisión",
+   "Se omite información crucial sobre la cirugía en la UCI postoperatoria",
+   "El anestesiólogo y las enfermeras deciden del paciente sin consultar al cirujano",
+   "Dos enfermeras debaten sobre la necesidad de muestra sin llegar a una conclusión",
+   "Un residente no informa sobre un cambio en la cirugía"
+  ],
+  "ans": 2,
+  "why": "Lingard et al. (2004) clasificaron las fallas de comunicación en el quirófano en: ocasión (momento inoportuno), contenido (información ausente o inexacta), propósito (asunto no resuelto) y audiencia (se excluye a personas clave). Que el anestesiólogo y las enfermeras decidan sin el cirujano es una falla de audiencia. Preguntar por el antibiótico después de la incisión es de ocasión, omitir información o no informar un cambio es de contenido, y debatir sin llegar a una conclusión es de propósito.",
+  "fuentes": [
+   "Lingard L et al. Communication failures in the operating room: an observational classification of recurrent types and effects. Qual Saf Health Care. 2004;13:330-4 (PMID 15465935)"
+  ],
+  "nota": "Clave resaltada en el original: C. En el original la opción C dice 'deciden del paciente' (falta una palabra).",
+  "tema": "seguridad"
+ },
+ {
+  "k": "be620984a1",
+  "estado": "anulada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la Lista de Verificación de la OMS es INCORRECTA?",
+  "opts": [
+   "Su implementación reduce las complicaciones y la muerte en más de un tercio a nivel mundial",
+   "Es un formulario burocrático que debate rigurosamente.",
+   "Se considera una pausa obligatoria donde el pro sin verificación oral unánime.",
+   "Incluye verificaciones en tres momentos clave: pausa quirúrgica y pre-salida.",
+   "La Enfermera Circulante conduce la \"Puerta 3: Salida\"."
+  ],
+  "ans": null,
+  "why": "Las opciones B, C y D están truncadas o sin sentido en el propio original ('que debate rigurosamente', 'donde el pro sin verificación', y en D falta el primer momento), así que no se puede saber qué afirmó el examen. La clave resaltada (E) no puede ser la INCORRECTA: según la OMS, en la Salida la enfermera confirma verbalmente con el equipo (nombre del procedimiento, recuentos, etiquetado de muestras), y la lista suele coordinarla la enfermera circulante. A también es cierta (Haynes 2009: la mortalidad bajó de 1,5% a 0,8% y las complicaciones de 11% a 7%). La afirmación falsa buscada parece ser B (la lista no es un 'formulario burocrático'), pero el texto roto no permite asegurarlo.",
+  "fuentes": [
+   "OMS, Lista de verificación de la seguridad de la cirugía y Manual de aplicación (2009) (https://www.who.int/publications/i/item/9789241598590)",
+   "Haynes AB et al. A surgical safety checklist to reduce morbidity and mortality in a global population. N Engl J Med. 2009;360:491-9"
+  ],
+  "nota": "Clave resaltada en el original: E, que no está respaldada (E es una afirmación correcta).",
+  "tema": "seguridad"
+ },
+ {
+  "k": "8a9962cd25",
+  "estado": "confirmada",
+  "stem": "Un \"Sesgo de Confirmación\" en el entorno quirúrgico se manifestaría como:",
+  "opts": [
+   "Un error administrativo en el marcado del sitio quirúrgico",
+   "La falla en la verificación de la identidad del paciente",
+   "La omisión de la profilaxis antibiótica",
+   "La falta de comunicación entre el equipo quirúrgico",
+   "La tendencia a interpretar información nueva para crear creencias previas, aunque sean incorrectas"
+  ],
+  "ans": 4,
+  "why": "El sesgo de confirmación es un error cognitivo: la tendencia a dar peso a la evidencia que respalda lo que uno ya cree y a pasar por alto las señales que sugieren otra explicación. El Sabiston lo usa para explicar por qué la mayoría de las lesiones de la vía biliar se detectan en el postoperatorio. Las otras opciones son fallas de proceso o de comunicación, no sesgos cognitivos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1535 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: E. En el original dice 'para crear creencias previas'; el sentido es 'confirmar creencias previas'. El enunciado original dice 'en el entorno que se manifestaría como'.",
+  "tema": "seguridad"
+ },
+ {
+  "k": "6f4ca17430",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la definición de laparotomía según su etimología?",
+  "opts": [
+   "Cirugía estética abdominal",
+   "Apertura quirúrgica de la cavidad abdominal por incisión de las capas de su pared anterior",
+   "Resección de órganos abdominales",
+   "Exploración diagnóstica de la cavidad abdominal"
+  ],
+  "ans": 1,
+  "why": "Laparotomía viene del griego lapára ('flanco', la pared abdominal) y tomé ('corte, sección'): es el corte de la pared abdominal para abrir la cavidad. La resección de órganos se nombra con el sufijo -ectomía, la exploración diagnóstica es solo una de sus indicaciones (laparotomía exploradora) y la cirugía estética no tiene relación con el término.",
+  "fuentes": [
+   "Archundia, Cirugía 1: educación quirúrgica, p. 1 del PDF",
+   "MEHU, Técnica quirúrgica, p. 6 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: B.",
+  "tema": "suturas"
+ },
+ {
+  "k": "f01d4306b2",
+  "estado": "confirmada",
+  "stem": "¿Quién fue el primer cirujano en realizar una laparotomía terapéutica?",
+  "opts": [
+   "Maximiliano Galán",
+   "Fernando Zárraga",
+   "Ephraim McDowell",
+   "Hua Tuo"
+  ],
+  "ans": 2,
+  "why": "Ephraim McDowell, en Danville (Kentucky), extirpó el 25 de diciembre de 1809 un tumor ovárico de unas 22 libras a Jane Todd Crawford. Fue la primera operación intraabdominal (ovariotomía por laparotomía) de la que la paciente sobrevivió, y por eso se le llama 'padre de la cirugía abdominal'. Hua Tuo es un médico chino legendario al que se atribuye el uso de anestesia herbal, sin una laparotomía documentada; los otros nombres no corresponden a este hito.",
+  "fuentes": [
+   "Cirocco WC. The Christmas miracle of 1809: How a 'backwoodsman without a diploma to practice' became the father of abdominal surgery. Am J Surg. 2019 (PMID 30670290)",
+   "Pratt JH. Ephraim McDowell: the first five cases of ovariotomy, 1809 to 1818. Mayo Clin Proc. 1977 (PMID 345000)"
+  ],
+  "nota": "Clave resaltada en el original: C. El enunciado estaba cortado en la extracción ('...en re' / 'alizar una laparotomia terapeutica?') y se reconstruyó desde la imagen.",
+  "tema": "historia"
+ },
+ {
+  "k": "e5a5020465",
+  "estado": "anulada",
+  "stem": "¿Cuál es uno de los objetivos de la laparotomía terapéutica?",
+  "opts": [
+   "Explorar hallazgos quirúrgicos",
+   "Diagnosticar patologías intraabdominales",
+   "Corroborar diagnósticos clínicos",
+   "Realizar……………………"
+  ],
+  "ans": null,
+  "why": "La opción D, que es la resaltada, está incompleta en el propio original ('Realizar……'), así que no se puede verificar. Por concepto, A, B y C son objetivos de una laparotomía exploradora o diagnóstica; lo propio de la terapéutica es realizar el tratamiento quirúrgico (resecar, reparar, drenar), que sería lo que completa la opción D.",
+  "fuentes": [],
+  "nota": "Clave resaltada en el original: D (truncada). Se quitó del enunciado el texto pegado de la pregunta 27.",
+  "tema": "suturas"
+ },
+ {
+  "k": "001-a1",
+  "agregada": true,
+  "despues_de": "e5a5020465",
+  "estado": "confirmada",
+  "stem": "Un hombre de 69 años es llevado al servicio de urgencias por un cuadro de 30 minutos de dolor abdominal intenso que se irradia a su flanco izquierdo. Está débil y no ha podido ponerse de pie desde el inicio del dolor. Vomitó dos veces de camino al hospital. No ha evacuado durante 3 días. Tiene hipertensión, enfermedad coronaria y úlcera péptica. Ha fumado medio paquete de cigarrillos al día durante 46 años. Sus medicamentos actuales son enalapril, metoprolol, aspirina, simvastatina y pantoprazol. Parece enfermo. Su temperatura es de 37 °C, el pulso es de 131/min, las respiraciones son de 31/min y la presión arterial es de 82/56 mm Hg. La oximetría de pulso en aire ambiente muestra una saturación de oxígeno del 92%. El examen muestra una masa abdominal pulsátil dolorosa. Los pulmones están limpios a la auscultación. El examen cardíaco no muestra anomalías. Se inicia la reanimación con líquidos intravenosos. ¿Cuál de las siguientes opciones es el siguiente paso más apropiado en el tratamiento?",
+  "opts": [
+   "Tratamiento con ampicilina/sulbactam intravenosa",
+   "Radiografías del abdomen en decúbito supino y en bipedestación",
+   "Tomografía computarizada de abdomen y pelvis con contraste",
+   "Cirugía de urgencia abierta",
+   "Transfusión de concentrado de glóbulos rojos"
+  ],
+  "ans": 3,
+  "why": "Un fumador hipertenso y coronario con dolor abdominal súbito irradiado al flanco, shock (PA 82/56, FC 131) y masa abdominal pulsátil dolorosa tiene, hasta demostrar lo contrario, un aneurisma de aorta abdominal roto. Si está hemodinámicamente inestable debe ir directamente al quirófano, sin estudios de imagen y con hipotensión permisiva; la TC solo se reserva para el paciente relativamente estable, para planear la reparación endovascular. Los antibióticos y las radiografías no tratan la causa y retrasan la cirugía. La transfusión forma parte de la reanimación, pero no reemplaza el control quirúrgico de la hemorragia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF",
+   "Sabiston 21.ª ed., p. 1775 del PDF"
+  ],
+  "nota": "Pregunta 1 del 'Segundo pasito' (p. 3-4 del original), perdida en la extracción. Clave resaltada en el original: D. Donde hay equipo y material endovascular inmediatos, el Sabiston menciona la estrategia 'endovascular primero' para el AAA roto. Entre estas opciones, la única que controla la hemorragia en un paciente inestable es la cirugía de urgencia.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "916de00dcd",
+  "estado": "confirmada",
+  "stem": "Un hombre de 38 años acude al médico por un cuadro de fiebre y tos con expectoración moderada de esputo amarillento de un mes de evolución. Ha perdido 6 kg (13 lb) de peso durante este periodo. Emigró de Oriente Medio hace aproximadamente dos años. Su padre falleció de cáncer de pulmón a los 54 años. Ha fumado un paquete de cigarrillos al día durante 18 años. Su única medicación es un multivitamínico diario. Presenta desnutrición. Su temperatura es de 38,1 °C, el pulso es de 101 latidos/min y la presión arterial es de 118/72 mm Hg. Se auscultan crepitaciones en el tórax. El examen cardíaco no muestra anomalías. El abdomen es blando y no doloroso a la palpación. Los análisis de laboratorio muestran: hemoglobina 12,3 g/dL; leucocitos 13.200/mm³; plaquetas 330.000/mm³; velocidad de sedimentación globular 66 mm/h; nitrógeno ureico sérico 16 mg/dL; creatinina 0,9 mg/dL. El análisis de orina está dentro de los límites normales. Se muestra una radiografía de tórax. ¿Cuál de las siguientes opciones es el siguiente paso más apropiado en el manejo del caso?",
+  "opts": [
+   "Realizar una tomografía computarizada de alta resolución del tórax",
+   "Iniciar el tratamiento con levofloxacino oral",
+   "Recolectar muestras de esputo para microscopía de frotis de bacilos ácido-resistentes, cultivo y amplificación de ácidos nucleicos",
+   "Realizar una biopsia pulmonar transbronquial de la lesión sospechosa",
+   "Iniciar el tratamiento con isoniazida, rifampicina, pirazinamida y etambutol"
+  ],
+  "ans": 2,
+  "why": "Fiebre, tos productiva de un mes, baja de peso, VSG elevada y procedencia de una zona endémica sugieren tuberculosis pulmonar. La guía ATS/IDSA/CDC recomienda confirmar con muestras respiratorias para baciloscopía (BAAR), cultivo y una prueba de amplificación de ácidos nucleicos, y aislar al paciente. La TC o la biopsia no son el primer paso, la levofloxacina puede enmascarar la TB y generar resistencia, y el esquema RIPE se inicia después de obtener las muestras.",
+  "fuentes": [
+   "Lewinsohn DM et al. Official ATS/IDSA/CDC Clinical Practice Guidelines: Diagnosis of Tuberculosis in Adults and Children. Clin Infect Dis. 2017;64:e1-e33 (PMID 27932390)"
+  ],
+  "nota": "Pregunta 2 del 'Segundo pasito'. La clave resaltada en el original es C. La clave del lote (índice 2, 'Hipofosfatemia') venía de la pregunta 3 pegada, que se separa en 'dividir'. La radiografía mencionada no aparece en el documento, pero no es necesaria para decidir. La pregunta 1 del 'Segundo pasito' (masa abdominal pulsátil), que la extracción había perdido, se agrega como registro 001-a1.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Paciente con diagnóstico de desnutrición grave por lo que se le instala NPT; desarrolla el llamado síndrome de retroalimentación (realimentación). Este se deberá a:",
+    "opts": [
+     "Sobrehidratación",
+     "Hiperpotasemia",
+     "Hipofosfatemia",
+     "Hipermagnesemia"
+    ],
+    "ans": 2,
+    "why": "En el síndrome de realimentación, al reintroducir carbohidratos tras una inanición prolongada, la insulina desplaza el fosfato, el potasio y el magnesio al interior de la célula. Su alteración característica es la hipofosfatemia. Hay hipopotasemia e hipomagnesemia, no hiperpotasemia ni hipermagnesemia, y la sobrecarga de líquidos es una consecuencia, no la causa que lo define.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 133 del PDF",
+     "Sabiston 21.ª ed., p. 559 del PDF"
+    ],
+    "nota": "Pregunta 3 del 'Segundo pasito', pegada en este ítem. Clave resaltada: C.",
+    "tema": "nutricion"
+   }
+  ],
+  "tema": "otros"
+ },
+ {
+  "k": "efda6d8220",
+  "estado": "confirmada",
+  "stem": "Mujer que recibe soporte nutricional parenteral porque no podrá recibir tratamiento por vía enteral por un período de 10 días. ¿Qué complicaciones potenciales de la NPT NO se espera?",
+  "opts": [
+   "Hipertrigliceridemia",
+   "Hiperazoemia",
+   "Alteraciones electrolíticas",
+   "NA"
+  ],
+  "ans": 3,
+  "why": "Las tres son complicaciones metabólicas esperables de la NPT. La hipertrigliceridemia y las alteraciones electrolíticas (por realimentación o sobrealimentación) figuran en el Sabiston, y el aporte de proteínas por encima de lo requerido puede causar azoemia. Como todas se esperan, la respuesta es 'NA' (ninguna de las anteriores).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 558 del PDF",
+   "Sabiston 21.ª ed., p. 559 del PDF",
+   "Life (Basel) 2025, A New Perspective on Overfeeding in the ICU (PMC12113162)"
+  ],
+  "nota": "Clave resaltada en el original: D.",
+  "tema": "nutricion"
+ }
+]

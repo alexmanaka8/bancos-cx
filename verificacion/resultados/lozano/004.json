@@ -1,0 +1,412 @@
+[
+ {
+  "k": "1add120ba9",
+  "estado": "confirmada",
+  "stem": "Un hombre de 24 años se presenta con heces acólicas y orina color cola. Fosfatasa alcalina: 2000 UI/L, AST: 78 UI/L, ALT: 88 UI/L, bilirrubina total: 2.1 mg/dL. La biopsia hepática muestra fibrosis concéntrica periductal alrededor de conductos biliares macroscópicos. Es positivo para p-ANCA. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se asocia más comúnmente con enfermedad de Crohn que con colitis ulcerosa.",
+   "Se deben determinar los niveles de antígeno carcinoembrionario (CA) 19-9.",
+   "La colangiopancreatografía retrógrada endoscópica (CPRE) mostrará predominantemente estrechamientos irregulares del árbol biliar intrahepático.",
+   "Los síntomas suelen controlarse bien con manejo médico.",
+   "Es más común en mujeres."
+  ],
+  "ans": 1,
+  "why": "Es una colangitis esclerosante primaria (fibrosis periductal en 'piel de cebolla', FA muy elevada, p-ANCA). Por su riesgo de colangiocarcinoma (10-20%), a todo paciente se le debe medir el CA 19-9. Se asocia sobre todo a colitis ulcerosa (unos dos tercios), no a Crohn. Estrecha de forma irregular todo el árbol biliar, intra- y extrahepático, no predominantemente el intrahepático. La mayoría termina necesitando stents o trasplante, y es dos veces más frecuente en varones.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 59 del PDF",
+   "Sabiston 21.ª ed., p. 1527 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ {
+  "k": "b464b72d6e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes describe mejor el papel de la colecistectomía laparoscópica temprana (dentro de las 24 horas del ingreso) para colecistitis aguda?",
+  "opts": [
+   "Resulta en una estancia hospitalaria más corta.",
+   "Aumenta la tasa de conversión a colecistectomía abierta.",
+   "No debe realizarse porque el paciente debe ser \"enfriado\" durante 2 a 3 días con antibióticos.",
+   "Se asocia con una tasa global más alta de complicaciones.",
+   "Se asocia con una tasa de mortalidad más alta."
+  ],
+  "ans": 0,
+  "why": "La colecistectomía laparoscópica temprana, en la primera semana y sobre todo al inicio, tiene una morbimortalidad y una tasa de conversión similares a la cirugía diferida. Además acorta la estancia hospitalaria total, porque evita el ingreso de 'enfriamiento' y el reingreso para la cirugía de intervalo. Ya no se recomienda 'enfriar' al paciente antes de operar: cerca del 20% de los tratados de forma conservadora fracasan antes de la cirugía programada. Por eso las demás opciones son falsas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1524 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "El Sabiston dice que la estancia es 'equivalente o mejor' con la cirugía temprana; los ensayos y metaanálisis muestran una estancia total más corta."
+ },
+ {
+  "k": "ba21e4be95",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es una característica del cáncer de vesícula biliar?",
+  "opts": [
+   "Se encuentran depósitos de colesterol moteados en la pared vesicular.",
+   "Hay nódulos engrosados de mucosa y músculo.",
+   "El cáncer de vesícula biliar es más común en varones.",
+   "Es más probable que se acompañe de cálculos grandes en comparación con cálculos pequeños.",
+   "Las vesículas en porcelana tienen mayor riesgo de albergar malignidad y deben ser extirpadas profilácticamente."
+  ],
+  "ans": 3,
+  "why": "Los cálculos únicos y grandes conllevan un riesgo de cáncer mucho mayor que los cálculos múltiples y pequeños, probablemente porque causan más inflamación de la mucosa. Los depósitos de colesterol moteados son colesterolosis y los nódulos de mucosa y músculo son adenomiomatosis, ninguno de ellos maligno. El cáncer de vesícula es 2-3 veces más frecuente en mujeres. Para la vesícula en porcelana, la fuente solo dice que 'puede' tener mayor riesgo; el riesgo es menor de lo que se creía y no se acepta como afirmación categórica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 59 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "136c114130",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al colangiocarcinoma?",
+  "opts": [
+   "La mayoría son intrahepáticos.",
+   "El colangiocarcinoma tipo I de Bismuth-Corlette ocurre por encima de la confluencia de los conductos hepáticos derecho e izquierdo.",
+   "La mayoría de los pacientes se benefician de quimiorradiación adyuvante después de la cirugía.",
+   "Se origina de la transformación maligna de los hepatocitos.",
+   "La resección con derivación bilioentérica es un manejo adecuado en pacientes con enfermedad temprana."
+  ],
+  "ans": 4,
+  "why": "La enfermedad extrahepática localizada, sin invasión de la porta o de las arterias hepáticas, sin ganglios y sin metástasis, se trata con resección y derivación bilioentérica. Solo alrededor del 20% de los colangiocarcinomas son intrahepáticos. El tipo I de Bismuth-Corlette está por debajo de la confluencia, no por encima. La quimiorradiación adyuvante se considera de forma selectiva, no de rutina. El tumor nace del epitelio biliar, no de los hepatocitos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 60 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "123bc0cbb1",
+  "estado": "confirmada",
+  "stem": "La hiperplasia nodular focal (HNF):",
+  "opts": [
+   "Es típicamente sintomática",
+   "Usualmente está ubicada en el centro del hígado",
+   "Se reseca mejor mediante una lobectomía formal",
+   "Tiene un riesgo significativo de ruptura",
+   "Se cree que es causada por una alteración embriológica del flujo sanguíneo hepático"
+  ],
+  "ans": 4,
+  "why": "La HNF se atribuye a una alteración embriológica (malformación vascular) del flujo sanguíneo hepático, lo que apoyan sus nódulos regenerativos. Es casi siempre asintomática y un hallazgo incidental, suele ser periférica, no tiene riesgo significativo de ruptura ni de malignización, y el estudio de elección para confirmarla es la RM (no la TC). Solo se reseca si da síntomas o si no se logra un diagnóstico definitivo, nunca de rutina con lobectomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF"
+  ],
+  "tema": "higado"
+ },
+ {
+  "k": "1835ec7314",
+  "estado": "confirmada",
+  "stem": "Una mujer de 36 años presenta dolor en hipocondrio derecho, ictericia, ascitis y hepatomegalia al examen físico. La TC muestra hipertrofia marcada del segmento I del hígado, líquido libre en el peritoneo y realce inhomogéneo del resto del hígado. Esto indica con mayor probabilidad:",
+  "opts": [
+   "Síndrome de Budd-Chiari",
+   "Adenoma hepático roto",
+   "Hemangioma roto",
+   "Hepatitis aguda",
+   "Esquistosomiasis"
+  ],
+  "ans": 0,
+  "why": "La tríada de dolor abdominal, ascitis y hepatomegalia, con hipertrofia del lóbulo caudado (segmento I) y realce inhomogéneo del resto del hígado en la TC, es típica del síndrome de Budd-Chiari. El caudado se hipertrofia porque drena directamente a la cava. Un adenoma o un hemangioma rotos darían hemoperitoneo con una masa focal, y ni la hepatitis aguda ni la esquistosomiasis (hipertensión portal presinusoidal) producen esta imagen.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "762451be18",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre los adenomas hepáticos?",
+  "opts": [
+   "Presentan una cicatriz central",
+   "Aparecen como \"calientes\" en gammagrafía con coloide de azufre",
+   "La captación rápida de contraste en la TC los diferencia de la HNF",
+   "El manejo de una lesión asintomática de 4 cm es la resección quirúrgica",
+   "Contienen abundantes células no parenquimatosas (Kupffer)"
+  ],
+  "ans": null,
+  "why": "A, B, C y E son falsas: la cicatriz central es propia de la HNF; el adenoma es 'frío' en la gammagrafía con coloide de azufre porque casi no tiene células de Kupffer; y ambas lesiones realzan en fase arterial, así que eso no las distingue. La clave marcada (D) tampoco es correcta en general. La fuente recomienda resecar el adenoma si da síntomas, mide más de 5 cm o crece pese a suspender los anticonceptivos, porque por debajo de 5 cm la ruptura y la malignización son raras; solo en varones se reseca sea cual sea el tamaño. Como la pregunta no dice el sexo, D solo es cierta para un varón y la pregunta queda ambigua.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "higado",
+  "nota": "Clave original: D (resaltado). Es una versión modificada de la pregunta del ABSITE, cuya clave era 'el riesgo de ruptura se asocia al tamaño'. Con 4 cm y sin sexo indicado, D no se sostiene: en una mujer asintomática con una lesión menor de 5 cm se observa. La versión de este banco con una lesión de 5.5 cm (k 0bda86e254) sí es correcta."
+ },
+ {
+  "k": "6256f7b91b",
+  "estado": "confirmada",
+  "stem": "Los principales mediadores de fibrosis que conduce a cirrosis hepática son:",
+  "opts": [
+   "Células de Kupffer",
+   "Células estrelladas hepáticas (de Ito)",
+   "Células endoteliales",
+   "Hepatocitos",
+   "Hendiduras de Mall"
+  ],
+  "ans": 1,
+  "why": "Las células de Ito, o estrelladas, están en el espacio de Disse y almacenan vitamina A. Ante una lesión hepática aguda o crónica se transforman en células parecidas a miofibroblastos con gran capacidad fibrogénica, y son el principal mediador de la fibrosis y la cirrosis. Las células de Kupffer, las endoteliales, los hepatocitos y las hendiduras de Mall no son los mediadores principales de la fibrosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 72 del PDF"
+  ],
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "fa73c16806",
+  "estado": "confirmada",
+  "stem": "El carcinoma fibrolamelar (CFL) del hígado:",
+  "opts": [
+   "Está fuertemente asociado a hepatitis B",
+   "Ocurre con mayor frecuencia en hombres ancianos",
+   "Causa una elevación marcada de AFP",
+   "Frecuentemente contiene una cicatriz central",
+   "Tiene peor pronóstico que el CHC"
+  ],
+  "ans": 3,
+  "why": "El CFL es un tumor bien delimitado que puede tener un área fibrosa central, y por eso se confunde con la HNF; a diferencia de la de la HNF, su cicatriz no realza en fase arterial. Aparece en jóvenes (mediana de 25 años), sin cirrosis, sin hepatitis B y sin elevación de la AFP. Su pronóstico es mejor que el del CHC, sobre todo porque no hay cirrosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 72 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "ce4b5efba7",
+  "estado": "confirmada",
+  "stem": "La hiperplasia nodular focal (HNF):",
+  "opts": [
+   "Es típicamente sintomática",
+   "Usualmente se localiza en el centro del hígado",
+   "Se confirma mejor con tomografía computarizada (TC) de alta resolución",
+   "Representa un riesgo significativo de ruptura",
+   "Se cree que se debe a una alteración embriológica en el flujo sanguíneo hepático"
+  ],
+  "ans": 4,
+  "why": "La HNF se atribuye a una alteración embriológica (malformación vascular) del flujo sanguíneo hepático, lo que apoyan sus nódulos regenerativos. Es casi siempre asintomática y un hallazgo incidental, suele ser periférica, no tiene riesgo significativo de ruptura ni de malignización, y el estudio de elección para confirmarla es la RM (no la TC). Solo se reseca si da síntomas o si no se logra un diagnóstico definitivo, nunca de rutina con lobectomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF"
+  ],
+  "tema": "higado"
+ },
+ {
+  "k": "0bda86e254",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los adenomas hepáticos?",
+  "opts": [
+   "Los episodios agudos de sangrado se manejan mejor con resección quirúrgica.",
+   "Tienden a aparecer \"calientes\" en una gammagrafía hepática con coloide de azufre.",
+   "El realce rápido con contraste en TC los distingue de la HNF.",
+   "Una lesión de 5.5 cm debe resecarse incluso si es asintomática.",
+   "Contienen abundantes células no parenquimatosas (de Kupffer)."
+  ],
+  "ans": 3,
+  "why": "Se reseca el adenoma si da síntomas, mide más de 5 cm o crece pese a suspender los anticonceptivos, por el riesgo de hemorragia, ruptura y malignización; una lesión de 5.5 cm cumple el criterio aunque sea asintomática. El adenoma es 'frío' en la gammagrafía con coloide de azufre porque tiene pocas células de Kupffer. La HNF también realza en fase arterial, así que el realce rápido no los distingue. El sangrado agudo no se trata con resección de urgencia: primero se estabiliza al paciente o se emboliza.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "higado"
+ },
+ {
+  "k": "54f48e3ba0",
+  "estado": "corregida",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al síndrome de Budd-Chiari?",
+  "opts": [
+   "La causa más común en el mundo es la hepatitis viral crónica",
+   "El tratamiento inicial debe ser trasplante hepático",
+   "La mayoría de los casos en adultos se deben a enfermedades mieloproliferativas",
+   "La ascitis es rara",
+   "El diagnóstico requiere biopsia hepática"
+  ],
+  "ans": 2,
+  "why": "En más del 80% de los casos de Budd-Chiari hay un estado de hipercoagulabilidad subyacente, y las neoplasias mieloproliferativas (policitemia vera, trombocitemia esencial, JAK2 V617F) son la causa más frecuente en Occidente (35-50%). El diagnóstico se hace con eco-Doppler y TC de las venas hepáticas, sin biopsia. El tratamiento inicial es la anticoagulación seguida de angioplastia o stent, o TIPS; el trasplante se reserva para la insuficiencia hepática. La ascitis es parte de la tríada clásica, y la hepatitis viral no es causa de Budd-Chiari.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 641 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 70 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 73 del PDF",
+   "Cureus 2025, Pathophysiology of Primary Budd-Chiari Syndrome: A Narrative Review (PMC12696600, Europe PMC)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: E (resaltado), que es falsa porque el diagnóstico es por imagen. La opción C dice 'la mayoría'; en rigor, las enfermedades mieloproliferativas son la causa más frecuente (35-50%), no siempre más de la mitad. Aun así es la única opción defendible."
+ },
+ {
+  "k": "66117d3961",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años se presenta con dolor abdominal, ictericia y pérdida de peso. La biopsia por aspiración de la masa pancreática confirma adenocarcinoma. Estudios de imagen muestran metástasis hepáticas. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Procedimiento de Whipple",
+   "Quimioterapia paliativa",
+   "Derivación quirúrgica biliar",
+   "Pancreatectomía total",
+   "Radioterapia"
+  ],
+  "ans": 1,
+  "why": "Con metástasis hepáticas el adenocarcinoma de páncreas es irresecable, y se trata sobre todo con quimioterapia sistémica (gemcitabina o FOLFIRINOX). El Whipple y la pancreatectomía total no tienen sentido con metástasis a distancia. La ictericia se alivia preferentemente con una prótesis endoscópica, no con una derivación quirúrgica, y la radioterapia no es el tratamiento de la enfermedad metastásica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1586 del PDF",
+   "Sabiston 21.ª ed., p. 1583 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "8d5403b4cd",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años presenta dolor epigástrico de 12 horas de evolución, náuseas y vómitos. Tiene dolor abdominal difuso leve a la palpación. Laboratorio: amilasa 800 U/L, glucosa 130 mg/dL, leucocitos 12,000/μL, sodio 125 mEq/L, triglicéridos 1800 mg/dL. ¿Cuál es la causa más probable de la hiponatremia?",
+  "opts": [
+   "Pérdida excesiva de líquidos",
+   "Secreción inadecuada de hormona antidiurética",
+   "Reposición excesiva de agua libre",
+   "Pseudohiponatremia",
+   "Insuficiencia suprarrenal"
+  ],
+  "ans": 3,
+  "why": "Una hipertrigliceridemia grave desplaza agua del suero y hace que el sodio medido salga falsamente bajo (pseudohiponatremia), un error de medición. El peligro es corregirla con suero salino hipertónico y provocar hipernatremia. La pérdida de líquidos por vómitos daría alcalosis hipoclorémica, la reposición excesiva de agua libre requiere pérdidas digestivas previas, y la insuficiencia suprarrenal cursaría con hipotensión refractaria e hiperpotasemia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 86 del PDF"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "929e33aff1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al alcohol y la pancreatitis?",
+  "opts": [
+   "Ocurre comúnmente después de una sola ingesta excesiva",
+   "El tipo de alcohol consumido es un factor de riesgo importante",
+   "Los pacientes con dieta alta en proteínas y grasas tienen mayor riesgo",
+   "Existe un umbral de consumo por debajo del cual no ocurre pancreatitis",
+   "Típicamente se desarrolla tras una media de 5 años de consumo excesivo"
+  ],
+  "ans": 2,
+  "why": "El riesgo de pancreatitis alcohólica parece mayor en quienes llevan una dieta alta en proteínas y grasas. La mayoría de los pacientes tiene una historia larga de consumo intenso (media de 100-175 g/día), y solo rara vez aparece tras una sola ingesta excesiva. Importan la cantidad y la duración, no el tipo de bebida. No se describe un umbral seguro. El Sabiston habla de más de 100 g/día durante al menos 5 años como mínimo, no de una media de 5 años.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 87 del PDF",
+   "Sabiston 21.ª ed., p. 1558 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "b9cc16a671",
+  "estado": "confirmada",
+  "stem": "La causa más común de pancreatitis crónica en el mundo es:",
+  "opts": [
+   "Litiasis biliar",
+   "Consumo de alcohol",
+   "Hereditaria",
+   "Hipertrigliceridemia",
+   "Infecciosa"
+  ],
+  "ans": 1,
+  "why": "El consumo intenso de alcohol causa el 70-80% de las pancreatitis crónicas y es su factor de riesgo más importante. La litiasis biliar es la causa principal de la pancreatitis aguda, pero rara vez de la crónica. Las causas hereditaria, por hipertrigliceridemia e infecciosa son poco frecuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1565 del PDF",
+   "Sabiston 21.ª ed., p. 1566 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "087a5e6d19",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al papel de la colangiopancreatografía retrógrada endoscópica (CPRE) y/o el momento de la cirugía en la pancreatitis biliar aguda?",
+  "opts": [
+   "En pancreatitis leve, la colecistectomía laparoscópica puede realizarse con seguridad dentro de las primeras 48 horas del ingreso.",
+   "La CPRE con esfinterotomía debe realizarse rutinariamente antes de la cirugía.",
+   "Si se sospecha un cálculo en el colédoco, debe realizarse CPRE con esfinterotomía preoperatoria.",
+   "En pancreatitis severa, la colecistectomía temprana reduce la morbilidad y mortalidad.",
+   "Existe riesgo mínimo de empeoramiento de la pancreatitis con la realización de CPRE."
+  ],
+  "ans": 0,
+  "why": "En la pancreatitis biliar leve a moderada, la colecistectomía temprana (en 48 horas) es segura, y retrasarla mucho da hasta un 30% de recidivas. La CPRE de rutina no está indicada, porque los cálculos residuales son poco probables y la CPRE puede causar pancreatitis. La CPRE preoperatoria se reserva para la colangitis o la obstrucción biliar clara; si solo se sospecha un cálculo, se hace colangiografía intraoperatoria. En la pancreatitis grave, operar pronto aumenta la morbimortalidad, así que hay que esperar a que se resuelva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 85 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "a82837021e",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la indicación más común para esplenectomía electiva?",
+  "opts": [
+   "Estadificación del linfoma de Hodgkin",
+   "Esferocitosis hereditaria",
+   "Púrpura trombocitopénica inmunitaria",
+   "Púrpura trombocitopénica trombótica",
+   "Anemia hemolítica autoinmunitaria"
+  ],
+  "ans": 2,
+  "why": "Hoy la PTI es la indicación más frecuente de esplenectomía electiva, seguida de la esferocitosis hereditaria, la anemia hemolítica autoinmunitaria y la PTT. La estadificación del linfoma de Hodgkin fue la principal en el pasado, pero ya no se hace. El trauma es la indicación más frecuente de esplenectomía en general, pero no es electiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 100 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "5be5a2b9c3",
+  "estado": "confirmada",
+  "stem": "Comparando esplenectomía laparoscópica versus abierta en trastornos hematológicos, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "La esplenectomía abierta tiene mejores resultados a largo plazo",
+   "La estancia hospitalaria es similar en ambas técnicas",
+   "La mortalidad operatoria es menor en la laparoscópica",
+   "La esplenectomía laparoscópica es el estándar actual de atención",
+   "La esplenectomía laparoscópica se asocia con mayor costo para el paciente"
+  ],
+  "ans": 3,
+  "why": "La esplenectomía laparoscópica es hoy el estándar para la esplenectomía electiva no traumática. Frente a la abierta dura más en quirófano, pero acorta la estancia hospitalaria y tiene menos morbilidad, con pérdida de sangre, mortalidad y tasas de respuesta similares. Aunque el quirófano cuesta más, el costo total para el paciente suele ser menor gracias a la estancia más corta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "d9bed2117f",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la localización más común de un bazo accesorio?",
+  "opts": [
+   "Hilio esplénico",
+   "Ligamento gastrocólico",
+   "Epiplón mayor",
+   "Ligamento esplenorrenal",
+   "Adyacente al testículo izquierdo"
+  ],
+  "ans": 0,
+  "why": "El bazo accesorio se encuentra con más frecuencia en el hilio esplénico, seguido de la cola del páncreas; también puede aparecer en los ligamentos gastroesplénico y esplenocólico, en el epiplón o, rara vez, junto al testículo o el ovario izquierdos. Hay que buscarlo en la esplenectomía por PTI, porque si queda puede causar una recidiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 93 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "311d84fd8f",
+  "estado": "confirmada",
+  "stem": "La indicación más común para esplenectomía electiva es:",
+  "opts": [
+   "Estadificación de linfoma de Hodgkin",
+   "Esferocitosis hereditaria",
+   "Púrpura trombocitopénica idiopática",
+   "Leucemia linfocítica crónica",
+   "Anemia hemolítica autoinmune"
+  ],
+  "ans": 2,
+  "why": "La PTI es la indicación más frecuente de esplenectomía electiva, seguida de la esferocitosis hereditaria y la anemia hemolítica autoinmune. La estadificación del linfoma de Hodgkin fue la principal en el pasado, pero se abandonó, y la leucemia linfocítica crónica es una indicación poco frecuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 100 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "e8eb84aa86",
+  "estado": "confirmada",
+  "stem": "Comparando la esplenectomía laparoscópica con la abierta para trastornos hematológicos, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "La esplenectomía abierta tiene mejores resultados a largo plazo en cuanto a tasa de respuesta",
+   "La duración de la hospitalización es la misma",
+   "La mortalidad operatoria es menor con la esplenectomía laparoscópica",
+   "La esplenectomía laparoscópica se ha convertido en el estándar de atención",
+   "La esplenectomía laparoscópica tiene una menor morbilidad en pacientes cirróticos"
+  ],
+  "ans": 3,
+  "why": "La esplenectomía laparoscópica es hoy el estándar para la esplenectomía electiva no traumática. Frente a la abierta dura más en quirófano, pero acorta la estancia hospitalaria y tiene menos morbilidad, con pérdida de sangre, mortalidad y tasas de respuesta similares. Aunque el quirófano cuesta más, el costo total para el paciente suele ser menor gracias a la estancia más corta. La opción E habla de pacientes cirróticos, que quedan fuera de la pregunta (trastornos hematológicos), y la fuente no la respalda.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 101 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "En el ABSITE la opción E original era 'mayor costo para el paciente'; este banco la cambió por 'menor morbilidad en cirróticos', que no responde a la pregunta."
+ }
+]

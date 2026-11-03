@@ -1,0 +1,22 @@
+{
+ "832c1027e2": {
+  "k": "832c1027e2",
+  "estado": "nueva",
+  "stem": "Paciente de 40 años con antecedente de drenaje de absceso isquiorrectal hace 3 meses. Acude por salida intermitente de material purulento por un orificio perianal. Se sospecha una fístula transesfinteriana que atraviesa más del 30 % del esfínter externo. ¿Cuál es el tratamiento quirúrgico que minimiza el riesgo de incontinencia?",
+  "opts": [
+   "Cierre con adhesivo de fibrina",
+   "Colocación de un sedal o colgajo de avance",
+   "Fistulotomía en un tiempo",
+   "Fistulectomía amplia",
+   "Esfinterotomía interna lateral asociada"
+  ],
+  "ans": 1,
+  "why": "En una fístula transesfinteriana que abarca más del 30% del esfínter externo, la fistulotomía (C) o la fistulectomía (D) cortarían demasiado esfínter y causarían incontinencia. Por eso se controla la fístula con un sedal y se repara sin seccionar el esfínter, por ejemplo con un colgajo de avance endorrectal. El adhesivo de fibrina (A) no pone en riesgo la continencia, pero su éxito a largo plazo es marginal. La esfinterotomía interna lateral (E) es un tratamiento de la fisura, no de la fístula.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1434 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 182 del PDF"
+  ],
+  "nota": "Sin clave en el original (simulacro Team Medic).",
+  "tema": "anorrectal"
+ }
+}

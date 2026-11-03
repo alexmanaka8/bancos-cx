@@ -1,0 +1,9 @@
+# No se publica: tus archivos originales (PDF, fotos) y archivos temporales de las herramientas
+/originales/
+herramientas/.bin/
+herramientas/.cache/
+.DS_Store
+# Archivos de trabajo de la verificación (imágenes de tus exámenes originales y lotes temporales)
+verificacion/.imagenes/
+verificacion/lotes/
+verificacion/temas/

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Bancos de Cirugía</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#1E5FA8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bancos Cx">
+<link rel="apple-touch-icon" href="iconos/apple-touch-icon.png">
+<link rel="icon" href="iconos/favicon-64.png">
+<link rel="stylesheet" href="fuentes/fuentes.css">
+<link rel="stylesheet" href="comun/app.css">
+</head><body>
+<div class="wrap">
+  <header class="hero">
+    <div class="kicker">Cirugía I · Generales</div>
+    <h1>Bancos de preguntas</h1>
+    <p id="resumenTotal">Cargando…</p>
+  </header>
+
+  <div id="continuar"></div>
+  <div id="instalar"></div>
+
+  <h2 class="section-title" id="tituloTemas" hidden>Estudiar por tema</h2>
+  <p class="muted" id="notaTemas" hidden style="margin:-4px 0 10px;font-size:15px">Las preguntas de todos tus bancos, ordenadas por las clases del sílabo. ⭐ = se repiten entre bancos (alto valor).</p>
+  <div class="temas" id="temas"></div>
+
+  <h2 class="section-title">Bancos</h2>
+  <div class="list" id="bancos"></div>
+
+  <h2 class="section-title" id="tituloBiblio" hidden>Biblioteca</h2>
+  <p class="muted" id="notaBiblio" hidden style="margin:-4px 0 10px;font-size:15px">Resúmenes para leer. Cada documento queda guardado sin internet después de abrirlo una vez.</p>
+  <div class="list" id="biblioteca"></div>
+  <button class="btn ghost block" id="bajarBiblio" type="button" hidden style="margin-top:12px">Guardar toda la biblioteca para usar sin internet</button>
+
+  <footer>
+    <div class="row"><b style="color:var(--ink)">Tu progreso</b> se guarda solo en este celular.</div>
+    <div class="row">
+      <button class="linkbtn" id="exportar" type="button">Hacer copia de seguridad</button>
+      <label class="linkbtn" style="display:inline-flex;align-items:center">Restaurar copia<input type="file" id="importar" accept="application/json,.json" hidden></label>
+    </div>
+    <div class="row" id="estadoRed"></div>
+  </footer>
+</div>
+
+<script src="comun/app.js"></script>
+<script>
+(async () => {
+  const { esc, $ } = App;
+  let cat;
+  try { cat = await (await fetch('datos/catalogo.json')).json(); }
+  catch (e) { $('#resumenTotal').textContent = 'No se pudo cargar la lista de bancos.'; return; }
+
+  // ---------- bancos ----------
+  let totalQ = 0, totalVistas = 0, ultima = null;
+  const tarjetas = cat.bancos.map(b => {
+    const p = b.tipo === 'html' ? App.cargarHtml(b.clave) : App.cargar(b.id);
+    const r = App.resumen(p.hist || {}, b.n || 0);
+    totalQ += b.n || 0; totalVistas += r.vistas;
+    const ses = p.ses;
+    if (ses && ses.ids && ses.ids.length && (!ultima || (ses.ts || 0) > (ultima.ses.ts || 0))) ultima = { b, ses };
+    const pctBien = r.total ? r.bien / r.total * 100 : 0, pctMal = r.total ? r.mal / r.total * 100 : 0;
+    const sinClave = (b.verificadas ? `<span class="pill ok">✓ ${b.verificadas} verificadas</span> ` : '') +
+      (b.tipo !== 'html' && b.conClave < b.n ? `<span class="pill warn">${b.n - b.conClave} sin clave</span>` : '');
+    return `<a class="bank" href="${esc(b.url)}">
+      <span class="chev" aria-hidden="true">›</span>
+      <h3>${esc(b.nombre)}</h3>
+      <div class="sub">${b.n ?? '?'} preguntas ${sinClave}</div>
+      <div class="track" aria-hidden="true"><i class="ok" style="width:${pctBien}%"></i><i class="ko" style="width:${pctMal}%"></i></div>
+      <div class="stats">${r.vistas
+        ? `<span>Respondidas <b>${r.vistas}/${r.total}</b></span><span>Falladas <b>${r.mal}</b></span>${r.pct !== null ? `<span>Aciertos <b>${r.pct}%</b></span>` : ''}`
+        : '<span>Sin empezar</span>'}</div>
+    </a>`;
+  });
+  $('#bancos').innerHTML = tarjetas.join('');
+  $('#resumenTotal').textContent = `${cat.bancos.length} bancos · ${totalQ.toLocaleString('es')} preguntas` +
+    (totalVistas ? ` · has respondido ${totalVistas.toLocaleString('es')}` : '');
+
+  // ---------- estudiar por tema ----------
+  if (cat.temas && cat.temas.length) {
+    $('#tituloTemas').hidden = $('#notaTemas').hidden = false;
+    const fuera = t => t.clase === 'fuera del sílabo' || t.id === 'otros';
+    const temas = cat.temas.filter(t => !fuera(t)).concat([{ separador: true }], cat.temas.filter(fuera));
+    $('#temas').innerHTML = temas.map(t => {
+      if (t.separador) return '<p class="muted" style="margin:10px 0 0;font-size:14px;font-weight:600">Fuera del sílabo (salen en los bancos)</p>';
+      const s = App.cargar('tema-' + t.id).ses;
+      if (s && s.ids && s.ids.length && (!ultima || (s.ts || 0) > (ultima.ses.ts || 0)))
+        ultima = { b: { nombre: t.nombre, url: 'banco.html?tema=' + encodeURIComponent(t.id), tipo: 'tema' }, ses: s };
+      return `<a class="tema" href="banco.html?tema=${encodeURIComponent(t.id)}"><span class="nm">${esc(t.nombre)}</span>
+        <small>${t.n} preg.${t.alto ? `<br>⭐ ${t.alto}` : ''}</small></a>`;
+    }).join('');
+  }
+
+  // ---------- continuar la última sesión ----------
+  if (ultima) {
+    const s = ultima.ses;
+    $('#continuar').innerHTML = `<a class="resume" href="${esc(ultima.b.url)}${ultima.b.tipo === 'html' ? '' : '&continuar=1'}">
+      <span style="font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase">Continuar donde me quedé</span>
+      <b>${esc(ultima.b.nombre)}</b><span>Pregunta ${s.i + 1} de ${s.ids.length}</span></a>`;
+  }
+
+  // ---------- biblioteca ----------
+  if (cat.biblioteca.length) {
+    $('#tituloBiblio').hidden = $('#notaBiblio').hidden = $('#bajarBiblio').hidden = false;
+    $('#biblioteca').innerHTML = cat.biblioteca.map(d =>
+      `<a class="doc" href="biblioteca.html?id=${encodeURIComponent(d.id)}"><span>${esc(d.nombre)}</span><small>${d.paginas} pág.</small></a>`).join('');
+    $('#bajarBiblio').onclick = async () => {
+      const btn = $('#bajarBiblio'); btn.disabled = true;
+      const urls = cat.biblioteca.flatMap(d => Array.from({ length: d.paginas }, (_, i) => `biblioteca/${d.id}/${String(i + 1).padStart(3, '0')}.jpg`));
+      let n = 0, fallas = 0;
+      for (const u of urls) {
+        try { await fetch(u); } catch (e) { fallas++; }
+        n++; if (n % 5 === 0 || n === urls.length) btn.textContent = `Guardando… ${n}/${urls.length}`;
+      }
+      btn.textContent = fallas ? `Faltaron ${fallas} páginas (¿sin internet?). Toca para reintentar.` : 'Biblioteca guardada ✓';
+      btn.disabled = !fallas;
+    };
+  }
+
+  // ---------- instalar en la pantalla de inicio ----------
+  const instalada = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  if (!instalada && ios) {
+    $('#instalar').innerHTML = `<div class="card-note"><b>Instálala en tu iPhone</b>Toca el botón Compartir <span aria-hidden="true">⎋</span> de Safari y elige “Agregar a inicio”.</div>`;
+  }
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    $('#instalar').innerHTML = `<div class="card-note"><b>Instálala en tu celular</b>Quedará como una app más, con su ícono.
+      <div style="margin-top:10px"><button class="btn" type="button" id="btnInstalar">Instalar app</button></div></div>`;
+    $('#btnInstalar').onclick = () => { e.prompt(); };
+  });
+
+  // ---------- copia de seguridad ----------
+  $('#exportar').onclick = App.exportar;
+  $('#importar').onchange = ev => {
+    const f = ev.target.files[0]; if (!f) return;
+    App.importar(f, ok => { App.aviso(ok ? 'Progreso restaurado.' : 'Ese archivo no es una copia de esta app.'); if (ok) setTimeout(() => location.reload(), 900); });
+  };
+
+  // ---------- estado ----------
+  const red = () => { $('#estadoRed').textContent = navigator.onLine ? 'Con internet' : 'Sin internet · todo sigue funcionando'; };
+  red(); addEventListener('online', red); addEventListener('offline', red);
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.ready.then(reg => {
+      navigator.serviceWorker.addEventListener('message', e => { if (e.data && e.data.version) $('#estadoRed').textContent += ` · versión ${e.data.version}`; });
+      reg.active && reg.active.postMessage('version');
+    });
+  }
+})();
+</script>
+</body></html>

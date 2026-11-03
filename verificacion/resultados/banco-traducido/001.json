@@ -1,0 +1,369 @@
+[
+ {
+  "k": "2f365d1046",
+  "estado": "corregida",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la torsión del epiplón es verdadera?",
+  "opts": [
+   "La torsión secundaria es más frecuente que la primaria.",
+   "Si se requiere cirugía, el tratamiento consiste en destorcer el epiplón y realizar una omentopexia.",
+   "El tratamiento suele consistir en observación y control del dolor.",
+   "El dolor suele localizarse en el cuadrante inferior izquierdo del abdomen.",
+   "Habitualmente produce líquido peritoneal de aspecto purulento."
+  ],
+  "ans": 0,
+  "why": "La torsión primaria (sin causa subyacente) es extremadamente rara; la secundaria, precipitada por un punto fijo (tumor, adherencia, saco herniario, foco inflamatorio), es mucho más común. El tratamiento es resecar el epiplón torcido (a menudo infartado) y corregir la causa asociada, no destorcerlo ni observar (B, C). El dolor suele ser del lado derecho, simulando apendicitis o colecistitis (D), y el líquido es serosanguinolento, no purulento (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 27 del PDF", "Sabiston 21.ª ed., p. 1119-1120 del PDF"],
+  "nota": "Clave original: C (resaltado). Tanto el ABSITE (respuesta 4. A) como el Sabiston indican que el tratamiento es la resección del epiplón afectado, por lo que C es falsa.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "49c5848cf6",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las incisiones abdominales y la prevención de las hernias incisionales es verdadera?",
+  "opts": [
+   "Actualmente se recomienda una relación de 4:1 entre la longitud de la sutura y la longitud de la herida.",
+   "No existe diferencia en la aparición de hernias entre el cierre continuo y el cierre con puntos separados.",
+   "Se prefiere una sutura monofilamento permanente para el cierre continuo de la fascia.",
+   "El uso profiláctico de una malla después de una cirugía abierta de aneurisma aórtico no es eficaz.",
+   "Durante el cierre abdominal se recomienda dejar una distancia de 1 cm entre cada punto de sutura."
+  ],
+  "ans": 0,
+  "why": "La guía de la European Hernia Society recomienda cierre con puntos pequeños (small bites) y una relación longitud de sutura:longitud de herida de al menos 4:1. El cierre continuo es superior al de puntos separados (B), la sutura recomendada es monofilamento de absorción lenta como PDS, no permanente (C), la malla profiláctica sí es eficaz tras cirugía abierta de aneurisma aórtico (D) y el ensayo STITCH favorece puntos de 5 mm a 5 mm, no de 1 cm (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 33 del PDF"],
+  "tema": "suturas"
+ },
+ {
+  "k": "02c8d0be2d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los sarcomas retroperitoneales es verdadera?",
+  "opts": [
+   "El mejor tratamiento es la enucleación del tumor.",
+   "El pronóstico se determina principalmente por el grado histológico.",
+   "Los fibrosarcomas son el tipo más frecuente.",
+   "Las metástasis en los ganglios linfáticos son frecuentes.",
+   "La radioterapia suele ser curativa en los sarcomas pequeños."
+  ],
+  "ans": 1,
+  "why": "El grado histológico del tumor es el factor predictivo más importante del pronóstico en los sarcomas retroperitoneales. El tratamiento más eficaz es la resección completa en bloque con márgenes negativos, no la enucleación ni la radioterapia sola (A, E). Los tipos más frecuentes son el liposarcoma, el histiocitoma fibroso maligno y el leiomiosarcoma (C), y las metástasis ganglionares son raras (D).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 34 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción B está resaltada (la pregunta aparece dos veces en la página, ambas con B).",
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "818e055ec8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la rama genital del nervio genitofemoral es correcta?",
+  "opts": [
+   "Habitualmente se encuentra por delante y sobre el cordón espermático.",
+   "Proporciona sensibilidad a la base del pene y a la cara interna del muslo.",
+   "Habitualmente discurre sobre la superficie anterior del músculo oblicuo interno.",
+   "Su sección provoca la pérdida ipsilateral del reflejo cremastérico.",
+   "Frecuentemente se entremezcla con el nervio iliohipogástrico."
+  ],
+  "ans": 3,
+  "why": "La rama genital del genitofemoral (L1-L2) inerva el músculo cremáster y la piel lateral del escroto o los labios, por lo que es responsable del reflejo cremastérico; su sección lo abole del mismo lado. Discurre con los elementos del cordón, sobre el tracto iliopúbico. El nervio que va sobre el cordón es el ilioinguinal (A); la sensibilidad de la base del pene y la cara interna del muslo corresponde al ilioinguinal e iliohipogástrico (B); el que va sobre el oblicuo interno es el iliohipogástrico (C), y este no se entremezcla con el genitofemoral (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 43 del PDF"],
+  "tema": "hernias"
+ },
+ {
+  "k": "e488ec8242",
+  "estado": "confirmada",
+  "stem": "La orquitis isquémica después de una reparación de hernia inguinal se debe con mayor frecuencia a:",
+  "opts": [
+   "Una reconstrucción demasiado ajustada del anillo inguinal.",
+   "Una enfermedad testicular preexistente.",
+   "La ligadura accidental de la arteria testicular.",
+   "La extirpación completa de un saco herniario escrotal grande.",
+   "Una irrigación sanguínea anómala del testículo."
+  ],
+  "ans": 3,
+  "why": "La orquitis isquémica (congestiva) se atribuye a trombosis de las venas del plexo pampiniforme, y su factor de riesgo más identificado es la disección extensa del cordón, típicamente al disecar y extirpar por completo un saco herniario escrotal grande; por eso se recomienda seccionar el saco y dejar el distal in situ. Un anillo ajustado no es la causa (reexplorar para aflojarlo no funcionó) (A). Ligar la arteria testicular no suele producirla por la rica circulación colateral (C), y la patología testicular previa o la irrigación anómala no se consideran causas (B, E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 44 del PDF"],
+  "tema": "hernias"
+ },
+ {
+  "k": "3df070dcdd",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones describe mejor las hernias umbilicales en los niños?",
+  "opts": [
+   "Presentan un riesgo significativo de incarceración.",
+   "La reparación está indicada tan pronto como se diagnostica la hernia umbilical.",
+   "La reparación debe realizarse si la hernia persiste después de los seis meses de edad.",
+   "La mayoría se cierran espontáneamente.",
+   "La reparación solo debe realizarse si el niño presenta síntomas."
+  ],
+  "ans": 3,
+  "why": "Las hernias umbilicales infantiles son congénitas y la mayoría son pequeñas y se cierran solas hacia los 2 años, sobre todo si el defecto mide menos de 1 cm. Por eso no se reparan al diagnóstico (B); la reparación electiva se plantea si persisten a los 4-5 años, no a los 6 meses (C), o si el defecto es mayor de 2 cm, aunque no haya síntomas (E). La incarceración es muy rara (A).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción D está resaltada.",
+  "tema": "pediatria"
+ },
+ {
+  "k": "4ba323257f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la bilis y los cálculos biliares es verdadera?",
+  "opts": [
+   "Los ácidos biliares primarios son el desoxicólico y el litocólico.",
+   "El principal fosfolípido de la bilis es la lecitina.",
+   "La colecistectomía disminuye la secreción de sales biliares.",
+   "Los cálculos pigmentarios marrones se encuentran con mayor frecuencia en la vesícula que en el colédoco.",
+   "La bilis está compuesta por partes iguales de sales biliares, fosfolípidos y colesterol."
+  ],
+  "ans": 1,
+  "why": "El fosfolípido de la bilis es la lecitina, que junto con las sales biliares forma las micelas que solubilizan el colesterol. La bilis tiene alrededor de 80 % de sales biliares, 15 % de fosfolípidos y 5 % de colesterol, no partes iguales (E). Los ácidos primarios son el cólico y el quenodesoxicólico; desoxicólico y litocólico son secundarios (A). La colecistectomía apenas modifica la secreción de ácidos biliares (C), y los cálculos marrones se forman sobre todo en el colédoco por estasis e infección (D).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 55 del PDF", "Sabiston 21.ª ed., p. 1269 del PDF"],
+  "tema": "vesicula"
+ },
+ {
+  "k": "ad2420033c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la vesícula biliar es verdadera?",
+  "opts": [
+   "Absorbe sodio y cloro de manera pasiva.",
+   "En presencia de colelitiasis, la colecistocinina (CCK) puede provocar dolor vesicular intermitente, que aumenta y disminuye.",
+   "Mantiene un ambiente alcalino.",
+   "El glucagón favorece el vaciamiento de la vesícula biliar.",
+   "La estimulación vagal inhibe su contracción."
+  ],
+  "ans": 3,
+  "why": "Según el ABSITE, el glucagón relaja el esfínter de Oddi y crea una vía de menor resistencia que permite el vaciamiento de la vesícula al duodeno. Las demás son falsas: la vesícula absorbe NaCl por transporte activo (A), el dolor por colelitiasis es constante durante horas y no intermitente (B), secreta hidrogeniones que acidifican la bilis (C) y el vago estimula su contracción (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 55 del PDF"],
+  "tema": "vesicula"
+ },
+ {
+  "k": "58cc283baf",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la anatomía biliar es verdadera?",
+  "opts": [
+   "El conducto hepático derecho suele ser más largo que el izquierdo y presenta mayor predisposición a la dilatación.",
+   "El drenaje venoso de la vesícula biliar se realiza, en la mayoría de los casos, a través de una vena cística que desemboca en la vena porta.",
+   "Las válvulas de Heister desempeñan un papel importante en la función de la vesícula como reservorio de bilis.",
+   "El colédoco y el conducto pancreático suelen unirse fuera de la pared duodenal.",
+   "La irrigación arterial del colédoco deriva principalmente de las arterias hepática izquierda y gástrica derecha."
+  ],
+  "ans": 3,
+  "why": "En la mayoría de las personas (alrededor de tres cuartos según el ABSITE) el colédoco y el conducto pancreático principal se unen junto al duodeno y atraviesan su pared como un conducto común hasta la ampolla de Vater. El conducto hepático más largo y que más se dilata es el izquierdo (A). Las venas de la vesícula drenan directamente al parénquima hepático (B). Las válvulas de Heister no tienen función valvular real (C). El colédoco se irriga por arterias a las 3 y 9 horarias, desde la hepática derecha y la retroduodenal (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 56 del PDF", "Latarjet, Anatomía humana tomo 2, p. 499 del PDF"],
+  "nota": "Matiz: Latarjet describe que ambos conductos se unen en contacto con el duodeno y cruzan juntos su pared en el 90 % de los casos; el Sabiston (p. 1528) define la unión pancreatobiliar anómala como la fusión antes de la pared duodenal con un canal común largo. Aun así, D es la única opción defendible porque las otras cuatro son claramente falsas.",
+  "tema": "vesicula"
+ },
+ {
+  "k": "8ba3e84ff8",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años presenta quemaduras de tercer grado que afectan el 50 % de la superficie corporal total. En el séptimo día de hospitalización desarrolla fiebre, leucocitosis marcada y dolor en el cuadrante superior derecho. Su presión arterial es de 130/80 mmHg y su frecuencia cardíaca es de 110 latidos por minuto. La ecografía muestra una vesícula distendida, engrosamiento de su pared y presencia de barro biliar, pero no evidencia cálculos. Se inician antibióticos. ¿Cuál debe ser el siguiente paso en el manejo?",
+  "opts": [
+   "Colecistectomía laparoscópica.",
+   "Tomografía computarizada.",
+   "Gammagrafía hepatobiliar con ácido iminodiacético (HIDA).",
+   "Colecistostomía percutánea.",
+   "Endoscopia digestiva alta."
+  ],
+  "ans": null,
+  "why": "Es una colecistitis alitiásica en un gran quemado, ya diagnosticada por ecografía, así que no hacen falta TC, HIDA ni endoscopia (B, C, E). La duda está entre A y D. El ABSITE marca colecistectomía laparoscópica (A) porque el paciente está hemodinámicamente estable y reserva la colecistostomía para quien está demasiado grave para operarse. El Sabiston señala que la colecistectomía es el tratamiento, pero que en estos pacientes graves la colecistostomía percutánea es mucho más atractiva y factible (más del 90 % mejora). Un quemado del 50 % en UCI es un paciente grave, así que ambas opciones son defendibles.",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57 del PDF", "Sabiston 21.ª ed., p. 1527 del PDF"],
+  "nota": "Clave original: A (resaltado), que coincide con la clave del ABSITE. El Sabiston favorece la colecistostomía percutánea (D) en pacientes críticos.",
+  "tema": "vesicula"
+ },
+ {
+  "k": "d859087e0f",
+  "estado": "confirmada",
+  "stem": "Durante una colecistectomía laparoscópica, se observa salida de bilis cerca de la unión del colédoco con el conducto cístico. Al convertir a cirugía abierta, se identifica un desgarro longitudinal de 3 mm en la pared anterolateral de la porción distal del conducto hepático común. El diámetro del conducto es de 7 mm. ¿Cuál es el manejo indicado?",
+  "opts": [
+   "Reparación primaria de la lesión sin tubo en T.",
+   "Reparación primaria de la lesión sobre un tubo en T.",
+   "Reparación primaria con colocación de un tubo en T a través de una coledocotomía separada.",
+   "Hepaticoyeyunostomía.",
+   "Coledocoduodenostomía."
+  ],
+  "ans": 1,
+  "why": "Las lesiones pequeñas, limpias y que afectan menos del 50 % de la circunferencia de un conducto de buen calibre se reparan de forma primaria sobre un tubo en T, porque probablemente conservan la irrigación de las 3 y 9 horarias. El tubo en T por coledocotomía separada se reserva para lesiones térmicas (C). La hepaticoyeyunostomía en Y de Roux es para sección completa o casi completa, o para conductos muy finos (D), y la coledocoduodenostomía para lesiones distales del colédoco (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57 del PDF"],
+  "tema": "via-biliar"
+ },
+ {
+  "k": "1d8b5e7f04",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el uso de la colangiografía intraoperatoria durante la colecistectomía laparoscópica es verdadera?",
+  "opts": [
+   "Ayuda a prevenir la sección accidental del colédoco.",
+   "Es el mejor método para identificar cálculos clínicamente significativos en el colédoco.",
+   "Su uso rutinario está justificado por su capacidad para identificar anomalías anatómicas de los conductos hepáticos.",
+   "Su uso rutinario ayuda a garantizar la extracción completa de la vesícula y del conducto cístico.",
+   "Su uso rutinario es innecesario."
+  ],
+  "ans": 4,
+  "why": "El uso rutinario de la colangiografía intraoperatoria es controvertido y la mayoría de los cirujanos lo considera innecesario; muchos prefieren el uso selectivo junto con la visión crítica de seguridad. Probablemente no evita la lesión del colédoco, aunque permite reconocerla antes (A). Los cálculos coledocianos suelen sospecharse antes de operar por pruebas hepáticas, colédoco dilatado o pancreatitis biliar (B), y no hay ensayos que justifiquen su uso rutinario por anatomía o por extracción completa (C, D).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57-58 del PDF"],
+  "tema": "vesicula"
+ },
+ {
+  "k": "b1db00f39b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones describe mejor el papel del drenaje biliar preoperatorio antes de una operación de Whipple en un paciente con ictericia obstructiva?",
+  "opts": [
+   "Se ha demostrado que disminuye la tasa de colangitis.",
+   "Se ha demostrado que aumenta la tasa de infecciones de la herida quirúrgica.",
+   "Debe realizarse de forma rutinaria si la bilirrubina es superior a 8 mg/dL.",
+   "Se ha demostrado que acorta la estancia hospitalaria.",
+   "Se ha demostrado que disminuye la mortalidad."
+  ],
+  "ans": 1,
+  "why": "Los metaanálisis no muestran menos morbilidad ni mortalidad con el drenaje biliar preoperatorio (stent por CPRE) antes del Whipple. Su uso rutinario aumenta las complicaciones infecciosas, incluida la infección de herida (10 % frente a 4 %), y la fístula pancreática. Por eso se usa solo de forma selectiva (colangitis, prurito intratable), no según una cifra de bilirrubina (C), y no se ha demostrado que reduzca la colangitis, la estancia ni la mortalidad (A, D, E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 58 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción B está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "ff8109ccbd",
+  "estado": "confirmada",
+  "stem": "Un hombre de 24 años presenta heces acólicas y orina de color cola. La fosfatasa alcalina es de 2000 UI/L, la AST de 78 UI/L, la ALT de 88 UI/L y la bilirrubina total de 2,1 mg/dL. La biopsia hepática muestra fibrosis concéntrica periductal alrededor de los conductos biliares macroscópicos. Es positivo para anticuerpos anticitoplasma de neutrófilos con patrón perinuclear (p-ANCA). ¿Cuál de las siguientes afirmaciones sobre esta enfermedad es verdadera?",
+  "opts": [
+   "Se asocia más con la enfermedad de Crohn que con la colitis ulcerosa.",
+   "Debe determinarse el antígeno carbohidrato 19-9 (CA 19-9).",
+   "La CPRE mostrará predominantemente estrechamientos irregulares de la vía biliar intrahepática.",
+   "Los síntomas suelen controlarse adecuadamente con tratamiento médico.",
+   "Es más frecuente en mujeres."
+  ],
+  "ans": 1,
+  "why": "Es una colangitis esclerosante primaria, que tiene un riesgo de colangiocarcinoma del 10-20 %; por eso a todos los pacientes se les debe medir el CA 19-9. Su asociación más fuerte es con la colitis ulcerosa (alrededor de dos tercios), no con el Crohn (A). Produce estenosis irregulares de todo el árbol biliar, no solo intrahepáticas (C). La mayoría acaba necesitando tratamiento invasivo, como stents o trasplante (D). Es dos veces más frecuente en hombres (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 59 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción B está marcada con un círculo rojo.",
+  "tema": "via-biliar"
+ },
+ {
+  "k": "4efcbb15b7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es una característica del cáncer de vesícula biliar?",
+  "opts": [
+   "Presenta depósitos de colesterol moteados en la pared vesicular.",
+   "Presenta nódulos engrosados de la mucosa y de la capa muscular.",
+   "Es más frecuente en hombres.",
+   "Se asocia con mayor probabilidad a cálculos biliares grandes que a pequeños.",
+   "El cáncer que invade la capa muscular se trata únicamente con colecistectomía."
+  ],
+  "ans": 3,
+  "why": "Alrededor del 90 % de los cánceres de vesícula tienen cálculos, y los cálculos grandes y únicos conllevan más riesgo que los pequeños y múltiples, probablemente por mayor inflamación mucosa. Los depósitos de colesterol moteados son colesterolosis (A) y los nódulos de mucosa y muscular, adenomiomatosis (B). Es 2-3 veces más frecuente en mujeres (C). El tumor que invade la muscular (T1b) requiere resección de los segmentos IVb y V con linfadenectomía, no solo colecistectomía (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 59 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción D está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "f71c1557a8",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el mejor tratamiento de un tumor de Klatskin localizado?",
+  "opts": [
+   "Pancreatoduodenectomía (procedimiento de Whipple).",
+   "Resección de toda la vía biliar extrahepática, con resección hepática si es necesaria.",
+   "Resección del tercio medio de la vía biliar con hepaticoyeyunostomía.",
+   "Quimioterapia.",
+   "Radioterapia seguida de quimioterapia."
+  ],
+  "ans": 1,
+  "why": "El tumor de Klatskin es un colangiocarcinoma perihiliar; la cirugía es lo único que ofrece supervivencia a largo plazo si no hay diseminación (no la quimio ni la radioterapia: D, E). Se reseca toda la vía biliar extrahepática con linfadenectomía portal y hepaticoyeyunostomías en Y de Roux, añadiendo hepatectomía si hace falta para lograr márgenes negativos; resecar solo un segmento medio no basta (C). El Whipple es para tumores del colédoco distal (A).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 60 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción B está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "004818d0b8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el colangiocarcinoma es verdadera?",
+  "opts": [
+   "La mayoría de los casos son intrahepáticos.",
+   "El colangiocarcinoma tipo I de Bismuth-Corlette se encuentra por encima de la confluencia de los conductos hepáticos derecho e izquierdo.",
+   "La mayoría de los pacientes se beneficia de quimiorradioterapia adyuvante después de la cirugía.",
+   "Se origina por transformación maligna de los hepatocitos.",
+   "La resección con derivación biliodigestiva se considera un tratamiento apropiado en pacientes con enfermedad en estadio temprano."
+  ],
+  "ans": 4,
+  "why": "En la enfermedad temprana y resecable, el tratamiento apropiado es la resección con reconstrucción biliodigestiva. El colangiocarcinoma se origina en el epitelio de los conductos biliares, no en los hepatocitos (D). La mayoría es extrahepático; solo alrededor del 20 % es intrahepático (A). El tipo I de Bismuth-Corlette está por debajo de la confluencia, no por encima (B). No se ha demostrado que la quimiorradioterapia adyuvante beneficie a la mayoría (C).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 60 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción E está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "9df8e75c50",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el mejor método para prevenir un primer episodio de sangrado en un paciente con várices esofágicas grandes conocidas?",
+  "opts": [
+   "Betabloqueadores.",
+   "Colocación de una derivación portosistémica intrahepática transyugular (TIPS).",
+   "Escleroterapia.",
+   "Ligadura endoscópica.",
+   "Colocación de una derivación portosistémica selectiva."
+  ],
+  "ans": null,
+  "why": "En la profilaxis primaria de várices medianas o grandes, tanto los betabloqueantes no selectivos (A) como la ligadura endoscópica con bandas (D) son eficaces. La escleroterapia, el TIPS y las derivaciones no sirven como profilaxis primaria (B, C, E). El ABSITE elige la ligadura porque dos ensayos la mostraron algo más eficaz que el propranolol. En cambio, el Sabiston 21.ª ed. recomienda indistintamente betabloqueo no selectivo (propranolol, nadolol, carvedilol) o ligadura, y las guías actuales también aceptan ambas. Con dos opciones defendibles, la pregunta no tiene una sola respuesta.",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 70 del PDF", "Sabiston 21.ª ed., p. 1183 del PDF"],
+  "nota": "En el original está marcada con círculo rojo la D (ligadura), que coincide con el ABSITE. El Sabiston, más reciente, pone el betabloqueo al mismo nivel. Se corrigió el texto: faltaba «en un» en el enunciado y «(TIPS)» en la opción B.",
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "8a7f1f91de",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la vena porta es verdadera?",
+  "opts": [
+   "Normalmente tiene una o dos válvulas.",
+   "Aporta aproximadamente un tercio de la sangre que llega al hígado.",
+   "Su presión normal es de 10 a 12 mmHg.",
+   "Se forma por la confluencia de las venas mesentérica inferior y esplénica.",
+   "En el ligamento hepatoduodenal, suele encontrarse posterior tanto al conducto biliar como a la arteria hepática."
+  ],
+  "ans": 4,
+  "why": "En el ligamento hepatoduodenal la vena porta suele estar detrás del colédoco y de la arteria hepática (regla nemotécnica en inglés: «Portal is Posterior»). La vena porta no tiene válvulas (A), aporta alrededor del 75 % del flujo hepático (B), su presión normal es de 3-5 mmHg (C) y se forma por la unión de la mesentérica superior con la esplénica (D).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 70 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción E está marcada con un círculo rojo.",
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "0ff4761bab",
+  "estado": "confirmada",
+  "stem": "La hiperplasia nodular focal (HNF):",
+  "opts": [
+   "Suele ser sintomática.",
+   "Generalmente se localiza en la región central del hígado.",
+   "Se confirma mejor mediante tomografía computarizada de alta resolución.",
+   "Presenta un riesgo importante de ruptura.",
+   "Se considera consecuencia de una alteración embrionaria del flujo sanguíneo hepático."
+  ],
+  "ans": 4,
+  "why": "Se postula que la HNF se debe a una alteración embrionaria temprana del flujo sanguíneo hepático, lo que apoya la presencia de nódulos regenerativos. Suele ser un hallazgo incidental en pacientes asintomáticos (A), se localiza en la periferia del hígado (B), no tiene riesgo de ruptura ni de malignización (D) y el estudio de elección para confirmarla es la resonancia magnética, no la TC (C).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 70 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción E está marcada con un círculo rojo.",
+  "tema": "higado"
+ },
+ {
+  "k": "8abd3548d9",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los adenomas hepáticos es verdadera?",
+  "opts": [
+   "No se presentan en hombres.",
+   "Suelen mostrar captación elevada («caliente») en la gammagrafía hepática con coloide de azufre.",
+   "El realce rápido del contraste en la tomografía permite diferenciarlos de la HNF.",
+   "El riesgo de ruptura parece estar relacionado con el tamaño del tumor.",
+   "Contienen abundantes células no parenquimatosas, como las células de Kupffer."
+  ],
+  "ans": 3,
+  "why": "El riesgo de hemorragia, ruptura y malignización del adenoma hepático depende del tamaño: es raro en los menores de 5 cm, y por eso se resecan los mayores de 5 cm, los sintomáticos o los que crecen. Son raros en hombres, pero aparecen con anabolizantes o glucogenosis (A). Tanto el adenoma como la HNF realzan en fase arterial, así que eso no los distingue (C). Al carecer de células de Kupffer (E), el adenoma aparece «frío» en la gammagrafía con coloide de azufre, mientras que la HNF capta (B).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 71 del PDF", "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 61 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción D está marcada con un círculo rojo.",
+  "tema": "higado"
+ },
+ {
+  "k": "67ca8ca16e",
+  "estado": "confirmada",
+  "stem": "El carcinoma fibrolamelar del hígado:",
+  "opts": [
+   "Se asocia estrechamente con la hepatitis B.",
+   "Se presenta principalmente en hombres mayores.",
+   "Produce una elevación marcada de la AFP.",
+   "Suele contener una cicatriz central.",
+   "Tiene peor pronóstico que el carcinoma hepatocelular convencional."
+  ],
+  "ans": 3,
+  "why": "El carcinoma fibrolamelar es un tumor bien delimitado que puede tener una cicatriz fibrosa central; a diferencia de la de la HNF, esta no realza con contraste. Afecta a jóvenes (mediana de 25 años), no a hombres mayores (B). La mayoría no tiene cirrosis, no es portadora de hepatitis B y no eleva la AFP (A, C). Su pronóstico es mejor que el del hepatocarcinoma convencional, sobre todo porque no hay cirrosis (E).",
+  "fuentes": ["de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 72 del PDF"],
+  "nota": "La extracción no registró clave, pero en el original la opción D está marcada con un círculo rojo. Se completó la opción E («convencional»), que faltaba en la extracción.",
+  "tema": "onco-digestivo"
+ }
+]

@@ -1,0 +1,413 @@
+[
+ {
+  "k": "6d22896a90",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a un hematoma de la vaina del recto?",
+  "opts": [
+   "Si se localiza por encima del ombligo, es más probable que simule un proceso intraabdominal agudo.",
+   "Si se localiza por debajo del ombligo, es más probable que cause sangrado severo.",
+   "La mayoría están asociados con antecedentes de trauma.",
+   "El drenaje quirúrgico es el tratamiento de elección en la mayoría de los casos.",
+   "La embolización angiográfica no es útil."
+  ],
+  "ans": 1,
+  "why": "Por debajo de la línea arqueada no hay vaina posterior del recto, así que el hematoma no queda contenido: puede cruzar la línea media y extenderse a los espacios perivesical y preperitoneal, y crecer hasta causar un sangrado importante. Es esa localización infraumbilical, no la supraumbilical, la que simula una víscera perforada (A). La mayoría son espontáneos, sobre todo en ancianos anticoagulados; en la serie de la Mayo Clinic, el antecedente de trauma o lesión de pared fue del 48% (C). El tratamiento es casi siempre no quirúrgico: reanimación, control del hematocrito y corrección de la anticoagulación (D). La embolización angiográfica sí es útil en casos seleccionados (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 34 del PDF",
+   "Sabiston 21.ª ed., p. 1110 del PDF"
+  ],
+  "tema": "otros"
+ },
+ {
+  "k": "b7930b4e45",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la fibrosis retroperitoneal?",
+  "opts": [
+   "El tratamiento principal implica radioterapia.",
+   "Es más común en mujeres.",
+   "La velocidad de sedimentación globular (VSG) suele ser normal.",
+   "La pielografía intravenosa (PIV) es el estudio diagnóstico de elección.",
+   "La desviación medial de los uréteres es característica."
+  ],
+  "ans": 4,
+  "why": "La placa fibrosa periaórtica atrapa los uréteres y los tracciona hacia la línea media. La urografía muestra la tríada típica de desviación medial de los uréteres, compresión extrínseca e hidronefrosis. El tratamiento de base son los corticoides (más endoprótesis ureterales o ureterólisis), no la radioterapia (A). Afecta 2 a 3 veces más a hombres (B). Los reactantes de fase aguda (VSG, PCR) están elevados en el 80–100% de los casos (C). La evaluación se inicia con TC, no con PIV (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1124 del PDF",
+   "Sabiston 21.ª ed., p. 1125 del PDF",
+   "Cronin CG et al. Retroperitoneal fibrosis: a review of clinical features and imaging findings. RöFo 2009 (PMID 19291600), resumen en Europe PMC"
+  ],
+  "tema": "otros"
+ },
+ {
+  "k": "4ae422d44d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los sarcomas retroperitoneales?",
+  "opts": [
+   "Se tratan mejor mediante enucleación.",
+   "El pronóstico se determina mejor por el grado histológico.",
+   "Las metástasis ganglionares son comunes.",
+   "Los fibrosarcomas son el tipo más común.",
+   "La radioterapia es frecuentemente curativa en sarcomas pequeños."
+  ],
+  "ans": 1,
+  "why": "El grado histológico del tumor es el factor pronóstico más importante. El tratamiento curativo es la resección en bloque con márgenes negativos, no la enucleación (A). Las metástasis ganglionares son raras (C). Los más frecuentes son el liposarcoma, el leiomiosarcoma y el histiocitoma fibroso maligno, no el fibrosarcoma (D). La radioterapia está limitada por la poca tolerancia de los órganos vecinos y no es curativa (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 34 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 35 del PDF"
+  ],
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "9400385c81",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la línea arqueada?",
+  "opts": [
+   "Se ubica normalmente unos centímetros por encima del ombligo.",
+   "Por debajo de esta línea, la aponeurosis del oblicuo interno se divide.",
+   "Por debajo de esta línea, el músculo recto se encuentra sobre la fascia transversa.",
+   "Por debajo de esta línea, la vaina posterior del recto es más delgada.",
+   "Por debajo de esta línea, el músculo oblicuo externo no contribuye a la vaina anterior del recto."
+  ],
+  "ans": 2,
+  "why": "Por debajo de la línea arqueada desaparece la vaina posterior: las aponeurosis de los tres músculos anchos pasan por delante del recto, que queda apoyado directamente sobre la fascia transversalis. La línea arqueada está por debajo del ombligo, a un tercio de la distancia hacia el pubis (A). La aponeurosis del oblicuo interno se divide por encima de la línea, no por debajo (B). Por debajo no hay vaina posterior, así que no tiene sentido decir que es más delgada (D). El oblicuo externo sí contribuye a la vaina anterior en ese nivel (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "86c8eae971",
+  "estado": "confirmada",
+  "stem": "Una hora después de la reparación laparoscópica de una hernia inguinal izquierda, el paciente se queja de ardor intenso en la ingle. ¿Cuál de las siguientes es la recomendación más adecuada?",
+  "opts": [
+   "Regresar de inmediato al quirófano para laparoscopia",
+   "Fármacos antiinflamatorios no esteroides (AINEs)",
+   "Gabapentina (Neurontin)",
+   "Analgesia opioide",
+   "Inyección de anestésico local en la región inguinal"
+  ],
+  "ans": 0,
+  "why": "Un dolor inguinal intenso, urente, en el posoperatorio inmediato de una hernioplastia laparoscópica sugiere el atrapamiento de un nervio por una grapa o tacker. Por eso se debe volver al quirófano para retirar la grapa responsable. Los AINEs, la gabapentina y los opioides no tratan la causa mecánica (B–D). La infiltración con anestésico local quizá no alivie el dolor y, si lo hace, el alivio es solo temporal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "860b2bbbce",
+  "estado": "confirmada",
+  "stem": "El componente más importante de la reparación quirúrgica en un bebé con hernia inguinal unilateral confirmada por ecografía es:",
+  "opts": [
+   "Ligadura alta del saco herniario",
+   "Obliteración del anillo inguinal profundo",
+   "Reparación sin tensión con malla",
+   "Liberación de la vaina anterior del recto para permitir unión entre el tendón conjunto y el ligamento de Cooper",
+   "Identificación de todos los nervios"
+  ],
+  "ans": 0,
+  "why": "La hernia inguinal del lactante es indirecta y se debe a que el proceso vaginal no se cerró. Por eso basta con la ligadura alta del saco a nivel del anillo interno. El piso inguinal es normal, así que no hacen falta obliterar el anillo profundo, poner malla ni hacer una reparación tipo McVay con incisión relajante (B–D). Identificar todos los nervios no es el paso clave (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 37 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF"
+  ],
+  "tema": "pediatria"
+ },
+ {
+  "k": "c9cc17123d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones describe mejor las hernias umbilicales en niños?",
+  "opts": [
+   "Son más comunes en niños blancos que en negros",
+   "La reparación está indicada tan pronto se diagnostica la hernia",
+   "Se debe reparar si la hernia persiste más allá de los 6 meses de edad",
+   "La mayoría cierra espontáneamente",
+   "La realización solo debe realizarse si el niño presenta síntomas."
+  ],
+  "ans": 3,
+  "why": "La hernia umbilical infantil es congénita: el anillo umbilical no se cerró. La mayoría son pequeñas y se cierran solas hacia los 2 años, sobre todo si el defecto mide menos de 1 cm. Por eso no se reparan al diagnóstico (B) ni a los 6 meses (C). La cirugía electiva se plantea si persisten a los 4–5 años, aunque no den síntomas (E). Son más frecuentes en niños de ascendencia africana, no en blancos (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "pediatria"
+ },
+ {
+  "k": "cb3e5e32f8",
+  "estado": "confirmada",
+  "stem": "Se conoce como hernia delimitada por el músculo dorsal ancho, la cresta ilíaca y el músculo oblicuo externo:",
+  "opts": [
+   "Hernia de Grynfeltt",
+   "Hernia de Richter",
+   "Hernia de pequeño tamaño (Petit)",
+   "Hernia obturatriz",
+   "Hernia espigeliana"
+  ],
+  "ans": 2,
+  "why": "El triángulo lumbar inferior, de Petit, está limitado por el dorsal ancho, la cresta ilíaca y el oblicuo externo; la hernia que lo atraviesa es la de Petit. La de Grynfeltt sale por el triángulo lumbar superior, entre la musculatura sacroespinal, el oblicuo interno y la 12.ª costilla (A). La de Richter es un pinzamiento parcial del borde antimesentérico (B). La obturatriz sale por el agujero obturador (D). La de Spiegel sale por la fascia de Spiegel, junto al borde lateral del recto (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "La opción C dice en el original 'Hernia de pequeño tamaño(petit)', una mala traducción de 'Petit hernia': se refiere a la hernia de Petit."
+ },
+ {
+  "k": "795fbccbbd",
+  "estado": "confirmada",
+  "stem": "La rama genital del nervio genitofemoral:",
+  "opts": [
+   "Generalmente se encuentra en la parte anterior, encima del cordón espermático",
+   "Proporciona sensibilidad a la base del pene y la parte interna del muslo",
+   "Generalmente se encuentra en la superficie anterior del músculo oblicuo interno",
+   "Proporciona sensibilidad al lado del escroto y función motora al músculo cremáster",
+   "A menudo se entremezcla con el nervio iliohipogástrico"
+  ],
+  "ans": 3,
+  "why": "La rama genital del genitofemoral (L1–L2) inerva el músculo cremáster, del que depende el reflejo cremastérico, y da sensibilidad a la cara lateral del escroto o al labio mayor. Viaja dentro del cordón, sobre el tracto iliopúbico, junto a los vasos cremastéricos. El que se ubica encima del cordón es el ilioinguinal (A). La base del pene y la cara interna del muslo son territorio del ilioinguinal y el iliohipogástrico (B). El que discurre sobre el oblicuo interno es el iliohipogástrico (C). El iliohipogástrico se entremezcla con el ilioinguinal, no con el genitofemoral (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "0a3a05d0be",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la línea arqueada (línea arcuata)?",
+  "opts": [
+   "Suele localizarse unos centímetros por encima del ombligo",
+   "Por debajo de esta línea, la aponeurosis del oblicuo interno se divide",
+   "El músculo recto se encuentra sobre la fascia transversalis",
+   "Por debajo de esta línea, la vaina posterior del recto es más delgada",
+   "Por debajo de esta línea, el músculo oblicuo externo no contribuye a la vaina del recto anterior"
+  ],
+  "ans": 2,
+  "why": "Por debajo de la línea arqueada desaparece la vaina posterior: las aponeurosis de los tres músculos anchos pasan por delante del recto, que queda apoyado directamente sobre la fascia transversalis. La línea arqueada está por debajo del ombligo, a un tercio de la distancia hacia el pubis (A). La aponeurosis del oblicuo interno se divide por encima de la línea, no por debajo (B). Por debajo no hay vaina posterior, así que no tiene sentido decir que es más delgada (D). El oblicuo externo sí contribuye a la vaina anterior en ese nivel (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "2b251f5633",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años presenta una hernia inguinal derecha asintomática que se reduce fácilmente con presión suave. ¿Cuál de las siguientes afirmaciones es cierta acerca de esta condición?",
+  "opts": [
+   "Alta probabilidad de estrangulamiento sin cirugía",
+   "Sin cirugía, lo más probable es que se desarrolle dolor intratable",
+   "Esperar hasta que aparezcan síntomas es una alternativa razonable a la cirugía",
+   "La reparación laparoscópica es la mejor opción inicial",
+   "Las hernias pequeñas tienen mayor riesgo de encarcelamiento"
+  ],
+  "ans": null,
+  "why": "Según de Virgilio, en un hombre con una hernia inguinal asintomática la conducta expectante es una alternativa aceptable (C), con una incarceración de alrededor del 0,3% (A falsa). Solo una cuarta parte terminó operándose por más dolor, no intratable (B falsa), y no hay una vía de reparación inicial demostrada como la mejor (D falsa). Pero el mismo libro afirma que las hernias pequeñas, por su cuello estrecho, tienen mayor riesgo de incarceración. Tal como está redactada en este banco, la opción E también es verdadera, así que hay dos respuestas defendibles (C y E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: C (resaltado). En el libro, la opción E dice lo contrario ('si la hernia es pequeña, hay menor probabilidad de incarceración', como en el ítem 1d91db35bf) y es falsa, por lo que la clave del libro es C. La traducción de este banco invirtió el sentido de E y la volvió verdadera. Si se corrige E, la respuesta es C."
+ },
+ {
+  "k": "a2ec1c6504",
+  "estado": "confirmada",
+  "stem": "Una semana después de la reparación abierta de una gran hernia escrotal derecha, un hombre de 45 años regresa quejándose de dolor severo en su testículo derecho. Al examen físico, el testículo parece estar levemente inflamado y es muy sensible a la palpación. Un estudio Doppler demuestra ausencia de flujo en el testículo derecho con flujo normal en el izquierdo. ¿Cuál de las siguientes afirmaciones es correcta sobre esta condición?",
+  "opts": [
+   "Se debe principalmente a trombosis del plexo pampiniforme",
+   "Se recomienda exploración urgente del testículo derecho",
+   "Se debe probablemente a transección de la arteria testicular",
+   "Representa muy probablemente una torsión testicular",
+   "El testículo probablemente permanecerá agrandado permanentemente"
+  ],
+  "ans": 0,
+  "why": "Es una orquitis isquémica, también llamada congestiva, que aparece a los 2–5 días de una disección extensa del cordón, típicamente al extirpar un saco escrotal grande. Se atribuye a la trombosis de las venas del plexo pampiniforme. El manejo es expectante: reexplorar la ingle no ha dado resultado (B). Ligar la arteria testicular no suele causarla, porque hay colaterales de la arteria deferencial y la cremastérica (C). El cuadro es una complicación de la disección, no una torsión (D). Puede evolucionar a la atrofia testicular, no a un agrandamiento permanente (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "89b28bae8d",
+  "estado": "confirmada",
+  "stem": "Una hora después de la reparación laparoscópica de una hernia inguinal izquierda, el paciente se queja de dolor intenso tipo ardor en la ingle. ¿Cuál de las siguientes es la recomendación más adecuada?",
+  "opts": [
+   "Retorno inmediato al quirófano para laparoscopía",
+   "Antiinflamatorios no esteroideos",
+   "Neurontin",
+   "Analgésicos opioides",
+   "Inyección de anestésico local en la región inguinal"
+  ],
+  "ans": 0,
+  "why": "Un dolor inguinal intenso, urente, en el posoperatorio inmediato de una hernioplastia laparoscópica sugiere el atrapamiento de un nervio por una grapa o tacker. Por eso se debe volver al quirófano para retirar la grapa responsable. Los AINEs, la gabapentina y los opioides no tratan la causa mecánica (B–D). La infiltración con anestésico local quizá no alivie el dolor y, si lo hace, el alivio es solo temporal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "1d91db35bf",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años se presenta con una hernia inguinal derecha asintomática. Se reduce fácilmente con presión suave. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "La probabilidad de desarrollar estrangulación es alta sin cirugía.",
+   "Sin cirugía, es probable que se desarrolle dolor intratable.",
+   "Esperar hasta que se desarrollen síntomas es una alternativa razonable a la cirugía.",
+   "La reparación laparoscópica es la mejor opción.",
+   "Si la hernia es pequeña, hay menor probabilidad de incarceración."
+  ],
+  "ans": 2,
+  "why": "En un hombre con una hernia inguinal asintomática o poco sintomática, la conducta expectante (watchful waiting) es una alternativa aceptable. En el ensayo de Fitzgibbons, la incarceración aguda fue rarísima, de alrededor del 0,3% (A). Cerca de una cuarta parte de los pacientes en observación terminó operándose por más dolor, pero no por un dolor intratable (B). No hay una vía de reparación que sea la mejor opción inicial establecida (D). Las hernias pequeñas tienen un cuello estrecho y por eso más riesgo de incarceración, no menos. Por eso la opción E es falsa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "3e4c998ccf",
+  "estado": "confirmada",
+  "stem": "Se piensa que la enfermedad del quiste coledociano es causada por una anomalía en:",
+  "opts": [
+   "Músculo liso del conducto biliar",
+   "Composición de la bilis",
+   "Adventicia del conducto biliar",
+   "Unión pancreatobiliar",
+   "Mucosa del conducto biliar"
+  ],
+  "ans": 3,
+  "why": "La explicación más aceptada es la unión pancreatobiliar anómala: el conducto pancreático desemboca en el colédoco más de 1 cm antes de la ampolla y forma un canal común largo. Por ese canal refluye la secreción pancreática, que inflama y dilata el conducto. No se atribuye ningún papel al músculo liso, la bilis, la adventicia ni la mucosa (A, B, C, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 59 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ {
+  "k": "34487309f6",
+  "estado": "confirmada",
+  "stem": "Los senos de Aschoff-Rokitansky se observan en:",
+  "opts": [
+   "Colecistitis aguda",
+   "Colecistitis crónica",
+   "Colangiohepatitis oriental",
+   "Colangitis esclerosante",
+   "Colecistitis alitiásica"
+  ],
+  "ans": 1,
+  "why": "Los senos de Rokitansky-Aschoff son invaginaciones de la mucosa vesicular a través de la muscular, producto de la inflamación crónica y del aumento de presión intraluminal. Son el hallazgo típico de la colecistitis crónica litiásica: en una serie de 540 colecistectomías, el 94% con colecistitis crónica, aparecieron en el 65% de las piezas. No caracterizan a la colecistitis aguda ni a la alitiásica, ni a las colangiopatías, que afectan a los conductos y no a la pared vesicular.",
+  "fuentes": [
+   "Terada T. Histopathologic features and frequency of gall bladder lesions in consecutive 540 cholecystectomies. Int J Clin Exp Pathol 2013 (PMID 23236547), resumen en Europe PMC"
+  ],
+  "tema": "vesicula",
+  "nota": "Los libros de la carpeta no mencionan los senos de Rokitansky-Aschoff. También se ven, en forma exagerada, en la adenomiomatosis, que no está entre las opciones."
+ },
+ {
+  "k": "d63ad0f4f1",
+  "estado": "confirmada",
+  "stem": "La ecografía de vesícula biliar revela una lesión polipoide. Esto probablemente representa:",
+  "opts": [
+   "Pólipo de colesterol",
+   "Adenomiomatosis",
+   "Adenoma benigno",
+   "Adenocarcinoma",
+   "Pólipo inflamatorio"
+  ],
+  "ans": 0,
+  "why": "La mayoría de las lesiones polipoides de la vesícula son benignas, y entre ellas la más común es el pólipo de colesterol: suele ser pequeño (<10 mm), pedunculado y múltiple, y se asocia a colesterolosis. Le siguen la adenomiomatosis (B), en segundo lugar, y el pólipo inflamatorio (E), en tercero. Los adenomas y los adenocarcinomas son mucho menos frecuentes y suelen medir más de 10 mm (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 56 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ {
+  "k": "e253a844d6",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía biliar?",
+  "opts": [
+   "El conducto hepático derecho suele ser más largo que el izquierdo y más propenso a dilatarse",
+   "El retorno venoso de la vesícula es principalmente por una vena cística hacia la vena porta",
+   "Las válvulas de Heister tienen un papel importante en la función de reservorio biliar de la vesícula",
+   "El colédoco y el conducto pancreático usualmente se unen fuera de la pared duodenal",
+   "La irrigación arterial del colédoco proviene principalmente de la arteria hepática izquierda y la arteria gástrica derecha"
+  ],
+  "ans": 3,
+  "why": "En cerca de tres cuartas partes de las personas, el colédoco y el conducto pancreático principal se unen fuera de la pared duodenal y la atraviesan como un solo conducto. El conducto hepático más largo y el que más se dilata ante una obstrucción distal es el izquierdo (A). El drenaje venoso de la vesícula va directamente al parénquima hepático (B). Las válvulas espirales de Heister no tienen una verdadera función valvular (C). El colédoco se irriga por arterias a las 3 y a las 9 horas que vienen de la hepática derecha y de la retroduodenal, rama de la gastroduodenal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 56 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ {
+  "k": "94102af145",
+  "estado": "confirmada",
+  "stem": "Durante una colecistectomía laparoscópica, se observa salida de bilis desde la unión del colédoco y el conducto cístico. Al convertir a cirugía abierta, se encuentra una lesión longitudinal de 3 mm en la cara anterolateral del conducto hepático común distal. El conducto mide 6 mm de diámetro. El manejo consiste en:",
+  "opts": [
+   "Reparación primaria de la lesión",
+   "Reparación primaria sobre un tubo en T",
+   "Reparación primaria con colocación de tubo en T a través de una coledocotomía separada",
+   "Hepatoyeyunostomía",
+   "Coledocoduodenostomía"
+  ],
+  "ans": 1,
+  "why": "Una lesión pequeña, limpia y parcial (menos del 50% de la circunferencia) en un conducto de buen calibre conserva la irrigación de las 3 y las 9 horas. Por eso admite una reparación primaria, que se hace sobre un tubo en T. Colocar el tubo en T por una coledocotomía separada se reserva para las lesiones térmicas (C). La hepatoyeyunostomía en Y de Roux se indica en transecciones, lesiones de más del 50% o conductos muy pequeños (D). La coledocoduodenostomía es para lesiones del colédoco distal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 57 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ {
+  "k": "71b7cc2d15",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones describe mejor el papel de la colecistectomía laparoscópica temprana (dentro de las 24 h del ingreso) en colecistitis aguda?",
+  "opts": [
+   "Reduce la estancia hospitalaria",
+   "Aumenta la tasa de conversión a cirugía abierta",
+   "No debe realizarse; el paciente debe recibir antibióticos por 2-3 días antes",
+   "Se asocia con mayor tasa de complicaciones",
+   "Se asocia con mayor mortalidad"
+  ],
+  "ans": 0,
+  "why": "La colecistectomía laparoscópica temprana, en la primera semana y sobre todo en las primeras horas del ingreso, tiene una morbimortalidad igual o menor que la cirugía diferida. También acorta la estancia hospitalaria total, con una tasa de conversión similar (B, D, E). Además, cerca del 20% de los pacientes manejados primero de forma conservadora no responden y necesitan operarse antes de la cirugía de intervalo. Por eso no se recomienda 'enfriar' la vesícula con antibióticos antes de operar (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1524 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ {
+  "k": "0990f8f973",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al uso de la colangiografía intraoperatoria (CIO) durante la colecistectomía laparoscópica?",
+  "opts": [
+   "Ayuda a prevenir incisiones involuntarias del conducto colédoco (CC).",
+   "Es la mejor forma de identificar cálculos clínicamente significativos no sospechados en el conducto común.",
+   "Su uso rutinario se justifica por su capacidad para identificar anomalías anatómicas de los conductos hepáticos.",
+   "Su uso rutinario es útil para asegurar la remoción completa de la vesícula y el conducto cístico.",
+   "Su uso rutinario es innecesario."
+  ],
+  "ans": 4,
+  "why": "El uso rutinario de la CIO es controvertido, pero la mayoría de los cirujanos lo considera innecesario y prefiere un uso selectivo, junto con la visión crítica de seguridad. La CIO probablemente no evita la lesión del colédoco; lo que permite es reconocerla antes y evitar su transección completa (A). Los cálculos coledocianos suelen sospecharse antes de operar por las pruebas hepáticas, la dilatación de la vía biliar o el antecedente de pancreatitis (B). Las anomalías anatómicas y la remoción completa de la vesícula no justifican la CIO rutinaria (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 57 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 58 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "El tema sigue en debate: algunos estudios poblacionales asocian la CIO a menos lesiones. La clave del libro, que coincide con la original, es E."
+ },
+ {
+  "k": "77de9463c5",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la vesícula biliar?",
+  "opts": [
+   "Absorbe pasivamente sodio y cloruro.",
+   "En el contexto de colelitiasis, la colecistoquinina (CCK) puede causar dolor vesicular fluctuante.",
+   "Tiene un ambiente alcalino.",
+   "El glucagón puede ayudar a vaciar la vesícula biliar.",
+   "Su contracción es inhibida por la estimulación vagal."
+  ],
+  "ans": 3,
+  "why": "La vesícula se llena porque el esfínter de Oddi está contraído. El glucagón relaja ese esfínter y crea un camino de menor resistencia, lo que facilita el vaciamiento de la vesícula hacia el duodeno. La vesícula absorbe sodio y cloruro por transporte activo, y el agua de forma pasiva (A). Su epitelio secreta iones hidrógeno, que acidifican la bilis (C). La estimulación vagal provoca su contracción, no la inhibe (E). El dolor posprandial de la colelitiasis es constante durante horas, no fluctuante (B).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 55 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 56 del PDF"
+  ],
+  "tema": "vesicula"
+ }
+]

@@ -1,0 +1,589 @@
+[
+ {
+  "k": "2a34874b83",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Hipernatremia por pérdida de agua libre. Paciente anciana de 75 años con golpe de calor presenta sodio sérico de 156 mEq/L, letargia y mucosas secas. ¿Cuál es el tratamiento inicial más adecuado tras estabilización hemodinámica?",
+  "opts": [
+   "NaCl 0.9% hipertónico",
+   "Restricción hídrica",
+   "Dextrosa al 5% para reposición de agua libre",
+   "Bicarbonato intravenoso",
+   "Diuréticos de asa"
+  ],
+  "ans": 2,
+  "why": "Es una hipernatremia por pérdida de agua: una vez corregida la hipovolemia, el paciente necesita agua libre con soluciones hipotónicas (dextrosa al 5%), corrigiendo el sodio lentamente (no más de 8-10 mEq/día) para no provocar edema cerebral. El NaCl 0,9% no es hipertónico y no aporta agua libre; restringir agua y dar diuréticos empeorarían el déficit; el bicarbonato no tiene indicación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF"
+  ]
+ },
+ {
+  "k": "c2a552681b",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Hipokalemia quirúrgica. Paciente postoperatorio con vómitos persistentes presenta debilidad muscular, íleo paralítico y ECG con ondas U prominentes. Potasio sérico: 2.8 mEq/L. ¿Cuál es la conducta más adecuada?",
+  "opts": [
+   "Restricción de sodio",
+   "Infusión controlada de potasio IV con monitoreo cardíaco",
+   "Administración de calcio gluconato",
+   "Hemodiálisis urgente",
+   "Dextrosa hipertónica"
+  ],
+  "ans": 1,
+  "why": "Hipopotasemia sintomática (debilidad, íleo, ondas U) por pérdidas digestivas: se repone potasio IV a 10-20 mEq/h, con monitorización cardíaca si se superan 10 mEq/h, y se vigila el magnesio. El gluconato de calcio y la diálisis son medidas de la hiperpotasemia; la dextrosa hipertónica (con la insulina que libera) mete potasio en la célula y lo bajaría más; restringir sodio no corrige nada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ]
+ },
+ {
+  "k": "f238afc288",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Paciente politraumatizado recibe 1 litro de solución salina normal. ¿Qué porcentaje aproximado permanecerá en el espacio intravascular luego de varias horas?",
+  "opts": [
+   "100%",
+   "75%",
+   "50%",
+   "20%",
+   "5%"
+  ],
+  "ans": 3,
+  "why": "Los cristaloides isotónicos atraviesan libremente la membrana capilar y se distribuyen por todo el extracelular (el intersticio es unas 3 veces el plasma). El Sabiston señala que tras algunas horas solo quedan 175-200 ml de cada litro en el espacio intravascular, es decir, alrededor del 20%. El 100% o el 75% corresponderían a coloides o sangre, no a la salina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 72 del PDF",
+   "Sabiston 21.ª ed., p. 73 del PDF"
+  ]
+ },
+ {
+  "k": "b247cd7052",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Paciente adulto de 70 kg sin vía oral requiere mantenimiento hídrico. ¿Cuál es su requerimiento hídrico basal diario aproximado?",
+  "opts": [
+   "1000 ml",
+   "1500 ml",
+   "2450 ml",
+   "3500 ml",
+   "5000 ml"
+  ],
+  "ans": 2,
+  "why": "Con la regla 4-2-1 (o '40 + peso en kg' para adultos de más de 40 kg), un paciente de 70 kg necesita unos 110 ml/h, es decir, alrededor de 2,5 L al día; equivale a unos 30-35 ml/kg/día (35 × 70 = 2450 ml). 1000-1500 ml quedan claramente cortos, y 3500-5000 ml serían una sobrecarga.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF"
+  ],
+  "nota": "El cálculo exacto por la regla 4-2-1 del Sabiston da ~2640 ml/día; 2450 ml (35 ml/kg/día) es la única opción aproximada."
+ },
+ {
+  "k": "bb169429d5",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Paciente sometido a tiroidectomía total presenta parestesias peribucales, espasmo carpopedal y signo de Trousseau positivo. ¿Cuál alteración explica mejor este cuadro?",
+  "opts": [
+   "Hipernatremia",
+   "Hiperkalemia",
+   "Hipocalcemia",
+   "Hipomagnesemia",
+   "Acidosis respiratoria"
+  ],
+  "ans": 2,
+  "why": "El hipoparatiroidismo tras la cirugía tiroidea (por lesión o desvascularización de las paratiroides) es la causa más frecuente de hipocalcemia; produce parestesias, espasmos musculares, tetania (Trousseau, Chvostek) y convulsiones. La hipomagnesemia puede acompañarla pero no es la explicación primaria tras una tiroidectomía total; las demás alteraciones no dan tetania.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ]
+ },
+ {
+  "k": "7d33535767",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Paciente de 68 kg con fístula biliar de 1000 ml/día, diuresis de 1500 ml, fiebre de 39 °C y aporte EV de 3000 ml presenta balance hídrico negativo. ¿Cuál es la principal consecuencia clínica de un balance persistentemente negativo?",
+  "opts": [
+   "Hipervolemia",
+   "Edema pulmonar",
+   "Deshidratación e hipoperfusión tisular",
+   "Hipercalcemia",
+   "Alcalosis respiratoria"
+  ],
+  "ans": 2,
+  "why": "Si las pérdidas (fístula, diuresis, pérdidas insensibles aumentadas por la fiebre) superan de forma persistente los aportes, se contrae el volumen extracelular: deshidratación, caída de la precarga y del gasto cardíaco, e hipoperfusión tisular hasta el shock hipovolémico. La hipervolemia y el edema pulmonar son consecuencias del balance positivo; la hipercalcemia y la alcalosis respiratoria no derivan de él.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 551 del PDF"
+  ]
+ },
+ {
+  "k": "9a4aad1744",
+  "estado": "corregida",
+  "tema": "liquidos",
+  "stem": "Paciente de 120 kg es sometido a una laparotomía exploratoria por trauma abdominal. Indique cuál es la velocidad de infusión de los líquidos por hora.",
+  "opts": [
+   "113 ml/h",
+   "120 ml/h",
+   "160 ml/h",
+   "169 ml/h",
+   "220 ml/h"
+  ],
+  "ans": 2,
+  "why": "Con la regla 4-2-1: 10 kg × 4 = 40 ml/h, 10 kg × 2 = 20 ml/h y 100 kg × 1 = 100 ml/h, total 160 ml/h; la regla abreviada del Sabiston para adultos (40 + peso en kg) da lo mismo, 160 ml/h. 113 ml/h es el ejemplo del libro para 73 kg y 120 ml/h confunde ml/h con el peso; 169 y 220 ml/h no salen de ninguna regla estándar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF"
+  ],
+  "nota": "Clave original: D (169 ml/h, resaltado). Ninguna fórmula de mantenimiento del Sabiston da 169 ml/h; la regla 4-2-1 da 160 ml/h."
+ },
+ {
+  "k": "3ec8a5fed0",
+  "estado": "corregida",
+  "tema": "shock",
+  "stem": "Un varón de 28 años es llevado a emergencia luego de un accidente de tránsito. Está pálido, diaforético y confuso. PA: 82/48 mmHg, FC: 138/min, FR: 32/min, SatO2: 91%. Presenta deformidad de muslo derecho, abdomen doloroso y FAST positivo en Morrison. Lactato: 5.8 mmol/L. Hb inicial: 11.2 g/dL. Se han colocado dos vías periféricas gruesas. ¿Cuál es la conducta inicial más adecuada?",
+  "opts": [
+   "Administrar 3 litros rápidos de cristaloides, repetir hemoglobina y decidir transfusión solo si Hb <7 g/dL.",
+   "Iniciar norepinefrina como primera medida para alcanzar PA sistólica ≥100 mmHg antes de controlar la hemorragia.",
+   "Activar protocolo de hemorragia masiva con hemoderivados, cristaloides balanceados limitados, ácido tranexámico temprano y control quirúrgico del sangrado.",
+   "Esperar tomografía abdominal con contraste antes de iniciar transfusión porque la hemoglobina inicial aún es aceptable.",
+   "Administrar dobutamina porque la hipotensión se debe principalmente a bajo gasto cardíaco por hipoperfusión."
+  ],
+  "ans": 2,
+  "why": "Es un shock hemorrágico grave (hipotensión, taquicardia, confusión, lactato alto, FAST positivo): se maneja con reanimación de control de daños, es decir, hemoderivados tempranos dentro de un protocolo de transfusión masiva, cristaloides mínimos, hipotensión permisiva, ácido tranexámico y control quirúrgico del sangrado. La Hb inicial no refleja la pérdida aguda, así que esperarla o pedir una TC en un paciente inestable es un error; los cristaloides en exceso empeoran la coagulopatía; vasopresores e inotrópicos no tratan la hipovolemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 93 del PDF",
+   "Sabiston 21.ª ed., p. 551 del PDF"
+  ],
+  "nota": "El ítem tenía pegadas las preguntas 33 a 38 del original; las opciones del lote eran las de la 38. Se reconstruye la 33 con sus opciones y las 34-38 van en 'dividir'. Clave resaltada de la 33: C (coincide); la clave del lote (D) correspondía a la 38.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "tema": "shock",
+    "stem": "Una mujer de 72 años con diabetes mellitus consulta por fiebre, disuria, confusión y oliguria. PA: 86/50 mmHg, FC: 122/min, FR: 28/min, temperatura: 39.1 °C. Lactato: 4.3 mmol/L. Luego de recibir 30 ml/kg de cristaloide balanceado, persiste con PAM de 58 mmHg. Se inicia norepinefrina y se toman hemocultivos antes de antibióticos. ¿Cuál de las siguientes afirmaciones interpreta mejor el cuadro fisiopatológico y terapéutico?",
+    "opts": [
+     "Se trata de shock hipovolémico puro; la intervención principal es continuar cristaloides hasta normalizar la presión arterial.",
+     "Se trata de shock séptico, una forma de shock distributivo por disfunción endotelial, vasodilatación, fuga capilar y posible disfunción miocárdica asociada.",
+     "Se trata de shock cardiogénico primario; el tratamiento inicial debe ser dobutamina y restricción absoluta de líquidos.",
+     "Se trata de shock obstructivo; debe realizarse pericardiocentesis urgente si no responde a fluidos.",
+     "Se trata de respuesta inflamatoria sin shock, porque la presión arterial baja se explica únicamente por fiebre y taquicardia."
+    ],
+    "ans": 1,
+    "why": "Foco urinario, hipotensión que persiste tras 30 ml/kg y requiere vasopresor, y lactato > 2: es un shock séptico, que el Sabiston clasifica como distributivo (vasodilatación sistémica y aumento de la permeabilidad vascular por mediadores inflamatorios). Se trata con antibióticos precoces, control del foco y noradrenalina para PAM ≥ 65. No es hipovolemia pura, ni shock cardiogénico ni obstructivo, y sí cumple criterios de shock.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 550 del PDF",
+     "Sabiston 21.ª ed., p. 551 del PDF"
+    ],
+    "nota": "Clave resaltada: B."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "shock",
+    "stem": "Un varón de 64 años consulta por dolor torácico opresivo de 90 minutos, diaforesis y disnea. ECG: elevación del ST en cara anterior. PA: 78/46 mmHg, FC: 118/min, extremidades frías, oliguria. Lactato: 4.6 mmol/L. La ecocardiografía a pie de cama muestra ventrículo izquierdo dilatado con contractilidad global severamente disminuida y llenado ventricular aumentado. No hay derrame pericárdico ni neumotórax. ¿Cuál es la mejor estrategia inicial?",
+    "opts": [
+     "Reposición agresiva con cristaloides hasta normalizar la presión arterial, porque todo shock se debe manejar primero como hipovolemia.",
+     "Norepinefrina o dobutamina según perfil hemodinámico, soporte ventilatorio si es necesario y reperfusión coronaria urgente.",
+     "Pericardiocentesis urgente porque el shock con ingurgitación yugular siempre corresponde a taponamiento.",
+     "Epinefrina intramuscular, antihistamínicos y corticoides por probable anafilaxia.",
+     "Antibióticos de amplio espectro y 30 mL/kg de cristaloide como única prioridad inicial."
+    ],
+    "ans": 1,
+    "why": "Shock cardiogénico ('frío') por IAM con elevación del ST: fallo de bomba con presiones de llenado altas. Se sostiene con vasopresor/inotrópico según el perfil hemodinámico (y soporte mecánico si hace falta), y el tratamiento causal es la revascularización urgente (intervención coronaria percutánea). Los líquidos agresivos agravan la congestión; no hay derrame para pericardiocentesis ni datos de anafilaxia o sepsis.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 551 del PDF",
+     "Sabiston 21.ª ed., p. 552 del PDF"
+    ],
+    "nota": "Clave resaltada: B."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "trauma",
+    "stem": "Un paciente de 35 años sufre trauma torácico cerrado. Llega ansioso, con disnea intensa. PA: 74/42 mmHg, FC: 132/min, FR: 36/min, SatO2: 84%. En el examen se observa desviación traqueal, ingurgitación yugular, enfisema subcutáneo y ausencia de murmullo vesicular en hemitórax derecho. La ecografía pulmonar muestra ausencia de deslizamiento pleural derecho. ¿Cuál es la intervención más apropiada?",
+    "opts": [
+     "Solicitar tomografía de tórax para confirmar el diagnóstico antes de intervenir.",
+     "Iniciar norepinefrina y diferir drenaje pleural hasta que la presión mejore.",
+     "Administrar 30 ml/kg de cristaloide y antibióticos por probable shock séptico.",
+     "Descompresión torácica inmediata seguida de drenaje pleural.",
+     "Administrar dobutamina por shock cardiogénico secundario a contusión miocárdica."
+    ],
+    "ans": 3,
+    "why": "Desviación traqueal, ingurgitación yugular, ausencia de murmullo e hipotensión: neumotórax a tensión, un shock obstructivo. Es un diagnóstico clínico que se trata en el reconocimiento primario, sin esperar imágenes, con descompresión inmediata (aguja de gran calibre o toracostomía) y después tubo de tórax. Retrasarlo por una TC o tratarlo con vasopresores, líquidos o inotrópicos no elimina la causa.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 417 del PDF",
+     "Sabiston 21.ª ed., p. 552 del PDF"
+    ],
+    "nota": "Clave resaltada: D."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "shock",
+    "stem": "Un varón de 41 años cae desde una altura de 4 metros. Presenta paraplejia, anestesia por debajo de T4 y pérdida de reflejos osteotendinosos. PA: 82/44 mmHg, FC: 48/min, piel tibia y seca. No hay sangrado externo, FAST negativo y radiografía de pelvis sin fractura. Lactato: 2.1 mmol/L. El examen pulmonar no sugiere neumotórax. ¿Cuál es la interpretación y manejo inicial más adecuados?",
+    "opts": [
+     "Shock hemorrágico clase IV; iniciar transfusión masiva inmediata, aunque no haya evidencia de sangrado.",
+     "Shock neurogénico por lesión medular alta; fluidos prudentes y norepinefrina para restaurar el tono vascular, además del manejo causal neurológico.",
+     "Shock séptico temprano; iniciar antibióticos y esperar respuesta antes de usar vasopresores.",
+     "Shock anafiláctico; epinefrina intramuscular por la presencia de hipotensión.",
+     "Shock cardiogénico; iniciar diuréticos porque la piel caliente descarta hipovolemia."
+    ],
+    "ans": 1,
+    "why": "Hipotensión con bradicardia y piel caliente y seca tras una lesión medular alta, sin fuente de sangrado: shock neurogénico, un shock distributivo por pérdida del tono simpático. Se trata con volumen prudente y vasopresores, con la noradrenalina como primera línea, además del manejo de la lesión medular. El shock hemorrágico cursa con taquicardia y piel fría; no hay datos de sepsis ni anafilaxia, y los diuréticos estarían contraindicados.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 550 del PDF",
+     "Sabiston 21.ª ed., p. 423 del PDF"
+    ],
+    "nota": "Clave resaltada: B."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "nutricion",
+    "stem": "Varón de 56 años será operado de peritonitis generalizada. Dentro de las medidas antropométricas para evaluación nutricional está:",
+    "opts": [
+     "Valoración global subjetiva",
+     "Dosaje de transferrina",
+     "Calorimetría indirecta",
+     "Grosor del pliegue cutáneo"
+    ],
+    "ans": 3,
+    "why": "La antropometría es cualquier medición física del cuerpo (peso, talla, IMC, circunferencias, pliegues cutáneos); el grosor del pliegue cutáneo (por ejemplo, el tricipital) mide la reserva grasa. La valoración global subjetiva es una herramienta clínica (anamnesis y examen), la transferrina es un marcador bioquímico y la calorimetría indirecta mide el gasto energético, no una dimensión corporal.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 129 del PDF"
+    ],
+    "nota": "Clave resaltada: D."
+   }
+  ]
+ },
+ {
+  "k": "111a861316",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "Paciente de 42 años con quemaduras del 45% de superficie corporal presenta pérdida ponderal acelerada, aumento del consumo energético y catabolismo muscular severo durante su hospitalización. ¿Qué alteración metabólica explica mejor este cuadro?",
+  "opts": [
+   "Hipotiroidismo agudo",
+   "Hipoglucemia persistente",
+   "Estado hipermetabólico",
+   "Hipocalcemia primaria",
+   "Disminución del gasto cardíaco"
+  ],
+  "ans": 2,
+  "why": "Tras una quemadura grave, a los 3-4 días se instala un estado hipermetabólico (taquicardia, aumento del gasto cardíaco y energético, mayor consumo de O2, proteólisis y lipólisis masivas) mediado por catecolaminas, cortisol y glucagón; puede durar meses y causa gran pérdida de peso. Cursa con hiperglucemia, no con hipoglucemia; el gasto cardíaco aumenta; el hipotiroidismo y la hipocalcemia no lo explican.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 513 del PDF"
+  ]
+ },
+ {
+  "k": "46e4d33080",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "Paciente rescatado de incendio cerrado presenta quemaduras faciales, cejas chamuscadas y restos de hollín en cavidad oral. ¿Cuál hallazgo es más sugestivo de lesión inhalatoria?",
+  "opts": [
+   "Tos productiva",
+   "Quemaduras faciales con hollín en vía aérea",
+   "Taquipnea leve aislada",
+   "Dolor torácico",
+   "Saturación normal inicial"
+  ],
+  "ans": 1,
+  "why": "La lesión por inhalación se sospecha ante exposición a humo en espacio cerrado, quemaduras faciales, vibrisas chamuscadas, ronquera y esputo carbonáceo u hollín en la vía aérea; la broncoscopia confirma (hollín infraglótico, eritema, úlceras). La tos, la taquipnea leve o el dolor torácico son inespecíficos, y una saturación normal no descarta la lesión ni la intoxicación por CO.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 517 del PDF"
+  ]
+ },
+ {
+  "k": "fe9de46de4",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "ans": null,
+  "stem": "Paciente con quemadura circunferencial profunda en miembro superior desarrolla ausencia de pulsos distales, dolor intenso y parestesias progresivas. ¿Cuál es la principal indicación quirúrgica inmediata?",
+  "opts": [
+   "Injerto precoz",
+   "Antibioticoterapia de amplio espectro",
+   "Fasciotomía por síndrome compartimental",
+   "Escarectomía diferida",
+   "Amputación preventiva"
+  ],
+  "why": "En la quemadura circunferencial profunda, la escara inextensible más el edema comprimen la extremidad (hormigueo, dolor, pérdida de pulsos). El procedimiento inmediato que indica el Sabiston es la ESCAROTOMÍA: incisión lateral y medial de la escara en la cama del paciente. La fasciotomía se añade solo si, tras la escarotomía, siguen altas las presiones compartimentales (o en quemaduras eléctricas o con lesión muscular). Como la escarotomía no está entre las opciones, la fasciotomía (C) es la alternativa más cercana y probablemente la que esperaba el examen, pero no es el primer gesto según el libro. 'Escarectomía diferida' es otra cosa (resección de la escara, no inmediata); injerto, antibióticos o amputación no descomprimen.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF",
+   "Sabiston 21.ª ed., p. 525 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). Se deja dudosa porque la respuesta del libro (escarotomía) no figura entre las opciones."
+ },
+ {
+  "k": "dd105acff9",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "Paciente gran quemado con 50% SCQ estabilizado hemodinámicamente requiere soporte metabólico intensivo. ¿Cuál es la estrategia nutricional de elección?",
+  "opts": [
+   "Nutrición parenteral exclusiva",
+   "Ayuno prolongado",
+   "Suplementación oral aislada",
+   "Nutrición enteral precoz",
+   "Dieta hipoproteica"
+  ],
+  "ans": 3,
+  "why": "La bibliografía sobre quemados estableció la utilidad y la seguridad de iniciar precozmente la nutrición enteral: reduce el gasto energético frente a la nutrición demorada. Se recomienda alimentar lo antes posible, por el intestino, con aportes ricos en proteínas e hidratos de carbono. La parenteral exclusiva solo si el intestino no sirve; el ayuno, la vía oral aislada o una dieta hipoproteica no cubren el hipermetabolismo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 137 del PDF",
+   "Sabiston 21.ª ed., p. 138 del PDF"
+  ]
+ },
+ {
+  "k": "e1f2d601fb",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "Paciente con quemaduras extensas desarrolla edema generalizado en primeras horas postinjuria. ¿Cuál es el principal mecanismo fisiopatológico?",
+  "opts": [
+   "Retención renal primaria de sodio",
+   "Aumento de presión oncótica",
+   "Liberación de mediadores inflamatorios con aumento de permeabilidad capilar",
+   "Hipertensión portal",
+   "Disminución de gasto cardíaco aislado"
+  ],
+  "ans": 2,
+  "why": "En la quemadura se liberan mediadores (histamina, bradicinina, prostaglandinas, leucotrienos, complemento) que aumentan la permeabilidad capilar; en las quemaduras extensas el efecto es sistémico y causa edema en piel quemada y no quemada. La presión oncótica plasmática disminuye, no aumenta; la retención de sodio, la hipertensión portal o el bajo gasto no son el mecanismo inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF"
+  ],
+  "nota": "El ítem tenía pegadas las preguntas 43 y 44; las opciones del lote eran las de la 44. Se reconstruye la 43 y la 44 va en 'dividir'. Clave resaltada de la 43: C (coincide); la clave del lote (B) era la de la 44.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "tema": "quemados",
+    "stem": "Paciente gran quemado recibe fluidoterapia según fórmula de Parkland. ¿Qué parámetro clínico es el más útil para ajustar la reposición en las primeras 24 horas?",
+    "opts": [
+     "Frecuencia cardíaca",
+     "Diuresis horaria",
+     "Presión venosa central",
+     "Lactato sérico",
+     "Hematocrito"
+    ],
+    "ans": 1,
+    "why": "La fórmula de Parkland solo da el volumen inicial estimado; la infusión se ajusta hora a hora según la diuresis, con objetivo de 0,5 ml/kg/h en adultos y 1 ml/kg/h en niños. La frecuencia cardíaca, la PVC, el lactato o el hematocrito son complementarios pero no son el parámetro guía estándar.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 516 del PDF"
+    ],
+    "nota": "Clave resaltada: B."
+   }
+  ]
+ },
+ {
+  "k": "07ed873383",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "Una paciente de 35 años, fumadora actual, con embarazo de 20 semanas y diagnóstico de hipertensión arterial en tratamiento con nifedipino, va a ser sometida a una apendicectomía por apendicitis aguda. Según la clasificación del estado físico de la ASA, ¿cuál es su categoría?",
+  "opts": [
+   "ASA I",
+   "ASA II",
+   "ASA III",
+   "ASA IV"
+  ],
+  "ans": 1,
+  "why": "ASA II es la enfermedad sistémica leve sin limitación funcional. Los ejemplos de la ASA incluyen el tabaquismo actual, el embarazo normal y la hipertensión bien controlada, todos ASA II. Sería ASA III si la HTA estuviera mal controlada o hubiera preeclampsia con signos de gravedad, datos que el caso no da. No es ASA I porque tiene enfermedad sistémica. Por ser cirugía de urgencia se añade 'E' (ASA IIE).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 356 del PDF",
+   "ASA Physical Status Classification System, ejemplos obstétricos citados en PMC10110839 (https://europepmc.org/article/PMC/PMC10110839)",
+   "Ejemplos ASA aprobados citados en PMC7677831 (https://europepmc.org/article/PMC/PMC7677831)"
+  ]
+ },
+ {
+  "k": "bb28ec9fab",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "En la evaluación de la capacidad funcional para cirugía no cardíaca, ¿cuál es el umbral de equivalentes metabólicos (METs) que indica que un paciente puede proceder a cirugía sin pruebas adicionales si es asintomático?",
+  "opts": [
+   "2 METs",
+   "4 METs",
+   "7 METs",
+   "10 METs"
+  ],
+  "ans": 1,
+  "why": "En el algoritmo ACC/AHA que recoge el Sabiston, si la capacidad funcional es moderada o mejor (≥ 4 MET, como subir dos pisos de escaleras) se procede a la cirugía sin más estudios; con < 4 MET o capacidad desconocida se valoran pruebas adicionales. 7 y 10 MET son los límites de capacidad buena y excelente, no el umbral de decisión.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 349 del PDF",
+   "Sabiston 21.ª ed., p. 351 del PDF"
+  ]
+ },
+ {
+  "k": "1869363d12",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "Según las guías modernas de ayuno perioperatorio adoptadas por los protocolos ERAS, ¿cuál es el tiempo mínimo de ayuno para líquidos claros (incluyendo bebidas con carbohidratos) antes de una cirugía electiva?",
+  "opts": [
+   "2 horas",
+   "4 horas",
+   "6 horas",
+   "8 horas"
+  ],
+  "ans": 0,
+  "why": "Las guías de la ASA de 2017 permiten líquidos claros, con o sin hidratos de carbono, hasta 2 h antes de la cirugía programada. 4 h corresponde a la leche materna, 6 h a una comida ligera o leche no humana, y 8 h a comidas grasas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF",
+   "Sabiston 21.ª ed., p. 356 del PDF"
+  ]
+ },
+ {
+  "k": "205b1e38dc",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "Un paciente con insuficiencia renal crónica terminal en hemodiálisis programada debe ser operado de una hernia incisional. ¿Cuál es el momento ideal para realizar su última sesión de diálisis antes de la cirugía?",
+  "opts": [
+   "48 horas antes de la cirugía",
+   "El mismo día o el día anterior a la cirugía",
+   "Inmediatamente después de la cirugía",
+   "4 horas antes de la inducción anestésica"
+  ],
+  "ans": 1,
+  "why": "Según el Sabiston, el momento óptimo para la diálisis preoperatoria es el día previo a la operación o el mismo día de la cirugía, para llegar con electrólitos (sobre todo potasio) casi normales y euvolemia, cerca del peso seco. 48 h antes deja tiempo para que se acumulen potasio y volumen; después de la cirugía no prepara al paciente; justo antes de la inducción expone a hipovolemia y a efectos de la heparina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 222 del PDF"
+  ],
+  "nota": "El ítem tenía pegadas las preguntas 49 y 50; las opciones del lote eran las de la 50. Se reconstruye la 49 y la 50 va en 'dividir'. Clave resaltada de la 49: B (coincide); la clave del lote (C) era la de la 50.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "tema": "eras",
+    "stem": "Con respecto al manejo de la anticoagulación crónica con warfarina para una cirugía electiva de riesgo de sangrado intermedio, ¿cuántos días antes del procedimiento debe suspenderse el fármaco para normalizar el INR?",
+    "opts": [
+     "1 día",
+     "3 días",
+     "5 días",
+     "7 días"
+    ],
+    "ans": 2,
+    "why": "La warfarina tiene una semivida de 36-42 h y debe suspenderse 5 días antes de la cirugía programada, comprobando el INR el día de la operación (si sigue > 1,5 se puede dar vitamina K o plasma). 1 o 3 días no bastan para normalizar el INR, y 7 días prolonga sin necesidad el periodo sin anticoagulación.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 226 del PDF"
+    ],
+    "nota": "Clave resaltada: C."
+   }
+  ]
+ },
+ {
+  "k": "c44bb5ea4d",
+  "estado": "confirmada",
+  "tema": "eventraciones",
+  "stem": "¿Cuál de las siguientes afirmaciones es INCORRECTA con respecto a la diástasis de los rectos abdominales?",
+  "opts": [
+   "Se define como la separación de los músculos rectos abdominales por el estiramiento y adelgazamiento de la línea alba.",
+   "Es considerada una hernia verdadera debido a la presencia de un saco herniario.",
+   "Puede ser clasificada por la escala de Ranney según el grado de separación.",
+   "El tratamiento conservador con fisioterapia es la primera línea de manejo en casos asintomáticos.",
+   "La plicatura de la línea alba es una opción quirúrgica para casos sintomáticos o estéticos."
+  ],
+  "ans": 1,
+  "why": "La diástasis de los rectos NO es una hernia verdadera: la línea alba se adelgaza y se distiende, pero la fascia está intacta y no hay anillo aponeurótico ni saco herniario, ni riesgo de estrangulación. Por eso B es la afirmación incorrecta. Las demás son correctas: es una separación por adelgazamiento de la línea alba, el manejo inicial es conservador y la corrección quirúrgica (plicatura) se reserva para los casos sintomáticos o estéticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1110 del PDF",
+   "Sabiston 21.ª ed., p. 1144 del PDF"
+  ],
+  "nota": "El ítem tenía pegadas las preguntas 2 a 6 del Tercer pasito (las opciones del lote eran las de la 6). Se reconstruye la 2 con sus cinco opciones y las 3-6 van en 'dividir'. Clave resaltada de la 2: B (coincide); la clave del lote (B) era la de la 6. La pregunta 1 del Tercer pasito faltaba y va como agregada. La escala de Ranney no aparece en el Sabiston; la clave no depende de ella.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "tema": "eventraciones",
+    "stem": "Un paciente postoperado de una colectomía presenta, al tercer día, una dehiscencia completa de la herida abdominal con salida de asas intestinales a través de la piel. ¿Cuál es la principal diferencia entre esta condición y una eventración, en términos de su presentación y manejo?",
+    "opts": [
+     "La eventración es una emergencia quirúrgica, mientras que esta condición es de manejo electivo.",
+     "En la eventración, la piel está abierta, mientras que en esta condición está íntegra.",
+     "Dehiscencia completa de la pared abdominal con piel abierta; es una emergencia quirúrgica.",
+     "La eventración siempre requiere malla, mientras que esta condición nunca la requiere.",
+     "Esta condición es una complicación tardía, mientras que la eventración es temprana."
+    ],
+    "ans": 2,
+    "why": "La salida de asas por una herida abierta en el posoperatorio temprano es una evisceración (dehiscencia completa): es aguda y requiere reintervención inmediata. La eventración (hernia incisional) es tardía, con piel íntegra, y se repara de forma electiva. Por eso las opciones A, B y E invierten los conceptos, y D es falsa porque el uso de malla depende del caso.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 265 del PDF",
+     "Sabiston 21.ª ed., p. 1144 del PDF"
+    ],
+    "nota": "Clave resaltada: C. Ojo con la terminología: la traducción española del Sabiston usa 'eventración' para la salida de vísceras; en la escuela argentina y peruana, eventración = hernia incisional y evisceración = dehiscencia aguda con salida de vísceras, que es el sentido de esta pregunta."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "eventraciones",
+    "stem": "En el contexto de una evisceración abdominal completa (Grado III), ¿cuál de las siguientes acciones es la prioridad inmediata en el manejo quirúrgico?",
+    "opts": [
+     "Cierre primario de la pared abdominal con sutura continua.",
+     "Colocación de una malla protésica para reforzar el cierre.",
+     "Administración de antibióticos de amplio espectro y observación.",
+     "Realización de una ostomía de descarga para reducir la presión intraabdominal.",
+     "Lavado peritoneal, reintroducción de vísceras y cierre de la pared."
+    ],
+    "ans": 4,
+    "why": "La dehiscencia completa con salida de vísceras requiere reintervención inmediata: proteger el intestino con paños húmedos, explorar y lavar la cavidad (descartando fuga anastomótica o sepsis), reintroducir las vísceras y volver a cerrar la pared sin tensión. El cierre aislado (A) omite la exploración y el lavado; la malla no es la prioridad en un campo contaminado; los antibióticos con observación o una ostomía no resuelven la evisceración.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 265 del PDF"
+    ],
+    "nota": "Clave resaltada: E."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "eventraciones",
+    "stem": "Un paciente con una eventración de gran tamaño (>10 cm) y pérdida de domicilio es candidato a cirugía. ¿Cuál de las siguientes estrategias preoperatorias podría considerarse para facilitar el cierre de la pared abdominal y reducir la tensión?",
+    "opts": [
+     "Restricción hídrica severa para disminuir el volumen abdominal.",
+     "Inducción de neumoperitoneo progresivo preoperatorio.",
+     "Administración de relajantes musculares de acción prolongada.",
+     "Realización de una colostomía de descarga profiláctica.",
+     "Dieta hipercalórica para aumentar el tejido adiposo abdominal."
+    ],
+    "ans": 1,
+    "why": "En la pérdida de domicilio, el neumoperitoneo progresivo preoperatorio (insuflar volúmenes crecientes de aire durante 1-3 semanas) distiende y relaja la pared abdominal y permite reintroducir el contenido y cerrar con menos tensión. La toxina botulínica es otra opción actual, pero no está entre las alternativas. La restricción hídrica, los relajantes de acción prolongada o una colostomía no sirven para esto, y ganar grasa aumenta el riesgo.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1154 del PDF"
+    ],
+    "nota": "Clave resaltada: B."
+   },
+   {
+    "estado": "confirmada",
+    "tema": "vesicula",
+    "stem": "Paciente de 30 años de edad, 34 semanas de edad gestacional, acude a emergencia por dolor abdominal, fiebre e ictericia en escleras. Se realiza exámenes de laboratorio, evidenciándose leucocitosis con neutrofilia, hiperbilirrubinemia a predominio directo y PCR levemente elevada. Ecografía abdominal muestra vesícula biliar aumentada de volumen, con presencia de múltiples imágenes litiásicas en su interior. ¿Qué cambios fisiológicos del embarazo favorecen el desarrollo de la patología presentada en el caso?",
+    "opts": [
+     "Estenosis del cístico",
+     "Estasis biliar por disminución del vaciamiento vesicular",
+     "Sobresaturación de sales biliares",
+     "Hipomotilidad duodenal"
+    ],
+    "ans": 1,
+    "why": "La progesterona relaja el músculo liso: en el 2.º y 3.er trimestre la vesícula puede duplicar su volumen y vaciarse mucho más lento, y esa estasis, junto con los cambios en la composición de la bilis, favorece la litiasis. Lo que se sobresatura por los estrógenos es el colesterol, no las sales biliares, así que C está mal planteada; la estenosis del cístico y la hipomotilidad duodenal no son cambios fisiológicos del embarazo.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 2051 del PDF"
+    ],
+    "nota": "Clave resaltada: B."
+   }
+  ]
+ },
+ {
+  "k": "003-a1",
+  "agregada": true,
+  "despues_de": "07ed873383",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "De acuerdo con el Índice de Riesgo Cardiaco Revisado (RCRI) o índice de Lee, ¿cuál de los siguientes factores es un componente para predecir complicaciones cardiacas mayores?",
+  "opts": [
+   "Historia de enfermedad cerebrovascular",
+   "Uso de metformina para diabetes mellitus",
+   "Creatinina sérica preoperatoria > 1.5 mg/dL",
+   "Cirugía de várices de miembros inferiores"
+  ],
+  "ans": 0,
+  "why": "El índice de Lee tiene seis factores: cirugía de alto riesgo, cardiopatía isquémica, insuficiencia cardíaca, enfermedad cerebrovascular previa, diabetes tratada con insulina y creatinina > 2,0 mg/dL. Por eso la respuesta es la A. La metformina no cuenta (solo la insulina), el punto de corte de la creatinina es 2,0 y no 1,5 mg/dL, y la cirugía de várices no es de alto riesgo (lo son la intraperitoneal, la intratorácica y la vascular suprainguinal).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 218 del PDF"
+  ],
+  "nota": "Pregunta 46 del original, que faltaba en el lote. Clave resaltada: A."
+ },
+ {
+  "k": "003-a2",
+  "agregada": true,
+  "despues_de": "205b1e38dc",
+  "estado": "confirmada",
+  "tema": "eventraciones",
+  "stem": "La diástasis de los rectos abdominales se diferencia fundamentalmente de una hernia incisional (eventración) en que:",
+  "opts": [
+   "La diástasis siempre es congénita, mientras que la eventración es adquirida.",
+   "La diástasis implica un defecto aponeurótico con protrusión de contenido, mientras que la eventración es solo un estiramiento de la línea alba.",
+   "La diástasis es la separación de los músculos rectos sin defecto aponeurótico; la eventración sí presenta un defecto en la aponeurosis.",
+   "La diástasis requiere siempre tratamiento quirúrgico, mientras que la eventración puede manejarse de forma conservadora.",
+   "La diástasis solo ocurre en mujeres, mientras que la eventración afecta a ambos sexos."
+  ],
+  "ans": 2,
+  "why": "En la diástasis, la línea alba está adelgazada y distendida pero la fascia está intacta: no hay anillo aponeurótico ni saco, y por eso no es una hernia. La eventración (hernia incisional) es un defecto real de la aponeurosis en una cicatriz quirúrgica. La B invierte los conceptos; la diástasis suele ser adquirida (embarazos, obesidad) y también aparece en varones; y su cirugía solo se indica si da síntomas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1110 del PDF",
+   "Sabiston 21.ª ed., p. 1144 del PDF"
+  ],
+  "nota": "Pregunta 1 del Tercer pasito (sin número en el original), que faltaba en el lote. Clave resaltada: C."
+ }
+]

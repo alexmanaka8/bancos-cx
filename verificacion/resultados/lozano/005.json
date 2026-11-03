@@ -1,0 +1,419 @@
+[
+ {
+  "k": "3396c811b0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre el síndrome de Mallory-Weiss?",
+  "opts": [
+   "El hallazgo patológico principal es perforación espontánea del esófago.",
+   "Ocurre típicamente en el lado derecho.",
+   "Suele estar asociado con aire en el mediastino.",
+   "Debe realizarse endoscopía para confirmar el diagnóstico.",
+   "El tratamiento quirúrgico inmediato es la elección."
+  ],
+  "ans": 3,
+  "why": "El Mallory-Weiss es un desgarro mucoso parcial (no transmural) de la unión gastroesofágica tras vómitos o arcadas intensas, y la endoscopia confirma el diagnóstico y permite tratar el sangrado (inyección de epinefrina o esclerosante). La perforación transmural con aire mediastínico corresponde al síndrome de Boerhaave (A y C falsas). El desgarro suele estar en el lado izquierdo, 3–5 cm por encima de la UGE (B falsa), y la mayoría de sangrados cede sin cirugía (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "b3fdb02abd",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al esófago de Barrett?",
+  "opts": [
+   "Los IBP se consideran una opción de tratamiento más eficaz que los bloqueadores H2.",
+   "Las restricciones dietéticas como las usadas en ERGE no son útiles.",
+   "Los pacientes con esófago de Barrett de segmento corto y largo tienen riesgo similar de displasia de alto grado.",
+   "El uso de IBP en dosis altas comparado con dosis bajas ha demostrado reducir la progresión a carcinoma en pacientes con esófago de Barrett.",
+   "Photofrin es una modalidad útil de tratamiento."
+  ],
+  "ans": null,
+  "why": "El de Virgilio da como verdadera la A (los IBP son más eficaces que los bloqueadores H2 en el Barrett). Pero en esta versión la opción D fue cambiada y dice que el IBP en dosis altas frente a dosis bajas reduce la progresión a carcinoma; el mismo libro, al comentar el ensayo AspECT, afirma que el IBP en dosis altas (con aspirina) reduce de forma significativa la progresión a cáncer. Con esa fuente, A y D quedan defendibles. B, C y E son falsas: las restricciones dietéticas sí ayudan, el Barrett de segmento largo tiene más riesgo de displasia de alto grado y el Photofrin no ha demostrado utilidad.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (resaltado). En la pregunta original del de Virgilio la opción D era otra ('IBP en dosis altas con aspirina está contraindicado'). La traducción del banco la volvió defendible."
+ },
+ {
+  "k": "a70bb3e579",
+  "estado": "dudosa",
+  "stem": "La erradicación exitosa de H. pylori se documenta mejor con:",
+  "opts": [
+   "Endoscopía con biopsia",
+   "Prueba del aliento con urea",
+   "Prueba serológica",
+   "Antígeno en heces",
+   "No es necesaria documentación si los síntomas han desaparecido"
+  ],
+  "ans": null,
+  "why": "El de Virgilio dice que la prueba del aliento con urea es la mejor para confirmar la erradicación. Pero el Sabiston afirma que el antígeno en heces (monoclonal) detecta la erradicación con más del 90% de precisión, 'a la par' de la histología y del aliento con urea, y que es probablemente el método más rentable. Con las dos fuentes, B y D son defendibles como 'mejor'. La serología no sirve porque sigue positiva tras la curación; la endoscopia es invasiva y no se usa de rutina para el control; y la erradicación siempre debe documentarse.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 129 del PDF",
+   "Sabiston 21.ª ed., p. 1230 del PDF",
+   "Sabiston 21.ª ed., p. 1233 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). La pregunta original del de Virgilio no incluía el antígeno en heces entre las opciones. Si el examen sigue al de Virgilio, la respuesta esperada es B."
+ },
+ {
+  "k": "f5693ffbd1",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el procedimiento de elección para una úlcera gástrica tipo I intratable que no sana a pesar del tratamiento médico máximo?",
+  "opts": [
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Vagotomía altamente selectiva solamente",
+   "Gastrectomía distal con reconstrucción tipo Billroth I",
+   "Gastrectomía distal con reconstrucción tipo Billroth II"
+  ],
+  "ans": 3,
+  "why": "La úlcera gástrica tipo I (curvatura menor, cerca de la incisura) no se asocia con hipersecreción ácida, así que no requiere vagotomía. Se trata con la resección de la úlcera mediante gastrectomía distal, que también descarta cáncer, con reconstrucción Billroth I. Las opciones con vagotomía (A, B y C) añaden un procedimiento antiácido innecesario y la C no reseca la úlcera. Cuando la anatomía lo permite, se prefiere Billroth I a Billroth II porque es más fisiológico y causa menos reflujo alcalino.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1231 del PDF",
+   "Sabiston 21.ª ed., p. 1180 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 128 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "972daa2757",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes afirmaciones sobre la enfermedad de Crohn son verdaderas, EXCEPTO:",
+  "opts": [
+   "Es más común en personas de bajo nivel socioeconómico",
+   "Es la enfermedad quirúrgica primaria más común del intestino delgado",
+   "Tiene una distribución bimodal",
+   "Es más prevalente en fumadores",
+   "Está asociada con el uso de Accutane (isotretinoína)"
+  ],
+  "ans": 0,
+  "why": "La enfermedad de Crohn es más frecuente en zonas urbanas y en personas de nivel socioeconómico alto, no bajo, así que A es la falsa. Las demás son verdaderas: es la enfermedad quirúrgica primaria más común del intestino delgado; tiene distribución bimodal (picos en la 2.ª–3.ª y en la 6.ª década); el tabaquismo es un factor de riesgo; y se ha descrito asociación con la isotretinoína (Accutane).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 148 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "23072b88c0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al manejo quirúrgico del intestino delgado en la enfermedad de Crohn?",
+  "opts": [
+   "El margen óptimo es al menos 4 cm más allá de la enfermedad visible",
+   "Se debe realizar biopsia intraoperatoria por congelación para confirmar la ausencia de enfermedad activa en al menos un margen",
+   "La enfermedad duodenal se maneja mejor mediante resección",
+   "Un segmento de yeyuno estenosado de 10 cm puede manejarse con estricturoplastia tipo Heineke-Mikulicz en lugar de resección",
+   "Las estenosis mayores de 10 cm se manejan mejor con resección"
+  ],
+  "ans": 3,
+  "why": "En el Crohn se busca preservar intestino: la estricturoplastia es tan eficaz como la resección en yeyuno e íleon. El de Virgilio indica Heineke-Mikulicz para estenosis menores de 12 cm y Finney para las de hasta 25 cm, así que un segmento de 10 cm admite Heineke-Mikulicz (D) y las estenosis largas no requieren resección (E falsa). El margen recomendado es de 2 cm y la enfermedad microscópica en el margen no cambia la recidiva, así que no hace falta biopsia por congelación (A y B falsas). La estenosis duodenal se trata con derivación, no con resección (C falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 149 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "En otra página el mismo libro da un límite de menos de 7 cm para Heineke-Mikulicz (p. 134). La explicación de esta pregunta (p. 149) usa menos de 12 cm."
+ },
+ {
+  "k": "653990f99f",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la mejor opción terapéutica para enfermedad de Crohn leve activa?",
+  "opts": [
+   "Sulfasalazina",
+   "Prednisona",
+   "Budesonida",
+   "Metronidazol",
+   "Infliximab"
+  ],
+  "ans": null,
+  "why": "El de Virgilio da la sulfasalazina como el fármaco más usado en el Crohn leve activo, sobre todo con afectación colónica o ileocolónica. Pero el Sabiston dice que la eficacia de la sulfasalazina en el Crohn del intestino delgado es polémica y recomienda la budesonida de liberación ileal como tratamiento inicial del Crohn leve a moderado de localización ileal o del colon derecho. Como el enunciado no dice dónde está la enfermedad, A y C son defendibles. La prednisona es para brotes moderados a graves, el metronidazol es un coadyuvante (enfermedad perianal, fístulas) y el infliximab se usa si fallan los corticoides.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 149 del PDF",
+   "Sabiston 21.ª ed., p. 1289 del PDF",
+   "Sabiston 21.ª ed., p. 1290 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: A (resaltado), igual que la del de Virgilio. Si el examen sigue al de Virgilio, la respuesta esperada es A."
+ },
+ {
+  "k": "47c4aa142c",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los divertículos duodenales?",
+  "opts": [
+   "Tienden a ocurrir en el lado antimesentérico del intestino",
+   "Usualmente son divertículos verdaderos",
+   "El tratamiento mediante intervenciones endoscópicas está contraindicado",
+   "Se localizan con mayor frecuencia en la región periampular",
+   "Si se descubren incidentalmente durante la cirugía, deben dejarse sin intervención"
+  ],
+  "ans": null,
+  "why": "Según el de Virgilio, los divertículos duodenales adquiridos son falsos (B falsa), nacen en el borde mesentérico (A falsa) y sus complicaciones biliares suelen tratarse por vía endoscópica (C falsa). El mismo libro dice que son más frecuentes en la segunda porción del duodeno, junto a la ampolla (periampulares), y que no se operan si se descubren incidentalmente. Por eso en esta versión D y E son verdaderas a la vez.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E (resaltado). En la versión del de Virgilio la opción D era otra (malabsorción que requiere cirugía), y E era la única correcta. La versión del banco con 'periampular' tiene dos respuestas verdaderas."
+ },
+ {
+  "k": "aa7e54a889",
+  "estado": "confirmada",
+  "stem": "Dos semanas después de una reparación abierta de aneurisma aórtico, el paciente se presenta con distensión abdominal marcada sin náuseas ni vómitos. No hay dolor a la palpación abdominal. Las radiografías simples son normales. La tomografía computarizada (TC) revela una gran cantidad de ascitis pero por lo demás es normal. La paracentesis revela líquido turbio con cultivo negativo. El análisis del líquido muestra un nivel de triglicéridos de 400 mg/dL. El recuento de leucocitos es 600/μL con predominio linfocítico. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "El paciente debe ser puesto en nutrición parenteral total (NPT) y nada por vía oral",
+   "El octreótido no es útil",
+   "El paciente debe ser reintervenido de inmediato",
+   "La derivación peritoneovenosa es altamente exitosa",
+   "La mayoría de los pacientes responde a una dieta alta en proteínas y baja en grasas"
+  ],
+  "ans": 4,
+  "why": "Es una ascitis quilosa posoperatoria (líquido turbio, triglicéridos >200 mg/dL, leucocitos >500 con predominio linfocítico, cultivo negativo), típica tras cirugía aórtica por lesión de linfáticos retroperitoneales. El tratamiento inicial es una dieta hiperproteica y baja en grasas con triglicéridos de cadena media, que reduce la producción de quilo. La NPT con ayuno y el octreótido se usan si la dieta fracasa (son útiles, no primera línea); la reexploración se reserva para fugas que persisten más de 2 semanas; la derivación peritoneovenosa no es una opción de alto éxito.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ {
+  "k": "c560d6499a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con antecedente de laparotomía y radioterapia abdominal y pélvica (5000 Gy) por cáncer de ovario hace 10 años presenta síntomas y signos de obstrucción intestinal aguda. La TC muestra una obstrucción completa del intestino delgado a nivel del yeyuno medio sin evidencia de masas. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Si hay una estenosis presente, se maneja mejor con estricturoplastia",
+   "La paciente debe someterse a una lisis completa de adherencias",
+   "La enteritis por radiación crónica se debe a una arteritis obliterante",
+   "Está indicado un ensayo con corticosteroides",
+   "El daño por radiación no se ve afectado por si el paciente recibió quimioterapia"
+  ],
+  "ans": 2,
+  "why": "La enteritis por radiación crónica se debe a una arteritis obliterante de los vasos submucosos, que produce fibrosis progresiva y estenosis. La estricturoplastia no se recomienda en el intestino irradiado por el alto riesgo de dehiscencia (A falsa). Debe evitarse la adherenciolisis extensa por el riesgo de enterotomías y fístulas; se prefiere resecar o derivar (B falsa). Los corticoides no se usan (D falsa), y la quimioterapia, la vasculopatía y la diabetes aumentan el daño (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 146 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El original dice '5000 Gy'; la dosis real de la pregunta fuente es 5000 cGy."
+ },
+ {
+  "k": "fc2dd591fd",
+  "estado": "dudosa",
+  "stem": "Un niño de 5 años se presenta con síntomas y signos de apendicitis aguda. Se le realiza una apendicectomía abierta. En cirugía, el apéndice está inflamado pero no perforado. Se encuentra incidentalmente un divertículo de Meckel. Además de la apendicectomía, el manejo adicional consiste en:",
+  "opts": [
+   "Observación",
+   "Diverticulectomía de Meckel",
+   "Diverticulectomía solo si se palpa mucosa ectópica",
+   "Diverticulectomía solo si hay una banda adhesiva al ombligo",
+   "Diverticulectomía solo si hay signos previos de inflamación"
+  ],
+  "ans": null,
+  "why": "El manejo del Meckel asintomático hallado de forma incidental es controvertido, y el propio Sabiston se contradice. En el capítulo de intestino delgado dice que en general se recomienda extirpar los divertículos asintomáticos hallados en una laparotomía pediátrica, lo que apoya B. En el capítulo de cirugía pediátrica dice que el Meckel asintomático debe ser respetado, lo que apoya A. El de Virgilio propone resecar de forma selectiva según factores de riesgo (menos de 50 años, sexo masculino, diámetro mayor de 2 cm, tejido heterotópico, nódulos palpables, bandas fibrosas), que este niño cumple en parte. Con estas fuentes, A y B son defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1314 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: B (resaltado). Es la respuesta tradicional tipo board para niños, pero la referencia principal se contradice entre capítulos."
+ },
+ {
+  "k": "0c0059eaf2",
+  "estado": "confirmada",
+  "stem": "La causa más común de sangrado gastrointestinal oculto en adultos es:",
+  "opts": [
+   "Angiodisplasia del intestino delgado",
+   "Divertículo de Meckel",
+   "Enfermedad de Crohn",
+   "Enteritis infecciosa",
+   "Vasculitis"
+  ],
+  "ans": 0,
+  "why": "Cuando la endoscopia alta y la colonoscopia no encuentran el origen, el sangrado suele venir del intestino delgado. En el adulto, la angiodisplasia del intestino delgado explica alrededor del 75% de estos casos. El divertículo de Meckel es la causa más común en niños, no en adultos. El Crohn, la enteritis infecciosa y la vasculitis son causas menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "f0c774080d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta respecto a la enfermedad de Crohn?",
+  "opts": [
+   "El engrosamiento graso mesentérico se considera patognomónico.",
+   "Los síntomas de espondilitis anquilosante mejoran con la resección del intestino afectado.",
+   "La mayoría de los pacientes con presentación inicial de ileítis terminal progresa a enfermedad de Crohn en el seguimiento a largo plazo.",
+   "La patergia es un hallazgo común.",
+   "El pioderma gangrenoso es común en la presentación inicial de la enfermedad de Crohn."
+  ],
+  "ans": 0,
+  "why": "La grasa reptante (creeping fat), en la que la grasa mesentérica envuelve la serosa, es un hallazgo macroscópico que se considera patognomónico de la enfermedad de Crohn. La espondilitis anquilosante y la colangitis esclerosante no mejoran con la resección (B falsa). Solo una minoría (alrededor del 10%) de las ileítis terminales progresa a Crohn (C falsa). La patergia es rara (D falsa) y el pioderma gangrenoso rara vez es la presentación inicial (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 146 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 147 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "a664e6083a",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los divertículos duodenales?",
+  "opts": [
+   "Tienden a ocurrir en el lado antimesentérico del intestino.",
+   "Se identifican con mayor frecuencia en pacientes jóvenes.",
+   "El tratamiento con intervenciones endoscópicas está contraindicado.",
+   "La malabsorción por sobrecrecimiento bacteriano dentro del divertículo requiere cirugía.",
+   "Si se descubren incidentalmente en cirugía, deben dejarse sin intervención."
+  ],
+  "ans": 4,
+  "why": "La mayoría de los divertículos duodenales son asintomáticos, así que no se operan si se descubren incidentalmente en imagen o en cirugía. Nacen en el borde mesentérico, donde los vasos penetran la pared (A falsa). Se diagnostican sobre todo entre los 56 y 76 años (B falsa). Sus complicaciones biliares suelen resolverse por vía endoscópica (C falsa), y la malabsorción por sobrecrecimiento bacteriano se trata con antibióticos (D falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "e92b5aed2b",
+  "estado": "confirmada",
+  "stem": "Dos semanas después de una reparación abierta de aneurisma aórtico, el paciente se presenta con distensión abdominal marcada sin náuseas ni vómitos. No hay sensibilidad en el examen abdominal. Las radiografías simples no muestran hallazgos relevantes. La tomografía computarizada (TC) revela una gran cantidad de ascitis pero por lo demás es normal. La paracentesis muestra líquido turbio con cultivo negativo. El análisis del líquido revela un nivel de triglicéridos de 400 mg/dL. El recuento de leucocitos es de 600 células/μL con predominio de linfocitos. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "El paciente debe ser puesto en nutrición parenteral total (NPT) y dieta absoluta (NPO).",
+   "La octreotida no es útil.",
+   "El paciente debe ser reexplorado inmediatamente.",
+   "El cortocircuito peritoneo-venoso tiene alta tasa de éxito.",
+   "La mayoría de los pacientes responde a una dieta alta en proteínas y baja en grasas con triglicéridos de cadena media."
+  ],
+  "ans": 4,
+  "why": "Es una ascitis quilosa posoperatoria (líquido turbio, triglicéridos >200 mg/dL, leucocitos >500 con predominio linfocítico, cultivo negativo), típica tras cirugía aórtica por lesión de linfáticos retroperitoneales. El tratamiento inicial es una dieta hiperproteica y baja en grasas con triglicéridos de cadena media, que reduce la producción de quilo. La NPT con ayuno y el octreótido se usan si la dieta fracasa (son útiles, no primera línea); la reexploración se reserva para fugas que persisten más de 2 semanas; la derivación peritoneovenosa no es una opción de alto éxito.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ {
+  "k": "93d75717b1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al manejo del síndrome de intestino corto?",
+  "opts": [
+   "La glutamina debe evitarse.",
+   "La octreotida es la base del tratamiento.",
+   "La codeína está contraindicada.",
+   "Se indica alimentación enteral temprana.",
+   "Los pacientes que aún requieren NPT después de 6 meses necesitarán NPT permanente."
+  ],
+  "ans": 3,
+  "why": "La nutrición enteral debe iniciarse en cuanto se resuelve el íleo, porque estimula la adaptación intestinal y evita la atrofia de las vellosidades. La glutamina es útil como combustible trófico del enterocito (A falsa). El papel del octreótido es controvertido y puede inhibir la adaptación (B falsa). La codeína y la loperamida se usan para enlentecer el tránsito (C falsa). La adaptación tarda de 1 a 2 años, así que a los 6 meses no se puede concluir que la NPT será permanente (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "880a4e5175",
+  "estado": "confirmada",
+  "stem": "El síndrome de la arteria mesentérica superior (síndrome de Wilkie):",
+  "opts": [
+   "Involucra la segunda porción del duodeno",
+   "Ocurre cuando la AMS sale de la aorta con un ángulo ascendente",
+   "Se diagnostica mejor con arteriografía",
+   "Debe manejarse inicialmente con ingesta calórica alta",
+   "Se maneja mejor con una gastro-yeyunostomía"
+  ],
+  "ans": 3,
+  "why": "El síndrome de Wilkie aparece tras una pérdida de peso marcada: desaparece la grasa del mesenterio y la AMS comprime el duodeno. Por eso el manejo inicial es conservador, con aporte calórico alto para ganar peso y recuperar ese colchón graso. Afecta la tercera porción del duodeno (A falsa); la AMS sale con un ángulo agudo hacia abajo (B falsa); se diagnostica con TC o tránsito baritado, no con arteriografía (C falsa); y si se opera, la técnica es la duodenoyeyunostomía (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "fd0964148a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con antecedentes de laparotomía y 5000 cGy de irradiación abdominopélvica por cáncer de ovario hace 10 años se presenta con síntomas y signos de obstrucción intestinal aguda. La TC muestra una obstrucción completa del intestino delgado a nivel del yeyuno medio sin evidencia de masas. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Si hay una estenosis, se maneja mejor con plastia de estenosis.",
+   "Deben administrarse esteroides.",
+   "La enteritis por radiación aguda se debe a una arteritis obliterante.",
+   "El riesgo de esta complicación aumenta en el contexto de diabetes.",
+   "El grado de daño por radiación no se ve afectado por si el paciente recibió quimioterapia."
+  ],
+  "ans": 3,
+  "why": "El riesgo de daño por radiación aumenta con la dosis, con la quimioterapia previa y con la vasculopatía o la diabetes de base. La estricturoplastia no se recomienda en el intestino irradiado por el riesgo de dehiscencia (A falsa) y los corticoides no se usan (B falsa). La arteritis obliterante explica la enteritis crónica, no la aguda, que es un cuadro transitorio alrededor de 3 semanas después del tratamiento (C falsa). La quimioterapia sí aumenta el daño (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 146 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "d36a71f551",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años con leucemia mieloide aguda presenta dolor y sensibilidad en el cuadrante inferior derecho del abdomen. Recientemente completó quimioterapia. Su temperatura es de 102 °F (38.8 °C) y su recuento de leucocitos es 1.9 × 10³ células/μL. Una tomografía computarizada revela inflamación y engrosamiento del colon derecho, con estriación de la grasa adyacente. El manejo consiste en:",
+  "opts": [
+   "Antibióticos intravenosos únicamente",
+   "Hemicolectomía derecha con ileotransversostomía primaria",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Cecostomía",
+   "Apendicectomía"
+  ],
+  "ans": 0,
+  "why": "Es una enterocolitis neutropénica (tiflitis): paciente neutropénico tras quimioterapia, con dolor en la fosa ilíaca derecha, fiebre y engrosamiento del ciego o colon derecho en la TC. La mayoría responde al reposo intestinal y a antibióticos intravenosos. La cirugía (resección, ostomías, cecostomía o apendicectomía) se reserva para la perforación u otras complicaciones, que no hay en este caso.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "d13d566370",
+  "estado": "confirmada",
+  "stem": "Un paciente institucionalizado de 65 años se presenta con distensión abdominal, náuseas y obstipación de 2 días de evolución. El examen físico revela gran distensión con dolor abdominal leve y difuso, sin defensa ni rebote. El recuento de leucocitos es de 10,000/μL. Las radiografías simples muestran un asa intestinal dilatada con forma de U invertida (signo del omega). El manejo debe consistir en:",
+  "opts": [
+   "Detorsión endoscópica",
+   "Detorsión endoscópica seguida de colectomía sigmoidea electiva",
+   "Detorsión endoscópica seguida de colectomía sigmoidea electiva solo si hay recurrencia",
+   "Laparotomía exploradora con colectomía sigmoidea, lavado intraoperatorio y anastomosis primaria",
+   "Laparotomía exploradora con colectomía sigmoidea, colostomía proximal y cierre del muñón rectal"
+  ],
+  "ans": 1,
+  "why": "Es un vólvulo de sigmoides sin signos de isquemia (sin peritonitis ni toxicidad sistémica). El primer paso es la detorsión endoscópica, pero la recurrencia llega al 40%, así que se recomienda una colectomía sigmoidea electiva posterior. Detorsionar solo, o operar solo si recurre, deja ese riesgo (A y C). La laparotomía urgente (D y E) se reserva para el colon isquémico o gangrenoso, o cuando falla la detorsión.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "8723a8d898",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la fisiología del colon?",
+  "opts": [
+   "El colon absorbe hasta 500 mL/día de agua.",
+   "El sodio se absorbe activamente por medio de la Na⁺/K⁺-ATPasa.",
+   "La reabsorción de amonio no se ve afectada por el pH luminal.",
+   "El cloro se secreta.",
+   "No produce ningún nutriente."
+  ],
+  "ans": 1,
+  "why": "El colon absorbe sodio de forma activa mediante la Na⁺/K⁺-ATPasa, y el agua lo sigue de forma pasiva. Absorbe normalmente 1–2 L de agua al día y puede llegar a 5 L (A falsa). Bajar el pH luminal, como hace la lactulosa, reduce la reabsorción de amonio (C falsa). El cloro se absorbe a cambio de bicarbonato, no se secreta (D falsa). La fermentación bacteriana produce ácidos grasos de cadena corta, el principal combustible del colonocito (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 162 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "e666cbac0a",
+  "estado": "confirmada",
+  "stem": "La lesión perianal más frecuente en la enfermedad de Crohn es:",
+  "opts": [
+   "Fisuras",
+   "Plicomas (skin tags)",
+   "Absceso perianal",
+   "Fístulas perianales",
+   "Hemorroides"
+  ],
+  "ans": 1,
+  "why": "La lesión perianal más frecuente en el Crohn son los plicomas (acrocordones), seguidos de las fisuras. El Sabiston también señala que muchos pacientes tienen lesiones benignas como simples acrocordones. Las fisuras, los abscesos, las fístulas y las hemorroides también aumentan en el Crohn, pero son menos frecuentes que los plicomas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF",
+   "Sabiston 21.ª ed., p. 1439 del PDF"
+  ],
+  "tema": "anorrectal"
+ }
+]

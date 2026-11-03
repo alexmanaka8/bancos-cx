@@ -1,0 +1,842 @@
+[
+ {
+  "k": "1296f5e817",
+  "estado": "confirmada",
+  "stem": "Mujer de 60 años con dolor tipo cólico, náuseas, vómitos y estreñimiento de tres días de evolución, operada hace 5 años de peritonitis por apendicitis complicada. Examen: distensión y dolor difuso abdominal, ausencia de ruidos hidroaéreos. ¿Cuál es la causa más probable del cuadro obstructivo?",
+  "opts": [
+   "Bridas y adherencias",
+   "Perforación de víscera hueca",
+   "Cáncer de colon",
+   "Trombosis de la arteria mesentérica",
+   "Vólvulo de sigmoides"
+  ],
+  "ans": 0,
+  "why": "Paciente con laparotomía previa por peritonitis que hace un cuadro de obstrucción intestinal: la causa más probable son las bridas. El Sabiston señala que las adherencias, sobre todo tras cirugía pélvica como la apendicectomía, causan más del 60% de las obstrucciones intestinales. La perforación da peritonitis, no un cuadro obstructivo; el cáncer de colon, la trombosis mesentérica y el vólvulo son posibles, pero menos probables con este antecedente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El texto extraído tenía solo 3 opciones y palabras perdidas; se reconstruyó desde el original (5 opciones)."
+ },
+ {
+  "k": "bd8018bbbd",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la causa más frecuente de obstrucción intestinal en adultos?",
+  "opts": [
+   "Intususcepción",
+   "Bridas y adherencias",
+   "Vólvulo de sigmoides",
+   "Trombosis mesentérica",
+   "Cáncer de colon"
+  ],
+  "ans": 1,
+  "why": "Según el Sabiston, la causa más frecuente de obstrucción intestinal en los países occidentales es el síndrome adherencial (más del 60% de los casos). Los tumores malignos causan alrededor del 20%. La intususcepción es rara en adultos, el vólvulo de sigmoides es una causa de obstrucción del colon menos frecuente y la trombosis mesentérica produce isquemia, no obstrucción mecánica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "2a1e08c49d",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el tratamiento de una obstrucción intestinal por adherencias postquirúrgicas?",
+  "opts": [
+   "Intervención quirúrgica urgente, sin demora",
+   "Reposición hidroeléctrica e intervención programada",
+   "Intervención quirúrgica sólo si la SNG produce > 2000 mL/día",
+   "Aspiración nasogástrica y fluidoterapia las primeras 24 - 48 h",
+   "Dependerá del estado general y edad del paciente"
+  ],
+  "ans": 3,
+  "why": "Sin signos de estrangulación, la obstrucción por bridas se trata primero de forma conservadora: reposición intravenosa de líquidos y electrolitos y descompresión con sonda nasogástrica, que el Sabiston considera el estándar. Si no mejora en unas 48 h (o el contraste hidrosoluble no llega al colon en 24 h), es probable que necesite cirugía. La cirugía urgente se reserva para la estrangulación o la peritonitis. El débito de la SNG no es el criterio para operar, y la edad no cambia el enfoque inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El ítem traía pegadas las preguntas 1 a 5 del «Quinto pasito»; se separaron en dividir. La clave original del ítem (C) era la de la pregunta 5 (CPRE), no la de esta.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Un paciente con colangitis aguda presenta hipotensión que requiere vasopresores y una creatinina de 2.5 mg/dL. Según la clasificación de gravedad de las Guías de Tokio, ¿en qué grado se clasifica y cuál es la conducta de drenaje biliar indicada?",
+    "opts": [
+     "Grado II (Moderada); drenaje biliar programado en 48 horas.",
+     "Grado III (Grave); drenaje biliar urgente/inmediato.",
+     "Grado I (Leve); tratamiento antibiótico exclusivo.",
+     "Grado III (Grave); drenaje biliar diferido tras estabilización de 72 horas."
+    ],
+    "ans": 1,
+    "why": "En las Guías de Tokio 2018, la colangitis es grado III (grave) si hay disfunción de al menos un órgano. Cuentan la cardiovascular (hipotensión que requiere dopamina ≥5 µg/kg/min o cualquier dosis de noradrenalina) y la renal (oliguria o creatinina >2,0 mg/dL); este paciente tiene ambas. El grado III se trata con soporte de órganos y drenaje biliar urgente. Las opciones de grado I o II no corresponden, y diferir el drenaje 72 h en un paciente grave no es lo indicado.",
+    "fuentes": [
+     "Kiriyama S, et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholangitis. J Hepatobiliary Pancreat Sci 2018;25:17-30 (PMID 29032610); criterios reproducidos en Huang YC et al., World J Gastroenterol 2022 (PMC9594008)",
+     "Jung HM et al. J Clin Med 2024 (PMC11051285)",
+     "Sabiston 21.ª ed., p. 1539 del PDF"
+    ],
+    "tema": "via-biliar"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Una paciente femenina de 36 años, sin antecedentes quirúrgicos, acude por cuadro de dolor abdominal crónico en hipocondrio derecho y episodios intermitentes de ictericia. La colangiopancreatografía por resonancia magnética (CPRM) reporta una dilatación quística fusiforme que abarca todo el conducto biliar extrahepático, sin dilatación de la vía intrahepática. Considerando la fisiopatología más aceptada para esta entidad y su principal riesgo a largo plazo, ¿cuál es el mecanismo etiopatogénico subyacente más probable y cuál es la estrategia quirúrgica de elección?",
+    "opts": [
+     "Obstrucción mecánica crónica por disfunción del esfínter de Oddi; el tratamiento de elección es la cistenteroestomía (drenaje interno) para aliviar la estasis biliar.",
+     "Defecto embrionario de la placa ductal; el tratamiento de elección consiste en la resección hepática parcial o trasplante hepático.",
+     "Unión pancreatobiliar anómala con un canal común largo (>15 mm) que permite el reflujo de jugo pancreático; el tratamiento de elección es la escisión total del quiste y reconstrucción con hepaticoyeyunostomía en Y de Roux.",
+     "Ausencia congénita de células ganglionares en el colédoco distal (oligoganglionosis); el tratamiento de elección es la esfinterotomía endoscópica."
+    ],
+    "ans": 2,
+    "why": "Es un quiste de colédoco tipo I (dilatación fusiforme extrahepática). El Sabiston explica que la teoría más aceptada es la unión pancreatobiliar anómala con un canal común largo que permite el reflujo de secreción pancreática al árbol biliar. Como el quiste es premaligno, el tipo I se trata con extirpación completa, colecistectomía y hepaticoyeyunostomía en Y de Roux. El drenaje interno (cistoenterostomía) se abandonó porque deja el epitelio en riesgo de cáncer. La resección hepática o el trasplante se reservan para la enfermedad de Caroli, y la oligoganglionosis no es la causa aceptada.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1528 del PDF",
+     "Sabiston 21.ª ed., p. 1529 del PDF"
+    ],
+    "tema": "via-biliar"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál es la combinación de hallazgos que define el diagnóstico \"definitivo\" de colangitis aguda según los Criterios de Tokio 2018 (TG18)?",
+    "opts": [
+     "Fiebre y escalofríos acompañados de dolor en hipocondrio derecho.",
+     "Respuesta inflamatoria sistémica, colestasis (ictericia o pruebas de función hepática alteradas) y evidencia de dilatación biliar o etiología en imagen.",
+     "Únicamente la presencia de la Tríada de Charcot (fiebre, ictericia y dolor).",
+     "Leucocitosis mayor a 12,000/mm³ y bilirrubina total mayor a 2 mg/dL, sin necesidad de imagen."
+    ],
+    "ans": 1,
+    "why": "Los TG18 exigen para el diagnóstico definitivo un ítem de cada grupo: A, inflamación sistémica (fiebre o escalofríos, o laboratorio inflamatorio); B, colestasis (ictericia o pruebas hepáticas alteradas); y C, imagen (dilatación biliar o evidencia de la etiología). La tríada de Charcot es muy específica pero poco sensible y ya no es el criterio de Tokio. La opción A omite la colestasis y la imagen, y la D omite la imagen, que es obligatoria para el diagnóstico definitivo.",
+    "fuentes": [
+     "Kiriyama S, et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholangitis. J Hepatobiliary Pancreat Sci 2018;25:17-30 (PMID 29032610); criterios reproducidos en Huang YC et al., World J Gastroenterol 2022 (PMC9594008)",
+     "Ganie et al., Cureus 2024 (PMC11669179)"
+    ],
+    "tema": "via-biliar"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Durante una colecistectomía laparoscópica difícil, se identifica una sección completa del conducto hepático común por encima de la unión del conducto cístico, pero por debajo de la confluencia de los hepáticos derecho e izquierdo. Según la clasificación de Strasberg, ¿cómo se categoriza esta lesión y cuál es la conducta reconstructiva más recomendada?",
+    "opts": [
+     "Strasberg Tipo A; realizar cierre primario con sutura absorbible.",
+     "Strasberg Tipo E2; realizar una hepaticoyeyunostomía en Y de Roux.",
+     "Strasberg Tipo C; colocación de un tubo de Kehr (T-tube) de forma percutánea.",
+     "Strasberg Tipo E1; realizar una anastomosis término-terminal de la vía biliar."
+    ],
+    "ans": 1,
+    "why": "La sección completa del hepático común sin afectar la confluencia es una lesión tipo E: E1 si el muñón mide más de 2 cm y E2 si mide menos de 2 cm. Según el Sabiston, en casi todas las lesiones de la vía biliar se prefiere resecar el segmento dañado y hacer una anastomosis mucosa a mucosa con un asa yeyunal en Y de Roux. La anastomosis término-terminal solo sirve para defectos menores de 1 cm lejos de la bifurcación y tiene alto riesgo de estenosis. Los tipos A (fuga del cístico o de Luschka) y C (conducto sectorial) no describen esta lesión.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1535 del PDF",
+     "Sabiston 21.ª ed., p. 1536 del PDF"
+    ],
+    "tema": "via-biliar",
+    "nota": "El enunciado no da la distancia a la confluencia, así que E1 o E2 no se pueden distinguir con certeza. Se mantiene B porque es la única opción con la reconstrucción recomendada (hepaticoyeyunostomía en Y de Roux)."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál es la mejor indicación de CPRE urgente en pancreatitis aguda biliar?",
+    "opts": [
+     "Toda pancreatitis biliar.",
+     "Elevación aislada de lipasa.",
+     "Colangitis aguda u obstrucción biliar persistente.",
+     "Presencia de colección peripancreática.",
+     "Edema pancreático sin dilatación biliar."
+    ],
+    "ans": 2,
+    "why": "Según el Sabiston, los ensayos aleatorizados no apoyan la CPRE sistemática en la pancreatitis biliar, sea cual sea su gravedad. Solo está indicada en pacientes con colangitis o con obstrucción biliar persistente demostrada por imagen. La obstrucción suele ser transitoria y resolverse en menos de 48 h, por eso no se hace en toda pancreatitis biliar. Ni la lipasa elevada, ni una colección peripancreática, ni el edema sin dilatación biliar son indicaciones.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1562 del PDF"
+    ],
+    "tema": "pancreas-bazo"
+   }
+  ]
+ },
+ {
+  "k": "8477d44503",
+  "estado": "confirmada",
+  "stem": "Según la clasificación de Csendes para el síndrome de Mirizzi, ¿cuál de las siguientes opciones describe el tratamiento quirúrgico de elección para un paciente diagnosticado con el Tipo IV (destrucción completa de la pared del conducto biliar principal)?",
+  "opts": [
+   "Colecistectomía simple o subtotal mediante un abordaje de \"fundo primero\" (fundus-first).",
+   "Cierre primario de la fístula utilizando sutura absorbible, a menudo protegido con un tubo en T (tubo de Kehr).",
+   "Coledocoplastia utilizando un colgajo de la pared de la vesícula biliar remanente para reconstruir el conducto biliar.",
+   "Anastomosis bilioentérica, típicamente una hepaticoyeyunostomía en Y de Roux."
+  ],
+  "ans": 3,
+  "why": "En el Mirizzi tipo IV de Csendes, la fístula colecistobiliar destruye toda la pared del conducto, así que no queda conducto que reparar. El consenso es colecistectomía con anastomosis bilioentérica, preferiblemente hepaticoyeyunostomía en Y de Roux. El Sabiston también indica que una fístula grande puede requerir coledocoyeyunostomía. La colecistectomía sola corresponde al tipo I, el cierre primario con Kehr al tipo II y la coledocoplastia con colgajo vesicular a los tipos II y III.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1528 del PDF",
+   "Koo JGA et al. Mirizzi Syndrome—The Past, Present, and Future. Medicina (Kaunas) 2023 (PMC10818783)"
+  ],
+  "tema": "via-biliar",
+  "nota": "El ítem traía pegada la pregunta 7 (step-up); la clave original del ítem (B) era la de esa pregunta. Se separó en dividir.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál es una ventaja demostrada del \"step-up approach\"?",
+    "opts": [
+     "Mayor tasa de laparotomías.",
+     "Disminución de morbilidad y fístulas.",
+     "Mayor mortalidad hospitalaria.",
+     "Eliminación total del drenaje percutáneo.",
+     "Necesidad obligatoria de necrosectomía abierta."
+    ],
+    "ans": 1,
+    "why": "El ensayo PANTER (citado en el Sabiston) comparó el abordaje escalonado (drenaje percutáneo y, si hace falta, necrosectomía retroperitoneal mínimamente invasiva) con la necrosectomía abierta. Redujo el objetivo compuesto de complicaciones mayores (falla multiorgánica, perforación visceral o fístula enterocutánea, hemorragia) o muerte: 40% frente a 69%. También bajaron la eventración y la diabetes de novo. La mortalidad no cambió, el 35% se resolvió solo con drenaje percutáneo (que es la base del método) y se evita la laparotomía.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1563 del PDF",
+     "van Santvoort HC et al. A step-up approach or open necrosectomy for necrotizing pancreatitis. N Engl J Med 2010;362:1491-1502 (PMID 20410514)"
+    ],
+    "tema": "pancreas-bazo"
+   }
+  ]
+ },
+ {
+  "k": "1438f23787",
+  "estado": "confirmada",
+  "stem": "Un paciente con pancreatitis aguda presenta deterioro respiratorio, hipotensión persistente y creatinina elevada. Según Atlanta revisada, esto corresponde a:",
+  "opts": [
+   "Pancreatitis leve.",
+   "Pancreatitis moderadamente severa.",
+   "Pancreatitis severa.",
+   "Pseudoquiste pancreático.",
+   "Colección necrótica aguda."
+  ],
+  "ans": 2,
+  "why": "En la clasificación de Atlanta revisada (2012), la pancreatitis grave se define por insuficiencia orgánica persistente (más de 48 h). Este paciente tiene falla respiratoria, circulatoria y renal persistentes. La forma moderadamente grave tiene falla orgánica transitoria (<48 h) o complicaciones locales, y la leve no tiene ninguna. El pseudoquiste y la colección necrótica aguda son complicaciones locales, no grados de gravedad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1561 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "c5bb2f1311",
+  "estado": "confirmada",
+  "stem": "Un paciente con pancreatitis aguda presenta necrosis pancreática encapsulada luego de 5 semanas del inicio del cuadro. ¿Cuál es el término correcto según Atlanta revisada?",
+  "opts": [
+   "Pseudoquiste pancreático",
+   "Absceso pancreático",
+   "Colección aguda peripancreática",
+   "Walled-off necrosis",
+   "Flemón pancreático"
+  ],
+  "ans": 3,
+  "why": "Atlanta revisada separa las colecciones por tiempo y contenido. Antes de 4 semanas son colección aguda peripancreática (pancreatitis edematosa) o colección necrótica aguda (necrotizante). Después de 4 semanas son pseudoquiste (solo líquido) o necrosis encapsulada (walled-off necrosis: contenido necrótico con pared bien definida). A las 5 semanas, con necrosis y pared, corresponde WON. «Absceso» y «flemón» ya no se usan en la clasificación revisada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1563 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "El texto extraído decía «luego de cuadro»; el original dice «luego de 5 semanas del inicio del cuadro»."
+ },
+ {
+  "k": "66ad70acfd",
+  "estado": "confirmada",
+  "stem": "Un varón de 24 años llega 12 minutos después de una agresión con herida penetrante en hemitórax izquierdo bajo. Está pálido, diaforético, confuso, con FR 32/min, SatO2 88% con máscara de reservorio, PA 78/42 mmHg, FC 138/min. Tiene ingurgitación yugular leve, ruidos respiratorios disminuidos en hemitórax izquierdo y abdomen doloroso en epigastrio. Hay sangrado externo mínimo. El equipo pregunta cuál debe ser la primera intervención prioritaria. ¿Cuál es la conducta inicial más apropiada?",
+  "opts": [
+   "Solicitar tomografía contrastada de tórax, abdomen y pelvis para definir el trayecto lesional.",
+   "Realizar eFAST completo antes de intervenir, porque la ecografía define la conducta.",
+   "Descomprimir inmediatamente el tórax izquierdo si se sospecha neumotórax a tensión, mientras se activa protocolo de trauma.",
+   "Intubar de inmediato con secuencia rápida antes de cualquier otra intervención.",
+   "Colocar dos vías periféricas gruesas y administrar 2 litros de cristaloides antes de decidir intervención."
+  ],
+  "ans": 2,
+  "why": "Hipotensión, ingurgitación yugular y murmullo disminuido en un lado tras trauma torácico penetrante deben hacer sospechar un neumotórax a tensión. Es un diagnóstico clínico que se trata en la revisión primaria, sin esperar imagen, con descompresión con aguja o toracostomía (Sabiston). Intubar y ventilar con presión positiva antes de descomprimir empeora la tensión (ABSITE). Un paciente inestable no va a TC. La eFAST no debe retrasar la descompresión. Dar 2 L de cristaloides va contra la reanimación actual (más de 1,5 L aumenta la mortalidad).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 417 del PDF",
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 245 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "El ítem traía pegada la pregunta 11 (TC en pancreatitis necrotizante); la clave original del ítem (C) coincide con ambas. Se separó en dividir.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál de los siguientes hallazgos tomográficos es característico de pancreatitis necrotizante?",
+    "opts": [
+     "Realce homogéneo del páncreas",
+     "Calcificaciones pancreáticas difusas",
+     "Ausencia de captación de contraste en áreas pancreáticas",
+     "Dilatación universal del colédoco",
+     "Engrosamiento gástrico aislado"
+    ],
+    "ans": 2,
+    "why": "La necrosis es parénquima pancreático o grasa peripancreática no viable. La TC con contraste es la técnica más fiable para diagnosticarla: aparecen zonas sin realce, de baja atenuación (<40-50 UH frente a 100-150 UH del parénquima normal). El realce homogéneo indica parénquima viable (pancreatitis edematosa intersticial). Las calcificaciones son propias de la pancreatitis crónica. La dilatación del colédoco y el engrosamiento gástrico no son característicos de necrosis.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1562 del PDF"
+    ],
+    "tema": "pancreas-bazo"
+   }
+  ]
+ },
+ {
+  "k": "d9917a3338",
+  "estado": "confirmada",
+  "stem": "Un varón de 45 años con trauma abdominal cerrado llega con PA 76/48 mmHg y FC 140/min. eFAST muestra líquido libre periesplénico. Tras transfundir dos unidades de concentrado eritrocitario y plasma, la PA sube a 104/68 mmHg y FC baja a 112/min, pero a los 8 minutos cae nuevamente a 84/50 mmHg. Está pálido y sudoroso. ¿Cuál es la interpretación y conducta más adecuada?",
+  "opts": [
+   "Respondedor estable; realizar tomografía para planificar manejo no operatorio.",
+   "Respondedor transitorio; requiere control definitivo urgente del sangrado, probablemente laparotomía, no demora por tomografía.",
+   "La caída de presión indica reacción transfusional; suspender hemoderivados.",
+   "El eFAST positivo solo indica líquido inespecífico; repetirlo en 1 hora.",
+   "Debe iniciarse vasopresor y diferir cirugía hasta normalizar lactato."
+  ],
+  "ans": 1,
+  "why": "Mejora pasajera seguida de nueva hipotensión: es un respondedor transitorio, que indica hemorragia activa. Según el Sabiston, no responder a la reanimación inicial indica probable hemorragia continua que exige intervención inmediata, y la hemorragia intraabdominal (eFAST positivo) en un paciente inestable justifica laparotomía urgente. La TC es para el paciente estable. No hay datos de reacción transfusional. Repetir la eFAST o dar vasopresores retrasa el control del sangrado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "El ítem traía pegadas las preguntas 20 a 26. Su clave original (C) era la de la pregunta 26 (colecistostomía); en el original la pregunta 19 tiene resaltada la B, que se confirma.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Un paciente de 33 años llega tras caída de 4 metros. Durante la revisión primaria se identifica neumotórax a tensión izquierdo, tratado con descompresión y tubo de tórax. Mejora: PA 118/70 mmHg, SatO2 97%, FC 96/min. El equipo considera enviarlo directamente a hospitalización porque \"ya se resolvió el problema principal\". Usted decide continuar evaluación estructurada. ¿Cuál es el fundamento más correcto?",
+    "opts": [
+     "La revisión secundaria es opcional si la revisión primaria corrige la alteración vital.",
+     "La revisión secundaria debe realizarse solo en pacientes inconscientes.",
+     "Tras estabilizar amenazas vitales, debe completarse una revisión secundaria sistemática, reevaluación continua y estudios dirigidos para identificar lesiones no evidentes.",
+     "La tomografía corporal total reemplaza la revisión secundaria.",
+     "Una radiografía de tórax normal posterior excluye otras lesiones traumáticas relevantes."
+    ],
+    "ans": 2,
+    "why": "El ATLS define la revisión secundaria como una anamnesis y exploración completas de la cabeza a los pies. Se hace en cuanto el paciente está estable tras la revisión primaria, y sus hallazgos guían los estudios de imagen y las pruebas adicionales (Sabiston). No es opcional ni exclusiva del paciente inconsciente. Ni la TC ni una radiografía normal la sustituyen, porque muchas lesiones (fracturas de extremidades, lesiones de columna o de partes blandas) se encuentran con la exploración sistemática y la reevaluación.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 419 del PDF"
+    ],
+    "tema": "trauma"
+   },
+   {
+    "estado": "dudosa",
+    "stem": "Paciente de 45 años de edad, natural y procedente Trujillo, acude por presentar meteorismo y llenura precoz. Al examen físico: FV: estables. Abdomen: RHA aumentados. También trae una ecografía que informa tumoración quística anecoica en segmento 8 de 5 cms de diámetro, sin septos en su interior y otra imagen anecoica ovoidea, líquida en segmento 7 de 7 cms de diámetro.",
+    "opts": [
+     "Las imágenes corresponden a una enfermedad poliquística hepática.",
+     "Los hallazgos ecográficos explican la sintomatología referida.",
+     "Es necesario realizar una THEM contrastada, para conocer mayores características de las imágenes.",
+     "Si le realizamos un examen de Elisa, lo más probable es que el resultado sea positivo.",
+     "A pesar que los quistes son asintomáticos, es necesario la intervención quirúrgica por el tamaño de los quistes."
+    ],
+    "ans": null,
+    "why": "Son dos quistes simples (anecoicos, sin septos), lo que no basta para hablar de poliquistosis (hacen falta al menos 10 quistes). La clave resaltada (C, TC contrastada) choca con los libros. El Sabiston dice que la ecografía es la prueba preferida para confirmar el quiste simple, y el Giménez que es el mejor método diagnóstico; ambos indican solo observación si es asintomático. Además, el Sabiston advierte que antes de atribuir síntomas inespecíficos al quiste hay que buscar otra causa (contra B). La cirugía por tamaño se plantea en quistes mayores de 8 cm o sintomáticos (contra E), y nada orienta a hidatidosis (contra D). Ninguna opción queda claramente respaldada.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1501 del PDF",
+     "Sabiston 21.ª ed., p. 1502 del PDF",
+     "Giménez, Cirugía 2.ª ed., p. 462 del PDF"
+    ],
+    "tema": "higado",
+    "nota": "Clave original: C (resaltado). La evidencia no la respalda y tampoco permite elegir otra con seguridad."
+   },
+   {
+    "estado": "dudosa",
+    "stem": "Paciente de 60 años de edad que refiere haber trabajado los 2 últimos años en la ciudad de Puno. Acude por presentar nauseas, apetito disminuido, dolor en base de hemitórax derecho. Ecografía: se observa imagen líquida, ovoidea de bordes definidos de 6 cm de diámetro con membranas separadas de la pared en segmento VIII. Al examen físico: se palpa hígado a 3 cms de reborde costal, línea medio clavicular.",
+    "opts": [
+     "Puede tratarse de un quiste amebiano.",
+     "De acuerdo a la clasificación ecográfica de Gharbi corresponde al tipo I.",
+     "Le solicitaría un examen de Elisa con IgE.",
+     "Le tomaría una RMN para definir el tratamiento medico.",
+     "Se encontraría en el tipo II, según la clasificación de Gligot."
+    ],
+    "ans": null,
+    "why": "Por la procedencia (zona endémica) y la membrana desprendida de la pared, es un quiste hidatídico Gharbi tipo II (en el Giménez, el tipo II es «membrana desprendida»), no tipo I ni un absceso amebiano. La clasificación de Gigot es para la poliquistosis hepática, no para la hidatidosis (contra E). La clave resaltada, C, es la más cercana: la serología complementa la ecografía, y el Giménez da la sensibilidad del ELISA (88-96%). Pero ni el Giménez ni el Sabiston mencionan un ELISA de IgE; la serología estándar detecta IgG. Por eso C no se puede confirmar tal como está redactada.",
+    "fuentes": [
+     "Giménez, Cirugía 2.ª ed., p. 458 del PDF",
+     "Sabiston 21.ª ed., p. 1484 del PDF"
+    ],
+    "tema": "higado",
+    "nota": "Clave original: C (resaltado). Es la opción más defendible, pero la especificación «IgE» no tiene respaldo en las fuentes."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Paciente de 30 años de edad que, 15 días posteriores a curación de diente, presenta fiebre, dolor en CSD (cuadrante superior derecho), náuseas, vómitos e hiporexia. Antecedente: diabetes mellitus con tratamiento irregular. Asimismo, hígado graso sin tratamiento. Examen: talla 1.65 cms, peso: 90 kgrs, P: 100 min, FR: 22/min. Abdomen: dolor a la palpación profunda en CSD.",
+    "opts": [
+     "Solicitaría una ecografía abdominal, por tener mayor sensibilidad.",
+     "Solicitaría una tomografía o resonancia magnética por tener mayor sensibilidad, en este caso.",
+     "Solicitaría una radiografía de tórax.",
+     "Es necesario una prueba de arco 5 para aclarar el diagnóstico.",
+     "Es suficiente con la prueba terapéutica."
+    ],
+    "ans": 1,
+    "why": "El cuadro (diabético, foco dental, fiebre y dolor en el cuadrante superior derecho) sugiere un absceso hepático piógeno. Según el Sabiston, la ecografía tiene una sensibilidad del 80-95% y la TC del 95-100%, así que la TC es la más sensible; la ecografía es útil pero menos sensible, sobre todo en la cúpula y en pacientes obesos. La radiografía de tórax solo da signos indirectos. El arco quinto (serología para hidatidosis) no corresponde, y la prueba terapéutica no reemplaza a la imagen.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1479 del PDF"
+    ],
+    "tema": "higado",
+    "nota": "En el original las opciones están rotuladas A, F, G, H, I; la resaltada es la segunda (F), que corresponde a B aquí."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Paciente de 54 años de edad procedente de Cajamarca acude por presentar fiebre y dolor abdominal de 7 días de evolución. Al examen: taquicárdico y taquipneico, con hepatomegalia y dolor a la palpación en CSD. Trae una ecografía que informa imagen única, ovoidea de bordes poco definidos, de contenido líquido denso en su interior en segmento 5, de 6 cms de diámetro y diagnóstico ecográfico de probable quiste amebiano.",
+    "opts": [
+     "Para confirmar el diagnóstico se debe realizar arco quinto",
+     "Al realizar una punción del quiste con guía ecográfica se obtendrá líquido purulento",
+     "Se debe realizar drenaje laparoscópico",
+     "Se pueden realizar pruebas serológicas para detectar anticuerpos contra las amebas",
+     "Por el tamaño del quiste primero se debe administrar tratamiento farmacológico"
+    ],
+    "ans": 3,
+    "why": "En el absceso hepático amebiano, la serología para anticuerpos contra Entamoeba histolytica es casi siempre positiva y sirve para confirmar el diagnóstico (Sabiston). El arco quinto es para hidatidosis. La aspiración da el típico contenido en «pasta de anchoas», no pus franco, y solo es diagnóstica en el 10-20% de los casos. El tratamiento es metronidazol, no drenaje laparoscópico. El metronidazol es de primera línea sea cual sea el tamaño; un absceso de más de 5 cm es, al contrario, motivo para considerar la aspiración por riesgo de rotura. Por eso el razonamiento de E es incorrecto.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1479 del PDF",
+     "Sabiston 21.ª ed., p. 1483 del PDF"
+    ],
+    "tema": "higado"
+   },
+   {
+    "estado": "corregida",
+    "stem": "Paciente de 50 años de sexo femenino que acude por distensión abdominal, llenura precoz y dolor en CSD. Al examen: abdomen: se observa circulación colateral, se palpa borde hepático a 4 cm de reborde costal LMC. Ex Aux.: perfil hepático normal y ecografía informa: hepatomegalia, múltiples quistes anecoicos en ambos lóbulos hepáticos entre 3 - 5cms de diámetro, riñón derecho con 2 quistes simples de 2 cms de diámetro.",
+    "opts": [
+     "Según la clasificación de Gharbi se trataría de un tipo II",
+     "El pronóstico solo depende de la enfermedad poliquística hepática",
+     "Para su clasificación se necesita realizar una tomografía",
+     "En este caso, se trataría de un tipo I, según la clasificación ecográfica de Gigot",
+     "El tratamiento quirúrgico consistiría solo en destechamiento laparoscópico"
+    ],
+    "ans": 2,
+    "why": "Es una poliquistosis hepática (con quistes renales). La clasificación de Gigot se definió y se aplica sobre imágenes de tomografía: número y tamaño de los quistes y cantidad de parénquima sano. No es una clasificación ecográfica, y quistes múltiples medianos (3-5 cm) en ambos lóbulos con parénquima reconocible corresponden al tipo 2, no al 1 (tipo 1: pocos quistes grandes; Giménez). Gharbi clasifica quistes hidatídicos. El pronóstico también depende de la enfermedad renal (Giménez: la insuficiencia renal puede requerir hemodiálisis y trasplante). El tratamiento varía según el tipo: fenestración, resección o trasplante (Sabiston).",
+    "fuentes": [
+     "Giménez, Cirugía 2.ª ed., p. 462 del PDF",
+     "Sabiston 21.ª ed., p. 1502 del PDF",
+     "Norcia LF et al. Polycystic Liver Disease: Pathophysiology, Diagnosis and Treatment. Hepat Med 2022 (PMC9528914)",
+     "Gigot JF et al. Ann Surg 1997 (PMID 9060585)"
+    ],
+    "tema": "higado",
+    "nota": "Clave original: D (resaltado). D es incorrecta: Gigot no es ecográfica y el caso no es tipo 1."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "En la colecistitis aguda del enfermo crítico el tratamiento es:",
+    "opts": [
+     "Colecistectomía laparoscópica.",
+     "Colecistectomía abierta.",
+     "Colecistostomía percutánea.",
+     "Tratamiento médico con ácido ursodesoxicólico."
+    ],
+    "ans": 2,
+    "why": "En el paciente crítico o de alto riesgo quirúrgico, el tratamiento de la colecistitis aguda es antibióticos más drenaje percutáneo de la vesícula (colecistostomía) guiado por ecografía con anestesia local. Esto mejora los síntomas y la fisiología y permite una colecistectomía diferida tras optimizar al paciente (Sabiston; ABSITE). La colecistectomía, laparoscópica o abierta, tiene alto riesgo en ese estado. El ácido ursodesoxicólico no trata la colecistitis aguda.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1524 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 47 del PDF"
+    ],
+    "tema": "vesicula"
+   }
+  ]
+ },
+ {
+  "k": "22d370d10f",
+  "estado": "confirmada",
+  "stem": "En pacientes sin comorbilidades, ¿cuál es el tratamiento de la litiasis vesicular sintomática?",
+  "opts": [
+   "Colecistectomía laparoscópica.",
+   "Colecistostomía percutánea.",
+   "Papilotomía endoscópica.",
+   "Tratamiento médico con ácido (texto cortado en el original)"
+  ],
+  "ans": 0,
+  "why": "La colelitiasis sintomática es indicación de colecistectomía, y la vía laparoscópica es la de elección (Sabiston). Por su seguridad y eficacia, el tratamiento conservador (disolución con ácido ursodesoxicólico, litotricia) quedó para pacientes en quienes la anestesia general es demasiado riesgosa. La colecistostomía se usa en colecistitis de pacientes críticos y la papilotomía trata la coledocolitiasis, no la litiasis vesicular.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1522 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "En el original la opción D está cortada («Tratamiento médico con ácido»); se dejó tal cual porque no afecta a la respuesta."
+ },
+ {
+  "k": "a701397724",
+  "estado": "confirmada",
+  "stem": "Una mujer de 43 años acude al servicio de urgencias. Se sabe que tiene cálculos biliares y sobrepeso, pero por lo demás se encuentra en buen estado físico. Ella ha tenido dolor en el cuadrante superior derecho de su abdomen durante la última semana. Este ha sido fluctuante y es peor después de una comida pesada. Tiene una naturaleza cólica. Ella niega otros síntomas. Su examen es normal aparte de un poco de dolor leve en el cuadrante superior derecho. No hay defensa. Sus análisis de sangre son normales. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Metástasis hepática",
+   "Cólico biliar",
+   "Colecistitis",
+   "Hepatitis viral",
+   "Colangitis ascendente"
+  ],
+  "ans": 1,
+  "why": "Dolor intermitente en el cuadrante superior derecho que empeora tras comidas copiosas, en una paciente con litiasis conocida, sin fiebre, sin defensa y con analítica normal: es un cólico biliar. Según el Sabiston, el cólico biliar no tiene signos reproducibles en la exploración ni síntomas generales. Un dolor de más de 24 h con fiebre o leucocitosis sugeriría colecistitis. La colangitis exige fiebre e ictericia o colestasis, y la hepatitis altera las transaminasas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1522 del PDF",
+   "Sabiston 21.ª ed., p. 1523 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ {
+  "k": "00462882d0",
+  "estado": "confirmada",
+  "stem": "Una mujer de 51 años está siendo preparada para una colecistectomía electiva por litiasis biliar. ¿Cuál de sus medicamentos habituales deberá suspenderse antes de la cirugía?",
+  "opts": [
+   "Elleste-Duet (terapia hormonal sustitutiva)",
+   "Atorvastatina",
+   "Co-codamol",
+   "Omeprazol",
+   "Mirtazapina"
+  ],
+  "ans": 0,
+  "why": "La terapia hormonal sustitutiva con estrógenos orales aumenta el riesgo de tromboembolia venosa. La guía NICE NG89 recomienda aconsejar su suspensión 4 semanas antes de una cirugía electiva (igual que los anticonceptivos con estrógenos). Las estatinas, el omeprazol, los analgésicos habituales y los antidepresivos se mantienen en el perioperatorio.",
+  "fuentes": [
+   "NICE NG89 (Venous thromboembolism in over 16s), recomendación sobre anticonceptivos con estrógenos y THS antes de cirugía electiva, según la revisión de Helmy O et al. JRSM Open 2026 (PMC13167339)"
+  ],
+  "tema": "eras",
+  "nota": "La recomendación de suspender la THS es propia de NICE (pregunta de origen británico). Helmy et al. (2026) señalan que otras guías no la exigen y que la evidencia es limitada. Entre estas opciones, igual es la única que se suspende. No se pudo abrir la página de NICE (bloquea el acceso automático); el texto se verificó en esa revisión."
+ },
+ {
+  "k": "95bba5d8fe",
+  "estado": "confirmada",
+  "stem": "Con respecto a los hallazgos ecográficos de la colecistitis aguda, señale el incorrecto:",
+  "opts": [
+   "Engrosamiento parietal (> 3-4 mm).",
+   "Edema perivesicular.",
+   "Diámetro transversal entre 2 y 4 cm.",
+   "Diámetro longitudinal > 9 cm."
+  ],
+  "ans": 2,
+  "why": "Las Guías de Tokio incluyen como hallazgos ecográficos de colecistitis aguda la pared engrosada (>4 mm), la vesícula agrandada (eje largo >8 cm, eje corto >4 cm), el líquido pericolecístico, el cálculo enclavado y el Murphy ecográfico. Un diámetro transversal de 2 a 4 cm es normal, no un signo de colecistitis. En cambio, un eje longitudinal mayor de 9 cm sí cumple el criterio de agrandamiento (>8 cm).",
+  "fuentes": [
+   "Hirota M et al. Diagnostic criteria and severity assessment of acute cholecystitis: Tokyo Guidelines. J Hepatobiliary Pancreat Surg 2007 (PMC2784516); criterios ecográficos mantenidos en TG13/TG18 (Yokoe M et al., PMID 29032636)",
+   "Sabiston 21.ª ed., p. 1523 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "El ítem traía pegadas las preguntas 31 y 32; se separaron en dividir. La clave original del ítem (C) era la de la pregunta 32, que coincide con la resaltada en la 30.",
+  "dividir": [
+   {
+    "estado": "corregida",
+    "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la enfermedad litiásica biliar posterior a cirugía bariátrica?",
+    "opts": [
+     "La tasa de colecistectomía posoperatoria es la misma sin importar el tipo de cirugía bariátrica",
+     "Se debe realizar colecistectomía profiláctica durante la cirugía en la mayoría de los pacientes",
+     "Se recomienda ursodiol por 6 meses después del bypass gástrico",
+     "La disminución de la secreción de calcio y mucina contribuye a la formación de cálculos tras la cirugía bariátrica",
+     "La colecistitis aguda después de cirugía bariátrica es poco frecuente"
+    ],
+    "ans": 4,
+    "why": "La pregunta es la 9 del capítulo de estómago del ABSITE, cuya respuesta es E. Tras la cirugía bariátrica se forman cálculos en el 30-52% de los pacientes, pero solo el 7-15% tiene síntomas, y entre ellos la colecistitis aguda es poco frecuente. La tasa de colecistectomía es mayor tras el bypass que tras la banda o la manga (contra A). La ASMBS no apoya la colecistectomía profiláctica rutinaria (contra B). El ursodiol reduce la formación de cálculos, pero no se recomienda de rutina porque no ha demostrado mejorar resultados ni ser costo-efectivo (contra C). Lo que favorece los cálculos es el aumento, no la disminución, de la secreción de calcio y mucina (contra D).",
+    "fuentes": [
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 121 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 126 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 127 del PDF"
+    ],
+    "tema": "bariatrica",
+    "nota": "Clave original: C (resaltado). Algunas guías posteriores proponen considerar el ácido ursodesoxicólico tras el bypass, pero «se recomienda» como norma no está respaldado; la fuente de la pregunta da E."
+   },
+   {
+    "estado": "dudosa",
+    "stem": "Una mujer de 37 años de edad acude a la clínica para consideración de colecistectomía laparoscópica dada evidencia de colelitiasis en una ecografía transabdominal reciente. Niega antecedente de dolor abdominal en el cuadrante superior derecho o posprandial. La revisión de su ecografía es notable además por un pólipo de 4 mm en la vesícula biliar. ¿Cuál de los cursos de tratamiento que se citan aquí es más apropiado?",
+    "opts": [
+     "Observación clínica.",
+     "Ácido ursodesoxicólico.",
+     "Observación clínica con ecografías transabdominales de vigilancia.",
+     "Colecistectomía laparoscópica.",
+     "Remisión a un centro de atención a pacientes con cáncer hepatobiliar."
+    ],
+    "ans": null,
+    "why": "Las fuentes no coinciden. El Sabiston recomienda colecistectomía para pólipos mayores de 1 cm y vigilancia para los menores (apoyaría C); por sí sola, la litiasis asintomática se observa. El ABSITE, en cambio, lista como indicaciones de colecistectomía el pólipo sintomático, el pólipo asociado a cálculos, el mayor de 6 mm y la edad mayor de 50. Esta paciente tiene pólipo y cálculos, lo que apoyaría D. Como dos fuentes del orden de autoridad dan respuestas distintas, no se puede decidir entre C y D. B y E no están indicadas.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1542 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 48 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 56 del PDF"
+    ],
+    "tema": "vesicula",
+    "nota": "Clave original: C (resaltado). Es defendible por el Sabiston, pero el ABSITE apoya D."
+   }
+  ]
+ },
+ {
+  "k": "1a2b093557",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones no es cierta sobre el suministro de sangre al hígado?",
+  "opts": [
+   "La vena porta está formada por la confluencia de las venas esplénica y mesentérica superior al nivel de la segunda vértebra lumbar detrás de la cabeza del páncreas.",
+   "La arteria hepática común surge típicamente de la arteria mesentérica superior, asciende en el ligamento hepatoduodenal y da lugar a las arterias gástrica, gastroduodenal y hepática propia derecha.",
+   "En el ligamento hepatoduodenal, el colédoco se encuentra anterior y ligeramente lateral a la vena porta.",
+   "Una arteria hepática derecha reemplazada surge típicamente de la arteria mesentérica superior y discurre en sentido posterior y hacia la derecha del colédoco dentro del porta hepatis.",
+   "Una arteria hepática izquierda reemplazada surge normalmente de la arteria gástrica izquierda."
+  ],
+  "ans": 1,
+  "why": "La arteria hepática común nace del tronco celíaco, no de la mesentérica superior. Da la gastroduodenal y la gástrica derecha y continúa como hepática propia, que se divide en derecha e izquierda (ABSITE). Las demás son ciertas: la porta se forma detrás del páncreas por la unión de la esplénica y la mesentérica superior; en el ligamento hepatoduodenal el colédoco es anterolateral a la porta; la hepática derecha reemplazada nace de la mesentérica superior y va por detrás y lateral, y la izquierda reemplazada de la gástrica izquierda.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 73 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "El ítem traía pegadas las preguntas 34 y 35; se separaron en dividir. La clave original del ítem (B) era la de la pregunta 35, que coincide con la resaltada en la 33.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Para pacientes que se presentan con la triada de Charcot y que despiertan preocupación en cuanto a colangitis aguda, el (los) paso(s) siguiente(s) más apropiado(s) en el tratamiento incluye(n):",
+    "opts": [
+     "Antibióticos de amplio espectro solos.",
+     "Antibióticos de amplio espectro seguidos por colecistostomía percutánea urgente.",
+     "Antibióticos de amplio espectro seguidos por colangiopancreatografía por resonancia magnética (MRCP, magnetic resonance cholangiopancreatography) urgente.",
+     "Antibióticos de amplio espectro seguidos por colangiopancreatografía retrógrada endoscópica (ERCP, endoscopic retrograde cholangiopancreatography).",
+     "Antibióticos de amplio espectro seguidos por colecistectomía."
+    ],
+    "ans": 3,
+    "why": "La colangitis aguda se trata con hidratación, antibióticos intravenosos de amplio espectro y descompresión de la vía biliar. Lo de elección es el drenaje endoscópico (CPRE) o, si no es posible, el percutáneo transhepático, con menos morbilidad que la cirugía (Sabiston; ABSITE). Los antibióticos solos no resuelven la obstrucción. La colecistostomía drena la vesícula, no el colédoco. La CPRM solo diagnostica, y la colecistectomía se hace después, cuando el paciente se estabiliza.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1539 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 47 del PDF"
+    ],
+    "tema": "via-biliar"
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Una mujer de 38 años es llevada al servicio de urgencias debido a tres episodios de 1 hora de dolor abdominal intenso, agudo y penetrante en el cuadrante superior derecho. Durante estos episodios, ha tenido náuseas y vómitos. No tiene diarrea, disuria ni hematuria y está asintomática entre episodios. Tiene hipertensión e hiperlipidemia. Hace siete años, se sometió a una resección del íleon terminal debido a una enfermedad de Crohn grave. Mide 155 cm de altura y pesa 79 kg; IMC es de 32 kg/m². Su temperatura es de 36,9 °C (98,5 °F), pulso es de 80/min y presión arterial es de 130/95 mm Hg. Hay ictericia escleral leve. El examen cardiopulmonar no muestra anomalías. El abdomen está blando y presenta sensibilidad a la palpación en el cuadrante superior derecho, sin defensa ni rebote. Los ruidos intestinales son normales. Las heces son de color marrón y la prueba de sangre oculta en heces es negativa. Los análisis de laboratorio muestran: hemoglobina 12,5 g/dL, leucocitos 9500/mm³, plaquetas 170 000/mm³, bilirrubina total 4,1 mg/dL, fosfatasa alcalina 348 U/L, AST 187 U/L, ALT 260 U/L, y un conducto biliar común de 10 mm de calibre en la ecografía. ¿Cuál de las siguientes es la causa más probable de estos hallazgos?",
+    "opts": [
+     "Colangitis biliar primaria",
+     "Coledocolitiasis",
+     "Colangitis aguda",
+     "Colangitis esclerosante primaria",
+     "Colecistitis"
+    ],
+    "ans": 1,
+    "why": "La resección ileal interrumpe la circulación enterohepática de sales biliares y predispone a cálculos de colesterol (ABSITE), sumado a la obesidad. Episodios de dolor biliar, ictericia, patrón colestásico y colédoco dilatado (>8 mm) son muy indicativos de coledocolitiasis (Sabiston). No hay fiebre ni leucocitosis, así que no cumple criterios de colangitis aguda ni de colecistitis. La colangitis biliar primaria y la esclerosante primaria son crónicas y no explican episodios de cólico con colédoco dilatado.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1525 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 135 del PDF"
+    ],
+    "tema": "vesicula",
+    "nota": "Los valores de laboratorio vienen de la tabla en imagen del original."
+   }
+  ]
+ },
+ {
+  "k": "95650e3051",
+  "estado": "confirmada",
+  "stem": "Una mujer de 42 años es llevada al servicio de urgencias debido a dolor abdominal agudo intermitente en el cuadrante superior derecho y náuseas durante las últimas 10 horas. Vomitó tres veces. No presenta fiebre, escalofríos, diarrea ni síntomas urinarios. Tiene hijos que asisten a la escuela secundaria. Parece estar incómoda. Mide 165 cm y pesa 86 kg; su IMC es de 32 kg/m². Su temperatura es de 37,0 °C, el pulso es de 100 latidos/min y la presión arterial es de 140/90 mm Hg. Presenta ictericia escleral leve. El abdomen está blando y no distendido, con sensibilidad a la palpación en el cuadrante superior derecho sin defensa ni rebote. Los ruidos intestinales son normales. Los análisis de laboratorio muestran: hemoglobina 14 g/dL, leucocitos 9000/mm³, plaquetas 160 000/mm³, fosfatasa alcalina 238 U/L, AST 60 U/L, bilirrubina total 2,8 mg/dL y directa 2,1 mg/dL. ¿Cuál de las siguientes es la causa más probable de estos hallazgos?",
+  "opts": [
+   "Colangitis biliar primaria",
+   "Coledocolitiasis",
+   "Colangitis aguda",
+   "Colangitis esclerosante primaria",
+   "Colecistitis"
+  ],
+  "ans": 1,
+  "why": "Mujer obesa con dolor biliar intermitente, ictericia e hiperbilirrubinemia directa con fosfatasa alcalina elevada: cuadro de obstrucción del colédoco por cálculo. El Sabiston señala que dolor biliar, ictericia y pruebas hepáticas alteradas son muy indicativos de coledocolitiasis. Sin fiebre ni leucocitosis no hay colangitis, y la colecistitis no suele dar ictericia porque el colédoco no está obstruido. Las colangitis biliar primaria y esclerosante primaria son crónicas y no dan este cuadro agudo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1523 del PDF",
+   "Sabiston 21.ª ed., p. 1525 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Los valores de laboratorio se completaron con la tabla en imagen del original."
+ },
+ {
+  "k": "e1b4712c72",
+  "estado": "confirmada",
+  "stem": "Una mujer de 46 años acude al servicio de urgencias por dolor abdominal intermitente y vómitos desde hace 2 días. El dolor abdominal es cólico y difuso, y la paciente lo describe como de intensidad 7 sobre 10. La última deposición de la paciente fue hace 3 días. Ha tenido múltiples episodios de dolor abdominal superior que se irradia a las escápulas y vómitos durante los últimos 3 meses; sus síntomas remitieron tras tomar ibuprofeno. Tiene enfermedad de las arterias coronarias, diabetes mellitus tipo 2, enfermedad por reflujo gastroesofágico y osteoartritis de ambas rodillas. La medicación actual incluye aspirina, atorvastatina, rabeprazol, insulina e ibuprofeno. Parece incómoda. Su temperatura es de 39 °C (102,2 °F), el pulso es de 111 latidos/min y la presión arterial es de 108/68 mm Hg. El examen muestra membranas mucosas secas. El abdomen está distendido y timpánico con sensibilidad difusa; los ruidos intestinales son agudos. El examen rectal muestra un recto colapsado. Su concentración de hemoglobina es de 13,8 g/dL, el recuento de leucocitos es de 14 400/mm³ y el recuento de plaquetas es de 312 000/mm³. Una radiografía de abdomen muestra asas dilatadas del intestino delgado con múltiples niveles hidroaéreos y segmentos colapsados del intestino grueso. Se muestra una tomografía computarizada (TC) con contraste del abdomen (imagen en el original). ¿Cuál de las siguientes es la causa más probable de los hallazgos de esta paciente?",
+  "opts": [
+   "Fístula colecistoentérica",
+   "Torsión cecal",
+   "Infarto intestinal",
+   "Perforación de víscera",
+   "Inflamación de los divertículos colónicos"
+  ],
+  "ans": 0,
+  "why": "Una paciente con cólicos biliares previos que ahora tiene obstrucción mecánica del intestino delgado, con aire en la vía biliar en la TC (neumobilia, visible en el lóbulo izquierdo de la imagen), corresponde a un íleo biliar. Un cálculo grande erosiona la vesícula, forma una fístula colecistoentérica (casi siempre colecistoduodenal) y se impacta en el íleon distal. La TC con aire en la vía biliar es el estudio más específico (ABSITE). La torsión cecal y la diverticulitis afectan al colon; el infarto y la perforación no explican la neumobilia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 55 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El texto extraído tenía solo 4 opciones; el original tiene 5 (E: inflamación de los divertículos colónicos)."
+ },
+ {
+  "k": "6b7ae25171",
+  "estado": "confirmada",
+  "stem": "Una mujer de 41 años acude al servicio de urgencias por un cuadro de dolor abdominal y náuseas de ocho horas de evolución. El dolor empeoró tras ingerir un sándwich y ha vomitado una vez. No presenta antecedentes de enfermedades graves. Su temperatura es de 37,2 °C (99,1 °F), su pulso es de 80 latidos/min y su presión arterial es de 134/83 mmHg. La exploración física revela ictericia escleral y sensibilidad difusa en la parte superior del abdomen. Los análisis de sangre muestran: ¿En cuál de las siguientes estructuras es más probable que se observe un cálculo mediante ecografía?",
+  "opts": [
+   "Conducto biliar común",
+   "Conducto hepático común",
+   "Conducto cístico",
+   "Cuello de la vesícula biliar",
+   "Fondo de la vesícula biliar"
+  ],
+  "ans": 0,
+  "why": "Dolor biliar posprandial con ictericia y sin fiebre indica un cálculo en el colédoco (conducto biliar común). El Sabiston señala que dolor biliar, ictericia y pruebas hepáticas alteradas son muy indicativos de coledocolitiasis. Un cálculo en el cuello vesicular o en el cístico produce cólico o colecistitis, pero no ictericia (salvo el síndrome de Mirizzi, que es raro). El fondo vesicular no obstruye nada. La litiasis primaria del hepático común es poco frecuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1523 del PDF",
+   "Sabiston 21.ª ed., p. 1525 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 47 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "En el original falta la tabla de laboratorio («Los análisis de sangre muestran:» queda vacío), pero la pregunta se responde con la clínica. El texto extraído tenía solo 3 opciones; el original tiene 5."
+ },
+ {
+  "k": "006-a1",
+  "agregada": true,
+  "despues_de": "66ad70acfd",
+  "estado": "confirmada",
+  "stem": "Una mujer de 31 años es traída tras colisión vehicular. Está consciente, ansiosa, con PA 92/60 mmHg, FC 128/min, piel fría. Presenta una lesión extensa en muslo derecho con sangrado activo pulsátil. El residente inicia evaluación de vía aérea y solicita ecografía eFAST. ¿Cuál es el error conceptual más importante en esta conducta?",
+  "opts": [
+   "La eFAST debe realizarse solo después de la tomografía.",
+   "La vía aérea siempre precede al control de cualquier sangrado.",
+   "Se omitió el control inmediato de hemorragia externa exanguinante antes del ABCDE convencional.",
+   "La hipotensión debe corregirse primero con cristaloides antes de controlar la hemorragia.",
+   "El sangrado arterial periférico no suele explicar choque hemorrágico."
+  ],
+  "ans": 2,
+  "why": "La hemorragia externa exanguinante (sangrado arterial pulsátil de una extremidad con signos de shock) se controla primero, con presión directa o torniquete, antes de seguir con el ABCDE. Es la secuencia xABCDE de la 11.ª edición del ATLS y de los consensos actuales de trauma. El Sabiston también indica abordar de inmediato con presión directa las fuentes externas de sangrado. Una vía aérea permeable (paciente que habla) no justifica retrasar el control. La eFAST se hace antes de la TC, no después. Los cristaloides no sustituyen al control del sangrado, y una lesión arterial periférica sí puede causar shock.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "Consenso chino sobre manejo prehospitalario del trauma mayor, Chin J Traumatol 2026 (PMC13070844): secuencia xABCDE",
+   "Revisión sobre resucitación hemostática, Acute Crit Care 2026 (PMC12989944): ATLS 11.ª ed., xABCDE"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a2",
+  "agregada": true,
+  "despues_de": "006-a1",
+  "estado": "confirmada",
+  "stem": "Un varón de 40 años sufre caída de altura. Llega con PA 74/48 mmHg, FC 146/min, FR 28/min, Glasgow 14. No hay sangrado externo. Pelvis aparentemente estable. eFAST: líquido libre en Morrison y pelvis; ventana pericárdica negativa; pleuras sin neumotórax. Luego de iniciar transfusión balanceada, persiste hipotenso. ¿Cuál es la conducta definitiva más apropiada?",
+  "opts": [
+   "Tomografía contrastada para estadificar lesión hepatoesplénica.",
+   "Angioembolización como primera opción, aunque esté inestable.",
+   "Observación en unidad de trauma con controles seriados de hemoglobina.",
+   "Repetir eFAST en 30 minutos para confirmar progresión del sangrado.",
+   "Laparotomía exploratoria inmediata con control de daños."
+  ],
+  "ans": 4,
+  "why": "Paciente en shock que no responde a la transfusión, con eFAST positiva en abdomen y sin otra fuente (tórax y pericardio negativos, pelvis estable): tiene hemorragia intraabdominal activa. El Sabiston indica que la hemorragia intraabdominal en el paciente inestable justifica laparotomía urgente, con estrategia de control de daños por la gravedad. La TC, la observación y repetir la eFAST son para pacientes estables. La angioembolización no es la primera opción en el inestable con sangrado abdominal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "Sabiston 21.ª ed., p. 420 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a3",
+  "agregada": true,
+  "despues_de": "006-a2",
+  "estado": "confirmada",
+  "stem": "Un paciente de 28 años, motociclista, llega con PA 80/50 mmHg, FC 132/min, Glasgow 15. No hay sangrado externo evidente. eFAST negativo para líquido abdominal, pericárdico y neumotórax. Tiene dolor pélvico intenso, acortamiento de miembro inferior derecho y equimosis perineal. La radiografía portátil muestra fractura pélvica inestable. ¿Cuál es la mejor interpretación y conducta inicial?",
+  "opts": [
+   "El eFAST negativo descarta hemorragia grave; debe buscarse causa neurogénica.",
+   "El principal foco probable es hemorragia pélvica/retroperitoneal; aplicar fijación pélvica, activar transfusión masiva y coordinar control hemorrágico definitivo.",
+   "Debe realizarse laparotomía inmediata aunque el eFAST sea negativo.",
+   "Debe iniciarse vasopresor como tratamiento principal, porque el choque no es hemorrágico.",
+   "La prioridad es tracción del fémur antes de tratar la pelvis."
+  ],
+  "ans": 1,
+  "why": "En el traumatizado, la causa del shock es la hemorragia hasta que se demuestre lo contrario. La pelvis y el retroperitoneo son focos de exanguinación que la eFAST no detecta (Sabiston). La fractura pélvica inestable requiere cerrar de inmediato el volumen pélvico con una faja, reanimar con hemoderivados y controlar la hemorragia con angioembolización o cirugía. La laparotomía con eFAST negativa no trata el sangrado pélvico. Los vasopresores no son el tratamiento del shock hemorrágico, y la tracción femoral no tiene prioridad sobre la pelvis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a4",
+  "agregada": true,
+  "despues_de": "006-a3",
+  "estado": "confirmada",
+  "stem": "Un varón de 52 años sufre trauma torácico cerrado. Llega con disnea severa, SatO2 84%, PA 88/56 mmHg, FC 124/min. En hemitórax derecho hay hipersonoridad, ausencia de murmullo vesicular y desviación traqueal contralateral. El equipo dispone de radiografía portátil, eFAST y tomografía. ¿Cuál es la conducta más adecuada?",
+  "opts": [
+   "Radiografía portátil de tórax antes de cualquier procedimiento.",
+   "eFAST pulmonar para confirmar deslizamiento pleural antes de intervenir.",
+   "Descompresión torácica inmediata seguida de drenaje pleural.",
+   "Intubación orotraqueal inmediata y ventilación con presión positiva sin intervención pleural.",
+   "Tomografía de tórax porque el trauma cerrado puede producir contusión pulmonar."
+  ],
+  "ans": 2,
+  "why": "Hipersonoridad, ausencia de murmullo, desviación traqueal e hipotensión: es un neumotórax a tensión. El diagnóstico es clínico y se trata sin esperar imagen, con descompresión inmediata (aguja o toracostomía) seguida de tubo de tórax (Sabiston; ABSITE). Intubar y ventilar con presión positiva antes de descomprimir empeora la tensión y el retorno venoso. Pedir radiografía, eFAST o TC retrasa un tratamiento que salva la vida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 417 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 245 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a5",
+  "agregada": true,
+  "despues_de": "006-a4",
+  "estado": "confirmada",
+  "stem": "Un paciente politraumatizado llega con PA 82/44 mmHg, FC 142/min, lactato 6.1 mmol/L, base deficit elevado, temperatura 34.8 °C, sospecha de sangrado intraabdominal. El residente propone administrar 3 litros de solución salina tibia antes de solicitar hemoderivados, para \"ganar tiempo\". ¿Cuál es la mejor respuesta docente?",
+  "opts": [
+   "Correcto, los cristaloides deben preceder siempre a la transfusión.",
+   "Incorrecto; debe priorizarse activación temprana de protocolo de transfusión masiva, control de hemorragia y prevención de coagulopatía, hipotermia y acidosis.",
+   "Correcto, porque el lactato elevado contraindica la transfusión inicial.",
+   "Incorrecto; debe iniciarse vasopresor en lugar de fluidos o sangre.",
+   "Correcto si la hemoglobina inicial es mayor de 10 g/dL."
+  ],
+  "ans": 1,
+  "why": "El paciente está en shock hemorrágico grave y ya tiene hipotermia y acidosis. El Sabiston recuerda que reanimar con más de 1,5 L de cristaloides aumenta el riesgo de muerte. La reanimación con control de daños combina hipotensión permisiva, transfusión equilibrada precoz (protocolo de transfusión masiva), tratamiento de la coagulopatía, mínimos cristaloides y control rápido del sangrado, y evita la tríada letal (coagulopatía, acidosis, hipotermia). El lactato alto no contraindica la transfusión, los vasopresores no reemplazan el volumen y la hemoglobina inicial no refleja la pérdida aguda.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "Sabiston 21.ª ed., p. 419 del PDF",
+   "Sabiston 21.ª ed., p. 420 del PDF"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "006-a6",
+  "agregada": true,
+  "despues_de": "006-a5",
+  "estado": "confirmada",
+  "stem": "Un varón de 19 años llega tras accidente en motocicleta. Glasgow 6, pupila derecha midriática, PA 78/40 mmHg, FC 136/min, SatO2 91%. Tiene deformidad de pelvis y abdomen distendido. eFAST positivo en abdomen. El interno pregunta si debe trasladarse directamente a tomografía de cráneo por anisocoria. ¿Cuál es la conducta más apropiada?",
+  "opts": [
+   "Tomografía cerebral inmediata; la anisocoria tiene prioridad absoluta sobre el choque.",
+   "Intubación con protección cervical, resucitación hemostática y control urgente de la hemorragia abdominal/pélvica antes de neuroimagen si persiste inestable.",
+   "Manitol inmediato y observación hemodinámica antes de intervenir el abdomen.",
+   "Hiperventilación profiláctica sostenida y luego tomografía.",
+   "Esperar a que mejore Glasgow para decidir intubación."
+  ],
+  "ans": 1,
+  "why": "Se sigue el orden ABCDE. Con Glasgow 6 hay que asegurar la vía aérea (intubación con protección cervical), y luego tratar el shock hemorrágico (eFAST abdominal positiva y pelvis inestable). En el TCE grave, la hipoxia y la hipotensión multiplican la mortalidad (Sabiston), así que controlar la hemorragia es también neuroprotector. Un paciente inestable no se lleva a TC. El manitol en un hipotenso agrava el shock, la hiperventilación profiláctica sostenida no se recomienda y esperar para intubar con Glasgow 6 es un error.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "Sabiston 21.ª ed., p. 421 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a7",
+  "agregada": true,
+  "despues_de": "006-a6",
+  "estado": "confirmada",
+  "stem": "Una mujer de 36 años sufre atropello. Llega con PA 60/35 mmHg, FC 150/min, confusión, piel fría. No hay sangrado externo. eFAST positivo para líquido abdominal. No hay signos de trauma torácico mayor. Se activa transfusión masiva y cirugía prepara laparotomía, pero el traslado a sala tomará varios minutos. Hay equipo entrenado disponible para REBOA. ¿Cuál es la opción más razonable?",
+  "opts": [
+   "REBOA zona I como puente temporal hacia control quirúrgico definitivo, junto con transfusión masiva.",
+   "REBOA zona III porque toda hemorragia traumática se controla mejor bajo las arterias renales.",
+   "REBOA está contraindicado si el eFAST es positivo.",
+   "REBOA reemplaza la laparotomía si mejora la presión arterial.",
+   "REBOA debe colocarse solo después de tomografía contrastada."
+  ],
+  "ans": 0,
+  "why": "La REBOA es un método de control temporal de la hemorragia troncal no compresible en el paciente traumatizado descompensado, y debe usarse dentro de un sistema capaz de dar el control quirúrgico definitivo (Sabiston). Para hemorragia intraabdominal se ocluye la zona 1 (aorta supracelíaca); la zona 3 (infrarrenal) es para hemorragia pélvica aislada. La REBOA no reemplaza la laparotomía, y un paciente en shock profundo no va a TC. La eFAST positiva no la contraindica: es justamente su indicación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 419 del PDF",
+   "Sabiston 21.ª ed., p. 2067 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 267 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a8",
+  "agregada": true,
+  "despues_de": "95650e3051",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones es el siguiente paso más apropiado en el diagnóstico (para el caso de la pregunta 36)?",
+  "opts": [
+   "Tomografía computarizada del abdomen",
+   "Radiografías del abdomen en decúbito supino y en bipedestación.",
+   "Ecografía transabdominal",
+   "Colangiopancreatografía retrógrada endoscópica",
+   "Gammagrafía HIDA del tracto biliar"
+  ],
+  "ans": 2,
+  "why": "La pregunta 36 es una paciente con dolor biliar e ictericia por sospecha de coledocolitiasis. El primer estudio es la ecografía transabdominal: es sensible, barata y fiable para ver la colelitiasis y la dilatación del colédoco (Sabiston). Según el resultado se sigue con CPRM o CPRE. La CPRE es invasiva y se reserva para tratar o cuando la probabilidad es alta tras la imagen. La radiografía simple no ve la mayoría de los cálculos. La HIDA sirve para colecistitis, no para coledocolitiasis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1523 del PDF",
+   "Sabiston 21.ª ed., p. 1525 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Pregunta 37 del original, que se perdió en la extracción; depende del caso de la pregunta 36 (ítem 95650e3051)."
+ },
+ {
+  "k": "006-a9",
+  "agregada": true,
+  "despues_de": "6b7ae25171",
+  "estado": "confirmada",
+  "stem": "Una mujer de 30 años, previamente sana y con un IMC de 30, acude al servicio de urgencias refiriendo un dolor epigástrico de 6 horas de evolución que se irradia al hombro derecho. La exploración física revela taquicardia y leve sensibilidad en la región epigástrica media. Las pruebas de laboratorio revelan un nivel normal de amilasa sérica y los siguientes resultados anormales: aspartato aminotransferasa 180 U/L (ref. 0-35), alanina aminotransferasa 190 U/L (ref. 0-35), fosfatasa alcalina 200 U/L (ref. 30-120), bilirrubina total 5.0 mg/dL (ref. 0.3-1.0). La ecografía del cuadrante superior derecho revela un hígado con ecotextura gruesa, un conducto biliar común dilatado y una vesícula biliar contraída que no contiene cálculos visibles. ¿Cuál de las siguientes afecciones es la causa más probable de los síntomas de este paciente?",
+  "opts": [
+   "Hepatitis autoinmune",
+   "Tumor de la cabeza del páncreas",
+   "Enfermedad del hígado graso no alcohólico",
+   "Colecistitis",
+   "Coledocolitiasis"
+  ],
+  "ans": 4,
+  "why": "Dolor biliar agudo con ictericia, elevación de transaminasas y fosfatasa alcalina y colédoco dilatado: cuadro muy indicativo de coledocolitiasis (Sabiston). Que la ecografía no vea cálculos no la descarta, porque su sensibilidad para cálculos del colédoco es baja (ABSITE: en torno al 50%). El tumor de la cabeza del páncreas da ictericia indolora progresiva, a menudo con vesícula distendida. La hepatitis autoinmune y el hígado graso no explican la vía biliar dilatada ni el dolor agudo. La colecistitis no suele dar ictericia y la vesícula estaría distendida y engrosada, no contraída.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1525 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 47 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Pregunta 40 del original, que se perdió en la extracción."
+ }
+]

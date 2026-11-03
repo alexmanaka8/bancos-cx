@@ -1,0 +1,335 @@
+[
+ {
+  "k": "465eb6761d",
+  "estado": "confirmada",
+  "stem": "Un hombre de 74 años con fístulas anales recurrentes presenta dolor y secreción perianal. El examen físico revela una fístula anorrectal extrasfinteriana. Nunca se le ha realizado anoscopía. ¿Qué diagnóstico debe considerarse en este paciente?",
+  "opts": [
+   "Carcinoma anorrectal",
+   "Hemorroides externas",
+   "Hemorroides internas",
+   "Seno pilonidal",
+   "Hemorroide externa trombosada"
+  ],
+  "ans": 0,
+  "why": "Una fístula recurrente o atípica (extraesfinteriana, no criptoglandular) en un anciano nunca estudiado obliga a descartar una causa específica; el Sabiston incluye el carcinoma rectal o anal entre las etiologías de fístula y pide evaluar la mucosa anorrectal para descartar Crohn o cáncer. Las hemorroides (internas, externas o trombosadas) no producen fístulas anorrectales, y el seno pilonidal es una enfermedad de la hendidura interglútea sin comunicación con el recto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ea208e686f",
+  "estado": "confirmada",
+  "stem": "Causa más común de fístula rectovaginal:",
+  "opts": [
+   "Carcinoma de recto",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Colitis ulcerosa",
+   "Radioterapia"
+  ],
+  "ans": 2,
+  "why": "La fístula rectovaginal se debe con mayor frecuencia a una lesión obstétrica tras parto vaginal (sobre todo con episiotomía, en primigestas). La enfermedad de Crohn (más que la colitis ulcerosa), el carcinoma de recto y la radioterapia pélvica son causas reconocidas pero menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 180 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "c3089ebaba",
+  "estado": "confirmada",
+  "stem": "Sobre la enfermedad de Hirschsprung en adultos:",
+  "opts": [
+   "No ocurre",
+   "No está asociada a mutaciones RET",
+   "Mejor diagnóstico con enema de bario",
+   "Requiere cirugía de extracción (pull-through) para tratamiento definitivo",
+   "Puede tratarse con miomectomía anorrectal"
+  ],
+  "ans": 4,
+  "why": "En el adulto, el Hirschsprung suele ser de segmento corto y puede tratarse con una miomectomía (miectomía) anorrectal; los descensos tipo Soave o Duhamel se reservan para niños y segmentos largos. Es rara pero sí ocurre, se asocia a mutaciones RET en una parte de los pacientes y el enema de bario puede no detectar el segmento corto: el diagnóstico es por biopsia rectal que muestra aganglionosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Opción D: el original dice 'cirugía de extracción', traducción de 'pull-through procedure' (descenso)."
+ },
+ {
+  "k": "01b1c91d5e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los pseudoaneurismas femorales que ocurren después de una arteriografía?",
+  "opts": [
+   "La compresión con ultrasonido es el procedimiento de elección.",
+   "La compresión con ultrasonido usualmente tiene éxito incluso si el paciente está anticoagulado.",
+   "La reparación quirúrgica generalmente requiere un injerto venoso interpuesto.",
+   "Puede manejarse con inyección directa de trombina guiada por ultrasonido.",
+   "Está contraindicado un ensayo de observación debido al alto riesgo de sangrado."
+  ],
+  "ans": 3,
+  "why": "La inyección de trombina guiada por ecografía es el tratamiento de elección del pseudoaneurisma femoral posarteriografía. La compresión ecoguiada tiene alta tasa de fracaso, sobre todo en anticoagulados; la cirugía se reserva para los infectados o de crecimiento rápido y no suele requerir injerto, y los pequeños y estables pueden observarse.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "4be9d9cb57",
+  "estado": "confirmada",
+  "stem": "Un día después de una reparación abierta de un aneurisma de aorta abdominal (AAA), el paciente desarrolla diarrea acuosa y distensión abdominal. En el examen, presenta sensibilidad leve en el cuadrante inferior izquierdo sin defensa. Todas las siguientes intervenciones son apropiadas, EXCEPTO:",
+  "opts": [
+   "Proctosigmoidoscopia",
+   "Nada por vía oral con descompresión mediante sonda nasogástrica",
+   "Hidratación intravenosa",
+   "Antibióticos de amplio espectro",
+   "Arteriografía"
+  ],
+  "ans": 4,
+  "why": "El cuadro sugiere colitis isquémica tras ligadura de la arteria mesentérica inferior o exclusión de las ilíacas internas. Se confirma con proctosigmoidoscopia flexible y se trata inicialmente con NPO, sonda nasogástrica, hidratación IV y antibióticos de amplio espectro. La arteriografía no ayuda, porque la causa suele ser una ligadura o exclusión intencional de vasos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "102f99be9a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 69 años se presenta en emergencias con inicio súbito de dolor en el flanco izquierdo y espalda, sensibilidad abdominal, presión arterial de 70/50 mmHg y una masa abdominal media pulsátil y dolorosa. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se debe iniciar hidratación intravenosa vigorosa en emergencias para elevar la presión sistólica a una meta de 110 mmHg.",
+   "Debe realizarse inmediatamente una tomografía computarizada (TC) de abdomen y pelvis.",
+   "Se debe realizar una ecografía urgente para descartar ruptura.",
+   "La reparación endovascular es el procedimiento de elección.",
+   "Probablemente será necesario clampar la aorta en el diafragma."
+  ],
+  "ans": 4,
+  "why": "Es un AAA roto con inestabilidad hemodinámica: va directo a quirófano y, por el gran hematoma retroperitoneal, el control proximal se logra mejor clampando la aorta a nivel del diafragma. Se prefiere la hipotensión permisiva (no reanimar a 110 mmHg); la TC es para el paciente relativamente estable; la ecografía no es exacta para detectar la ruptura retroperitoneal; y la revisión Cochrane no mostró menor mortalidad a 30 días con la vía endovascular frente a la abierta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Guías vasculares recientes (SVS/ESVS) favorecen EVAR en el AAA roto cuando la anatomía es adecuada, pero eso requiere imagen previa; en este paciente inestable y sin TC la opción defendida por la fuente es E."
+ },
+ {
+  "k": "d018bfa6a5",
+  "estado": "confirmada",
+  "stem": "El umbral para la reparación electiva de un aneurisma de la arteria ilíaca común asintomático es mayor de:",
+  "opts": [
+   "2.0 cm",
+   "2.5 cm",
+   "3.5 cm",
+   "4.0 cm",
+   "4.5 cm"
+  ],
+  "ans": 2,
+  "why": "Los aneurismas de ilíaca común crecen lento (~0,29 cm/año) y no se observó rotura por debajo de 3,8 cm, por lo que el umbral recomendado de reparación electiva en asintomáticos es >3,5 cm. Los valores de 2-2,5 cm son demasiado bajos y 4-4,5 cm exponen a riesgo de rotura.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 290 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "9781b1ede2",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el aneurisma de arteria visceral más común?",
+  "opts": [
+   "Arteria celíaca",
+   "Arteria esplénica",
+   "Arteria mesentérica superior (AMS)",
+   "Arteria hepática",
+   "Arteria pancreaticoduodenal"
+  ],
+  "ans": 1,
+  "why": "El aneurisma de la arteria esplénica es el aneurisma arterial visceral más frecuente; su principal riesgo es la rotura (fenómeno de doble rotura), mayor en el embarazo. Los de arteria hepática, celíaca, mesentérica superior y pancreaticoduodenal son menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 282 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "cf640e28f1",
+  "estado": "confirmada",
+  "stem": "Un día después de una reparación abierta de aneurisma de aorta abdominal (AAA), el paciente desarrolla diarrea acuosa y distensión abdominal. Al examen, presenta leve sensibilidad en el cuadrante inferior izquierdo sin defensa. Leucocitos: 14,000/μL. ¿Cuál de las siguientes es la conducta apropiada?",
+  "opts": [
+   "Proctosigmoidoscopia",
+   "Angiotomografía",
+   "Laparotomía exploradora",
+   "Laparoscopía diagnóstica",
+   "Arteriografía transfemoral"
+  ],
+  "ans": 0,
+  "why": "Diarrea precoz, dolor en fosa ilíaca izquierda y leucocitosis tras reparar un AAA sugieren colitis isquémica, que se confirma con proctosigmoidoscopia flexible (mucosa friable). La laparotomía con resección se reserva para necrosis transmural (peritonitis, acidosis persistente), que aquí no hay. La angiografía no ayuda porque la causa suele ser la ligadura intencional de la mesentérica inferior o de las ilíacas internas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "4b4b2a23d1",
+  "estado": "confirmada",
+  "stem": "Un hombre de 69 años se presenta a emergencias con inicio súbito de dolor en flanco y espalda izquierdos, sensibilidad abdominal, presión arterial de 100/50 mm Hg y masa pulsátil en línea media abdominal. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "El paciente debe recibir un bolo de 3 L de solución salina normal.",
+   "Una tomografía abdominal y pélvica es razonable si hay acceso a reparación endovascular.",
+   "La ecografía a pie de cama es útil para descartar ruptura.",
+   "La reparación endovascular tiene menor mortalidad perioperatoria que la abierta.",
+   "El riesgo de colitis isquémica es similar al de una reparación electiva."
+  ],
+  "ans": 1,
+  "why": "En un AAA roto con paciente relativamente estable se prefiere la TC para confirmar la rotura y valorar si es factible la reparación endovascular, siempre que haya un equipo con capacidad endovascular inmediata. Se recomienda hipotensión permisiva (no bolos grandes); la ecografía no es exacta para detectar la rotura retroperitoneal; la Cochrane no halló diferencia en mortalidad a 30 días entre EVAR y cirugía abierta; y la rotura es un factor de riesgo de colitis isquémica, mayor que en la cirugía electiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 275 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "2550100156",
+  "estado": "confirmada",
+  "stem": "El umbral para reparación electiva de un aneurisma de arteria ilíaca común asintomático es mayor de:",
+  "opts": [
+   "2.0 cm",
+   "2.5 cm",
+   "3.5 cm",
+   "4.0 cm",
+   "4.5 cm"
+  ],
+  "ans": 2,
+  "why": "No se ha observado rotura de aneurismas de ilíaca común menores de 3,8 cm y crecen ~0,29 cm/año, por eso el umbral de reparación electiva en asintomáticos es >3,5 cm. Los valores menores llevarían a operar sin beneficio y los mayores aumentan el riesgo de rotura.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 290 del PDF"
+  ],
+  "tema": "torax-vascular"
+ },
+ {
+  "k": "c5c7bc5258",
+  "estado": "confirmada",
+  "stem": "Un hombre de 34 años se somete a una apendectomía de urgencia. Después de realizar la apendectomía satisfactoriamente, el paciente se somete a una laparoscopia exploratoria. ¿Cuál de las siguientes características anatómicas es más útil para distinguir entre yeyuno e íleon?",
+  "opts": [
+   "El yeyuno tiene las paredes más delgadas que el íleon.",
+   "El yeyuno tiene menos grasa mesentérica que el íleon.",
+   "El yeyuno tiene más arcadas vasculares que el íleon.",
+   "El yeyuno tiene más folículos linfáticos bajo la mucosa que el íleon.",
+   "El yeyuno tiene menos vellosidades que el íleon."
+  ],
+  "ans": 1,
+  "why": "B es la única afirmación verdadera: el mesenterio del yeyuno tiene menos grasa (deja ver 'ventanas' entre los vasos rectos), mientras que el del íleon es más graso. Las demás son falsas: el yeyuno es más grueso y de mayor calibre, tiene solo 1-2 arcadas con vasos rectos largos (el íleon 4-5 con vasos rectos cortos), las placas de Peyer predominan en el íleon distal y el yeyuno tiene más pliegues y vellosidades.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1266 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 535 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 542 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Los libros de la carpeta respaldan explícitamente que A, C y D son falsas; la menor grasa mesentérica del yeyuno es anatomía clásica pero no la encontré escrita textualmente en los libros, por lo que B se confirma por exclusión."
+ },
+ {
+  "k": "1c7a0ba2be",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años ingresa en urgencias con diarrea intensa. La arteriografía revela un bloqueo del 90% en el origen aórtico de la arteria mesentérica inferior. ¿Cuál de las siguientes arterias proporcionará muy probablemente irrigación colateral al colon descendente?",
+  "opts": [
+   "Arteria gastroomental izquierda.",
+   "Arteria cólica media.",
+   "Arteria sigmoidea.",
+   "Arteria esplénica.",
+   "Arteria rectal superior."
+  ],
+  "ans": 1,
+  "why": "La rama izquierda de la arteria cólica media (de la mesentérica superior) se anastomosa con la rama ascendente de la cólica izquierda a través del arco marginal (de Riolano), que permite revascularizar el colon izquierdo cuando se ocluye la mesentérica inferior. Las arterias sigmoideas y rectal superior son ramas de la propia mesentérica inferior obstruida; la gastroomental izquierda y la esplénica no irrigan el colon.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t.2, p. 564 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "a627635958",
+  "estado": "confirmada",
+  "stem": "Un hombre de 44 años ingresa en urgencias con vómitos abundantes y deshidratación. Las imágenes radiológicas demuestran que parte del intestino está comprimido entre la aorta abdominal y la arteria mesentérica superior. ¿Cuál de las siguientes estructuras intestinales estará muy probablemente comprimida?",
+  "opts": [
+   "Segunda porción del duodeno.",
+   "Colon transverso.",
+   "Tercera porción del duodeno.",
+   "Primera porción del duodeno.",
+   "Yeyuno."
+  ],
+  "ans": 2,
+  "why": "El síndrome de la arteria mesentérica superior (síndrome de Wilkie) es la compresión de la tercera porción (horizontal) del duodeno entre la AMS y la aorta. Las porciones primera y segunda, el colon transverso y el yeyuno no cruzan la pinza aortomesentérica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1321 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "11b92cbaad",
+  "estado": "confirmada",
+  "stem": "Un hombre alcohólico de 58 años ingresa en el hospital por vómitos con sangre de color rojo oscuro (hematemesis). La endoscopia revela rotura de varices esofágicas por hipertensión portal. ¿Cuál de las siguientes venas tributarias del sistema porta se anastomosa con las venas cavas para causar las varices?",
+  "opts": [
+   "Esplénica.",
+   "Gastroomental izquierda.",
+   "Gástrica izquierda.",
+   "Hepática izquierda.",
+   "Gástrica derecha."
+  ],
+  "ans": 2,
+  "why": "En el esófago abdominal, la vena gástrica izquierda (coronaria estomáquica, afluente de la porta) se anastomosa con las venas esofágicas que drenan a la ácigos/hemiácigos (sistema cava superior); en la hipertensión portal estas anastomosis submucosas se dilatan y forman las várices esofágicas. La vena hepática izquierda drena a la cava y no es tributaria portal; la esplénica, la gastroomental izquierda y la gástrica derecha no forman esta anastomosis.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t.2, p. 182 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 448 del PDF"
+  ],
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "a923dfaf96",
+  "estado": "confirmada",
+  "stem": "Los cirujanos de urgencias deciden realizar una laparotomía exploratoria a una mujer de 32 años con dolor abdominal intenso. ¿Dónde es más probable que se haga la incisión para separar las vainas de los rectos derecho e izquierdo?",
+  "opts": [
+   "Línea medioaxilar.",
+   "Línea arqueada.",
+   "Línea semilunar.",
+   "Intersección tendinosa.",
+   "Línea alba."
+  ],
+  "ans": 4,
+  "why": "En la línea media, las vainas de ambos rectos se unen y forman la línea alba, sitio de la laparotomía media que separa los rectos derecho e izquierdo. La línea semilunar es el borde lateral del recto, la línea arqueada marca el fin de la vaina posterior, las intersecciones tendinosas cruzan el músculo recto y la línea medioaxilar es lateral.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1145 del PDF"
+  ],
+  "tema": "suturas"
+ },
+ {
+  "k": "1487d5966c",
+  "estado": "confirmada",
+  "stem": "Un hombre de 49 años presenta dolor abdominal agudo e ictericia. Los estudios radiológicos muestran un tumor en la cabeza del páncreas. ¿Cuál de las siguientes estructuras está muy probablemente obstruida?",
+  "opts": [
+   "Conducto hepático común",
+   "Conducto colédoco",
+   "Conducto cístico",
+   "Conducto pancreático accesorio"
+  ],
+  "ans": 1,
+  "why": "La porción distal (intrapancreática) del colédoco atraviesa la cabeza del páncreas, por lo que un tumor a ese nivel la comprime y causa ictericia obstructiva. El hepático común y el cístico están por encima del páncreas, y la obstrucción del conducto pancreático accesorio no produce ictericia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1559 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 454 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "736f6594d1",
+  "estado": "confirmada",
+  "stem": "Durante la reparación quirúrgica de una úlcera duodenal perforada en un hombre de 47 años, se liga la arteria gastroduodenal. ¿Qué rama de las siguientes arterias seguirá irrigando el páncreas en este paciente?",
+  "opts": [
+   "Gástrica derecha",
+   "Mesentérica superior",
+   "Gástrica izquierda",
+   "Mesentérica inferior"
+  ],
+  "ans": 1,
+  "why": "La cabeza del páncreas recibe las pancreaticoduodenales superiores (de la gastroduodenal) y las pancreaticoduodenales inferiores, ramas de la mesentérica superior; al ligar la gastroduodenal, la irrigación persiste por la pancreaticoduodenal inferior. Las gástricas derecha e izquierda irrigan la curvatura menor del estómago y la mesentérica inferior irriga el colon izquierdo, no el páncreas.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t.2, p. 512 del PDF",
+   "Latarjet, Anatomía humana t.2, p. 510 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "En el original la clave resaltada es 'B. Mesentérica superior' (línea suelta tras la opción D); la extracción la pegó a la opción D y registró la clave como D. La clave real del banco es B y es correcta."
+ }
+]

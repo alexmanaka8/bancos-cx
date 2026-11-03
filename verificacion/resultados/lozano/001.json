@@ -1,0 +1,428 @@
+[
+ {
+  "k": "87b2912354",
+  "estado": "confirmada",
+  "stem": "Se ha demostrado que el siguiente agente reduce clínicamente los efectos nocivos de los corticosteroides en la cicatrización de heridas:",
+  "opts": [
+   "Vitamina C",
+   "Vitamina A",
+   "Zinc",
+   "Cobre",
+   "Factor de crecimiento transformante β (TGF-β)"
+  ],
+  "ans": 1,
+  "why": "La vitamina A contrarresta los efectos inhibidores de los corticoides sobre la cicatrización (estimula la respuesta inflamatoria, la epitelización y la síntesis de colágeno), incluso en pacientes sin déficit. La vitamina C es cofactor de la hidroxilación de prolina y lisina, y el zinc y el cobre son oligoelementos necesarios, pero ninguno revierte el efecto de los esteroides. El TGF-β no tiene ese uso clínico demostrado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 493 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 498 del PDF",
+   "Sabiston 21.ª ed., p. 160 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "97c00cf6da",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la cicatrización de heridas?",
+  "opts": [
+   "La angiogénesis es el principal contribuyente al eritema observado en las heridas.",
+   "El dolor en las primeras 48 horas es secundario a los fibroblastos recién activos que intentan contraer los bordes de la herida.",
+   "A las 48 horas, las células fagocíticas predominan en el lecho de la herida.",
+   "En las primeras 36 horas, los macrófagos son las células predominantes en el lecho de la herida.",
+   "Si bien el eritema y el dolor pueden ser normales, la induración suele ser patológica."
+  ],
+  "ans": 2,
+  "why": "En la fase inflamatoria los neutrófilos (fagocitos) llegan primero y predominan durante las primeras 48 h; luego son reemplazados por macrófagos. El eritema se debe a la vasodilatación y la infiltración de líquido y neutrófilos, no a la angiogénesis (A); el dolor temprano se debe a cambios de pH y destrucción tisular local, no a fibroblastos (B). Los macrófagos no predominan en las primeras 36 h (D), y la induración (edema) es parte normal de la inflamación (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "167466f199",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las heridas del pie diabético?",
+  "opts": [
+   "Los pacientes generalmente recuerdan la lesión que provocó que la herida no cicatrizara.",
+   "La deformidad del pie en esta población de pacientes puede aumentar significativamente la formación de úlceras.",
+   "La mayoría de estas úlceras se deben a isquemia.",
+   "Esta complicación es multifactorial y generalmente independiente de los niveles de glucosa en sangre.",
+   "Las heridas no infectadas no deben enyesarse porque limita la evaluación de la herida."
+  ],
+  "ans": 1,
+  "why": "La neuropatía diabética produce deformidades del pie que alteran su biomecánica y crean puntos de alta presión sobre prominencias óseas (cabezas metatarsianas, talón, interfalángicas), donde se forman las úlceras. Por la pérdida de sensibilidad protectora, el paciente no suele notar ni recordar el traumatismo (A). La causa principal es la neuropatía, no la isquemia (C). Es multifactorial, pero mantener la normoglucemia es parte de la prevención (D). El yeso de contacto total es el estándar de descarga en úlceras no infectadas (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1961 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 496 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "7cb0cadfc1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la cicatrización de heridas?",
+  "opts": [
+   "La angiogénesis es la principal causa del eritema observado en las heridas.",
+   "El dolor en las primeras 48 horas se debe a fibroblastos activados que intentan contraer los bordes de la herida.",
+   "A las 48 horas, las células fagocíticas predominan en el lecho de la herida.",
+   "En las primeras 36 horas, los macrófagos son las células predominantes en el lecho de la herida.",
+   "Aunque el eritema y el dolor pueden ser normales, la induración es típicamente patológica."
+  ],
+  "ans": 2,
+  "why": "En la fase inflamatoria los neutrófilos (fagocitos) llegan primero y predominan durante las primeras 48 h; luego son reemplazados por macrófagos. El eritema se debe a la vasodilatación y la infiltración de líquido y neutrófilos, no a la angiogénesis (A); el dolor temprano se debe a cambios de pH y destrucción tisular local, no a fibroblastos (B). Los macrófagos no predominan en las primeras 36 h (D), y la induración (edema) es parte normal de la inflamación (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "2a1cbc374e",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la cicatrización de una anastomosis de intestino delgado?",
+  "opts": [
+   "Las fugas son menos frecuentes con anastomosis manual que con sutura mecánica.",
+   "Hay un mayor nivel de colagenasa en comparación con heridas cutáneas.",
+   "La serosa tiene un rol mínimo en la cicatrización de una anastomosis intestinal.",
+   "La submucosa proporciona la mayor parte de la resistencia del tubo digestivo.",
+   "Los colgajos omentales libres han demostrado mejorar los resultados en anastomosis de intestino delgado."
+  ],
+  "ans": null,
+  "why": "En la pregunta original (de Virgilio) la clave es D: la submucosa aporta la mayor parte de la fuerza tensil de la anastomosis. Pero en la versión en español la opción B dice \"mayor\" colagenasa, cuando el original dice \"decreased\". Así redactada, B también es verdadera: el libro explica que en el intestino la mayor actividad de colagenasa hace que la degradación supere al depósito de colágeno entre los días 3 y 5. Quedan dos opciones correctas. A es falsa: no hay diferencia concluyente entre la sutura manual y la mecánica. C es falsa: la serosa ayuda a sellar la anastomosis. E es falsa: un colgajo omental libre desvitalizado se necrosa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 498 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). La traducción invirtió el sentido de B (en inglés: \"decreased level of collagenase\"). Si se corrige el texto de B a \"menor nivel\", la respuesta es D.",
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "e52d155eba",
+  "estado": "confirmada",
+  "stem": "Cinco días después de la cirugía por apendicitis perforada, emanan heces líquidas de la herida del cuadrante inferior derecho. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta afección?",
+  "opts": [
+   "La mortalidad es alta para esta complicación.",
+   "La mayoría se cerrará espontáneamente.",
+   "El paciente debe recibir inmediatamente NPT.",
+   "Los trastornos de líquidos y electrolitos son comunes.",
+   "El paciente debe regresar inmediatamente al quirófano para la reparación quirúrgica."
+  ],
+  "ans": 1,
+  "why": "Es una fístula cecal (por deslizamiento de la ligadura o necrosis del muñón apendicular). Es de bajo débito y, con dieta baja en residuos, cierra espontáneamente hasta en el 75% de los casos, porque en el ciego la absorción ya está casi completa. Por eso no causa grandes pérdidas de líquidos ni electrolitos (D), no requiere NPT (C) y tiene mortalidad baja sin otras complicaciones (A). No se reopera de inmediato (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 467 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 472 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ {
+  "k": "1e200cb798",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años con insuficiencia renal secundaria a diabetes está programado para colocación de un injerto arteriovenoso de politetrafluoroetileno (PTFE) para acceso a hemodiálisis. ¿Cuál de las siguientes opciones describe mejor el uso de antibióticos profilácticos en este paciente?",
+  "opts": [
+   "No se indican antibióticos profilácticos",
+   "Una dosis de antibióticos la noche anterior a la cirugía y otra en el quirófano",
+   "Una dosis de antibióticos 1 hora antes de la cirugía",
+   "Una dosis de antibióticos justo antes de la incisión de piel",
+   "Administrar antibióticos al llamado a quirófano y continuar por 24 horas postoperatorias"
+  ],
+  "ans": 2,
+  "why": "Al implantar una prótesis permanente (injerto de PTFE), la profilaxis está indicada aunque la herida sea limpia (A es falsa). Basta una dosis única administrada en los 60 min previos a la incisión, para que haya niveles terapéuticos en suero y tejido al incidir. La dosis de la noche anterior es demasiado temprana (B). Darla justo al incidir no asegura niveles tisulares (D). Prolongarla en el posoperatorio no aporta beneficio (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF",
+   "Sabiston 21.ª ed., p. 234 del PDF"
+  ],
+  "nota": "Sabiston recomienda la primera dosis \"en los 60 min previos a la incisión\"; la opción C es la que expresa esa ventana.",
+  "tema": "iso"
+ },
+ {
+  "k": "1e2bb4a4e4",
+  "estado": "confirmada",
+  "stem": "Los antibióticos profilácticos están menos indicados en cuál de las siguientes situaciones:",
+  "opts": [
+   "Cirugía de úlcera duodenal en un paciente que recibe antagonistas de receptores H2",
+   "Hernia inguinal",
+   "Bypass aortobifemoral",
+   "Cirugía de mama",
+   "Colecistectomía por colelitiasis sintomática"
+  ],
+  "ans": 4,
+  "why": "En la colecistectomía (laparoscópica) electiva de bajo riesgo por colelitiasis sintomática, la guía recogida en el Sabiston no recomienda profilaxis. En cambio, la cirugía gastroduodenal en pacientes con pH gástrico elevado (por antagonistas H2 o IBP) es de alto riesgo y requiere profilaxis (A). La hernioplastia con malla (B) y la cirugía vascular con prótesis, como el bypass aortobifemoral (C), llevan cefazolina. En la cirugía de mama oncológica también se suele usar profilaxis (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 233 del PDF",
+   "Sabiston 21.ª ed., p. 235 del PDF"
+  ],
+  "nota": "Si la colecistectomía tiene factores de alto riesgo o es abierta, sí se indica profilaxis (Sabiston, nota l de la tabla 10.12). La clave asume el caso electivo de bajo riesgo.",
+  "tema": "iso"
+ },
+ {
+  "k": "f460af7f17",
+  "estado": "confirmada",
+  "stem": "Cuarenta y ocho horas después de una mastectomía total, una paciente de 30 años desarrolla fiebre alta, diarrea, vómitos, enrojecimiento generalizado de la piel e hipotensión. La incisión de la mastectomía parece sin alteraciones. Al día siguiente desarrolla descamación difusa. La etiología más probable es:",
+  "opts": [
+   "Clostridium perfringens",
+   "Clostridium difficile",
+   "Streptococcus β-hemolítico",
+   "Staphylococcus aureus",
+   "Staphylococcus epidermidis"
+  ],
+  "ans": 3,
+  "why": "Es un síndrome de shock tóxico de la herida quirúrgica: fiebre, diarrea, vómitos, eritrodermia e hipotensión en las primeras 48 h, seguidos de descamación difusa, a menudo con una herida de aspecto normal. En la mayoría de los casos lo causan cepas de S. aureus productoras de TSST-1 o de enterotoxinas B o C. S. pyogenes lo causa raramente (C). Clostridium y S. epidermidis no se asocian con este cuadro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 428 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 432 del PDF"
+  ],
+  "tema": "iso"
+ },
+ {
+  "k": "da71bcecb9",
+  "estado": "confirmada",
+  "stem": "La bacteriemia por cuál de los siguientes organismos se asocia con cáncer de colon:",
+  "opts": [
+   "Streptococcus bovis",
+   "C. difficile",
+   "S. aureus resistente a meticilina",
+   "Helicobacter pylori",
+   "Streptococcus viridans"
+  ],
+  "ans": 0,
+  "why": "La bacteriemia o endocarditis por el complejo Streptococcus bovis/equinus (S. gallolyticus) se asocia de forma bien establecida con neoplasia colorrectal. Por eso, ante ella se indica colonoscopia. C. difficile causa colitis pero no bacteriemia asociada a cáncer. H. pylori se relaciona con cáncer gástrico y linfoma MALT, no con cáncer de colon. SARM y S. viridans no tienen esta asociación.",
+  "fuentes": [
+   "Open Forum Infectious Diseases 2023, revisión sistemática y metaanálisis \"Association of the Streptococcus bovis/Streptococcus equinus Complex With Colorectal Neoplasia\" (PMID 38023558)"
+  ],
+  "nota": "No se encontró el dato en los libros de la carpeta; la fuente es un metaanálisis indexado en PubMed.",
+  "tema": "colon"
+ },
+ {
+  "k": "815d3cd6ef",
+  "estado": "dudosa",
+  "stem": "Se debe sospechar síndrome compartimental abdominal cuando la presión vesical supera:",
+  "opts": [
+   "10 cm H2O",
+   "25 cm H2O",
+   "35 cm H2O",
+   "40 cm H2O",
+   "45 cm H2O"
+  ],
+  "ans": null,
+  "why": "Los libros definen el síndrome compartimental abdominal en mmHg: presión intraabdominal sostenida mayor de 20 mmHg con disfunción orgánica nueva. Según Sabiston, los grados III (21-25 mmHg) y IV (más de 25 mmHg) definen el SCA. Pasado a cm H2O (1 mmHg ≈ 1,36 cm H2O), 20 mmHg son unos 27 cm H2O. Las opciones en cm H2O no coinciden con ese umbral: 25 cm H2O equivale a unos 18 mmHg y 35 cm H2O a unos 26 mmHg. Ninguna fuente disponible fija un umbral en cm H2O que permita elegir con seguridad entre B y C.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 574 del PDF",
+   "Sabiston 21.ª ed., p. 1165 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 246 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). Es probable que venga de una gradación antigua expresada en cm H2O, pero no se pudo comprobar con una fuente fiable.",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "df53363270",
+  "estado": "confirmada",
+  "stem": "El aminoácido más importante utilizado por el hígado para la gluconeogénesis es:",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Asparagina"
+  ],
+  "ans": 2,
+  "why": "La alanina es el principal precursor aminoacídico de la gluconeogénesis hepática (ciclo glucosa-alanina): el músculo la libera y el hígado la convierte en piruvato y luego en glucosa. La glutamina la usa sobre todo el riñón cuando se agota la alanina hepática (A). Serina, tirosina y asparagina no son sustratos relevantes en este contexto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF",
+   "Sabiston 21.ª ed., p. 124 del PDF"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "8a8c77231e",
+  "estado": "confirmada",
+  "stem": "El tratamiento inicial recomendado del melanoma del canal anal es:",
+  "opts": [
+   "Resección abdominoperineal (APR)",
+   "Escisión local amplia",
+   "Escisión local amplia con disección de ganglios linfáticos regionales",
+   "Radioterapia",
+   "Radioterapia y quimioterapia"
+  ],
+  "ans": 1,
+  "why": "El tratamiento inicial del melanoma anal es quirúrgico. Un metaanálisis no mostró ventaja de supervivencia por estadio de la APR sobre la escisión local amplia (A), así que se recomienda la escisión local amplia. La linfadenectomía no mejora la supervivencia y añade morbilidad (C). La radioterapia y la quimioterapia solo se consideran como adyuvantes (D, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ea412280d4",
+  "estado": "confirmada",
+  "stem": "El sangrado rectal por proctitis por radiación crónica que no responde a enemas de sucralfato se maneja mejor con:",
+  "opts": [
+   "Coagulación por plasma de argón",
+   "Colostomía de derivación",
+   "Enemas de esteroides",
+   "APR",
+   "Proctectomía"
+  ],
+  "ans": 0,
+  "why": "Las guías de la ASCRS citadas en Sabiston recomiendan para la hemorragia por proctitis rádica crónica la formalina al 4-10%, los enemas de sucralfato, el oxígeno hiperbárico y el tratamiento endoscópico con coagulación con plasma de argón, que es eficaz aunque causa fístulas o estenosis en alrededor del 3%. La derivación y la resección (B, D, E) se reservan para casos refractarios por su morbilidad. Los enemas de esteroides no son el tratamiento de elección del sangrado (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1188 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "4d1bca3a64",
+  "estado": "confirmada",
+  "stem": "La causa más común de fístula rectovaginal es:",
+  "opts": [
+   "Carcinoma de recto",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Absceso perianal",
+   "Radiación"
+  ],
+  "ans": 2,
+  "why": "La fístula rectovaginal se debe con más frecuencia a una lesión obstétrica: desgarro perineal de tercer o cuarto grado o episiotomía, sobre todo en primigestas. Otras causas son la enfermedad inflamatoria intestinal (más Crohn que CUCI), el carcinoma de recto, la radioterapia pélvica y, raramente, los abscesos perianales.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 176 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 180 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "f0dd1931b1",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el tratamiento médico con mayor tasa de curación de fisura anal crónica?",
+  "opts": [
+   "Fibras y ablandadores",
+   "Nitroglicerina tópica",
+   "Diltiazem tópico",
+   "Betanecol tópico",
+   "Toxina botulínica"
+  ],
+  "ans": null,
+  "why": "Las fuentes no muestran que un tratamiento médico cure claramente más que los otros. Según de Virgilio (con la guía ASCRS 2017), la toxina botulínica tiene una eficacia similar a la nitroglicerina como primera línea, y los nitratos no superan al diltiazem. Sabiston solo describe un aumento \"moderado\" de la cicatrización con toxina botulínica como segunda línea (65% combinada con diltiazem). La esfinterotomía lateral interna, que es quirúrgica, es la que tiene la mayor tasa de curación (88-100%).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF",
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "Sabiston 21.ª ed., p. 1432 del PDF"
+  ],
+  "nota": "Clave original: E (toxina botulínica, resaltado). La evidencia muestra eficacia comparable entre la toxina botulínica, la nitroglicerina y el diltiazem.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "11736d207f",
+  "estado": "confirmada",
+  "stem": "Causa bacteriana más común de proctitis:",
+  "opts": [
+   "Chlamydia trachomatis",
+   "Neisseria gonorrhoeae",
+   "Treponema pallidum",
+   "Haemophilus ducreyi",
+   "Shigella"
+  ],
+  "ans": 1,
+  "why": "La proctitis bacteriana suele ser una infección de transmisión sexual asociada al coito anal, y N. gonorrhoeae es su causa bacteriana más común. Le sigue Chlamydia, que da menos síntomas (A). T. pallidum, H. ducreyi y Shigella son causas poco frecuentes (C-E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 182 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "87dc02cf44",
+  "estado": "confirmada",
+  "stem": "Enfermedad de Hirschsprung en adultos:",
+  "opts": [
+   "No ocurre",
+   "No se asocia a mutación RET",
+   "Se diagnostica mejor con enema baritado",
+   "Requiere resección tipo pull-through",
+   "Puede tratarse con miomectomía anorrectal"
+  ],
+  "ans": 4,
+  "why": "En el adulto, la enfermedad de Hirschsprung suele ser de segmento corto, y la miomectomía anorrectal es una opción terapéutica válida. Es rara, pero existe (A), y puede asociarse a la mutación RET (B). El diagnóstico es por biopsia rectal que demuestra aganglionosis: el enema baritado puede pasar por alto un segmento corto (C). Los descensos tipo pull-through (Soave, Duhamel) se reservan para niños o segmentos largos (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "7a34cf5adc",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años se presenta con una masa en la ingle izquierda que es dolorosa de forma intermitente. La masa protruye al hacer esfuerzo y se reduce cuando está en posición supina. De pie, hay una masa evidente en el escroto izquierdo que protruye desde el anillo inguinal interno y se hace más prominente al toser. Se recomienda cirugía electiva. En la cirugía, la pared posterior del saco herniario se siente muy engrosada y es consistente con una posible hernia deslizante. ¿Cuál de las siguientes afirmaciones es verdadera respecto a este tipo de hernia?",
+  "opts": [
+   "Se debe hacer todo intento para resecar todo el saco",
+   "Tiene mayor riesgo de lesión colónica durante la reparación",
+   "Es más común en el lado derecho",
+   "Se asocia más frecuentemente con hernias inguinales directas",
+   "El saco herniario debe dividirse en el anillo inguinal interno"
+  ],
+  "ans": 1,
+  "why": "En la hernia por deslizamiento, una víscera (con más frecuencia el colon, aquí el sigmoides por ser izquierda, o la vejiga) forma parte de la pared del saco. El principal peligro es no reconocer ese componente visceral y lesionarlo, por eso hay mayor riesgo de lesión colónica. Por la misma razón no se intenta resecar todo el saco ni dividirlo en el anillo interno: se reduce el contenido y solo se secciona el saco sobrante (A, E). La mayoría son variantes de hernias indirectas, no directas (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1142 del PDF"
+  ],
+  "nota": "La opción C (lateralidad) no se pudo verificar en los libros, pero no cambia la respuesta.",
+  "tema": "hernias"
+ },
+ {
+  "k": "eed5c26811",
+  "estado": "confirmada",
+  "stem": "Una mujer de 66 años acude a su médico de cabecera por dolor intermitente en la ingle izquierda que ha ocurrido en los últimos meses. En el examen físico, se palpa una masa blanda en la ingle izquierda, por debajo del ligamento inguinal y cerca del pulso femoral. A la palpación, la masa es blanda, ligeramente dolorosa y desaparece con compresión suave. ¿Cuál de las siguientes afirmaciones es verdadera respecto a este tipo de hernias?",
+  "opts": [
+   "Son el tipo de hernia más común en mujeres",
+   "El riesgo de estrangulación es relativamente bajo",
+   "El saco herniario viaja lateral a la vena femoral",
+   "Si se descubre incidentalmente y el paciente está asintomático, no está indicada la reparación",
+   "Se asocia con mujeres multíparas"
+  ],
+  "ans": 4,
+  "why": "Es una hernia femoral, con predominio femenino de casi 10:1 y típica de mujeres mayores y multíparas. Las demás opciones están refutadas por las fuentes. Aunque es más frecuente en mujeres, la hernia más común en ellas sigue siendo la inguinal indirecta (A). Tiene la tasa de estrangulación más alta de todas las hernias, 15-20% (B), por lo que se repara siempre que se diagnostica, aunque sea asintomática (D). El saco pasa medial a la vena femoral (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1131 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF"
+  ],
+  "nota": "La asociación con la multiparidad no aparece explícita en los libros de la carpeta. La clave se sostiene porque las fuentes refutan A-D.",
+  "tema": "hernias"
+ },
+ {
+  "k": "f4c5f96233",
+  "estado": "confirmada",
+  "stem": "Una mujer de 30 años se recupera de una colecistectomía abierta en el hospital. Al segundo día postoperatorio, empieza a quejarse de dolor abdominal tipo cólico sin vómitos. No tiene antecedentes médicos o quirúrgicos previos, y su evolución postoperatoria ha sido normal. Está recibiendo hidrocodona por vía oral para el dolor y está en dieta líquida clara. Tiene una temperatura de 99.5 °F, TA de 128/84 mmHg, y pulso de 82/min. El examen físico revela ruidos intestinales ausentes, abdomen levemente distendido y con dolor difuso leve sin rebote ni defensa. ¿Cuál de las siguientes intervenciones beneficiaría más sus hallazgos abdominales?",
+  "opts": [
+   "Estimular la deambulación",
+   "Colocación de una sonda nasogástrica",
+   "Neostigmina",
+   "Cambiar la hidrocodona por un AINE",
+   "Regresar a quirófano para exploración"
+  ],
+  "ans": 3,
+  "why": "Es un íleo posoperatorio, y los opioides lo prolongan. Reducir los opioides y usar AINE como el ketorolaco acorta la duración del íleo, y Sabiston cita los AINE como alternativa a los opioides. La deambulación precoz y la sonda nasogástrica rutinaria no han demostrado acelerar su resolución, y la paciente no vomita (A, B). La neostigmina se usa en la pseudoobstrucción colónica aguda (síndrome de Ogilvie), no en el íleo simple (C). No hay signos de complicación que justifiquen reoperar (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 148 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ {
+  "k": "2b1415af94",
+  "estado": "confirmada",
+  "stem": "Un hombre sin hogar de 55 años con esquizofrenia llega a urgencias con dolor abdominal y vómitos. Refiere que el dolor comenzó ayer y ha empeorado. Está afebril, TA 122/86 mmHg y FC 116/min. Vomita contenido verde sin sangre. Su última evacuación fue hace 48 horas. El examen físico revela una cicatriz grande en el cuadrante superior derecho. El abdomen está distendido, con ruidos intestinales hiperactivos, timpánico a la percusión, con dolor difuso leve y sin rebote ni defensa. Leucocitos: 9 ×10³/μL. Una serie abdominal muestra asas intestinales dilatadas con múltiples niveles hidroaéreos. Tras la reanimación con líquidos, ¿cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Aspiración por sonda nasogástrica",
+   "Laparoscopía",
+   "Laparotomía exploradora por línea media",
+   "Eritromicina intravenosa",
+   "Tomografía abdominal"
+  ],
+  "ans": 0,
+  "why": "Es una obstrucción de intestino delgado por adherencias (cirugía previa) sin signos de estrangulación: está afebril, sin leucocitosis y sin peritonitis. Tras los líquidos IV, la descompresión con sonda nasogástrica es el estándar del manejo conservador: vacía el estómago, reduce el riesgo de aspiración y limita la distensión. La cirugía, laparoscópica o abierta, se reserva para estrangulación, peritonitis o fracaso del manejo conservador (B, C). Los procinéticos como la eritromicina están contraindicados en la obstrucción (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 144 del PDF"
+  ],
+  "nota": "La TC (E) es útil para localizar la transición y buscar estrangulación. Sabiston advierte que, si el diagnóstico ya está hecho por la clínica y la radiografía, no debe retrasar el tratamiento. La sonda nasogástrica es el paso inmediato en este caso no complicado.",
+  "tema": "intestino"
+ }
+]

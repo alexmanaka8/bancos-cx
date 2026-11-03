@@ -1,0 +1,1283 @@
+{
+ "2f365d1046": {
+  "k": "2f365d1046",
+  "estado": "corregida",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la torsión del epiplón es verdadera?",
+  "opts": [
+   "La torsión secundaria es más frecuente que la primaria.",
+   "Si se requiere cirugía, el tratamiento consiste en destorcer el epiplón y realizar una omentopexia.",
+   "El tratamiento suele consistir en observación y control del dolor.",
+   "El dolor suele localizarse en el cuadrante inferior izquierdo del abdomen.",
+   "Habitualmente produce líquido peritoneal de aspecto purulento."
+  ],
+  "ans": 0,
+  "why": "La torsión primaria (sin causa subyacente) es extremadamente rara; la secundaria, precipitada por un punto fijo (tumor, adherencia, saco herniario, foco inflamatorio), es mucho más común. El tratamiento es resecar el epiplón torcido (a menudo infartado) y corregir la causa asociada, no destorcerlo ni observar (B, C). El dolor suele ser del lado derecho, simulando apendicitis o colecistitis (D), y el líquido es serosanguinolento, no purulento (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 27 del PDF",
+   "Sabiston 21.ª ed., p. 1119-1120 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). Tanto el ABSITE (respuesta 4. A) como el Sabiston indican que el tratamiento es la resección del epiplón afectado, por lo que C es falsa.",
+  "tema": "abdomen-agudo"
+ },
+ "49c5848cf6": {
+  "k": "49c5848cf6",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las incisiones abdominales y la prevención de las hernias incisionales es verdadera?",
+  "opts": [
+   "Actualmente se recomienda una relación de 4:1 entre la longitud de la sutura y la longitud de la herida.",
+   "No existe diferencia en la aparición de hernias entre el cierre continuo y el cierre con puntos separados.",
+   "Se prefiere una sutura monofilamento permanente para el cierre continuo de la fascia.",
+   "El uso profiláctico de una malla después de una cirugía abierta de aneurisma aórtico no es eficaz.",
+   "Durante el cierre abdominal se recomienda dejar una distancia de 1 cm entre cada punto de sutura."
+  ],
+  "ans": 0,
+  "why": "La guía de la European Hernia Society recomienda cierre con puntos pequeños (small bites) y una relación longitud de sutura:longitud de herida de al menos 4:1. El cierre continuo es superior al de puntos separados (B), la sutura recomendada es monofilamento de absorción lenta como PDS, no permanente (C), la malla profiláctica sí es eficaz tras cirugía abierta de aneurisma aórtico (D) y el ensayo STITCH favorece puntos de 5 mm a 5 mm, no de 1 cm (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 33 del PDF"
+  ],
+  "tema": "suturas"
+ },
+ "02c8d0be2d": {
+  "k": "02c8d0be2d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los sarcomas retroperitoneales es verdadera?",
+  "opts": [
+   "El mejor tratamiento es la enucleación del tumor.",
+   "El pronóstico se determina principalmente por el grado histológico.",
+   "Los fibrosarcomas son el tipo más frecuente.",
+   "Las metástasis en los ganglios linfáticos son frecuentes.",
+   "La radioterapia suele ser curativa en los sarcomas pequeños."
+  ],
+  "ans": 1,
+  "why": "El grado histológico del tumor es el factor predictivo más importante del pronóstico en los sarcomas retroperitoneales. El tratamiento más eficaz es la resección completa en bloque con márgenes negativos, no la enucleación ni la radioterapia sola (A, E). Los tipos más frecuentes son el liposarcoma, el histiocitoma fibroso maligno y el leiomiosarcoma (C), y las metástasis ganglionares son raras (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 34 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción B está resaltada (la pregunta aparece dos veces en la página, ambas con B).",
+  "tema": "piel-partes-blandas"
+ },
+ "818e055ec8": {
+  "k": "818e055ec8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la rama genital del nervio genitofemoral es correcta?",
+  "opts": [
+   "Habitualmente se encuentra por delante y sobre el cordón espermático.",
+   "Proporciona sensibilidad a la base del pene y a la cara interna del muslo.",
+   "Habitualmente discurre sobre la superficie anterior del músculo oblicuo interno.",
+   "Su sección provoca la pérdida ipsilateral del reflejo cremastérico.",
+   "Frecuentemente se entremezcla con el nervio iliohipogástrico."
+  ],
+  "ans": 3,
+  "why": "La rama genital del genitofemoral (L1-L2) inerva el músculo cremáster y la piel lateral del escroto o los labios, por lo que es responsable del reflejo cremastérico; su sección lo abole del mismo lado. Discurre con los elementos del cordón, sobre el tracto iliopúbico. El nervio que va sobre el cordón es el ilioinguinal (A); la sensibilidad de la base del pene y la cara interna del muslo corresponde al ilioinguinal e iliohipogástrico (B); el que va sobre el oblicuo interno es el iliohipogástrico (C), y este no se entremezcla con el genitofemoral (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 43 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "e488ec8242": {
+  "k": "e488ec8242",
+  "estado": "confirmada",
+  "stem": "La orquitis isquémica después de una reparación de hernia inguinal se debe con mayor frecuencia a:",
+  "opts": [
+   "Una reconstrucción demasiado ajustada del anillo inguinal.",
+   "Una enfermedad testicular preexistente.",
+   "La ligadura accidental de la arteria testicular.",
+   "La extirpación completa de un saco herniario escrotal grande.",
+   "Una irrigación sanguínea anómala del testículo."
+  ],
+  "ans": 3,
+  "why": "La orquitis isquémica (congestiva) se atribuye a trombosis de las venas del plexo pampiniforme, y su factor de riesgo más identificado es la disección extensa del cordón, típicamente al disecar y extirpar por completo un saco herniario escrotal grande; por eso se recomienda seccionar el saco y dejar el distal in situ. Un anillo ajustado no es la causa (reexplorar para aflojarlo no funcionó) (A). Ligar la arteria testicular no suele producirla por la rica circulación colateral (C), y la patología testicular previa o la irrigación anómala no se consideran causas (B, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "3df070dcdd": {
+  "k": "3df070dcdd",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones describe mejor las hernias umbilicales en los niños?",
+  "opts": [
+   "Presentan un riesgo significativo de incarceración.",
+   "La reparación está indicada tan pronto como se diagnostica la hernia umbilical.",
+   "La reparación debe realizarse si la hernia persiste después de los seis meses de edad.",
+   "La mayoría se cierran espontáneamente.",
+   "La reparación solo debe realizarse si el niño presenta síntomas."
+  ],
+  "ans": 3,
+  "why": "Las hernias umbilicales infantiles son congénitas y la mayoría son pequeñas y se cierran solas hacia los 2 años, sobre todo si el defecto mide menos de 1 cm. Por eso no se reparan al diagnóstico (B); la reparación electiva se plantea si persisten a los 4-5 años, no a los 6 meses (C), o si el defecto es mayor de 2 cm, aunque no haya síntomas (E). La incarceración es muy rara (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción D está resaltada.",
+  "tema": "pediatria"
+ },
+ "4ba323257f": {
+  "k": "4ba323257f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la bilis y los cálculos biliares es verdadera?",
+  "opts": [
+   "Los ácidos biliares primarios son el desoxicólico y el litocólico.",
+   "El principal fosfolípido de la bilis es la lecitina.",
+   "La colecistectomía disminuye la secreción de sales biliares.",
+   "Los cálculos pigmentarios marrones se encuentran con mayor frecuencia en la vesícula que en el colédoco.",
+   "La bilis está compuesta por partes iguales de sales biliares, fosfolípidos y colesterol."
+  ],
+  "ans": 1,
+  "why": "El fosfolípido de la bilis es la lecitina, que junto con las sales biliares forma las micelas que solubilizan el colesterol. La bilis tiene alrededor de 80 % de sales biliares, 15 % de fosfolípidos y 5 % de colesterol, no partes iguales (E). Los ácidos primarios son el cólico y el quenodesoxicólico; desoxicólico y litocólico son secundarios (A). La colecistectomía apenas modifica la secreción de ácidos biliares (C), y los cálculos marrones se forman sobre todo en el colédoco por estasis e infección (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 55 del PDF",
+   "Sabiston 21.ª ed., p. 1269 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "ad2420033c": {
+  "k": "ad2420033c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la vesícula biliar es verdadera?",
+  "opts": [
+   "Absorbe sodio y cloro de manera pasiva.",
+   "En presencia de colelitiasis, la colecistocinina (CCK) puede provocar dolor vesicular intermitente, que aumenta y disminuye.",
+   "Mantiene un ambiente alcalino.",
+   "El glucagón favorece el vaciamiento de la vesícula biliar.",
+   "La estimulación vagal inhibe su contracción."
+  ],
+  "ans": 3,
+  "why": "Según el ABSITE, el glucagón relaja el esfínter de Oddi y crea una vía de menor resistencia que permite el vaciamiento de la vesícula al duodeno. Las demás son falsas: la vesícula absorbe NaCl por transporte activo (A), el dolor por colelitiasis es constante durante horas y no intermitente (B), secreta hidrogeniones que acidifican la bilis (C) y el vago estimula su contracción (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 55 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "58cc283baf": {
+  "k": "58cc283baf",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la anatomía biliar es verdadera?",
+  "opts": [
+   "El conducto hepático derecho suele ser más largo que el izquierdo y presenta mayor predisposición a la dilatación.",
+   "El drenaje venoso de la vesícula biliar se realiza, en la mayoría de los casos, a través de una vena cística que desemboca en la vena porta.",
+   "Las válvulas de Heister desempeñan un papel importante en la función de la vesícula como reservorio de bilis.",
+   "El colédoco y el conducto pancreático suelen unirse fuera de la pared duodenal.",
+   "La irrigación arterial del colédoco deriva principalmente de las arterias hepática izquierda y gástrica derecha."
+  ],
+  "ans": 3,
+  "why": "En la mayoría de las personas (alrededor de tres cuartos según el ABSITE) el colédoco y el conducto pancreático principal se unen junto al duodeno y atraviesan su pared como un conducto común hasta la ampolla de Vater. El conducto hepático más largo y que más se dilata es el izquierdo (A). Las venas de la vesícula drenan directamente al parénquima hepático (B). Las válvulas de Heister no tienen función valvular real (C). El colédoco se irriga por arterias a las 3 y 9 horarias, desde la hepática derecha y la retroduodenal (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 56 del PDF",
+   "Latarjet, Anatomía humana tomo 2, p. 499 del PDF"
+  ],
+  "nota": "Matiz: Latarjet describe que ambos conductos se unen en contacto con el duodeno y cruzan juntos su pared en el 90 % de los casos; el Sabiston (p. 1528) define la unión pancreatobiliar anómala como la fusión antes de la pared duodenal con un canal común largo. Aun así, D es la única opción defendible porque las otras cuatro son claramente falsas.",
+  "tema": "vesicula"
+ },
+ "8ba3e84ff8": {
+  "k": "8ba3e84ff8",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años presenta quemaduras de tercer grado que afectan el 50 % de la superficie corporal total. En el séptimo día de hospitalización desarrolla fiebre, leucocitosis marcada y dolor en el cuadrante superior derecho. Su presión arterial es de 130/80 mmHg y su frecuencia cardíaca es de 110 latidos por minuto. La ecografía muestra una vesícula distendida, engrosamiento de su pared y presencia de barro biliar, pero no evidencia cálculos. Se inician antibióticos. ¿Cuál debe ser el siguiente paso en el manejo?",
+  "opts": [
+   "Colecistectomía laparoscópica.",
+   "Tomografía computarizada.",
+   "Gammagrafía hepatobiliar con ácido iminodiacético (HIDA).",
+   "Colecistostomía percutánea.",
+   "Endoscopia digestiva alta."
+  ],
+  "ans": null,
+  "why": "Es una colecistitis alitiásica en un gran quemado, ya diagnosticada por ecografía, así que no hacen falta TC, HIDA ni endoscopia (B, C, E). La duda está entre A y D. El ABSITE marca colecistectomía laparoscópica (A) porque el paciente está hemodinámicamente estable y reserva la colecistostomía para quien está demasiado grave para operarse. El Sabiston señala que la colecistectomía es el tratamiento, pero que en estos pacientes graves la colecistostomía percutánea es mucho más atractiva y factible (más del 90 % mejora). Un quemado del 50 % en UCI es un paciente grave, así que ambas opciones son defendibles.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57 del PDF",
+   "Sabiston 21.ª ed., p. 1527 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado), que coincide con la clave del ABSITE. El Sabiston favorece la colecistostomía percutánea (D) en pacientes críticos.",
+  "tema": "vesicula"
+ },
+ "d859087e0f": {
+  "k": "d859087e0f",
+  "estado": "confirmada",
+  "stem": "Durante una colecistectomía laparoscópica, se observa salida de bilis cerca de la unión del colédoco con el conducto cístico. Al convertir a cirugía abierta, se identifica un desgarro longitudinal de 3 mm en la pared anterolateral de la porción distal del conducto hepático común. El diámetro del conducto es de 7 mm. ¿Cuál es el manejo indicado?",
+  "opts": [
+   "Reparación primaria de la lesión sin tubo en T.",
+   "Reparación primaria de la lesión sobre un tubo en T.",
+   "Reparación primaria con colocación de un tubo en T a través de una coledocotomía separada.",
+   "Hepaticoyeyunostomía.",
+   "Coledocoduodenostomía."
+  ],
+  "ans": 1,
+  "why": "Las lesiones pequeñas, limpias y que afectan menos del 50 % de la circunferencia de un conducto de buen calibre se reparan de forma primaria sobre un tubo en T, porque probablemente conservan la irrigación de las 3 y 9 horarias. El tubo en T por coledocotomía separada se reserva para lesiones térmicas (C). La hepaticoyeyunostomía en Y de Roux es para sección completa o casi completa, o para conductos muy finos (D), y la coledocoduodenostomía para lesiones distales del colédoco (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57 del PDF"
+  ],
+  "tema": "via-biliar"
+ },
+ "1d8b5e7f04": {
+  "k": "1d8b5e7f04",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el uso de la colangiografía intraoperatoria durante la colecistectomía laparoscópica es verdadera?",
+  "opts": [
+   "Ayuda a prevenir la sección accidental del colédoco.",
+   "Es el mejor método para identificar cálculos clínicamente significativos en el colédoco.",
+   "Su uso rutinario está justificado por su capacidad para identificar anomalías anatómicas de los conductos hepáticos.",
+   "Su uso rutinario ayuda a garantizar la extracción completa de la vesícula y del conducto cístico.",
+   "Su uso rutinario es innecesario."
+  ],
+  "ans": 4,
+  "why": "El uso rutinario de la colangiografía intraoperatoria es controvertido y la mayoría de los cirujanos lo considera innecesario; muchos prefieren el uso selectivo junto con la visión crítica de seguridad. Probablemente no evita la lesión del colédoco, aunque permite reconocerla antes (A). Los cálculos coledocianos suelen sospecharse antes de operar por pruebas hepáticas, colédoco dilatado o pancreatitis biliar (B), y no hay ensayos que justifiquen su uso rutinario por anatomía o por extracción completa (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57-58 del PDF"
+  ],
+  "tema": "vesicula"
+ },
+ "b1db00f39b": {
+  "k": "b1db00f39b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones describe mejor el papel del drenaje biliar preoperatorio antes de una operación de Whipple en un paciente con ictericia obstructiva?",
+  "opts": [
+   "Se ha demostrado que disminuye la tasa de colangitis.",
+   "Se ha demostrado que aumenta la tasa de infecciones de la herida quirúrgica.",
+   "Debe realizarse de forma rutinaria si la bilirrubina es superior a 8 mg/dL.",
+   "Se ha demostrado que acorta la estancia hospitalaria.",
+   "Se ha demostrado que disminuye la mortalidad."
+  ],
+  "ans": 1,
+  "why": "Los metaanálisis no muestran menos morbilidad ni mortalidad con el drenaje biliar preoperatorio (stent por CPRE) antes del Whipple. Su uso rutinario aumenta las complicaciones infecciosas, incluida la infección de herida (10 % frente a 4 %), y la fístula pancreática. Por eso se usa solo de forma selectiva (colangitis, prurito intratable), no según una cifra de bilirrubina (C), y no se ha demostrado que reduzca la colangitis, la estancia ni la mortalidad (A, D, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 58 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción B está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ "ff8109ccbd": {
+  "k": "ff8109ccbd",
+  "estado": "confirmada",
+  "stem": "Un hombre de 24 años presenta heces acólicas y orina de color cola. La fosfatasa alcalina es de 2000 UI/L, la AST de 78 UI/L, la ALT de 88 UI/L y la bilirrubina total de 2,1 mg/dL. La biopsia hepática muestra fibrosis concéntrica periductal alrededor de los conductos biliares macroscópicos. Es positivo para anticuerpos anticitoplasma de neutrófilos con patrón perinuclear (p-ANCA). ¿Cuál de las siguientes afirmaciones sobre esta enfermedad es verdadera?",
+  "opts": [
+   "Se asocia más con la enfermedad de Crohn que con la colitis ulcerosa.",
+   "Debe determinarse el antígeno carbohidrato 19-9 (CA 19-9).",
+   "La CPRE mostrará predominantemente estrechamientos irregulares de la vía biliar intrahepática.",
+   "Los síntomas suelen controlarse adecuadamente con tratamiento médico.",
+   "Es más frecuente en mujeres."
+  ],
+  "ans": 1,
+  "why": "Es una colangitis esclerosante primaria, que tiene un riesgo de colangiocarcinoma del 10-20 %; por eso a todos los pacientes se les debe medir el CA 19-9. Su asociación más fuerte es con la colitis ulcerosa (alrededor de dos tercios), no con el Crohn (A). Produce estenosis irregulares de todo el árbol biliar, no solo intrahepáticas (C). La mayoría acaba necesitando tratamiento invasivo, como stents o trasplante (D). Es dos veces más frecuente en hombres (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 59 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción B está marcada con un círculo rojo.",
+  "tema": "via-biliar"
+ },
+ "4efcbb15b7": {
+  "k": "4efcbb15b7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es una característica del cáncer de vesícula biliar?",
+  "opts": [
+   "Presenta depósitos de colesterol moteados en la pared vesicular.",
+   "Presenta nódulos engrosados de la mucosa y de la capa muscular.",
+   "Es más frecuente en hombres.",
+   "Se asocia con mayor probabilidad a cálculos biliares grandes que a pequeños.",
+   "El cáncer que invade la capa muscular se trata únicamente con colecistectomía."
+  ],
+  "ans": 3,
+  "why": "Alrededor del 90 % de los cánceres de vesícula tienen cálculos, y los cálculos grandes y únicos conllevan más riesgo que los pequeños y múltiples, probablemente por mayor inflamación mucosa. Los depósitos de colesterol moteados son colesterolosis (A) y los nódulos de mucosa y muscular, adenomiomatosis (B). Es 2-3 veces más frecuente en mujeres (C). El tumor que invade la muscular (T1b) requiere resección de los segmentos IVb y V con linfadenectomía, no solo colecistectomía (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 59 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción D está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ "f71c1557a8": {
+  "k": "f71c1557a8",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el mejor tratamiento de un tumor de Klatskin localizado?",
+  "opts": [
+   "Pancreatoduodenectomía (procedimiento de Whipple).",
+   "Resección de toda la vía biliar extrahepática, con resección hepática si es necesaria.",
+   "Resección del tercio medio de la vía biliar con hepaticoyeyunostomía.",
+   "Quimioterapia.",
+   "Radioterapia seguida de quimioterapia."
+  ],
+  "ans": 1,
+  "why": "El tumor de Klatskin es un colangiocarcinoma perihiliar; la cirugía es lo único que ofrece supervivencia a largo plazo si no hay diseminación (no la quimio ni la radioterapia: D, E). Se reseca toda la vía biliar extrahepática con linfadenectomía portal y hepaticoyeyunostomías en Y de Roux, añadiendo hepatectomía si hace falta para lograr márgenes negativos; resecar solo un segmento medio no basta (C). El Whipple es para tumores del colédoco distal (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 60 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción B está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ "004818d0b8": {
+  "k": "004818d0b8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el colangiocarcinoma es verdadera?",
+  "opts": [
+   "La mayoría de los casos son intrahepáticos.",
+   "El colangiocarcinoma tipo I de Bismuth-Corlette se encuentra por encima de la confluencia de los conductos hepáticos derecho e izquierdo.",
+   "La mayoría de los pacientes se beneficia de quimiorradioterapia adyuvante después de la cirugía.",
+   "Se origina por transformación maligna de los hepatocitos.",
+   "La resección con derivación biliodigestiva se considera un tratamiento apropiado en pacientes con enfermedad en estadio temprano."
+  ],
+  "ans": 4,
+  "why": "En la enfermedad temprana y resecable, el tratamiento apropiado es la resección con reconstrucción biliodigestiva. El colangiocarcinoma se origina en el epitelio de los conductos biliares, no en los hepatocitos (D). La mayoría es extrahepático; solo alrededor del 20 % es intrahepático (A). El tipo I de Bismuth-Corlette está por debajo de la confluencia, no por encima (B). No se ha demostrado que la quimiorradioterapia adyuvante beneficie a la mayoría (C).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 60 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción E está marcada con un círculo rojo.",
+  "tema": "onco-digestivo"
+ },
+ "9df8e75c50": {
+  "k": "9df8e75c50",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el mejor método para prevenir un primer episodio de sangrado en un paciente con várices esofágicas grandes conocidas?",
+  "opts": [
+   "Betabloqueadores.",
+   "Colocación de una derivación portosistémica intrahepática transyugular (TIPS).",
+   "Escleroterapia.",
+   "Ligadura endoscópica.",
+   "Colocación de una derivación portosistémica selectiva."
+  ],
+  "ans": null,
+  "why": "En la profilaxis primaria de várices medianas o grandes, tanto los betabloqueantes no selectivos (A) como la ligadura endoscópica con bandas (D) son eficaces. La escleroterapia, el TIPS y las derivaciones no sirven como profilaxis primaria (B, C, E). El ABSITE elige la ligadura porque dos ensayos la mostraron algo más eficaz que el propranolol. En cambio, el Sabiston 21.ª ed. recomienda indistintamente betabloqueo no selectivo (propranolol, nadolol, carvedilol) o ligadura, y las guías actuales también aceptan ambas. Con dos opciones defendibles, la pregunta no tiene una sola respuesta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 70 del PDF",
+   "Sabiston 21.ª ed., p. 1183 del PDF"
+  ],
+  "nota": "En el original está marcada con círculo rojo la D (ligadura), que coincide con el ABSITE. El Sabiston, más reciente, pone el betabloqueo al mismo nivel. Se corrigió el texto: faltaba «en un» en el enunciado y «(TIPS)» en la opción B.",
+  "tema": "hipertension-portal"
+ },
+ "8a7f1f91de": {
+  "k": "8a7f1f91de",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la vena porta es verdadera?",
+  "opts": [
+   "Normalmente tiene una o dos válvulas.",
+   "Aporta aproximadamente un tercio de la sangre que llega al hígado.",
+   "Su presión normal es de 10 a 12 mmHg.",
+   "Se forma por la confluencia de las venas mesentérica inferior y esplénica.",
+   "En el ligamento hepatoduodenal, suele encontrarse posterior tanto al conducto biliar como a la arteria hepática."
+  ],
+  "ans": 4,
+  "why": "En el ligamento hepatoduodenal la vena porta suele estar detrás del colédoco y de la arteria hepática (regla nemotécnica en inglés: «Portal is Posterior»). La vena porta no tiene válvulas (A), aporta alrededor del 75 % del flujo hepático (B), su presión normal es de 3-5 mmHg (C) y se forma por la unión de la mesentérica superior con la esplénica (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 70 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción E está marcada con un círculo rojo.",
+  "tema": "hipertension-portal"
+ },
+ "0ff4761bab": {
+  "k": "0ff4761bab",
+  "estado": "confirmada",
+  "stem": "La hiperplasia nodular focal (HNF):",
+  "opts": [
+   "Suele ser sintomática.",
+   "Generalmente se localiza en la región central del hígado.",
+   "Se confirma mejor mediante tomografía computarizada de alta resolución.",
+   "Presenta un riesgo importante de ruptura.",
+   "Se considera consecuencia de una alteración embrionaria del flujo sanguíneo hepático."
+  ],
+  "ans": 4,
+  "why": "Se postula que la HNF se debe a una alteración embrionaria temprana del flujo sanguíneo hepático, lo que apoya la presencia de nódulos regenerativos. Suele ser un hallazgo incidental en pacientes asintomáticos (A), se localiza en la periferia del hígado (B), no tiene riesgo de ruptura ni de malignización (D) y el estudio de elección para confirmarla es la resonancia magnética, no la TC (C).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 70 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción E está marcada con un círculo rojo.",
+  "tema": "higado"
+ },
+ "8abd3548d9": {
+  "k": "8abd3548d9",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los adenomas hepáticos es verdadera?",
+  "opts": [
+   "No se presentan en hombres.",
+   "Suelen mostrar captación elevada («caliente») en la gammagrafía hepática con coloide de azufre.",
+   "El realce rápido del contraste en la tomografía permite diferenciarlos de la HNF.",
+   "El riesgo de ruptura parece estar relacionado con el tamaño del tumor.",
+   "Contienen abundantes células no parenquimatosas, como las células de Kupffer."
+  ],
+  "ans": 3,
+  "why": "El riesgo de hemorragia, ruptura y malignización del adenoma hepático depende del tamaño: es raro en los menores de 5 cm, y por eso se resecan los mayores de 5 cm, los sintomáticos o los que crecen. Son raros en hombres, pero aparecen con anabolizantes o glucogenosis (A). Tanto el adenoma como la HNF realzan en fase arterial, así que eso no los distingue (C). Al carecer de células de Kupffer (E), el adenoma aparece «frío» en la gammagrafía con coloide de azufre, mientras que la HNF capta (B).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 71 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 61 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción D está marcada con un círculo rojo.",
+  "tema": "higado"
+ },
+ "67ca8ca16e": {
+  "k": "67ca8ca16e",
+  "estado": "confirmada",
+  "stem": "El carcinoma fibrolamelar del hígado:",
+  "opts": [
+   "Se asocia estrechamente con la hepatitis B.",
+   "Se presenta principalmente en hombres mayores.",
+   "Produce una elevación marcada de la AFP.",
+   "Suele contener una cicatriz central.",
+   "Tiene peor pronóstico que el carcinoma hepatocelular convencional."
+  ],
+  "ans": 3,
+  "why": "El carcinoma fibrolamelar es un tumor bien delimitado que puede tener una cicatriz fibrosa central; a diferencia de la de la HNF, esta no realza con contraste. Afecta a jóvenes (mediana de 25 años), no a hombres mayores (B). La mayoría no tiene cirrosis, no es portadora de hepatitis B y no eleva la AFP (A, C). Su pronóstico es mejor que el del hepatocarcinoma convencional, sobre todo porque no hay cirrosis (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 72 del PDF"
+  ],
+  "nota": "La extracción no registró clave, pero en el original la opción D está marcada con un círculo rojo. Se completó la opción E («convencional»), que faltaba en la extracción.",
+  "tema": "onco-digestivo"
+ },
+ "f5b88eab6e": {
+  "k": "f5b88eab6e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el síndrome de Budd-Chiari es verdadera?",
+  "opts": [
+   "Puede beneficiarse de angioplastia percutánea y colocación de un stent.",
+   "El diagnóstico se establece mejor mediante venografía portal.",
+   "La ictericia se debe a insuficiencia hepática presinusoidal.",
+   "La colocación de TIPS está contraindicada.",
+   "Las pruebas de función hepática suelen ser normales."
+  ],
+  "ans": 0,
+  "why": "El Budd-Chiari se debe a trombosis de las venas hepáticas o de la cava intrahepática; tras la heparinización, el manejo inicial es la angioplastia percutánea con o sin stent, y el TIPS también se ha usado con éxito (por eso D es falsa). El diagnóstico se hace con TC y ecografía dúplex de las venas hepáticas, no con venografía portal (B). La hipertensión portal es postsinusoidal, no presinusoidal (C), y las pruebas hepáticas suelen estar alteradas (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 73 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "49a35511e0": {
+  "k": "49a35511e0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el papel de la colangiopancreatografía retrógrada endoscópica (CPRE) y el momento de la cirugía en la pancreatitis biliar aguda es verdadera?",
+  "opts": [
+   "En la pancreatitis leve, la colecistectomía laparoscópica puede realizarse de manera segura dentro de las primeras 48 horas del ingreso.",
+   "La CPRE con esfinterotomía debe utilizarse de manera rutinaria antes de la cirugía.",
+   "Si la bilirrubina total no se normaliza, debe realizarse una CPRE con esfinterotomía antes de la operación.",
+   "En la pancreatitis grave, la colecistectomía temprana reduce la morbilidad y la mortalidad.",
+   "Existe un riesgo mínimo de empeorar la pancreatitis al realizar una CPRE."
+  ],
+  "ans": 0,
+  "why": "En la pancreatitis biliar leve a moderada, la colecistectomía laparoscópica temprana (dentro de las 48 h) es segura y evita recurrencias. La CPRE rutinaria no está indicada: hay pocos cálculos residuales y riesgo de pancreatitis post-CPRE (B, E). La CPRE preoperatoria se reserva para colangitis u obstrucción clara (bilirrubina persistentemente >4 mg/dL); en los demás casos se hace colangiografía intraoperatoria (C). En la pancreatitis grave, la colecistectomía temprana aumenta la morbimortalidad (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 85 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "02a061f8ad": {
+  "k": "02a061f8ad",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los quistes pancreáticos es verdadera?",
+  "opts": [
+   "El cistoadenoma seroso tiene potencial maligno.",
+   "Los pacientes asintomáticos con neoplasia papilar mucinosa intraductal (IPMN) de tipo mixto deben recibir tratamiento conservador.",
+   "La pérdida de peso en pacientes con IPMN se atribuye principalmente a una concentración elevada de TNF-alfa.",
+   "El cistoadenoma mucinoso suele aparecer en mujeres y localizarse en el cuerpo o la cola del páncreas.",
+   "El cistoadenoma mucinoso asintomático puede manejarse repitiendo las imágenes en seis meses."
+  ],
+  "ans": 3,
+  "why": "El cistoadenoma mucinoso es premaligno, predomina en mujeres, se localiza sobre todo en el cuerpo y la cola, y siempre debe resecarse (por eso E es falsa). El cistoadenoma seroso es benigno y solo se reseca si da síntomas (A). La IPMN de tipo mixto tiene alto riesgo y debe resecarse (B). La pérdida de peso en la IPMN se debe a insuficiencia exocrina, no a TNF-alfa (C).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 86 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "dc8d4dcbfd": {
+  "k": "dc8d4dcbfd",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el páncreas divisum es verdadera?",
+  "opts": [
+   "El conducto de Santorini termina en un fondo de saco ciego.",
+   "La porción inferior de la cabeza del páncreas drena a través del conducto de Santorini.",
+   "La mayor parte del páncreas drena a través del conducto de Santorini.",
+   "El conducto de Wirsung drena a través de la papila menor.",
+   "Los conductos de Wirsung y Santorini no llegan a desarrollarse."
+  ],
+  "ans": 2,
+  "why": "En el páncreas divisum, los conductos de Wirsung y Santorini no se fusionan. Por eso la mayor parte del páncreas drena por el Santorini a través de la papila menor. Que no se fusionen no significa que no se desarrollen (E). La porción inferior de la cabeza y el uncinado drenan por el Wirsung a la papila mayor (B, D). El conducto de Santorini que termina en fondo ciego es otra variante, no el divisum (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 86 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: C (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "fc181ecd07": {
+  "k": "fc181ecd07",
+  "estado": "confirmada",
+  "stem": "El tratamiento definitivo preferido para la pancreatitis aguda recurrente debida a páncreas divisum es:",
+  "opts": [
+   "Pancreaticoyeyunostomía lateral (procedimiento de Puestow).",
+   "Pancreatoduodenectomía (procedimiento de Whipple).",
+   "Esfinterotomía de la papila menor.",
+   "Esfinterotomía de la papila mayor y septotomía del conducto pancreático.",
+   "Pancreatectomía distal."
+  ],
+  "ans": 2,
+  "why": "En la pancreatitis aguda recurrente por páncreas divisum, el conducto dorsal (Santorini) drena la mayor parte de la glándula a través de la papila menor. Por eso el tratamiento preferido es la esfinterotomía de la papila menor. Como el conducto dorsal rara vez está muy dilatado, las derivaciones tipo Puestow fracasan (A), y el Whipple es excesivo (B). La papila mayor drena una porción menor de la glándula (D), y la pancreatectomía distal no suele ser necesaria (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 86 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: C (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "d88f6378f3": {
+  "k": "d88f6378f3",
+  "estado": "confirmada",
+  "stem": "Una mujer caquéctica de 35 años presenta episodios de diarrea acuosa intensa que han requerido múltiples hospitalizaciones para reposición de líquidos y electrolitos durante varios meses. Los cultivos de heces son repetidamente negativos y no tiene antecedentes de viajes al extranjero. En el examen se palpa una masa en el epigastrio y el cuadrante superior derecho. La tomografía muestra una masa pancreática voluminosa que se extiende hacia la vena mesentérica superior y los órganos adyacentes. ¿Cuál es la mejor opción paliativa para controlar sus síntomas?",
+  "opts": [
+   "Octreótido.",
+   "Estreptozocina.",
+   "Embolización.",
+   "Quimioterapia.",
+   "Radioterapia."
+  ],
+  "ans": 0,
+  "why": "Diarrea acuosa masiva con masa pancreática voluminosa: VIPoma (síndrome WDHA o de Verner-Morrison). El mejor control médico de los síntomas se logra con octreótido, un análogo de la somatostatina. La quimioterapia no tiene papel (D). La estreptozocina es tóxica para las células beta y se usa en el insulinoma (B). La embolización y la citorreducción ayudan, pero no son la mejor opción paliativa para los síntomas (C, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 88 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "004ab0a20b": {
+  "k": "004ab0a20b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 60 años presenta dolor epigástrico crónico e ictericia. La tomografía revela inflamación difusa del páncreas con compresión del colédoco intrapancreático. La biopsia con aguja muestra fibrosis difusa e infiltrado de células plasmáticas y linfocitos. Los niveles séricos de IgG están elevados. ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Procedimiento de Whipple.",
+   "Corticoides.",
+   "Quimioterapia.",
+   "Hepaticoyeyunostomía.",
+   "CPRE con colocación de un stent."
+  ],
+  "ans": 1,
+  "why": "Infiltrado linfoplasmocitario, fibrosis e IgG elevada: pancreatitis autoinmune. El tratamiento de elección son los corticoides, a los que responde bien. No requiere cirugía, quimioterapia ni procedimientos endoscópicos o derivativos (A, C, D, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 90 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "9a768f0558": {
+  "k": "9a768f0558",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años presenta pancreatitis por cálculos biliares. ¿Cuál es el mejor predictor de la persistencia de un cálculo residual en el colédoco?",
+  "opts": [
+   "Elevación persistente de la bilirrubina total.",
+   "Colédoco dilatado al ingreso.",
+   "Elevación persistente de la fosfatasa alcalina.",
+   "Elevación persistente de la amilasa sérica.",
+   "Dolor abdominal persistente."
+  ],
+  "ans": 0,
+  "why": "En la pancreatitis biliar, el mejor predictor de un cálculo residual en el colédoco es la elevación persistente de la bilirrubina total. La fosfatasa alcalina puede elevarse, pero predice peor (C). La amilasa no se relaciona (D). La dilatación del colédoco al ingreso es frecuente por la obstrucción transitoria y no es específica (B). El dolor persistente tiene múltiples causas (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 91 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "bb877d59af": {
+  "k": "bb877d59af",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el abordaje quirúrgico, la anatomía o la irrigación sanguínea del esófago es verdadera?",
+  "opts": [
+   "La capa muscular longitudinal externa es una prolongación del músculo cricofaríngeo.",
+   "El esófago cervical recibe irrigación de la arteria tiroidea inferior.",
+   "El punto más estrecho del esófago se encuentra a nivel del arco aórtico.",
+   "Las ramas de las arterias intercostales constituyen la principal irrigación del esófago torácico.",
+   "El abordaje quirúrgico estándar del esófago medio es mediante toracotomía izquierda."
+  ],
+  "ans": 1,
+  "why": "El esófago cervical se irriga por ramas del tronco tirocervical, sobre todo la arteria tiroidea inferior. La capa circular interna, no la longitudinal externa, es la que continúa al cricofaríngeo (A). El punto más estrecho es el cricofaríngeo, no el arco aórtico (C). El esófago torácico recibe sobre todo ramas directas de la aorta (D). Los tercios proximal y medio se abordan por toracotomía derecha, porque la aorta estorba por la izquierda (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 110 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "20d271aaab": {
+  "k": "20d271aaab",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el síndrome de Mallory-Weiss es verdadera?",
+  "opts": [
+   "El hallazgo patológico principal es la perforación espontánea del esófago.",
+   "Habitualmente ocurre en el lado derecho.",
+   "Suele asociarse con aire en el mediastino.",
+   "Debe realizarse una endoscopia para confirmar el diagnóstico.",
+   "El taponamiento esofágico con balón es una opción apropiada en casos de sangrado persistente."
+  ],
+  "ans": 3,
+  "why": "El desgarro de Mallory-Weiss es una lesión mucosa de espesor parcial, por lo general en el lado izquierdo, 3–5 cm por encima de la unión gastroesofágica. Debe confirmarse con endoscopia, que además permite tratarlo. No es una perforación de espesor total (eso es el Boerhaave) ni suele dar neumomediastino (A, B, C). El taponamiento con balón está contraindicado: puede convertir el desgarro en una laceración transmural y el sangrado suele ser arterial (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "843f0db882": {
+  "k": "843f0db882",
+  "estado": "confirmada",
+  "stem": "En relación con el esófago de Barrett, ¿cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Es una anomalía congénita.",
+   "Ocurre con mayor frecuencia en mujeres.",
+   "Al diagnosticarse, debe tratarse con cirugía antirreflujo para prevenir el cáncer.",
+   "El diagnóstico requiere que un segmento de 3 cm de epitelio escamoso sea reemplazado por epitelio cilíndrico.",
+   "Se caracteriza por la presencia de células caliciformes."
+  ],
+  "ans": 4,
+  "why": "El sello del esófago de Barrett es la metaplasia intestinal con células caliciformes en la biopsia. Es adquirido, no congénito (A), y predomina en varones en proporción 3:1 (B). Sin displasia, la cirugía antirreflujo no previene el cáncer mejor que el tratamiento médico (C). El diagnóstico actual no exige un segmento mínimo de 3 cm (D): existe el Barrett de segmento corto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "1d1cbc466b": {
+  "k": "1d1cbc466b",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el esófago de Barrett es verdadera?",
+  "opts": [
+   "Los inhibidores de la bomba de protones son más eficaces que los antagonistas H2.",
+   "Las restricciones dietéticas utilizadas en pacientes con ERGE no son útiles.",
+   "Los pacientes con esófago de Barrett de segmento corto y largo tienen un riesgo similar de displasia de alto grado.",
+   "Está contraindicado utilizar inhibidores de la bomba de protones en dosis altas junto con aspirina.",
+   "Photofrin es una modalidad terapéutica útil."
+  ],
+  "ans": null,
+  "why": "La opción A es defendible: los IBP son más eficaces que los anti-H2 en el Barrett (ABSITE). Pero E también lo es: la terapia fotodinámica con porfímero sódico (Photofrin) logró, en un ensayo aleatorizado fase III, ablación completa de la displasia de alto grado en el 77% frente al 39% con omeprazol solo, y menos adenocarcinomas (13% frente a 28%). El Sabiston la menciona como técnica ablativa, solo que menos eficaz y con más estenosis que la radiofrecuencia. Las demás son falsas: la dieta antirreflujo sí ayuda (B), el Barrett de segmento largo tiene más riesgo (C) y el ensayo AspECT avala combinar IBP en dosis altas con aspirina (D). Con dos opciones defendibles, la clave no se puede fijar con seguridad.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 112 del PDF",
+   "Sabiston 21.ª ed., p. 1068 del PDF",
+   "Overholt BF et al. Gastrointest Endosc 2005;62(4):488-498, PMID 16185958 (Europe PMC)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF). El ABSITE (fuente de esta pregunta) da A y afirma que Photofrin no ha demostrado utilidad, pero esa afirmación contradice el ensayo aleatorizado fase III publicado. Si el examen copia el ABSITE, la respuesta esperada será A."
+ },
+ "d14f815cde": {
+  "k": "d14f815cde",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre una hernia paraesofágica es verdadera?",
+  "opts": [
+   "Se asocia con anemia.",
+   "No implica riesgo de incarceración ni estrangulación.",
+   "El diagnóstico no se establece fácilmente mediante endoscopia digestiva alta.",
+   "Habitualmente está causada por una lesión traumática.",
+   "Rara vez requiere reparación quirúrgica."
+  ],
+  "ans": 0,
+  "why": "La hernia paraesofágica (tipo II) produce erosiones en la mucosa herniada (úlceras de Cameron), con pérdida crónica de sangre y anemia hasta en un tercio de los pacientes. Sí hay riesgo de incarceración y estrangulación, por lo que suele indicarse la reparación electiva (B, E). La endoscopia en retroflexión la diagnostica con facilidad (C). No suele deberse a un traumatismo (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "961302ddf8": {
+  "k": "961302ddf8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes condiciones predispone al desarrollo de enfermedad esofágica?",
+  "opts": [
+   "Longitud del EEI de 3 cm.",
+   "Presión de reposo del EEI de 8 mmHg.",
+   "Presión de reposo del esfínter esofágico superior de 70 mmHg.",
+   "Longitud intraabdominal del EEI inferior a 1 cm.",
+   "Relajación del EEI durante la deglución."
+  ],
+  "ans": 3,
+  "why": "Un EEI defectuoso tiene presión de reposo <6 mmHg, longitud total <2 cm o longitud intraabdominal <1 cm. Una longitud abdominal <1 cm predispone al reflujo. Una longitud de 3 cm y una presión de 8 mmHg son normales (A, B; rango normal 6–26 mmHg). Una presión del EES de 60–80 mmHg es normal (C). La relajación del EEI con la deglución es fisiológica (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "27cfca74c3": {
+  "k": "27cfca74c3",
+  "estado": "confirmada",
+  "stem": "Un hombre de 52 años con cirrosis y várices esofágicas conocidas presenta hematemesis abundante. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Los betabloqueadores son ineficaces para prevenir el resangrado.",
+   "El siguiente paso más importante es la endoscopia, tanto diagnóstica como terapéutica.",
+   "Los antibióticos profilácticos no mejoran la supervivencia.",
+   "La administración temprana de fármacos vasoactivos no mejora los resultados.",
+   "Se ha demostrado que la ligadura endoscópica con bandas es superior a la escleroterapia endoscópica."
+  ],
+  "ans": 4,
+  "why": "Varios ensayos aleatorizados demostraron que la ligadura con bandas es superior a la escleroterapia, tanto para controlar el sangrado como en seguridad. El primer paso no es la endoscopia sino el ABC: vía aérea y reanimación (B). Los vasoactivos tempranos (octreótido) mejoran los resultados (D). Las quinolonas profilácticas mejoran la supervivencia (C). Los betabloqueadores previenen el resangrado (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: E (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "0f2d0149cb": {
+  "k": "0f2d0149cb",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el divertículo de Zenker es verdadera?",
+  "opts": [
+   "Es un divertículo verdadero.",
+   "Se diagnostica mejor mediante esofagoscopia.",
+   "Es poco probable que cause aspiración.",
+   "Es un divertículo por pulsión.",
+   "Los divertículos pequeños, menores de 3 cm, se tratan mejor por vía endoscópica."
+  ],
+  "ans": 3,
+  "why": "El divertículo de Zenker es un falso divertículo por pulsión que se forma en el triángulo de Killian. No es verdadero porque no contiene todas las capas (A). Se diagnostica con esofagograma baritado, no con endoscopia (B), y causa aspiración con frecuencia (C). La técnica endoscópica con grapadora está contraindicada en divertículos menores de 3 cm (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 113 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 114 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "f13369cbc8": {
+  "k": "f13369cbc8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la diarrea posterior a la vagotomía es verdadera?",
+  "opts": [
+   "Se trata eficazmente con octreótido.",
+   "No mejora con colestiramina oral.",
+   "Las manifestaciones cardiovasculares son frecuentes.",
+   "La mayoría de los pacientes requiere la creación de un segmento yeyunal invertido.",
+   "La diarrea puede mejorar con la administración de codeína."
+  ],
+  "ans": 4,
+  "why": "La diarrea posvagotomía mejora con medidas dietéticas, colestiramina, que liga sales biliares (por eso B es falsa), y fármacos que enlentecen el tránsito, como loperamida y codeína. El octreótido no es eficaz y puede empeorarla al aumentar la esteatorrea (A). A diferencia del dumping, no se acompaña de síntomas cardiovasculares (C). El segmento yeyunal invertido se reserva para casos muy raros refractarios (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 127 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "dee0770714": {
+  "k": "dee0770714",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los tumores del estroma gastrointestinal (GIST) es verdadera?",
+  "opts": [
+   "La extensión del tumor se determina mejor antes de la cirugía mediante endoscopia.",
+   "Se originan en células del músculo liso.",
+   "El potencial maligno se determina fácilmente mediante características histológicas.",
+   "Pueden tratarse mediante resección en cuña laparoscópica.",
+   "Rara vez se presentan con hemorragia gastrointestinal."
+  ],
+  "ans": 3,
+  "why": "Los GIST se tratan con resección en cuña con márgenes de 1 cm, que puede hacerse por laparoscopia, sin linfadenectomía. Se originan en las células de Cajal (mesenquimales), no en músculo liso (B). La extensión se valora mejor con TC, porque son submucosos y la endoscopia es poco fiable (A). El potencial maligno depende del tamaño y del índice mitótico, no de rasgos histológicos sencillos (C). Con frecuencia se presentan con hemorragia digestiva (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 129 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "521dedb10f": {
+  "k": "521dedb10f",
+  "estado": "confirmada",
+  "stem": "¿Cuál describe la asociación entre el nódulo de la hermana Mary Joseph y el cáncer gástrico?",
+  "opts": [
+   "Ganglio linfático metastásico axilar izquierdo.",
+   "Ganglio linfático metastásico supraclavicular izquierdo.",
+   "Masa ovárica secundaria a metástasis gástrica.",
+   "Metástasis umbilical que sugiere carcinomatosis.",
+   "Nódulo anterior palpable en el examen rectal que sugiere metástasis por caída."
+  ],
+  "ans": 3,
+  "why": "El nódulo de la hermana Mary Joseph es una metástasis umbilical que sugiere carcinomatosis. El ganglio axilar izquierdo es el nódulo irlandés (A). El supraclavicular izquierdo es el de Virchow (B). La masa ovárica es el tumor de Krukenberg (C). El nódulo palpable al tacto rectal es el escalón de Blumer (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 131 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "18042f92b9": {
+  "k": "18042f92b9",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los pólipos gástricos es verdadera?",
+  "opts": [
+   "Los pólipos de las glándulas fúndicas tienen el mayor riesgo de contener células malignas.",
+   "Los pólipos gástricos adenomatosos son el tipo más frecuente.",
+   "Los pólipos hamartomatosos se asocian con infección por H. pylori.",
+   "Los pólipos heterotópicos se presentan con mayor frecuencia como hemorragia gastrointestinal.",
+   "Los pólipos inflamatorios no tienen riesgo de malignidad."
+  ],
+  "ans": 4,
+  "why": "Según el ABSITE, los pólipos hamartomatosos, inflamatorios y heterotópicos no parecen tener riesgo de malignidad. Los hiperplásicos son los más frecuentes (70–90%) (B) y son los que se asocian a gastritis atrófica por H. pylori (C). El mayor riesgo de malignidad lo tienen los adenomatosos, no los de glándulas fúndicas (A). Los heterotópicos suelen ser páncreas ectópico sin relevancia clínica, no una causa habitual de hemorragia (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 132 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "282aadc4fa": {
+  "k": "282aadc4fa",
+  "estado": "confirmada",
+  "stem": "El sangrado de una lesión gástrica de Dieulafoy se debe a:",
+  "opts": [
+   "Ectasia vascular antral.",
+   "Pliegues gástricos anormales.",
+   "Material extraño ingerido.",
+   "Un vaso submucoso anormal.",
+   "Una lesión premaligna."
+  ],
+  "ans": 3,
+  "why": "La lesión de Dieulafoy es una arteria submucosa anormalmente grande y tortuosa, por lo general en la curvatura menor, que erosiona la mucosa y produce hemorragia masiva. La ectasia vascular antral corresponde al estómago en sandía (GAVE) (A, B). No se relaciona con material ingerido (C) y no es premaligna (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 132 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído). Texto reparado: se completó el enunciado («…se debe a:»), como figura en el original."
+ },
+ "7a3355951b": {
+  "k": "7a3355951b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el síndrome de intestino corto en adultos es verdadera?",
+  "opts": [
+   "La presencia de una válvula ileocecal intacta reduce la malabsorción.",
+   "Se define por tener menos de 300 cm de intestino delgado residual.",
+   "La resección del íleon se tolera mejor que la resección del yeyuno.",
+   "La presencia de colon intacto no modifica la gravedad.",
+   "Su causa más frecuente son múltiples operaciones que requieren resecciones del intestino delgado."
+  ],
+  "ans": 0,
+  "why": "Una válvula ileocecal intacta reduce la malabsorción porque prolonga la permanencia del quimo en el intestino delgado. El síndrome de intestino corto se define con menos de 180 cm de intestino delgado funcional, no 300 cm (B). Se tolera mejor la resección del yeyuno que la del íleon, porque en el íleon se absorben las sales biliares y la vitamina B12 (C). Un colon intacto sí reduce la gravedad (D). En el 75% de los casos se debe a una única resección masiva (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 142 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído)."
+ },
+ "95f5b08a5c": {
+  "k": "95f5b08a5c",
+  "estado": "confirmada",
+  "stem": "Un niño de 6 años presenta síndrome de intestino corto secundario a un vólvulo del intestino medio ocurrido durante la lactancia. Desde entonces depende de NPT, que ha tolerado bien. Le quedan aproximadamente 28 cm de intestino delgado y tiene el colon intacto. El intestino delgado está marcadamente dilatado, sin evidencia de obstrucción. ¿Cuál es la mejor opción?",
+  "opts": [
+   "Enteroplastia transversal seriada (procedimiento STEP).",
+   "Continuar con NPT.",
+   "Trasplante de intestino delgado.",
+   "Procedimiento de estrechamiento intestinal.",
+   "Procedimiento de estrechamiento y alargamiento intestinal (Bianchi)."
+  ],
+  "ans": 0,
+  "why": "Con un remanente muy corto (<30 cm en niños), marcadamente dilatado y sin obstrucción, la mejor opción es un procedimiento de alargamiento intestinal; la STEP aplica grapas transversales seriadas sobre el intestino dilatado y es técnicamente más sencilla y segura que el Bianchi (E), que tiene más isquemia, fugas y reintervenciones. Continuar con NPT (B) no aprovecha la posibilidad de alargar el intestino dilatado. El estrechamiento solo (D) se reserva para remanentes más largos (>60 cm en niños) con estasis. El trasplante (C) se reserva para pacientes dependientes de NPT que ya tienen complicaciones de la NPT.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 138 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 142 del PDF"
+  ],
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "aec8cf15b3": {
+  "k": "aec8cf15b3",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los divertículos duodenales es verdadera?",
+  "opts": [
+   "Tienden a localizarse en el borde antimesentérico del intestino.",
+   "La mayoría se identifica en pacientes jóvenes.",
+   "Los procedimientos endoscópicos están contraindicados.",
+   "La malabsorción por sobrecrecimiento bacteriano dentro de los divertículos obliga a realizar cirugía.",
+   "Si se descubren incidentalmente durante una operación, deben dejarse sin intervención."
+  ],
+  "ans": 4,
+  "why": "Los divertículos duodenales son asintomáticos en la mayoría, por lo que si se descubren de forma incidental (en imagen o en la cirugía) no deben operarse. Nacen en el borde mesentérico, donde penetran los vasos (A), y se diagnostican sobre todo entre los 56 y 76 años (B). Las complicaciones biliares asociadas suelen tratarse por vía endoscópica (C), y la malabsorción por sobrecrecimiento bacteriano se trata con antibióticos, no con cirugía (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 138 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 144 del PDF"
+  ],
+  "nota": "Clave original: E (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "569b2514f4": {
+  "k": "569b2514f4",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los tumores del estroma gastrointestinal (GIST) del intestino delgado es verdadera?",
+  "opts": [
+   "La mayoría de los pacientes presenta hemorragia digestiva.",
+   "Son positivos para CD134.",
+   "Los pacientes candidatos a quimioterapia deben recibirla durante un año.",
+   "Un paciente con un tumor de 6 cm debe recibir quimioterapia adyuvante.",
+   "La malignidad se determina principalmente por la evidencia de invasión local."
+  ],
+  "ans": 3,
+  "why": "Por la «regla de los 5», un GIST >5 cm (o >5 mitosis/50 campos) tiene riesgo de malignidad, por lo que un tumor de 6 cm debe recibir imatinib adyuvante tras la resección. La mayoría de los GIST de intestino delgado son asintomáticos (A); son CD34 y CD117 (c-kit) positivos, no CD134 (B); la adyuvancia dura 3 años, no 1 (C); y la malignidad se define por tamaño e índice mitótico, no por la invasión local (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 138 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 145 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "onco-digestivo"
+ },
+ "3efbc9958d": {
+  "k": "3efbc9958d",
+  "estado": "confirmada",
+  "stem": "Sobre el síndrome de la arteria mesentérica superior (síndrome de Wilkie):",
+  "opts": [
+   "Compromete la segunda porción del duodeno.",
+   "Causa obstrucción del drenaje venoso del riñón izquierdo.",
+   "Se diagnostica mejor mediante arteriografía.",
+   "Inicialmente debe tratarse con una dieta hipercalórica.",
+   "Se trata mejor mediante una gastroyeyunostomía."
+  ],
+  "ans": 3,
+  "why": "El síndrome de Wilkie es la compresión de la tercera porción del duodeno por la AMS, casi siempre tras una pérdida de peso importante; el tratamiento inicial es conservador, con aporte calórico para recuperar la almohadilla grasa mesentérica. No afecta la segunda porción (A); la compresión de la vena renal izquierda es el síndrome del cascanueces (B); se diagnostica con TC o tránsito baritado, no con arteriografía (C); y la cirugía de elección es la duodenoyeyunostomía, no la gastroyeyunostomía (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 139 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 145 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído). Texto reparado según el original.",
+  "tema": "intestino"
+ },
+ "80e9697416": {
+  "k": "80e9697416",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con antecedente de laparotomía y radioterapia abdominal y pélvica de 5000 cGy por cáncer de ovario hace diez años presenta signos y síntomas de obstrucción intestinal aguda. La tomografía muestra una obstrucción completa del intestino delgado a nivel del yeyuno medio, sin masas. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Si existe una estenosis, el mejor tratamiento es la estricturoplastia.",
+   "Deben administrarse corticoides.",
+   "La enteritis aguda por radiación se debe a una arteritis obliterante.",
+   "El riesgo de esta complicación aumenta en presencia de diabetes.",
+   "El grado de lesión por radiación no se ve afectado por la administración concomitante de quimioterapia."
+  ],
+  "ans": 3,
+  "why": "El riesgo de enteritis rádica aumenta con la dosis, la quimioterapia concomitante, la enfermedad vascular y la diabetes. La estricturoplastia no se recomienda en el intestino irradiado por alto riesgo de dehiscencia (A); los corticoides no se usan (B); la arteritis obliterante explica la enteritis crónica, no la aguda (C); y la quimioterapia sí aumenta el daño por radiación (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 139 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 146 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "2fe05638c0": {
+  "k": "2fe05638c0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el síndrome de Peutz-Jeghers es verdadera?",
+  "opts": [
+   "Los pacientes deben comenzar el cribado de cáncer de mama y cuello uterino a los 25 años.",
+   "Es una enfermedad autosómica recesiva.",
+   "La obstrucción del intestino delgado es poco frecuente.",
+   "Se recomienda colectomía profiláctica a la mayoría de los pacientes a partir de los 20 años.",
+   "Estos pacientes no presentan mayor riesgo de cáncer del intestino delgado."
+  ],
+  "ans": 0,
+  "why": "El Peutz-Jeghers conlleva un riesgo alto de cánceres digestivos y extradigestivos (mama, útero, ovario, testículo), por lo que el cribado de mama y cuello uterino debe empezar a los 25 años. Es autosómico dominante (B); la obstrucción por invaginación ocurre hasta en el 50% (C); la cirugía solo se indica si hay síntomas, no hay colectomía profiláctica (D); y el riesgo de cáncer de intestino delgado es unas 500 veces mayor (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 139 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 146 del PDF"
+  ],
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "ed22bed4dc": {
+  "k": "ed22bed4dc",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la enfermedad de Crohn es correcta?",
+  "opts": [
+   "La envoltura de grasa mesentérica se considera patognomónica.",
+   "Los síntomas de espondilitis anquilosante mejoran con la resección del intestino afectado.",
+   "La mayoría de los pacientes que inicialmente presentan ileítis terminal desarrollan enfermedad de Crohn durante el seguimiento a largo plazo.",
+   "La lesión cutánea exagerada tras traumatismos menores (fenómeno de patergia) es una manifestación asociada frecuente.",
+   "El pioderma gangrenoso se encuentra comúnmente en la presentación inicial de la enfermedad de Crohn."
+  ],
+  "ans": 0,
+  "why": "La «grasa reptante» (envoltura de grasa mesentérica sobre la serosa) se considera patognomónica de la enfermedad de Crohn. La espondilitis anquilosante (y la colangitis esclerosante) no mejoran con la resección (B); solo una minoría (~10%) de las ileítis terminales evoluciona a Crohn (C); la patergia es rara (D); y el pioderma gangrenoso rara vez es la forma de presentación (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 139 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 146 del PDF"
+  ],
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "feb3fe3c0d": {
+  "k": "feb3fe3c0d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la enfermedad de Crohn es verdadera?",
+  "opts": [
+   "Es más frecuente en personas de nivel socioeconómico alto.",
+   "La indicación más frecuente de cirugía es la perforación.",
+   "Tiene una distribución unimodal.",
+   "Es más prevalente en mujeres.",
+   "La presentación inicial más frecuente es dolor abdominal y diarrea de inicio agudo."
+  ],
+  "ans": 0,
+  "why": "La enfermedad de Crohn es más frecuente en zonas urbanas y en personas de nivel socioeconómico alto. Las indicaciones quirúrgicas más frecuentes son fístula, absceso y obstrucción; la perforación es rara (B); tiene distribución bimodal (C); afecta por igual a ambos sexos (D); y suele empezar de forma insidiosa, no aguda (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 140 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 148 del PDF"
+  ],
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído). Texto reparado según el original.",
+  "tema": "intestino"
+ },
+ "5fee368123": {
+  "k": "5fee368123",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la lesión más temprana característica de la enfermedad de Crohn?",
+  "opts": [
+   "Úlcera aftosa.",
+   "Granuloma caseificante.",
+   "Granuloma no caseificante.",
+   "Mucosa en empedrado.",
+   "Engrosamiento seroso."
+  ],
+  "ans": 0,
+  "why": "La lesión más temprana del Crohn es la úlcera aftosa, pequeña y superficial, por expansión de folículos linfoides submucosos. Al progresar, las úlceras confluyen y forman el empedrado (D). Los granulomas no caseificantes (C) y el engrosamiento seroso (E) son rasgos típicos pero no iniciales, y los granulomas del Crohn no son caseificantes (B).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 140 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 148 del PDF"
+  ],
+  "nota": "Clave original: A (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "ec1bdbdf7f": {
+  "k": "ec1bdbdf7f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre los principios del tratamiento quirúrgico del intestino delgado en la enfermedad de Crohn es verdadera?",
+  "opts": [
+   "El margen óptimo debe extenderse al menos 4 cm más allá de la enfermedad visible macroscópicamente.",
+   "Debe obtenerse un estudio por congelación para confirmar la ausencia de enfermedad activa en al menos uno de los márgenes.",
+   "Una estenosis duodenal de 3 cm se trata mejor mediante resección.",
+   "Una estenosis yeyunal de 10 cm puede tratarse mediante estricturoplastia de Heineke-Mikulicz en lugar de resección.",
+   "Las estenosis de más de 10 cm se tratan mejor mediante resección."
+  ],
+  "ans": 3,
+  "why": "La estricturoplastia de Heineke-Mikulicz sirve para estenosis de menos de 12 cm, y la de Finney para estenosis de hasta 25 cm, ahorrando longitud intestinal; por eso una estenosis yeyunal de 10 cm puede tratarse con Heineke-Mikulicz. El margen recomendado es de 2 cm y no influye en la recidiva (A), así que la biopsia por congelación es innecesaria (B). Las estenosis duodenales se derivan, no se resecan (C), y las de más de 10 cm pueden tratarse con Finney (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 140 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 149 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "intestino"
+ },
+ "7799bc1da9": {
+  "k": "7799bc1da9",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la fisiología del colon es verdadera?",
+  "opts": [
+   "El colon absorbe la mayor parte del agua del tubo digestivo.",
+   "El sodio se absorbe activamente mediante la Na⁺/K⁺-ATPasa.",
+   "La reabsorción de amoníaco no se ve afectada por el pH luminal.",
+   "El cloruro se secreta.",
+   "El colon no produce nutrientes."
+  ],
+  "ans": 1,
+  "why": "El colon absorbe sodio de forma activa mediante la Na⁺/K⁺-ATPasa, y el agua lo sigue pasivamente. La mayor parte del agua se absorbe en el intestino delgado, sobre todo en el yeyuno (A). Bajar el pH luminal (lactulosa) reduce la reabsorción de amoníaco (C). El cloruro se absorbe, no se secreta, mediante intercambio con bicarbonato (D). La fermentación bacteriana produce ácidos grasos de cadena corta, el combustible del colonocito (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 155 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 162 del PDF"
+  ],
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído). Texto reparado según el original.",
+  "tema": "colon"
+ },
+ "e3211f1615": {
+  "k": "e3211f1615",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la manifestación más temprana de la colitis ulcerosa?",
+  "opts": [
+   "Ulceraciones de la mucosa.",
+   "Edema de la mucosa.",
+   "Plasmocitosis.",
+   "Pseudopólipos.",
+   "Abscesos crípticos."
+  ],
+  "ans": 1,
+  "why": "En la endoscopia, el hallazgo más temprano de la colitis ulcerosa es el edema de la mucosa; después aparecen friabilidad y úlceras (A). Los seudopólipos son de enfermedad avanzada (D). Los abscesos crípticos (E) y la plasmocitosis (C) aparecen también en otras colitis y no son la manifestación inicial.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 155 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 162 del PDF"
+  ],
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "colon"
+ },
+ "0730eb0f95": {
+  "k": "0730eb0f95",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el cáncer colorrectal hereditario no polipósico (HNPCC o síndrome de Lynch) es verdadera?",
+  "opts": [
+   "No se asocia con mayor riesgo de cáncer del tracto genitourinario superior.",
+   "Se considera un síndrome autosómico recesivo.",
+   "La colonoscopia de cribado debe comenzar a los 12 años.",
+   "La neoplasia colorrectal tiene el mismo pronóstico que el cáncer esporádico.",
+   "Los criterios de Ámsterdam modificados requieren que un familiar sea diagnosticado antes de los 40 años."
+  ],
+  "ans": 3,
+  "why": "A igualdad de estadio, el cáncer colorrectal del síndrome de Lynch tiene el mismo pronóstico que el esporádico. Lynch es autosómico dominante (B) y conlleva riesgo alto de cáncer de endometrio y del tracto urinario superior (A). La colonoscopia empieza a los 20–25 años o 10 años antes del caso familiar más precoz; a los 10–12 años es para la PAF (C). Los criterios de Ámsterdam piden al menos un caso diagnosticado antes de los 50 años, no de los 40 (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 155 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 163 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído). Algunas series atribuyen al CCR con inestabilidad de microsatélites un pronóstico algo mejor; la fuente del ítem (ABSITE) sostiene 'mismo pronóstico estadio por estadio' y las otras opciones son claramente falsas.",
+  "tema": "onco-digestivo"
+ },
+ "57e02720ad": {
+  "k": "57e02720ad",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la poliposis juvenil familiar es verdadera?",
+  "opts": [
+   "Es autosómica recesiva.",
+   "Los pólipos son hamartomas.",
+   "El riesgo de cáncer de colon es del 100 % antes de los 50 años.",
+   "Una vez detectado un pólipo, se recomienda proctocolectomía total.",
+   "No se asocia con neoplasias malignas del tracto gastrointestinal superior."
+  ],
+  "ans": 1,
+  "why": "En la poliposis juvenil familiar los pólipos son hamartomas (pólipos juveniles), no adenomas. Es autosómica dominante (A). El riesgo de cáncer de colon es del 10–38% de por vida, no del 100% (C). Los pólipos se resecan por endoscopia y la colectomía solo se indica si hay cambios adenomatosos (D). También aumenta el riesgo de neoplasias gástricas y duodenales (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 156 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 163 del PDF"
+  ],
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "colon"
+ },
+ "4df5277b49": {
+  "k": "4df5277b49",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la enfermedad diverticular del tracto gastrointestinal inferior es verdadera?",
+  "opts": [
+   "Se presenta con mayor frecuencia en el colon descendente.",
+   "Puede afectar al recto.",
+   "Los divertículos cecales descubiertos incidentalmente requieren cirugía.",
+   "La resección sigmoidea electiva debe ir precedida de preparación intestinal mecánica y antibióticos perioperatorios orales e intravenosos.",
+   "Se asocia con un colon largo y redundante."
+  ],
+  "ans": 3,
+  "why": "En la sigmoidectomía electiva, la preparación mecánica con antibióticos orales e intravenosos reduce la infección del sitio quirúrgico más de un 50%. Los divertículos son más frecuentes en el sigma (A), no aparecen en el recto porque allí las tenias se abren (B), y los divertículos asintomáticos, cecales o sigmoideos, no requieren cirugía (C). El colon largo y redundante predispone al vólvulo, no a la diverticulosis (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 157 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 165 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "colon"
+ },
+ "1354650a44": {
+  "k": "1354650a44",
+  "estado": "confirmada",
+  "stem": "Diez años después de una resección abdominoperineal por cáncer rectal localmente avanzado, un paciente presenta una hernia junto al estoma que le causa molestias e interfiere con la colocación de la bolsa de colostomía. Ha aumentado de tamaño durante los últimos meses. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "La EPOC es el factor de riesgo más importante.",
+   "El tratamiento incluye pérdida de peso y un dispositivo de soporte, como una faja para hernia.",
+   "La reubicación del estoma es el tratamiento superior.",
+   "La colocación profiláctica de una malla en la cirugía inicial reduce el riesgo de esta complicación.",
+   "Esta complicación es más frecuente con una ileostomía en asa que con una colostomía terminal."
+  ],
+  "ans": 3,
+  "why": "Colocar una malla profiláctica en la cirugía inicial reduce la hernia paraestomal (del 55% al 7,8% en una revisión sistemática). La EPOC es un factor de riesgo, pero no el más importante (A). La faja y la pérdida de peso son para hernias asintomáticas, y este paciente tiene dolor y problemas con la bolsa (B). La reubicación del estoma tiene el mismo riesgo de hernia que el estoma inicial; se prefiere la reparación con malla (C). La colostomía terminal tiene más riesgo que la ileostomía en asa (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 157 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 165 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "eventraciones"
+ },
+ "d08a969cb3": {
+  "k": "d08a969cb3",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la quimioterapia para el carcinoma de colon es verdadera?",
+  "opts": [
+   "La combinación de 5-fluorouracilo y leucovorina prolonga la supervivencia en el cáncer de colon en estadio IV.",
+   "La radioterapia se utiliza habitualmente junto con quimioterapia para tratar el cáncer de colon.",
+   "No se ha demostrado que bevacizumab prolongue la supervivencia en el cáncer de colon en estadio IV.",
+   "El 5-fluorouracilo y la leucovorina prolongan la supervivencia en pacientes con cáncer de colon en estadio III.",
+   "Bevacizumab es un anticuerpo monoclonal contra el receptor del factor de crecimiento epidérmico."
+  ],
+  "ans": 3,
+  "why": "El 5-FU con leucovorina como adyuvante prolonga la supervivencia en el cáncer de colon estadio III (ganglios positivos), que es la indicación clásica de quimioterapia adyuvante. En el estadio IV, el 5-FU solo era poco eficaz (A); hoy se usa en combinación con oxaliplatino o irinotecán y fármacos biológicos. El bevacizumab sí prolonga la supervivencia en el estadio IV (C) y actúa contra el VEGF, no contra el EGFR, que es la diana del cetuximab (E). La radioterapia se usa en el cáncer de recto, no de colon (B).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 159 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 167 del PDF",
+   "Sabiston 21.ª ed., p. 1413 del PDF",
+   "Sabiston 21.ª ed., p. 1498 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído). Sabiston (p. 1498 del PDF) indica que el 5-FU en monoterapia era ineficaz en las metástasis colorrectales (mediana ~12 meses), lo que respalda que A es falsa en el sentido del ítem.",
+  "tema": "onco-digestivo"
+ },
+ "197aa3006e": {
+  "k": "197aa3006e",
+  "estado": "confirmada",
+  "stem": "Un hombre de 40 años se somete a una apendicectomía por apendicitis aguda. La anatomía patológica revela un tumor carcinoide de 1,1 cm en la base del apéndice. Los ganglios linfáticos son negativos. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "No se necesita tratamiento adicional.",
+   "Existe una probabilidad significativa de que desarrolle síndrome carcinoide.",
+   "El paciente debe recibir quimioterapia.",
+   "El paciente debe someterse a reexploración y colectomía derecha.",
+   "La mayoría de los carcinoides apendiculares mide 2,5 cm o más al diagnosticarse."
+  ],
+  "ans": 3,
+  "why": "Un carcinoide apendicular de más de 1 cm localizado en la base (o que invade el mesoapéndice) requiere hemicolectomía derecha; la apendicectomía sola basta para tumores menores de 1 cm sin estos factores (A). El síndrome carcinoide es raro porque las metástasis hepáticas son infrecuentes (B). No hay papel para la quimioterapia (C), y más del 95% miden menos de 2 cm (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 160 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 168 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "onco-digestivo"
+ },
+ "696ae83e93": {
+  "k": "696ae83e93",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la lesión perianal más frecuente en la enfermedad de Crohn?",
+  "opts": [
+   "Fisuras.",
+   "Pliegues cutáneos.",
+   "Absceso perianal.",
+   "Fístulas perianales.",
+   "Hemorroides."
+  ],
+  "ans": 1,
+  "why": "La lesión perianal más frecuente en la enfermedad de Crohn son los pliegues cutáneos (colgajos o skin tags), seguidos de las fisuras (A). El Crohn también aumenta la frecuencia de abscesos, fístulas y hemorroides (C–E), pero ninguna de estas lesiones supera a los pliegues cutáneos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 160 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 169 del PDF"
+  ],
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "anorrectal"
+ },
+ "f3740f7361": {
+  "k": "f3740f7361",
+  "estado": "confirmada",
+  "stem": "¿En cuál de las siguientes circunstancias está mejor indicada una apendicectomía incidental?",
+  "opts": [
+   "Durante una cirugía de bypass gástrico en un hombre de 45 años.",
+   "Durante una histerectomía en una mujer de 30 años.",
+   "Durante una resección del intestino delgado en una mujer de 30 años con enfermedad de Crohn.",
+   "Durante una colecistectomía laparoscópica en una mujer de 25 años.",
+   "Durante un procedimiento de Whipple en un hombre de 50 años."
+  ],
+  "ans": 2,
+  "why": "La apendicectomía incidental rara vez está indicada, porque el riesgo de apendicitis de por vida es bajo (6–9%). Se recomienda en casos especiales: niños que recibirán quimioterapia, pacientes parapléjicos, viajeros a lugares remotos y pacientes con enfermedad de Crohn cuyo ciego esté libre de enfermedad, porque tendrán dolor abdominal recurrente. Las demás opciones (A, B, D, E) no se benefician.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 161 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 170 del PDF"
+  ],
+  "nota": "Clave original: C (marcada con círculo rojo en el PDF; el lote no la había extraído). Texto reparado según el original.",
+  "tema": "apendicitis"
+ },
+ "a9f7420527": {
+  "k": "a9f7420527",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años presenta dolor rectal, sensación de evacuación incompleta y eliminación de sangre roja brillante y moco por el recto. La colonoscopia muestra una úlcera rectal solitaria en la pared anterior del recto distal. La biopsia revela inflamación crónica. ¿Cuál es el tratamiento indicado?",
+  "opts": [
+   "Escisión transanal de la úlcera",
+   "Rectosigmoidectomía perineal",
+   "Rectopexia abdominal",
+   "Dieta rica en fibra y entrenamiento de la defecación",
+   "Fijación rectal con una malla protésica"
+  ],
+  "ans": 3,
+  "why": "El síndrome de úlcera rectal solitaria es benigno y se debe a la invaginación interna por el esfuerzo defecatorio crónico; el tratamiento inicial es médico: dieta rica en fibra, reentrenamiento defecatorio para no pujar y laxantes o enemas. La rectopexia abdominal o la cirugía perineal (B, C) se reservan para el fracaso del tratamiento médico. La escisión transanal (A) es para el cáncer de recto, y la fijación con malla (E) para el prolapso completo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 176 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 180 del PDF"
+  ],
+  "nota": "Clave original: D (marcada con círculo rojo en el PDF; el lote no la había extraído).",
+  "tema": "anorrectal"
+ },
+ "c8a18f80a7": {
+  "k": "c8a18f80a7",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el tratamiento inicial recomendado para el melanoma del conducto anal?",
+  "opts": [
+   "Resección abdominoperineal",
+   "Escisión local amplia",
+   "Escisión local amplia con disección ganglionar regional",
+   "Radioterapia",
+   "Radioterapia y quimioterapia"
+  ],
+  "ans": 1,
+  "why": "El tratamiento inicial del melanoma del conducto anal es la cirugía, y como la resección abdominoperineal no mejora la supervivencia frente a la escisión local amplia (A), se recomienda la escisión local amplia. La disección ganglionar no mejora la supervivencia y añade morbilidad (C). La radioterapia y la quimioterapia (D, E) solo se consideran como adyuvantes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 177 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 181 del PDF"
+  ],
+  "nota": "Clave original: B (marcada con círculo rojo en el PDF; el lote no la había extraído). Texto reparado según el original.",
+  "tema": "anorrectal"
+ }
+}

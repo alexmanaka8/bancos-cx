@@ -1,0 +1,417 @@
+[
+ {
+  "k": "216f59da70",
+  "estado": "confirmada",
+  "stem": "Una semana después de una reparación abierta de una gran hernia escrotal derecha, un hombre de 45 años regresa por dolor severo en el testículo derecho. Al examen, el testículo está levemente hinchado y muy sensible a la palpación. Un estudio Doppler demuestra ausencia de flujo en el testículo derecho y flujo normal en el izquierdo. ¿Cuál de las siguientes afirmaciones es correcta?",
+  "opts": [
+   "Usualmente es debido a trombosis del plexo pampiniforme",
+   "Se recomienda exploración urgente del testículo derecho",
+   "Probablemente se deba a sección de la arteria testicular",
+   "Representa torsión testicular",
+   "El testículo probablemente quedará permanentemente agrandado"
+  ],
+  "ans": 0,
+  "why": "Es una orquitis isquémica: según el Sabiston, \"suele deberse a trombosis de las pequeñas venas del plexo pampiniforme\", con congestión venosa del testículo, que se inflama y duele a los 2-5 días de la cirugía. Su factor de riesgo principal es la disección extensa del cordón, como al resecar el saco distal de una hernia escrotal grande. El manejo es expectante, con antiinflamatorios y analgésicos; la reexploración no ayuda (B). La arteria testicular tiene colaterales (deferencial, cremastérica), así que su ligadura rara vez es la causa (C). No es una torsión (D), y la evolución habitual es hacia la atrofia, no hacia un agrandamiento permanente (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1143 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "14318ca281",
+  "estado": "confirmada",
+  "stem": "El sangrado persistente potencialmente mortal en un paciente con hemofilia A con altos títulos de inhibidores (aloanticuerpos del factor VIII) se trata mejor con:",
+  "opts": [
+   "Una dosis más alta de factor VIII",
+   "Plasma fresco congelado",
+   "Crioprecipitado",
+   "Factor VIIa recombinante",
+   "DDAVP (desmopresina)"
+  ],
+  "ans": 3,
+  "why": "Los inhibidores neutralizan el factor VIII administrado, de modo que se necesitan agentes de \"bypass\" que eludan la vía intrínseca: factor VIIa recombinante o concentrado de complejo protrombínico activado (Sabiston). Más factor VIII no supera los anticuerpos (A). El plasma y el crioprecipitado aportan factor VIII, que también queda neutralizado, y muy poco factor VII (B, C). La DDAVP solo libera factor VIII endógeno y vWF, lo que es inútil frente a inhibidores de título alto (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 225 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 487 del PDF"
+  ],
+  "tema": "hemostasia"
+ },
+ {
+  "k": "1f63d9f9e6",
+  "estado": "confirmada",
+  "stem": "¿A qué nivel se deben aumentar los niveles de los factores VIII y IX antes de una cirugía mayor en un hemofílico?",
+  "opts": [
+   "10%",
+   "30%",
+   "50%",
+   "75%",
+   "100%"
+  ],
+  "ans": 4,
+  "why": "Antes de una cirugía mayor, el factor deficitario (VIII en la hemofilia A, IX en la B) debe reponerse hasta cerca del 100% de lo normal. Así lo indican la tabla de hemoderivados del de Virgilio (\"Transfuse to 100% normal factor VIII levels before major surgery\", y lo mismo para el IX) y su explicación del factor IX recombinante. El Sabiston indica administrar los concentrados 10-20 min antes de la incisión y mantener los niveles después. Los valores del 10% al 75% son insuficientes para cirugía mayor; niveles del 30-50% se usan en sangrados menores.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 479 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 487 del PDF",
+   "Sabiston 21.ª ed., p. 225 del PDF"
+  ],
+  "tema": "hemostasia"
+ },
+ {
+  "k": "55188e4711",
+  "estado": "confirmada",
+  "stem": "La prueba de laboratorio más útil para evaluar tanto el riesgo de sangrado como la respuesta al tratamiento en pacientes con uremia es:",
+  "opts": [
+   "Tiempo de sangrado",
+   "Recuento plaquetario",
+   "INR",
+   "TTPa",
+   "Tiempo de trombina"
+  ],
+  "ans": 0,
+  "why": "En la uremia, la hemorragia se debe sobre todo a disfunción plaquetaria (adhesión y agregación alteradas, defecto funcional del vWF); los factores de coagulación y el recuento plaquetario suelen ser normales. Por eso, el tiempo de sangría, que mide la función plaquetaria primaria, es la prueba clásica para estimar el riesgo de sangrado y la respuesta a la DDAVP, los estrógenos o la diálisis. La revisión de Am J Med Sci de 1998 lo dice textualmente: \"The most useful clinical laboratory test to assess both bleeding risk and response to therapy is bleeding time\". El recuento plaquetario no mide la función de las plaquetas, y el INR, el TTPa y el tiempo de trombina exploran la cascada de coagulación, que no es el defecto principal en la uremia.",
+  "fuentes": [
+   "Uremic bleeding: pathogenesis and therapy. Am J Med Sci. 1998 (PMID 9704663), resumen en Europe PMC (https://europepmc.org/abstract/MED/9704663)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 488 del PDF"
+  ],
+  "tema": "hemostasia",
+  "nota": "El de Virgilio (p. 488-489) confirma que el defecto urémico es plaquetario (vWF) y que se trata con DDAVP, pero no trae esta pregunta; la clave se apoya en la revisión citada."
+ },
+ {
+  "k": "33c9746b57",
+  "estado": "confirmada",
+  "stem": "La prueba de laboratorio más útil para evaluar tanto el riesgo de sangrado como la respuesta al tratamiento en pacientes con uremia es:",
+  "opts": [
+   "Tiempo de sangría",
+   "Recuento de plaquetas",
+   "INR",
+   "aPTT",
+   "Tiempo de trombina"
+  ],
+  "ans": 0,
+  "why": "En la uremia, la hemorragia se debe sobre todo a disfunción plaquetaria (adhesión y agregación alteradas, defecto funcional del vWF); los factores de coagulación y el recuento plaquetario suelen ser normales. Por eso, el tiempo de sangría, que mide la función plaquetaria primaria, es la prueba clásica para estimar el riesgo de sangrado y la respuesta a la DDAVP, los estrógenos o la diálisis. La revisión de Am J Med Sci de 1998 lo dice textualmente: \"The most useful clinical laboratory test to assess both bleeding risk and response to therapy is bleeding time\". El recuento plaquetario no mide la función de las plaquetas, y el INR, el TTPa y el tiempo de trombina exploran la cascada de coagulación, que no es el defecto principal en la uremia.",
+  "fuentes": [
+   "Uremic bleeding: pathogenesis and therapy. Am J Med Sci. 1998 (PMID 9704663), resumen en Europe PMC (https://europepmc.org/abstract/MED/9704663)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 488 del PDF"
+  ],
+  "tema": "hemostasia",
+  "nota": "El de Virgilio (p. 488-489) confirma que el defecto urémico es plaquetario (vWF) y que se trata con DDAVP, pero no trae esta pregunta; la clave se apoya en la revisión citada."
+ },
+ {
+  "k": "d447f966e2",
+  "estado": "confirmada",
+  "stem": "En el contexto de trauma, la ligadura es mejor tolerada en cuál de los siguientes vasos:",
+  "opts": [
+   "Vena cava superior",
+   "Arteria subclavia",
+   "Arteria braquial",
+   "Vena porta",
+   "Vena cava inferior suprarrenal"
+  ],
+  "ans": 1,
+  "why": "Por la rica circulación colateral alrededor del hombro, la ligadura de la arteria subclavia se tolera bien; de hecho, se ocluye a menudo durante el stent de la aorta torácica. La ligadura de la vena cava superior produce un síndrome de vena cava superior agudo (A). La vena cava inferior suprarrenal compromete el drenaje de ambos riñones o causa un Budd-Chiari agudo (E). La vena porta lleva el 75% del flujo hepático y su ligadura tiene mayor mortalidad (D). La arteria braquial es de las que siempre deben repararse (C).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "0daff67327",
+  "estado": "confirmada",
+  "stem": "La exposición quirúrgica es más difícil para cuál de los siguientes vasos:",
+  "opts": [
+   "Arteria innominada",
+   "Arteria subclavia derecha proximal",
+   "Arteria subclavia izquierda proximal",
+   "Arteria carótida común izquierda proximal",
+   "Arteria vertebral proximal"
+  ],
+  "ans": 2,
+  "why": "La subclavia izquierda nace de la parte posterior del cayado aórtico, en la profundidad del mediastino superior, y su porción proximal queda mal expuesta por la esternotomía media. Según el Sabiston, el tronco braquiocefálico (innominada), la subclavia derecha y las carótidas proximales se abordan por esternotomía (A, B, D), mientras que \"el control proximal de la arteria subclavia izquierda se logra mejor a través de una toracotomía posterolateral\" o anterolateral en el tercer espacio, es decir, con una vía aparte. La vertebral proximal se expone por una incisión supraclavicular (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1826 del PDF",
+   "Sabiston 21.ª ed., p. 431 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "La tabla de incisiones del de Virgilio (p. 249) incluye la subclavia izquierda proximal entre las estructuras accesibles por esternotomía. Aun así, el Sabiston señala la toracotomía como el mejor acceso y la considera la de exposición más compleja."
+ },
+ {
+  "k": "8d325cd7d0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre el síndrome compartimental?",
+  "opts": [
+   "Para descomprimir el compartimento posterior profundo de la pierna, es necesario desprender el músculo sóleo de la tibia.",
+   "Se requiere una presión compartimental mayor de 45 mm Hg para hacer el diagnóstico.",
+   "El compartimento lateral es el más comúnmente afectado en la pierna.",
+   "Un signo temprano del compromiso del compartimento anterior es la hipoestesia plantar.",
+   "No ocurre en los glúteos."
+  ],
+  "ans": 0,
+  "why": "El compartimento posterior profundo es el que con más frecuencia queda mal descomprimido, y contiene el nervio tibial. Para abrirlo hay que desprender el sóleo de la tibia. No hay un umbral absoluto de presión: se considera la fasciotomía con presiones >30 mm Hg o con un gradiente (presión diastólica menos presión compartimental) <30 mm Hg (B). El compartimento anterior es el que se afecta primero (C), y su signo temprano es la hipoestesia del primer espacio interdigital dorsal por el nervio peroneo profundo, no de la planta (D). Se ha descrito síndrome compartimental en glúteos, hombros y manos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 270 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Las opciones C y D, cortadas en el texto extraído, se completaron desde el original (p. 56)."
+ },
+ {
+  "k": "1ed476d316",
+  "estado": "confirmada",
+  "stem": "En el contexto de trauma, ¿la ligadura es mejor tolerada en cuál de los siguientes vasos?",
+  "opts": [
+   "Vena renal derecha",
+   "Vena renal izquierda",
+   "Arteria braquial",
+   "Arteria poplítea",
+   "Vena cava inferior suprarrenal"
+  ],
+  "ans": 1,
+  "why": "La vena renal izquierda puede ligarse cerca de la cava porque el riñón sigue drenando por las venas suprarrenal, gonadal y lumbares (iliolumbar); esto se hace incluso en la cirugía abierta del aneurisma aórtico. La vena renal derecha no tiene esas colaterales, y su ligadura deja al riñón sin drenaje (A). La vena cava inferior suprarrenal compromete ambos riñones (E). Las arterias braquial y poplítea siempre deben repararse o recibir un shunt (C, D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "9068b541bb",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al síndrome compartimental?",
+  "opts": [
+   "Se debe despegar el músculo sóleo de la tibia",
+   "Es necesario una presión compartimental mayor a 45 mm Hg para hacer el diagnóstico",
+   "El compartimento lateral es el más afectado con mayor frecuencia en la pierna",
+   "Un signo temprano de afectación del compartimento anterior es entumecimiento en la planta del pie",
+   "No ocurre en los glúteos"
+  ],
+  "ans": 0,
+  "why": "Para descomprimir el compartimento posterior profundo, que es el que más a menudo queda mal liberado y contiene el nervio tibial, hay que despegar el sóleo de la tibia. No existe un umbral absoluto de presión: se usa >30 mm Hg o un gradiente diastólico <30 mm Hg, junto con la clínica (B). El compartimento anterior es el primero en afectarse (C), y su signo temprano es la hipoestesia del primer espacio interdigital (nervio peroneo profundo), no de la planta (D). También ocurre en glúteos, hombros y manos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 269 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 270 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "24bb6f049c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre la fibrosis retroperitoneal?",
+  "opts": [
+   "Tiene origen infeccioso",
+   "Está relacionada con el uso de metisergida",
+   "La velocidad de sedimentación globular suele ser normal",
+   "La pielografía intravenosa es el estudio diagnóstico de elección",
+   "La desviación lateral de los uréteres es característica"
+  ],
+  "ans": 1,
+  "why": "Alrededor del 70% de los casos son idiopáticos (enfermedad de Ormond). El 30% restante se asocia a fármacos, sobre todo alcaloides del cornezuelo como la metisergida, y a agonistas dopaminérgicos (Sabiston). No es primariamente infecciosa (A). Los reactantes de fase aguda, como la VSG y la PCR, están elevados en el 80-100% de los casos (C). El estudio inicial de elección es la TC, no la pielografía (D). Lo característico es la desviación medial de los uréteres, no la lateral (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1124 del PDF"
+  ],
+  "tema": "otros"
+ },
+ {
+  "k": "1aaaad0c64",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los sarcomas retroperitoneales?",
+  "opts": [
+   "El mejor manejo es la enucleación",
+   "El pronóstico se determina mejor por el grado histológico",
+   "Las metástasis ganglionares son comunes",
+   "Los fibrosarcomas son el tipo más común",
+   "La radioterapia sola es a menudo curativa para sarcomas pequeños"
+  ],
+  "ans": 1,
+  "why": "El grado histológico es el predictor más importante de la evolución de los sarcomas retroperitoneales. El tratamiento es la resección en bloque con márgenes negativos, no la enucleación (A). Las metástasis ganglionares son raras (C). Los tipos más frecuentes son el liposarcoma, el leiomiosarcoma y el histiocitoma fibroso maligno, no el fibrosarcoma (D). La radioterapia sola tiene un papel limitado por la baja tolerancia de las estructuras vecinas y no es curativa (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 34 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 35 del PDF"
+  ],
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "1f3623cedb",
+  "estado": "confirmada",
+  "stem": "El aneurisma de arteria visceral más común es:",
+  "opts": [
+   "Celíaco",
+   "Esplénico",
+   "Arteria mesentérica superior (AMS)",
+   "Hepático",
+   "Pancreatoduodenal"
+  ],
+  "ans": 1,
+  "why": "El aneurisma de la arteria esplénica es el aneurisma arterial visceral más frecuente (alrededor del 60% de los casos); el segundo es el de la arteria hepática. Su principal riesgo es la rotura, que puede presentarse como \"doble rotura\" y es especialmente grave en el embarazo. Los aneurismas celíacos, de la AMS y pancreatoduodenales son mucho menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 282 del PDF",
+   "Sabiston 21.ª ed., p. 2064 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "El enunciado del texto extraído estaba cortado; se reconstruyó desde el original."
+ },
+ {
+  "k": "3060c92660",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al hematoma de la vaina del recto?",
+  "opts": [
+   "Si está ubicado por encima del ombligo, es más probable que simule un proceso intraabdominal agudo",
+   "Si está por debajo del ombligo, es más probable que cause sangrado severo",
+   "La mayoría se asocian con antecedente de trauma",
+   "El drenaje quirúrgico es el tratamiento de elección en la mayoría de los casos",
+   "Si la masa es palpable, típicamente desaparece al contraer los músculos rectos"
+  ],
+  "ans": 1,
+  "why": "Por debajo de la línea arcuata, infraumbilical, el recto no tiene vaina posterior aponeurótica, así que el hematoma no queda contenido: puede cruzar la línea media, crecer más (sangrado mayor) y simular una víscera perforada con dolor bilateral bajo. Por eso la A es falsa. En la mayoría no hay antecedente de trauma; suelen ser espontáneos en ancianos anticoagulados (C). El manejo es mayormente conservador: reanimación, controles seriados y reversión de la anticoagulación, y embolización si hace falta (D). El signo de Fothergill es una masa que persiste, no que desaparece, al contraer los rectos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 34 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 35 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "427bc4aa54",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la torsión del epiplón?",
+  "opts": [
+   "La torsión secundaria es más común que la primaria",
+   "El tratamiento suele ser no quirúrgico",
+   "Si se requiere cirugía, el manejo consiste en destorsión y omentopexia",
+   "El dolor generalmente se localiza en el cuadrante inferior izquierdo",
+   "Suele producir líquido peritoneal de aspecto purulento"
+  ],
+  "ans": 0,
+  "why": "La torsión primaria, sin patología subyacente, es muy rara; la secundaria, precipitada por un punto fijo como un tumor, una adherencia, un saco herniario o una inflamación, es mucho más común. El tratamiento clásico es quirúrgico, con resección del epiplón torcido, a menudo infartado, y no destorsión con omentopexia (B, C). La torsión primaria suele ser derecha y simula una apendicitis o una colecistitis (D). El líquido suele ser serosanguinolento; si es purulento sugiere otro diagnóstico (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "f7a198989d",
+  "estado": "confirmada",
+  "stem": "El organismo más comúnmente aislado del líquido peritoneal infectado en un paciente con catéter de diálisis peritoneal es:",
+  "opts": [
+   "Estreptococo β-hemolítico",
+   "Enterococo",
+   "Escherichia coli",
+   "Staphylococcus epidermidis",
+   "Staphylococcus aureus"
+  ],
+  "ans": 3,
+  "why": "Los estafilococos coagulasa negativos (Staphylococcus epidermidis), de la flora cutánea, son con diferencia la causa más frecuente de peritonitis asociada al catéter de diálisis peritoneal; contaminan el catéter por contacto. El estreptococo, el enterococo y E. coli son menos frecuentes; los gramnegativos sugieren un origen entérico. S. aureus, que es coagulasa positivo, es menos frecuente y responde peor solo con antibióticos. El tratamiento inicial son antibióticos intraperitoneales; si la infección no se resuelve, se retira el catéter.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "18e76ab023",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal progresivo y distensión, con matidez no cambiante. Una TC muestra colecciones loculadas de líquido y escallopado de los órganos intraabdominales. En la cirugía se encuentra varios litros de material mucoide amarillento-grisáceo en el epiplón y superficies peritoneales. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "No tiene indicación de resección quirúrgica",
+   "Se indican antimicrobianos a largo plazo",
+   "Lo más probable es que represente una neoplasia peritoneal primaria",
+   "Es más común en varones",
+   "Está indicada la cirugía citorreductora"
+  ],
+  "ans": 4,
+  "why": "El cuadro (mujer mayor, ascitis gelatinosa con matidez que no cambia, festoneado de las vísceras en la TC, material mucoide sobre el epiplón y el peritoneo) es un pseudomixoma peritoneal. Su tratamiento es quirúrgico: citorreducción con peritonectomía y omentectomía, más hemicolectomía derecha si el origen es apendicular, a menudo con quimioterapia intraperitoneal hipertérmica. Por eso es falso que no tenga indicación de resección. Casi siempre se origina en una neoplasia mucinosa del apéndice, no en el peritoneo (primario), y es más frecuente en mujeres de 50 a 70 años. Los antimicrobianos no tienen papel, porque no es un proceso infeccioso.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "La opción E se completó desde el original (\"Está indicada la cirugía citorreductora\")."
+ },
+ {
+  "k": "968524c617",
+  "estado": "confirmada",
+  "stem": "La causa más común de absceso retroperitoneal es:",
+  "opts": [
+   "Diverticulitis",
+   "Apendicitis",
+   "Enfermedad renal",
+   "Tuberculosis de columna",
+   "Diseminación hematógena desde un foco remoto"
+  ],
+  "ans": 2,
+  "why": "La causa más frecuente de absceso retroperitoneal es secundaria, por infección de un órgano vecino; las infecciones renales explican casi el 50% de los casos. La diverticulitis, la apendicitis retrocecal, la úlcera duodenal perforada y la pancreatitis son causas menos frecuentes. La tuberculosis vertebral (Pott) es rara, y la diseminación hematógena (absceso primario) es poco frecuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "otros",
+  "nota": "El enunciado y las opciones D y E estaban cortados en el texto extraído; se reconstruyeron desde el original (p. 70)."
+ },
+ {
+  "k": "bd40416871",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la torsión del epiplón?",
+  "opts": [
+   "La torsión secundaria es más común que la primaria.",
+   "El tratamiento suele ser observación y control del dolor.",
+   "Si se requiere cirugía, el manejo consiste en destorsión y omentopexia.",
+   "El dolor suele ubicarse en el cuadrante inferior izquierdo del abdomen.",
+   "Típicamente produce líquido peritoneal de apariencia purulenta."
+  ],
+  "ans": 0,
+  "why": "La torsión primaria del epiplón es rarísima, y la secundaria (sobre un tumor, una adherencia, un saco herniario o un foco inflamatorio) es mucho más común. El manejo clásico es resecar el epiplón torcido, a menudo infartado, y no la observación ni la destorsión con omentopexia (B, C). La torsión primaria suele ser derecha y simula una apendicitis o una colecistitis (D). El líquido es serosanguinolento; si es purulento sugiere otro diagnóstico (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "4fc859cdcb",
+  "estado": "confirmada",
+  "stem": "El organismo más comúnmente aislado del líquido peritoneal infectado de un paciente con un catéter de diálisis peritoneal es:",
+  "opts": [
+   "Estreptococo beta-hemolítico",
+   "Enterococo",
+   "Escherichia coli",
+   "Estafilococo coagulasa negativo",
+   "Estafilococo coagulasa positivo"
+  ],
+  "ans": 3,
+  "why": "Los estafilococos coagulasa negativos (Staphylococcus epidermidis), de la flora cutánea, son con diferencia la causa más frecuente de peritonitis asociada al catéter de diálisis peritoneal; contaminan el catéter por contacto. El estreptococo, el enterococo y E. coli son menos frecuentes; los gramnegativos sugieren un origen entérico. S. aureus, que es coagulasa positivo, es menos frecuente y responde peor solo con antibióticos. El tratamiento inicial son antibióticos intraperitoneales; si la infección no se resuelve, se retira el catéter.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "8e1269250c",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal progresivo y distensión abdominal con matidez no cambiante. Una tomografía computarizada muestra colecciones loculadas de líquido y escallopado de los órganos intraabdominales. En la cirugía, se encuentran varios litros de material mucoso amarillento grisáceo sobre el epiplón y superficies peritoneales. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "No hay papel para la resección quirúrgica.",
+   "Es poco probable que involucre el apéndice.",
+   "Esto representa más probablemente una malignidad peritoneal primaria.",
+   "Es más común en hombres.",
+   "Está indicada la cirugía de citorreducción."
+  ],
+  "ans": 4,
+  "why": "El cuadro (mujer mayor, ascitis gelatinosa con matidez que no cambia, festoneado de las vísceras en la TC, material mucoide sobre el epiplón y el peritoneo) es un pseudomixoma peritoneal. Su tratamiento es quirúrgico: citorreducción con peritonectomía y omentectomía, más hemicolectomía derecha si el origen es apendicular, a menudo con quimioterapia intraperitoneal hipertérmica. Por eso es falso que no tenga indicación de resección. Casi siempre se origina en una neoplasia mucinosa del apéndice, no en el peritoneo (primario), y es más frecuente en mujeres de 50 a 70 años. Por esa misma razón es falso que sea poco probable que involucre el apéndice.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "onco-digestivo"
+ },
+ {
+  "k": "20d39efb8c",
+  "estado": "confirmada",
+  "stem": "La causa más común de un absceso retroperitoneal es:",
+  "opts": [
+   "Diverticulitis",
+   "Apendicitis",
+   "Enfermedad renal",
+   "Tuberculosis de la columna",
+   "Diseminación hematógena desde un sitio remoto"
+  ],
+  "ans": 2,
+  "why": "La causa más frecuente de absceso retroperitoneal es secundaria, por infección de un órgano vecino; las infecciones renales explican casi el 50% de los casos. La diverticulitis, la apendicitis retrocecal, la úlcera duodenal perforada y la pancreatitis son causas menos frecuentes. La tuberculosis vertebral (Pott) es rara, y la diseminación hematógena (absceso primario) es poco frecuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 25 del PDF"
+  ],
+  "tema": "otros"
+ }
+]

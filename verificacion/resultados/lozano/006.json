@@ -1,0 +1,419 @@
+[
+ {
+  "k": "368c2352d8",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con pancolitis por colitis ulcerosa de 15 años de evolución se somete a colonoscopía de vigilancia. No se detectan pólipos. Las biopsias aleatorias revelan displasia de alto grado en el colon sigmoide. El manejo recomendado sería:",
+  "opts": [
+   "Repetir la colonoscopía en 6 meses con nuevas biopsias aleatorias",
+   "Colectomía sigmoidea",
+   "Colectomía total con anastomosis ileorrectal",
+   "Proctocolectomía total con ileostomía",
+   "Proctocolectomía restauradora con anastomosis íleo-anal en bolsa (pouch)"
+  ],
+  "ans": 4,
+  "why": "En la colitis ulcerosa la displasia (incluso plana, hallada en biopsias aleatorias) es indicación de cirugía, porque el cáncer aparece sin pólipos y la displasia suele ser multifocal. La operación curativa de elección es la proctocolectomía restauradora con anastomosis íleo-anal en bolsa (IPAA), que extirpa toda la mucosa enferma y conserva la continencia. Repetir la colonoscopía es inapropiado; la colectomía sigmoidea y la colectomía total con anastomosis ileorrectal dejan mucosa en riesgo (recto); la proctocolectomía con ileostomía terminal es curativa pero no es la de elección en una paciente candidata a reconstrucción.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 162 del PDF",
+   "Sabiston 21.ª ed., p. 1394 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "61bfb945eb",
+  "estado": "confirmada",
+  "stem": "La manifestación más temprana de la colitis ulcerosa es:",
+  "opts": [
+   "Ulceraciones mucosas",
+   "Edema mucoso",
+   "Colon en “tubo de plomo”",
+   "Pseudopólipos",
+   "Abscesos crípticos"
+  ],
+  "ans": 1,
+  "why": "El edema de la mucosa es el hallazgo endoscópico más temprano de la colitis ulcerosa; con la progresión aparecen mucosa friable y ulceraciones. El colon en 'tubo de plomo' es un signo radiológico de enfermedad de larga evolución; los pseudopólipos aparecen en CU y Crohn ya establecidos; los abscesos crípticos son característicos pero no son la manifestación más temprana y se ven en otras colitis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 162 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "fbb8757fae",
+  "estado": "confirmada",
+  "stem": "Un hombre de 56 años presenta fiebre, náuseas y dolor en cuadrante inferior izquierdo de 2 días de evolución. El recuento de leucocitos es de 14,000/μL. La TC muestra engrosamiento del colon sigmoide, estriación de la grasa y un absceso pélvico de 5 cm. El manejo óptimo sería:",
+  "opts": [
+   "Colectomía sigmoidea inmediata, colostomía terminal y drenaje del absceso",
+   "Drenaje guiado por TC seguido de colectomía sigmoidea en 6 semanas",
+   "Solo drenaje guiado por TC",
+   "Antibióticos IV seguidos de colectomía",
+   "Solo antibióticos intravenosos"
+  ],
+  "ans": 1,
+  "why": "Es una diverticulitis complicada Hinchey II (absceso pélvico). Los abscesos grandes (como este de 5 cm) requieren drenaje percutáneo guiado por imagen junto con antibióticos y, tras la recuperación, se recomienda la colectomía sigmoidea programada (habitualmente a las 6 semanas). La cirugía inmediata (Hartmann) se reserva para peritonitis generalizada o falla del drenaje; solo antibióticos sirven para abscesos pequeños; el drenaje solo, sin resección electiva, no es lo recomendado tras diverticulitis complicada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF",
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "f3be35d3e2",
+  "estado": "confirmada",
+  "stem": "Diez años después de una resección abdominoperineal por cáncer rectal localmente avanzado, un paciente se presenta con una hernia adyacente a su estoma que le causa molestias e interfiere con la colocación de la bolsa de colostomía. Ha estado aumentando de tamaño en los últimos meses. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a esta condición?",
+  "opts": [
+   "La enfermedad pulmonar obstructiva crónica (EPOC) es el factor de riesgo más importante.",
+   "El tratamiento incluye un dispositivo de soporte como un cinturón para hernias y pérdida de peso.",
+   "La reparación se logra mejor reubicando el estoma.",
+   "La colocación profiláctica de malla en la operación inicial disminuye el riesgo de esta complicación.",
+   "Esta complicación es más común con ileostomía en asa que con colostomía terminal."
+  ],
+  "ans": 3,
+  "why": "La colocación de malla profiláctica en la operación inicial reduce la incidencia de hernia paraestomal (en un estudio, de 55% a 7,8%). La EPOC es solo uno de varios factores de riesgo (también obesidad, edad, desnutrición, infección de herida), no el más importante. El cinturón y la pérdida de peso son para la hernia asintomática; este paciente tiene dolor y problemas con la bolsa, indicación de reparación. La reubicación del estoma conlleva el mismo riesgo de nueva hernia, por lo que se prefiere la reparación con malla. La hernia paraestomal es más frecuente con colostomía terminal y menos con ileostomía en asa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 165 del PDF",
+   "Sabiston 21.ª ed., p. 1154 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "0a34e88c44",
+  "estado": "confirmada",
+  "stem": "Cinco días después de una apendicectomía, se observa salida de heces líquidas a través de la herida en el cuadrante inferior derecho. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "El paciente debe mantenerse en ayunas y recibir nutrición parenteral",
+   "Debe iniciarse octreótido",
+   "El paciente debe ser llevado inmediatamente a reexploración y cecostomía",
+   "El paciente debe ser llevado inmediatamente a reexploración y colectomía derecha",
+   "La condición se resuelve espontáneamente en la mayoría de los casos"
+  ],
+  "ans": 4,
+  "why": "Es una fístula cecal (colocutánea) por deslizamiento de la ligadura o necrosis del muñón apendicular. Es de bajo débito y la mayoría cierra espontáneamente; se debe descartar un absceso con imagen y se puede dar dieta baja en residuos. No requiere nutrición parenteral, el octreótido no ayuda al cierre y la reexploración (cecostomía o colectomía) no es el manejo inicial. Si no cierra, sospechar neoplasia, EII, tuberculosis u obstrucción distal.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "97afa42c2b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la quimioterapia para el carcinoma de colon?",
+  "opts": [
+   "La combinación de 5-fluorouracilo y leucovorina prolonga la supervivencia en cáncer de colon estadio IV",
+   "La radioterapia se utiliza comúnmente junto con quimioterapia en el manejo del cáncer de colon",
+   "Se ha demostrado que bevacizumab (Avastin) no prolonga la supervivencia en cáncer de colon estadio IV",
+   "5-fluorouracilo y leucovorina prolongan la supervivencia en pacientes con cáncer de colon estadio III",
+   "Bevacizumab (Avastin) es un anticuerpo monoclonal contra el receptor del factor de crecimiento epidérmico"
+  ],
+  "ans": 3,
+  "why": "El 5-fluorouracilo con leucovorina prolonga la supervivencia en el cáncer de colon estadio III (ganglios positivos), donde la quimioterapia adyuvante es el estándar. Según la fuente, ese beneficio de 5-FU/leucovorina se demuestra en estadio III y no en estadio IV (A); la radioterapia no se usa de rutina en cáncer de colon (sí en recto); el bevacizumab sí prolonga la supervivencia en estadio IV, y es un anticuerpo contra el VEGF, no contra el receptor del factor de crecimiento epidérmico (ese es el cetuximab).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 del PDF"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "La opción A, tal como está redactada, es discutible (la quimioterapia basada en 5-FU sí mejora la supervivencia en estadio IV frente a no tratar), pero la fuente la da como falsa y la D es la afirmación inequívocamente correcta."
+ },
+ {
+  "k": "b376ca7625",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es la más confiable para confirmar el diagnóstico de apendicitis aguda?",
+  "opts": [
+   "Historia clásica de dolor periumbilical inicial que migra al cuadrante inferior derecho",
+   "Sensibilidad localizada en el punto de McBurney",
+   "Dolor a la descompresión (rebote)",
+   "Signo del obturador",
+   "Signo de Rovsing"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la localización del dolor en la fosa ilíaca derecha tras el dolor periumbilical inicial (migración) 'continúa siendo el indicador más fiable de la apendicitis', lo que apoya la opción A. La clave original (B, sensibilidad en el punto de McBurney) corresponde a la del texto de origen de la pregunta (estilo Schwartz), que no está en los libros de la carpeta. El Sabiston también aclara que ningún síntoma o signo aislado predice la apendicitis por sí solo. El rebote, el obturador y el Rovsing solo indican peritonitis localizada. Las fuentes no coinciden entre A y B, así que no se puede fijar una clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). Sabiston p. 1327 respalda A ('indicador más fiable'). Se deja dudosa por contradicción entre fuentes."
+ },
+ {
+  "k": "67bb99a19f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis aguda?",
+  "opts": [
+   "La capacidad luminal del apéndice es de 1 mL",
+   "El dolor periumbilical inicial se debe a la estimulación de las fibras aferentes parietales del dolor",
+   "La apendicitis perforada puede drenar en forma dependiente hacia el fondo de saco rectovesical",
+   "La náusea precede frecuentemente al dolor abdominal",
+   "No existe diferencia en las tasas de perforación según la edad"
+  ],
+  "ans": 2,
+  "why": "Tras la perforación, la secuela más común es un absceso periapendicular o pélvico: el pus drena por declive hacia la pelvis (fondo de saco rectovesical en el hombre). El dolor periumbilical inicial es visceral, por distensión del apéndice y estímulo de aferentes viscerales, no parietales. La luz del apéndice es muy pequeña (~0,1 mL), no 1 mL. Lo típico es que el dolor preceda a la náusea. Las tasas de perforación sí varían con la edad: son mayores en niños pequeños y en ancianos (40–70%).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Sabiston 21.ª ed., p. 1338 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "12a2551b00",
+  "estado": "confirmada",
+  "stem": "La causa más común de fístula rectovaginal es:",
+  "opts": [
+   "Carcinoma de colon",
+   "Diverticulitis",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Carcinoma vesical"
+  ],
+  "ans": 3,
+  "why": "La causa más frecuente de fístula rectovaginal es la lesión obstétrica: desgarro perineal de tercer o cuarto grado o episiotomía en un parto vaginal, típicamente en primigestas. Otras causas son la enfermedad inflamatoria intestinal (más Crohn que CU), el carcinoma rectal, la radioterapia pélvica y, raramente, la diverticulitis. El carcinoma vesical no es una causa habitual.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 179 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "5ea2d99522",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la función inmunológica del apéndice?",
+  "opts": [
+   "Secreta IgA",
+   "Secreta IgE",
+   "Secreta IgM",
+   "Secreta IgG",
+   "No tiene función inmunológica"
+  ],
+  "ans": 0,
+  "why": "El apéndice contiene abundante tejido linfoide asociado al intestino (GALT) en la submucosa y es un sitio importante de producción de IgA secretora, que regula la flora intestinal en las superficies mucosas. No es un sitio característico de secreción de IgE, IgM o IgG. Afirmar que no tiene función inmunológica es falso: el Sabiston describe su posible función inmunitaria y su papel como reservorio de flora.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1325 del PDF",
+   "Exploring the Immunological Role of the Microbial Composition of the Appendix… J Pers Med 2025 (PMC11943658, https://europepmc.org/article/PMC/PMC11943658)"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "ea92a77d7e",
+  "estado": "confirmada",
+  "stem": "Una hernia que contiene el apéndice se conoce como:",
+  "opts": [
+   "Hernia de Petit",
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia de Spigelio",
+   "Hernia de Grynfeltt"
+  ],
+  "ans": 1,
+  "why": "La hernia de Amyand es la que contiene el apéndice; el nombre viene de Claudius Amyand, que hizo la primera apendicectomía en un niño con una hernia inguinoescrotal. La hernia de Littre contiene un divertículo de Meckel. Las de Petit (triángulo lumbar inferior) y Grynfeltt (triángulo lumbar superior) son hernias lumbares. La de Spiegel ocurre a través de la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "43c6b3783a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 35 años se presenta con 1 día de anorexia, dolor en cuadrante inferior derecho y fiebre leve. En la cirugía, el apéndice parece normal. Sin embargo, el ciego y el íleon terminal están rojos e inflamados. El manejo consiste en:",
+  "opts": [
+   "Hemicolectomía derecha",
+   "Apendicectomía",
+   "Cierre de la herida sin intervención adicional",
+   "Biopsia de la pared cecal",
+   "Biopsia del íleon terminal"
+  ],
+  "ans": 2,
+  "why": "Es una ileítis terminal aguda (posible Crohn) con el ciego inflamado. Si el ciego está inflamado no se debe hacer apendicectomía ni biopsias, porque aumentan el riesgo de fístula enterocutánea. La resección (hemicolectomía) solo se indica ante perforación libre, fístula o estenosis. Lo correcto es cerrar sin más intervención y estudiar luego con colonoscopía y biopsias.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "6be72a1205",
+  "estado": "confirmada",
+  "stem": "Un adolescente de 15 años se presenta con 5 días de dolor en el cuadrante inferior derecho y fiebre de 39.4 °C (103 °F). Al examen presenta sensibilidad en los cuadrantes inferior y superior derechos. La bilirrubina total es 3 mg/dL y la fosfatasa alcalina es 250 UI/L. La TC con contraste muestra múltiples densidades en el lóbulo derecho hepático, un flemón en el cuadrante inferior derecho y estriación alrededor de la vena mesentérica superior con burbujas de aire dentro de la vena. El cuadro clínico representa con mayor probabilidad:",
+  "opts": [
+   "Absceso hepático amebiano",
+   "Pileflebitis",
+   "Síndrome carcinoide",
+   "Adenocarcinoma metastásico",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": 1,
+  "why": "La pileflebitis es una tromboflebitis séptica del sistema porta, secundaria a apendicitis o diverticulitis. Produce múltiples abscesos hepáticos, sobre todo en el lóbulo derecho, eleva la fosfatasa alcalina y la bilirrubina, y en la TC se ven trombos o burbujas de aire en la vena mesentérica superior o la porta. El absceso amebiano suele ser único y no se acompaña de aire en la VMS. El síndrome carcinoide, las metástasis y la EII no explican el cuadro séptico agudo con gas portomesentérico.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "8471e9d3ab",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis en pacientes con VIH?",
+  "opts": [
+   "La apendicitis ocurre más frecuentemente que en la población general",
+   "Los pacientes con VIH usualmente no manifiestan síntomas ni signos abdominales",
+   "Un recuento bajo de CD4 se asocia a menor riesgo de ruptura",
+   "La morbilidad postoperatoria para la apendicitis no perforada es mayor que en la población general",
+   "Los recuentos leucocitarios absolutos típicamente están elevados"
+  ],
+  "ans": 0,
+  "why": "Varios estudios muestran que la apendicitis es más frecuente en personas con VIH que en la población general; una serie de la era HAART halló una incidencia más de cuatro veces mayor. Los pacientes sí presentan síntomas y signos abdominales. Un CD4 bajo (<200) se asocia a más apendicitis complicada o perforada, no a menos. La morbilidad elevada se vincula a la perforación y la demora, no a la apendicitis no perforada operada a tiempo. El recuento leucocitario es un indicador poco fiable en estos pacientes; los datos son variables, así que E no es la afirmación sólida.",
+  "fuentes": [
+   "Crum-Cianflone N et al. Appendicitis in HIV-infected patients during the era of HAART. HIV Med 2008 (PMC2753588, https://europepmc.org/article/PMC/PMC2753588)",
+   "Acute appendicitis in people living with HIV: What does the emergency surgeon needs to know? SAGE Open Med 2021 (PMC7871281, https://europepmc.org/article/PMC/PMC7871281)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Nota sobre la opción E: en la serie de Crum-Cianflone, el 88% tenía leucocitosis, mientras que otra revisión describe baja prevalencia de leucocitosis. La opción A es la única respaldada de forma consistente."
+ },
+ {
+  "k": "87bf432fc9",
+  "estado": "confirmada",
+  "stem": "El parásito intestinal más común en todo el mundo que causa apendicitis es:",
+  "opts": [
+   "Enterobius vermicularis",
+   "Strongyloides stercoralis",
+   "Ascaris lumbricoides",
+   "Echinococcus granulosus",
+   "Clonorchis sinensis"
+  ],
+  "ans": 2,
+  "why": "Ascaris lumbricoides es el parásito intestinal más común del mundo (unos 1400 millones de infectados) y puede causar apendicitis al obstruir la luz. Enterobius vermicularis (oxiuro) es el segundo. Strongyloides causa neumonitis, malabsorción y úlceras sangrantes. Echinococcus causa quiste hidatídico. Clonorchis se asocia a cálculos pigmentados y colangiocarcinoma.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "c21fb25d86",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años se presenta con signos y síntomas de apendicitis aguda. En la cirugía, se observa gran cantidad de ascitis gelatinosa con implantes peritoneales. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Tumor ovárico benigno",
+   "Adenoma mucinoso del apéndice",
+   "Apendicitis tuberculosa",
+   "Salmonella enteritidis",
+   "Yersinia enterocolítica"
+  ],
+  "ans": 1,
+  "why": "La ascitis gelatinosa con implantes peritoneales es un pseudomixoma peritoneal; su causa más frecuente es la rotura de un adenoma (cistoadenoma) mucinoso del apéndice, que da la adenomucinosis peritoneal diseminada. La TBC peritoneal da ascitis con nódulos blanquecinos y cuadro subagudo. Salmonella da gastroenteritis y raramente perforación de placas de Peyer. Yersinia da adenitis mesentérica o ileítis. El tumor ovárico benigno se asocia al síndrome de Meigs (ascitis y derrame pleural), no a ascitis gelatinosa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "17dbf02fad",
+  "estado": "confirmada",
+  "stem": "La presentación más común del adenocarcinoma apendicular es:",
+  "opts": [
+   "Masa abdominal palpable",
+   "Apendicitis aguda",
+   "Ascitis",
+   "Hallazgo incidental durante una cirugía",
+   "Anemia crónica"
+  ],
+  "ans": 1,
+  "why": "El adenocarcinoma primario del apéndice se presenta con más frecuencia como apendicitis aguda; por eso siempre debe revisarse la anatomía patológica de la pieza. El tratamiento definitivo es la hemicolectomía derecha y una colonoscopía completa por el riesgo de neoplasias sincrónicas. La masa palpable, la ascitis, el hallazgo incidental y la anemia no son la forma de presentación habitual.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "7c665163f2",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años con leucemia mieloide aguda se presenta con dolor abdominal en cuadrante inferior derecho. Recientemente completó quimioterapia. Su temperatura es de 102 °F (38.9 °C) y su recuento de leucocitos es de 900 células/µL. La TC revela inflamación y engrosamiento del colon derecho y estriación grasa adyacente. El manejo consiste en:",
+  "opts": [
+   "Antibióticos IV, reposo intestinal e hidratación IV",
+   "Hemicolectomía derecha con ileotransversostomía",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Cecostomía",
+   "Apendicectomía"
+  ],
+  "ans": 0,
+  "why": "Es una enterocolitis neutropénica (tiflitis): niño con leucemia y neutropenia, con dolor en el cuadrante inferior derecho, fiebre y engrosamiento del colon derecho con estriación grasa. La mayoría responde a reposo intestinal, antibióticos IV de amplio espectro e hidratación. La cirugía (hemicolectomía o cecostomía) se reserva para perforación u otras complicaciones. La apendicectomía no está indicada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 del PDF",
+   "Sabiston 21.ª ed., p. 1338 del PDF"
+  ],
+  "tema": "colon"
+ },
+ {
+  "k": "bec5ec8d21",
+  "estado": "confirmada",
+  "stem": "Una hernia que contiene un apéndice se conoce como:",
+  "opts": [
+   "Hernia de Petit",
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia de Spiegel",
+   "Hernia de Grynfelt"
+  ],
+  "ans": 1,
+  "why": "La hernia de Amyand es la que contiene el apéndice. La de Littre contiene un divertículo de Meckel. Las de Petit y Grynfelt son hernias lumbares (triángulo inferior y superior). La de Spiegel ocurre por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "04b8f5bff0",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la apendicitis en pacientes con VIH?",
+  "opts": [
+   "Es más frecuente que en la población general.",
+   "Generalmente no manifiestan síntomas ni signos abdominales.",
+   "Recuentos bajos de CD4 están asociados a menor riesgo de ruptura.",
+   "La morbilidad postoperatoria para apendicitis no perforada es mayor que en la población general.",
+   "Los leucocitos suelen estar elevados."
+  ],
+  "ans": 0,
+  "why": "Varios estudios muestran que la apendicitis es más frecuente en personas con VIH que en la población general; una serie de la era HAART halló una incidencia más de cuatro veces mayor. Los pacientes sí presentan síntomas y signos abdominales. Un CD4 bajo (<200) se asocia a más apendicitis complicada o perforada, no a menos. La morbilidad elevada se vincula a la perforación y la demora, no a la apendicitis no perforada operada a tiempo. El recuento leucocitario es un indicador poco fiable en estos pacientes; los datos son variables, así que E no es la afirmación sólida.",
+  "fuentes": [
+   "Crum-Cianflone N et al. Appendicitis in HIV-infected patients during the era of HAART. HIV Med 2008 (PMC2753588, https://europepmc.org/article/PMC/PMC2753588)",
+   "Acute appendicitis in people living with HIV: What does the emergency surgeon needs to know? SAGE Open Med 2021 (PMC7871281, https://europepmc.org/article/PMC/PMC7871281)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Nota sobre la opción E: en la serie de Crum-Cianflone, el 88% tenía leucocitosis, mientras que otra revisión describe baja prevalencia de leucocitosis. La opción A es la única respaldada de forma consistente."
+ },
+ {
+  "k": "f34c6554ba",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años se presenta con signos y síntomas de apendicitis aguda. En la cirugía se encuentra una gran cantidad de ascitis gelatinosa con implantes peritoneales. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Cáncer de ovario",
+   "Adenoma mucinoso apendicular",
+   "Apendicitis tuberculosa",
+   "Salmonella enteritidis",
+   "Yersinia enterocolitica"
+  ],
+  "ans": 1,
+  "why": "La ascitis gelatinosa con implantes peritoneales es un pseudomixoma peritoneal; su causa más frecuente es la rotura de un adenoma (cistoadenoma) mucinoso del apéndice, que da la adenomucinosis peritoneal diseminada. La TBC peritoneal da ascitis con nódulos blanquecinos y cuadro subagudo. Salmonella da gastroenteritis y raramente perforación de placas de Peyer. Yersinia da adenitis mesentérica o ileítis. Los tumores mucinosos de ovario pueden dar pseudomixoma, pero el origen más común es el apéndice.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "apendicitis"
+ },
+ {
+  "k": "2b3dc3bd4b",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis aguda?",
+  "opts": [
+   "Las náuseas y vómitos acompañantes resultan de la irritación del peritoneo parietal.",
+   "Es una forma de obstrucción en asa cerrada.",
+   "La proporción hombre:mujer es 1:1.",
+   "La incidencia ha aumentado en las últimas 4 décadas.",
+   "El uso creciente de la tomografía ha disminuido la tasa de apendicectomías negativas."
+  ],
+  "ans": null,
+  "why": "B (obstrucción en asa cerrada) es correcta: la apendicitis se produce por obstrucción de la luz de un órgano ciego, con aumento de presión distal, isquemia y perforación. Pero E también es defendible: el Sabiston afirma que las pruebas de imagen pueden reducir la tasa de apendicectomía negativa, que llega al 15%. La clave clásica la daba como falsa por estudios poblacionales antiguos. A es falsa (las náuseas son de origen visceral); C es falsa (predominio masculino); D es dudosa (la incidencia ha disminuido en países occidentales). Con dos opciones defendibles (B y E), no se puede fijar una clave única.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1327 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). B es verdadera, pero E también lo es según el Sabiston 21.ª ed. (p. 1327)."
+ }
+]

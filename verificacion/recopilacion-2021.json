@@ -1,0 +1,890 @@
+{
+ "2e9b247828": {
+  "k": "2e9b247828",
+  "estado": "confirmada",
+  "stem": "Un hombre de 38 años previamente sano con múltiples fracturas después de un accidente de auto desarrolla una trombosis venosa profunda femoral derecha al día 5 de hospitalización a pesar de estar en tratamiento profiláctico con heparina de bajo peso molecular desde su ingreso. Se observó que su recuento de plaquetas había disminuido de 385 000 / μl al ingreso a 90 000 / μl. Además del cese de toda la terapia de anticoagulación, ¿cuál de los siguientes es el manejo más apropiado?",
+  "opts": [
+   "Transfusión de plaquetas",
+   "Heparina de peso molecular bajo",
+   "Warfarina en dosis alta",
+   "Argatroban",
+   "No dar ninguna terapia adicional"
+  ],
+  "ans": 3,
+  "why": "El cuadro es una trombocitopenia inducida por heparina (TIH) tipo 2: caída de plaquetas >50% a los 5-7 días de exposición a heparina, con trombosis. Además de suspender toda heparina, hay que iniciar un inhibidor directo de la trombina i.v., como el argatrobán. La transfusión de plaquetas puede favorecer la trombosis, la HBPM es otra heparina, la warfarina no debe iniciarse en fase aguda (riesgo de necrosis cutánea/gangrena venosa) y no tratar deja una trombosis activa sin anticoagular.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 564 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "hemostasia"
+ },
+ "cb12281211": {
+  "k": "cb12281211",
+  "estado": "confirmada",
+  "stem": "¿Cuál de la siguientes refleja la composición de la solución de lactato Ringer?",
+  "opts": [
+   "Na 135, K 3.0; Ca 2.5, Cl 100, Lactato 30",
+   "Na 130, K 3.0; Ca 3.0, Cl 100, Lactato 30",
+   "Na 130, K 4.0; Ca 3.0, Cl 109, Lactato 28",
+   "Na 130, K 3.5; Ca 3.0, Cl 110, Lactato 25",
+   "Na 130, K 4.0; Ca 2.5, Cl 110, Lactato 25"
+  ],
+  "ans": 2,
+  "why": "El lactato de Ringer contiene Na 130, K 4, Ca 3, Cl 109 y lactato 28 mEq/l (osmolaridad ~273). Las otras opciones alteran uno o más de estos valores (Na 135, K 3 o 3,5, Cl 100 o 110, lactato 25 o 30).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 92 del PDF",
+   "Sabiston 21.ª ed., p. 96 del PDF (tabla 4.13)"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "liquidos"
+ },
+ "345368d99b": {
+  "k": "345368d99b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 35 años de edad presenta un historial de 1 día de anorexia, dolor y sensibilidad en el cuadrante inferior derecho y fiebre baja. En la cirugía, el apéndice parece normal. Sin embargo, tanto el ciego como el íleon terminal se ven rojos e inflamadas. El tratamiento consistiría en:",
+  "opts": [
+   "Apendicectomía",
+   "Hemicolectomía derecha",
+   "Biopsia del íleon terminal",
+   "Biopsia de la pared cecal",
+   "Cerrar la herida sin más intervención"
+  ],
+  "ans": 4,
+  "why": "Es una ileítis aguda (Crohn temprano, Yersinia, Campylobacter): no se reseca intestino. Sabiston indica apendicectomía solo si no hay inflamación aguda del apéndice ni del ciego; aquí el ciego está inflamado, por lo que se cierra sin más intervención (operar sobre ciego inflamado arriesga fístula). Hemicolectomía y biopsias de íleon o ciego no están indicadas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1292 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 160 del PDF (pregunta 40)"
+  ],
+  "nota": "Clave original: E (resaltado).",
+  "tema": "apendicitis"
+ },
+ "f5f02572cd": {
+  "k": "f5f02572cd",
+  "estado": "confirmada",
+  "stem": "Un paciente postoperado tiene una concentración sérica de sodio de 128 mEq/L y un nivel de glucosa en sangre de 600 mg/dL (nivel normal, 100 mg/dL). ¿Cuál sería la concentración sérica de sodio del paciente (suponiendo una función renal normal y una terapia adecuada con líquidos intraoperatorios) si los niveles de glucosa en sangre fueran normales?",
+  "opts": [
+   "136 mEq/L",
+   "142 mEq/L",
+   "147 mEq/L",
+   "120 mEq/L",
+   "122 mEq/L"
+  ],
+  "ans": 0,
+  "why": "Hiponatremia por hiperglucemia (translocacional): el sodio medido baja 1,6 mEq/l por cada 100 mg/dl de glucosa sobre 100. Exceso de glucosa = 500 mg/dl → 5 × 1,6 = 8; 128 + 8 = 136 mEq/l. Las demás cifras no corresponden a esa corrección.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "liquidos"
+ },
+ "839e17ce1f": {
+  "k": "839e17ce1f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta en relación con las incisiones abdominales y la prevención de las hernias incisionales?",
+  "opts": [
+   "La longitud de sutura: herida de 3:1 es la longitud de cierre recomendada actualmente",
+   "Se recomienda una distancia de 1 cm entre cada punto durante el cierre abdominal",
+   "No hay diferencia en la ocurrencia de hernias entre un cierre continuo y un cierre interrumpido",
+   "El uso profiláctico de la malla después de la cirugía abierta del aneurisma aórtico no es eficaz",
+   "Se prefiere una sutura monofilamento de absorción lenta para el cierre de la fascia de forma continua"
+  ],
+  "ans": 4,
+  "why": "El cierre recomendado de la fascia es en bloque, con sutura continua de monofilamento de absorción lenta (polidioxanona). La relación sutura:herida recomendada es al menos 4:1, no 3:1; los puntos recomendados son pequeños (5 mm de ancho y 5 mm de separación), no de 1 cm; el cierre continuo es superior al interrumpido; y la malla profiláctica en pacientes de alto riesgo (como la cirugía abierta de aneurisma aórtico) reduce las hernias incisionales.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 453 del PDF",
+   "Sabiston 21.ª ed., p. 454 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 29 del PDF"
+  ],
+  "nota": "La pregunta proviene del ABSITE (cap. pared abdominal, preg. 10), pero el banco la modificó: allí la correcta era '4:1' y la sutura del enunciado era 'permanente'. En esta versión la 4:1 pasó a 3:1 (falsa) y la sutura a 'absorción lenta' (verdadera), así que la clave E es correcta. Se corrigió la errata 'lente' por 'lenta'.",
+  "tema": "suturas"
+ },
+ "f1a0145994": {
+  "k": "f1a0145994",
+  "estado": "dudosa",
+  "stem": "¿Qué organismos son más frecuentemente asociados en pacientes que reciben diálisis peritoneal?",
+  "opts": [
+   "S. epidermidis",
+   "S. fecalis",
+   "S. aureos + S. epidermidis",
+   "S. aureos",
+   "Todas las anteriores"
+  ],
+  "ans": null,
+  "why": "Sabiston: en la peritonitis por diálisis peritoneal ~75% son grampositivos y Staphylococcus epidermidis causa el 30-50% de los casos; S. aureus, gramnegativos entéricos y hongos son 'otras causas importantes'. El ABSITE da como respuesta el estafilococo coagulasa negativo (S. epidermidis) como el más frecuente 'con mucho'. Eso apoya A, pero el enunciado pide 'organismos' en plural y la opción C (S. aureus + S. epidermidis) agrupa a los dos estafilococos, que juntos son los más frecuentes; ninguna fuente decide entre la lectura singular (A) y la plural (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1117 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 23 y 28 del PDF (pregunta 5)"
+  ],
+  "nota": "Clave original: C (resaltado). Si el examen sigue al ABSITE, la respuesta esperada sería A (S. epidermidis).",
+  "tema": "otros"
+ },
+ "c95428ac02": {
+  "k": "c95428ac02",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es cierta con respecto al tratamiento del síndrome del intestino corto?",
+  "opts": [
+   "Los pacientes que todavía requieren NPT después de 6 meses requerirán NPT permanente",
+   "La codeína está contraindicada",
+   "Está indicada la alimentación enteral precoz",
+   "La glutamina debe evitarse",
+   "El octeótrido es la piedra angular del tratamiento"
+  ],
+  "ans": 2,
+  "why": "La alimentación enteral debe iniciarse en cuanto se resuelve el íleo: estimula la adaptación intestinal y evita la atrofia vellositaria. La codeína y la loperamida se usan para enlentecer el tránsito; la glutamina es útil como combustible trófico del enterocito; el papel del octreótido es controvertido (no es la piedra angular); y muchos pacientes logran dejar la NPT tras más de 6 meses (la adaptación dura 1-2 años).",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 142 del PDF",
+   "Sabiston 21.ª ed., p. 1320 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "intestino"
+ },
+ "02700cb2b7": {
+  "k": "02700cb2b7",
+  "estado": "confirmada",
+  "stem": "Se sospecha que un hombre de 27 años tiene apendicitis aguda. En el examen físico su abdomen es blando y no está distendido. No tiene dolor al toser ni reproducción de sensibilidad en el cuadrante inferior izquierdo. Experimenta dolor abdominal durante la extensión del muslo derecho mientras está acostado sobre su lado izquierdo. No tiene dolor con la rotación pasiva de la cadera derecha en posición flexionada. ¿Dónde sospecha que está la punta de su apéndice?",
+  "opts": [
+   "En el cuadrante inferior izquierdo",
+   "Extraperitoneal y anterior al ciego",
+   "En la pelvis",
+   "Desplazado al cuadrante superior derecho",
+   "Retrocecal sobre el músculo psoas"
+  ],
+  "ans": 4,
+  "why": "El dolor con la extensión del muslo derecho en decúbito lateral izquierdo es el signo del psoas: indica un apéndice inflamado en contacto con el iliopsoas, es decir, retrocecal. La rotación interna de la cadera flexionada (signo del obturador) negativa aleja la posición pélvica; la ausencia de Rovsing y de signos peritoneales anteriores es compatible con un apéndice retrocecal. Las otras localizaciones no producen signo del psoas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1162 del PDF",
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Latarjet, tomo 2, p. 555 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado).",
+  "tema": "apendicitis"
+ },
+ "cb4ba3ba12": {
+  "k": "cb4ba3ba12",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el tratamiento de elección para pacientes con un absceso hepático amebiano?",
+  "opts": [
+   "Drenaje laparoscópico",
+   "Drenaje radiológico con guía ecográfica",
+   "Drenaje quirúrgico",
+   "Metronidazol",
+   "Todas las anteriores"
+  ],
+  "ans": 3,
+  "why": "La piedra angular del tratamiento del absceso hepático amebiano es el metronidazol (750 mg c/8 h por 10 días), que cura más del 90% de los casos. La aspiración o el drenaje (percutáneo, laparoscópico o quirúrgico) se reservan para duda diagnóstica, falta de respuesta en 3-5 días o riesgo de rotura (>5 cm, lóbulo izquierdo).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1483 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "higado"
+ },
+ "f4a7c8fb78": {
+  "k": "f4a7c8fb78",
+  "estado": "confirmada",
+  "stem": "Con la apendicitis durante el embarazo, el factor más fuertemente asociado con la mortalidad fetal es:",
+  "opts": [
+   "Comorbilidades maternas",
+   "Edad gestacional fetal",
+   "Retraso en la administración de antibióticos",
+   "Ruptura del apéndice",
+   "Apendicectomía abierta en lugar de laparoscopia"
+  ],
+  "ans": 3,
+  "why": "La perforación apendicular es la variable más importante en la mortalidad fetal: con apendicitis complicada la pérdida fetal llega al 6% frente al 2% en la no complicada. Por eso el diagnóstico debe ser precoz. Edad gestacional, comorbilidades, demora antibiótica y vía abierta frente a laparoscópica no tienen ese peso.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 163 del PDF",
+   "Sabiston 21.ª ed., p. 1337 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "apendicitis"
+ },
+ "dd3b7bf5bf": {
+  "k": "dd3b7bf5bf",
+  "estado": "confirmada",
+  "stem": "Un varón de 45 años de edad se presenta en emergencia después de un accidente de tránsito de alta velocidad con evidencia de fracturas faciales severas y deformidades bilaterales en las extremidades inferiores. Las paramédicos reportan una cantidad significativa de sangre en sus vías respiratorias, y las respiraciones del paciente están siendo asistidas con ventilación bolsa máscara. En el examen, el paciente está hemodinámicamente estable con una saturación de O2 del 85% con una mascarilla con bolsa de reservorio y ECG de 7. Los intentos de intubación de secuencia rápida no tienen éxito debido a la incapacidad de visualizar las vías respiratorias como resultado de un sangrado continuo. Los intentos de ventilar se hacen más difícil. ¿Cuál de las siguientes es el mejor siguiente paso en el tratamiento?",
+  "opts": [
+   "Cricotiroidotomía quirúrgico",
+   "Oxigenación apneica",
+   "Intubación broncoscópica asistida por fibra óptica",
+   "Intubación naso-traqueal",
+   "Cricotiroidotomía con aguja"
+  ],
+  "ans": 0,
+  "why": "Es un escenario de 'no se puede intubar ni ventilar' en un adulto con trauma facial y sangrado: hay que hacer de inmediato una cricotiroidotomía quirúrgica. La cricotiroidotomía con aguja se reserva sobre todo para niños menores de 12 años; la intubación nasotraqueal está contraindicada en fracturas faciales graves; la fibrobroncoscopia es inviable con sangrado activo; y la oxigenación apneica no asegura la vía aérea.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 265 del PDF",
+   "Sabiston 21.ª ed., p. 417 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "trauma"
+ },
+ "8c3d627680": {
+  "k": "8c3d627680",
+  "estado": "corregida",
+  "stem": "¿Cuál de las siguientes enfermedades NO se asocia a sobrecrecimiento bacteriano intestinal?",
+  "opts": [
+   "Esclerosis sistémica",
+   "Enfermedad celíaca",
+   "N.A",
+   "Diverticulos yeyunales",
+   "Enteritis por radiación"
+  ],
+  "ans": 2,
+  "why": "Las cuatro enfermedades se asocian a sobrecrecimiento bacteriano. Los divertículos yeyunales y las estenosis (como en la enteritis por radiación) causan estasis y síndrome de asa ciega (Sabiston). En la esclerosis sistémica la prevalencia es ~34-40% por dismotilidad (metaanálisis). En la enfermedad celíaca es ~18%, con OR ≈5 frente a controles (metaanálisis 2022). Por tanto, 'ninguna de las anteriores' (N.A) es la respuesta correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1310 y 1318 del PDF",
+   "Shah A et al. Links between celiac disease and SIBO: systematic review and meta-analysis. J Gastroenterol Hepatol 2022;37:1844-52 (PMID 35734803)",
+   "Feng X et al. Prevalence of SIBO in systemic sclerosis: meta-analysis. Clin Rheumatol 2021 (PMID 33426631)"
+  ],
+  "nota": "Clave original: B (enfermedad celíaca, resaltado). La evidencia muestra que la celiaquía sí se asocia a SIBO. Es posible que el examen esperara B; el profesor podría considerarla la 'menos clásica'.",
+  "tema": "intestino"
+ },
+ "11c7dcc082": {
+  "k": "11c7dcc082",
+  "estado": "confirmada",
+  "stem": "Con respecto al absceso hepático amebiano, todas las siguientes afirmaciones son verdaderas, excepto",
+  "opts": [
+   "Las complicaciones incluyen empiema.",
+   "E. histolytica viaja desde el colon al hígado a través de la vena porta.",
+   "La incisión quirúrgica y el drenaje son la línea principal de tratamiento.",
+   "El absceso hepático amebiano contiene líquido marrón.",
+   "El diagnóstico diferencial incluye el carcinoma hepatocelular."
+  ],
+  "ans": 2,
+  "why": "La excepción es C: el tratamiento principal es el metronidazol, y el drenaje se reserva para casos seleccionados. Las demás son verdaderas: E. histolytica llega al hígado desde el colon por la vena porta; puede romperse a pleura (empiema), peritoneo o pericardio; el contenido es 'pasta de anchoas' (marrón); y el diagnóstico diferencial incluye neoplasias hepáticas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1482 y 1483 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "higado"
+ },
+ "c1fb6028a7": {
+  "k": "c1fb6028a7",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años de edad con un largo historial de hipertensión y un historial de tabaquismo de 25 paquetes al año está programado para una reparación de hernia laparoscópica electiva. Su presión sanguínea es de 150/90 mmHg. El ECG muestra cambios no específicos en el segmento ST. Las intervenciones apropiadas incluirían ¿cuáles de las siguientes?",
+  "opts": [
+   "Solicitar una consulta cardiaca",
+   "Obtener una historia más detallada sobre el nivel de ejercicio y la actividad diaria",
+   "Cancelación del procedimiento",
+   "Ninguna de las anteriores",
+   "Administración perioperatoria de un β bloqueador y cambio de la cirugia a una reparación abierta de la hernia con anestesia local."
+  ],
+  "ans": 1,
+  "why": "En la valoración cardíaca preoperatoria, sin síndrome coronario agudo, el paso clave es estimar la capacidad funcional (METs): con ≥4 METs y sin síntomas se puede operar sin más pruebas. La hernioplastia laparoscópica no es de alto riesgo y un ECG con cambios inespecíficos del ST no obliga a interconsulta, cancelación ni cambio de técnica. Solo se piden pruebas si van a cambiar el manejo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 218 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "eras"
+ },
+ "92fd72501e": {
+  "k": "92fd72501e",
+  "estado": "confirmada",
+  "stem": "Una mujer de 55 años de edad con una obstrucción del intestino delgado tiene un nivel de potasio sérico de 2.8 mmol/L. Su hipokalemia es refractaria a la repleción agresiva. ¿Cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "La repleción intravenosa de potasio con una tasa de 80 mEq/h debería mejorar su condición.",
+   "La hipopotasiemia produce hipopolarización del potencial de resposo de la célula.",
+   "La hipomagnesemia podría contribuir a su problema.",
+   "Un electrocardiograma probablemente mostrará picos de ondas T.",
+   "La paciente probablemente sufrirá de parálisis flácida y compromiso respiratorio hasta que su nivel de potasio se incremente a por lo menos 3.0 mmol/L."
+  ],
+  "ans": 2,
+  "why": "La hipomagnesemia causa hipopotasemia refractaria, por pérdida renal de K: hay que medir y corregir el magnesio. La reposición i.v. no debe superar 10-20 mEq/h (hasta 40 mEq/h por vía central en urgencias), así que 80 mEq/h es peligroso. La hipopotasemia hiperpolariza la membrana en reposo, no la hipopolariza. El ECG muestra ondas T aplanadas y ondas U, no T picudas. La parálisis flácida suele aparecer con K mucho más bajo (<2,5).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "liquidos"
+ },
+ "fb46eaa970": {
+  "k": "fb46eaa970",
+  "estado": "confirmada",
+  "stem": "Sobre la cirugía abierta para la reparación de una hernia inguinal, todas las siguientes afirmaciones son ciertas, excepto",
+  "opts": [
+   "El nervio ilioinguinal puede lesionarse.",
+   "La reparación de la aponeurosis oblicua externa es el factor importante que previene la recurrencia.",
+   "La operación se puede realizar bajo anestesia local.",
+   "La vena ilíaca externa puede lesionarse.",
+   "Los conductos deferentes pueden lesionarse."
+  ],
+  "ans": 1,
+  "why": "La excepción es B: la recidiva depende de la reparación sin tensión de la pared posterior del conducto inguinal (fascia transversalis, malla); la aponeurosis del oblicuo externo solo se cierra encima y no previene la recurrencia. Las demás son ciertas: en la vía abierta pueden lesionarse el nervio ilioinguinal, el conducto deferente y los vasos ilíacos externos/femorales; y la operación puede hacerse con anestesia local.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1143 del PDF",
+   "Sabiston 21.ª ed., p. 1136 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "hernias"
+ },
+ "86e83cc7eb": {
+  "k": "86e83cc7eb",
+  "estado": "confirmada",
+  "stem": "Son indicaciones de pancreaticoduodenectomia en trauma abdominal, excepto:",
+  "opts": [
+   "Injuria combinada de duodeno y la cabeza de páncreas",
+   "Hemorragia masiva de la cabeza de pancreas",
+   "N.A",
+   "Injuria ductual servera de la cabeza de páncreas",
+   "Hemorragia masiva de estructuras vasculares adyacentes"
+  ],
+  "ans": 2,
+  "why": "Todas las opciones listadas son indicaciones clásicas de pancreatoduodenectomía en trauma, por lo que la respuesta es N.A. Esas indicaciones son: lesión combinada devastadora de duodeno y cabeza pancreática, destrucción grave del conducto o la ampolla en la cabeza (no reconstruible) y hemorragia masiva incontrolable de la cabeza del páncreas o de los vasos adyacentes. Sabiston recalca que solo se hace en pacientes con fisiología normalizada; si no, se hace control de daños y Whipple diferido.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 445 del PDF",
+   "Krige JE et al. Emergency pancreatoduodenectomy for complex injuries of the pancreas and duodenum. HPB 2014 (PMID 24841125)",
+   "Krige JE et al. Damage control laparotomy and delayed pancreatoduodenectomy for complex combined pancreatoduodenal and venous injuries. Eur J Trauma Emerg Surg 2016 (PMID 26038043)"
+  ],
+  "nota": "Sabiston menciona de forma explícita la lesión combinada y la destrucción de la cabeza. La hemorragia masiva (cabeza o vasos adyacentes) aparece en la literatura de trauma pancreático (Krige).",
+  "tema": "trauma"
+ },
+ "7728c31a9a": {
+  "k": "7728c31a9a",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes opciones no aumenta de forma rutinaria durante la cirugía laparoscópica?",
+  "opts": [
+   "Capacidad vital",
+   "Excursión diafragmática",
+   "Presión intratorácica",
+   "Presión capilar pulmonar en cuña",
+   "Presión de las vías respiratorias"
+  ],
+  "ans": null,
+  "why": "El neumoperitoneo eleva el diafragma y aumenta la presión intratorácica, la presión de la vía aérea y la presión capilar pulmonar en cuña (por la transmisión de presión). La capacidad vital disminuye, por lo que A es correcta. Sin embargo, Sabiston indica que el desplazamiento del diafragma hacia arriba disminuye la excursión diafragmática: B tampoco aumenta. Hay dos opciones que 'no aumentan' y no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 288 del PDF"
+  ],
+  "nota": "Clave original: A (capacidad vital). Probablemente 'excursión diafragmática' es una mala traducción de 'elevación/desplazamiento del diafragma', pero el texto tal como está deja dos respuestas.",
+  "tema": "laparoscopia"
+ },
+ "2dc70099f0": {
+  "k": "2dc70099f0",
+  "estado": "confirmada",
+  "stem": "Paciente con enfermedad de Crohn que va comenzar tratamiento con terapia biológica antiTNF (anticuerpos anti-factor de necrosis tumoral alfa) ¿Cuál de las siguientes pruebas diagnósticas no es necesaria antes de iniciar dicha terapia?",
+  "opts": [
+   "Serología del virus de la inmunodeficiencia humana",
+   "Radiografía de tórax",
+   "Prueba de tuberculina",
+   "Valoración del estado inmunitario mediante contaje linfocitario",
+   "Serología del virus de hepatitis B (VHB)"
+  ],
+  "ans": 3,
+  "why": "Antes de un anti-TNF se descartan las infecciones que el fármaco puede reactivar: tuberculosis latente (PPD o IGRA, más radiografía de tórax), hepatitis B y VIH. El recuento de linfocitos no es una prueba requerida para iniciar el tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1373 del PDF",
+   "Sabiston 21.ª ed., p. 1290 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "intestino"
+ },
+ "bad670172c": {
+  "k": "bad670172c",
+  "estado": "confirmada",
+  "stem": "Primigesta de 23 años de edad, cursando embarazo de 22 semanas, se le diagnostica apendicitis. Marque la premisa :",
+  "opts": [
+   "N.A",
+   "El TTO quirúrgico por cirugía laparoscópica.",
+   "Dar antiespasmódicos, analgésicos y conducta expectante.",
+   "No es la emergencia más frecuente no obstétrica de 0.04% a 0.2%",
+   "Analgésicos, antibióticos y reevaluar en 24hs."
+  ],
+  "ans": 1,
+  "why": "La apendicitis en la embarazada se opera sin demora, y según la SAGES la apendicectomía laparoscópica es segura en cualquier trimestre (adaptando los trócares a la altura uterina). La conducta expectante o con analgésicos y reevaluación aumenta el riesgo de perforación, principal causa de pérdida fetal. La apendicitis sí es la emergencia quirúrgica no obstétrica más frecuente del embarazo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1338 del PDF",
+   "Sabiston 21.ª ed., p. 2061 y 2064 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "apendicitis"
+ },
+ "5701199b10": {
+  "k": "5701199b10",
+  "estado": "dudosa",
+  "stem": "Una bailarina de ballet de 25 años con antecedentes de anorexia nervosa llega a emergencia con dolor en el cuadrante inferior derecho. Después de una apendicectomía, desarrolla una infección de sitio operatorio que requiere desbridamiento. La paciente recibe un régimen de antibióticos, y la herida está llena de apósitos húmedos a secos. En cuanto a la curación de heridas y la desnutrición, ¿cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "La hipoproteinemia conduce a una disminución de los niveles de arginina y glutamina, que son esenciales para la cicatrización de las heridas.",
+   "El paciente debe ser tratado con altas dosis de vitamina C, vitamina A y zinc.",
+   "La vitamina D desempeña un papel inmunomodulador en la cicatrización de heridas.",
+   "Las membranas celulares se deshidratan rápidamente en ausencia de vitamina E, lo que retrasa la cicatrización de la herida.",
+   "El zinc es esencial para la capacidad del fibroblasto para entrecruzar el colágeno."
+  ],
+  "ans": null,
+  "why": "D es falsa (la vitamina E no deshidrata membranas ni mejora la cicatrización). E también es falsa: el entrecruzamiento del colágeno depende de la vitamina C y del cobre (lisil oxidasa); el zinc es cofactor de proliferación y síntesis. B lo es igualmente, porque las dosis altas de vitaminas y zinc no se indican sin déficit (Sabiston, ABSITE). Entre A (hipoproteinemia con menor arginina y glutamina) y C (papel inmunomodulador de la vitamina D), ninguna fuente disponible respalda explícitamente C. Sabiston y ABSITE describen la vitamina D solo en el metabolismo óseo y del calcio; A es plausible. La evidencia no decide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 134 y 160 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 493 y 498 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). No se encontró la fuente de la pregunta.",
+  "tema": "cicatrizacion"
+ },
+ "06f362aea1": {
+  "k": "06f362aea1",
+  "estado": "confirmada",
+  "stem": "Mujer de 48 años con Dx pancreatitis aguda grave, presenta mal estado general, leucocitosis de 20,000 /uL, fiebre de 39 C, insuficiencia renal, disnea, shock, el manejo recomendado es:",
+  "opts": [
+   "Laparoscopía de emergencia",
+   "Laparotomía de emergencia",
+   "N.A",
+   "Nutrición parenteral total",
+   "Punción del páncreas con aguja fina y guiado por imágenes y cultivo y antibiograma."
+  ],
+  "ans": 4,
+  "why": "Ante una pancreatitis aguda grave con fiebre, leucocitosis, fallo orgánico y deterioro, se sospecha necrosis infectada. Si hay duda diagnóstica, la aspiración con aguja fina guiada por imagen con Gram y cultivo establece el diagnóstico (Sabiston). La cirugía precoz (laparotomía o laparoscopia) aumenta la mortalidad y la intervención debe diferirse hasta la necrosis encapsulada; la nutrición de elección es enteral, no NPT.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1563 del PDF"
+  ],
+  "nota": "En la práctica actual (revisión de Atlanta / IAP-APA) la PAAF no es rutinaria: se usa solo si hay duda. A menudo la necrosis infectada se trata de forma empírica con antibióticos y abordaje escalonado. Entre las opciones ofrecidas, E es la única correcta.",
+  "tema": "pancreas-bazo"
+ },
+ "736d220eb5": {
+  "k": "736d220eb5",
+  "estado": "confirmada",
+  "stem": "En patología colorrectal, dada las siguientes preguntas marque la que NO es CORRECTA:",
+  "opts": [
+   "El conducto anal proximal tiene inervación visceral.",
+   "El esfínter externo es involuntario y el interno es voluntario.",
+   "El conducto anal distal tiene inervación de tipo somática",
+   "El esfínter externo está inervado por el nervio pudendo",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "Es falso que el esfínter externo sea involuntario y el interno voluntario: es al revés. El esfínter interno es músculo liso con inervación autónoma (simpática L5 y parasimpática S2-S4) y aporta la mayor parte del tono de reposo; el externo es músculo estriado, de control voluntario, inervado por la rama rectal inferior del nervio pudendo. Las demás afirmaciones son correctas: el conducto anal proximal (sobre la línea pectínea) tiene inervación visceral y el distal, somática.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF",
+   "Sabiston 21.ª ed., p. 1427 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave resaltada en el original: B."
+ },
+ "8357c4da8c": {
+  "k": "8357c4da8c",
+  "estado": "confirmada",
+  "stem": "Paciente de 32 años, diagnosticado de colitis ulcerosa tipo pancolitis, tratado, sin episodios de brotes en los últimos cuatro meses. Refiere desde hace 15 días dolor sordo en hipocondrio derecho y astenia. Febrícula ocasional. La exploración física no objetiva ninguna alteración significativa y analíticamente tiene una bilirrubina total de 2.3 mg/dl (directa 1.2 mg/dl); aspartato aminotransferasa 90 UI/I; alanino aminotransferasa 106 UI/I. Actividad de la protrombina 95%. Proteinas totales 8 g% y albumina 3.9 g%. Anticuerpos antimitocondriales negativos. Teniendo en cuenta los datos anteriores. ¿Cuál es el diagnostivo mas probable?",
+  "opts": [
+   "Colangitis esclerosante primaria",
+   "Hepatitis autoinmune",
+   "Coledocolitiasis",
+   "Hígado metastásico",
+   "Cirrosis biliar primaria"
+  ],
+  "ans": 0,
+  "why": "Paciente con colitis ulcerosa (pancolitis) que desarrolla dolor en hipocondrio derecho, febrícula y alteración de las pruebas hepáticas con anticuerpos antimitocondriales negativos: lo más probable es una colangitis esclerosante primaria, que se asocia a colitis ulcerosa en casi el 70% de los casos. Los AMA negativos van en contra de la cirrosis biliar primaria; la hepatitis autoinmune no tiene esta asociación típica con la CU, y nada sugiere coledocolitiasis ni metástasis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1527 del PDF"
+  ],
+  "tema": "via-biliar",
+  "nota": "Clave resaltada en el original: A."
+ },
+ "4f85d0f17d": {
+  "k": "4f85d0f17d",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la relación normal de bicarbonate a acido carbónico en el cuerpo?",
+  "opts": [
+   "40:1",
+   "15:1",
+   "20:1",
+   "30:1",
+   "10:1"
+  ],
+  "ans": 2,
+  "why": "Según Henderson-Hasselbalch, el pH depende del cociente HCO3-/H2CO3 (pKa 6,1). Con valores normales (HCO3- 24 mEq/L y ácido carbónico = 0,03 × PaCO2 40 = 1,2 mmol/L), el cociente es 24/1,2 = 20:1, que corresponde a un pH de 7,40 (6,1 + log 20). Los otros cocientes darían un pH fuera de lo normal.",
+  "fuentes": [
+   "MSD/Merck Manual Professional, Acid-Base Regulation (https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/acid-base-regulation-and-disorders/acid-base-regulation)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave resaltada: C (20:1). En la versión del aula virtual de la misma pregunta (p. 39) la respuesta oficial también es 20:1. Los libros de la carpeta no traen el cociente explícito; se calcula con la ecuación."
+ },
+ "9b3112f02c": {
+  "k": "9b3112f02c",
+  "estado": "dudosa",
+  "stem": "Un hombre de 75 años de edad es visto en emergencia con un historial de 2 horas de una hernia femoral incarcerada. Él toma warfarina por un antecedente previo de fibrilación auricular y tiene un INR de 3.1. ¿Cuál de los siguientes es el tratamiento correcto?",
+  "opts": [
+   "Admitir al paciente para la corrección del INR y repare la hernia por la mañana.",
+   "Realizar una reparación laparoscópica de emergencia de la hernia.",
+   "Intentar reducir la hernia en el servicio de emergencia después de la sedación.",
+   "Realizar una reparación abierta de emergencia de la hernia.",
+   "Usar una malla para reparar la hernia."
+  ],
+  "ans": null,
+  "why": "Una hernia femoral incarcerada debe repararse de urgencia y explorar el contenido del saco por el alto riesgo de estrangulación, así que diferir la cirugía hasta la mañana (A) o intentar reducirla en emergencia (C) no son correctas. Pero el Sabiston acepta para la hernia femoral tanto la reparación anterior abierta (ligamento de Cooper), como la preperitoneal o la laparoscópica, y no dice cuál elegir en un paciente anticoagulado con INR 3,1 (que además requiere revertir la anticoagulación). La malla (E) se contraindica si hay compromiso intestinal. Entre la reparación laparoscópica (B) y la abierta (D) la fuente no decide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1141 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave resaltada en el original: B (laparoscópica). No se encontró fuente fiable que la prefiera sobre la abierta en este contexto."
+ },
+ "59c51211c7": {
+  "k": "59c51211c7",
+  "estado": "dudosa",
+  "stem": "Una mujer de 45 años presenta un dolor abdominal vago. Ella ha estado teniendo este dolor de manera intermitente durante los últimos cinco años, pero no buscó atención médica antes. El dolor es más fuerte en el hipocondrio derecho. El examen físico revela sensibilidad leve a la palpación profunda en el hipocondrio derecho. Un examen de ultrasonido revela la presencia de cálculos biliares. El paciente rechaza todas las opciones quirúrgicas y solicita un tratamiento estrictamente no quirúrgico. ¿Cuál de los siguientes tratamientos es más probable que brinde el mayor beneficio a esta paciente?",
+  "opts": [
+   "Metoclopramida",
+   "Ácido ursodesoxicólico",
+   "Desintegración láser",
+   "Litotricia",
+   "Simvastatina"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que el tratamiento no quirúrgico de los cálculos biliares 'generalmente no tiene éxito' y menciona tres opciones: sales biliares orales (ácido ursodesoxicólico), disolución por contacto y litotricia extracorpórea; la disolución tiene recidivas de hasta el 50% y la litotricia, de alrededor del 20% (en cálculos únicos de 0,5-2 cm). Por tanto, tanto el ácido ursodesoxicólico (B) como la litotricia (D) son defendibles, y el enunciado no da el tamaño ni el número de cálculos para decidir. Metoclopramida, láser y simvastatina no son tratamientos de la colelitiasis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1522 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Clave resaltada en el original: B (ácido ursodesoxicólico), probablemente la esperada; el libro no permite descartar la litotricia."
+ },
+ "e7841e166f": {
+  "k": "e7841e166f",
+  "estado": "confirmada",
+  "stem": "En la reparación laparoscópica de hernia inguinal, la fijación de la malla mediante grapas en el espacio entre el conducto deferente y los vasos testiculares puede causar lesiones a",
+  "opts": [
+   "Nervio cutáneo lateral del muslo.",
+   "Vasos epigástricos inferiores.",
+   "Nervio femoral.",
+   "Vasos ilíacos externos.",
+   "arteria obturadora anormal."
+  ],
+  "ans": 3,
+  "why": "El espacio entre el conducto deferente (medial) y los vasos espermáticos/testiculares (lateral) es el 'triángulo de la fatalidad' (triangle of doom), que contiene los vasos ilíacos externos; por eso no se colocan grapas ni tackers ahí en la reparación laparoscópica. El nervio cutáneo lateral del muslo y el femoral están en el 'triángulo del dolor' (lateral a los vasos espermáticos, bajo la cintilla iliopúbica), y los vasos epigástricos inferiores quedan por encima, medial al anillo interno.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 37 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 38 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 44 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave resaltada en el original: D."
+ },
+ "961b1f2b6d": {
+  "k": "961b1f2b6d",
+  "estado": "confirmada",
+  "stem": "Una mujer de 29 años tiene programada la incisión y el drenaje de un absceso glúteo que ha recurrido tres veces a pesar del drenaje con aguja guiado por ultrasonido. La paciente tiene un historial de formación de queloides y está preocupada por una cicatriz antiestética en su glúteo. ¿Cuál de las siguientes afirmaciones sobre la cicatrización de heridas es verdadera?:",
+  "opts": [
+   "Las cicatrices hipertróficas ocurren con mayor frecuencia en las extremidades inferiores.",
+   "Una incisión perpendicular a las líneas de tensión natural de la piel resultará en la cicatriz menos obvia.",
+   "Los queloides contienen una sobreabundancia de fibroblastos.",
+   "Por lo general, se observa mejoría con la escisión queloide seguida de una inyección intralesional de esteroides.",
+   "Una cicatriz hipertrófica se extiende más allá de los límites de la herida original."
+  ],
+  "ans": 3,
+  "why": "En los queloides la escisión sola recidiva en el 50-100% de los casos; cuando se opera, debe combinarse con tratamiento complementario como corticoides intralesionales (triamcinolona) o radioterapia, con lo que se logra mejoría. Las demás son falsas: los queloides tienen haces de colágeno gruesos con escasez de células (son las cicatrices hipertróficas las que tienen agregados de fibroblastos); las incisiones perpendiculares a las líneas de tensión (Langer) tienen más tensión y peor cicatriz; y es el queloide, no la cicatriz hipertrófica, el que sobrepasa los bordes de la herida. Las cicatrices hipertróficas no predominan en las extremidades inferiores (zonas de riesgo: deltoides, esternón).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 155 del PDF",
+   "Sabiston 21.ª ed., p. 156 del PDF"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "Clave resaltada en el original: D."
+ },
+ "4f911f4e45": {
+  "k": "4f911f4e45",
+  "estado": "dudosa",
+  "stem": "Varón de 50 años, ingresa por dolor intenso en epigastrio, náuseas y vómitos. ¿Cúal de los siguientes criterios NO servirá para sospechar que se trata de pancreatitis aguda grave?",
+  "opts": [
+   "N.A",
+   "PCR > 150 mg /L (48 horas de inicio de síntomas)",
+   "Criterios de Ranson > 3",
+   "Apache II > 10",
+   "Score de TAC abdominal > 7 (a partir de inicio de síntomas)"
+  ],
+  "ans": null,
+  "why": "Según el Sabiston, definen pancreatitis grave: Ranson ≥ 3, APACHE II ≥ 8, PCR ≥ 150 mg/L (máxima a las 48-72 h) y un índice de gravedad por TC alto (CTSI 7-10: mortalidad 17%, morbilidad 92%). Así, B, C y D sirven. La clave E se apoya en que la TC hecha desde el inicio de los síntomas subestima la necrosis (la TC pronóstica suele recomendarse a partir de las 72 h), pero el libro no lo dice y las guías no coinciden en el momento exacto (72-96 h frente a 48-72 h). Como un CTSI > 7 sí indica gravedad, también podría defenderse 'N.A'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1560 del PDF",
+   "Sabiston 21.ª ed., p. 1561 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave resaltada en el original: E. Queda dudosa porque depende del momento de la TC, que la fuente no fija."
+ },
+ "a11c48c0ad": {
+  "k": "a11c48c0ad",
+  "estado": "dudosa",
+  "stem": "Cual es el periodo de latencia para desarrollar anticuerpos para la hepatitis C",
+  "opts": [
+   "Por encima de 4 meses",
+   "Por encima de 6 meses",
+   "Por encima de 3 meses",
+   "N.A",
+   "Por encima de un mes"
+  ],
+  "ans": null,
+  "why": "Los CDC indican que los anticuerpos anti-VHC se detectan en el 80% de los pacientes a las 15 semanas de la exposición, en ≥ 90% a los 5 meses y en ≥ 97% a los 6 meses. No hay un único 'periodo de latencia': según el porcentaje que se tome, valdrían 'más de 3 meses', 'más de 4 meses' o 'más de 6 meses', y la pregunta no lo precisa.",
+  "fuentes": [
+   "CDC, MMWR 1998;47(RR-19): Recommendations for prevention and control of HCV infection (https://www.cdc.gov/mmwr/preview/mmwrhtml/00055154.htm)"
+  ],
+  "tema": "otros",
+  "nota": "Clave resaltada en el original: A (más de 4 meses)."
+ },
+ "405ef5e461": {
+  "k": "405ef5e461",
+  "estado": "confirmada",
+  "stem": "Sufrió una herida de bala en el muslo derecho 1 hora antes de llegar. Se encuentra afebril con una FC de 136 latidos/min y una PA de 90/60 mmHg. Inicialmente está alerta y pidiendo agua, pero se confunde durante su breve entrevista. ¿En qué clase de shock hemorrágico se encuentra?",
+  "opts": [
+   "III",
+   "Se necesita más información",
+   "II",
+   "IV",
+   "I"
+  ],
+  "ans": 0,
+  "why": "Taquicardia > 120 lpm (136), presión arterial ya disminuida (90/60) y alteración del estado mental (confusión) corresponden al shock hemorrágico clase III del ATLS (pérdida del 30-40% de la volemia). En la clase II la presión arterial es normal y el paciente solo está ansioso; en la clase IV el pulso supera los 140 lpm y el paciente está letárgico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 73 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Clave resaltada en el original: A (III). En esta página el enunciado empieza cortado ('sufrió…'); en la p. 14 del mismo archivo aparece completo ('un hombre de 24 años…') y con la misma clave III."
+ },
+ "b13fe05aea": {
+  "k": "b13fe05aea",
+  "estado": "corregida",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta con el uso de la colangiografía intraoperatoria (CIO) durante la colecistectomía laparoscópica?",
+  "opts": [
+   "El uso rutinario está justificado por su capacidad para identificar anomalías anatómicas de los conductos hepáticos",
+   "El uso rutinario es útil para asegurar una completa extirpación de la vesícula biliar y del conducto cístico.",
+   "Es la mejor manera de identificar clínicamente significativos e insospechados cálculos en el CBC.",
+   "Ayuda a prevenir la incisión inadvertida del conducto biliar común (CBC).",
+   "El uso rutinario es innecesario."
+  ],
+  "ans": 4,
+  "why": "El uso rutinario de la colangiografía intraoperatoria para prevenir lesiones de la vía biliar es controvertido, y la mayoría de los cirujanos lo considera innecesario; muchos la usan de forma selectiva. Lo más probable es que no prevenga la lesión del colédoco (aunque permite reconocerla antes). Además, los cálculos coledocianos suelen sospecharse antes de la cirugía (pruebas hepáticas alteradas, colédoco dilatado, pancreatitis biliar), y su uso rutinario no se justifica para identificar variantes anatómicas ni para asegurar una extirpación completa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 52 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Clave resaltada en el original: A. El ABSITE (pregunta idéntica) da como respuesta E."
+ },
+ "d8a894337b": {
+  "k": "d8a894337b",
+  "estado": "confirmada",
+  "stem": "Cual es la mas comun complicacion de la infusion parenteral rápida de nutricion parenteral total:",
+  "opts": [
+   "Hipercalcemia",
+   "Hipertrigliceridemia",
+   "Hiperbilirrubinemia",
+   "Hiperglucemia",
+   "Hipocalemia"
+  ],
+  "ans": 3,
+  "why": "La complicación metabólica más frecuente de la nutrición parenteral, sobre todo si la infusión de glucosa es rápida, es la hiperglucemia. Por eso la velocidad de infusión de glucosa se aumenta de forma gradual: si es excesiva causa con rapidez hiperglucemia, hiperosmolaridad y deshidratación. La hipertrigliceridemia también ocurre pero es menos frecuente; la hipercalcemia, la hiperbilirrubinemia y la hipopotasemia no son las complicaciones típicas de la infusión rápida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 558 del PDF",
+   "Sabiston 21.ª ed., p. 1870 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave resaltada en el original: D."
+ },
+ "fd6d8f4ec1": {
+  "k": "fd6d8f4ec1",
+  "estado": "confirmada",
+  "stem": "Un hombre de 24 años ebrio, se presenta en el departamento de emergencias luego de sufrir una puñalada durante una pelea. Está consciente pero letárgico. Se queja de dolor abdominal e insulta cuando habla. Su presión arterial es de 90/65 mmHg, la frecuencia respiratoria es de 27 / min y la frecuencia del pulso es de 130 / min. El examen físico revela una herida punzante de 4 cm en su región epigástrica. La exploración local revela sangrado activo dentro del peritoneo. Se realiza una laparoscopía urgente y se descubre que la arteria ha sido seccionada. Además la exploración muestra que la arteria lesionada se originó de la arteria esplénica cerca de la cola pancreática, se dirige medialmente hacia el hígado y emite ramas gástricas superiores. ¿Qué es verdad de esta arteria?",
+  "opts": [
+   "N.A",
+   "La mayoría de esta arteria se encuentra dentro del páncreas.",
+   "Esta arteria emite ramas omentales posteriores",
+   "La lesión de esta arteria conduce a una isquemia gástrica extensa.",
+   "Esta arteria recorre el saco menor."
+  ],
+  "ans": 2,
+  "why": "Una arteria que nace de la esplénica cerca de la cola del páncreas y del hilio esplénico, recorre la curvatura mayor hacia la derecha (medialmente) y da ramas gástricas ascendentes es la gastroepiploica (gastroomental) izquierda. Corre por el ligamento gastroesplénico y luego el gastrocólico, y además de las ramas gástricas da ramas descendentes para el omento mayor (ramas omentales). No es intrapancreática ni recorre la transcavidad de los epiplones (va dentro del ligamento gastrocólico), y su sección no causa isquemia gástrica extensa por la rica circulación colateral del estómago.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 446 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 520 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave resaltada en el original: C. La descripción del enunciado ('hacia el hígado') es imprecisa, pero solo la C es verdadera para la gastroepiploica izquierda."
+ },
+ "3aced1bffa": {
+  "k": "3aced1bffa",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la situación exacta del espacio de Retzius?",
+  "opts": [
+   "Prevesical",
+   "Retroinguinal",
+   "Preperitoneal, entre los ligamentos umbilicales interno y externo",
+   "Por fuera del ligamento umbilical externo",
+   "Retrovesical"
+  ],
+  "ans": 0,
+  "why": "El espacio de Retzius es el espacio retropúbico o prevesical: queda entre la sínfisis del pubis y la cara anterior de la vejiga y se prolonga lateralmente hacia los agujeros obturadores. El espacio retroinguinal es el de Bogros, que es lateral y no se comunica con el de Retzius. No es retrovesical ni está definido por los ligamentos umbilicales.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 632 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 420 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave resaltada en el original: A."
+ },
+ "0289b768fd": {
+  "k": "0289b768fd",
+  "estado": "confirmada",
+  "stem": "Una mujer de 72 años de edad se presenta después de ser expulsada durante un accidente automovilístico de alta velocidad. Su frecuencia cardíaca (FC) es de 155 latidos/min, y la presión arterial es de 60/35 mmHg. Los paramédicos no pudieron obtener acceso intravenoso (IV). ¿Cuál es el mejor acceso para este paciente para que se pueda iniciar la reanimación con líquidos?",
+  "opts": [
+   "Corte de la vena safena",
+   "Catéter de triple lumen en la vena yugular interna izquierda guiado por ultrasonido",
+   "Acceso intraóseo (IO) en el húmero",
+   "Catéter subclavio derecho de triple lumen utilizando puntos de referencia",
+   "Acceso IO en la tibia"
+  ],
+  "ans": 2,
+  "why": "En un paciente en shock en quien no se logra una vía periférica, el acceso intraóseo es el más rápido. En adultos se prefiere la cabeza humeral sobre la tibia: en cadáveres, el flujo con presión fue de unos 57 ml/min en el húmero frente a 31 ml/min en la tibia, con más dificultades de inserción tibial. Además, en un politraumatismo de alta energía, una vía por encima del diafragma evita infundir distal a posibles lesiones pélvicas o de miembros inferiores. La disección de safena y las vías centrales (yugular con ecografía o subclavia por referencias) llevan más tiempo y tienen más riesgo en un paciente con PA 60/35.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 267 del PDF",
+   "Pasley J et al. J Trauma Acute Care Surg 2015;78(2):295-299 (PMID 25757113)"
+  ],
+  "tema": "trauma",
+  "nota": "Clave resaltada en el original: C."
+ },
+ "8cd12489de": {
+  "k": "8cd12489de",
+  "estado": "dudosa",
+  "stem": "Según el sistema de clasificación de laboratorio predictivos utilizados frecuentemente en casos de pancreatitis aguda sus puntos de corte para pancreatitis aguda y sus puntos de corte para pancreatitis severa predeterminada, son ciertas: Excepto",
+  "opts": [
+   "Según la escala APACHE II >= 8 en las primeras 24 horas",
+   "Según Ranson >= 3 en las primeras 48 horas",
+   "Urea al ingreso < 60 mmol/L",
+   "Según BISAP >= 3 En las primeras 48 horas.",
+   "Proteína Creactiva > 150 U/L en las primeras 72 horas"
+  ],
+  "ans": null,
+  "why": "La opción C es claramente falsa: la urea alta (no baja) al ingreso predice gravedad, y '< 60 mmol/L' invierte el criterio. Pero no es la única con errores: el BISAP se calcula con datos de las primeras 24 horas, no de 48 (D), y la PCR se mide en mg/L, no en U/L (E). Según el Sabiston, sí son correctos APACHE II ≥ 8 y Ranson ≥ 3 a las 48 h, y la PCR ≥ 150 alcanza su máximo a las 48-72 h. Como hay más de una opción incorrecta, la pregunta no tiene una sola respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1560 del PDF",
+   "Sabiston 21.ª ed., p. 1561 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave resaltada en el original: C, que es la más evidentemente errónea, pero D (BISAP a 48 h) también es incorrecta."
+ },
+ "12ffc07e63": {
+  "k": "12ffc07e63",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es el procedimiento de elección para una úlcera gástrica de tipo I intratable que no se cura a pesar de un máximo tratamiento médico?",
+  "opts": [
+   "Vagotomía troncal y antrectomía con reconstrucción de Billroth I",
+   "Vagotomía troncal y antrectomía con reconstrucción de Billroth II",
+   "Vagatomía Hiperselectiva sola",
+   "Gastrectomía distal con reconstrucción Billroth I",
+   "Gastrectomía distal con reconstrucción Billroth II"
+  ],
+  "ans": 3,
+  "why": "La úlcera gástrica tipo I (curvatura menor, cerca de la incisura) no se asocia a hipersecreción ácida, así que no necesita vagotomía. Si es refractaria al tratamiento médico (tras descartar cáncer con biopsias), el procedimiento de elección es extirparla con una gastrectomía distal (antrectomía que incluya la úlcera), reconstruida de preferencia con Billroth I. Las opciones con vagotomía corresponden a úlceras con hipersecreción ácida (tipos II y III), y la vagotomía hiperselectiva sola no extirpa la úlcera ni descarta malignidad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1231 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 115 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave resaltada en el original: D. El ABSITE acepta también la reconstrucción Billroth II, pero la Billroth I es la reconstrucción clásica de elección tras la gastrectomía distal por úlcera tipo I."
+ },
+ "8125192f3a": {
+  "k": "8125192f3a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 48 años presenta dolor epigástrico que se irradia hacia la espalda y en el examen físico tiene sensibilidad epigástrica. Ella niega cualquier uso de alcohol o productos de tabaco. Su frecuencia cardíaca es de 115 latidos / min, respiraciones de 16 respiraciones / min, presión arterial de 130/85 mmHg y saturación de oxígeno del 98% en el aire ambiente. Su lipasa se eleva a 13.800 unidades / L. Se decidió admitirla en el hospital. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a su pronóstico en este momento?",
+  "opts": [
+   "El índice de severidad de la pancreatitis aguda se puede usar para calcular la mortalidad.",
+   "Debe planificarse un procedimiento quirúrgico",
+   "Se necesita TC del abdomen para un pronóstico preciso",
+   "Los criterios de Ranson se pueden calcular para estimar la mortalidad",
+   "Su nivel de lipasa severamente elevado indica un mal pronóstico"
+  ],
+  "ans": 0,
+  "why": "Al ingreso, el pronóstico se estima con índices que se calculan en las primeras 24 horas, como el BISAP (Bedside Index of Severity in Acute Pancreatitis), que predice la mortalidad. Los criterios de Ranson no pueden completarse en ese momento porque seis de sus parámetros se evalúan a las 48 horas. No se necesita TC para el pronóstico inicial (la TC se reserva para dudas diagnósticas, falta de respuesta o deterioro), la cifra de lipasa no se correlaciona con la gravedad y no hay indicación quirúrgica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1560 del PDF",
+   "Sabiston 21.ª ed., p. 1561 del PDF",
+   "Pak J Med Sci 2026, BISAP vs CTSI (doi:10.12669/pjms.42.9.15523)"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave resaltada en el original: A. 'El índice de severidad de la pancreatitis aguda' es la traducción del BISAP."
+ },
+ "24f46d7911": {
+  "k": "24f46d7911",
+  "estado": "confirmada",
+  "stem": "Habitualmente la arteria gastroepiploica izquierda es una rama directa de una de las siguientes arterias:",
+  "opts": [
+   "Gastrica Derecha",
+   "Esplenica",
+   "Mesenterica superior"
+  ],
+  "ans": 1,
+  "why": "La arteria gastroepiploica (gastroomental) izquierda nace de la arteria esplénica o de una de sus ramas, cerca del hilio del bazo. Recorre el ligamento gastroesplénico y luego la curvatura mayor, donde se anastomosa con la gastroepiploica derecha, que nace de la gastroduodenal. La gástrica derecha y la mesentérica superior no la originan.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 446 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave resaltada en el original: B. El original dice 'liploica' (errata por 'epiploica'); solo trae tres opciones."
+ },
+ "f2039225ed": {
+  "k": "f2039225ed",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta en relación con el equilibrio de liquidos y electrolitos?",
+  "opts": [
+   "El aspirado nasogástrico debe ser reemplazado volumen a volumen con solución salina al 0.9%",
+   "La necesidad total diaria de fluidos intravenosos para un adulto es de aproximadamente 1500 ml.",
+   "Se administran 100 mmol de potasio IV para cubrir las necesidades diarias.",
+   "Los déficits de fluidos de larga duración deben ser reemplazados urgentemente",
+   "Las perdidas insensibles se reemplazan mejor con la solución de Hartman."
+  ],
+  "ans": 0,
+  "why": "Las pérdidas por sonda nasogástrica son ricas en HCl y causan alcalosis metabólica hipoclorémica e hipopotasémica; se reponen volumen a volumen con solución salina al 0,9% (más potasio). Las demás son falsas: las necesidades diarias de agua de un adulto son de 25-30 ml/kg/día (unos 2000-2500 ml en 70-80 kg), las de potasio son de alrededor de 1 mmol/kg/día, los déficits crónicos se corrigen de forma gradual y las pérdidas insensibles (agua libre) se reponen con soluciones hipotónicas o glucosadas, no con Hartmann.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 407 del PDF",
+   "NICE CG174, Intravenous fluid therapy in adults in hospital, recomendaciones 1.4 (https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave resaltada en el original: A. Ojo: la tabla 4.15 del Sabiston (p. 105 del PDF) da 100 mEq/día de potasio como necesidad de un hombre de 70 kg; la guía NICE (más reciente y oficial) indica ~1 mmol/kg/día, por lo que C no es la respuesta."
+ },
+ "ecfe7a5fe6": {
+  "k": "ecfe7a5fe6",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es cierta con respecto a las hernias femorales?",
+  "opts": [
+   "La reparación implica aproximar el tracto ileopúbico al ligamento de Cooper.",
+   "La operación de Bassini se considera una opción quirúrgica apropiada.",
+   "El ligamento de Cooper se considera el borde anterior del canal femoral.",
+   "Son la hernia más común en las mujeres.",
+   "Son laterales a la vena femoral"
+  ],
+  "ans": 0,
+  "why": "La reparación de la hernia femoral consiste en extirpar el saco y obliterar el conducto femoral, aproximando la cintilla (tracto) iliopúbica al ligamento de Cooper (técnica de McVay) o colocando una malla. El ligamento de Cooper es el borde posterior del conducto, no el anterior. La hernia es medial a la vena femoral, no lateral. La operación de Bassini repara sobre el ligamento inguinal y no cierra el defecto femoral. Y la hernia más frecuente en mujeres es la inguinal indirecta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave resaltada en el original: A."
+ },
+ "422fb36c28": {
+  "k": "422fb36c28",
+  "estado": "confirmada",
+  "stem": "El paciente ingresa con el diagnostico de hemorragia digestiva alta en situación hemodinamicamente estable. Se practica una gastroscopia que informa \"lesión ulcerada en cara posterior del bulbo duodenal con hemorragia activa no pulsatil. Forrest IB. Se practica esclerosis endoscópica con adrenalina consiguiéndose hemostasia\". Señala la afirmación correcta:",
+  "opts": [
+   "En caso de intervención quirúrgica es obligatoria la práctica de una vagotomía troncular.",
+   "La descripción y localización de la ulcera sugieren una lesión de Dieulafoy",
+   "Lesion descrita tiene un riesgo bajo de recidiva hemorrágica",
+   "En caso de recidiva hemorrágica es imprescindible la intervención quirúrgica",
+   "Por la localización de la lesión puede estar afectada la arteria gastroduodenal"
+  ],
+  "ans": 4,
+  "why": "Las úlceras de la cara posterior del bulbo duodenal penetran y sangran porque erosionan la arteria gastroduodenal, que pasa justo por detrás del duodeno; las anteriores, en cambio, se perforan. Forrest IB (sangrado activo en sábana) es un estigma de alto riesgo de recidiva, por eso se trata por vía endoscópica. La lesión de Dieulafoy es una arteria submucosa aberrante sin úlcera, generalmente en el estómago proximal. Si recidiva el sangrado, se suele intentar primero una nueva hemostasia endoscópica, y si se opera no es obligatoria la vagotomía (basta con ligar el vaso y erradicar H. pylori).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 131 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave resaltada en el original: E. Se quitó una 'X' que había al final de la opción D en el original."
+ },
+ "d6e946e63c": {
+  "k": "d6e946e63c",
+  "estado": "nueva",
+  "stem": "¿Cuál es la relación normal de bicarbonato a ácido carbónico en el cuerpo?",
+  "opts": [
+   "15:1",
+   "30:1",
+   "10:1",
+   "40:1",
+   "20:1"
+  ],
+  "ans": 4,
+  "why": "Según Henderson-Hasselbalch, el pH depende del cociente HCO3-/H2CO3 (pKa 6,1). Con valores normales (HCO3- 24 mEq/L y ácido carbónico = 0,03 × PaCO2 40 = 1,2 mmol/L), el cociente es 24/1,2 = 20:1, que corresponde a un pH de 7,40 (6,1 + log 20). Los otros cocientes darían un pH fuera de lo normal.",
+  "fuentes": [
+   "MSD/Merck Manual Professional, Acid-Base Regulation (https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/acid-base-regulation-and-disorders/acid-base-regulation)"
+  ],
+  "nota": "Captura del aula virtual: 'La respuesta correcta es: 20:1' (opción e).",
+  "tema": "liquidos"
+ }
+}

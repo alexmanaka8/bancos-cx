@@ -1,0 +1,400 @@
+{
+ "bancos": [
+  {
+   "id": "examenes-2026",
+   "nombre": "Exámenes 2026-1",
+   "tipo": "preguntas",
+   "url": "banco.html?id=examenes-2026",
+   "n": 179,
+   "conClave": 179,
+   "secciones": 4,
+   "verificadas": 179,
+   "altoValor": 29
+  },
+  {
+   "id": "pretest-2024",
+   "nombre": "Pretest Cx Generales 2024-2",
+   "tipo": "preguntas",
+   "url": "banco.html?id=pretest-2024",
+   "n": 6,
+   "conClave": 6,
+   "secciones": 3,
+   "verificadas": 6,
+   "altoValor": 6
+  },
+  {
+   "id": "final-2021",
+   "nombre": "Final Cx General 2021-2 (aula virtual)",
+   "tipo": "preguntas",
+   "url": "banco.html?id=final-2021",
+   "n": 1,
+   "conClave": 1,
+   "secciones": 0,
+   "verificadas": 1,
+   "altoValor": 1
+  },
+  {
+   "id": "recopilacion-2021",
+   "nombre": "Recopilación Parcial 2021-2",
+   "tipo": "preguntas",
+   "url": "banco.html?id=recopilacion-2021",
+   "n": 37,
+   "conClave": 37,
+   "secciones": 0,
+   "verificadas": 37,
+   "altoValor": 35
+  },
+  {
+   "id": "banco-traducido",
+   "nombre": "Banco traducido Cx 1",
+   "tipo": "preguntas",
+   "url": "banco.html?id=banco-traducido",
+   "n": 63,
+   "conClave": 63,
+   "secciones": 7,
+   "verificadas": 63,
+   "altoValor": 62
+  },
+  {
+   "id": "lozano",
+   "nombre": "Banco Lozano",
+   "tipo": "preguntas",
+   "url": "banco.html?id=lozano",
+   "n": 128,
+   "conClave": 128,
+   "secciones": 14,
+   "verificadas": 128,
+   "altoValor": 128
+  },
+  {
+   "id": "simulacros",
+   "nombre": "Simulacros TeamMedic",
+   "tipo": "preguntas",
+   "url": "banco.html?id=simulacros",
+   "n": 1,
+   "conClave": 1,
+   "secciones": 1,
+   "verificadas": 1,
+   "altoValor": 1
+  },
+  {
+   "id": "cicatrizacion",
+   "nombre": "Cicatrización",
+   "tipo": "preguntas",
+   "url": "banco.html?id=cicatrizacion",
+   "n": 4,
+   "conClave": 4,
+   "secciones": 1,
+   "verificadas": 4,
+   "altoValor": 4
+  },
+  {
+   "id": "fotos",
+   "nombre": "Exámenes en foto",
+   "tipo": "preguntas",
+   "url": "banco.html?id=fotos",
+   "n": 8,
+   "conClave": 8,
+   "secciones": 2,
+   "verificadas": 8,
+   "altoValor": 6
+  }
+ ],
+ "biblioteca": [
+  {
+   "id": "ecoe-final",
+   "nombre": "ECOE final Generales (resumen)",
+   "paginas": 39
+  },
+  {
+   "id": "ecoe-aprobamos",
+   "nombre": "ECOE ya aprobamos (resumen)",
+   "paginas": 164
+  },
+  {
+   "id": "simu-ecoe",
+   "nombre": "Simulacro ECOE MedClub 2026",
+   "paginas": 8
+  },
+  {
+   "id": "acalasia",
+   "nombre": "Acalasia y hernias del hiato (Giménez)",
+   "paginas": 6
+  },
+  {
+   "id": "erge",
+   "nombre": "ERGE y hernias del hiato (Sabiston)",
+   "paginas": 8
+  },
+  {
+   "id": "ulcera",
+   "nombre": "Úlcera péptica (Sabiston)",
+   "paginas": 10
+  },
+  {
+   "id": "instrumental",
+   "nombre": "Instrumental quirúrgico (TeamMedic)",
+   "paginas": 4
+  },
+  {
+   "id": "tecnica",
+   "nombre": "Técnica quirúrgica (TeamMedic)",
+   "paginas": 2
+  }
+ ],
+ "temas": [
+  {
+   "id": "historia",
+   "nombre": "Historia de la cirugía",
+   "clase": "1",
+   "n": 1,
+   "alto": 0
+  },
+  {
+   "id": "rcp",
+   "nombre": "Reanimación cardiopulmonar (RCP básica y avanzada)",
+   "clase": "3",
+   "n": 5,
+   "alto": 1
+  },
+  {
+   "id": "seguridad",
+   "nombre": "Seguridad en el entorno quirúrgico",
+   "clase": "4",
+   "n": 5,
+   "alto": 2
+  },
+  {
+   "id": "procedimientos",
+   "nombre": "Procedimientos básicos",
+   "clase": "5",
+   "n": 5,
+   "alto": 0
+  },
+  {
+   "id": "suturas",
+   "nombre": "Laparotomía y suturas",
+   "clase": "7",
+   "n": 4,
+   "alto": 3
+  },
+  {
+   "id": "cicatrizacion",
+   "nombre": "Cicatrización y clasificación de heridas",
+   "clase": "8",
+   "n": 12,
+   "alto": 9
+  },
+  {
+   "id": "iso",
+   "nombre": "Infección del sitio quirúrgico",
+   "clase": "9",
+   "n": 7,
+   "alto": 3
+  },
+  {
+   "id": "laparoscopia",
+   "nombre": "Cirugía laparoscópica y robótica",
+   "clase": "10",
+   "n": 4,
+   "alto": 0
+  },
+  {
+   "id": "complicaciones",
+   "nombre": "Complicaciones quirúrgicas y antibioticoterapia",
+   "clase": "11",
+   "n": 16,
+   "alto": 10
+  },
+  {
+   "id": "eras",
+   "nombre": "ERAS y cuidados perioperatorios",
+   "clase": "12",
+   "n": 9,
+   "alto": 1
+  },
+  {
+   "id": "liquidos",
+   "nombre": "Balance hidroelectrolítico y ácido-base",
+   "clase": "13",
+   "n": 16,
+   "alto": 9
+  },
+  {
+   "id": "nutricion",
+   "nombre": "Soporte nutricional en el paciente quirúrgico",
+   "clase": "14",
+   "n": 8,
+   "alto": 3
+  },
+  {
+   "id": "quemados",
+   "nombre": "Manejo de quemados",
+   "clase": "15",
+   "n": 9,
+   "alto": 2
+  },
+  {
+   "id": "shock",
+   "nombre": "Shock",
+   "clase": "16",
+   "n": 6,
+   "alto": 2
+  },
+  {
+   "id": "hernias",
+   "nombre": "Hernias de la pared abdominal",
+   "clase": "17",
+   "n": 20,
+   "alto": 19
+  },
+  {
+   "id": "eventraciones",
+   "nombre": "Eventraciones, evisceraciones y diástasis de rectos",
+   "clase": "18",
+   "n": 6,
+   "alto": 2
+  },
+  {
+   "id": "abdomen-agudo",
+   "nombre": "Abdomen agudo",
+   "clase": "19-20",
+   "n": 17,
+   "alto": 7
+  },
+  {
+   "id": "esofago-estomago",
+   "nombre": "Patología esófago-gástrica benigna",
+   "clase": "22",
+   "n": 18,
+   "alto": 15
+  },
+  {
+   "id": "intestino",
+   "nombre": "Patología intestinal y obstrucción intestinal",
+   "clase": "21, 23",
+   "n": 42,
+   "alto": 30
+  },
+  {
+   "id": "colon",
+   "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
+   "clase": "24",
+   "n": 25,
+   "alto": 18
+  },
+  {
+   "id": "apendicitis",
+   "nombre": "Apendicitis aguda",
+   "clase": "25",
+   "n": 26,
+   "alto": 19
+  },
+  {
+   "id": "anorrectal",
+   "nombre": "Patología anorrectal benigna",
+   "clase": "26",
+   "n": 24,
+   "alto": 15
+  },
+  {
+   "id": "higado",
+   "nombre": "Quistes y abscesos del hígado",
+   "clase": "27",
+   "n": 10,
+   "alto": 7
+  },
+  {
+   "id": "vesicula",
+   "nombre": "Colelitiasis, colecistitis y coledocolitiasis",
+   "clase": "28",
+   "n": 28,
+   "alto": 13
+  },
+  {
+   "id": "via-biliar",
+   "nombre": "Colangitis, Mirizzi, quiste de colédoco y lesión de vía biliar",
+   "clase": "29",
+   "n": 13,
+   "alto": 7
+  },
+  {
+   "id": "pancreas-bazo",
+   "nombre": "Pancreatitis aguda y patología del bazo",
+   "clase": "30",
+   "n": 19,
+   "alto": 15
+  },
+  {
+   "id": "trauma",
+   "nombre": "Politraumatizado y trauma",
+   "clase": "31-32",
+   "n": 18,
+   "alto": 9
+  },
+  {
+   "id": "bariatrica",
+   "nombre": "Cirugía bariátrica y metabólica",
+   "clase": "33",
+   "n": 1,
+   "alto": 0
+  },
+  {
+   "id": "onco-digestivo",
+   "nombre": "Cáncer digestivo",
+   "clase": "fuera del sílabo",
+   "n": 19,
+   "alto": 19
+  },
+  {
+   "id": "hipertension-portal",
+   "nombre": "Cirrosis e hipertensión portal",
+   "clase": "fuera del sílabo",
+   "n": 7,
+   "alto": 7
+  },
+  {
+   "id": "mama",
+   "nombre": "Mama",
+   "clase": "fuera del sílabo",
+   "n": 3,
+   "alto": 2
+  },
+  {
+   "id": "torax-vascular",
+   "nombre": "Tórax y vascular",
+   "clase": "fuera del sílabo",
+   "n": 9,
+   "alto": 9
+  },
+  {
+   "id": "hemostasia",
+   "nombre": "Hemostasia, coagulación y transfusión",
+   "clase": "fuera del sílabo",
+   "n": 5,
+   "alto": 5
+  },
+  {
+   "id": "piel-partes-blandas",
+   "nombre": "Piel, partes blandas y sarcomas",
+   "clase": "fuera del sílabo",
+   "n": 2,
+   "alto": 2
+  },
+  {
+   "id": "pediatria",
+   "nombre": "Cirugía pediátrica",
+   "clase": "fuera del sílabo",
+   "n": 3,
+   "alto": 3
+  },
+  {
+   "id": "otros",
+   "nombre": "Otros temas",
+   "clase": "",
+   "n": 5,
+   "alto": 4
+  }
+ ],
+ "sinTema": 0
+}

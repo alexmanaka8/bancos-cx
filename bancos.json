@@ -1,0 +1,165 @@
+{
+  "bancos": [
+    {
+      "id": "semana1",
+      "nombre": "Semana 1 · Cirugía General",
+      "tipo": "html",
+      "archivos": [
+        "Banco Semana 1 - Cirugía General.html"
+      ]
+    },
+    {
+      "id": "examenes-2026",
+      "nombre": "Exámenes 2026-1",
+      "tipo": "pdf",
+      "archivos": [
+        "EXÁMENES 2026.pdf"
+      ]
+    },
+    {
+      "id": "pretest-2024",
+      "nombre": "Pretest Cx Generales 2024-2",
+      "tipo": "pdf",
+      "archivos": [
+        "CX. GENERALES_PRETEST 2024.2.pdf"
+      ],
+      "temas": "^(SEMANA|EXAMEN CIRUG|PREGUNTAS (EXAMEN|PATOLOG))"
+    },
+    {
+      "id": "final-2021",
+      "nombre": "Final Cx General 2021-2 (aula virtual)",
+      "tipo": "pdf",
+      "ver_original": false,
+      "archivos": [
+        "CX general 2021 2 2_260530_151845.pdf"
+      ],
+      "temas": "^$"
+    },
+    {
+      "id": "recopilacion-2021",
+      "nombre": "Recopilación Parcial 2021-2",
+      "tipo": "pdf",
+      "archivos": [
+        "RECOPILACIÓN PARCIAL GENERALES 2021-2.pdf"
+      ],
+      "temas": "^$"
+    },
+    {
+      "id": "banco-traducido",
+      "nombre": "Banco traducido Cx 1",
+      "tipo": "pdf",
+      "archivos": [
+        "BANCO TRADUCIDO - Cx 1 (1).pdf"
+      ],
+      "temas": "^\\d+\\.\\s*[A-ZÁÉÍÓÚÑ ]{4,}$"
+    },
+    {
+      "id": "lozano",
+      "nombre": "Banco Lozano",
+      "tipo": "pdf",
+      "archivos": [
+        "JIJAS LOZANO.pdf"
+      ]
+    },
+    {
+      "id": "simulacros",
+      "nombre": "Simulacros TeamMedic",
+      "tipo": "pdf",
+      "secciones": {},
+      "archivos": [
+        "Simulacro 2.pdf",
+        "Simulacro 3.pdf",
+        "Simulacro 4.pdf",
+        "Simulacro 5.pdf",
+        "Simulacro 6.pdf",
+        "Simulacro Pre Parcial.pdf"
+      ]
+    },
+    {
+      "id": "cicatrizacion",
+      "nombre": "Cicatrización",
+      "tipo": "pdf",
+      "secciones": {
+        "PREGUNTAS": "Preguntas de clase",
+        "cicatrización": "ABSITE (Sabiston)"
+      },
+      "archivos": [
+        "PREGUNTAS CICATRIZACIONdocx_260417_114251.pdf",
+        "cicatrización de heridas_260518_173208.pdf"
+      ]
+    },
+    {
+      "id": "fotos",
+      "nombre": "Exámenes en foto",
+      "tipo": "fotos",
+      "carpeta": "Exámenes en foto",
+      "archivos": [],
+      "secciones": {
+        "Examen S3": "Examen S3",
+        "WhatsApp Image 2024-08-07": "Pretest (ago 2024)",
+        "WhatsApp Image 2025-07-26": "Examen (jul 2025)",
+        "WhatsApp Image 2026-10-28": "Examen (oct 2026)"
+      },
+      "ver_original": false
+    }
+  ],
+  "biblioteca": [
+    {
+      "id": "ecoe-final",
+      "nombre": "ECOE final Generales (resumen)",
+      "archivos": [
+        "ECOE FINAL GENERALES LISTO 20 (2)-convertido (1)_260721_081111.pdf"
+      ]
+    },
+    {
+      "id": "ecoe-aprobamos",
+      "nombre": "ECOE ya aprobamos (resumen)",
+      "archivos": [
+        "Ecoe ya aprobamosssssss_240707_204402.pdf"
+      ]
+    },
+    {
+      "id": "simu-ecoe",
+      "nombre": "Simulacro ECOE MedClub 2026",
+      "archivos": [
+        "SIMU ECOE GENERALES MEDCLUB 2026 10_260720_184459.pdf"
+      ]
+    },
+    {
+      "id": "acalasia",
+      "nombre": "Acalasia y hernias del hiato (Giménez)",
+      "archivos": [
+        "ACALASIA Y HERNIAS DEL HIATO RESUMEN GIMENEZ.pdf"
+      ]
+    },
+    {
+      "id": "erge",
+      "nombre": "ERGE y hernias del hiato (Sabiston)",
+      "archivos": [
+        "ERGE Y HERNIAS DEL HIATO RESUMEN SABINSTON.pdf"
+      ]
+    },
+    {
+      "id": "ulcera",
+      "nombre": "Úlcera péptica (Sabiston)",
+      "archivos": [
+        "ENFERMEDAD ULCERA PÉPTICA RESUMEN SABINSTON.pdf"
+      ]
+    },
+    {
+      "id": "instrumental",
+      "nombre": "Instrumental quirúrgico (TeamMedic)",
+      "archivos": [
+        "Instrumental quirúrgico. TeamMedic.pdf"
+      ]
+    },
+    {
+      "id": "tecnica",
+      "nombre": "Técnica quirúrgica (TeamMedic)",
+      "archivos": [
+        "Tecnica-quirurgica.-TeamMedic (1).pdf"
+      ]
+    }
+  ],
+  "solo_verificadas": true
+}

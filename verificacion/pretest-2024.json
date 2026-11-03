@@ -1,0 +1,191 @@
+{
+ "61b6a1ebe9": {
+  "k": "61b6a1ebe9",
+  "estado": "dudosa",
+  "stem": "Mujer de 45 años con dolor y protrusión inguinal izquierda no reductible desde hace 6 h; luego se agregan febrícula, dolor abdominal intenso, vómitos y escasa diarrea. Hma: 7900, 0-65; glucosa: 120; creatinina: 0,7. ¿Cuál sería la hipótesis Dx más completa?",
+  "opts": [
+   "Hernia inguinal estrangulada",
+   "Hernia inguinal incarcerada con sepsis",
+   "Obstrucción intestinal alta por sigmoides atrapado",
+   "Obstrucción intestinal alta por íleon atrapado",
+   "Obstrucción intestinal baja por hernia inguinal"
+  ],
+  "ans": null,
+  "why": "Sabiston define la hernia incarcerada como irreducible y la estrangulada como aquella cuyo contenido no tiene perfusión suficiente; fiebre, taquicardia, leucocitosis o peritonitis sugieren estrangulamiento. El caso (irreducible 6 h, febrícula, dolor intenso, vómitos, leucocitos normales) es compatible tanto con hernia estrangulada (A) como con una obstrucción intestinal baja (de íleon) por hernia inguinal (E), que fue lo marcado por los alumnos. C y D son incorrectas (el sigmoides no produce obstrucción 'alta' y el íleon es intestino distal) y B no se sostiene: no hay datos de sepsis. Ninguna fuente define cuál es la 'hipótesis más completa', por lo que no se puede decidir entre A y E.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: E (resaltado), que coincide con lo que marcó el alumno en la foto del examen. A (hernia estrangulada) es igual de defendible, y ninguna fuente decide cuál es la 'hipótesis más completa'. Se completó '6 h' desde la foto del examen."
+ },
+ "8277ea81ff": {
+  "k": "8277ea81ff",
+  "estado": "dudosa",
+  "stem": "Varón de 67 años en el PO de 24 h de hemorroides trombosadas; se le realiza hemorroidectomía y esfinterectomía parcial. De las siguientes complicaciones a presentar, la menos probable sería:",
+  "opts": [
+   "Retención urinaria",
+   "Hematoquecia",
+   "SIHAD",
+   "Absceso perianal",
+   "Melena"
+  ],
+  "ans": null,
+  "why": "Según Sabiston, tras la hemorroidectomía la complicación más frecuente es la hemorragia (1-2%), seguida de la retención urinaria aguda (1-15%); la sepsis pélvica o perineal es infrecuente pero temida. Así, A, B y D son complicaciones reconocidas. Ni el SIHAD ni la melena figuran como complicaciones de la hemorroidectomía: la melena indica sangrado proximal (más del 90% es HDA), y el SIHAD es una alteración posoperatoria general no ligada a esta cirugía. Las dos opciones son defendibles como 'la menos probable' y ninguna fuente fiable las ordena.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1430 del PDF",
+   "Sabiston 21.ª ed., p. 1176 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: C (SIHAD, resaltado). En la foto del examen el alumno marcó E (melena). Las fuentes no permiten elegir entre las dos."
+ },
+ "36682aebc8": {
+  "k": "36682aebc8",
+  "estado": "nueva",
+  "stem": "Con relación a la hemorragia digestiva baja, es cierto:",
+  "opts": [
+   "La causa más habitual de hemorragia colorrectal grave es la diverticulosis",
+   "La hemorragia se detiene y no recidiva en la mayoría de los casos",
+   "Se trata de pacientes habitualmente mayores que acuden con hematoquecia y, de ordinario, sin alteraciones ortostáticas",
+   "Todas"
+  ],
+  "ans": 3,
+  "why": "Según Sabiston, la enfermedad diverticular es la causa más frecuente de HDB grave (A). Giménez indica que el 80% de las HDB ceden espontáneamente y que el resangrado ocurre hasta en el 25%, es decir, la mayoría no recidiva (B). Sabiston describe que la HDB aumenta con la edad, se presenta sobre todo como hematoquecia indolora y tiende a ser menos intensa e intermitente que la HDA (C). Las tres afirmaciones son ciertas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF",
+   "Sabiston 21.ª ed., p. 1184 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 834 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave en el original. La afirmación C ('sin alteraciones ortostáticas') no aparece literal en los libros, pero coincide con lo que dice Sabiston: la HDB suele ser menos intensa y cede sola."
+ },
+ "fdeb459fff": {
+  "k": "fdeb459fff",
+  "estado": "nueva",
+  "stem": "En hemorragia digestiva baja NO es cierto que:",
+  "opts": [
+   "La colonoscopia resulta determinante para detectar el foco luminal de sangrado y para potencial hemostasia de las lesiones susceptibles de tratamiento.",
+   "Una colonoscopia urgente en las primeras 12 h del ingreso mejora el rendimiento diagnóstico.",
+   "Una colonoscopia urgente en las primeras 12 h del ingreso reduce la tasa de resangrado.",
+   "Durante la colonoscopia es posible coagular las angiectasias y tomar biopsias de los focos hemorrágicos."
+  ],
+  "ans": 2,
+  "why": "La guía del ACG de 2023 recomienda una colonoscopia no urgente en la mayoría de los pacientes, porque la colonoscopia urgente no ha demostrado mejorar desenlaces importantes como el resangrado; por tanto, C es falsa. La colonoscopia sí localiza el foco y permite hemostasia, biopsias y coagulación de angiectasias (A y D), y hacerla antes aumenta la identificación del sitio de sangrado (B).",
+  "fuentes": [
+   "ACG 2023, Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline, Am J Gastroenterol (PMID 36735555, vía Europe PMC)",
+   "Sabiston 21.ª ed., p. 1176 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave en el original."
+ },
+ "b60c322531": {
+  "k": "b60c322531",
+  "estado": "nueva",
+  "stem": "Con respecto a la irrigación del ano y recto:",
+  "opts": [
+   "Art. Hemorroidal Superior, rama de la Mesentérica superior",
+   "Art. Hemorroidal Media, rama de la Ilíaca Interna",
+   "Art. Hemorroidal Inferior, rama de la Pudenda Externa",
+   "a, b y c"
+  ],
+  "ans": 1,
+  "why": "Según Latarjet, la arteria rectal (hemorroidal) media nace de la ilíaca interna (B correcta). La rectal superior es la rama terminal de la mesentérica inferior, no de la superior (A falsa). La rectal inferior nace de la pudenda interna, no de la externa (C falsa). Por eso D tampoco es correcta.",
+  "fuentes": [
+   "Latarjet, Anatomía humana tomo 2, p. 590 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Sin clave registrada; en la versión del banco que está más abajo en el mismo PDF, B aparece en negrita."
+ },
+ "2ea561a7cd": {
+  "k": "2ea561a7cd",
+  "estado": "dudosa",
+  "stem": "Contraindicaciones quirúrgicas relativas de hemorroides:",
+  "opts": [
+   "Trastornos graves de coagulación",
+   "Hipotonía o trastorno de la continencia anal",
+   "Colitis inflamatoria (Crohn)",
+   "Todas"
+  ],
+  "ans": null,
+  "why": "Las tres situaciones aumentan el riesgo de la cirugía hemorroidal (sangrado, incontinencia, mala cicatrización), y la clave del banco (D) es plausible. Sin embargo, ni Sabiston ni Giménez (OCR ilegible en ese capítulo) traen una lista de 'contraindicaciones relativas' que lo confirme, y no hay guía oficial a la mano. No se puede verificar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1429 del PDF",
+   "Sabiston 21.ª ed., p. 1430 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "En la versión del banco que está más abajo en el mismo PDF, D aparece en negrita."
+ },
+ "8c63d11901": {
+  "k": "8c63d11901",
+  "estado": "dudosa",
+  "stem": "La técnica de Milligan-Morgan y la de Ferguson:",
+  "opts": [
+   "Satisfacción de 80% y recidiva de 2%",
+   "Satisfacción de 90% y recidiva de 1,7%",
+   "Satisfacción de 70% y recidiva de 2,7%",
+   "Satisfacción de 60% y recidiva de 3%"
+  ],
+  "ans": null,
+  "why": "Sabiston solo compara las dos técnicas: la cerrada (Ferguson) causa menos dolor, cicatriza más rápido y sangra menos que la abierta (Milligan-Morgan). No da porcentajes de satisfacción ni de recidiva, y ningún otro libro de la carpeta los trae. Las cifras parecen sacadas de una clase o de un texto concreto que no se puede comprobar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1429 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "En la versión del banco que está más abajo en el mismo PDF, B aparece en negrita."
+ },
+ "10b13b4b48": {
+  "k": "10b13b4b48",
+  "estado": "nueva",
+  "stem": "Paciente varón de 60 años con distensión abdominal, vómitos y ausencia de deposiciones de 2 días, sin cirugías previas. Se le solicita una tomografía abdominal. ¿Usualmente qué se espera de la tomografía como ayuda diagnóstica?",
+  "opts": [
+   "Sensibilidad y especificidad del 95% en el diagnóstico de obstrucción intestinal",
+   "Identificar la causa de la obstrucción",
+   "Determinar el punto de obstrucción",
+   "Todas las anteriores"
+  ],
+  "ans": 3,
+  "why": "Sabiston indica que la TC tiene alrededor del 95% de sensibilidad y especificidad para la obstrucción completa de alto grado del intestino delgado, y que sirve para señalar la localización (zona de transición en cerca del 93% de los casos) y la causa de la obstrucción. Por eso A, B y C son ciertas y la respuesta es D. Es menos sensible en las obstrucciones parciales.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1277 del PDF",
+   "Sabiston 21.ª ed., p. 1278 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave registrada; D aparece en negrita en el PDF."
+ },
+ "97a6d21de1": {
+  "k": "97a6d21de1",
+  "estado": "nueva",
+  "stem": "Durante la cirugía de un paciente por obstrucción intestinal se evidencia un segmento intestinal violáceo. ¿Cuál es la mejor conducta a seguir?",
+  "opts": [
+   "Resección intestinal, seguida de anastomosis término-terminal.",
+   "Observar por 15 a 20 minutos si mejora la perfusión.",
+   "Resección intestinal, seguida de ostomía.",
+   "Cierre abdominal temporal para \"second look\" planificado."
+  ],
+  "ans": 1,
+  "why": "Ante un segmento de viabilidad dudosa (violáceo, no necrótico franco), Sabiston indica liberarlo por completo, cubrirlo con compresas húmedas calientes con suero durante 15 a 20 minutos y volver a examinarlo: si recupera el color y el peristaltismo, se conserva. Resecar de entrada (A o C) puede sacrificar intestino viable; la resección se reserva para el intestino que no se recupera. El 'second look' se plantea en isquemia extensa o si el paciente empeora, no como primer paso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1281 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave registrada; en el PDF aparece subrayada la A (resección y anastomosis), que no es la primera conducta según Sabiston."
+ },
+ "9ede4566ed": {
+  "k": "9ede4566ed",
+  "estado": "nueva",
+  "stem": "Paciente con distensión abdominal y sin deposiciones por 48 horas. Mucosa oral seca, oliguria; en los signos vitales, taquicardia. Abdomen distendido, blando, con dolor difuso leve y sin signos de irritación peritoneal. Tacto rectal: ampolla vacía. Hemograma normal. Como parte del tratamiento inicial indicaría:",
+  "opts": [
+   "Reposo gástrico + sonda nasogástrica + hidratación endovenosa + sonda Foley",
+   "Dieta líquida restringida + hidratación endovenosa + antibioticoterapia",
+   "Reposo gástrico + sonda nasogástrica + hidratación endovenosa + antibioticoterapia",
+   "Nutrición parenteral + sonda nasogástrica + hidratación endovenosa + antibioticoterapia"
+  ],
+  "ans": 0,
+  "why": "En la obstrucción intestinal sin signos de toxicidad, Sabiston indica reposición intensiva con cristaloides isotónicos, descompresión con sonda nasogástrica (que es el estándar) y sonda Foley para vigilar la diuresis, sobre todo en un paciente deshidratado y oligúrico. No hay evidencia que respalde antibióticos en pacientes sin aspecto tóxico (en este caso, hemograma normal y sin peritonitis), lo que descarta B, C y D. Dar dieta líquida está contraindicado y la nutrición parenteral no es parte del manejo inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave registrada; A aparece en negrita en el PDF."
+ }
+}

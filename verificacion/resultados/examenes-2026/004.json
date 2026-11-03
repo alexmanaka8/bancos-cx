@@ -1,0 +1,653 @@
+[
+ {
+  "k": "edf5ca1cff",
+  "estado": "confirmada",
+  "stem": "Examen imagenológico de elección para patología vesicular complicada en tercer trimestre:",
+  "opts": [
+   "Ecografía abdominal",
+   "Tomografía computarizada",
+   "Radiografía simple de abdomen",
+   "Colangiorresonancia"
+  ],
+  "ans": 0,
+  "why": "En la gestante la ecografía es la prueba de imagen inicial de elección y, para la enfermedad de la vesícula biliar, el Sabiston la pone primero (ECO > RM): no irradia, es accesible y además valora al feto. La colangiorresonancia es el estudio de segunda línea si la ecografía no basta. La TC y la radiografía simple irradian y aportan poco para la vesícula.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1167 del PDF",
+   "Sabiston 21.ª ed., p. 1168 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "0be3f2d463",
+  "estado": "dudosa",
+  "stem": "Es cierto respecto a la CPRE en gestantes:",
+  "opts": [
+   "No es factible debido al riesgo de pancreatitis aguda",
+   "No es segura de realizar debido a la alta probabilidad de parto pretérmino",
+   "Puede realizarse en el tercer trimestre",
+   "Se considera segura por el bajo riesgo de radiación al feto"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice casi literalmente la opción D: la CPRE «se considera segura y de bajo riesgo de radiación para el feto» si hay colangitis o coledocolitiasis. Pero la opción C también es cierta: la CPRE puede hacerse en cualquier trimestre, incluido el tercero (la serie de Tang que cita el Sabiston incluye los tres trimestres y los peores resultados fueron en el primero). A y B son falsas. Hay dos opciones verdaderas en una pregunta de respuesta única.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1168 del PDF",
+   "Sabiston 21.ª ed., p. 2062 del PDF",
+   "Sabiston 21.ª ed., p. 2070 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Clave original: C (resaltado). Si el examen buscaba la frase del libro, la respuesta sería D (texto literal del Sabiston, p. 1168); C también es correcta, por eso queda dudosa.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Paciente de sexo masculino, 75 años, diagnósticos previos de HTA y fibrilación auricular, acude a hospital local por cuadro de dolor abdominal intenso, vómitos y dificultad respiratoria. Al examen físico: mal estado general, hipotenso y taquipneico. Abdomen distendido, dolor difuso a la palpación, con resistencia muscular. Mencione diagnóstico más probable:",
+    "opts": [
+     "Úlcera péptica perforada",
+     "Diverticulitis aguda",
+     "Isquemia mesentérica",
+     "Peritonitis por apendicitis aguda complicada"
+    ],
+    "ans": 2,
+    "why": "Anciano con fibrilación auricular y dolor abdominal intenso con deterioro sistémico: la embolia cardíaca a la arteria mesentérica superior es la causa más frecuente de isquemia mesentérica aguda (30-50%) y se ve sobre todo con fibrilación auricular. La aparición de signos peritoneales y shock indica que el intestino ya está infartado. La úlcera perforada, la diverticulitis y la apendicitis complicada no se relacionan con la FA y suelen dar un cuadro más localizado o con otros antecedentes.",
+    "fuentes": [
+     "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 275 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283 del PDF"
+    ],
+    "tema": "abdomen-agudo",
+    "nota": "Clave original: C (resaltado). En el original las opciones de esta pregunta aparecían pegadas a la pregunta 8."
+   }
+  ]
+ },
+ {
+  "k": "7325076734",
+  "estado": "confirmada",
+  "stem": "Población especialmente beneficiada del manejo laparoscópico de la apendicitis aguda complicada:",
+  "opts": [
+   "Ancianos",
+   "Obesos",
+   "Gestantes",
+   "Todas las anteriores"
+  ],
+  "ans": 3,
+  "why": "El Sabiston prefiere la apendicectomía laparoscópica y señala que es más sencilla «en particular en los obesos»; en ancianos es su técnica de elección y se asocia con más altas a domicilio; en gestantes es el abordaje más usado según SAGES y el preferido por los autores. Por eso los tres grupos se benefician y la respuesta es «todas las anteriores».",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1332 del PDF",
+   "Sabiston 21.ª ed., p. 1338 del PDF",
+   "Sabiston 21.ª ed., p. 329 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "73f2a42029",
+  "estado": "corregida",
+  "stem": "Modalidad de imagen preferida en sospecha de perforación de víscera hueca en gestantes:",
+  "opts": [
+   "Tomografía abdominal trifásica",
+   "Radiografía simple de abdomen",
+   "Ecografía transabdominal",
+   "Tomografía abdomino-pélvica sin contraste"
+  ],
+  "ans": 1,
+  "why": "La tabla 46.3 del Sabiston (imagen preferida en el dolor abdominal de la gestante) indica para la úlcera perforada «Radiografías simples > TC»: el neumoperitoneo se ve en una radiografía en bipedestación con una dosis mínima de radiación, muy por debajo del umbral de riesgo fetal. La ecografía es la primera prueba para vesícula, apéndice u obstrucción, pero no para detectar aire libre. La TC queda como segunda opción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1167 del PDF",
+   "Sabiston 21.ª ed., p. 1168 del PDF",
+   "Sabiston 21.ª ed., p. 1164 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: C (resaltado). La ecografía es la prueba inicial en la gestante para casi todo, pero para la perforación de víscera hueca el Sabiston prefiere la radiografía simple."
+ },
+ {
+  "k": "5eade65cbf",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 80 años, sin antecedentes quirúrgicos previos, es ingresado por distensión y dolor abdominal, vómitos persistentes y constipación. Presenta tomografía abdominal que informa dilatación marcada de estómago y asas delgadas. Hígado con neumobilia. Causa de obstrucción intestinal que aumenta su incidencia en el adulto mayor:",
+  "opts": [
+   "Bridas y adherencias",
+   "Cuerpo extraño",
+   "Íleo biliar",
+   "Vólvulo de sigmoides"
+  ],
+  "ans": 2,
+  "why": "Obstrucción de intestino delgado con neumobilia en un anciano sin cirugías previas es la clave del íleo biliar: el cálculo pasa al intestino por una fístula colecistoduodenal y el aire entra a la vía biliar. Representa solo el 1-3% de todas las obstrucciones de delgado, pero hasta el 25% en mayores de 65 años sin hernias ni cirugía previa. Sin cirugías no hay bridas; el vólvulo de sigma da obstrucción de colon, y el cuerpo extraño no explica la neumobilia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 328 del PDF",
+   "Sabiston 21.ª ed., p. 1526 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "f1af4b593f",
+  "estado": "confirmada",
+  "stem": "Es correcto respecto a la apendicitis aguda en paciente geriátrico:",
+  "opts": [
+   "Se encuentra la presentación clásica en aproximadamente 50% de los pacientes",
+   "Representa el 15-35% de los casos de abdomen agudo",
+   "Cuadro clínico inespecífico retrasa el diagnóstico 48-72 h",
+   "Solo el 0.5-1% de los casos de apendicitis se presentan en la senectud"
+  ],
+  "ans": 2,
+  "why": "El Sabiston dice que la naturaleza indolente e inespecífica de los síntomas en ancianos provoca retrasos de 48 a 72 h, y que por eso más del 50% llega perforada. Las otras cifras son falsas: la presentación clásica aparece en menos del 20%, la apendicitis supone el 2,5-5% del abdomen agudo en mayores de 60-70 años, y el 5-10% de las apendicitis ocurre en la senectud.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 328 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: C (resaltado). La extracción automática pegó en este ítem las preguntas 14 a 24 del original; van en dividir (la numeración del original salta de la 18 a la 20).",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "Gestante de 32 semanas de embarazo con dolor en flanco derecho de 36 h de evolución, examen físico no concluyente, pero marcadores inflamatorios elevados y ecografía abdominal que informa escaso líquido libre en fondo de saco de Douglas. No se dispone de resonancia. Actitud más adecuada a considerar:",
+    "opts": [
+     "Solicitar resonancia magnética abdominal por ser gestante en tercer trimestre y mayor beneficio que riesgo",
+     "Laparotomía de emergencia",
+     "Manejo conservador con antibioticoterapia",
+     "Repetir ecografía y laboratorio"
+    ],
+    "ans": null,
+    "why": "El algoritmo del Sabiston para la gestante con posible apendicitis sin peritonitis difusa es: ecografía; si no es diagnóstica, RM; si la RM es negativa, observación, y si empeora, laparoscopia diagnóstica. Cuando no hay RM, el libro menciona la TC limitada, que no está entre las opciones. No recomienda la laparotomía de emergencia sin diagnóstico ni peritonitis, pero sí acepta una alta tasa de apendicectomías negativas por el riesgo fetal de la perforación. La opción A contradice el enunciado (no hay RM). Entre B (operar) y D (reevaluar), la evidencia no decide.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1337 del PDF",
+     "Sabiston 21.ª ed., p. 1338 del PDF",
+     "Sabiston 21.ª ed., p. 1168 del PDF"
+    ],
+    "tema": "abdomen-agudo",
+    "nota": "Clave original: B (resaltado). El original dice «examen físico no concluyente»."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "En un paciente de 45 años, de sexo masculino, que es intervenido por hernioplastia laparoscópica, encontramos:",
+    "opts": [
+     "El ligamento iliopectíneo, que es un engrosamiento de la aponeurosis del oblicuo mayor",
+     "El ligamento de Thompson es el límite superior de los triángulos de la muerte y neurálgico",
+     "El ligamento iliopectíneo es otro sinónimo del ligamento inguinal",
+     "Se observa fácilmente el ligamento de Henle",
+     "Se diseca el músculo oblicuo menor"
+    ],
+    "ans": 1,
+    "why": "El ligamento (cintilla) de Thompson es el tracto iliopúbico, fibras de la fascia transversalis profundas y paralelas al ligamento inguinal. En la reparación laparoscópica es la referencia por debajo de la cual no se grapa: ahí están el triángulo del dolor (nervios cutáneo femoral lateral y genitofemoral) y el de la muerte (vasos ilíacos externos). El ligamento iliopectíneo (de Cooper) está formado por periostio y tejido aponeurótico de la rama superior del pubis: no es la aponeurosis del oblicuo mayor ni el ligamento inguinal. El abordaje es preperitoneal, así que no se diseca el oblicuo menor.",
+    "fuentes": [
+     "Latarjet, Anatomía humana, tomo 2, p. 411 del PDF",
+     "Sabiston 21.ª ed., p. 1133 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+    ],
+    "tema": "hernias",
+    "nota": "Clave original: B (resaltado). Matiz: el ABSITE define el triángulo de la muerte por el conducto deferente, los vasos espermáticos y el pliegue peritoneal; el tracto iliopúbico es más bien el límite del triángulo del dolor. Aun así, B es la única opción defendible."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "En un paciente de 45 años, de sexo masculino, que es intervenido por hernioplastia laparoscópica, tiene una hernia mixta o en pantalón, cuya característica es:",
+    "opts": [
+     "Los sacos herniarios protruyen a través del anillo inguinal externo y crural",
+     "Los sacos herniarios salen por el lado externo e interno de los vasos femorales",
+     "Los sacos herniarios salen por el orificio inguinal profundo y por el triángulo de Hesselbach",
+     "Solo están comprometidos el anillo inguinal profundo y el superficial",
+     "Los sacos herniarios protruyen a través del anillo inguinal profundo y crural"
+    ],
+    "ans": 2,
+    "why": "La hernia en pantalón tiene a la vez un componente indirecto y uno directo. El indirecto sale por el anillo inguinal profundo, lateral a los vasos epigástricos inferiores; el directo sale por el triángulo de Hesselbach, medial a ellos, así que los sacos quedan a ambos lados de los vasos epigástricos. Las opciones con orificio crural o vasos femorales describen hernias femorales, y la D no incluye el componente directo.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1130 del PDF",
+     "Sabiston 21.ª ed., p. 1133 del PDF"
+    ],
+    "tema": "hernias",
+    "nota": "Clave original: C (resaltado)."
+   },
+   {
+    "estado": "dudosa",
+    "stem": "Paciente de sexo femenino de 60 años de edad, presenta dolor paraumbilical derecho en el cinturón de Spiegel. Al examen físico se palpa tumoración dolorosa, no reductible de 3 cm de diámetro:",
+    "opts": [
+     "Es una hernia de Spiegel intersticial",
+     "La hernia protruye a través de la aponeurosis del oblicuo mayor",
+     "La hernia protruye entre el borde interno del músculo recto anterior y la línea semilunar",
+     "La hernia se encuentra entre el músculo oblicuo menor y transverso",
+     "Ninguna"
+    ],
+    "ans": null,
+    "why": "Según el Sabiston, la hernia de Spiegel ocurre a través de la fascia de Spiegel, entre el recto (medial) y la línea semilunar (lateral), y «suele ser interparietal»: el saco queda bajo la aponeurosis intacta del oblicuo mayor. Por eso B y D son falsas. La C quiere describir la localización, pero dice «borde interno» del recto, cuando el defecto está junto a su borde externo (lateral). La A (intersticial = interparietal) es literalmente cierta. La clave depende de cómo se interprete la C.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1153 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+    ],
+    "tema": "hernias",
+    "nota": "Clave original: C (resaltado). Literalmente la mejor sustentada es A; C es correcta solo si «borde interno» se toma como un error por «borde lateral»."
+   },
+   {
+    "estado": "dudosa",
+    "stem": "Mujer de 70 años de edad con dolor en muslo derecho, con obstrucción intestinal y alta sospecha de hernia obturatriz:",
+    "opts": [
+     "El diagnóstico solo es posible entre el 1 y 3%",
+     "El tratamiento se puede realizar por vía inguinal",
+     "La hernia obturatriz predomina en hombres ancianos",
+     "Puede corresponder a una hernia de Littré",
+     "Ninguna"
+    ],
+    "ans": null,
+    "why": "La clave original («Ninguna») no se sostiene. La TC diagnostica más del 90% de los casos (A falsa) y la hernia obturatriz predomina en mujeres ancianas y delgadas (C falsa). El Sabiston prefiere el abordaje posterior (abierto o laparoscópico), pero la vía anterior por incisión inguinal está descrita y se usa (B cierta). Además, hay casos publicados de hernia de Littré obturatriz (D también posible). Con dos opciones defendibles y la clave original errónea, no se puede fijar una sola respuesta.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1153 del PDF",
+     "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF",
+     "Obturator Hernia: A Critical Appraisal of Treatment Strategies Based on 10 Cases and Current Literature, Cureus 2026 (PMC12917865)",
+     "Perforated obturator Littré hernia in an elderly woman, 2015 (PMC6074218)"
+    ],
+    "tema": "hernias",
+    "nota": "Clave original: E (resaltado). La evidencia descarta E; B es la mejor sustentada, pero D también es posible."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Paciente postoperado de hemicolectomía derecha por cáncer de colon ascendente, evoluciona con fístula secundaria a la anastomosis. ¿Qué factor impediría el cierre espontáneo de la fístula?",
+    "opts": [
+     "Trayecto fistuloso < 2 cm",
+     "Obstrucción distal a la fístula",
+     "Malnutrición",
+     "Todas",
+     "Producción de 600 cc de contenido intestinal/día"
+    ],
+    "ans": 3,
+    "why": "Todos los factores listados se asocian a no cierre espontáneo: trayecto corto (< 2 cm), obstrucción distal, desnutrición (transferrina < 200 mg/dl) y alto débito (> 500 ml/24 h, como los 600 cc/día de la opción E). Por eso la respuesta es «Todas».",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1315 del PDF",
+     "Sabiston 21.ª ed., p. 1316 del PDF",
+     "Sabiston 21.ª ed., p. 296 del PDF"
+    ],
+    "tema": "complicaciones",
+    "nota": "Clave original: D (resaltado). La E también es un factor desfavorable, y «Todas» la incluye."
+   },
+   {
+    "estado": "corregida",
+    "stem": "Paciente varón postoperado de hemicolectomía izquierda por vólvulo del sigmoides, con fístula secundaria a anastomosis término-terminal. Dentro de los factores que impiden el cierre espontáneo de la fístula, señale la alternativa INCORRECTA:",
+    "opts": [
+     "Obstrucción intestinal distal al trayecto fistuloso",
+     "Secundaria a enfermedad inflamatoria intestinal",
+     "Obstrucción intestinal proximal al trayecto fistuloso",
+     "Trayecto corto fistuloso menor de 2 cm",
+     "Ninguna de las anteriores"
+    ],
+    "ans": 2,
+    "why": "Lo que impide el cierre de una fístula es la obstrucción DISTAL: obliga al contenido a salir por la fístula. Una obstrucción proximal no figura entre los factores desfavorables, por eso C es la incorrecta. La obstrucción distal, la enfermedad inflamatoria intestinal y el trayecto corto (< 2 cm) sí están en las tablas del Sabiston como factores que impiden el cierre.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1315 del PDF",
+     "Sabiston 21.ª ed., p. 1316 del PDF",
+     "Sabiston 21.ª ed., p. 296 del PDF"
+    ],
+    "tema": "complicaciones",
+    "nota": "Clave original: D (resaltado). Error: el trayecto < 2 cm SÍ impide el cierre, así que no es la alternativa incorrecta."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "Paciente con diagnóstico de fístula colónica de gasto moderado que cursa con distensión abdominal, inestabilidad hemodinámica y leucocitosis. La mejor indicación quirúrgica del cuadro es:",
+    "opts": [
+     "Continuar con el manejo médico",
+     "Punción guiada por imágenes",
+     "Ninguna de las anteriores",
+     "Laparotomía exploradora",
+     "Laparoscopia diagnóstica"
+    ],
+    "ans": 3,
+    "why": "La prioridad en una fístula es controlar la sepsis. La sepsis, el absceso o la peritonitis difusa son indicación quirúrgica, y en un paciente hemodinámicamente inestable el control del foco es la laparotomía. El drenaje percutáneo sirve para colecciones localizadas en pacientes estables. El manejo médico solo no controla la sepsis, y la laparoscopia no es apropiada en un paciente inestable con abdomen distendido.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 296 del PDF",
+     "Sabiston 21.ª ed., p. 297 del PDF",
+     "Sabiston 21.ª ed., p. 1316 del PDF",
+     "Sabiston 21.ª ed., p. 1317 del PDF"
+    ],
+    "tema": "complicaciones",
+    "nota": "Clave original: D (resaltado)."
+   },
+   {
+    "estado": "confirmada",
+    "stem": "¿Qué posibilidades terapéuticas hay en caso de no alcanzar la adaptación intestinal en intestino corto?",
+    "opts": [
+     "Todos los pacientes antes o después terminan alcanzando la adaptación intestinal",
+     "Se puede mantener de por vida la NPT sin riesgo de complicaciones",
+     "Considerar el tratamiento quirúrgico (técnicas de alargamiento intestinal o trasplante)",
+     "No podemos hacer más por el paciente"
+    ],
+    "ans": 2,
+    "why": "Si la adaptación fracasa y hay dependencia crónica de NPT, el Sabiston describe cirugías para enlentecer el tránsito, para aumentar la superficie absortiva (alargamiento de Bianchi, enteroplastia transversal en serie) y el trasplante intestinal, que es el tratamiento de referencia cuando la rehabilitación fracasa. No todos se adaptan, y la NPT de por vida tiene complicaciones graves (insuficiencia hepática, trombosis de accesos, infecciones de catéter).",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1320 del PDF",
+     "Sabiston 21.ª ed., p. 1321 del PDF"
+    ],
+    "tema": "intestino",
+    "nota": "Clave original: C (resaltado)."
+   },
+   {
+    "estado": "corregida",
+    "stem": "Las condiciones que impiden el cierre quirúrgico diferido de fístulas enterocutáneas crónicas son:",
+    "opts": [
+     "Albúmina 3 g/dl",
+     "Sepsis",
+     "Desnutrición calórica",
+     "Solo B y C",
+     "Todas las anteriores"
+    ],
+    "ans": 3,
+    "why": "Antes del cierre quirúrgico diferido hay que controlar la sepsis y optimizar la nutrición. El Sabiston pone como requisitos un paciente clínicamente estable y albúmina > 25 g/l (2,5 g/dl). Una albúmina de 3 g/dl supera ese umbral, así que no impide la cirugía, mientras que la sepsis y la desnutrición sí. Por eso la respuesta es «Solo B y C».",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1316 del PDF",
+     "Sabiston 21.ª ed., p. 1317 del PDF",
+     "Sabiston 21.ª ed., p. 297 del PDF"
+    ],
+    "tema": "complicaciones",
+    "nota": "Clave original: E (resaltado). Con el umbral del Sabiston (albúmina > 25 g/l), 3 g/dl no es una contraindicación."
+   }
+  ]
+ },
+ {
+  "k": "004-a1",
+  "estado": "confirmada",
+  "stem": "Dentro de la evaluación intraoperatoria del flujo sanguíneo intestinal se incluye:",
+  "opts": [
+   "El recorrido del intestino, la inspección de todo el tracto intestinal mediante la evaluación del color, la actividad peristáltica y la palpación de las arcadas arteriales mesentéricas",
+   "La inspección del segmento superior intestinal, el tipo de obstrucción, palpación de las arterias mesentéricas",
+   "El recorrido del intestino y la valoración del color en el colon y la palpación de las arterias mesentéricas",
+   "El recorrido del intestino y la inspección solo del colon mediante la evaluación del color, la actividad peristáltica y la palpación de las arterias mesentéricas"
+  ],
+  "ans": 0,
+  "why": "La viabilidad intestinal se valora clínicamente recorriendo todo el intestino y mirando el color, el peristaltismo y las pulsaciones de las arcadas mesentéricas. Según el Sabiston, si el segmento recupera el color normal y el peristaltismo puede conservarse, y el Doppler añade poco al juicio clínico. Las otras opciones limitan la inspección a un segmento (solo el superior o solo el colon), lo que deja sin evaluar el resto del tubo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1281 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Pregunta 25 del original, perdida por la extracción. Clave del original: A (resaltado).",
+  "agregada": true,
+  "despues_de": "f1af4b593f-11"
+ },
+ {
+  "k": "004-a2",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el nivel de isquemia intestinal que alcanza una obstrucción aguda de la arteria mesentérica superior?",
+  "opts": [
+   "Yeyuno hasta colon ascendente y proximal del transverso",
+   "Todo el yeyuno e íleon",
+   "Todo el marco cólico",
+   "Duodeno, yeyuno e íleon",
+   "Íleon, colon derecho y transverso"
+  ],
+  "ans": 0,
+  "why": "La arteria mesentérica superior irriga el yeyuno, el íleon, el ciego, el colon ascendente y la parte proximal del transverso (a través de la cólica media). Su oclusión aguda produce isquemia en ese territorio, lo que corresponde a la opción A. B y D omiten el colon derecho, C atribuye a la AMS todo el colon (el izquierdo depende de la mesentérica inferior), y E omite el yeyuno.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 540 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Pregunta 26 del original, perdida por la extracción. Clave del original: A (resaltado). Matiz: el émbolo suele alojarse distal a la cólica media y respetar el yeyuno proximal y el transverso (ABSITE); la opción A describe el territorio completo de una oclusión proximal.",
+  "agregada": true,
+  "despues_de": "004-a1"
+ },
+ {
+  "k": "004-a3",
+  "estado": "confirmada",
+  "stem": "En intestino corto, tras la resección masiva del intestino delgado, en la fase aguda el tratamiento se basa principalmente en:",
+  "opts": [
+   "Control de la diarrea",
+   "Reposición de líquidos y electrolitos",
+   "La aplicación inmediata de NPT en pacientes que no pueden tolerar la alimentación enteral de forma segura",
+   "Todas son ciertas",
+   "Ninguna es cierta"
+  ],
+  "ans": 3,
+  "why": "El Sabiston lo dice casi textualmente: en la fase inicial tras una resección masiva del intestino delgado, el tratamiento se basa en el control de la diarrea, la reposición de líquidos y electrólitos (las pérdidas pueden superar 5 l/día) y la NPT inmediata en quienes no toleran la vía enteral. Las tres afirmaciones son ciertas, y la nutrición enteral se inicia al superar la fase aguda.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1320 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Pregunta 27 del original, perdida por la extracción. Clave del original: D (resaltado). El original incluye la palabra «(creo)» del estudiante, que se omite.",
+  "agregada": true,
+  "despues_de": "004-a2"
+ },
+ {
+  "k": "085505005e",
+  "estado": "confirmada",
+  "stem": "En el tratamiento de las fístulas enterocutáneas debemos tener en cuenta, EXCEPTO:",
+  "opts": [
+   "Tratamiento de las complicaciones metabólicas",
+   "Tratamiento de la sepsis",
+   "Control del flujo de la fístula y proteger la herida",
+   "Tratamiento quirúrgico inmediato",
+   "Apoyo nutricional"
+  ],
+  "ans": 3,
+  "why": "El manejo de una fístula enterocutánea es escalonado: controlar la sepsis, reponer líquidos y electrólitos, nutrir, controlar el débito y proteger la piel. La cirugía definitiva se difiere al menos 6-8 semanas (a veces 3-6 meses), cuando la inflamación ha cedido y el paciente está optimizado. Por eso la cirugía inmediata es la excepción; las demás opciones son pilares del tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 297 del PDF",
+   "Sabiston 21.ª ed., p. 1316 del PDF",
+   "Sabiston 21.ª ed., p. 1317 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Clave original: D (resaltado).",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Varón de 20 años con dolor periumbilical que migra a FID, náuseas y fiebre. Dolor a la palpación en punto de McBurney. El diagnóstico más probable es:",
+    "opts": [
+     "Colecistitis",
+     "Apendicitis aguda",
+     "Pancreatitis",
+     "Diverticulitis"
+    ],
+    "ans": 1,
+    "why": "El dolor visceral periumbilical que luego se localiza en el punto de McBurney (dolor somatoparietal), con náuseas y fiebre en un joven, es la presentación clásica de la apendicitis aguda. La colecistitis da dolor en el hipocondrio derecho, la pancreatitis en el epigastrio irradiado a la espalda, y la diverticulitis afecta típicamente a mayores con dolor en la fosa ilíaca izquierda.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1159 del PDF",
+     "Sabiston 21.ª ed., p. 1112 del PDF"
+    ],
+    "tema": "apendicitis",
+    "nota": "Clave original: B (resaltado)."
+   }
+  ]
+ },
+ {
+  "k": "eeb7aa570a",
+  "estado": "confirmada",
+  "stem": "Mujer de 45 años con dolor en hipocondrio derecho, fiebre y signo de Murphy positivo. Dolor irradia a espalda y hombro derecho. Dispepsia, náuseas y vómitos. El diagnóstico más probable es:",
+  "opts": [
+   "Hepatitis aguda",
+   "Pancreatitis aguda",
+   "Colecistitis aguda",
+   "Úlcera perforada"
+  ],
+  "ans": 2,
+  "why": "Dolor en el hipocondrio derecho con fiebre y signo de Murphy (cese de la inspiración al palpar bajo el reborde costal derecho) indica inflamación vesicular: colecistitis aguda. La irradiación a la espalda y al hombro derecho y las náuseas y vómitos son típicos. La hepatitis no suele dar fiebre con Murphy ni un dolor tan localizado, la pancreatitis da dolor epigástrico en barra, y la úlcera perforada da un dolor súbito con peritonitis difusa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1523 del PDF",
+   "Sabiston 21.ª ed., p. 1163 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "51a5b9cdb2",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 65 años con dolor abdominal difuso, distensión y vómitos biliosos. RHA aumentados y radiografía de abdomen con niveles hidroaéreos. El diagnóstico más probable es:",
+  "opts": [
+   "Íleo paralítico",
+   "Obstrucción intestinal mecánica",
+   "Peritonitis",
+   "Pancreatitis"
+  ],
+  "ans": 1,
+  "why": "Dolor, distensión, vómitos biliosos y ruidos hidroaéreos aumentados (hiperperistaltismo de lucha) con múltiples niveles hidroaéreos en la radiografía indican una obstrucción intestinal mecánica. En el íleo paralítico y en la peritonitis los ruidos están disminuidos o ausentes, y la pancreatitis da dolor epigástrico sin este patrón obstructivo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1277 del PDF",
+   "Sabiston 21.ª ed., p. 1278 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "d32fbb138c",
+  "estado": "confirmada",
+  "stem": "Mujer de 28 años de edad con dolor abdominal bajo de 4 horas de evolución que no disminuye a pesar del uso de antiinflamatorios, al contrario aumenta, con una escala de EVA de 8/10, y sangrado vaginal. B-HCG positivo.",
+  "opts": [
+   "Apendicitis",
+   "Embarazo ectópico",
+   "Endometriosis",
+   "Quiste ovárico simple"
+  ],
+  "ans": 1,
+  "why": "Mujer en edad fértil con dolor abdominal bajo intenso, sangrado vaginal y β-hCG positiva: hasta demostrar lo contrario es un embarazo ectópico, y debe estudiarse con β-hCG cuantitativa y ecografía transvaginal. La apendicitis no explica el sangrado ni la β-hCG positiva; la endometriosis da dolor cíclico crónico, y el quiste simple no se asocia a un test de embarazo positivo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 2042 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "98f968d0fc",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 18 años, deportista, con dolor abdominal agudo de 8 horas de evolución. Paciente refiere consumo de antiinflamatorios. Radiografía con aire libre subdiafragmático. El diagnóstico más probable es:",
+  "opts": [
+   "Obstrucción intestinal",
+   "Perforación de víscera hueca",
+   "Pancreatitis",
+   "Apendicitis"
+  ],
+  "ans": 1,
+  "why": "El aire libre bajo el diafragma en la radiografía en bipedestación es diagnóstico de perforación de víscera hueca y obliga a explorar quirúrgicamente. El consumo de AINE orienta a una úlcera péptica perforada. La obstrucción, la pancreatitis y la apendicitis no perforada no producen neumoperitoneo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1164 del PDF",
+   "Sabiston 21.ª ed., p. 1236 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "b4006affeb",
+  "estado": "confirmada",
+  "stem": "Paciente con sospecha de isquemia mesentérica. ¿Mejor estudio inicial?",
+  "opts": [
+   "Rx abdomen",
+   "Ecografía",
+   "TC con contraste (angiotomografía)",
+   "RM"
+  ],
+  "ans": 2,
+  "why": "La isquemia mesentérica aguda se diagnostica con angiotomografía (TC con contraste en fase arterial): muestra la oclusión del vaso y los signos de sufrimiento intestinal, y descarta otras causas del dolor. La radiografía simple suele ser normal o inespecífica al principio, la ecografía está limitada por el gas intestinal, y la RM es lenta y poco práctica en la urgencia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 275 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283 del PDF",
+   "Sabiston 21.ª ed., p. 1383 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "9d1af12930",
+  "estado": "confirmada",
+  "stem": "Paciente inestable con abdomen agudo. Conducta inicial:",
+  "opts": [
+   "Esperar estudios",
+   "Cirugía inmediata",
+   "Antibióticos orales",
+   "RM"
+  ],
+  "ans": 1,
+  "why": "En un abdomen quirúrgico no hay ventaja en esperar más pruebas: los retrasos aumentan la morbimortalidad, y la reanimación puede continuar en el quirófano. En el paciente inestable no se deben hacer estudios fuera de la sala (RM). Los antibióticos van por vía intravenosa y como complemento, no como tratamiento único. De las opciones, la correcta es la cirugía inmediata (con reanimación simultánea).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1166 del PDF",
+   "Sabiston 21.ª ed., p. 1167 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "baec6b9b6f",
+  "estado": "confirmada",
+  "stem": "Paciente embarazada con sospecha de apendicitis. Mejor imagen:",
+  "opts": [
+   "TC",
+   "Rx",
+   "RM",
+   "Endoscopia"
+  ],
+  "ans": 2,
+  "why": "En la gestante con sospecha de apendicitis la secuencia es ecografía > RM > TC. La ecografía no está entre las opciones, así que la mejor es la RM sin gadolinio: no irradia, es muy sensible y específica, y su uso sistemático reduce un 47% las apendicectomías negativas. La TC irradia y queda para cuando no hay RM; la radiografía y la endoscopia no sirven para diagnosticar apendicitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1337 del PDF",
+   "Sabiston 21.ª ed., p. 1168 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "0846c9c304",
+  "estado": "confirmada",
+  "stem": "Paciente con signos de Cullen y Grey Turner. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis",
+   "Hemorragia intraabdominal",
+   "Colecistitis",
+   "Diverticulitis"
+  ],
+  "ans": 1,
+  "why": "El signo de Cullen (equimosis periumbilical) y el de Grey Turner (equimosis en los flancos) indican sangre en el retroperitoneo o la cavidad peritoneal: hemoperitoneo, hemorragia retroperitoneal de la pancreatitis grave, hematoma de la vaina de los rectos, etc. De las opciones, solo la hemorragia intraabdominal los explica; la apendicitis, la colecistitis y la diverticulitis no producen equimosis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1163 del PDF",
+   "Sabiston 21.ª ed., p. 1559 del PDF",
+   "Sabiston 21.ª ed., p. 1110 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado). Clásicamente se asocian a la pancreatitis aguda hemorrágica, que no está entre las opciones."
+ },
+ {
+  "k": "00a91268b5",
+  "estado": "confirmada",
+  "stem": "Mujer de 24 años, sin antecedentes, acude por dolor abdominal de 10 h de evolución. Inicialmente difuso en región periumbilical, luego localizado en fosa ilíaca derecha. Presenta náuseas y vómitos. Examen físico: PA 110/70 mmHg, FC 98 lpm, T 38.1 °C, dolor en FID con defensa leve, signo de Rovsing positivo. Laboratorio: leucocitos 13 800/mm³. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Ileítis terminal",
+   "Apendicitis aguda",
+   "Diverticulitis",
+   "Gastroenteritis"
+  ],
+  "ans": 1,
+  "why": "La migración del dolor de la región periumbilical a la fosa ilíaca derecha, con náuseas, vómitos, febrícula, defensa, signo de Rovsing y leucocitosis, es el cuadro típico de la apendicitis aguda. La ileítis terminal suele tener un curso más prolongado con diarrea, la diverticulitis es rara a esta edad y da dolor en la fosa ilíaca izquierda, y la gastroenteritis da dolor difuso con diarrea, sin defensa localizada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1159 del PDF",
+   "Sabiston 21.ª ed., p. 1163 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "1f5a78ada5",
+  "estado": "confirmada",
+  "stem": "Mujer de 32 años con retraso menstrual de 6 semanas, acude por dolor abdominal bajo y sangrado vaginal escaso. Examen físico: PA 90/60 mmHg, FC 110 lpm. Laboratorio: B-HCG positivo. Ecografía: no se visualiza saco gestacional intrauterino. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Aborto incompleto",
+   "Embarazo ectópico",
+   "Quiste ovárico",
+   "Endometriosis"
+  ],
+  "ans": 1,
+  "why": "β-hCG positiva sin saco gestacional intrauterino, con dolor pélvico, sangrado escaso y signos de hipovolemia (hipotensión, taquicardia), sugiere un embarazo ectópico, probablemente roto, que exige cirugía si la paciente está inestable. El aborto incompleto muestra restos intrauterinos y el sangrado suele ser abundante; el quiste ovárico y la endometriosis no explican la β-hCG positiva.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 2042 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "612f71fcb5",
+  "estado": "confirmada",
+  "stem": "Varón de 70 años, fumador, con dolor abdominal súbito intenso de 4 horas, desproporcionado al examen físico. Examen físico: dolor leve a la palpación. Laboratorio: lactato elevado. Tomografía abdominal con contraste: disminución del realce intestinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Peritonitis",
+   "Isquemia mesentérica",
+   "Apendicitis",
+   "Pancreatitis"
+  ],
+  "ans": 1,
+  "why": "El dolor súbito e intenso, desproporcionado a la exploración, es el hallazgo clásico de la isquemia mesentérica aguda. El lactato elevado orienta a sufrimiento intestinal, y la TC con contraste muestra la falta de realce de la pared. La peritonitis tendría signos peritoneales francos; la apendicitis y la pancreatitis tienen otra clínica y otra imagen.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 275 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283 del PDF",
+   "Sabiston 21.ª ed., p. 1382 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado)."
+ }
+]
