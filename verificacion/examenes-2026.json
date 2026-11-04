@@ -596,7 +596,7 @@
  },
  "0e59bc9448": {
   "k": "0e59bc9448",
-  "estado": "confirmada",
+  "estado": "dudosa",
   "stem": "Durante la inanición los combustibles preferibles por el músculo cardiaco y esquelético son:",
   "opts": [
    "Alanina e histidina",
@@ -604,13 +604,14 @@
    "Arginina y nucleótidos",
    "Lisina y metionina"
   ],
-  "ans": 1,
-  "why": "Los aminoácidos de cadena ramificada (leucina, isoleucina y valina) son la excepción entre los aminoácidos: no se catabolizan en el hígado sino sobre todo en el músculo, que los oxida como fuente de energía; el nitrógeno resultante sale del músculo como alanina y glutamina hacia el hígado. La alanina, la arginina, los nucleótidos, la lisina y la metionina no son combustibles musculares característicos: la alanina es sustrato de la neoglucogénesis hepática y la arginina y los nucleótidos son inmunonutrientes.",
+  "ans": null,
+  "why": "Los libros no respaldan ninguna opción como combustible preferido. El ABSITE dice que en la inanición la mayor fuente de energía son los ácidos grasos libres y que luego se forman cuerpos cetónicos. Sabiston explica que los aminoácidos de cadena ramificada se catabolizan en el músculo, pero no que sean el combustible preferido del corazón y del músculo esquelético. La respuesta fisiológica (ácidos grasos y cuerpos cetónicos) no está entre las opciones.",
   "fuentes": [
    "Sabiston 21.ª ed., p. 124 del PDF",
-   "Sabiston 21.ª ed., p. 1465 del PDF"
+   "Sabiston 21.ª ed., p. 1465 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF"
   ],
-  "nota": "Clave original: B (resaltado). Matiz: en la inanición prolongada el músculo usa sobre todo ácidos grasos y cuerpos cetónicos (Sabiston p. 123), pero entre las opciones dadas solo los AACR son combustible muscular.",
+  "nota": "Clave original: B (aminoácidos de cadena ramificada, resaltado). El Sabiston (p. 124) dice que los AACR se catabolizan en el músculo, pero no que sean su combustible preferido; el ABSITE (p. 444) dice que en la inanición la mayor fuente de energía son los ácidos grasos libres, que no están entre las opciones.",
   "tema": "nutricion"
  },
  "a84ce3246d": {
@@ -2979,7 +2980,7 @@
     "tema": "esofago-estomago"
    },
    {
-    "estado": "dudosa",
+    "estado": "confirmada",
     "stem": "Paciente de 60 años de edad acude por consultorio externo de cirugía presentando regurgitación, disfagia y pirosis de 5 años de evolución. Los síntomas mejoran levemente con la ingesta de IBP. Señale lo correcto:",
     "opts": [
      "El primer examen que se solicita es una radiografía de esófago a doble contraste, para encontrar signos radiológicos de hernia hiatal",
@@ -2988,13 +2989,15 @@
      "La endoscopia no nos ayuda para el diagnóstico de hernia hiatal tipo I",
      "El tratamiento de la hernia hiatal es quirúrgico para restablecer la barrera esofágica"
     ],
-    "ans": null,
-    "why": "La clave esperada es E: en un paciente con ERGE y síntomas persistentes a pesar del tratamiento médico, el Sabiston recomienda considerar seriamente la cirugía antirreflujo (reparar el hiato y hacer una funduplicatura). Pero la E, tal como está escrita, generaliza en exceso: el mismo libro afirma que una hernia de hiato deslizante tipo I aislada no es indicación quirúrgica y que muchas no requieren tratamiento. La B, la C y la D son claramente falsas (la tipo II es paraesofágica y quirúrgica; la endoscopia sí muestra la hernia tipo I). La A tampoco es correcta, porque en un paciente de 60 años con 5 años de síntomas la evaluación empieza por la endoscopia. Ninguna opción es correcta sin reservas.",
+    "ans": 4,
+    "why": "En una hernia hiatal sintomática con ERGE que responde solo parcialmente a los IBP, el tratamiento es quirúrgico (reparación del hiato y funduplicatura), que restablece la barrera antirreflujo. La endoscopia sí ayuda: Sabiston indica que es esencial en la evaluación y que el endoscopista debe buscar y medir la hernia (D falsa). La hernia tipo II (paraesofágica) es quirúrgica, no se trata con IBP (B falsa); insistir con IBP sin respuesta no es correcto (C), y ante disfagia el estudio inicial es la endoscopia, aunque el esofagograma complementa la anatomía (A).",
     "fuentes": [
-     "Sabiston 21.ª ed., p. 1080 del PDF",
-     "Sabiston 21.ª ed., p. 1081 del PDF"
+     "Sabiston 21.ª ed., p. 1081 del PDF",
+     "Sabiston 21.ª ed., p. 1085 del PDF",
+     "Sabiston 21.ª ed., p. 1097 del PDF",
+     "Sabiston 21.ª ed., p. 1080 del PDF"
     ],
-    "nota": "Clave resaltada en el original: E.",
+    "nota": "Clave resaltada en el original: E. Sabiston p. 1080: en la ERGE con síntomas persistentes a pesar del tratamiento médico debe considerarse seriamente la cirugía antirreflujo. Ojo: una hernia tipo I asintomática no se opera (p. 1081).",
     "tema": "esofago-estomago"
    },
    {

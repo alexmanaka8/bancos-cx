@@ -1,0 +1,205 @@
+[
+ {
+  "k": "21d17f4908",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 25 años con nódulo axilar doloroso cíclico que aumenta en fase lútea. Ecografía: tejido ecogénico similar a parénquima mamario. No adenopatías. ¿Cuál es el origen embriológico más probable?",
+  "opts": [
+   "Persistencia de la cresta mamaria.",
+   "Derivado del conducto de Müller",
+   "Restos de cresta urogenital",
+   "Migración aberrante de células de la cresta neural",
+   "Malformación del seno urogenital"
+  ],
+  "ans": 0,
+  "why": "Es tejido mamario accesorio (polimastia) en la axila: responde a las hormonas del ciclo y por eso duele y crece en la fase lútea. En el embrión, la línea láctea (cresta mamaria) va de la axila a la ingle y normalmente se atrofia salvo en el pecho; si persiste un segmento, aparece tejido mamario o pezones supernumerarios a lo largo de ella, y la axila es el sitio más común. El conducto de Müller, la cresta o seno urogenital y la cresta neural originan otros órganos (genitales internos, aparato urogenital, melanocitos y nervios), no glándula mamaria.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 837 del PDF",
+   "Sabiston 21.ª ed., p. 838 del PDF"
+  ],
+  "nota": "Sin clave en el original. Se completó la opción E, que la extracción había perdido.",
+  "tema": "mama"
+ },
+ {
+  "k": "004-a1",
+  "agregada": true,
+  "despues_de": "21d17f4908",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 54 años. BAAF sugiere lesión ductal; en core de 14G se evalúa invasión. ¿Qué inmunomarcador confirma mejor la integridad de la capa mioepitelial para distinguir DCIS de carcinoma invasor?",
+  "opts": [
+   "E-cadherina",
+   "p63",
+   "ER",
+   "GATA3",
+   "Ki-67"
+  ],
+  "ans": 1,
+  "why": "Los conductos mamarios tienen una capa de células mioepiteliales y una membrana basal que separan el carcinoma in situ del invasor. Si alrededor de los nidos tumorales hay células mioepiteliales, la lesión es in situ; si faltan, hay invasión. p63 (junto con calponina y la cadena pesada de miosina de músculo liso) es un marcador nuclear sensible y específico de esas células. La E-cadherina sirve para distinguir lobulillar de ductal. ER y GATA3 son marcadores luminales o de origen mamario. Ki-67 mide proliferación. Ninguno de ellos evalúa la capa mioepitelial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 836 del PDF",
+   "Immunohistochemistry for diagnosis and prognosis of breast cancer: a review. Biotech Histochem 2020 (PMID 31502889, https://pubmed.ncbi.nlm.nih.gov/31502889/)"
+  ],
+  "nota": "Pregunta 2 del original, perdida en la extracción. Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "004-a2",
+  "agregada": true,
+  "despues_de": "004-a1",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 28 años en posparto inmediato con \"falla de eyección láctea\" pese a […] producción. Refiere ansiedad y dolor. ¿Qué hormona media principalmente el reflejo de […] ante la succión?",
+  "opts": [
+   "Prolactina",
+   "Estrógenos",
+   "Oxitocina",
+   "Dopamina",
+   "Cortisol"
+  ],
+  "ans": 2,
+  "why": "La salida de la leche (eyección) ocurre cuando se contraen las células mioepiteliales que rodean conductos y alvéolos, y esa contracción responde a la oxitocina. La succión del pezón provoca la liberación aguda de oxitocina desde la hipófisis posterior. El estrés y el dolor pueden inhibir este reflejo. La prolactina mantiene la producción de leche, no su expulsión. Los estrógenos y la dopamina más bien la inhiben, y el cortisol no media el reflejo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 837 del PDF"
+  ],
+  "nota": "Pregunta 3 del original, perdida en la extracción. La foto corta el borde derecho del enunciado (marcado con […]), pero la pregunta se entiende. Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "5a82b50ed2",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 45 años desarrolla \"ala de ángel\" tras disección axilar nivel I–II […] se lesionó con mayor probabilidad?",
+  "opts": [
+   "Toracodorsal",
+   "Espinal accesorio (XI)",
+   "Intercostobraquial",
+   "N. torácico largo",
+   "N. pectoral medial"
+  ],
+  "ans": 3,
+  "why": "La escápula alada (\"ala de ángel\") se debe a la parálisis del serrato anterior, inervado por el nervio torácico largo (de Bell). Este nervio corre por la pared medial de la axila y por eso se debe conservar en la disección axilar. El toracodorsal inerva el dorsal ancho, y su lesión debilita la aducción y rotación interna. El intercostobraquial es sensitivo (cara interna del brazo). El pectoral medial inerva los pectorales. El espinal accesorio no está en el campo de la disección axilar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 834 del PDF"
+  ],
+  "nota": "La foto corta el enunciado a la derecha (se pregunta qué nervio se lesionó), pero se entiende. Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "8737400522",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 60 años con metástasis pulmonar de car[cinoma de mama …]. Inmunohistoquímica para HER2: 1+. Hibridación (FISH/ISH): negativa. ¿Cómo […] estado de HER2?",
+  "opts": [
+   "HER2 positivo",
+   "HER2 negativo (IHQ 1+; FISH negativo)",
+   "HER2 indeterminado",
+   "HER2 equívoco (2+)",
+   "No se puede clasificar sin repetir pruebas"
+  ],
+  "ans": 1,
+  "why": "Según ASCO/CAP, el HER2 es positivo con IHQ 3+, o con IHQ 2+ (equívoco) y amplificación por ISH. Una IHQ 1+ ya es HER2 negativo, y además aquí la ISH es negativa. No es equívoco (eso es 2+) ni hay que repetir pruebas. La actualización de 2023 aclara que el 1+ sigue informándose como negativo, aunque hoy importa distinguirlo del 0 porque estos tumores (\"HER2-low\") pueden recibir trastuzumab deruxtecán.",
+  "fuentes": [
+   "ASCO-CAP, Human Epidermal Growth Factor Receptor 2 Testing in Breast Cancer: Guideline Update, J Clin Oncol 2023 (PMID 37284804, https://pubmed.ncbi.nlm.nih.gov/37284804/)",
+   "Sabiston 21.ª ed., p. 872 del PDF"
+  ],
+  "nota": "Se completaron las opciones C–E, que estaban al inicio de la foto siguiente. Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "5b9aacf6b1",
+  "estado": "dudosa",
+  "stem": "Paciente mujer de 49 años en mamografía de tamizaje: grupo de microcalcificaciones finas pleomórficas de 8 mm en distribución segmentaria, sin masa. ¿Cuál es la categoría y conducta?",
+  "opts": [
+   "BI-RADS 3; control a 6 meses",
+   "BI-RADS 4A; biopsia con aguja",
+   "BI-RADS 4B; biopsia con aguja",
+   "BI-RADS 4C; biopsia con aguja",
+   "BI-RADS 5; cirugía directa"
+  ],
+  "ans": null,
+  "why": "Lo seguro es que son calcificaciones sospechosas (BI-RADS 4) y que la conducta es la biopsia con aguja guiada por imagen. Se descartan BI-RADS 3 (son de aspecto probablemente benigno) y la cirugía directa (siempre se prefiere la biopsia percutánea). Pero el BI-RADS 5.ª ed. asigna la morfología fina pleomórfica a 4B y la fina lineal a 4C. Y la distribución segmentaria eleva mucho el valor predictivo positivo: la combinación fina pleomórfica más segmentaria supera el 90 % en series, lo que haría razonable un 4C. El atlas no fija una regla que combine morfología y distribución, así que 4B y 4C son ambas defendibles. Además, el enunciado es contradictorio: dice \"grupo\" (agrupadas) y a la vez \"segmentaria\".",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 843 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 864 del PDF",
+   "Evaluation of malignancy risk stratification of microcalcifications detected on mammography: a study based on the 5th edition of BI-RADS. Ann Surg Oncol 2015 (PMID 25608770, https://pubmed.ncbi.nlm.nih.gov/25608770/)",
+   "Comparison of PPVs of categorization of suspicious calcifications using the 4th and 5th editions of BI-RADS. AJR 2019 (PMID 31063419, https://pubmed.ncbi.nlm.nih.gov/31063419/)"
+  ],
+  "nota": "Sin clave en el original. Se completó la opción E. Dudosa entre C (4B, por la morfología) y D (4C, por la distribución segmentaria).",
+  "tema": "mama"
+ },
+ {
+  "k": "74c4f66f18",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 52 años; biopsia de ganglio centinela con foco metastásico 0,6 mm sin extravasación. ¿Cuál es la categoría nodal patológica?",
+  "opts": [
+   "pN0(i+)",
+   "pN1mi",
+   "pN1a",
+   "pN0",
+   "pN2a"
+  ],
+  "ans": 1,
+  "why": "Según el TNM de la AJCC, un foco de más de 0,2 mm (o más de 200 células) y de hasta 2,0 mm es una micrometástasis: pN1mi (en ganglio centinela se escribe pN1mi(sn)). 0,6 mm está en ese rango. pN0(i+) es para células tumorales aisladas de 0,2 mm o menos. pN1a exige al menos una metástasis mayor de 2 mm en 1–3 ganglios axilares. pN2a es para 4–9 ganglios.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 857 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 866 del PDF"
+  ],
+  "nota": "La extracción había mezclado el enunciado con texto de otra pregunta. Se completó la opción E. Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "09cceedbd0",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 57 años con tumor de 18 mm y ulceración cutánea con piel de naranja sobre la lesión; sin fijación a pared torácica. ¿Categoría T correcta?",
+  "opts": [
+   "T1c",
+   "T2",
+   "T3",
+   "T4b",
+   "T4d"
+  ],
+  "ans": 3,
+  "why": "Cualquier tumor, sea del tamaño que sea, que comprometa la piel con ulceración, nódulos satélites o edema (incluida la piel de naranja), sin reunir los criterios de carcinoma inflamatorio, es T4b. Por eso no cuenta que mida 18 mm: T1c sería solo por tamaño. T2 y T3 son categorías por tamaño (más de 20 y más de 50 mm). T4d es el carcinoma inflamatorio, que exige eritema y edema de rápida aparición en más de un tercio de la mama, y eso no se describe aquí.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 857 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 866 del PDF"
+  ],
+  "nota": "Se completó la opción E (T4d), que la extracción había perdido. Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "0705088025",
+  "estado": "nueva",
+  "stem": "Paciente mujer posmenopáusica de 63 años con metástasis óseas y hepáticas (3 lesiones en segmentos VI–VIII), ECOG 1. Laboratorio: bilirrubina total 4,0 mg/dL (LSN 1,2), FA 620 U/L, AST 320 U/L, ascenso sostenido en 2 semanas; ictericia y prurito. Saturación 98% AA; dolor óseo controlado. ¿Cuál escenario define mejor crisis visceral?",
+  "opts": [
+   "Bilirrubina 1,3 mg/dL con AST 60 U/L, asintomática",
+   "Bilirrubina 4,0 mg/dL en ascenso con ictericia clínica",
+   "CA 15-3 duplicado sin cambios clínicos",
+   "Dos nódulos pulmonares 4-6 mm sin disnea",
+   "Metástasis óseas múltiples con calcemia 10,1 mg/dL y dolor controlado"
+  ],
+  "ans": 1,
+  "why": "Las guías ABC (ESO-ESMO) definen la crisis visceral como una disfunción orgánica grave, por síntomas, signos y laboratorio, causada por una progresión rápida del cáncer. En el hígado se define como una bilirrubina que sube rápido por encima de 1,5 veces el límite normal sin obstrucción: 4,0 mg/dL en ascenso con ictericia lo cumple de sobra. Tener metástasis viscerales no basta; hace falta compromiso orgánico grave. Por eso no lo son una alteración mínima, un marcador tumoral aislado, nódulos pulmonares sin disnea ni metástasis óseas con calcio normal.",
+  "fuentes": [
+   "6th and 7th International consensus guidelines for the management of advanced breast cancer (ABC 6 y 7), Breast 2024 (PMC11231614, https://europepmc.org/article/PMC/PMC11231614)"
+  ],
+  "nota": "Sin clave en el original.",
+  "tema": "mama"
+ },
+ {
+  "k": "d1ea58f272",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 55 años con cáncer de mama HER2+ y metástasis cerebrales sinto[máticas …]; recibió previamente taxano + anticuerpos anti-HER2 y T-DM1. Para evaluar extensión y el seguimiento intracraneal, ¿cuál es el estudio de imagen de elección?",
+  "opts": [
+   "RM cerebral con gadolinio",
+   "TC de cráneo con contraste yodado",
+   "FDG-PET/TC como único estudio para cerebro",
+   "RM cerebral sin contraste",
+   "Citología de LCR como tamizaje inicial en toda paciente con metástasis cerebral"
+  ],
+  "ans": 0,
+  "why": "La RM con gadolinio es el estudio de elección para estadificar y seguir las metástasis cerebrales. El gadolinio muestra la ruptura de la barrera hematoencefálica y permite ver metástasis de hasta unos 5 mm. La guía ASCO para HER2+ con metástasis cerebrales usa la RM de cerebro como estudio de referencia. La TC es menos sensible. La RM sin contraste no detecta lesiones pequeñas. El FDG-PET rinde mal en el cerebro porque el tejido cerebral normal capta mucha glucosa. La citología de LCR solo se usa si se sospecha enfermedad leptomeníngea.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1917 del PDF",
+   "ASCO, Management of Advanced HER2-Positive Breast Cancer and Brain Metastases: Guideline Update, J Clin Oncol 2022 (PMID 35640075, https://pubmed.ncbi.nlm.nih.gov/35640075/)"
+  ],
+  "nota": "La foto corta el enunciado a la derecha, pero se entiende. Sin clave en el original.",
+  "tema": "mama"
+ }
+]

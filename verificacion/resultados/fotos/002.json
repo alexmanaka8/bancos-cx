@@ -1,0 +1,1390 @@
+[
+ {
+  "k": "0e0e98bbc3",
+  "estado": "nueva",
+  "stem": "Un hombre de 38 años acude al médico por un cuadro de fiebre y tos con expectoración moderada de esputo amarillento de un mes de evolución. Ha perdido 6 kg (13 lb) de peso durante este periodo. Emigró de Oriente Medio hace aproximadamente dos años. Su padre falleció de cáncer de pulmón a los 54 años. Ha fumado un paquete de cigarrillos al día durante 18 años. Su única medicación es un multivitamínico diario. Presenta desnutrición. Su temperatura es de 38,1 °C, el pulso es de 101 latidos/min y la presión arterial es de 118/72 mm Hg. Se auscultan crepitaciones en el tórax. El examen cardíaco no muestra anomalías. El abdomen es blando y no doloroso a la palpación. Laboratorio: hemoglobina 12,3 g/dL; leucocitos 13.200/mm³; plaquetas 330.000/mm³; VSG 66 mm/h; nitrógeno ureico 16 mg/dL; creatinina 0,9 mg/dL. El análisis de orina está dentro de los límites normales. Se muestra una radiografía de tórax (imagen en el examen original, con opacidades en los campos pulmonares superiores). ¿Cuál de las siguientes opciones es el siguiente paso más apropiado en el manejo del caso?",
+  "opts": [
+   "Realizar una tomografía computarizada de alta resolución del tórax",
+   "Iniciar el tratamiento con levofloxacino oral",
+   "Recolectar muestras de esputo para microscopía de frotis de bacilos ácido-resistentes, cultivo y amplificación de ácidos nucleicos",
+   "Realizar una biopsia pulmonar transbronquial de la lesión sospechosa",
+   "Iniciar el tratamiento con isoniazida, rifampicina, pirazinamida y etambutol"
+  ],
+  "ans": 2,
+  "why": "Tos de un mes, fiebre, baja de peso, VSG alta, procedencia de zona endémica y lesiones en lóbulos superiores: hay que sospechar tuberculosis pulmonar. Según la CDC, a todo paciente con sospecha de TB pulmonar se le recogen muestras respiratorias para baciloscopia (BAAR) y cultivo, y se hace una prueba de amplificación de ácidos nucleicos (NAAT) al menos en una muestra. La TC (A) o la biopsia (D) no confirman el diagnóstico microbiológico. El levofloxacino (B) puede enmascarar la TB y crear resistencia. Iniciar el esquema de cuatro drogas (E) sin muestras impide confirmar el diagnóstico y conocer la sensibilidad.",
+  "fuentes": [
+   "CDC, Updated Guidelines for the Use of Nucleic Acid Amplification Tests in the Diagnosis of Tuberculosis, MMWR 2009;58(1):7-10 (https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5801a3.htm)",
+   "ATS/IDSA/CDC, Clinical Practice Guidelines: Diagnosis of Tuberculosis in Adults and Children, Clin Infect Dis 2017 (PMID 27932390)"
+  ],
+  "tema": "otros",
+  "nota": "En la foto el alumno marcó C. Es la pregunta 2 del Examen S3. La pregunta 1 del examen faltaba en el banco y se agregó (002-a1)."
+ },
+ {
+  "k": "002-a1",
+  "estado": "nueva",
+  "stem": "Un hombre de 69 años es llevado al servicio de urgencias por 30 minutos de dolor abdominal intenso que se irradia a su flanco izquierdo. Está débil y no ha podido ponerse de pie desde el inicio del dolor. Vomitó dos veces de camino al hospital. No ha evacuado durante 3 días. Tiene hipertensión, enfermedad coronaria y enfermedad de úlcera péptica. Ha fumado medio paquete de cigarrillos al día durante 46 años. Sus medicamentos actuales incluyen enalapril, metoprolol, aspirina, simvastatina y pantoprazol. Parece enfermo. Su temperatura es de 37 °C, pulso de 131/min, respiraciones de 31/min y presión arterial de 82/56 mm Hg. La oximetría de pulso en aire ambiente muestra una saturación de oxígeno del 92 %. El examen muestra una masa abdominal pulsátil dolorosa. Los pulmones están limpios a la auscultación. El examen cardíaco no muestra anomalías. Se inicia la reanimación con líquidos intravenosos. ¿Cuál de las siguientes opciones es el siguiente paso más apropiado en el tratamiento?",
+  "opts": [
+   "Tratamiento con ampicilina/sulbactam intravenosa",
+   "Radiografías del abdomen en decúbito supino y en bipedestación",
+   "Tomografía computarizada de abdomen y pelvis con contraste",
+   "Cirugía de urgencia abierta",
+   "Transfusión de concentrado de glóbulos rojos"
+  ],
+  "ans": 3,
+  "why": "Dolor abdominal súbito irradiado al flanco, masa pulsátil dolorosa e hipotensión con taquicardia en un fumador hipertenso: es un aneurisma de aorta abdominal roto. El ABSITE indica que, si el paciente está hemodinámicamente inestable, debe ir directamente al quirófano; la TC (C) se prefiere solo si está relativamente estable. Las radiografías (B) y los antibióticos (A) no tienen papel. La transfusión (E) acompaña a la reanimación, pero no reemplaza el control quirúrgico de la rotura.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 289 del PDF",
+   "Sabiston 21.ª ed., p. 1775 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Pregunta 1 del Examen S3, perdida por la extracción. En la foto el alumno marcó C (TC). El ABSITE respalda C solo en el paciente estable. Este paciente tiene PA 82/56 y FC 131, así que está inestable.",
+  "agregada": true,
+  "despues_de": "0e0e98bbc3"
+ },
+ {
+  "k": "002-a2",
+  "estado": "nueva",
+  "stem": "Un varón de 28 años es llevado a emergencia luego de un accidente de tránsito. Está pálido, diaforético y confuso. PA: 82/48 mmHg, FC: 138/min, FR: 32/min, SatO2: 91%. Presenta deformidad de muslo derecho, abdomen doloroso y FAST positivo en Morison. Lactato: 5,8 mmol/L. Hb inicial: 11,2 g/dL. Se han colocado dos vías periféricas gruesas. ¿Cuál es la conducta inicial más adecuada?",
+  "opts": [
+   "Administrar 3 litros rápidos de cristaloides, repetir hemoglobina y decidir transfusión solo si Hb <7 g/dL",
+   "Iniciar norepinefrina como primera medida para alcanzar PA sistólica ≥100 mmHg antes de controlar la hemorragia",
+   "Activar protocolo de hemorragia masiva con hemoderivados, cristaloides balanceados limitados, ácido tranexámico temprano y control quirúrgico de sangrado",
+   "Esperar tomografía abdominal con contraste antes de iniciar transfusión porque la hemoglobina inicial aún es aceptable"
+  ],
+  "ans": 2,
+  "why": "Es un shock hemorrágico grave (hipotensión, taquicardia, confusión, lactato alto, FAST positivo). Sabiston indica que en el shock hemorrágico el líquido de elección son los hemoderivados. Los cristaloides favorecen la coagulopatía y aumentan el sangrado. La prioridad es controlar rápido la hemorragia, con pocos cristaloides, hemoderivados pronto y ácido tranexámico. Dar 3 L de cristaloides (A) o vasopresores antes de controlar el sangrado (B) empeora el pronóstico. La Hb inicial no refleja la pérdida aguda, y un paciente inestable no debe ir a TC (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 551 del PDF",
+   "Sabiston 21.ª ed., p. 93 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Pregunta 3 del Examen S3. En la foto el alumno marcó A.",
+  "agregada": true,
+  "despues_de": "002-a1"
+ },
+ {
+  "k": "002-a3",
+  "estado": "nueva",
+  "stem": "[Inicio de la pregunta cortado en la foto] … consulta por [texto cortado]. PA: 86/50 mmHg, FC: 122/min, FR: 28/min, temperatura: 39,1 °C. Lactato: 4,3 mmol/L. Luego de recibir 30 mL/kg de cristaloide balanceado, persiste con PAM de 58 mmHg. Se inicia norepinefrina y se toman hemocultivos antes de antibióticos. ¿Cuál de las siguientes afirmaciones interpreta mejor el cuadro fisiopatológico y terapéutico?",
+  "opts": [
+   "Se trata de shock hipovolémico puro; la intervención principal es continuar cristaloides hasta normalizar la presión arterial.",
+   "Se trata de shock séptico, una forma de shock distributivo por disfunción endotelial, vasodilatación, fuga capilar y posible disfunción miocárdica asociada.",
+   "Se trata de shock cardiogénico primario; el tratamiento inicial debe ser dobutamina y restricción absoluta de líquidos.",
+   "Se trata de shock obstructivo; debe realizarse pericardiocentesis urgente si no responde a fluidos.",
+   "Se trata de respuesta inflamatoria sin shock, porque la presión arterial baja se explica únicamente por fiebre y taquicardia."
+  ],
+  "ans": 1,
+  "why": "Fiebre, lactato >2 e hipotensión que persiste tras 30 mL/kg de cristaloides y necesita norepinefrina: es shock séptico. Sabiston lo clasifica como shock distributivo, con vasodilatación sistémica y aumento de la permeabilidad vascular (paso de líquido al intersticio). La norepinefrina es el vasopresor de elección y la dobutamina se agrega si el gasto cardíaco es bajo. No es hipovolémico puro (A), ya que no respondió a los fluidos. Nada sugiere causa cardiogénica (C) ni obstructiva (D). Con hipotensión que requiere vasopresor sí hay shock (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 550 del PDF",
+   "Sabiston 21.ª ed., p. 551 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Pregunta 4 del Examen S3. El inicio del enunciado está cortado en la foto, pero se entiende. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a2"
+ },
+ {
+  "k": "002-a4",
+  "estado": "nueva",
+  "stem": "Un varón de 64 años consulta por dolor torácico opresivo de 90 minutos, diaforesis y disnea. ECG: elevación del ST en cara anterior. PA: 78/46 mmHg, FC: 118/min, extremidades frías, oliguria. Lactato: 4,6 mmol/L. La ecocardiografía a pie de cama muestra ventrículo izquierdo dilatado con contractilidad global severamente disminuida y llenado ventricular aumentado. No hay derrame pericárdico ni neumotórax. ¿Cuál es la mejor estrategia inicial?",
+  "opts": [
+   "Reposición agresiva con cristaloides hasta normalizar la presión arterial, porque todo shock se debe manejar primero como hipovolemia.",
+   "Norepinefrina o dobutamina según perfil hemodinámico, soporte ventilatorio si es necesario y reperfusión coronaria urgente.",
+   "Pericardiocentesis urgente porque el shock con ingurgitación yugular siempre corresponde a taponamiento.",
+   "Epinefrina intramuscular, antihistamínicos y corticoides por probable anafilaxia.",
+   "Antibióticos de amplio espectro y 30 mL/kg de cristaloide como única prioridad inicial."
+  ],
+  "ans": 1,
+  "why": "IAM con elevación del ST, hipotensión, extremidades frías y un VI dilatado que se contrae mal: es shock cardiogénico. Sabiston lo trata con vasopresores o inótropos según el perfil hemodinámico y soporte mecánico si hace falta. El IAM tipo 1 se trata con reperfusión (intervención coronaria percutánea). Dar cristaloides agresivos (A) empeora la congestión de un ventrículo ya sobrecargado. No hay derrame que justifique pericardiocentesis (C), ni datos de anafilaxia (D) o sepsis (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 551 del PDF",
+   "Sabiston 21.ª ed., p. 552 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Pregunta 5 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a3"
+ },
+ {
+  "k": "002-a5",
+  "estado": "nueva",
+  "stem": "Un paciente de 35 años sufre trauma torácico cerrado. Llega ansioso, con disnea intensa. PA: 74/42 mmHg, FC: 132/min, FR: 36/min, SatO2: 84%. En el examen se observa desviación traqueal, ingurgitación yugular, enfisema [resto del enunciado cortado en la foto]. ¿Cuál es la conducta inmediata más adecuada?",
+  "opts": [
+   "Solicitar [texto cortado en la foto] diagnóstico antes de intervenir.",
+   "Iniciar norepinefrina y diferir drenaje pleural hasta que la presión mejore.",
+   "Administrar 30 mL/kg de cristaloide y antibióticos por probable shock séptico.",
+   "Descompresión torácica inmediata seguida de drenaje pleural.",
+   "Administrar dobutamina por shock cardiogénico secundario a contusión miocárdica."
+  ],
+  "ans": 3,
+  "why": "Trauma torácico con hipotensión, hipoxemia, desviación traqueal e ingurgitación yugular: es un neumotórax a tensión (shock obstructivo). Sabiston dice que es un diagnóstico clínico y no necesita radiografía antes de tratarlo (por eso no A). Se hace de inmediato la descompresión con aguja de grueso calibre o con tubo de toracostomía. Los vasopresores (B), los líquidos con antibióticos (C) y la dobutamina (E) no tratan la causa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 417 del PDF",
+   "Sabiston 21.ª ed., p. 552 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Pregunta 6 del Examen S3. Final del enunciado y parte de la opción A cortados en la foto; la pregunta se entiende. En la foto el alumno marcó D. La frase final de la pregunta («¿Cuál es la conducta…?») se infirió de las opciones.",
+  "agregada": true,
+  "despues_de": "002-a4"
+ },
+ {
+  "k": "002-a6",
+  "estado": "nueva",
+  "stem": "Un varón de 41 años cae desde una altura de 4 metros. Presenta paraplejía, anestesia por debajo de T4 y pérdida de reflejos osteotendinosos. PA: 82/44 mmHg, FC: 48/min, piel tibia y seca. No hay sangrado externo, FAST negativo y radiografía de pelvis sin fractura. Lactato: 2,1 mmol/L. El examen pulmonar no sugiere neumotórax. ¿Cuál es la interpretación y manejo inicial más adecuados?",
+  "opts": [
+   "Shock hemorrágico clase IV; iniciar transfusión masiva inmediata, aunque no haya evidencia de sangrado.",
+   "Shock neurogénico por lesión medular alta; fluidos prudentes y norepinefrina para restaurar el tono vascular, además del manejo causal neurológico.",
+   "Shock séptico temprano; iniciar antibióticos y esperar respuesta antes de usar vasopresores.",
+   "Shock anafiláctico; epinefrina intramuscular por la presencia de hipotensión.",
+   "Shock cardiogénico; iniciar diuréticos porque la piel caliente descarta hipovolemia."
+  ],
+  "ans": 1,
+  "why": "Hipotensión con bradicardia y piel tibia y seca tras una lesión medular alta, sin sangrado: es shock neurogénico. Sabiston lo explica por la pérdida del tono simpático, que produce un shock «caliente», y en las lesiones altas hay bradicardia. Se trata con vasopresores, y la norepinefrina se considera de primera línea. No hay evidencia de hemorragia (A), infección (C), alergia (D) ni falla de bomba (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 550 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Pregunta 7 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a5"
+ },
+ {
+  "k": "002-a7",
+  "estado": "nueva",
+  "stem": "Varón de 56 años será operado de peritonitis generalizada. Dentro de las medidas antropométricas para evaluación nutricional está:",
+  "opts": [
+   "Valoración global subjetiva",
+   "Dosaje de transferrina",
+   "Calorimetría indirecta",
+   "Grosor del pliegue cutáneo"
+  ],
+  "ans": 3,
+  "why": "Sabiston define la antropometría como cualquier medición física del cuerpo humano (peso, talla, pliegues, circunferencias). El grosor del pliegue cutáneo es una medida antropométrica. La transferrina (B) es un marcador de laboratorio. La calorimetría indirecta (C) mide el gasto energético. La valoración global subjetiva (A) es una herramienta clínica de historia y examen, no una medición antropométrica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 129 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Pregunta 8 del Examen S3. En la foto el alumno marcó B (transferrina), que es un dato bioquímico, no antropométrico.",
+  "agregada": true,
+  "despues_de": "002-a6"
+ },
+ {
+  "k": "002-a8",
+  "estado": "nueva",
+  "stem": "Paciente con diagnóstico de desnutrición grave por lo que se le instala NPT; este desarrolla el llamado síndrome de retroalimentación (realimentación); este se deberá a:",
+  "opts": [
+   "Sobrehidratación",
+   "Hiperpotasemia",
+   "Hipofosfatemia",
+   "Hipermagnesemia"
+  ],
+  "ans": 2,
+  "why": "Sabiston: el síndrome de realimentación aparece al dar todo el aporte calórico tras un período de inanición y cursa con hipopotasemia, hipofosfatemia e hipomagnesemia. La alteración típica es la hipofosfatemia. Hay potasio y magnesio bajos, no altos (B, D). La sobrehidratación (A) puede acompañarlo, pero no es el mecanismo característico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 559 del PDF",
+   "Sabiston 21.ª ed., p. 133 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Pregunta 9 del Examen S3. En la foto el alumno marcó A.",
+  "agregada": true,
+  "despues_de": "002-a7"
+ },
+ {
+  "k": "002-a9",
+  "estado": "anulada",
+  "stem": "Mujer que recibe soporte nutricional parenteral porque no podrá recibir tratamiento por vía enteral por un período de 10 días, ¿Qué [resto del enunciado cortado en la foto]…",
+  "opts": [
+   "[Opciones a–b no visibles] … Alteraciones electrolíticas",
+   "NA"
+  ],
+  "ans": null,
+  "why": "La pregunta está incompleta en el original: la foto corta el enunciado después de «¿Qué…» y solo se ven el final de la opción C («Alteraciones electrolíticas») y la opción D («NA»). Sin saber qué se pregunta ni las demás opciones, no se puede responder.",
+  "fuentes": [
+   "Examen S3 (foto del examen)"
+  ],
+  "tema": "nutricion",
+  "nota": "Pregunta 10 del Examen S3.",
+  "agregada": true,
+  "despues_de": "002-a8"
+ },
+ {
+  "k": "002-a10",
+  "estado": "dudosa",
+  "stem": "Durante la inanición, los combustibles preferibles por el músculo cardíaco y esquelético son:",
+  "opts": [
+   "Alanina e histidina",
+   "Aminoácidos de cadena ramificada",
+   "Arginina y nucleótidos",
+   "Lisina y metionina"
+  ],
+  "ans": null,
+  "why": "Los libros no respaldan ninguna opción como combustible preferido. El ABSITE dice que en la inanición la mayor fuente de energía son los ácidos grasos libres y que luego se forman cuerpos cetónicos. Sabiston explica que los aminoácidos de cadena ramificada se catabolizan en el músculo, pero no que sean el combustible preferido del corazón y del músculo esquelético. La respuesta fisiológica (ácidos grasos y cuerpos cetónicos) no está entre las opciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 124 del PDF",
+   "Sabiston 21.ª ed., p. 1465 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Pregunta 11 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a9"
+ },
+ {
+  "k": "002-a11",
+  "estado": "dudosa",
+  "stem": "La pérdida más significativa de proteínas que ocurre durante una cirugía es debido a:",
+  "opts": [
+   "Infección",
+   "Hemorragia",
+   "Hipotermia",
+   "Hipertermia"
+  ],
+  "ans": null,
+  "why": "No se encontró en Sabiston, Giménez ni el ABSITE una afirmación que diga cuál es la principal causa de pérdida proteica durante la cirugía. La hemorragia es una pérdida directa de proteínas plasmáticas, pero los libros hablan de la pérdida proteica posoperatoria por catabolismo muscular de la respuesta al estrés, que no es ninguna opción. Sin fuente, no se puede confirmar la clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 137 del PDF",
+   "Sabiston 21.ª ed., p. 513 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Pregunta 13 del Examen S3. En la foto el alumno marcó B (hemorragia).",
+  "agregada": true,
+  "despues_de": "002-a10"
+ },
+ {
+  "k": "002-a12",
+  "estado": "nueva",
+  "stem": "Los sustratos preferidos para la neoglucogénesis hepática a partir de aminoácidos son:",
+  "opts": [
+   "Alanina y glutamina",
+   "Arginina y nucleótidos",
+   "Aminoácidos de cadena ramificada",
+   "Aminoácidos esenciales"
+  ],
+  "ans": 0,
+  "why": "Sabiston: el músculo empaqueta el nitrógeno en alanina y glutamina y los envía al hígado. La alanina se convierte en piruvato y luego en glucosa (ciclo glucosa-alanina). Tras una agresión se liberan alanina y glutamina en grandes cantidades para la gluconeogénesis. Los aminoácidos de cadena ramificada (C) se oxidan sobre todo en el músculo y no en el hígado. Los nucleótidos (B) no son sustrato, y los esenciales (D) no son un grupo específico de sustratos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 124 del PDF",
+   "Sabiston 21.ª ed., p. 125 del PDF",
+   "Sabiston 21.ª ed., p. 513 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Pregunta 14 del Examen S3. En la foto el alumno marcó A.",
+  "agregada": true,
+  "despues_de": "002-a11"
+ },
+ {
+  "k": "002-a13",
+  "estado": "nueva",
+  "stem": "Un varón de 35 años sufre quemaduras extensas tras explosión doméstica. Ingresa a emergencia con compromiso hemodinámico, taquicardia y dificultad respiratoria. Durante la valoración primaria, el cirujano prioriza identificar lesiones asociadas y compromiso sistémico inmediato. ¿Cuál es el objetivo principal de la evaluación inicial en este paciente?",
+  "opts": [
+   "Calcular el tiempo estimado de cicatrización",
+   "Determinar la necesidad de injerto cutáneo",
+   "Identificar lesiones asociadas y compromiso vital",
+   "Cuantificar el dolor basal",
+   "Establecer secuelas funcionales"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la valoración inicial del quemado tiene un reconocimiento primario y uno secundario. En el primario se identifican y tratan rápido las condiciones que ponen en riesgo la vida (vía aérea, respiración, circulación, lesiones asociadas como las de columna en explosiones). Cicatrización, injertos, dolor y secuelas (A, B, D, E) se valoran después.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514 del PDF",
+   "Sabiston 21.ª ed., p. 515 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 15 del Examen S3. En la foto el alumno marcó C.",
+  "agregada": true,
+  "despues_de": "002-a12"
+ },
+ {
+  "k": "002-a14",
+  "estado": "nueva",
+  "stem": "Paciente rescatado de incendio cerrado presenta quemaduras faciales, cejas chamuscadas y restos de hollín en cavidad oral. ¿Cuál hallazgo es más sugestivo de lesión inhalatoria?",
+  "opts": [
+   "Tos productiva",
+   "Quemaduras faciales con hollín en vía aérea",
+   "Taquipnea leve aislada",
+   "Dolor torácico",
+   "Saturación normal inicial"
+  ],
+  "ans": 1,
+  "why": "Sabiston: la inhalación de humo se asocia a exposición en espacio cerrado, ronquera, esputo carbonáceo, quemaduras faciales y vibrisas chamuscadas. La broncoscopia confirma el diagnóstico al ver hollín infraglótico. El hollín en la vía aérea es el hallazgo más sugestivo de las opciones. La tos, la taquipnea aislada o el dolor torácico son inespecíficos (A, C, D). Una saturación normal al inicio no descarta la lesión (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 517 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 17 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a13"
+ },
+ {
+  "k": "ac2ad0f010",
+  "estado": "dudosa",
+  "stem": "Paciente con quemadura circunferencial profunda en miembro superior desarrolla ausencia de pulsos distales, dolor intenso y parestesias progresivas. ¿Cuál es la principal indicación quirúrgica inmediata?",
+  "opts": [
+   "Injerto precoz",
+   "Antibioticoterapia de amplio espectro",
+   "Fasciotomía por síndrome compartimental",
+   "Escarectomía diferida",
+   "Amputación preventiva"
+  ],
+  "ans": null,
+  "why": "Sabiston: cuando una quemadura profunda rodea una extremidad y compromete la circulación (hormigueo, dolor, pulsos o Doppler ausentes), el procedimiento indicado es la escarotomía. La fasciotomía se reserva para cuando las presiones siguen altas después de la escarotomía. La escarotomía no está entre las opciones. La «fasciotomía» (C) es la única descompresión urgente ofrecida, pero no es el procedimiento inicial que indica el libro. La «escarectomía diferida» (D) es una escisión tardía, no una descompresión. Como ninguna opción coincide con el libro, no se fija clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 18 del Examen S3. En la foto el alumno marcó C. El texto de la extracción tenía pegada una opción de la pregunta 12 («gamma-linolénico»), que se separó.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "¿Cuál de los siguientes es un ácido graso poliinsaturado esencial omega-3? Es el ácido:",
+    "opts": [
+     "alfa-linolénico",
+     "gamma-linolénico",
+     "araquidónico",
+     "beta-linoleico"
+    ],
+    "ans": 0,
+    "why": "Los ácidos grasos esenciales son el linoleico (omega-6) y el alfa-linolénico (omega-3), según el ABSITE. Sabiston explica que los omega-3 y omega-6 no los sintetiza el cuerpo y que de ellos derivan los eicosanoides. El ácido araquidónico (C) es un omega-6 del que salen las prostaglandinas. El gamma-linolénico (B) también es omega-6. «Beta-linoleico» (D) no corresponde a un omega-3 esencial.",
+    "fuentes": [
+     "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF",
+     "Sabiston 21.ª ed., p. 125 del PDF"
+    ],
+    "tema": "nutricion",
+    "nota": "Pregunta 12 del Examen S3. En la foto el alumno marcó C (araquidónico), que es un omega-6."
+   }
+  ]
+ },
+ {
+  "k": "33c7a46752",
+  "estado": "nueva",
+  "stem": "Paciente de 42 años con quemaduras del 45% de superficie corporal presenta pérdida ponderal acelerada, aumento del consumo energético y catabolismo muscular severo durante su hospitalización. ¿Qué alteración metabólica explica mejor este cuadro?",
+  "opts": [
+   "Hipotiroidismo agudo",
+   "Hipoglucemia persistente",
+   "Estado hipermetabólico",
+   "Hipocalcemia primaria",
+   "[Opción cortada en la foto: «… cardíaco»]"
+  ],
+  "ans": 2,
+  "why": "Sabiston: tras una quemadura grave aparece una respuesta hipermetabólica muy marcada. Suben el consumo de oxígeno, la tasa metabólica, la excreción de nitrógeno y la lipólisis en proporción al tamaño de la quemadura. Por eso hay pérdida de peso y catabolismo muscular. El hipotiroidismo (A) y la hipoglucemia (B) no explican el aumento del gasto. La hipocalcemia (D) no causa catabolismo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 524 del PDF",
+   "Sabiston 21.ª ed., p. 528 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 16 del Examen S3. En la foto el alumno marcó C. La extracción había mezclado esta pregunta con la 22, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Paciente crítico con quemaduras severas presenta hematemesis al quinto día de hospitalización. ¿Cuál complicación gastrointestinal es más probable?",
+    "opts": [
+     "Pancreatitis aguda",
+     "Colecistitis alitiásica",
+     "Úlcera de Curling",
+     "Peritonitis bacteriana",
+     "Colitis isquémica"
+    ],
+    "ans": 2,
+    "why": "Las úlceras por estrés en el gran quemado se llaman úlceras de Curling (Sabiston). Por eso los quemados reciben profilaxis de úlcera de estrés. La hematemesis indica sangrado digestivo alto. La pancreatitis (A) y la colecistitis alitiásica (B) no causan hematemesis. La peritonitis (D) y la colitis isquémica (E) no dan sangrado alto.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 559 del PDF"
+    ],
+    "tema": "quemados",
+    "nota": "Pregunta 22 del Examen S3. La opción E («Colitis isquémica») aparece al inicio de la página siguiente; parece tener una marca del alumno, pero no se lee con claridad."
+   }
+  ]
+ },
+ {
+  "k": "002-a15",
+  "estado": "nueva",
+  "stem": "Paciente gran quemado recibe fluidoterapia según fórmula de Parkland. ¿Qué parámetro clínico es el más útil para ajustar la reposición en las primeras 24 horas?",
+  "opts": [
+   "Frecuencia cardíaca",
+   "Diuresis horaria",
+   "Presión venosa central",
+   "Lactato sérico",
+   "Hematocrito"
+  ],
+  "ans": 1,
+  "why": "Sabiston: durante la reanimación del quemado, la infusión se ajusta cada hora según el volumen de orina, con una meta de 0,5 mL/kg/h en adultos y 1 mL/kg/h en niños. La frecuencia cardíaca (A) sirve poco porque casi todos los quemados están taquicárdicos aunque estén bien reanimados. La PVC, el lactato y el hematocrito (C, D, E) no son el parámetro guía habitual.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF",
+   "Sabiston 21.ª ed., p. 515 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 21 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "33c7a46752"
+ },
+ {
+  "k": "002-a16",
+  "estado": "nueva",
+  "stem": "Paciente con lesión inhalatoria severa mantiene edema laríngeo prolongado y dependencia ventilatoria. ¿Cuál es la indicación más frecuente de traqueostomía en este contexto?",
+  "opts": [
+   "Secreciones abundantes",
+   "Fracaso ventilatorio inicial",
+   "Edema laríngeo persistente",
+   "Lesión bronquial distal",
+   "Prevención infecciosa"
+  ],
+  "ans": 2,
+  "why": "Sabiston agrupa las indicaciones de traqueostomía en el paciente crítico en tres: obstrucción de la vía aérea superior, ventilación mecánica prolongada y causas neurológicas que impiden extubar con seguridad. El edema laríngeo que persiste es una obstrucción de la vía aérea superior que impide extubar. Las secreciones (A), el fracaso ventilatorio inicial (B), la lesión bronquial distal (D) o la prevención de infecciones (E) no son esas indicaciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 574 del PDF",
+   "Sabiston 21.ª ed., p. 575 del PDF",
+   "Sabiston 21.ª ed., p. 523 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 23 del Examen S3. En la foto el alumno marcó C.",
+  "agregada": true,
+  "despues_de": "33c7a46752-2"
+ },
+ {
+  "k": "002-a17",
+  "estado": "nueva",
+  "stem": "Paciente con quemadura eléctrica extensa presenta oliguria, elevación de creatinina y mioglobinuria. ¿Cuál es la complicación renal más probable?",
+  "opts": [
+   "Nefropatía diabética",
+   "Litiasis renal",
+   "Insuficiencia renal aguda por mioglobinuria",
+   "Síndrome nefrótico",
+   "Glomerulonefritis"
+  ],
+  "ans": 2,
+  "why": "Sabiston: en la lesión eléctrica el daño muscular libera mioglobina. Esta se filtra en el glomérulo y produce una nefropatía obstructiva, por lo que se indica hidratación vigorosa. La oliguria con creatinina alta y mioglobinuria es una insuficiencia renal aguda por mioglobinuria. Las demás opciones no se relacionan con la quemadura eléctrica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 24 del Examen S3. En la foto el alumno marcó C.",
+  "agregada": true,
+  "despues_de": "002-a16"
+ },
+ {
+  "k": "002-a18",
+  "estado": "dudosa",
+  "stem": "Paciente masculino de 30 años sufre incendio domiciliario. Presenta quemaduras de espesor parcial en tórax anterior completo, abdomen completo y miembro superior derecho completo. Según la regla de los nueves de Wallace, ¿cuál es el porcentaje estimado de superficie corporal quemada (SCQ) y cuál es la conducta inicial más adecuada?",
+  "opts": [
+   "27% SCQ – Manejo ambulatorio con curaciones",
+   "36% SCQ – Reposición hídrica inmediata con fórmula de Parkland",
+   "45% SCQ – Injerto inmediato",
+   "18% SCQ – Observación hospitalaria sin líquidos",
+   "54% SCQ – Escarectomía urgente"
+  ],
+  "ans": null,
+  "why": "Con la regla de los nueves (Sabiston), el tronco anterior (tórax + abdomen) vale 18% y un miembro superior 9%, así que el total es 27%. Pero un adulto con 27% de quemadura de espesor parcial necesita hospitalización y reanimación con líquidos, no manejo ambulatorio, así que A tiene el porcentaje correcto y la conducta incorrecta. La opción B (36% con Parkland) tiene la conducta correcta, pero solo da 36% si «abdomen completo» incluye la región lumbar posterior, lo que el enunciado no aclara. Ninguna opción une el porcentaje y la conducta correctos sin interpretar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF",
+   "Sabiston 21.ª ed., p. 516 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Pregunta 25 del Examen S3. En la foto el alumno marcó A.",
+  "agregada": true,
+  "despues_de": "002-a17"
+ },
+ {
+  "k": "002-a19",
+  "estado": "nueva",
+  "stem": "[Varó]n de 25 años post laparotomía por [apen]dicitis complicada y peritonitis [gener]alizada; al cuarto día posoperatorio presenta distensión abdominal, náusea y vómitos. Examen: abdomen distendido y [texto cortado], RHA: ausentes, SNG: 1000 mL de [contenido] verdoso. Electrolitos normales. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Perforación intestinal",
+   "Obstrucción por bridas",
+   "Íleo paralítico",
+   "Síndrome de Ogilvie"
+  ],
+  "ans": 2,
+  "why": "Sabiston: el íleo paralítico se asocia a cirugía abdominal reciente e inflamación intraabdominal, como la peritonitis. Los ruidos intestinales están disminuidos o ausentes y hay distensión, náuseas y vómitos. En la obstrucción mecánica por bridas (B), los ruidos son metálicos y aumentados. La perforación (A) daría peritonitis y sepsis. El síndrome de Ogilvie (D) es una seudoobstrucción del colon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pregunta 26 del Examen S3. El borde izquierdo está cortado en la foto (letras iniciales de algunas palabras y letras de las opciones); el contenido se entiende. No se ve marca del alumno.",
+  "agregada": true,
+  "despues_de": "002-a18"
+ },
+ {
+  "k": "002-a20",
+  "estado": "anulada",
+  "stem": "[Inicio cortado en la foto] … 50 años, hospitalizado por neumonía en tratamiento con ceftriaxona y […]na, al décimo día de evolución presenta fiebre, dolor abdominal y diarreas con moco en 5 cámaras al día. Leucocitos 18 000/µL [resto del enunciado no visible]…",
+  "opts": [
+   "[Opciones A–B no visibles] … Cotrimoxazol",
+   "Levofloxacino",
+   "Vancomicina"
+  ],
+  "ans": null,
+  "why": "La pregunta está incompleta en el original. El final del enunciado y la pregunta no salen en las fotos, y de las opciones solo se ven fragmentos al inicio de la página siguiente (cotrimoxazol, levofloxacino, vancomicina). Sin saber qué se pregunta (diagnóstico o tratamiento), no se puede responder.",
+  "fuentes": [
+   "Examen S3 (foto del examen)"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pregunta 27 del Examen S3.",
+  "agregada": true,
+  "despues_de": "002-a19"
+ },
+ {
+  "k": "002-a21",
+  "estado": "nueva",
+  "stem": "Varón de 60 años que, al 6.º día postoperatorio de perforación de cáncer de colon y peritonitis, presenta dolor en la herida operatoria y calor local. Examen: PA 120/80 mmHg, FR 20 x', FC 80 x'; herida suturada, eritematosa, tumefacta y fluctuante. ¿Cuál es la conducta a seguir?",
+  "opts": [
+   "Iniciar antibioticoterapia",
+   "Abrir herida y cultivo",
+   "Aspiración y cultivo",
+   "Reoperación"
+  ],
+  "ans": 1,
+  "why": "Es una infección superficial de la herida con colección (fluctuante) y sin signos sistémicos. Sabiston indica que las heridas quirúrgicas infectadas deben abrirse para que drenen, con desbridamiento si hay tejido desvitalizado. Los antibióticos se agregan solo si hay signos sistémicos o celulitis extensa, así que solos (A) no bastan. La aspiración (C) no drena bien la herida. No hay datos de complicación intraabdominal que justifiquen reoperar (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 266 del PDF",
+   "Sabiston 21.ª ed., p. 267 del PDF"
+  ],
+  "tema": "iso",
+  "nota": "Pregunta 28 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a20"
+ },
+ {
+  "k": "002-a22",
+  "estado": "nueva",
+  "stem": "En la estenosis del conducto colédoco como complicación postoperatoria, ¿cuál es la intervención quirúrgica indicada?",
+  "opts": [
+   "Coledocoduodenostomía",
+   "Colocación de dren de Kehr",
+   "Hepatoyeyunostomía en Y de Roux",
+   "Colédoco anastomosis término-terminal",
+   "Dilatación del colédoco vía endoscópica"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la estenosis benigna de la vía biliar suele tratarse primero por vía endoscópica o percutánea (dilatación y prótesis). Cuando falla, el tratamiento quirúrgico es anastomosar el árbol biliar a un asa yeyunal en Y de Roux (hepaticoyeyunostomía), que drena bien sin síndrome del sumidero. La pregunta pide la intervención quirúrgica, así que la respuesta es C. La dilatación endoscópica (E) no es quirúrgica. La anastomosis término-terminal (D) y el dren de Kehr (B) tienen alta recidiva de estenosis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1528 del PDF",
+   "Sabiston 21.ª ed., p. 1533 del PDF"
+  ],
+  "tema": "via-biliar",
+  "nota": "Pregunta 29 del Examen S3. En la foto el alumno marcó E (dilatación endoscópica). Sabiston la propone como primer tratamiento, pero no es quirúrgica.",
+  "agregada": true,
+  "despues_de": "002-a21"
+ },
+ {
+  "k": "002-a23",
+  "estado": "nueva",
+  "stem": "Varón de 30 años en el postoperatorio de colecistectomía refiere dolor intenso en la herida operatoria, recibiendo un analgésico. Dos horas después cursa con convulsiones tónico-clónicas generalizadas. ¿Qué analgésico se relaciona con dicho efecto secundario?",
+  "opts": [
+   "Tramadol",
+   "Ketorolaco",
+   "Celecoxib",
+   "Meloxicam",
+   "Paracetamol"
+  ],
+  "ans": 0,
+  "why": "La ficha técnica del tramadol aprobada por la FDA advierte riesgo de convulsiones incluso a dosis recomendadas. El riesgo aumenta con dosis altas y con fármacos que bajan el umbral convulsivo. Los AINE (ketorolaco, celecoxib, meloxicam) y el paracetamol no se asocian a convulsiones.",
+  "fuentes": [
+   "FDA/DailyMed, Tramadol hydrochloride tablets, prescribing information: Warnings – Risk of Seizure (https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=934f43f0-d8f3-aa13-e053-2995a90a7006&type=display)"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pregunta 30 del Examen S3. En la foto hay una marca entre «Tramadol» y «B)»; no se distingue si marca A o B. Ningún libro de la carpeta trata este efecto; se usó la ficha técnica oficial.",
+  "agregada": true,
+  "despues_de": "002-a22"
+ },
+ {
+  "k": "002-a24",
+  "estado": "nueva",
+  "stem": "Varón de 58 años, operado hace 18 horas de colecistectomía abierta. Presenta fiebre de 38,2 °C. Examen: PA 120/70 mmHg, FC 88 x', FR 22 x'. Pulmones: murmullo vesicular disminuido en base derecha. Rx de tórax: opacidad laminar basal derecha con elevación del hemidiafragma. ¿Cuál es la complicación postoperatoria más probable?",
+  "opts": [
+   "Neumonía aspirativa",
+   "Tromboembolismo pulmonar",
+   "Atelectasia postoperatoria",
+   "Derrame pleural paraneumónico"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la atelectasia es la complicación respiratoria más frecuente después de cirugía y la causa más frecuente de fiebre en el postoperatorio inmediato. Da murmullo disminuido, opacidades laminares y pérdida de volumen con elevación del hemidiafragma. A las 18 h es pronto para una neumonía (A) o un derrame paraneumónico (D). El TEP (B) se presentaría con disnea súbita y taquicardia, sin imagen laminar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 271 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pregunta 31 del Examen S3. En la foto el alumno marcó C.",
+  "agregada": true,
+  "despues_de": "002-a23"
+ },
+ {
+  "k": "002-a25",
+  "estado": "nueva",
+  "stem": "Mujer de 66 años, sometida a reemplazo total de cadera hace 5 días. Presenta disnea de inicio súbito, dolor pleurítico en hemitórax derecho y hemoptisis escasa. Examen: FC 118 x', FR 28 x', SatO2 91%. Rx tórax: sin infiltrados. Dímero D elevado. ¿Cuál es el examen para confirmar el diagnóstico?",
+  "opts": [
+   "Ecocardiograma transtorácico",
+   "Gammagrafía de ventilación-perfusión",
+   "Angiotomografía pulmonar",
+   "Eco-Doppler de miembros inferiores"
+  ],
+  "ans": 2,
+  "why": "El cuadro (cirugía ortopédica reciente, disnea súbita, dolor pleurítico, taquicardia, hipoxemia, Rx normal y dímero D elevado) es una embolia pulmonar. Sabiston: la angiografía pulmonar por TC es el estudio de imagen de elección para la EP. La gammagrafía V/Q (B) se prefiere solo en casos especiales: embarazo, insuficiencia renal o alergia al contraste. El ecocardiograma (A) y el Doppler venoso (D) no confirman la embolia pulmonar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 274 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pregunta 32 del Examen S3. La marca del alumno no se distingue con claridad.",
+  "agregada": true,
+  "despues_de": "002-a24"
+ },
+ {
+  "k": "002-a26",
+  "estado": "anulada",
+  "stem": "Una paciente de 35 años, fumadora actual, con embarazo de 20 semanas y diagnóstico de hipertensión arterial bien controlada con nifedipino, va a ser sometida a apendicectomía por apendicitis aguda. Según la clasificación del estado físico de la ASA, ¿cuál es su categoría?",
+  "opts": [
+   "ASA I",
+   "ASA II",
+   "[Resto de opciones cortadas en la foto]"
+  ],
+  "ans": null,
+  "why": "La foto corta las opciones después de «b) ASA II» y no se pueden ver las demás. Por el tipo de pregunta (cirugía de urgencia) puede haber una opción con «E» (p. ej., ASA II-E), que cambiaría la respuesta. Sin todas las opciones no se puede fijar una clave.",
+  "fuentes": [
+   "Examen S3 (foto del examen)"
+  ],
+  "tema": "eras",
+  "nota": "Pregunta 33 del Examen S3. En la foto el alumno marcó B.",
+  "agregada": true,
+  "despues_de": "002-a25"
+ },
+ {
+  "k": "002-a27",
+  "estado": "anulada",
+  "stem": "[Inicio del enunciado cortado en la foto] … cardíacas mayores?",
+  "opts": [
+   "Historia de enfermedad cerebrovascular",
+   "Uso de metformina para diabetes mellitus",
+   "Creatinina sérica preoperatoria > 1,5 mg/dL",
+   "Cirugía de várices de miembros inferiores"
+  ],
+  "ans": null,
+  "why": "La foto solo muestra el final del enunciado («…cardíacas mayores?») y las opciones. Parece preguntar por un predictor de complicaciones cardíacas mayores (índice de riesgo cardíaco revisado), pero no se lee si pide el que es o el que no es predictor. No se puede responder con seguridad.",
+  "fuentes": [
+   "Examen S3 (foto del examen)"
+  ],
+  "tema": "eras",
+  "nota": "Pregunta 34 del Examen S3.",
+  "agregada": true,
+  "despues_de": "002-a26"
+ },
+ {
+  "k": "caee319937",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 58 años, 70 kg, sometido a una sigmoidectomía abierta por diverticulitis complicada de 4 horas de duración. Fiebre: 39 °C. Diuresis: 1400 mL/24 h. Drenaje intestinal: 500 mL. Ringer Lactato 3000 mL/24 h. Indique cuánto es el BHE (balance hídrico):",
+  "opts": [
+   "+258 cc",
+   "+464 cc",
+   "-167 cc",
+   "-298 cc",
+   "+560 cc"
+  ],
+  "ans": null,
+  "why": "El resultado depende de la convención usada para las pérdidas insensibles, el agua endógena, la corrección por fiebre y las pérdidas por la cirugía de 4 horas, y el enunciado no la indica. Sin corrección por fiebre (PI 0,5 mL/kg/h = 840 mL menos 300 mL de agua endógena) sale +560 mL. Si se corrige por los 2 °C de fiebre o se cuentan las pérdidas operatorias, sale otro valor de las opciones. Los libros de la carpeta no dan una fórmula única que decida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Pregunta 41 del Examen S3. En la foto el alumno marcó E (+560 cc), con cálculos a mano. La extracción había mezclado fragmentos de la pregunta 35, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "En la evaluación de la capacidad funcional para cirugía no cardíaca, ¿cuál es el umbral de equivalentes metabólicos (METs) que indica que un paciente puede proceder a cirugía sin pruebas adicionales si es asintomático?",
+    "opts": [
+     "2 METs",
+     "4 METs",
+     "7 METs",
+     "10 METs"
+    ],
+    "ans": 1,
+    "why": "Sabiston: los riesgos cardíacos perioperatorios son mayores en los pacientes que no pueden hacer 4 MET en sus actividades diarias. Con capacidad funcional moderada o mayor (≥ 4 MET), el paciente asintomático puede ir a cirugía sin más estudios cardíacos, según el algoritmo ACC/AHA. 2 MET es capacidad mala. 7 y 10 MET son más de lo necesario.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 349 del PDF",
+     "Sabiston 21.ª ed., p. 277 del PDF"
+    ],
+    "tema": "eras",
+    "nota": "Pregunta 35 del Examen S3. En la foto el alumno marcó B."
+   }
+  ]
+ },
+ {
+  "k": "94d22cdf60",
+  "estado": "nueva",
+  "stem": "Según las guías modernas de ayuno perioperatorio adoptadas por los protocolos ERAS, ¿cuál es el tiempo mínimo de ayuno para líquidos claros (incluyendo bebidas con carbohidratos) antes de una cirugía electiva?",
+  "opts": [
+   "2 horas",
+   "4 horas",
+   "6 horas",
+   "8 horas"
+  ],
+  "ans": 0,
+  "why": "Sabiston: los líquidos claros, con o sin carbohidratos, se permiten hasta 2 h antes de una cirugía programada con anestesia general o sedación (recomendación de la ASA que adopta ERAS). Para sólidos el ayuno es de 6 h. Por eso 4, 6 u 8 h (B, C, D) son ayunos innecesariamente largos para líquidos claros.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF",
+   "Sabiston 21.ª ed., p. 131 del PDF",
+   "Sabiston 21.ª ed., p. 356 del PDF"
+  ],
+  "tema": "eras",
+  "nota": "Pregunta 36 del Examen S3. En la foto el alumno marcó A. La extracción había mezclado esta pregunta con la 37 y la 42 (y opciones de la 41); las dos primeras van en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Paciente varón de 65 años, 70 kg, postoperado de laparotomía exploratoria de 4 horas, presenta diuresis de 400 mL en 24 horas, fiebre de 39 °C y drenaje nasogástrico de 800 mL. Recibió 3000 mL de Lactato de Ringer. ¿Cuál es el parámetro más importante para ajustar la reposición hídrica inicial?",
+    "opts": [
+     "Frecuencia respiratoria",
+     "Presión venosa central",
+     "Diuresis horaria",
+     "Osmolaridad plasmática",
+     "Hiponatremia severa"
+    ],
+    "ans": 2,
+    "why": "Sabiston: la diuresis es una forma excelente de saber el estado de volumen. Una diuresis baja indica que hay que subir la velocidad de reposición y una alta, que hay que bajarla. Este paciente tiene oliguria (400 mL/24 h). La PVC (B) ya no se recomienda como guía porque no predice la respuesta a líquidos. La frecuencia respiratoria (A), la osmolaridad (D) y la natremia (E) no son el parámetro principal.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 105 del PDF",
+     "Sabiston 21.ª ed., p. 106 del PDF",
+     "Sabiston 21.ª ed., p. 550 del PDF"
+    ],
+    "tema": "liquidos",
+    "nota": "Pregunta 42 del Examen S3. En la foto el alumno marcó A."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Un paciente con insuficiencia renal crónica terminal en hemodiálisis programada debe ser operado de una hernia incisional. ¿Cuál es el momento ideal para realizar su última sesión de diálisis antes de la cirugía?",
+    "opts": [
+     "48 horas antes de la cirugía",
+     "El mismo día o el día anterior a la cirugía",
+     "Inmediatamente después de la cirugía",
+     "4 horas antes de la inducción anestésica"
+    ],
+    "ans": 1,
+    "why": "Sabiston: el momento óptimo para la diálisis preoperatoria es el día anterior o el mismo día de la cirugía, para llegar con electrólitos casi normales y euvolemia. 48 h antes (A) deja tiempo para que se acumulen potasio y volumen. Dializar solo después (C) no corrige el estado preoperatorio. «4 horas antes» (D) es un plazo más estrecho que el que da el libro y deja poco margen para los cambios de líquidos tras la sesión.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 222 del PDF"
+    ],
+    "tema": "eras",
+    "nota": "Pregunta 37 del Examen S3. No se ve marca del alumno."
+   }
+  ]
+ },
+ {
+  "k": "4985b873c0",
+  "estado": "nueva",
+  "stem": "Con respecto al manejo de la anticoagulación crónica con warfarina para una cirugía electiva de riesgo de sangrado intermedio, ¿cuántos días antes del procedimiento debe suspenderse el fármaco para normalizar el INR?",
+  "opts": [
+   "1 día",
+   "3 días",
+   "5 días",
+   "7 días"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la warfarina tiene una vida media de 36 a 42 h y debe suspenderse 5 días antes de una cirugía programada, controlando el TP/INR el día de la operación. Con 1 o 3 días (A, B) el INR suele seguir alto. 7 días (D) es más de lo necesario y alarga el tiempo sin anticoagulación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 226 del PDF"
+  ],
+  "tema": "eras",
+  "nota": "Pregunta 38 del Examen S3. En la foto el alumno marcó B (3 días). La extracción había pegado fragmentos de la pregunta 43, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Mujer de 70 años hospitalizada por neumonía desarrolla sodio sérico de 118 mEq/L, cefalea intensa, confusión y convulsiones. ¿Cuál es la complicación fisiopatológica más importante?",
+    "opts": [
+     "Hipoperfusión renal",
+     "Edema cerebral agudo",
+     "Hipovolemia periférica",
+     "Alcalosis metabólica",
+     "Hipercalcemia secundaria"
+    ],
+    "ans": 1,
+    "why": "Sabiston: en la hiponatremia las células se hinchan porque el cuerpo no puede mantener la osmolalidad. La hiponatremia intensa produce cefalea, letargo, coma o convulsiones por edema cerebral, y si es sintomática con convulsiones se corrige rápido hasta que cedan. Las otras opciones no explican la clínica neurológica.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 108 del PDF",
+     "Sabiston 21.ª ed., p. 562 del PDF"
+    ],
+    "tema": "liquidos",
+    "nota": "Pregunta 43 del Examen S3. En la foto el alumno marcó B."
+   }
+  ]
+ },
+ {
+  "k": "5ca43e49c7",
+  "estado": "nueva",
+  "stem": "Hipernatremia por pérdida de agua libre. Paciente anciana de 75 años con golpe de calor presenta sodio sérico de 156 mEq/L, letargia y mucosas secas. ¿Cuál es el tratamiento inicial más adecuado tras la estabilización hemodinámica?",
+  "opts": [
+   "NaCl 0.9% hipertónico",
+   "Restricción hídrica",
+   "Dextrosa al 5% para reposición de agua libre",
+   "Bicarbonato intravenoso",
+   "Diuréticos de asa"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la hipernatremia por pérdida de agua se trata reponiendo el déficit de agua libre. Si hay hipovolemia, primero se corrige con líquidos isotónicos, y luego, sin hipovolemia, se da agua libre en soluciones hipotónicas (dextrosa al 5%). El sodio se baja lento (no más de 8-10 mEq/día) para evitar edema cerebral. Restringir agua (B) empeora el problema. La solución salina aporta sodio (A). El bicarbonato (D) y los diuréticos (E) no reponen agua.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Pregunta 44 del Examen S3. En la foto el alumno marcó C. La opción A dice literalmente «NaCl 0.9% hipertónico» (el 0,9% es isotónico). La extracción había pegado la pregunta 39, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "En un paciente diabético que utiliza insulina NPH (acción intermedia), ¿cuál es la recomendación estándar sobre la dosis la mañana de la cirugía mientras el paciente está en ayunas?",
+    "opts": [
+     "Omitir la dosis completa",
+     "Administrar el 25% de la dosis",
+     "Administrar el 50% de la dosis",
+     "Administrar la dosis completa habitual"
+    ],
+    "ans": 2,
+    "why": "Sabiston: la insulina de acción intermedia (NPH) se da a la mitad de la dosis la mañana de la cirugía y se vuelve a la dosis normal cuando se reanuda la dieta. Omitirla (A) arriesga hiperglucemia o cetosis. La dosis completa en ayunas (D) arriesga hipoglucemia. El 25% (B) no es la recomendación.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 228 del PDF"
+    ],
+    "tema": "eras",
+    "nota": "Pregunta 39 del Examen S3. En la foto el alumno marcó A (omitir)."
+   }
+  ]
+ },
+ {
+  "k": "e736609a8b",
+  "estado": "anulada",
+  "stem": "Paciente mujer de 47 años y 60 kg de peso, con diagnóstico de lesión de vía biliar con fuga biliar post colecistectomía laparoscópica. Fiebre: 38,5 °C. Diuresis: 1200 mL/24 h. Pérdidas por drenaje biliar: 900 mL/24 h. Hidratación endovenosa: SSN 0,9% a 100 mL/h por 24 h. [La pregunta y la opción A están cortadas en la foto]",
+  "opts": [
+   "+45 cc",
+   "-144 cc",
+   "-258 cc",
+   "-560 cc"
+  ],
+  "ans": null,
+  "why": "La pregunta (probablemente el balance hídrico) y la opción A no salen en las fotos. Solo se ven las opciones B–E. Además, el cálculo depende de la convención para pérdidas insensibles, agua endógena y fiebre, que el enunciado no da. No se puede responder.",
+  "fuentes": [
+   "Examen S3 (foto del examen)"
+  ],
+  "tema": "liquidos",
+  "nota": "Pregunta 40 del Examen S3. La extracción había mezclado esta pregunta con la 45 y la 46, que van en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Hipokalemia quirúrgica. Paciente postoperatorio con vómitos persistentes presenta debilidad muscular, íleo paralítico y ECG con ondas U prominentes. Potasio sérico: 2,8 mEq/L. ¿Cuál es la conducta más adecuada?",
+    "opts": [
+     "Restricción de sodio",
+     "Infusión controlada de potasio IV con monitoreo cardíaco",
+     "Administración de calcio gluconato",
+     "Hemodiálisis urgente",
+     "Dextrosa hipertónica"
+    ],
+    "ans": 1,
+    "why": "Es una hipopotasemia grave con cambios en el ECG (ondas U). Sabiston: se repone potasio por vía i.v. a 10-20 mEq/h, y por encima de 10 mEq/h se necesita monitorización cardíaca por el riesgo de arritmias. El gluconato de calcio (C) se usa en la hiperpotasemia. La hemodiálisis (D) y la dextrosa hipertónica (E) bajan el potasio. Restringir sodio (A) no tiene papel.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 110 del PDF"
+    ],
+    "tema": "liquidos",
+    "nota": "Pregunta 45 del Examen S3. En la foto el alumno marcó B."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Paciente politraumatizado recibe 1 litro de solución salina normal. ¿Qué porcentaje aproximado permanecerá en el espacio intravascular luego de varias horas?",
+    "opts": [
+     "100%",
+     "75%",
+     "50%",
+     "20%",
+     "5%"
+    ],
+    "ans": 3,
+    "why": "Sabiston: la solución salina normal y el Ringer lactato atraviesan fácilmente la membrana vascular y se retienen poco. Tras algunas horas solo quedan 175-200 mL de cada litro en el espacio intravascular (alrededor del 20%). El resto pasa al intersticio, porque el cristaloide isotónico se reparte en todo el líquido extracelular.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 72 del PDF",
+     "Sabiston 21.ª ed., p. 73 del PDF"
+    ],
+    "tema": "liquidos",
+    "nota": "Pregunta 46 del Examen S3. En la foto el alumno marcó D."
+   }
+  ]
+ },
+ {
+  "k": "002-a28",
+  "estado": "nueva",
+  "stem": "Paciente adulto de 70 kg sin vía oral requiere mantenimiento hídrico. ¿Cuál es su requerimiento hídrico basal diario aproximado?",
+  "opts": [
+   "1000 mL",
+   "1500 mL",
+   "2450 mL",
+   "3500 mL",
+   "5000 mL"
+  ],
+  "ans": 2,
+  "why": "El requerimiento basal de un adulto es de unos 30-35 mL/kg/día. En 70 kg eso da unos 2100-2450 mL. Sabiston da dos estimaciones para un hombre de 70 kg: 2000 mL/día de agua (tabla de necesidades normales) y unos 2640 mL/día con la regla 4-2-1 (110 mL/h). La opción más cercana a ambas es 2450 mL (35 mL/kg/día). 1000 y 1500 mL (A, B) son insuficientes y 3500 y 5000 mL (D, E) son excesivos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Pregunta 47 del Examen S3. En la foto el alumno marcó C, con el cálculo 35 × 70 = 2450.",
+  "agregada": true,
+  "despues_de": "e736609a8b-3"
+ },
+ {
+  "k": "cc10673240",
+  "estado": "nueva",
+  "stem": "Paciente sometido a tiroidectomía total presenta parestesias peribucales, espasmo carpopedal y signo de Trousseau positivo. ¿Cuál alteración explica mejor este cuadro?",
+  "opts": [
+   "Hipernatremia",
+   "Hiperkalemia",
+   "Hipocalcemia",
+   "Hipomagnesemia",
+   "Acidosis respiratoria"
+  ],
+  "ans": 2,
+  "why": "Sabiston: el hipoparatiroidismo es la causa más frecuente de hipocalcemia y aparece tras cirugía del cuello, como la tiroidectomía total. La hipocalcemia da parestesias, espasmos musculares (tetania, con signo de Trousseau) y convulsiones. La hipomagnesemia (D) puede acompañarla, pero no es la causa principal tras la tiroidectomía. Las otras opciones no producen tetania.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Pregunta 48 del Examen S3. En la foto el alumno marcó C. La extracción había pegado la pregunta 49, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Paciente de 68 kg con fístula biliar de 1000 mL/día, diuresis de 1500 mL, fiebre de 39 °C y aporte EV de 3000 mL presenta balance hídrico negativo. ¿Cuál es la principal consecuencia clínica de un balance persistentemente negativo?",
+    "opts": [
+     "Hipervolemia",
+     "Edema pulmonar",
+     "Deshidratación e hipoperfusión tisular",
+     "Hipercalcemia",
+     "Alcalosis respiratoria"
+    ],
+    "ans": 2,
+    "why": "Un balance negativo persistente significa que el paciente pierde más líquido del que recibe. Sabiston explica que un volumen intravascular insuficiente baja el flujo renal y la perfusión, con riesgo de insuficiencia renal: es deshidratación con hipoperfusión de los tejidos. La hipervolemia y el edema pulmonar (A, B) son consecuencias del balance positivo. La hipercalcemia y la alcalosis respiratoria (D, E) no son la consecuencia esperada.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 105 del PDF",
+     "Sabiston 21.ª ed., p. 106 del PDF"
+    ],
+    "tema": "liquidos",
+    "nota": "Pregunta 49 del Examen S3. En la foto el alumno marcó C."
+   }
+  ]
+ },
+ {
+  "k": "002-a29",
+  "estado": "nueva",
+  "stem": "Paciente de 120 kg es sometido a una laparotomía exploratoria por trauma abdominal. Indique cuál es la velocidad de infusión de los líquidos por hora.",
+  "opts": [
+   "113 mL/h",
+   "120 mL/h",
+   "160 mL/h",
+   "169 mL/h",
+   "220 mL/h"
+  ],
+  "ans": 2,
+  "why": "Con la regla de mantenimiento 4-2-1 de Sabiston (4 mL/kg/h los primeros 10 kg, 2 mL/kg/h los siguientes 10 kg y 1 mL/kg/h por cada kg sobre 20): 40 + 20 + 100 = 160 mL/h. 113 mL/h (A) es el ejemplo del libro para un paciente de 73 kg. 120 mL/h (B) sería 1 mL/kg/h. 169 y 220 mL/h (D, E) no salen de la regla.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Pregunta 50 del Examen S3. En la foto el alumno marcó E (220 mL/h); no se ve de qué cálculo sale. La regla 4-2-1 del Sabiston da exactamente 160 mL/h.",
+  "agregada": true,
+  "despues_de": "cc10673240-2"
+ },
+ {
+  "k": "002-a30",
+  "estado": "nueva",
+  "stem": "Acude a emergencia paciente diabético de 63 años, quien sufrió una semana antes traumatismo por PAF en muslo derecho. Presenta fiebre, taquicardia y taquipnea, además de dolor intenso (EVA 9/10) en la extremidad afectada. No se observan signos de flogosis en piel. Teniendo en cuenta el diagnóstico presuntivo de fascitis necrosante, ¿qué examen de imagen es el de elección?",
+  "opts": [
+   "Tomografía computada",
+   "Resonancia magnética",
+   "Radiografía de fémur",
+   "Ecografía de partes blandas de muslo"
+  ],
+  "ans": 0,
+  "why": "Sabiston: entre ecografía, RM y TC, la TC es la imagen preferida con más frecuencia para la infección necrosante de partes blandas, por su disponibilidad y facilidad de interpretación. Muestra gas en tejidos blandos, colecciones, falta de realce y cambios bajo la fascia, con sensibilidad del 100% en una serie de 184 pacientes. La radiografía (C) es poco sensible. La ecografía (D) depende del operador. La RM (B) es menos accesible y más lenta en urgencias. Si la duda persiste, se hace exploración quirúrgica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 250 del PDF"
+  ],
+  "tema": "piel-partes-blandas",
+  "nota": "Pregunta 3 del pretest «Clasificación de heridas e ISO» (foto 2024-08-07 14.36.52), perdida por la extracción. En la foto hay marcas en A y en D.",
+  "agregada": true,
+  "despues_de": "30e3ea71bc-2"
+ },
+ {
+  "k": "002-a31",
+  "estado": "nueva",
+  "stem": "Se diagnostica en emergencia de hospital de tercer nivel a paciente con diverticulitis aguda con absceso pericólico. ¿Qué tipo de absceso intraabdominal es el que presenta?",
+  "opts": [
+   "Absceso intraabdominal secundario",
+   "Absceso intraabdominal primario",
+   "Absceso intraabdominal primario diferido",
+   "Absceso terciario"
+  ],
+  "ans": 1,
+  "why": "Sabiston (tabla 11.4) clasifica los abscesos intraabdominales por su origen. El primario es una infección establecida que se rompe y queda delimitada, y pone como ejemplos la apendicitis rota y la diverticulitis aguda con absceso. El primario diferido viene de una perforación o fuga anastomótica cuyo líquido luego se delimita (C). El secundario es una colección antes estéril que se infecta después, como un seudoquiste (A). «Absceso terciario» (D) no es una categoría de esta clasificación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 253 del PDF",
+   "Sabiston 21.ª ed., p. 251 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Pregunta 4 del pretest (foto 14.36.52), perdida por la extracción. En la foto el alumno marcó B, con signos de duda («?»), y también hay un círculo en C.",
+  "agregada": true,
+  "despues_de": "002-a30"
+ },
+ {
+  "k": "002-a32",
+  "estado": "dudosa",
+  "stem": "De los siguientes diagnósticos, ¿cuál de ellos tiene mayor probabilidad de causar ISO?",
+  "opts": [
+   "Trauma toracoabdominal con lesión en hígado",
+   "Apendicitis perforada",
+   "Peritonitis por úlcera gástrica",
+   "Peritonitis biliar",
+   "Trauma abdominal PAF en sigmoides"
+  ],
+  "ans": null,
+  "why": "Cuatro de las cinco opciones (B–E) son heridas sucias/infectadas, la categoría de mayor riesgo de ISO. Los libros no dan tasas comparadas entre esos cuadros. Es razonable pensar que la lesión de colon por PAF (E) es la de mayor carga bacteriana, pero la apendicitis perforada también contamina con flora colónica. Sin una fuente que las ordene, no se puede fijar clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 266 del PDF"
+  ],
+  "tema": "iso",
+  "nota": "Pregunta 7 del pretest (foto 2024-08-07 14.36.54 (1)), perdida por la extracción. En la foto el alumno marcó E.",
+  "agregada": true,
+  "despues_de": "2387524a4b"
+ },
+ {
+  "k": "002-a33",
+  "estado": "nueva",
+  "stem": "Paciente con diagnóstico de shock séptico de foco abdominal; cirugía lo cataloga como abordable. Lo más importante para erradicar el foco infeccioso sería:",
+  "opts": [
+   "Laparotomía lo más pronto posible",
+   "Tratamiento ATB 2 horas previas",
+   "Esperar que no dependa de vasopresores",
+   "Seguir pasando fluidos y más ATB",
+   "Laparoscopia de emergencia"
+  ],
+  "ans": 0,
+  "why": "Sabiston: el control precoz del foco infeccioso mejora el pronóstico del shock séptico. El control quirúrgico del foco está indicado en la peritonitis difusa. Los antibióticos y los líquidos (B, D) son necesarios pero no eliminan el foco. Esperar a que deje de necesitar vasopresores (C) retrasa la cirugía, que es lo que permite salir del shock. En shock séptico con peritonitis, la laparotomía es la vía habitual frente a la laparoscopia (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 550 del PDF",
+   "Sabiston 21.ª ed., p. 253 del PDF",
+   "Sabiston 21.ª ed., p. 254 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Pregunta 8 del pretest (foto 14.36.54 (1)). En la foto el alumno marcó A (también hay un guion junto a D).",
+  "agregada": true,
+  "despues_de": "002-a32"
+ },
+ {
+  "k": "002-a34",
+  "estado": "dudosa",
+  "stem": "Adulto de 39 años sometido a colelap, sin antecedentes de importancia. En el PO inmediato presenta dolor epigástrico intenso que cede parcialmente con ketoprofeno 150 mg EV. A las 8 horas presenta abdomen poco distendido, con peritonismo y taquicardia. ¿Cuál es su sospecha diagnóstica?",
+  "opts": [
+   "Bilioperitoneo",
+   "Biloma",
+   "Sepsis foco abdominal",
+   "Hemoperitoneo",
+   "Coleperitoneo"
+  ],
+  "ans": null,
+  "why": "El cuadro (dolor intenso, peritonismo y taquicardia a las 8 h de una colecistectomía laparoscópica) puede deberse a sangrado (hemoperitoneo) o a fuga biliar (bilioperitoneo/coleperitoneo). Sabiston describe la fuga biliar con dolor, malestar y fiebre en los días siguientes, pero no hay una fuente que permita elegir con estos datos. Además, bilioperitoneo y coleperitoneo son sinónimos, lo que hace la pregunta ambigua.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1536 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Pregunta 9 del pretest (foto 14.36.54 (1)). En la foto el alumno marcó D (hemoperitoneo), con un guion junto a A.",
+  "agregada": true,
+  "despues_de": "002-a33"
+ },
+ {
+  "k": "002-a35",
+  "estado": "dudosa",
+  "stem": "En el tratamiento para evitar complicaciones por apendicectomía con peritonitis difusa, ¿cuál de los ítems no consideraría?",
+  "opts": [
+   "ATB gram (−) y anaerobios",
+   "ATB gram (+) y aerobios",
+   "Uso de laparoscopía",
+   "Uso de drenajes",
+   "Laparotomía"
+  ],
+  "ans": null,
+  "why": "Hay dos opciones defendibles. La cobertura de la apendicitis perforada debe incluir gramnegativos y anaerobios, así que un esquema solo para grampositivos y aerobios (B) no se consideraría. Pero Sabiston también dice que no se colocan drenajes de rutina (salvo un absceso aislado), así que D también es algo que no se haría. La pregunta no permite elegir una sola respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1330 del PDF",
+   "Sabiston 21.ª ed., p. 1331 del PDF",
+   "Sabiston 21.ª ed., p. 1479 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Pregunta 10 del pretest (foto 14.36.54 (1)). En la foto el alumno marcó B, con un guion junto a D.",
+  "agregada": true,
+  "despues_de": "002-a34"
+ },
+ {
+  "k": "1014f332c8",
+  "estado": "nueva",
+  "stem": "Son complicaciones de COLELAP en colecistitis aguda complicada, excepto:",
+  "opts": [
+   "Suboclusión intestinal",
+   "Hemoperitoneo",
+   "Bilioperitoneo",
+   "Peritonitis primaria",
+   "Peritonitis secundaria"
+  ],
+  "ans": 3,
+  "why": "Sabiston define la peritonitis primaria como una infección del peritoneo sin perforación ni foco intraabdominal: es espontánea, como en cirróticos, niños o diálisis peritoneal. Por eso no es una complicación de una cirugía. El sangrado (hemoperitoneo), la fuga biliar (bilioperitoneo), la peritonitis secundaria a fuga o perforación y la suboclusión intestinal sí pueden complicar una colecistectomía laparoscópica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1116 del PDF",
+   "Sabiston 21.ª ed., p. 1159 del PDF"
+  ],
+  "tema": "vesicula",
+  "nota": "Pregunta 1 del pretest de complicaciones (foto 14.36.54 (2)). En la foto no hay clave marcada, solo «¿?». La extracción había pegado la pregunta 2, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "Varón de 46 años que ingresa por dolor abdominal en CSD tipo cólico intenso desde hace 36 h, ictericia +/+++ y escalofríos, acompañado de 13 000 leucocitos, fosfatasa alcalina 270 y amilasa 320. La ecografía muestra VB de 16 × 5 cm, paredes de 8 mm, con cálculo de 28 mm enclavado en bacinete. ¿Cuál sería la principal causa del caso?",
+    "opts": [
+     "Síndrome de Mirizzi",
+     "Íleo biliar",
+     "Coledocolitiasis",
+     "Colangitis",
+     "Pancreatitis"
+    ],
+    "ans": null,
+    "why": "Hay dos lecturas defendibles. El cálculo grande enclavado en la bolsa de Hartmann con ictericia corresponde a un síndrome de Mirizzi (Sabiston: compresión de la vía biliar por un cálculo en el cuello vesicular). Pero la tríada de dolor, ictericia y escalofríos con leucocitosis también indica colangitis, y Sabiston dice que una ictericia intensa en una colecistitis debe hacer sospechar colangitis. Como la pregunta pide «la principal causa» sin más datos (vía biliar, colangiografía), no se puede elegir con seguridad.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1523 del PDF",
+     "Sabiston 21.ª ed., p. 1528 del PDF"
+    ],
+    "tema": "via-biliar",
+    "nota": "Pregunta 2 del pretest de complicaciones. En la foto el alumno marcó D (colangitis)."
+   }
+  ]
+ },
+ {
+  "k": "002-a36",
+  "estado": "nueva",
+  "stem": "Antibiótico bactericida que inhibe la topoisomerasa II y la topoisomerasa IV en el manejo de infecciones:",
+  "opts": [
+   "Cefotetan",
+   "Azitromicina",
+   "Levofloxacino",
+   "Imipenem",
+   "Aztreonam"
+  ],
+  "ans": 2,
+  "why": "Las quinolonas (como el levofloxacino) actúan sobre la ADN girasa, que es la topoisomerasa II bacteriana (ABSITE), y también sobre la topoisomerasa IV. Son bactericidas. El cefotetán, el imipenem y el aztreonam (A, D, E) son betalactámicos que inhiben la síntesis de la pared. La azitromicina (B) inhibe la subunidad ribosómica 50S.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 426 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pregunta 1 de la foto 2024-08-07 14.36.54, perdida por la extracción. En la foto el alumno marcó C.",
+  "agregada": true,
+  "despues_de": "d6a7a31452"
+ },
+ {
+  "k": "2b0bc0002d",
+  "estado": "nueva",
+  "stem": "Una mujer sana de 66 años se somete a una laparotomía exploratoria por peritonitis. Se observa un apéndice roto con drenaje purulento en la parte inferior del abdomen. ¿Cuál de las siguientes afirmaciones es más precisa con respecto a la condición de esta paciente?",
+  "opts": [
+   "La infección resultante es un problema difícil de resolver incluso con el tratamiento quirúrgico y la terapia antimicrobiana adecuados.",
+   "Los organismos más comunes involucrados en esta infección son Candida y Pseudomonas.",
+   "El tratamiento se puede lograr de manera efectiva con la cirugía adecuada y una cefalosporina de primera generación.",
+   "El paciente debe recibir un tratamiento suficiente con extirpación quirúrgica del apéndice e irrigación copiosa de la cavidad peritoneal.",
+   "Se puede producir peritonitis secundaria persistente si se administran antibióticos inapropiados o si la duración del tratamiento con antibióticos es demasiado breve."
+  ],
+  "ans": 4,
+  "why": "Sabiston: en la apendicitis perforada, además de la apendicectomía y la limpieza de la cavidad, se dan antibióticos de amplio espectro durante 4-7 días (guía IDSA). Las combinaciones adecuadas cubren gramnegativos y anaerobios (p. ej., cefalosporina de 3.ª generación más metronidazol). Si los antibióticos son inapropiados o se dan muy poco tiempo, la infección peritoneal persiste. Una cefalosporina de 1.ª generación (C) no cubre anaerobios. La cirugía con irrigación sola (D) no basta. La flora es colónica, no Candida ni Pseudomonas (B). Con un tratamiento adecuado la infección se resuelve habitualmente (A).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1330 del PDF",
+   "Sabiston 21.ª ed., p. 1331 del PDF",
+   "Sabiston 21.ª ed., p. 1479 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "En la foto el alumno marcó C, que no cubre anaerobios."
+ },
+ {
+  "k": "8c22b5cbd0",
+  "estado": "nueva",
+  "stem": "¿Cuál de los siguientes es más preciso con respecto a los pacientes que desarrollan fiebre durante el postoperatorio?",
+  "opts": [
+   "Deben recibir antibióticos de amplio espectro hasta que desaparezca la fiebre.",
+   "No requieren tratamientos específicos porque la fiebre es una respuesta esperada del huésped al estrés quirúrgico.",
+   "Los pacientes requieren una nueva operación inmediata para abordar el origen de la fiebre.",
+   "Se requieren búsquedas minuciosas de fuentes de fiebre. Se pueden administrar antibióticos presuntivos si los pacientes muestran signos fisiológicos de sepsis o si los pacientes están inmunocomprometidos.",
+   "Se deben prescribir altas dosis de corticosteroides para mitigar las respuestas fisiológicas a la infección."
+  ],
+  "ans": 3,
+  "why": "Sabiston: la fiebre postoperatoria puede tener causas infecciosas y no infecciosas. La de las primeras 48 h suele ser respuesta inflamatoria, y la que aparece a las 72 h o más es probablemente infecciosa, así que encontrar la causa exige una evaluación cuidadosa. Los antibióticos empíricos se justifican si hay sepsis, según la Surviving Sepsis Campaign. Dar antibióticos a todos (A) aumenta la resistencia sin beneficio. Ignorar la fiebre (B) puede pasar por alto una infección grave. Reoperar a todos (C) o dar corticoides en dosis altas (E) no está indicado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 270 del PDF",
+   "Sabiston 21.ª ed., p. 550 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "En la foto el alumno marcó D."
+ },
+ {
+  "k": "e27fb4e0e0",
+  "estado": "dudosa",
+  "stem": "Un hombre de 39 años que está en tratamiento crónico con corticosteroides se somete a una resección del íleon con reanastomosis primaria por perforación intestinal relacionada con su enfermedad de Crohn. Posterior a la cirugía presenta fiebre persistente y dolor abdominal a pesar de la administración de ciprofloxacino y metronidazol. Una tomografía computarizada revela una colección líquida heterogénea loculada de 6 × 5 cm en la pelvis. ¿Cuál de los siguientes es el mejor tratamiento para esta condición en este momento?",
+  "opts": [
+   "Ampliar su cobertura antibiótica con la adición de vancomicina y fluconazol",
+   "Drenaje de la colección de líquido por vía percutánea",
+   "Administrar trombolítico intraperitoneal para disolver este hematoma pélvico",
+   "Drenar la colección de líquido por vía percutánea e iniciar tratamiento antibiótico de amplio espectro",
+   "Realice una nueva operación del abdomen para abordar esta acumulación de líquido."
+  ],
+  "ans": null,
+  "why": "Sabiston: el absceso intraabdominal necesita drenaje (percutáneo como primera opción) además de los antibióticos. Por eso ampliar solo la cobertura (A) o el trombolítico (C) son incorrectos. Pero hay varias opciones defendibles. B y D difieren solo en «iniciar antibióticos de amplio espectro», y el paciente ya recibe ciprofloxacino con metronidazol. Además, Sabiston dice que el drenaje percutáneo es más apropiado en abscesos de un solo compartimento, y que los abscesos multicompartimentales y la inmunodepresión (corticoides) favorecen el drenaje quirúrgico (E). La colección es «loculada». No se puede fijar una sola clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 253 del PDF",
+   "Sabiston 21.ª ed., p. 254 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "En la foto el alumno marcó D."
+ },
+ {
+  "k": "a1fb391c61",
+  "estado": "nueva",
+  "stem": "Un hombre de 65 años, hipertenso y diabético, es sometido a una colecistectomía laparoscópica. Al tercer día presenta fiebre de 38,5 °C, dolor en hipocondrio derecho y leucocitosis. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Tromboembolismo pulmonar",
+   "Atelectasia",
+   "Absceso subhepático",
+   "Hemorragia intraabdominal"
+  ],
+  "ans": 2,
+  "why": "La fiebre que aparece desde las 72 h tras la cirugía suele ser infecciosa (Sabiston). Con dolor localizado en hipocondrio derecho y leucocitosis tras una colecistectomía, lo más probable es una colección infectada en el lecho vesicular. Sabiston pone el absceso subhepático tras colecistectomía como ejemplo típico. La atelectasia (B) es causa de fiebre en el postoperatorio inmediato, sin dolor en hipocondrio derecho. El TEP (A) daría disnea y taquicardia. La hemorragia (D) da anemia e inestabilidad más que fiebre con leucocitosis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 253 del PDF",
+   "Sabiston 21.ª ed., p. 252 del PDF",
+   "Sabiston 21.ª ed., p. 270 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pretest de complicaciones quirúrgicas 202510 (abril), pregunta 1. No tiene clave marcada."
+ },
+ {
+  "k": "a7bd495c4f",
+  "estado": "nueva",
+  "stem": "Paciente de 45 años, operado hace 5 días por apendicitis complicada; se realizó desbridación de plastrón y apendicectomía. Refiere dolor abdominal difuso, vómitos y fiebre. A la exploración se nota abdomen distendido, ruidos hidroaéreos disminuidos y signos de irritación peritoneal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Íleo paralítico",
+   "Obstrucción intestinal",
+   "Dehiscencia de sutura intestinal",
+   "Apendicitis recurrente"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la fuga o dehiscencia intestinal se presenta con fiebre, taquicardia, más dolor abdominal y peritonitis si el contenido se disemina. Los días 5-7 son el momento típico. Los signos de irritación peritoneal con fiebre separan este cuadro del íleo paralítico (A), que no da peritonitis. La obstrucción mecánica (B) da ruidos aumentados. La apendicitis recurrente (D) no es posible tras una apendicectomía.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 295 del PDF",
+   "Sabiston 21.ª ed., p. 286 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pretest 202510, pregunta 2. No tiene clave marcada."
+ },
+ {
+  "k": "61193c9350",
+  "estado": "nueva",
+  "stem": "Una mujer de 52 años es sometida a una colectomía por enfermedad diverticular complicada con fístula entero-vesical. En el segundo día postoperatorio refiere náuseas, distensión abdominal y ausencia de eliminación de gases. Al examen físico se observa abdomen distendido, dolor leve difuso sin signos de irritación peritoneal y ruidos hidroaéreos ausentes. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción intestinal mecánica",
+   "Íleo paralítico postoperatorio",
+   "Hemoperitoneo",
+   "Peritonitis secundaria"
+  ],
+  "ans": 1,
+  "why": "Sabiston: tras una cirugía abdominal el colon tarda 3 a 5 días en recuperar su motilidad, y el íleo postoperatorio es la forma más frecuente de obstrucción funcional. Cursa con distensión, náuseas y ruidos disminuidos o ausentes. En la obstrucción mecánica (A) los ruidos son metálicos y aumentados. Sin irritación peritoneal ni inestabilidad, no hay datos de peritonitis (D) ni de hemoperitoneo (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pretest 202510, pregunta 6. No tiene clave marcada."
+ },
+ {
+  "k": "1f85d21fed",
+  "estado": "nueva",
+  "stem": "Paciente con herida quirúrgica roja, caliente, dolorosa y con secreción serosa turbia y leve mal olor al 4.º día postoperatorio. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Seroma",
+   "Hematoma",
+   "Infección de herida quirúrgica",
+   "Evisceración"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la ISQ superficial se manifiesta con enrojecimiento, tumefacción, dolor, calor y secreción purulenta. La secreción turbia y maloliente con signos inflamatorios es una infección de la herida. El seroma (A) es líquido claro sin inflamación. El hematoma (B) es sangre coagulada. En la evisceración (D) salen vísceras por la herida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 267 del PDF",
+   "Sabiston 21.ª ed., p. 263 del PDF"
+  ],
+  "tema": "iso",
+  "nota": "Pretest 202510, pregunta 7. No tiene clave marcada."
+ },
+ {
+  "k": "b086155729",
+  "estado": "nueva",
+  "stem": "Una mujer de 70 años, con antecedentes de EPOC y obesidad, es sometida a una hernioplastia umbilical con malla bajo anestesia general. Al segundo día postoperatorio presenta disnea súbita, dolor torácico pleurítico, taquipnea y taquicardia. La oximetría muestra saturación de oxígeno del 88%. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Neumonía nosocomial",
+   "Atelectasia pulmonar",
+   "Tromboembolismo pulmonar",
+   "Infarto agudo de miocardio"
+  ],
+  "ans": 2,
+  "why": "Disnea súbita, dolor pleurítico, taquipnea, taquicardia e hipoxemia en una paciente anciana y obesa operada es el cuadro clásico de embolia pulmonar (Sabiston), que se confirma con angiotomografía pulmonar. La atelectasia (B) da taquipnea y baja saturación, pero no un dolor pleurítico súbito. La neumonía (A) aparece más tarde, con fiebre e infiltrado. El IAM (D) no da dolor pleurítico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 274 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pretest 202510, pregunta 3. No tiene clave marcada. La extracción había mezclado esta pregunta con la 8, que va en «dividir».",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Un paciente desarrolla fiebre en el segundo día postoperatorio. No hay signos de infección en la herida. ¿Cuál es la causa más frecuente de fiebre en este momento?",
+    "opts": [
+     "Atelectasia",
+     "Infección del sitio quirúrgico",
+     "Tromboflebitis",
+     "Infección urinaria"
+    ],
+    "ans": 0,
+    "why": "Sabiston: «la atelectasia es la causa más frecuente de fiebre posquirúrgica en el postoperatorio inmediato». La fiebre de las primeras 48 h suele deberse a la respuesta inflamatoria, y la que aparece a las 72 h o más, a infección. La ISQ (B) suele aparecer después del 4.º-5.º día y aquí la herida está bien. La infección urinaria (D) y la tromboflebitis (C) son causas más tardías.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 271 del PDF",
+     "Sabiston 21.ª ed., p. 270 del PDF"
+    ],
+    "tema": "complicaciones",
+    "nota": "Pretest 202510, pregunta 8. No tiene clave marcada."
+   }
+  ]
+ },
+ {
+  "k": "87a0fa0a1d",
+  "estado": "nueva",
+  "stem": "Varón de 75 años operado de colectomía. Presenta distensión abdominal y no ha eliminado gases ni heces en 48 horas. No hay ruidos intestinales. ¿Qué manejo inicial es adecuado?",
+  "opts": [
+   "Reintervención quirúrgica",
+   "Laxantes y dieta rica en fibra",
+   "Ayuno, hidratación IV y control electrolítico",
+   "Antibióticos de amplio espectro"
+  ],
+  "ans": 2,
+  "why": "A las 48 h de una colectomía, la distensión sin gases ni ruidos intestinales es un íleo postoperatorio. Sabiston: el íleo suele ser autolimitado y se trata de forma conservadora, corrigiendo la causa (p. ej., alteraciones de potasio y magnesio) y reponiendo líquidos. Reoperar (A) no está indicado sin signos de complicación. Laxantes y fibra (B) no corresponden a un íleo. Sin datos de infección, los antibióticos (D) no se indican.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "Sabiston 21.ª ed., p. 287 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Pretest 202510, pregunta 9. No tiene clave marcada."
+ },
+ {
+  "k": "c3df0850ca",
+  "estado": "nueva",
+  "stem": "Un hombre de 60 años, intervenido hace 4 días con una laparotomía por obstrucción intestinal, presenta dehiscencia completa de la herida quirúrgica con exposición de asas intestinales cubiertas por líquido seroso. Al examen físico se observan asas prolapsadas fuera de la cavidad abdominal sin signos de necrosis. ¿Cuál es la conducta inmediata más adecuada?",
+  "opts": [
+   "Iniciar antibióticos y observar evolución",
+   "Cubrir las asas con apósitos estériles húmedos y preparar para cirugía urgente",
+   "Intentar reducción manual de asas y cierre con puntos simples en hospitalización",
+   "Colocar un vendaje compresivo y solicitar interconsulta con cirugía general"
+  ],
+  "ans": 1,
+  "why": "Es una evisceración (dehiscencia completa con salida de asas). Sabiston: la dehiscencia completa con evisceración requiere reintervención inmediata, y el intestino se protege con paños húmedos. Observar con antibióticos (A) o vendar y esperar (D) retrasa la cirugía. Reducir y cerrar en la cama (C) no permite revisar la cavidad ni cerrar bien la fascia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 265 del PDF"
+  ],
+  "tema": "eventraciones",
+  "nota": "Pretest 202510, pregunta 4. No tiene clave marcada. El ítem extraído tenía el inicio de la pregunta 10 («Paciente con cirugía reciente de apendicitis perforada») con las opciones A–B de la pregunta 4. La pregunta 10 está en el banco en otro ítem (5d8dd67067, siguiente lote), así que aquí solo se reconstruyó la 4."
+ }
+]

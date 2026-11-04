@@ -1,0 +1,57 @@
+[
+ {
+  "k": "5b0a8f0ff6",
+  "estado": "nueva",
+  "stem": "Un niño llega a la sala de emergencias con quemaduras en el 40 por ciento de la cara y extremidades que se produjeron mientras dormía. ¿Cuál de los siguientes es el primer paso del tratamiento?",
+  "opts": ["Sonda nasogástrica para prevenir la dilatación gástrica", "Solución salina intravenosa", "Radiografía de tórax", "Colocar un CVC para manejo", "Evaluación rápida de las vías respiratorias y evaluación respiratoria"],
+  "ans": 4,
+  "why": "El quemado se maneja como cualquier politraumatizado: primero el reconocimiento primario (ABC), empezando por la vía aérea. Sabiston indica que la reanimación inicial empieza \"con la vía aérea\" y que en quemaduras por llama siempre debe sospecharse lesión por inhalación; aquí el riesgo es mayor porque la quemadura afecta la cara y ocurrió en un espacio cerrado mientras dormía. La sonda nasogástrica, los líquidos intravenosos, la radiografía de tórax y el catéter venoso central son pasos posteriores, una vez asegurada la vía aérea y la respiración.",
+  "fuentes": ["Sabiston 21.ª ed., p. 514 del PDF", "Giménez, Cirugía 2.ª ed., p. 742 del PDF"],
+  "nota": "La extracción automática perdió las opciones C, D y E y la clave. En el aula virtual la clave fue E (respuesta marcada como correcta).",
+  "tema": "quemados"
+ },
+ {
+  "k": "b8d7b82e92",
+  "estado": "dudosa",
+  "stem": "Un paciente se presenta con dolor en el cuadrante inferior derecho, fiebre y exantema. La tomografía computarizada y la ecografía son negativas para apendicitis aguda. ¿Cuál de los siguientes no sería un hallazgo esperado?",
+  "opts": ["Diarrea", "Artritis reactiva", "N.A", "Eritema nudoso", "Linfadenitis mesentérica"],
+  "ans": null,
+  "why": "El cuadro sugiere una seudoapendicitis por Yersinia (linfadenitis mesentérica con apéndice normal). La clave del aula virtual dice que la diarrea no se esperaría, pero Sabiston describe la infección por Yersinia enterocolitica con \"dolor abdominal y diarrea líquida\" que puede imitar una apendicitis, y StatPearls también la presenta como diarrea aguda con adenitis mesentérica e ileítis terminal. Con eso la diarrea sí sería esperable y la opción lógica sería \"N.A\". Sin embargo, la pregunta no nombra el germen, y en la forma por Y. pseudotuberculosis puede predominar la adenitis sin diarrea. Además, los libros de la carpeta no tratan la artritis reactiva ni el eritema nudoso por Yersinia, así que ninguna fuente decide la clave.",
+  "fuentes": ["Sabiston 21.ª ed., p. 1382 del PDF", "Sabiston 21.ª ed., p. 1120 del PDF", "StatPearls: Yersinia enterocolitica Infection (PMID 29763012)", "StatPearls: Yersinia Pseudotuberculosis (PMID 28613468)"],
+  "nota": "Clave original: A (aula virtual). Las fuentes contradicen que la diarrea sea inesperada; si el examen vuelve a traer esta pregunta, la clave oficial fue A.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "47a9c19789",
+  "estado": "confirmada",
+  "stem": "Una mujer de 38 años acude al servicio de urgencias dos días después del alta de una cesárea. Su embarazo se complicó por el tabaquismo y la diabetes mellitus tipo 2, que no estaba bien controlada. Antes del alta, había informado de una pequeña separación en la incisión y se colocaron tiras para cerrar la herida en esa área. En el servicio de urgencias, refiere dolor abdominal significativo después de notar una sensación de desgarro. En el examen, hay abundante drenaje serosanguinolento de su incisión. ¿Cuál de los siguientes puede haber disminuido el riesgo de esta complicación?",
+  "opts": ["Creación de un colgajo vesical", "Cierre de piel con puntos subdérmicos", "Uso de grapas para cerrar la piel", "Cierre de la fascia con sutura monofilamento", "Exteriorización del útero para su reparación"],
+  "ans": 3,
+  "why": "La sensación de desgarro con abundante drenaje serosanguinolento es el cuadro típico de la dehiscencia fascial. Sabiston explica que la capa fascial da la mayor parte de la fuerza de una incisión abdominal y que la dehiscencia suele deberse a una falla técnica de la sutura de la fascia. La técnica que recomienda es el cierre de la fascia con sutura monofilamento, con una relación de 4:1 entre la longitud de la sutura y la de la herida. El cierre de la piel (puntos subdérmicos o grapas), el colgajo vesical y la exteriorización del útero no dan fuerza a la pared, así que no previenen la dehiscencia.",
+  "fuentes": ["Sabiston 21.ª ed., p. 264 del PDF", "Sabiston 21.ª ed., p. 265 del PDF"],
+  "nota": "Clave original: D (aula virtual).",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "10f6114184",
+  "estado": "confirmada",
+  "stem": "A una mujer de 47 años asintomática se le encuentra incidentalmente un pólipo de 5 mm y ningún cálculo en la vesícula biliar en la ecografía. ¿Cuál de las siguientes es la mejor opción de tratamiento?",
+  "opts": ["Observación con repetición de las ecografías para evaluar el aumento del tamaño del pólipo", "Aspiración de la vesícula con examen citológico de la bilis", "Colecistectomía laparoscópica", "Colecistectomía abierta con sección congelada", "Resección en bloque de la vesícula biliar, resección en cuña del hígado y linfadenectomía portal"],
+  "ans": 0,
+  "why": "Según Sabiston, las lesiones polipoideas asintomáticas menores de 10 mm, sin otros factores de riesgo ni rasgos ecográficos de malignidad, \"pueden ser observadas con ecografías seriadas\". Esta paciente tiene un pólipo de 5 mm, no tiene cálculos y no tiene síntomas, así que se vigila. La colecistectomía se reserva para pólipos de 10 mm o más, pólipos que crecen o con factores de riesgo, y la resección radical es para un cáncer comprobado. La aspiración de la vesícula para citología no es un manejo aceptado.",
+  "fuentes": ["Sabiston 21.ª ed., p. 1530 del PDF"],
+  "nota": "Clave original: A (aula virtual).",
+  "tema": "vesicula"
+ },
+ {
+  "k": "a66c0146e4",
+  "estado": "confirmada",
+  "stem": "Una mujer de 48 años presenta estreñimiento tras una operación y se automedica con leche de magnesio. Se observa que tiene un nivel elevado de magnesio en suero. ¿Cuál de los siguientes es el primer indicio clínico de hipermagnesemia?",
+  "opts": ["Estupor", "Parada respiratoria", "Pérdida de los reflejos tendinosos profundos", "Hipotensión", "Parálisis flácida"],
+  "ans": 2,
+  "why": "Sabiston explica que el magnesio bloquea la transmisión sináptica y que lo primero que produce es \"la pérdida inicial de los reflejos tendinosos profundos\". Con niveles más altos aparecen parálisis flácida, depresión respiratoria hasta la parada, hipotensión, bradicardia, letargo y coma. Por eso la arreflexia es el primer signo que se vigila, por ejemplo cuando se administra sulfato de magnesio.",
+  "fuentes": ["Sabiston 21.ª ed., p. 115 del PDF"],
+  "nota": "Clave original: C (aula virtual).",
+  "tema": "liquidos"
+ }
+]

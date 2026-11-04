@@ -1,0 +1,1087 @@
+[
+ {
+  "k": "5d8dd67067",
+  "estado": "nueva",
+  "stem": "Paciente con cirugía reciente de apendicitis perforada presenta dolor en fosa ilíaca derecha y colección líquida en TC. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Observación y reposo",
+   "Reoperación inmediata",
+   "Drenaje guiado por imagen y antibióticos",
+   "Cambio de analgésicos"
+  ],
+  "ans": 2,
+  "why": "Una colección (absceso) intraabdominal después de una apendicectomía por apendicitis perforada se trata con antibióticos y drenaje percutáneo guiado por TC; la cirugía se reserva para cuando el drenaje guiado no es técnicamente posible o fracasa. La observación o cambiar analgésicos no tratan la infección, y la reoperación inmediata es más agresiva e innecesaria si la colección se puede drenar por vía percutánea.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1332 del PDF",
+   "Sabiston 21.ª ed., p. 1335 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Se quitó del enunciado un fragmento de la pregunta 4 («preparar para cirugía urgente») que el OCR había pegado. El inicio del enunciado quedó en el registro c3df0850ca (lote 002). Sin clave en el original."
+ },
+ {
+  "k": "e8919e886d",
+  "estado": "nueva",
+  "stem": "Paciente operado de sigmoidectomía por diverticulitis. Al día 7, comienza a salir material fecaloide por el drenaje. ¿Qué complicación presenta?",
+  "opts": [
+   "Hemorragia postoperatoria",
+   "Fístula anastomótica",
+   "Dehiscencia de herida quirúrgica",
+   "Obstrucción intestinal"
+  ],
+  "ans": 1,
+  "why": "La salida de contenido fecal o intestinal por un drenaje cercano a la anastomosis indica una fuga (fístula) anastomótica; Sabiston señala que el diagnóstico se establece cuando se detecta material fecal, aunque sea mínimo, en los drenajes perianastomóticos. La hemorragia daría sangre por el drenaje, la dehiscencia de herida afecta a la pared y la obstrucción no produce salida de heces por el dren.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1410 del PDF",
+   "Sabiston 21.ª ed., p. 295 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Sin clave en el original."
+ },
+ {
+  "k": "ea8c95879d",
+  "estado": "nueva",
+  "stem": "Se considera un factor modificable que influye en la cicatrización, excepto:",
+  "opts": [
+   "Edad",
+   "Malnutrición",
+   "Alcoholismo",
+   "Radiación",
+   "DM"
+  ],
+  "ans": 0,
+  "why": "La edad es un factor que no se puede modificar: Sabiston explica que los pacientes ancianos tienen más demoras en la cicatrización por cambios propios del envejecimiento de la piel. La malnutrición, el alcoholismo, la diabetes (control glucémico) y la radiación (planificación, momento de la cirugía) son factores sobre los que sí se puede actuar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 160 del PDF",
+   "Sabiston 21.ª ed., p. 156 del PDF"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "El ítem traía pegadas las preguntas 1 a 4 del pretest; se separaron (2, 3 y 4 en «dividir»). Sin clave en el original.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "La angiogénesis ocurre en la fase ______ de la cicatrización:",
+    "opts": [
+     "Inflamatoria",
+     "Madurativa",
+     "Proliferativa",
+     "Cascada de coagulación",
+     "Opsonización"
+    ],
+    "ans": 2,
+    "why": "Según Sabiston, cuando ceden la hemostasia y la inflamación comienza la fase proliferativa, en la que la reparación ocurre mediante angiogenia, fibroplasia y epitelización, con formación de tejido de granulación. La fase inflamatoria limpia la herida, la madurativa remodela el colágeno, y la coagulación y la opsonización no son fases de la cicatrización.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 149 del PDF"
+    ],
+    "tema": "cicatrizacion",
+    "nota": "Sin clave en el original."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Una apendicectomía laparoscópica por apendicitis aguda perforada se considera una herida de tipo:",
+    "opts": [
+     "Sucia",
+     "Limpia",
+     "Estéril",
+     "Limpia-contaminada",
+     "Contaminada"
+    ],
+    "ans": 0,
+    "why": "En la clasificación de los CDC, la herida sucia-infectada (clase IV) incluye las operaciones con infección clínica presente o vísceras perforadas, como una apendicitis perforada. La apendicectomía sin perforación sería limpia-contaminada; «estéril» no es una categoría.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 249 del PDF"
+    ],
+    "tema": "cicatrizacion",
+    "nota": "Sin clave en el original."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Una colecistectomía laparoscópica por colelitiasis se considera una herida de tipo:",
+    "opts": [
+     "Limpia",
+     "Sucia",
+     "Contaminada",
+     "Limpia-contaminada",
+     "Compleja"
+    ],
+    "ans": 3,
+    "why": "La herida limpia-contaminada (clase II de los CDC) es aquella en la que se entra al aparato digestivo en condiciones controladas y sin contaminación inusual; Sabiston menciona expresamente las operaciones de las vías biliares. No es limpia porque se abre la vía biliar/vesícula, y no es contaminada ni sucia porque no hay inflamación aguda ni derrame importante; «compleja» no es una categoría.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 249 del PDF"
+    ],
+    "tema": "cicatrizacion",
+    "nota": "Sin clave en el original."
+   }
+  ]
+ },
+ {
+  "k": "406fd7d115",
+  "estado": "nueva",
+  "stem": "El tipo de ostomía donde existe una colostomía proximal + bolsa ciega distal se denomina:",
+  "opts": [
+   "Hartmann",
+   "Mickulicz",
+   "Devine",
+   "En asa",
+   "Terminal"
+  ],
+  "ans": 0,
+  "why": "El procedimiento de Hartmann consiste en resecar el segmento enfermo, dejar el muñón rectal cerrado (bolsa ciega distal) y abocar el colon proximal como colostomía terminal. En la de Mikulicz los dos cabos se abocan juntos como doble estoma; la colostomía en asa exterioriza un asa sin cerrar el cabo distal; «terminal» describe solo el estoma, sin la bolsa ciega.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 676 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave en el original."
+ },
+ {
+  "k": "feb14e62e3",
+  "estado": "nueva",
+  "stem": "Mujer de 40 años acude por dolor abdominal, vómitos, distensión, no flatos. Antecedentes: «cólicos» a repetición. Examen: abdomen distendido y doloroso, RHA (-). Rx abdomen: niveles hidroaéreos, neumobilia e imagen ovalada radiopaca en CID. ¿Cuál es el diagnóstico?",
+  "opts": [
+   "Íleo biliar",
+   "Apendicitis aguda",
+   "Colecistitis aguda",
+   "Pancreatitis aguda"
+  ],
+  "ans": 0,
+  "why": "Obstrucción intestinal (niveles hidroaéreos) + neumobilia + cálculo radiopaco ectópico en fosa ilíaca derecha es la tríada de Rigler, propia del íleo biliar: un cálculo pasa por una fístula colecistoduodenal y se impacta, sobre todo en el íleon terminal. Sabiston destaca que la neumobilia es casi constante porque la fístula deja entrar aire a la vía biliar. La apendicitis, la colecistitis y la pancreatitis no producen neumobilia con cálculo ectópico y obstrucción mecánica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1526 del PDF",
+   "Rolling in the Deep: Imaging Findings and Diagnostic Pearls in Gallstone Ileus, Surg Res Pract 2020 (PMC7196161)"
+  ],
+  "tema": "intestino",
+  "nota": "El ítem traía pegadas las preguntas 5 a 8 del examen; se separaron (6, 7 y 8 en «dividir»). En la foto el alumno resaltó A. La clave original del lote (D) correspondía a las opciones de la pregunta 8, no a esta.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Varón de 70 años, desde hace 2 días presenta dolor abdominal, náuseas y vómitos «verdosos». Antecedente: litiasis vesicular, atendido en varias oportunidades por «cólicos». Examen: PA 110/70 mmHg, FC 70 x min, T 37 °C. Abdomen globuloso, RHA de timbre metálico. Laboratorio: leucocitosis con desviación izquierda. Rx: múltiples niveles hidroaéreos, imagen radiopaca en CID y neumobilia. ¿Cuál es el diagnóstico?",
+    "opts": [
+     "Intususcepción intestinal",
+     "Vólvulo sigmoideo",
+     "Íleo biliar",
+     "Cáncer de ciego"
+    ],
+    "ans": 2,
+    "why": "Anciano con antecedente de litiasis vesicular, obstrucción mecánica del intestino delgado (RHA metálicos, niveles hidroaéreos), neumobilia y cálculo radiopaco en fosa ilíaca derecha: es la tríada de Rigler del íleo biliar. Sabiston describe la presentación típica como un paciente mayor con antecedente biliar y obstrucción mecánica repentina. El vólvulo de sigma da imagen en «grano de café», y la intususcepción y el cáncer de ciego no explican la neumobilia.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1526 del PDF",
+     "Rolling in the Deep: Imaging Findings and Diagnostic Pearls in Gallstone Ileus, Surg Res Pract 2020 (PMC7196161)"
+    ],
+    "tema": "intestino",
+    "nota": "Sin clave en el original; el alumno marcó C."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Mujer de 45 años con antecedente de apendicectomía con peritonitis, desde hace 12 h presenta dolor abdominal, vómitos y estreñimiento. Rx abdominal de pie: múltiples niveles hidroaéreos y ausencia de gas en el recto. ¿Cuál es el diagnóstico?",
+    "opts": [
+     "Enfermedad de Crohn",
+     "Diverticulitis aguda",
+     "Obstrucción intestinal",
+     "Colitis ulcerativa"
+    ],
+    "ans": 2,
+    "why": "Dolor, vómitos, estreñimiento, múltiples niveles hidroaéreos y ausencia de gas distal (recto) definen una obstrucción intestinal; el antecedente de cirugía con peritonitis sugiere bridas, que según Sabiston son la causa más frecuente en Occidente. Crohn, diverticulitis y colitis ulcerosa no dan este cuadro radiológico agudo.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1274 del PDF"
+    ],
+    "tema": "intestino",
+    "nota": "Sin clave en el original; el alumno marcó C."
+   },
+   {
+    "estado": "corregida",
+    "stem": "Paciente de 60 años acude por consultorio externo de cirugía presentando regurgitación, disfagia y pirosis de 5 años de evolución. Los síntomas mejoran levemente con la ingesta de IBP. Señale lo correcto:",
+    "opts": [
+     "El primer examen que se solicita es una radiografía de esófago a doble contraste, para encontrar signos radiológicos de hernia hiatal",
+     "El tratamiento inicial de una hernia hiatal tipo II se realiza con IBP",
+     "Se debe insistir con los IBP hasta encontrar mejoría",
+     "La endoscopia no nos ayuda para el diagnóstico de hernia hiatal tipo I",
+     "El tratamiento de la hernia hiatal es quirúrgico para restablecer la barrera esofágica"
+    ],
+    "ans": 4,
+    "why": "En una hernia hiatal sintomática con ERGE que responde solo parcialmente a los IBP, el tratamiento es quirúrgico (reparación del hiato y funduplicatura), que restablece la barrera antirreflujo. La endoscopia sí ayuda: Sabiston indica que es esencial en la evaluación y que el endoscopista debe buscar y medir la hernia (D falsa). La hernia tipo II (paraesofágica) es quirúrgica, no se trata con IBP (B falsa); insistir con IBP sin respuesta no es correcto (C), y ante disfagia el estudio inicial es la endoscopia, aunque el esofagograma complementa la anatomía (A).",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1081 del PDF",
+     "Sabiston 21.ª ed., p. 1085 del PDF",
+     "Sabiston 21.ª ed., p. 1097 del PDF"
+    ],
+    "tema": "esofago-estomago",
+    "nota": "Clave original: D (resaltado), pero en la foto D está tachada con una X y el alumno marcó E con un check; la extracción tomó mal el resaltado. Ojo: la afirmación E es general; en una hernia tipo I asintomática no se opera (Sabiston p. 1097). Aquí es correcta porque el paciente tiene síntomas persistentes a pesar de los IBP."
+   }
+  ]
+ },
+ {
+  "k": "00a58bbea4",
+  "estado": "dudosa",
+  "stem": "Paciente de 60 años acude por presentar tos crónica, regurgitación, disfagia y pirosis. Señale lo correcto:",
+  "opts": [
+   "El diagnóstico de hernia hiatal se da porque se presenta mayormente en jóvenes y además presenta tos crónica",
+   "La hernia hiatal tipo II es la más frecuente",
+   "La endoscopia diagnostica fácilmente la hernia hiatal tipo IV porque es la más grande",
+   "La barrera esofágica está constituida solo por el esfínter esofágico inferior",
+   "La capacidad lesiva de la bilis y la pepsina es limitada en ausencia de ácido"
+  ],
+  "ans": null,
+  "why": "A, B, C y D son falsas: la hernia de hiato es más frecuente con la edad y la tos es un síntoma extraesofágico típico de la ERGE; la tipo I (deslizante) es la más frecuente; la barrera antirreflujo incluye el músculo intrínseco, las fibras oblicuas del cardias, los pilares del diafragma y la posición intraabdominal de la unión gastroesofágica. La E es la clave esperada (la pepsina se activa en medio ácido), pero el Sabiston afirma justamente que el reflujo no ácido, con sales biliares y pepsina, puede lesionar la laringe y las vías respiratorias, que es el escenario de este paciente con tos crónica. La evidencia contradice la generalización de la E, así que no puede confirmarse como correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1080 del PDF",
+   "Sabiston 21.ª ed., p. 1081 del PDF",
+   "Sabiston 21.ª ed., p. 1082 del PDF",
+   "Sabiston 21.ª ed., p. 1227 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave en el original; el alumno marcó E. Se quitó del enunciado la opción E de la pregunta 8 que el OCR había pegado."
+ },
+ {
+  "k": "003-a1",
+  "estado": "nueva",
+  "stem": "Varón de 25 años post laparotomía por apendicitis complicada y peritonitis generalizada; al cuarto día postoperatorio presenta distensión abdominal, náuseas y vómitos. Examen: abdomen distendido y doloroso, RHA ausentes, SNG con 1000 ml de líquido verdoso. Electrolitos normales. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Perforación intestinal",
+   "Obstrucción por bridas",
+   "Íleo paralítico",
+   "Síndrome de Ogilvie"
+  ],
+  "ans": 2,
+  "why": "Tras una peritonitis generalizada es esperable un íleo paralítico (adinámico): distensión, vómitos, gran débito biliar por la SNG y ausencia de ruidos hidroaéreos en los primeros días postoperatorios. La obstrucción mecánica por bridas suele dar ruidos aumentados o metálicos y Sabiston recuerda que en el postoperatorio inmediato hay que distinguirla del íleo con imagen. La perforación daría peritonitis y sepsis, y el síndrome de Ogilvie es una seudoobstrucción del colon, típica de pacientes mayores y graves.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1281 del PDF",
+   "Sabiston 21.ª ed., p. 1366 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Pregunta 10 del examen, perdida por la extracción. El alumno marcó C.",
+  "agregada": true,
+  "despues_de": "00a58bbea4"
+ },
+ {
+  "k": "003-a2",
+  "estado": "anulada",
+  "stem": "Mujer de 42 años ingresó con peritonitis generalizada por apendicitis aguda. En cirugía: líquido purulento en toda la cavidad, apéndice perforado en base con compromiso de ciego y colon ascendente; se realizó hemicolectomía derecha más ileostomía. En postoperatorio se observa [texto ilegible en la foto] ... necrosis?",
+  "opts": [
+   "Hipotensión sostenida",
+   "Creación de defecto fascial muy apretado",
+   "Falta de fijación aponeurótica",
+   "Defecto fascial muy holgado",
+   "Hemostasia insuficiente"
+  ],
+  "ans": null,
+  "why": "Parte del enunciado está cortada entre dos fotos y tapada (solo se lee «se observa todo el...» y «necrosis?»), así que no se sabe exactamente qué se pregunta ni qué se observa en el estoma. Sin ese dato no se puede verificar la clave; el alumno marcó B (defecto fascial muy apretado, causa clásica de isquemia del estoma).",
+  "fuentes": [],
+  "tema": "intestino",
+  "nota": "Pregunta 11 del examen, perdida por la extracción; empieza al pie de la foto 16.33.50 (1) y sigue al inicio de 16.33.51.",
+  "agregada": true,
+  "despues_de": "003-a1"
+ },
+ {
+  "k": "003-a3",
+  "estado": "anulada",
+  "stem": "[Enunciado no visible en la foto: pregunta 31] ... c. VIH  d. Enfermedad de Crohn",
+  "opts": [
+   "(opción a no visible)",
+   "(opción b no visible)",
+   "VIH",
+   "Enfermedad de Crohn"
+  ],
+  "ans": null,
+  "why": "En la foto solo se ven las opciones c y d de la pregunta 31; el enunciado y las opciones a y b estaban en la página anterior, que no se fotografió. No se puede saber qué se pregunta.",
+  "fuentes": [],
+  "tema": "anorrectal",
+  "nota": "Fragmento al inicio de la foto 16.33.50 (2). El alumno marcó D.",
+  "agregada": true,
+  "despues_de": "003-a2"
+ },
+ {
+  "k": "003-a4",
+  "estado": "nueva",
+  "stem": "El manejo conservador de la fisura anal no incluye:",
+  "opts": [
+   "Aumento de la ingesta de fibra",
+   "Aplicación tópica de antagonista de calcio",
+   "Uso de supositorios",
+   "Nitratos tópicos"
+  ],
+  "ans": 2,
+  "why": "Sabiston describe el tratamiento inicial de la fisura anal con aumento de líquidos y fibra, baños de asiento, laxantes emolientes y, como complemento, nitratos tópicos y antagonistas del calcio, que relajan el esfínter interno; después, toxina botulínica. Los supositorios no forman parte de ese esquema (además, introducirlos por un ano con espasmo y fisura es doloroso).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Pregunta 32, perdida por la extracción. El alumno marcó C.",
+  "agregada": true,
+  "despues_de": "003-a3"
+ },
+ {
+  "k": "003-a5",
+  "estado": "dudosa",
+  "stem": "Paciente con diagnóstico de fístula anorrectal. Al examen físico, el orificio externo se encuentra a 2 cm del margen anal en localización 3 horario en dorsolitotomía. Según la regla de Goodsall, ¿cuál es el trayecto esperado?",
+  "opts": [
+   "Trayecto radial directo al canal anal",
+   "Trayecto circular hacia el espacio supraelevador",
+   "Trayecto en herradura",
+   "Trayecto largo y tortuoso al recto"
+  ],
+  "ans": null,
+  "why": "La regla de Goodsall usa una línea transversa que pasa por las 3 y las 9 en punto: si el orificio externo está por delante de ella, el trayecto es radial y directo (salvo si está a más de 3 cm); si está por detrás, es curvo hacia la línea media posterior. Un orificio exactamente a las 3 en punto está sobre la línea, y la regla, tal como la describen Sabiston y el ABSITE, no dice qué pasa en ese caso. Lo más probable es que el examen esperara A (radial directo), que marcó el alumno, pero la fuente no permite confirmarlo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 174 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Pregunta 33, perdida por la extracción. El alumno marcó A.",
+  "agregada": true,
+  "despues_de": "003-a4"
+ },
+ {
+  "k": "003-a6",
+  "estado": "nueva",
+  "stem": "Varón de 28 años con dolor anal súbito y aparición de tumoración violácea, tensa y dolorosa en el margen anal tras un esfuerzo físico intenso. ¿Cuál es la conducta recomendada si el paciente acude en las primeras 48 horas?",
+  "opts": [
+   "Antibioticoterapia sistémica",
+   "Hemorroidectomía externa o trombectomía",
+   "Lidocaína tópica",
+   "Drenaje de absceso"
+  ],
+  "ans": 1,
+  "why": "Es una hemorroide externa trombosada. Si el paciente consulta pronto (primeras 48-72 h) y el dolor es intenso, Sabiston indica extirparla con anestesia local; la escisión es mejor que la trombectomía sola porque alivia antes y recidiva menos. Pasado ese plazo el dolor cede solo y se maneja con medidas conservadoras (la lidocaína es solo un complemento). No es un absceso y no requiere antibióticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1429 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Pregunta 34, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a5"
+ },
+ {
+  "k": "003-a7",
+  "estado": "nueva",
+  "stem": "Paciente de 40 años con antecedente de drenaje de absceso isquiorrectal hace 3 meses. Acude por salida intermitente de material purulento por un orificio perianal. Se sospecha fístula transesfinteriana que atraviesa más del 30% del esfínter externo. ¿Cuál es el tratamiento quirúrgico que minimiza el riesgo de incontinencia?",
+  "opts": [
+   "Cierre con adhesivo de fibrina",
+   "Colocación de un setón o colgajo de avance",
+   "Fistulotomía",
+   "Fistulectomía"
+  ],
+  "ans": 1,
+  "why": "Cuando la fístula compromete una parte importante del esfínter, la fistulotomía (y más aún la fistulectomía) arriesga incontinencia; se usa un setón (sedal) de drenaje o de corte, o técnicas que preservan el esfínter como el colgajo de avance endorrectal o el LIFT. El adhesivo de fibrina preserva el esfínter pero tiene éxito muy bajo a largo plazo. La fistulotomía se reserva para fístulas bajas que afectan menos de un tercio del esfínter.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1434 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 171 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 172 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Pregunta 35, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a6"
+ },
+ {
+  "k": "3bc885544d",
+  "estado": "nueva",
+  "stem": "Un varón de 90 años de edad, que en la actualidad vive en una institución de enfermería especializada, acude al servicio de urgencias con náuseas, vómito, distensión abdominal y dolor, con empeoramiento progresivo, de dos días de evolución. Su enfermera indica que su última defecación fue hace cinco días. Antecedentes: hipertensión, hiperlipidemia, demencia senil y estreñimiento crónico. Está afebril, con signos vitales estables y visiblemente incómodo por el dolor. Abdomen distendido, con hipersensibilidad en los cuadrantes inferiores y sin signos peritoneales. Tacto rectal: esfínter hipotónico sin heces en la ampolla. Leucocitos 10 000/µl. La radiografía simple muestra un sigmoide dilatado con forma de grano de café. ¿Cuál de estas medidas es el paso siguiente más apropiado?",
+  "opts": [
+   "Admisión al hospital, reposo intestinal, líquidos IV, enema de bario",
+   "Observación en el servicio de urgencias",
+   "Admisión al hospital, reposo del intestino, líquidos IV, colonoscopia",
+   "Admisión al hospital, reposo del intestino, líquidos IV, antibióticos IV",
+   "Admisión al hospital, reposo del intestino, líquidos IV, laparotomía exploradora"
+  ],
+  "ans": 2,
+  "why": "Es un vólvulo de sigma sin signos de isquemia ni perforación. Sabiston indica que a menudo la descompresión endoscópica (sigmoidoscopia/colonoscopia con sonda rectal) tiene éxito, y que después se programa la resección por la alta recidiva; la cirugía urgente se reserva para peritonitis, perforación o fracaso endoscópico. El enema de bario no destorsiona de forma segura, la observación y los antibióticos solos no resuelven la torsión, y la laparotomía es innecesaria de entrada en un paciente estable.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1365 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "El enunciado de la pregunta 43 se había perdido (solo quedaba la opción E); se reconstruyó desde la foto, que es de baja resolución. Las preguntas 44 y 45 estaban pegadas y van en «dividir». Sin clave en el original; el alumno parece haber marcado D.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "¿Cuál de las siguientes es la fístula intestinal más frecuente en pacientes con enfermedad de Crohn?",
+    "opts": [
+     "Ileosigmoidea",
+     "Ileovesical",
+     "Ileocutánea",
+     "Ileovaginal"
+    ],
+    "ans": 0,
+    "why": "Sabiston explica que el íleon terminal enfermo está en la pelvis cerca de varias estructuras y que, de los órganos a los que fistuliza, el colon sigmoide es «con mucho el más habitual», por lo que la fístula ileosigmoidea es frecuente. Las fístulas ileovesical, ileocutánea e ileovaginal existen pero son menos comunes.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1378 del PDF"
+    ],
+    "tema": "intestino",
+    "nota": "Sin clave en el original; el alumno marcó C."
+   },
+   {
+    "estado": "nueva",
+    "stem": "¿Cuál de las que siguen es una importante lección aprendida a partir de los ensayos Comparison of Outcomes of Antibiotic Drugs and Appendectomy (CODA) y Appendicitis Acuta (APPAC)?",
+    "opts": [
+     "Los antibióticos no tienen un papel como tratamiento de primera línea para apendicitis aguda no complicada.",
+     "Hay una reducción de la morbilidad al continuar los antibióticos durante cuatro días después de apendicectomía.",
+     "No hay asociación entre presencia de apendicolito y complicaciones en el manejo no operatorio de apendicitis aguda no complicada.",
+     "El manejo no operatorio puede ser una estrategia apropiada en pacientes seleccionados con apendicitis aguda no complicada, pero se asocia con una tasa de fracaso de 25 a 40% a un año.",
+     "Es mejor cultivar líquido peritoneal para guiar la elección de antibiótico."
+    ],
+    "ans": 3,
+    "why": "Los ensayos mostraron que los antibióticos son una opción en apendicitis no complicada seleccionada, pero con fracaso o recidiva importantes: en el APPAC la recidiva al año fue del 27% (Sabiston). Por eso A es falsa (sí tienen papel), C también (el apendicolito se asocia a más fracaso y complicaciones; Sabiston lo describe como predictor de recidiva), y B y E no fueron conclusiones de estos ensayos.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1334 del PDF",
+     "Sabiston 21.ª ed., p. 1333 del PDF"
+    ],
+    "tema": "apendicitis",
+    "nota": "Sin clave en el original; el alumno marcó D."
+   }
+  ]
+ },
+ {
+  "k": "7e4d0fd4cb",
+  "estado": "nueva",
+  "stem": "¿Cuál es la medida directa más predictiva de cicatrización de herida alterada o retrasada?",
+  "opts": [
+   "Deficiencia de vitamina C.",
+   "Albúmina sérica baja.",
+   "Tejido radiado.",
+   "Tabaquismo.",
+   "TcPO2 < 30 mm Hg."
+  ],
+  "ans": 4,
+  "why": "La presión transcutánea de oxígeno (TcPO2) es una medición directa de la oxigenación de la herida; Sabiston indica que la hipoxia tisular (PO2 < 30 mmHg) altera mucho la proliferación de fibroblastos, la síntesis de colágeno y la epitelización, y que una TcPO2 baja indica herida hipóxica. El déficit de vitamina C, la albúmina baja, la radiación y el tabaquismo son factores de riesgo que pueden alterar la cicatrización, pero no son una medida directa del estado de la herida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 164 del PDF"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "Se quitó del enunciado el final de la pregunta 45 que el OCR había pegado, y se añadió la opción E, que faltaba. Sin clave en el original; en la foto hay marcas en D y en E."
+ },
+ {
+  "k": "491a34b506",
+  "estado": "nueva",
+  "stem": "Un varón de 60 años de edad acude con dolor abdominal, fiebre y náuseas. Se encuentra febril, tiene dolor focal a la palpación en el cuadrante inferior izquierdo y un recuento leucocitario de 18 000/µl. La tomografía computarizada muestra diverticulitis sigmoidea con un absceso pericolónico de 4 cm. ¿Cuál es la estrategia de tratamiento óptima para este paciente?",
+  "opts": [
+   "Reposo intestinal y líquidos intravenosos",
+   "Reposo intestinal, líquidos intravenosos y antibióticos de amplio espectro",
+   "Reposo intestinal, líquidos intravenosos, antibióticos de amplio espectro y drenaje percutáneo",
+   "Laparotomía exploratoria urgente"
+  ],
+  "ans": 2,
+  "why": "Es una diverticulitis complicada con absceso (Hinchey I-II). Sabiston indica que los abscesos pequeños pueden tratarse solo con antibióticos, pero los más grandes (como uno de 4 cm) requieren drenaje, habitualmente percutáneo, y la cirugía urgente queda para los que no pueden drenarse o no responden. Sin antibióticos (A) es insuficiente, sin drenaje (B) es poco para este tamaño, y la laparotomía urgente (D) no está indicada sin peritonitis generalizada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "El ítem mezclaba la pregunta 47 con restos ilegibles de otra foto y con las preguntas 48 a 50; las opciones de la 47 se tomaron de la columna derecha de la foto. Las preguntas 48, 49 y 50 van en «dividir». Sin clave en el original; el alumno marcó C.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "El primer paso de un paciente para una cirugía de emergencia para un paciente con abdomen agudo quirúrgico es:",
+    "opts": [
+     "Acceso IV, líquidos y hemoderivados, pruebas cruzadas y grupo sanguíneo",
+     "Ingreso a sala de operaciones de emergencia",
+     "Acceso IV, líquidos y hemoderivados, corrección de electrolitos",
+     "TAC abdominal con contraste",
+     "Laparoscopia diagnóstica"
+    ],
+    "ans": null,
+    "why": "Sabiston dice que todo paciente con abdomen agudo necesita preparación preoperatoria: vía IV, corregir las alteraciones hidroelectrolíticas, antibióticos, SNG y sonda vesical si hace falta, y tener sangre compatible disponible (las transfusiones preoperatorias suelen ser innecesarias). Las opciones A y C describen las dos partes de esa reanimación y difieren solo en «pruebas cruzadas» frente a «corrección de electrolitos», así que ambas son defendibles. B, D y E no son el primer paso: no se lleva a quirófano sin reanimar, y la TC o la laparoscopia no son preparación.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1167 del PDF"
+    ],
+    "tema": "abdomen-agudo",
+    "nota": "Sin clave en el original; el alumno marcó A y C con rayas rojas y E con una X."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Una joven de 17 años acude al médico por dolor en la parte inferior derecha del abdomen desde hace un día, de intensidad 5/10. En los últimos 5 meses ha tenido episodios similares una vez al mes que duran 1 a 2 días. Menstruaciones regulares cada 28 días; su último periodo fue hace 2 semanas. Sexualmente activa, usa condón; ITS negativas hace 6 meses. T 37,1 °C, pulso 76/min, PA 126/60 mmHg. Leve sensibilidad en el cuadrante inferior derecho, sin masas. Tacto bimanual: anexo derecho levemente sensible. Laboratorio normal, prueba de embarazo negativa. Ecografía pélvica: folículo con márgenes irregulares en el ovario derecho y pequeña cantidad de líquido libre anecoico en el fondo de saco de Douglas. ¿Cuál es el siguiente paso más apropiado?",
+    "opts": [
+     "Anticonceptivos orales combinados y AINE",
+     "Detorsión anexial laparoscópica",
+     "Tranquilidad y AINE",
+     "Laparotomía de emergencia"
+    ],
+    "ans": 2,
+    "why": "El dolor a mitad del ciclo (dos semanas tras la última regla), recurrente cada mes, leve, con folículo roto y poco líquido libre, sin fiebre ni alteraciones de laboratorio, corresponde a dolor ovulatorio (mittelschmerz), que Sabiston incluye entre las causas ginecológicas de dolor en fosa ilíaca derecha. Es benigno y autolimitado: basta con explicar y dar AINE. Los anticonceptivos no son el paso inmediato, no hay datos de torsión (dolor intenso, masa, flujo alterado) y no hay indicación de laparotomía.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1326 del PDF"
+    ],
+    "tema": "otros",
+    "nota": "Sin clave en el original; el alumno marcó C."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Un hombre de 57 años, etilista y con antecedentes de ingesta crónica de corticosteroides y AINE, acude a urgencias y refiere que 2 horas antes presentó un dolor localizado en el epigastrio, de inicio súbito y brusco, de tipo punzada, continuo, de intensidad creciente, que se exacerba con los movimientos, hasta volverse intolerable. No refiere náuseas ni vómitos. PA 130/90 mmHg, pulso 104/min, FR 22/min. Abdomen tenso, doloroso, que no se mueve con la respiración; contractura abdominal difusa o «vientre en tabla». A la percusión hay pérdida de la matidez hepática. Ruidos hidroaéreos disminuidos. El tacto rectal no aporta datos. ¿Cuál es el diagnóstico más probable?",
+    "opts": [
+     "Pancreatitis aguda",
+     "Colecistitis aguda complicada",
+     "Úlcera péptica perforada",
+     "Infarto agudo de miocardio inferior",
+     "Apendicitis aguda complicada"
+    ],
+    "ans": 2,
+    "why": "Dolor epigástrico súbito e intenso en un paciente que toma AINE y corticoides, con abdomen en tabla y pérdida de la matidez hepática (neumoperitoneo), es una úlcera péptica perforada. Sabiston describe que la perforación produce dolor epigástrico intenso de inicio repentino y aire libre visible. La pancreatitis da dolor en cinturón con vómitos y sin neumoperitoneo; la colecistitis y la apendicitis empiezan de forma gradual y localizada; el IAM no da vientre en tabla.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1236 del PDF",
+     "Sabiston 21.ª ed., p. 1231 del PDF"
+    ],
+    "tema": "esofago-estomago",
+    "nota": "La opción C dice «Úlcera péptica»; se entiende perforada. Sin clave en el original; el alumno marcó E (apendicitis), que es incorrecta."
+   }
+  ]
+ },
+ {
+  "k": "f67b15d649",
+  "estado": "nueva",
+  "stem": "Mujer de 60 años con dolor tipo cólico, náuseas, vómitos y estreñimiento de tres días de evolución, operada hace 5 años de peritonitis por apendicitis complicada. Examen: distensión y dolor difuso abdominal, ausencia de ruidos hidroaéreos. ¿Cuál es la causa más probable del cuadro obstructivo?",
+  "opts": [
+   "Bridas y adherencias",
+   "Perforación de víscera hueca",
+   "Cáncer de colon",
+   "Trombosis de la arteria mesentérica",
+   "Vólvulo de sigmoides"
+  ],
+  "ans": 0,
+  "why": "En una paciente con laparotomía previa por peritonitis, la causa más probable de obstrucción intestinal son las bridas y adherencias; Sabiston indica que el síndrome adherencial es la causa más frecuente de obstrucción intestinal en los países occidentales. La perforación no produce un cuadro obstructivo de este tipo, y el cáncer de colon, la trombosis mesentérica y el vólvulo son posibles pero menos probables con este antecedente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Se quitó del enunciado la opción E de la pregunta 11 («Hemostasia insuficiente») que el OCR había pegado. La pregunta 13 estaba pegada y va en «dividir»; la clave original del lote (B, resaltado) correspondía a la 13. En la foto el alumno resaltó A en esta.",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "¿Cuál es la causa más frecuente de obstrucción intestinal en adultos?",
+    "opts": [
+     "Intususcepción",
+     "Bridas y adherencias",
+     "Vólvulo de sigmoides",
+     "Trombosis mesentérica",
+     "Cáncer de colon"
+    ],
+    "ans": 1,
+    "why": "Sabiston señala que la causa más frecuente de obstrucción intestinal en los países occidentales es el síndrome adherencial (bridas tras cirugías previas). La intususcepción es rara en adultos, y el vólvulo, la trombosis mesentérica y el cáncer de colon son causas menos frecuentes.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1274 del PDF"
+    ],
+    "tema": "intestino",
+    "nota": "Clave original: B (resaltado)."
+   }
+  ]
+ },
+ {
+  "k": "003-a8",
+  "estado": "nueva",
+  "stem": "¿Cuál es el tratamiento de una obstrucción intestinal por adherencias postquirúrgicas?",
+  "opts": [
+   "Intervención quirúrgica urgente, sin demora",
+   "Reposición hidroelectrolítica e intervención programada",
+   "Intervención quirúrgica solo si la SNG produce > 2000 mL/día",
+   "Aspiración nasogástrica y fluidoterapia las primeras 24-48 h",
+   "Dependerá del estado general y edad del paciente"
+  ],
+  "ans": 3,
+  "why": "En la obstrucción adherencial sin signos de estrangulación, Sabiston indica tratamiento conservador con reposición IV de líquidos y electrolitos y descompresión con sonda nasogástrica; hasta el 85% de las obstrucciones parciales se resuelven sin cirugía. Se opera si hay deterioro, signos de isquemia o fracaso (los estudios dicen que esperar 12-24 h es seguro y, con contraste hidrosoluble, se evalúa a las 48 h). La cirugía urgente de entrada o programada no es la regla, el débito de la SNG no es criterio quirúrgico y la conducta no depende solo de la edad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Pregunta 14, perdida por la extracción. El alumno marcó D.",
+  "agregada": true,
+  "despues_de": "f67b15d649"
+ },
+ {
+  "k": "003-a9",
+  "estado": "nueva",
+  "stem": "La tríada de Rigler consiste en:",
+  "opts": [
+   "Aerobilia, patrón en miga de pan en colon y niveles hidroaéreos",
+   "Aerobilia, neumoperitoneo y línea del psoas visible",
+   "Aerobilia, niveles hidroaéreos y cálculos visibles fuera de la vesícula biliar",
+   "Aire en ampolla rectal, aerobilia e imagen intestinal en U invertida",
+   "Aerobilia, dilatación gástrica y cuerpo extraño en la válvula ileocecal"
+  ],
+  "ans": 2,
+  "why": "La tríada de Rigler del íleo biliar es neumobilia (aerobilia), obstrucción del intestino delgado (asas dilatadas con niveles hidroaéreos) y cálculo radiopaco ectópico, fuera de la vesícula. Las demás opciones mezclan signos que no forman parte de ella (neumoperitoneo, miga de pan, U invertida del vólvulo).",
+  "fuentes": [
+   "Rolling in the Deep: Imaging Findings and Diagnostic Pearls in Gallstone Ileus, Surg Res Pract 2020 (PMC7196161)",
+   "Sabiston 21.ª ed., p. 1526 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Pregunta 15, perdida por la extracción. El alumno marcó C.",
+  "agregada": true,
+  "despues_de": "003-a8"
+ },
+ {
+  "k": "003-a10",
+  "estado": "nueva",
+  "stem": "Varón de 28 años, desde hace 2 días presenta dolor abdominal difuso, no elimina flatos. Refiere como antecedente que hace 2 años tuvo una laparotomía exploratoria. Al examen: abdomen distendido, RHA de timbre metálico. ¿Cuál es el diagnóstico?",
+  "opts": [
+   "Diverticulitis aguda",
+   "Apendicitis aguda",
+   "Vólvulo de sigmoides",
+   "Brida y adherencias con obstrucción intestinal"
+  ],
+  "ans": 3,
+  "why": "Dolor, distensión, ausencia de flatos y ruidos metálicos indican obstrucción intestinal mecánica, y la laparotomía previa apunta a bridas, la causa más frecuente según Sabiston. La diverticulitis y la apendicitis no suelen dar este cuadro, y el vólvulo de sigma es propio de ancianos con estreñimiento crónico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Pregunta 16, perdida por la extracción. El alumno marcó D.",
+  "agregada": true,
+  "despues_de": "003-a9"
+ },
+ {
+  "k": "003-a11",
+  "estado": "nueva",
+  "stem": "En la enfermedad diverticular del colon se considera que los divertículos son «falsos» o de pulsión. De acuerdo con la anatomía del colon, ¿en qué punto exacto de la pared intestinal es más probable que se produzca la herniación de la mucosa?",
+  "opts": [
+   "En el borde antimesentérico, entre las tenias laterales",
+   "En los puntos donde los vasos rectos penetran la capa muscular",
+   "Exclusivamente en el recto, debido a la ausencia de capas musculares longitudinales",
+   "En el ciego, donde el radio de la luz es mayor según la ley de Laplace"
+  ],
+  "ans": 1,
+  "why": "Sabiston explica que los divertículos del colon son falsos (solo mucosa y muscular de la mucosa) y se forman en el lado mesentérico, donde los vasos rectos atraviesan la capa muscular, que son zonas de debilidad. No se forman en el borde antimesentérico; el recto casi nunca se afecta porque tiene una capa muscular longitudinal completa, y la ley de Laplace explica la perforación del ciego en obstrucción, no los divertículos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Pregunta 17, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a10"
+ },
+ {
+  "k": "003-a12",
+  "estado": "nueva",
+  "stem": "Un paciente con diagnóstico de colitis ulcerosa de 12 años de evolución, con pancolitis confirmada, presenta displasia de alto grado detectada en su última colonoscopia de vigilancia. El paciente desea evitar una ileostomía permanente. ¿Cuál es el procedimiento quirúrgico de elección que elimina el riesgo de cáncer y preserva la continuidad intestinal?",
+  "opts": [
+   "Colectomía subtotal con anastomosis ileorrectal",
+   "Proctocolectomía total con reservorio ileoanal en J (IPAA) y mucosectomía",
+   "Colectomía segmentaria del área afectada por la displasia",
+   "Proctocolectomía total con ileostomía terminal definitiva de Brooke"
+  ],
+  "ans": 1,
+  "why": "Sabiston indica que el reservorio ileal en J con anastomosis reservorio-ano es la operación más popular en la colitis ulcerosa, también cuando hay displasia, porque extirpa todo el colon y casi toda la mucosa rectal de riesgo y mantiene el tránsito por el ano. La anastomosis ileorrectal deja el recto enfermo, la resección segmentaria no sirve porque la displasia puede ser multifocal, y la ileostomía de Brooke es definitiva, lo que el paciente quiere evitar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1375 del PDF",
+   "Sabiston 21.ª ed., p. 1376 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Pregunta 18, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a11"
+ },
+ {
+  "k": "003-a13",
+  "estado": "nueva",
+  "stem": "Un paciente joven de origen asiático acude por dolor intenso en fosa ilíaca derecha, fiebre y náuseas. Durante la cirugía por sospecha de apendicitis aguda se encuentra un apéndice normal, pero una inflamación marcada de un divertículo solitario en el ciego que involucra todas las capas de la pared. ¿Cómo se clasifica anatómicamente esta variante diverticular?",
+  "opts": [
+   "Divertículo falso adquirido",
+   "Divertículo verdadero congénito",
+   "Divertículo de pulsión segmentario",
+   "Flemón pericólico (Hinchey Ia)"
+  ],
+  "ans": 1,
+  "why": "Sabiston define los divertículos verdaderos como los que contienen todas las capas de la pared intestinal y señala que son infrecuentes y habitualmente congénitos; la diverticulitis derecha es habitual en asiáticos y en pacientes jóvenes, y se confunde con apendicitis. Los falsos o de pulsión solo tienen mucosa y muscular de la mucosa, y «flemón pericólico» es un estadio de la inflamación, no un tipo anatómico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF",
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Pregunta 19, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a12"
+ },
+ {
+  "k": "003-a14",
+  "estado": "nueva",
+  "stem": "Un paciente de 70 años con megacolon crónico presenta un cuadro de obstrucción intestinal aguda. La radiografía muestra el signo del «grano de café». Se realiza una descompresión endoscópica exitosa. ¿Cuál es la conducta recomendada a seguir debido al alto riesgo de recurrencia?",
+  "opts": [
+   "Alta médica con dieta rica en fibra y laxantes",
+   "Resección del sigmoides con anastomosis primaria en la misma internación",
+   "Realización inmediata de un procedimiento de Hartmann",
+   "Cecopexia laparoscópica para fijar el colon a la pared abdominal"
+  ],
+  "ans": 1,
+  "why": "Tras destorsionar con éxito un vólvulo de sigma por vía endoscópica, Sabiston indica una resección sigmoidea programada con anastomosis primaria por la elevada tasa de recidiva (habitualmente en la misma hospitalización). El alta solo con fibra deja un alto riesgo de recidiva; el Hartmann se reserva para cuando la descompresión fracasa o hay necrosis o perforación, y la cecopexia es para el vólvulo de ciego.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1365 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Pregunta 20, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a13"
+ },
+ {
+  "k": "003-a15",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 21 años con «pezón extra» en la línea inframamaria derecha, sin masa subyacente. ¿Cuál es el mecanismo embriológico más probable?",
+  "opts": [
+   "Persistencia del conducto mesonéfrico (Wolff)",
+   "Persistencia focal de la cresta mamaria",
+   "Falta de canalización de los conductos galactóforos",
+   "Migración anómala del primordio mamario a la línea media",
+   "Persistencia del conducto paramesonéfrico (Müller)"
+  ],
+  "ans": 1,
+  "why": "La glándula mamaria nace de la línea láctea (cresta mamaria), que va de la axila a la ingle y normalmente se atrofia salvo en el par pectoral. Sabiston explica que la persistencia de la cresta produce pezones supernumerarios (politelia) y tejido mamario accesorio a lo largo de esa línea. Los conductos de Wolff y Müller originan estructuras genitourinarias, y las otras opciones no explican un pezón accesorio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 837 del PDF",
+   "Sabiston 21.ª ed., p. 838 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Pregunta 1 del pretest, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a14"
+ },
+ {
+  "k": "003-a16",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 35 años con lesión palpable; la biopsia core muestra estructuras ductolobulillares con doble capa celular. Para confirmar que no hay invasión, ¿qué panel inmunohistoquímico es más útil para demostrar células mioepiteliales?",
+  "opts": [
+   "E-cadherina y p120 membranoso",
+   "p63 y calponina",
+   "CK7 y GATA3",
+   "HER2 y Ki-67",
+   "ER y PR"
+  ],
+  "ans": 1,
+  "why": "La presencia de una capa continua de células mioepiteliales alrededor de los conductos indica que la lesión no es invasiva; esa capa se demuestra con marcadores mioepiteliales como p63 y calponina (también CK5/6 y miosina de músculo liso). E-cadherina/p120 diferencian lo ductal de lo lobulillar, CK7 y GATA3 son marcadores de epitelio luminal mamario, y HER2, Ki-67, ER y PR son marcadores pronósticos o predictivos.",
+  "fuentes": [
+   "Complex sclerosing lesions of the breast mimicking carcinoma: the decisive role of immunohistochemistry, 2026 (PMC13657566)",
+   "Sabiston 21.ª ed., p. 852 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Pregunta 2 del pretest, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a15"
+ },
+ {
+  "k": "003-a17",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 27 años, posparto de 48 horas, presenta ingurgitación mamaria súbita (lactogénesis II). ¿Qué cambio hormonal dispara este proceso?",
+  "opts": [
+   "Aumento brusco de estrógenos",
+   "Disminución abrupta de progesterona tras la expulsión placentaria con prolactina elevada",
+   "Incremento sostenido de oxitocina basal",
+   "Disminución de cortisol",
+   "Aumento de dopamina hipotalámica"
+  ],
+  "ans": 1,
+  "why": "Sabiston explica que tras el parto se produce una pérdida brusca de las hormonas placentarias que, junto con los niveles altos y continuados de prolactina, es el desencadenante principal de la lactancia. Los estrógenos caen (no suben); la oxitocina actúa en la eyección de la leche, no en su producción, y la dopamina inhibe la prolactina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 837 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Pregunta 3 del pretest, perdida por la extracción. El alumno marcó B.",
+  "agregada": true,
+  "despues_de": "003-a16"
+ },
+ {
+  "k": "3d83bef7fa",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 45 años con carcinoma de mama en el cuadrante superomedial izquierdo. ¿Cuál es el primer territorio de drenaje linfático más probable?",
+  "opts": [
+   "Axilares nivel I",
+   "Axilares nivel II",
+   "Axilares nivel III",
+   "Supraclaviculares",
+   "Mamarios internos"
+  ],
+  "ans": null,
+  "why": "Sabiston indica que el 75% de toda la linfa de la mama va a los ganglios axilares, y que los mamarios internos son la vía predominante solo en el 5% de los casos (secundaria en un 20%); Latarjet también describe la axila (grupo pectoral, nivel I) como vía principal y la cadena torácica interna como accesoria. Eso apoya A, pero la enseñanza clásica dice que los cuadrantes mediales drenan a los mamarios internos (E, la opción que marcó el alumno), y ninguno de los libros da el dato específico de los tumores del cuadrante medial. Como hay dos respuestas defendibles según el criterio, queda dudosa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 834 del PDF",
+   "Latarjet tomo 2, p. 750 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Se añadió la opción E («Mamarios internos»), que la extracción había pegado a la pregunta siguiente. Sin clave en el original; el alumno marcó E."
+ },
+ {
+  "k": "3d7997cccf",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 58 años con mamografía que muestra masa irregular espiculada con microcalcificaciones pleomórficas lineales segmentarias. ¿Qué categoría BI-RADS corresponde mejor?",
+  "opts": [
+   "0",
+   "2",
+   "3",
+   "4A",
+   "5"
+  ],
+  "ans": 4,
+  "why": "Una masa espiculada con microcalcificaciones pleomórficas finas lineales de distribución segmentaria es altamente sugestiva de malignidad: BI-RADS 5 (más del 95% de probabilidad de cáncer). Giménez cita los nódulos espiculados como ejemplo de BI-RADS 5. El 0 es estudio incompleto, el 2 benigno, el 3 probablemente benigno (menos del 2%) y el 4A es sospecha baja.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 845 del PDF",
+   "Giménez 2.ª ed., p. 864 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Se añadió la opción E («5»), que faltaba, y se quitó del enunciado «Mamarios internos», que era de la pregunta anterior. Sin clave en el original; el alumno marcó E."
+ },
+ {
+  "k": "3038a11301",
+  "estado": "nueva",
+  "stem": "Se realizó hernioplastia anterior tipo Lichtenstein a paciente varón de 50 años, sin complicaciones o intercurrencias. Mencione el tipo de herida quirúrgica del presente caso:",
+  "opts": [
+   "Limpia-contaminada",
+   "Limpia",
+   "Contaminada",
+   "Sucia"
+  ],
+  "ans": 1,
+  "why": "La hernioplastia de Lichtenstein no entra en el aparato digestivo, respiratorio, genital ni urinario y se hace sin inflamación ni rotura de la técnica estéril: es una herida limpia (clase I de los CDC). Sería limpia-contaminada si se abriera una víscera en condiciones controladas, y contaminada o sucia si hubiera derrame, inflamación o infección.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 249 del PDF"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "La pregunta 2 del pretest estaba pegada y va en «dividir». Sin clave en el original; el alumno marcó B.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "No es factor de riesgo dependiente del paciente para ISO:",
+    "opts": [
+     "Hipoalbuminemia",
+     "Obesidad",
+     "Hiperbilirrubinemia",
+     "Hipotermia"
+    ],
+    "ans": 3,
+    "why": "En el cuadro de factores de riesgo de ISQ de Sabiston, la hipoalbuminemia, la obesidad y la hiperbilirrubinemia (> 1 mg/dl) figuran como factores del paciente. La hipotermia perioperatoria es un factor del procedimiento o del manejo anestésico, que el equipo puede prevenir calentando al paciente.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 249 del PDF",
+     "Sabiston 21.ª ed., p. 266 del PDF"
+    ],
+    "tema": "iso",
+    "nota": "Sin clave en el original; el alumno marcó D."
+   }
+  ]
+ },
+ {
+  "k": "7a7ebf73e7",
+  "estado": "nueva",
+  "stem": "Acude a emergencia paciente diabético de 63 años, quien sufrió una semana antes traumatismo por PAF en muslo derecho. Presenta fiebre, taquicardia y taquipnea, además de dolor intenso (EVA 9/10) en la extremidad afectada. No se observan signos de flogosis en piel. Teniendo en cuenta el diagnóstico presuntivo de fascitis necrosante, ¿qué examen de imagen es el de elección?",
+  "opts": [
+   "Tomografía computada",
+   "Resonancia magnética",
+   "Radiografía de fémur",
+   "Ecografía de partes blandas de muslo"
+  ],
+  "ans": 0,
+  "why": "Sabiston señala que, por su disponibilidad y facilidad de interpretación, la TC es la prueba de imagen preferida en la sospecha de infección necrosante de tejidos blandos: muestra gas en los tejidos (el hallazgo más específico), colecciones, falta de realce y cambios bajo la fascia. La RM es sensible pero lenta y poco disponible en urgencias; la radiografía solo ve gas en casos avanzados, y la ecografía depende del operador. Ninguna prueba debe retrasar la exploración quirúrgica si la sospecha es alta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 250 del PDF"
+  ],
+  "tema": "piel-partes-blandas",
+  "nota": "Las preguntas 4 y 5 del pretest estaban pegadas y van en «dividir». Sin clave en el original; el alumno marcó A (y encerró D).",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "stem": "Se diagnostica en emergencia de hospital de tercer nivel a paciente con diverticulitis aguda con absceso pericólico. ¿Qué tipo de absceso intraabdominal es el que presenta?",
+    "opts": [
+     "Absceso intraabdominal secundario",
+     "Absceso intraabdominal primario",
+     "Absceso intraabdominal primario diferido",
+     "Absceso terciario"
+    ],
+    "ans": 1,
+    "why": "En la clasificación de Sabiston (tabla 11.4), el absceso intraabdominal primario es una infección establecida que se rompe y queda delimitada, y pone como ejemplos la apendicitis rota y la diverticulitis aguda con absceso. El primario diferido nace de líquido de víscera hueca derramado que con el tiempo se delimita (p. ej., fuga anastomótica), y el secundario es una colección estéril que se infecta después (p. ej., seudoquiste pancreático). El «terciario» no forma parte de esta clasificación.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 253 del PDF"
+    ],
+    "tema": "iso",
+    "nota": "Sin clave en el original; el alumno marcó B y encerró C; al lado hay un signo de interrogación."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Paciente programado para coledocotomía y exploración de vías biliares por coledocolitiasis, sin colangitis. Se aborda por incisión mediana supraumbilical. Tipo de herida quirúrgica:",
+    "opts": [
+     "Limpia",
+     "Infectada",
+     "Contaminada",
+     "Limpia-contaminada"
+    ],
+    "ans": 3,
+    "why": "Se abre la vía biliar en condiciones controladas y sin infección (no hay colangitis): según los CDC es una herida limpia-contaminada, y Sabiston menciona expresamente las operaciones de las vías biliares en esta clase. Sería contaminada o sucia si hubiera bilis infectada o colangitis.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 249 del PDF"
+    ],
+    "tema": "cicatrizacion",
+    "nota": "Sin clave en el original; el alumno marcó D."
+   }
+  ]
+ },
+ {
+  "k": "d727c2b715",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 26 años con nódulo axilar doloroso cíclico que aumenta en fase lútea. Ecografía: tejido ecogénico similar a parénquima mamario. No adenopatías. ¿Cuál es el origen embriológico más probable?",
+  "opts": [
+   "Persistencia de la cresta mamaria",
+   "Derivado del conducto de Müller",
+   "Restos de cresta urogenital",
+   "Migración aberrante de células de la cresta neural",
+   "Malformación del seno urogenital"
+  ],
+  "ans": 0,
+  "why": "Es tejido mamario accesorio en la axila (polimastia): responde a las hormonas del ciclo y en la ecografía se ve como parénquima mamario. Sabiston explica que se debe a la persistencia de la cresta mamaria (línea láctea) y que suele ubicarse en la axila. Las demás opciones son estructuras genitourinarias o neurales que no forman tejido mamario.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 838 del PDF",
+   "Sabiston 21.ª ed., p. 837 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Se reconstruyeron el enunciado y la opción E, que la extracción había cortado. Sin clave en el original."
+ },
+ {
+  "k": "003-a18",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 54 años. BAAF sugiere lesión ductal; en core de 14G se evalúa invasión. ¿Qué inmunomarcador confirma mejor la integridad de la capa mioepitelial para distinguir CDIS de carcinoma invasor?",
+  "opts": [
+   "E-cadherina",
+   "p63",
+   "ER",
+   "GATA3",
+   "Ki-67"
+  ],
+  "ans": 1,
+  "why": "El CDIS conserva alrededor de los espacios tumorales una capa de células mioepiteliales (Sabiston), y el carcinoma invasor la pierde. p63 es un marcador nuclear de células mioepiteliales que muestra si esa capa está íntegra. La E-cadherina distingue ductal de lobulillar, GATA3 y ER marcan epitelio luminal y Ki-67 mide proliferación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 852 del PDF",
+   "Complex sclerosing lesions of the breast mimicking carcinoma: the decisive role of immunohistochemistry, 2026 (PMC13657566)"
+  ],
+  "tema": "mama",
+  "nota": "Pregunta 2, perdida por la extracción (sus opciones C y D se habían pegado a la pregunta 3). Sin clave en el original.",
+  "agregada": true,
+  "despues_de": "d727c2b715"
+ },
+ {
+  "k": "068d763df8",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 28 años en posparto inmediato con «falla de eyección láctea» pese a buena producción. Refiere ansiedad y dolor. ¿Qué hormona media principalmente el reflejo de eyección ante la succión?",
+  "opts": [
+   "Prolactina",
+   "Estrógenos",
+   "Oxitocina",
+   "Dopamina",
+   "Cortisol"
+  ],
+  "ans": 2,
+  "why": "Sabiston explica que la expulsión de la leche se produce por la contracción de las células mioepiteliales que rodean los conductos en respuesta a la oxitocina hipofisaria, liberada con la succión. El estrés y el dolor inhiben ese reflejo. La prolactina mantiene la producción de leche (aquí es normal); los estrógenos, la dopamina y el cortisol no median la eyección.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 837 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Se quitaron del enunciado las opciones C, D y E de la pregunta 2 que el OCR había pegado, y se completaron las opciones C, D y E. Sin clave en el original."
+ },
+ {
+  "k": "003-a19",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 45 años desarrolla «ala de ángel» tras disección axilar nivel I-II. ¿Qué nervio se lesionó con mayor probabilidad?",
+  "opts": [
+   "Toracodorsal",
+   "Espinal accesorio (XI)",
+   "Intercostobraquial",
+   "N. torácico largo",
+   "N. pectoral medial"
+  ],
+  "ans": 3,
+  "why": "El nervio torácico largo (de Bell) recorre la pared medial de la axila e inerva el serrato anterior, que fija la escápula al tórax; Sabiston indica que su sección produce la escápula alada, por eso se preserva en la cirugía axilar. El toracodorsal inerva el dorsal ancho, el intercostobraquial es sensitivo (cara interna del brazo), el pectoral medial inerva los pectorales, y el espinal accesorio, que no se diseca en la axila, da escápula alada por el trapecio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 834 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Pregunta 4, perdida por la extracción. Sin clave en el original.",
+  "agregada": true,
+  "despues_de": "068d763df8"
+ },
+ {
+  "k": "cb3614f83b",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 42 años consulta por nódulo mamario palpable en cuadrante superoexterno derecho de 1,8 cm de 2 meses de evolución. Refiere dolor mínimo, sin fiebre ni secreción. Al examen: masa firme, irregular, poco móvil, con leve retracción cutánea; sin eritema ni calor local. ¿Cuál es el siguiente paso diagnóstico más apropiado?",
+  "opts": [
+   "Observación 3 meses con AINEs",
+   "Mamografía diagnóstica bilateral + ecografía dirigida y biopsia con aguja gruesa (core) guiada por imagen",
+   "RM mamaria con contraste como único estudio inicial",
+   "Iniciar antibióticos y reevaluar en 10 días",
+   "Citología por aspiración (FNA) como único estudio diagnóstico"
+  ],
+  "ans": 1,
+  "why": "Una masa palpable sospechosa (firme, irregular, fija, con retracción) exige estudio con imagen (mamografía y ecografía) y biopsia; Sabiston indica que la biopsia con aguja gruesa guiada por imagen es el método de elección para obtener muestras de lesiones mamarias. Observar o dar antibióticos retrasa el diagnóstico de un probable cáncer; la RM no sustituye a la mamografía y la ecografía, y la PAAF sola no permite distinguir invasión ni estudiar receptores.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 841 del PDF",
+   "Sabiston 21.ª ed., p. 837 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Sin clave en el original; en otra foto del mismo pretest (16.34.22 (3)) el alumno marcó B."
+ },
+ {
+  "k": "4bd5ccbe69",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 62 años con patrón histológico discohesivo en «fila india». ¿Qué perfil inmunohistoquímico confirma mejor carcinoma lobulillar invasivo (ILC)?",
+  "opts": [
+   "E-cadherina membranosa positiva",
+   "E-cadherina negativa",
+   "HER2 3+",
+   "p63 positivo difuso en las células tumorales",
+   "CK5/6 y EGFR positivos (basal-like)"
+  ],
+  "ans": 1,
+  "why": "El evento característico del carcinoma lobulillar invasivo es la pérdida de E-cadherina (gen CDH1), que explica que sus células sean discohesivas y crezcan en fila india; por eso la E-cadherina negativa confirma el diagnóstico. La E-cadherina positiva es típica del carcinoma ductal (no especial). El lobulillar clásico suele ser HER2 negativo y con receptores hormonales positivos, p63 marca células mioepiteliales (no tumorales) y CK5/6-EGFR define el fenotipo basal.",
+  "fuentes": [
+   "E-cadherin inactivation shapes tumor microenvironment specificities in invasive lobular breast cancer, Nat Commun 2026 (PMC13527148)",
+   "de Virgilio ABSITE 3.ª ed., p. 198 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Sin clave en el original; en la foto 16.34.22 (3) el alumno marcó B."
+ },
+ {
+  "k": "003-a20",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 52 años con carcinoma ductal infiltrante pT2N1 y nueva lesión hepática biopsiada positiva para metástasis. ¿Cuál es el estadio clínico actual?",
+  "opts": [
+   "IIA",
+   "IIB",
+   "IIIA",
+   "IIIC",
+   "IV"
+  ],
+  "ans": 4,
+  "why": "Cualquier metástasis a distancia comprobada (M1), como una metástasis hepática biopsiada, convierte el cáncer de mama en estadio IV, sea cual sea el T y el N. El ABSITE lo resume así: el cáncer es estadio IV si ha metastatizado a hueso, cerebro, pulmón u otro órgano visceral. Los estadios II y III corresponden a enfermedad sin metástasis a distancia (M0).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 194 del PDF",
+   "Sabiston 21.ª ed., p. 857 del PDF"
+  ],
+  "tema": "mama",
+  "nota": "Pregunta 8, perdida por la extracción. En la foto 16.34.22 (3) el alumno marcó E.",
+  "agregada": true,
+  "despues_de": "4bd5ccbe69"
+ },
+ {
+  "k": "0d839566d3",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 55 años con sospecha de recaída metastásica pulmonar 7 años tras cáncer de mama inicial (ER+/HER2-). Antes de iniciar tratamiento sistémico, ¿cuál es el paso más apropiado?",
+  "opts": [
+   "Iniciar quimioterapia basada en taxanos sin confirmación",
+   "PET/CT y, si capta, tratamiento empírico",
+   "Biopsia del sitio metastásico",
+   "Test genómico (Oncotype) en el primario original",
+   "Iniciar inhibidor de CDK4/6 con endocrino sin biopsia"
+  ],
+  "ans": 2,
+  "why": "Las guías ESO-ESMO para cáncer de mama avanzado (ABC 5) recomiendan biopsiar la lesión metastásica, si es accesible, para confirmar el diagnóstico, sobre todo cuando la metástasis se detecta por primera vez; además permite volver a medir ER, PR y HER2, que pueden cambiar. Tratar sin confirmación (A, B, E) puede tratar una enfermedad equivocada (p. ej., un segundo primario pulmonar), y el Oncotype sirve para decidir la quimioterapia adyuvante en la enfermedad precoz, no en la metastásica.",
+  "fuentes": [
+   "5th ESO-ESMO international consensus guidelines for advanced breast cancer (ABC 5), Ann Oncol 2020 (PMC7510449)"
+  ],
+  "tema": "mama",
+  "nota": "Sin clave en el original; en la foto 16.34.22 (3) el alumno marcó C."
+ },
+ {
+  "k": "1cd4b78f1a",
+  "estado": "nueva",
+  "stem": "Paciente mujer de 60 años con cáncer de mama metastásico. La inmunohistoquímica para HER2 es 1+ y la ISH es negativa. ¿Cómo debe informarse el estado de HER2 en el resultado final?",
+  "opts": [
+   "Positivo",
+   "Negativo",
+   "Indeterminado",
+   "Equívoco",
+   "No evaluable"
+  ],
+  "ans": 1,
+  "why": "Según los criterios ASCO/CAP, HER2 es positivo con IHQ 3+ o con amplificación por ISH; IHQ 0, 1+, o 2+ sin amplificación se informan como HER2 negativo (el 1+ se describe además como «HER2-low», que tiene importancia terapéutica, pero el resultado sigue siendo negativo). «Equívoco» es solo la IHQ 2+ antes de hacer la ISH; con ISH negativa el caso queda resuelto, así que no es indeterminado ni no evaluable.",
+  "fuentes": [
+   "Standardized pathology report for HER2 testing in compliance with 2023 ASCO/CAP updates and 2023 ESMO consensus, Virchows Arch 2024 (PMC10791807)"
+  ],
+  "tema": "mama",
+  "nota": "Sin clave en el original; en la foto 16.34.22 (3) el alumno marcó B."
+ }
+]

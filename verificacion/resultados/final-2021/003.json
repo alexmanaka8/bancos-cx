@@ -1,0 +1,439 @@
+[
+ {
+  "k": "4b51320563",
+  "estado": "confirmada",
+  "stem": "Una mujer delgada de 77 años tiene dolor abdominal recurrente cada vez que come y ha perdido 8 kilos en 2 meses. Niega tener diarrea pero tiene anorexia. Ella es una fumadora empedernida y tiene hipertensión. Toma varios medicamentos para la hipertensión. El examen físico revela un soplo abdominal sistólico epigástrico suave y el abdomen no es sensible a la palpación. ¿Cuál es el diagnóstico probable?",
+  "opts": [
+   "Aneurisma de la aorta abdominal",
+   "TBC intestinal",
+   "Cáncer de colon",
+   "Pancreatitis crónica",
+   "Isquemia mesentérica"
+  ],
+  "ans": 4,
+  "why": "Es una isquemia mesentérica crónica (angina intestinal): aterosclerosis del tronco celíaco y de las mesentéricas que causa dolor 30-60 minutos después de comer, \"miedo a comer\" y pérdida de peso; el soplo epigástrico y el tabaquismo apoyan la causa vascular. El aneurisma de aorta suele ser asintomático o da una masa pulsátil, no dolor posprandial. La TBC intestinal y el cáncer de colon darían otros síntomas (diarrea, sangrado, cambios del hábito) y la pancreatitis crónica se asocia a alcohol y esteatorrea.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 275 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Clave original: E (aula virtual)."
+ },
+ {
+  "k": "d72df9d1cf",
+  "estado": "confirmada",
+  "stem": "El Nylon es una sutura con las siguientes características, excepto:",
+  "opts": [
+   "Produce poca respuesta inflamatoria",
+   "Sufre hidrólisis a razón de 15-20% por año",
+   "Es una poliamida que se encapsula por el organismo",
+   "Tiene poca memoria",
+   "Es un monofilamento"
+  ],
+  "ans": 3,
+  "why": "El nailon monofilamento tiene mucha \"memoria\": tiende a volver a su forma recta y los nudos se deshacen con facilidad, por eso necesita más lazadas (Archundia). Las demás son ciertas: es una poliamida monofilamento con reacción tisular discreta; no absorbible, queda encapsulado en los tejidos; y pierde fuerza por hidrólisis (Boros: conserva 80% al año, ~20% de pérdida anual; Sabiston: la poliamida es vulnerable a la hidrólisis).",
+  "fuentes": [
+   "Archundia, Cirugía 1, p. 23-24 del PDF",
+   "Boros, Técnica quirúrgica, p. 7 del PDF",
+   "Sabiston 21.ª ed., p. 1943 del PDF"
+  ],
+  "tema": "suturas",
+  "nota": "Clave original: D (aula virtual)."
+ },
+ {
+  "k": "57390f9844",
+  "estado": "dudosa",
+  "stem": "Varón de 69 años, hipertenso, que acude a urgencias con hematemesis masiva. Tiene antecedentes médicos de varices esofágicas y se había sometido a escleroterapia dos veces en los últimos dos años. Ha sido admitido varias veces por adicción al alcohol en el pasado, pero siempre recae. En la exploración física, el paciente presenta ascitis, edema de los pies y nevos de araña. Las investigaciones de laboratorio se envían para obtener un perfil metabólico completo. ¿Cuál de los siguientes productos es más apropiado para reponer el factor de coagulación deficiente en este paciente?",
+  "opts": [
+   "Suero",
+   "Plasma",
+   "Crioprecipitado",
+   "Sangre entera",
+   "Plaquetas"
+  ],
+  "ans": null,
+  "why": "El paciente tiene cirrosis alcohólica con hemorragia variceal. En la hepatopatía faltan varios factores de síntesis hepática (II, V, VII, IX, X y fibrinógeno). El ABSITE indica plasma fresco congelado (todos los factores) para la hepatopatía, y dice que en la enfermedad hepatocelular se requiere plasma o sangre entera. El crioprecipitado sirve si el problema es el fibrinógeno bajo (hipofibrinogenemia), pero la pregunta no da el fibrinógeno ni dice qué factor falta. Como pide un solo \"factor deficiente\", tanto Plasma como Crioprecipitado se pueden defender, y la evidencia no permite elegir.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 479 y 490 del PDF"
+  ],
+  "tema": "hemostasia",
+  "nota": "Clave original: C, Crioprecipitado (aula virtual). Los libros apoyan más el plasma para la coagulopatía de la cirrosis; el crioprecipitado solo si hay hipofibrinogenemia, dato que la pregunta no da."
+ },
+ {
+  "k": "725fd8c138",
+  "estado": "confirmada",
+  "stem": "El abordaje laparoscópico está contraindicado en:",
+  "opts": [
+   "Peritonitis generalizada",
+   "Arritmia cardiaca",
+   "Diabetes mellitus",
+   "Gestantes I trimestre",
+   "Obesos"
+  ],
+  "ans": 1,
+  "why": "El neumoperitoneo con CO2 sube la presión intraabdominal, causa hipercapnia y estimula el vago. Así puede producir bradi- o taquiarritmias, y la enfermedad cardiaca descompensada es una contraindicación (relativa) de la laparoscopia. Las demás no la contraindican. Giménez recomienda el abordaje laparoscópico en la peritonitis purulenta generalizada (Hinchey III). Sabiston dice que la laparoscopia es segura en cualquier trimestre del embarazo. La diabetes y la obesidad no son contraindicaciones; en la obesidad incluso es la vía de elección (cirugía bariátrica).",
+  "fuentes": [
+   "Giménez, Cirugía 2.ª ed., p. 684 del PDF",
+   "Sabiston 21.ª ed., p. 2057 del PDF",
+   "Optimizing Anesthetic Management for Laparoscopic Surgery: A Comprehensive Review, 2024 (PMC11587640)"
+  ],
+  "tema": "laparoscopia",
+  "nota": "Clave original: B (aula virtual). Se llega a B por descarte con fuentes; ningún libro de la carpeta nombra la 'arritmia' textualmente como contraindicación. Una revisión de anestesia (PMC11587640) cita el 1.er trimestre como contraindicación, pero Sabiston (SAGES, fuerte) dice que la laparoscopia es segura en cualquier trimestre."
+ },
+ {
+  "k": "003-a1",
+  "agregada": true,
+  "despues_de": "725fd8c138",
+  "estado": "dudosa",
+  "stem": "En relación al catgut crómico es cierto, excepto:",
+  "opts": [
+   "Se absorbe por proteólisis en aproximadamente 70 días",
+   "Su velocidad de reabsorción se altera en procesos infecciosos",
+   "Es multifilamento",
+   "Se emplea en cierre de mucosas, TCSC o ligar vasos.",
+   "Causa una reacción tisular importante"
+  ],
+  "ans": null,
+  "why": "El catgut se absorbe por digestión enzimática (proteólisis) y produce una reacción tisular severa (Boros). Se usa en mucosas, tejido celular subcutáneo y para ligar vasos (Archundia, Boros). Según Boros, el catgut simple se absorbe en ~70 días y el crómico en ~90 días, así que A sería la falsa (clave del aula). Pero Archundia da 70-90 días para el catgut \"simple o cromado\", lo que vuelve aceptable \"aproximadamente 70 días\". Además, que sea \"multifilamento\" (C) también se discute: Boros dice que se fabrica en monofilamento y multifilamento. Hay dos excepciones defendibles (A y C) y no se puede decidir.",
+  "fuentes": [
+   "Boros, Técnica quirúrgica, p. 5-6 del PDF",
+   "Archundia, Cirugía 1, p. 23 del PDF"
+  ],
+  "tema": "suturas",
+  "nota": "Pregunta 28 del examen, perdida en la extracción. Clave del aula virtual: A (Se absorbe por proteólisis en aproximadamente 70 días)."
+ },
+ {
+  "k": "afc06c63c8",
+  "estado": "confirmada",
+  "stem": "Factores de mal pronóstico en el cierre de las fístulas enterocutáneas, excepto:",
+  "opts": [
+   "Epitelización del tracto",
+   "Transferrina < 200 mg/dl",
+   "Trayecto fistuloso < 1 cm de longitud",
+   "Cavidad de absceso interpuesta",
+   "Continuidad intestinal adherida"
+  ],
+  "ans": 4,
+  "why": "Que el intestino conserve su continuidad es un factor favorable; lo desfavorable es la discontinuidad intestinal (Sabiston, tabla 50.12). Las demás son factores de mal pronóstico: trayecto epitelizado (la \"E\" de FRIEND), transferrina < 200 mg/dl, trayecto corto (< 2 cm) e infección o absceso contiguo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1315-1316 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 472 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Clave original: E (aula virtual)."
+ },
+ {
+  "k": "2896596891",
+  "estado": "confirmada",
+  "stem": "¿En cuál de los siguientes niveles vertebrales continúa el colon sigmoide como recto?",
+  "opts": [
+   "S3",
+   "L1",
+   "L3",
+   "S5",
+   "L2"
+  ],
+  "ans": 0,
+  "why": "Según Latarjet, el colon sigmoide se continúa con el recto a la altura de la tercera vértebra sacra (S3), a unos 13-15 cm del ano. Los niveles lumbares (L1-L3) corresponden a estructuras más altas y S5 queda por debajo de la unión rectosigmoidea.",
+  "fuentes": [
+   "Latarjet, Anatomía humana tomo 2, p. 548 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: A (aula virtual)."
+ },
+ {
+  "k": "6add59d201",
+  "estado": "confirmada",
+  "stem": "El sitio más frecuente de vólvulo es:",
+  "opts": [
+   "Íleon",
+   "Ciego",
+   "Colon transverso",
+   "Yeyuno proximal",
+   "Colon sigmoide"
+  ],
+  "ans": 4,
+  "why": "El vólvulo de sigmoide es el más frecuente del tubo digestivo del adulto. El vólvulo de ciego es mucho menos común que el de sigmoide y aparece en pacientes más jóvenes (ABSITE). El vólvulo de colon transverso es raro, y el del intestino delgado (íleon/yeyuno) se ve sobre todo asociado a malrotación o bridas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E (aula virtual)."
+ },
+ {
+  "k": "b790abdca9",
+  "estado": "confirmada",
+  "stem": "Procedimiento SELECTIVO de elección para pacientes con Hipertensión Portal presinusoidal.",
+  "opts": [
+   "Meso-cava",
+   "Desvascularización esófago-gástrica",
+   "Porto-cava L-L",
+   "Esplenorrenal central",
+   "Derivación esplenorrenal distal"
+  ],
+  "ans": 4,
+  "why": "La derivación esplenorrenal distal (Warren) es una derivación selectiva: descomprime las várices gastroesofágicas y mantiene la perfusión portal del hígado. Sabiston la señala como buena opción en la hipertensión portal no cirrótica; en la esquistosomiasis (presinusoidal) dio menos encefalopatía que la esplenorrenal convencional. La meso-cava, la porto-cava laterolateral y la esplenorrenal central son derivaciones no selectivas. La desvascularización no es una derivación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1473-1474 del PDF",
+   "Sabiston 21.ª ed., p. 1184 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: E (aula virtual)."
+ },
+ {
+  "k": "5b164d9bb9",
+  "estado": "dudosa",
+  "stem": "La presentación más común del divertículo de Meckel en un adulto es:",
+  "opts": [
+   "Hernia de Littre",
+   "Intususcepción",
+   "No se presenta en adultos",
+   "Diverticulitis",
+   "Sangrado gastrointestinal"
+  ],
+  "ans": null,
+  "why": "La hemorragia digestiva es la presentación más frecuente del Meckel en niños pequeños. Una revisión sobre Meckel en adultos (Blouhos 2018) dice que en el adulto el sangrado es raro y que las complicaciones más comunes son la obstrucción intestinal y la diverticulitis. Sabiston también indica que la diverticulitis es más común en adultos. La clave original (sangrado) no se sostiene para el adulto. Pero entre las opciones no está \"obstrucción\" y la evidencia no decide entre diverticulitis e intususcepción (una causa de obstrucción). Por eso queda dudosa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Blouhos K et al. Meckel's Diverticulum in Adults: Surgical Concerns. Front Surg 2018 (PMC6129587)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E, Sangrado gastrointestinal (aula virtual). La fuente lo contradice para adultos."
+ },
+ {
+  "k": "b93901efa3",
+  "estado": "confirmada",
+  "stem": "Una mujer de 65 años sufre fiebre y dolor abdominal. El examen físico muestra dolor y malestar epigástrico intenso. También tenía leucocitosis y pruebas de función hepática elevadas. La ecografía confirma la presencia de un absceso hepático de 6,5 cm. El absceso es unilocular. ¿Qué lóbulo es de localización más común de abscesos?",
+  "opts": [
+   "Caudado",
+   "Izquierdo + Caudado",
+   "Izquierdo",
+   "Derecho",
+   "Bilateral"
+  ],
+  "ans": 3,
+  "why": "Giménez indica que la localización más frecuente del absceso hepático es el lóbulo derecho. Este lóbulo es más grande y recibe la mayor parte del flujo portal (sobre todo de la mesentérica superior). El lóbulo izquierdo, el caudado y la afectación bilateral son menos frecuentes.",
+  "fuentes": [
+   "Giménez, Cirugía 2.ª ed., p. 474 del PDF"
+  ],
+  "tema": "higado",
+  "nota": "Clave original: D (aula virtual)."
+ },
+ {
+  "k": "ae3fd2758d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre las indicaciones del colangiograma transhepático percutáneo (PTC)?",
+  "opts": [
+   "Se ha demostrado que el drenaje preoperatorio en pacientes con tumores potencialmente resecables reduce las complicaciones de la cirugía en estudios de cohortes.",
+   "El drenaje preoperatorio en pacientes con potencial obstrucción maligna del conducto biliar común (CBC) es mejor reservado para ciertos pacientes, que tienen colangitis aguda, o prurito intenso, cuando la cirugía puede ser retrasada.",
+   "Por lo general, el PTC no puede ayudar a desviar la bilis del lugar de una fuga biliar, por ejemplo, después de una colecistectomía.",
+   "La sepsis nunca es una indicación para un intento de aliviar una obstrucción del conducto biliar.",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "Sabiston: el drenaje biliar preoperatorio no es rutinario. Aumenta las complicaciones infecciosas de la resección, así que se reserva para casos seleccionados (bilirrubina muy alta, cirugía que se va a retrasar, colangitis o prurito intenso). Por eso A es falsa. C es falsa: el drenaje transhepático sí sirve para derivar la bilis y tratar fugas biliares. D es falsa: la colangitis o sepsis por obstrucción es justamente una indicación urgente de drenaje.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1544 del PDF",
+   "Sabiston 21.ª ed., p. 299 del PDF"
+  ],
+  "tema": "via-biliar",
+  "nota": "Clave original: B (aula virtual)."
+ },
+ {
+  "k": "5179848ad9",
+  "estado": "confirmada",
+  "stem": "A un paciente de 65 años se le realizó una colangiografía percutánea por un paciente diagnosticado de colangitis. La colangiografía intraprocedimiento revela múltiples dilataciones ductales intrahepáticas difusas del árbol biliar. Por el contrario, no hay anomalías en el sistema biliar extrahepático. No hay obstrucción biliar. ¿Qué tipo de anomalía biliar está presente?",
+  "opts": [
+   "Quistes biliares tipo I",
+   "Colangitis esclerosante primaria",
+   "Enfermedad de Caroli",
+   "Quistes biliares tipo IVB",
+   "Quistes biliares tipo II"
+  ],
+  "ans": 2,
+  "why": "La enfermedad de Caroli (quiste tipo V) afecta solo a los conductos intrahepáticos, con dilataciones múltiples y difusas, y suele complicarse con colangitis. El tipo I es una dilatación fusiforme del colédoco (extrahepática) y el tipo II es un divertículo del colédoco. El tipo IVB son quistes extrahepáticos múltiples, y el IVA afecta a ambos territorios. La colangitis esclerosante da estenosis y dilataciones \"en rosario\", también extrahepáticas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1528 del PDF",
+   "Sabiston 21.ª ed., p. 1502 del PDF"
+  ],
+  "tema": "via-biliar",
+  "nota": "Clave original: C (aula virtual)."
+ },
+ {
+  "k": "4d2cab9654",
+  "estado": "confirmada",
+  "stem": "Un hombre de 61 años acude a urgencias por hematemesis que empezó 90 minutos antes. Consume grandes volúmenes de alcohol durante los últimos 20 años y ha sido ingresado muchas veces por intoxicación. Los hallazgos clínicos sugieren ictericia en piel e ictericia escleral. El examen de su abdomen revela un bazo palpable y ascitis. La gastroesofagoscopia superior muestra várices esofágicas sangrantes. Lo más probable es que la hemorragia de este paciente se deba a una derivación crónica de la sangre portal a la circulación sistémica a través de cuál de las siguientes venas?",
+  "opts": [
+   "Esplénica",
+   "Gastroduodenal superficial",
+   "Gástrica izquierda",
+   "Paraumbilical",
+   "Epigástrica superficial"
+  ],
+  "ans": 2,
+  "why": "Las várices esofágicas se forman porque la hipertensión portal se transmite por la vena gástrica izquierda (coronaria estomáquica) hacia las venas esofágicas, que drenan a la ácigos (Sabiston). Las paraumbilicales y epigástricas dan la cabeza de medusa y no várices esofágicas. La esplénica alimenta las várices gástricas por las gástricas cortas. La \"gastroduodenal superficial\" no es una vía de derivación portosistémica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1259 del PDF",
+   "Latarjet, Anatomía humana tomo 2, p. 448 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: C (aula virtual)."
+ },
+ {
+  "k": "003-a2",
+  "agregada": true,
+  "despues_de": "4d2cab9654",
+  "estado": "confirmada",
+  "stem": "Mientras estás trabajando en un hospital tú encuentras a una víctima adulta que ha colapsado. Nadie está disponible para ayudar. Después de asegurar que la escena es segura, ¿qué debes hacer a continuación?",
+  "opts": [
+   "Realizar RCP durante 1 minuto, luego llamar al 106",
+   "Comprobar si hay falta de respuesta; si la víctima no responde, activar el sistema de respuesta a emergencia (o por teléfono al 106) y obtener un DEA si está disponible",
+   "Llamar al 106 (o activar el sistema de respuesta a emergencia), a continuación, esperar afuera para avisar a los respondedores de emergencia",
+   "Comenzar inmediatamente con el ABC y luego activar el sistema de respuesta a emergencia",
+   "Abrir la vía aérea con un elevador de la mandíbula y realizar barridos con 2 dedos para comprobar si la comida está bloqueando la vía aérea"
+  ],
+  "ans": 1,
+  "why": "En el algoritmo de SVB del adulto de la AHA, después de verificar que la escena es segura se comprueba si la víctima responde. Si no responde, se pide ayuda o se activa el sistema de emergencias y se consigue un DEA, y luego se comprueba la respiración y el pulso. Hacer 1 minuto de RCP antes de llamar es el orden para niños o paros por asfixia, no para un adulto que colapsa de forma súbita. Esperar afuera retrasa la RCP. La secuencia actual es C-A-B, no ABC. El barrido a ciegas con los dedos no se recomienda.",
+  "fuentes": [
+   "AHA 2020 Guidelines for CPR and ECC, Part 3: Adult Basic and Advanced Life Support, Adult BLS Algorithm (https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms)"
+  ],
+  "tema": "rcp",
+  "nota": "Pregunta 38 del examen, perdida en la extracción. Clave del aula virtual: B."
+ },
+ {
+  "k": "63ac0fc00f",
+  "estado": "dudosa",
+  "stem": "Una paciente es llevada al departamento de emergencias después de pisar un clavo oxidado y sufrir una herida punzante en el pie. El paciente ha recibido una dosis terapéutica de esteroides durante los últimos cinco años para la colitis ulcerosa. Su último refuerzo de toxoide tetánico fue hace ocho años. ¿Cuál de los siguientes debe recibir este paciente ahora?",
+  "opts": [
+   "Refuerzo del toxoide tetánico",
+   "Inmunoglobulina humana",
+   "Toxoide tetánico más inmunoglobulina humana",
+   "Antibióticos con cobertura anaeróbica",
+   "Solo curación de su herida"
+  ],
+  "ans": null,
+  "why": "Es una herida tetanígena (punzante, sucia) con la última dosis hace más de 5 años. En una persona inmunocompetente con esquema completo basta el refuerzo de toxoide (A). Pero el CDC indica también inmunoglobulina antitetánica en heridas sucias de personas con VIH o inmunodeficiencia grave, sea cual sea su historia de vacunación. Esta paciente lleva 5 años con esteroides a dosis terapéuticas, lo que puede considerarse inmunosupresión importante, y entonces se defendería C. La pregunta no dice si tiene el esquema primario completo ni si se considera inmunodeficiencia grave. Por eso A y C son defendibles.",
+  "fuentes": [
+   "CDC, Clinical Guidance for Wound Management to Prevent Tetanus (https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html)",
+   "Sabiston 21.ª ed., p. 516 del PDF"
+  ],
+  "tema": "iso",
+  "nota": "Clave original: A (aula virtual). Si no se toma en cuenta la corticoterapia crónica, A es lo que indica el CDC."
+ },
+ {
+  "k": "ff57ac2b6f",
+  "estado": "confirmada",
+  "stem": "Un adolescente de 17 años es apuñalado en el séptimo espacio intercostal izquierdo, línea axilar media. Acude a emergencia con una FC: 86 latidos/minuto, PA: 125/74 mm Hg y Sat. O2: 98%. Los sonidos respiratorios son iguales bilateralmente. ¿Cuál de los siguientes es el paso más apropiado en su evaluación?",
+  "opts": [
+   "Tubo de toracostomía izquierda",
+   "Laparoscopia diagnóstica",
+   "Exploración local de la herida",
+   "Lavado peritoneal diagnóstico",
+   "Pericardiocentesis"
+  ],
+  "ans": 1,
+  "why": "Es una herida penetrante toracoabdominal izquierda en un paciente estable y sin neumotórax. El riesgo es una lesión del diafragma que pasa inadvertida (y luego una hernia diafragmática). Según el ABSITE, se observa por peritonitis y luego se hace laparoscopia diagnóstica para descartar la lesión diafragmática. El tubo de tórax no está indicado (murmullo simétrico, saturación normal), y la exploración local o el LPD no descartan bien una lesión del diafragma. La pericardiocentesis no corresponde porque no hay signos de taponamiento.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 248 del PDF",
+   "Sabiston 21.ª ed., p. 561 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Clave original: B (aula virtual)."
+ },
+ {
+  "k": "723916050d",
+  "estado": "dudosa",
+  "stem": "Un niño de 3 años que pesa 16 kg (35,3 libras) presenta quemaduras de segundo y tercer grado en la parte anterior del tronco, la parte superior de la espalda y el brazo derecho, después de sacarse una olla grande de agua hirviendo de la estufa sobre sí mismo. Esta es una quemadura del 23% de la superficie corporal total. La reanimación con líquidos se inicia según la fórmula de Parkland. Al reevaluar a este paciente 3 horas después de comenzar la reanimación con líquidos, ¿cuál sería una producción de orina adecuada?",
+  "opts": [
+   "1,25 ml / kg / hora",
+   "1,5 ml / kg / hora",
+   "2,0 ml / kg / hora",
+   "0,25 ml / kg / hora",
+   "0,75 ml / kg / hora"
+  ],
+  "ans": null,
+  "why": "Sabiston fija como objetivo de diuresis en la reanimación del quemado 0,5 ml/kg/h en adultos y 1,0 ml/kg/h en niños. 1 ml/kg/h en niños también es un indicador adecuado de perfusión renal. La clave original (0,75 ml/kg/h) está por debajo del objetivo pediátrico, así que sería insuficiente. 0,25 es claramente baja y 2,0 sugiere sobrerreanimación. Pero 1,25 y 1,5 ml/kg/h superan ambas el objetivo de 1 ml/kg/h, y la evidencia no permite elegir solo una.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 y 523 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: E, 0,75 ml/kg/h (aula virtual). Sabiston la contradice: en niños el objetivo es 1 ml/kg/h."
+ },
+ {
+  "k": "e2875cac52",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años con hipertensión, diabetes mellitus e hiperlipidemia se presenta con dolor abdominal epigástrico intenso durante tres días asociado con vómitos. Su lipasa se encuentra extremadamente elevada y la TC muestra pancreatitis necrotizante aguda. Los médicos encuentran decoloración debido a la equimosis en sus flancos. ¿Cuál es el nombre de este hallazgo?",
+  "opts": [
+   "N.A",
+   "Signo Strasberg",
+   "Signo de Cullen",
+   "Signo de Bryant",
+   "Signo de Grey Turner"
+  ],
+  "ans": 4,
+  "why": "La equimosis en los flancos es el signo de Grey Turner; la periumbilical es el signo de Cullen. Ambos indican hemorragia retroperitoneal en una pancreatitis grave (Sabiston). Strasberg se asocia a la visión crítica de seguridad en la colecistectomía. El signo de Bryant (equimosis escrotal) se describe en el aneurisma aórtico roto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1559 y 1163 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: E (aula virtual)."
+ },
+ {
+  "k": "59d2756109",
+  "estado": "confirmada",
+  "stem": "Un paciente llega al servicio de urgencias después de haber estado en la playa durante los últimos 3 días. Diez horas antes de su llegada, observó una pequeña herida punzante en la planta del pie derecho. Durante las últimas 6 horas, ha notado que el pie le duele, está hinchado y enrojecido, y tiene fiebre y escalofríos. El examen revela un pie enrojecido e hinchado con ampollas pero sin crepitación. Los estudios radiológicos parecen normales, pero el recuento de glóbulos blancos es de 18 000 leucocitos / mm3. ¿Cuál de los siguientes es el más apropiado para el manejo de este paciente?",
+  "opts": [
+   "Hacer una incisión en la ampolla, tomar cultivos y comenzar con antibióticos de amplio espectro.",
+   "Hemocultivos",
+   "Lleve inmediatamente al paciente al quirófano.",
+   "Haga arreglos para una resonancia magnética para evaluar mejor el alcance de la infección.",
+   "Elevar la pierna y administrar antibióticos por vía intravenosa"
+  ],
+  "ans": 2,
+  "why": "Es una infección necrosante de tejidos blandos de evolución rápida, probablemente por Vibrio vulnificus tras exposición marina: ampollas, sepsis y leucocitosis. Sabiston indica que las ampollas son muy específicas de infección necrosante, que la falta de crepitación no la descarta, y que el desbridamiento quirúrgico urgente es la base del tratamiento. Los antibióticos solos, la incisión de la ampolla, los hemocultivos o pedir una RM retrasan la cirugía, y ese retraso aumenta la mortalidad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 250 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 814 del PDF"
+  ],
+  "tema": "piel-partes-blandas",
+  "nota": "Clave original: C (aula virtual)."
+ },
+ {
+  "k": "dd1310c8dc",
+  "estado": "confirmada",
+  "stem": "Un hombre de 52 años con antecedentes médicos de trastorno por consumo de alcohol, hipertensión, diabetes mellitus y tabaquismo de 30 paquetes al año acude al hospital con dolor abdominal, náuseas y vómitos. El paciente refiere dolor abdominal en la región epigástrica. El examen físico muestra dolor a la palpación en la región epigástrica. Los resultados de laboratorio son significativos para una lipasa de 340 U / L. Al paciente se le diagnostica pancreatitis alcohólica aguda y se inicia hidratación con líquidos por vía intravenosa y reposo intestinal. El paciente no mejora incluso después de 7 dias de hospitalización. Las pruebas de laboratorio repetidas muestran un recuento de leucocitos de 14000 / microL y el paciente sigue teniendo dolor abdominal epigástrico a la palpación. La tomografía computarizada del abdomen sugiere un área necrótica en el cuerpo del páncreas con gas en el tejido. ¿Cuál de las siguientes es la mejor terapia antimicrobiana inicial para este paciente?",
+  "opts": [
+   "Cefepime",
+   "Metronidazol",
+   "Imipenem",
+   "Moxifloxacina",
+   "Ciprofloxacino"
+  ],
+  "ans": 2,
+  "why": "Gas en la necrosis pancreática con fiebre/leucocitosis indica necrosis infectada. Sabiston indica que, por su penetración en el páncreas y su amplio espectro, los carbapenémicos (imipenem) son la primera opción. Quinolonas, metronidazol y cefalosporinas son alternativas de segunda línea, y el metronidazol solo no cubre los gramnegativos entéricos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1562-1563 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: C (aula virtual)."
+ },
+ {
+  "k": "cfb80b0171",
+  "estado": "confirmada",
+  "stem": "Se desarrolla una fístula enterocutánea después de la reparación complicada de una hernia incisional en una mujer de 52 años. El paciente está clínicamente estable y la condición de agudeza ha pasado. El sitio de la fístula está en el tercio inferior de la incisión abdominal donde se coloca la malla. Hay una bolsa de estoma en el sitio de la fístula. ¿Cuál es el siguiente mejor paso en el tratamiento de este paciente?",
+  "opts": [
+   "El sitio de la fístula se puede empaquetar para detener la salida y mejorar el cierre.",
+   "Darle albúmina endovenosa para que cierren sus tejidos",
+   "Es probable que la fístula no se cierre espontáneamente, se necesitará otra cirugía cuando el tejido de cicatrización aguda de la cavidad abdominal madure en aproximadamente 6 semanas",
+   "Continuar con TPN y NPO durante 6 semanas hasta que la fístula se cierre espontáneamente",
+   "Se necesita cirugía inmediata para revertir el proceso lo antes posible."
+  ],
+  "ans": 2,
+  "why": "La malla es un cuerpo extraño (la \"F\" de FRIEND) que impide el cierre espontáneo, así que la fístula necesitará cirugía. El ABSITE indica mantener el tratamiento conservador al menos 6 semanas antes de reoperar, porque operar antes aumenta la mortalidad y la recidiva. Sabiston también pide una convalecencia mayor de 6 semanas. La cirugía inmediata está contraindicada. Esperar el cierre espontáneo con NPT es poco probable con malla, la albúmina no cierra la fístula y empaquetarla no está indicado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 472 del PDF",
+   "Sabiston 21.ª ed., p. 1315 y 1317 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Clave original: C (aula virtual)."
+ }
+]

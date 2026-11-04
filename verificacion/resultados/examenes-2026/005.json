@@ -740,7 +740,7 @@
     "tema": "esofago-estomago"
    },
    {
-    "estado": "dudosa",
+    "estado": "confirmada",
     "stem": "Paciente de 60 años de edad acude por consultorio externo de cirugía presentando regurgitación, disfagia y pirosis de 5 años de evolución. Los síntomas mejoran levemente con la ingesta de IBP. Señale lo correcto:",
     "opts": [
      "El primer examen que se solicita es una radiografía de esófago a doble contraste, para encontrar signos radiológicos de hernia hiatal",
@@ -749,13 +749,15 @@
      "La endoscopia no nos ayuda para el diagnóstico de hernia hiatal tipo I",
      "El tratamiento de la hernia hiatal es quirúrgico para restablecer la barrera esofágica"
     ],
-    "ans": null,
-    "why": "La clave esperada es E: en un paciente con ERGE y síntomas persistentes a pesar del tratamiento médico, el Sabiston recomienda considerar seriamente la cirugía antirreflujo (reparar el hiato y hacer una funduplicatura). Pero la E, tal como está escrita, generaliza en exceso: el mismo libro afirma que una hernia de hiato deslizante tipo I aislada no es indicación quirúrgica y que muchas no requieren tratamiento. La B, la C y la D son claramente falsas (la tipo II es paraesofágica y quirúrgica; la endoscopia sí muestra la hernia tipo I). La A tampoco es correcta, porque en un paciente de 60 años con 5 años de síntomas la evaluación empieza por la endoscopia. Ninguna opción es correcta sin reservas.",
+    "ans": 4,
+    "why": "En una hernia hiatal sintomática con ERGE que responde solo parcialmente a los IBP, el tratamiento es quirúrgico (reparación del hiato y funduplicatura), que restablece la barrera antirreflujo. La endoscopia sí ayuda: Sabiston indica que es esencial en la evaluación y que el endoscopista debe buscar y medir la hernia (D falsa). La hernia tipo II (paraesofágica) es quirúrgica, no se trata con IBP (B falsa); insistir con IBP sin respuesta no es correcto (C), y ante disfagia el estudio inicial es la endoscopia, aunque el esofagograma complementa la anatomía (A).",
     "fuentes": [
-     "Sabiston 21.ª ed., p. 1080 del PDF",
-     "Sabiston 21.ª ed., p. 1081 del PDF"
+     "Sabiston 21.ª ed., p. 1081 del PDF",
+     "Sabiston 21.ª ed., p. 1085 del PDF",
+     "Sabiston 21.ª ed., p. 1097 del PDF",
+     "Sabiston 21.ª ed., p. 1080 del PDF"
     ],
-    "nota": "Clave resaltada en el original: E.",
+    "nota": "Clave resaltada en el original: E. Sabiston p. 1080: en la ERGE con síntomas persistentes a pesar del tratamiento médico debe considerarse seriamente la cirugía antirreflujo. Ojo: una hernia tipo I asintomática no se opera (p. 1081).",
     "tema": "esofago-estomago"
    },
    {

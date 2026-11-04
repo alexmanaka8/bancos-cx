@@ -183,7 +183,7 @@ def estado():
 
 
 if __name__ == '__main__':
-    a = sys.argv[1:]
+    a = sys.argv[1:] or ['ayuda']
     if a[0] == 'lotes':
         lotes(a[1], int(a[a.index('--tam') + 1]) if '--tam' in a else 20, '--alto' in a)
     elif a[0] == 'original':
@@ -194,3 +194,5 @@ if __name__ == '__main__':
         unir(a[1])
     elif a[0] == 'estado':
         estado()
+    else:
+        print(__doc__)

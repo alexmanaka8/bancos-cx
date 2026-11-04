@@ -1,0 +1,372 @@
+[
+ {
+  "k": "926dbfd8ea",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "Las células protagonistas y predominantes durante la primera fase de la cicatrización es/son:",
+  "opts": [
+   "Plaquetas",
+   "Macrófagos",
+   "Fibroblastos",
+   "Queratinocitos",
+   "A y B"
+  ],
+  "ans": 4,
+  "why": "La primera fase (hemostasia + inflamación) empieza con las plaquetas, que forman el tapón y liberan factores de crecimiento, y sigue con las células inflamatorias; entre ellas el macrófago es la célula clave (Sabiston: neutrófilos y macrófagos predominan en la fase inflamatoria). Por eso 'plaquetas y macrófagos' resume mejor la primera fase. Los fibroblastos predominan en la fase proliferativa y los queratinocitos actúan en la epitelización.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 144 del PDF",
+   "Sabiston 21.ª ed., p. 146 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 493 del PDF"
+  ],
+  "nota": "Resaltado en el original: E. Los neutrófilos, también predominantes en las primeras 48 h, no figuran entre las opciones."
+ },
+ {
+  "k": "e3f394c037",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "La primera fase de la cicatrización se divide en las siguientes subfases:",
+  "opts": [
+   "Colágena y inflamatoria",
+   "Hemostasia e inflamatoria",
+   "Inflamatoria y fibroplástica",
+   "Hemostasia y fibroplástica"
+  ],
+  "ans": 1,
+  "why": "Sabiston describe la fase inflamatoria con dos procesos seguidos: la hemostasia (vasoconstricción, tapón plaquetario, coágulo de fibrina) y la inflamación. La fibroplasia y el depósito de colágeno pertenecen a la segunda fase (proliferativa), por eso las demás opciones no son correctas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 143 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "nota": "Resaltado en el original: B."
+ },
+ {
+  "k": "7a2167babc",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "La matriz extracelular está formada principalmente por los siguientes tipos de colágeno:",
+  "opts": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "a + c"
+  ],
+  "ans": 4,
+  "why": "En la piel adulta el colágeno es aproximadamente 80% tipo I y 20% tipo III, y en la matriz de la herida primero se deposita colágeno tipo III y luego tipo I. El tipo II es propio del cartílago y el tipo IV forma la membrana basal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 151 del PDF"
+  ],
+  "nota": "Resaltado en el original: E."
+ },
+ {
+  "k": "037aa1453d",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "En una cicatriz madura, el tipo de colágeno predominante es:",
+  "opts": [
+   "I",
+   "II",
+   "III",
+   "IV"
+  ],
+  "ans": 0,
+  "why": "El colágeno tipo III forma la matriz inicial y durante la remodelación es reemplazado por colágeno tipo I, que da la resistencia a la cicatriz. El tipo II es del cartílago y el tipo IV de la membrana basal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 151 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "nota": "Resaltado en el original: A."
+ },
+ {
+  "k": "806bdb9786",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "La fase de maduración inicia y termina:",
+  "opts": [
+   "24 h – 72 h",
+   "48 h – 72 h",
+   "24 – 48 h",
+   "6 semanas – mayor a 1 año",
+   "6 semanas – 8 semanas"
+  ],
+  "ans": 3,
+  "why": "La maduración (remodelación) comienza cuando termina la fase proliferativa, a las 3–6 semanas, y dura meses o años: la fuerza de la herida aumenta de 1 a 6 semanas y luego se estabiliza hasta 1 año. Los intervalos en horas corresponden a la fase inflamatoria, y '6 a 8 semanas' es demasiado corto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 150 del PDF",
+   "Sabiston 21.ª ed., p. 154 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 493 del PDF"
+  ],
+  "nota": "Faltaba la opción E en la extracción. El resaltado del original parece estar en A (24–72 h), que es incorrecta. Los libros sitúan el inicio entre la 3.ª y la 6.ª semana (ABSITE: días 21–365); D es la única opción compatible con una duración de meses a más de 1 año."
+ },
+ {
+  "k": "b7dfe97f2b",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "Algunos de los objetivos de la segunda fase de la cicatrización son:",
+  "opts": [
+   "Remoción de tejido lesionado y desvitalizado",
+   "Restauración de la cobertura epidérmica",
+   "Producción de matriz extracelular",
+   "Todas menos a",
+   "Todas"
+  ],
+  "ans": 3,
+  "why": "La segunda fase (proliferativa) repara la herida mediante angiogenia, fibroplasia (producción de matriz extracelular y colágeno) y epitelización. Retirar el tejido necrótico, los restos y las bacterias es tarea de la primera fase (inflamatoria).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 143 del PDF",
+   "Sabiston 21.ª ed., p. 149 del PDF"
+  ],
+  "nota": "Resaltado en el original: D."
+ },
+ {
+  "k": "570d9bb9d6",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "Es/Son características de la cicatriz queloide:",
+  "opts": [
+   "Se mantiene dentro de sus bordes originales",
+   "Inicia algunas semanas posterior a la lesión",
+   "Hay presencia de contractura",
+   "Regresión espontánea al año",
+   "Ninguna"
+  ],
+  "ans": 4,
+  "why": "Todas las opciones describen la cicatriz hipertrófica, no el queloide. La hipertrófica queda dentro de los bordes, aparece a las 4–8 semanas de la lesión, se asocia a contractura e involuciona sola. El queloide sobrepasa los bordes, puede aparecer meses o años después (incluso tras lesiones mínimas) y rara vez involuciona.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 155 del PDF",
+   "Gauglitz GG et al. Hypertrophic scarring and keloids. Mol Med 2011;17:113-125, tabla 1 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3022978/)"
+  ],
+  "nota": "Resaltado en el original: B. Según la evidencia, aparecer 'algunas semanas' después es propio de la cicatriz hipertrófica; la pregunta 8 del mismo examen usa 'inicia meses después' como rasgo del queloide."
+ },
+ {
+  "k": "9d33b18a73",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "Es/Son características de la cicatriz hipertrófica:",
+  "opts": [
+   "Presenta mala respuesta al tratamiento quirúrgico",
+   "Inician meses después de la lesión",
+   "Ausencia de contractura",
+   "a + b",
+   "Ninguna"
+  ],
+  "ans": 4,
+  "why": "Las tres afirmaciones son del queloide. La cicatriz hipertrófica responde mejor a la extirpación (recidiva baja), aparece a las 4–8 semanas de la lesión y con frecuencia se acompaña de contractura. Por eso ninguna describe a la hipertrófica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 155 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF",
+   "Gauglitz GG et al. Hypertrophic scarring and keloids. Mol Med 2011;17:113-125, tabla 1 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3022978/)"
+  ],
+  "nota": "Resaltado en el original: E."
+ },
+ {
+  "k": "ff2e8edd8f",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuánto tiempo se debe dejar de fumar para disminuir el riesgo de las complicaciones que conlleva el hábito tabáquico?",
+  "opts": [
+   "3 semanas",
+   "4 semanas",
+   "2 meses",
+   "6 meses"
+  ],
+  "ans": 1,
+  "why": "El tabaco produce vasoconstricción e hipoxia que retrasan la cicatrización. Sabiston indica que se necesitan al menos 4 semanas de abstinencia antes de la operación (en otro capítulo, 4 a 6 semanas). 3 semanas es menos de lo recomendado; 2 y 6 meses no son el mínimo que se pide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1958 del PDF",
+   "Sabiston 21.ª ed., p. 459 del PDF"
+  ],
+  "nota": "Resaltado en el original: B."
+ },
+ {
+  "k": "670395afd1",
+  "estado": "nueva",
+  "tema": "cicatrizacion",
+  "stem": "La corticoterapia sistémica influye directamente en la cicatrización. ¿El uso de qué vitamina revierte estos efectos?",
+  "opts": [
+   "Vit A",
+   "Vit B",
+   "Vit C",
+   "Vit E",
+   "Ninguna"
+  ],
+  "ans": 0,
+  "why": "La vitamina A contrarresta el efecto inhibidor de los esteroides (y de la radiación) sobre la cicatrización, aunque el paciente no tenga déficit de vitamina A. La vitamina C es cofactor de la síntesis de colágeno, pero no revierte el efecto de los corticoides; la vitamina E en exceso incluso retrasa la cicatrización.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 161 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 493 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 498 del PDF"
+  ],
+  "nota": "Resaltado en el original: A."
+ },
+ {
+  "k": "c336d9ebba",
+  "estado": "confirmada",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la terapia de oxígeno hiperbárico (TOHB) y las heridas?",
+  "opts": [
+   "La oxigenoterapia hiperbárica (OHB) se ha adoptado ampliamente en los hospitales de todo Estados Unidos.",
+   "El tratamiento con oxígeno tópico (TOT) es tan eficaz como la OHB para heridas que afectan al hueso.",
+   "Las mediciones transcutáneas de oxígeno (TCOM) son útiles para predecir la cicatrización de heridas con OHB.",
+   "La OHB disminuye la tasa de amputaciones mayores en pacientes con úlceras del pie diabético.",
+   "La OHB suele tardar al menos 6 meses en mostrar eficacia."
+  ],
+  "ans": 2,
+  "why": "Las TCOM tomadas después de la OHB predicen bien la respuesta: las úlceras de pie diabético con TCOM > 200 mmHg curaron el 90% de las veces. La OHB todavía no se ha adoptado ampliamente (por su costo y su eficacia irregular). El oxígeno tópico no penetra en el hueso. La OHB no redujo las amputaciones mayores, y su beneficio se vio a las 6 semanas, no al año.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 496 del PDF"
+  ],
+  "nota": "Clave original: C (respuestas del documento)."
+ },
+ {
+  "k": "8ea5c74d02",
+  "estado": "confirmada",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las úlceras del pie diabético?",
+  "opts": [
+   "El riesgo a lo largo de la vida de que un paciente con diabetes desarrolle una úlcera en el pie es de aproximadamente el 5%.",
+   "Se deben principalmente a la oclusión trombótica de la vasculatura distal.",
+   "Debe evitarse el desbridamiento enzimático de las úlceras del pie diabético.",
+   "Debe evitarse el desbridamiento cortante de las úlceras del pie diabético.",
+   "Las férulas (yesos) de contacto total pueden utilizarse en las úlceras del pie diabético para favorecer la cicatrización."
+  ],
+  "ans": 4,
+  "why": "La descarga es fundamental, y el yeso de contacto total no removible es el método de referencia (contraindicado si hay isquemia, infección activa u osteomielitis). El riesgo de úlcera a lo largo de la vida es de alrededor del 25%, no del 5%. La causa principal es la neuropatía periférica, no la trombosis. Los desbridamientos cortante, enzimático, biológico y autolítico son todos aceptables.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 494 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 496 del PDF"
+  ],
+  "nota": "Clave original: E (respuestas del documento). La opción A estaba cortada en la extracción; se completó con el original. Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ },
+ {
+  "k": "bd66c8b8d3",
+  "estado": "confirmada",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los apósitos para heridas?",
+  "opts": [
+   "Los apósitos de miel no están indicados en heridas con esfacelo o tejido necrótico.",
+   "Los apósitos de alginato de calcio son ideales en heridas con gran cantidad de exudado.",
+   "Los apósitos húmedo-secos siguen siendo el estándar de oro de los apósitos en la mayoría de los casos.",
+   "Los apósitos que retienen la humedad presentan tasas de infección similares a las de los apósitos de gasa.",
+   "Los hidrogeles con plata se pueden utilizar en combinación con agentes desbridantes enzimáticos."
+  ],
+  "ans": 1,
+  "why": "Los alginatos y las espumas absorben hasta 20 veces su peso, por eso sirven en heridas muy exudativas. La miel de grado médico se usa precisamente para retirar esfacelo y tejido necrótico. El apósito húmedo-seco es una estrategia obsoleta que desbrida sin seleccionar. Los apósitos que retienen la humedad tienen menos infecciones que la gasa. Los hidrogeles pueden inactivar a los desbridantes enzimáticos.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 494 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 496 del PDF"
+  ],
+  "nota": "Clave original: B (respuestas del documento). Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ },
+ {
+  "k": "1a5b55929c",
+  "estado": "confirmada",
+  "tema": "nutricion",
+  "stem": "Una mujer de 22 años con antecedente de herida de bala en el abdomen que requirió múltiples resecciones intestinales recibe nutrición parenteral total (NPT) crónica por síndrome de intestino corto. Acude a control y refiere que ha comenzado a perder el cabello y que le han aparecido múltiples hematomas en brazos y piernas. Además, presenta una erupción cutánea difusa y escamosa, y piel seca. ¿De cuál de los siguientes nutrientes u oligoelementos es probable que tenga deficiencia?",
+  "opts": [
+   "Cobre",
+   "Vitamina C",
+   "Ácido linoleico",
+   "Zinc",
+   "Selenio"
+  ],
+  "ans": 2,
+  "why": "Es un déficit de ácidos grasos esenciales (ácido linoleico) por NPT prolongada: produce un exantema más escamoso con piel seca, y la alopecia y la trombocitopenia (hematomas) se asocian más a este déficit. El zinc da exantema perioral e intertriginoso, alteración del gusto y ceguera nocturna. El cobre produce anemia resistente al hierro, leucopenia y signos neurológicos. El selenio causa miocardiopatía. La vitamina C produce escorbuto (encías sangrantes, dientes flojos).",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 494 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "nota": "Clave original: C (respuestas del documento). La traducción del documento decía '10 años' y repetía el comienzo de la frase; el libro dice 22 años. Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ },
+ {
+  "k": "daf86b08db",
+  "estado": "confirmada",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la cicatrización de heridas es verdadera?",
+  "opts": [
+   "La angiogénesis es el principal factor que contribuye al eritema observado en las heridas.",
+   "El dolor en las primeras 48 horas se debe a los fibroblastos recién activados que intentan contraer los bordes de la herida.",
+   "A las 48 horas, las células fagocíticas predominan en la herida.",
+   "En las primeras 36 horas, los macrófagos son las células predominantes en la herida.",
+   "Si bien el eritema y el dolor pueden ser normales, la induración suele ser patológica."
+  ],
+  "ans": 2,
+  "why": "Durante las primeras 48 h predominan los neutrófilos, que fagocitan bacterias y tejido muerto, y luego los reemplazan los macrófagos: en ambos casos son células fagocíticas. El eritema se debe a la vasodilatación y al infiltrado de líquido y células, no a la angiogénesis. El dolor inicial se debe a los cambios de pH y a la destrucción tisular. En las primeras 36 h predominan los neutrófilos, no los macrófagos. El calor y el edema (induración) son normales en la inflamación.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF",
+   "Sabiston 21.ª ed., p. 144 del PDF"
+  ],
+  "nota": "Clave original: C (respuestas del documento). Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ },
+ {
+  "k": "f356dabc03",
+  "estado": "dudosa",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a los queloides y/o las cicatrices hipertróficas?",
+  "opts": [
+   "Los queloides se asocian con un aumento del depósito de colágeno.",
+   "La radioterapia a dosis bajas es un mejor complemento para el tratamiento de las cicatrices hipertróficas.",
+   "Los queloides pueden aparecer años después de una lesión menor.",
+   "Los queloides son mucho más frecuentes que las cicatrices hipertróficas después de quemaduras.",
+   "Las cicatrices hipertróficas tienden a extenderse más allá de los bordes de la herida con el tiempo."
+  ],
+  "ans": null,
+  "why": "El libro de preguntas da como clave C: los queloides pueden aparecer años después de una lesión menor, y la revisión de Gauglitz lo confirma. Sin embargo, la A también es verdadera: la propia explicación del ABSITE dice que queloides y cicatrices hipertróficas se deben a un mayor depósito de colágeno, y Sabiston las define por un 'depósito neto excesivo de colágeno'. B, D y E son falsas: la radioterapia a dosis bajas se usa tras extirpar queloides, las quemaduras producen sobre todo cicatrices hipertróficas, y son los queloides los que sobrepasan los bordes. Con dos opciones verdaderas, la pregunta no tiene una sola respuesta.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF",
+   "Sabiston 21.ª ed., p. 154 del PDF",
+   "Gauglitz GG et al. Hypertrophic scarring and keloids. Mol Med 2011;17:113-125, tabla 1 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3022978/)"
+  ],
+  "nota": "Sin clave en el banco; en el original está marcada la C (y es la clave del ABSITE). La extracción perdió las opciones B a E y la traducción del documento estaba alterada ('hidratación baja en sodio' en lugar de 'radiación a dosis bajas'). Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ },
+ {
+  "k": "acce5c0cb5",
+  "estado": "confirmada",
+  "tema": "cicatrizacion",
+  "stem": "Un niño de 12 años con desnutrición severa presenta múltiples manchas pigmentadas en ambos muslos, sangrado gingival, dientes flojos y ausentes, y varias heridas exudativas. Llegó recientemente como refugiado de un país subdesarrollado. Su historia médica es escasa. Su dieta consistía principalmente en cereales cocidos. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la deficiencia vitamínica más probable en este paciente?",
+  "opts": [
+   "Desempeña un papel esencial en la síntesis de proteoglicanos.",
+   "El retraso en la cicatrización de heridas se debe a la falta de hidroxilación de la lisina y la prolina durante la síntesis de colágeno.",
+   "No afecta la absorción de hierro.",
+   "Se ha demostrado en animales que su administración exógena tiene un efecto similar al de los corticosteroides en la cicatrización de heridas.",
+   "Tras la hidroxilación por el hígado y los riñones, ayuda a la mineralización ósea."
+  ],
+  "ans": 1,
+  "why": "Es escorbuto (déficit de vitamina C). La vitamina C es cofactor de la hidroxilación de prolina y lisina; sin ella se forman hélices de colágeno inestables, vasos frágiles y dientes flojos. Participar en la síntesis de proteoglicanos es propio de la vitamina A. La vitamina C sí aumenta la absorción de hierro. El efecto similar al de los corticoides se ha descrito con la vitamina E. La hidroxilación hepática y renal corresponde a la vitamina D.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 498 del PDF",
+   "Sabiston 21.ª ed., p. 151 del PDF",
+   "Sabiston 21.ª ed., p. 152 del PDF"
+  ],
+  "nota": "Clave original: B (respuestas del documento). La traducción decía '1 año'; el libro dice 12 años. Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ },
+ {
+  "k": "002-a1",
+  "agregada": true,
+  "despues_de": "acce5c0cb5",
+  "estado": "confirmada",
+  "tema": "cicatrizacion",
+  "stem": "¿Cuál de las siguientes enfermedades se relaciona correctamente con el tipo de colágeno afectado?",
+  "opts": [
+   "Síndrome de Alport: colágeno tipo III",
+   "Síndrome de Ehlers-Danlos: colágeno tipo VII",
+   "Epidermólisis ampollosa: colágeno tipo VII",
+   "Osteogénesis imperfecta: colágeno tipo II",
+   "Penfigoide ampolloso: colágeno tipo I"
+  ],
+  "ans": 2,
+  "why": "El colágeno tipo VII forma las fibrillas de anclaje que unen la membrana basal a la dermis, y su alteración produce la epidermólisis ampollosa distrófica. El síndrome de Alport afecta al colágeno tipo IV (membrana basal). El Ehlers-Danlos afecta sobre todo a los tipos V (forma clásica) y III. La osteogénesis imperfecta afecta al tipo I. El penfigoide ampolloso afecta al tipo XVII.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 495 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 498 del PDF",
+   "Sabiston 21.ª ed., p. 151 del PDF",
+   "Sabiston 21.ª ed., p. 152 del PDF"
+  ],
+  "nota": "Pregunta 11 de la página 467 del documento ABSITE, que la extracción perdió. En el original está marcada la C, que coincide con la clave del libro. Texto tomado del original del libro (ABSITE, en inglés) porque la traducción automática del documento está alterada."
+ }
+]

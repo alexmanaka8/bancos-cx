@@ -1,7 +1,7 @@
 [
  {
   "k": "0e59bc9448",
-  "estado": "confirmada",
+  "estado": "dudosa",
   "stem": "Durante la inanición los combustibles preferibles por el músculo cardiaco y esquelético son:",
   "opts": [
    "Alanina e histidina",
@@ -9,13 +9,14 @@
    "Arginina y nucleótidos",
    "Lisina y metionina"
   ],
-  "ans": 1,
-  "why": "Los aminoácidos de cadena ramificada (leucina, isoleucina y valina) son la excepción entre los aminoácidos: no se catabolizan en el hígado sino sobre todo en el músculo, que los oxida como fuente de energía; el nitrógeno resultante sale del músculo como alanina y glutamina hacia el hígado. La alanina, la arginina, los nucleótidos, la lisina y la metionina no son combustibles musculares característicos: la alanina es sustrato de la neoglucogénesis hepática y la arginina y los nucleótidos son inmunonutrientes.",
+  "ans": null,
+  "why": "Los libros no respaldan ninguna opción como combustible preferido. El ABSITE dice que en la inanición la mayor fuente de energía son los ácidos grasos libres y que luego se forman cuerpos cetónicos. Sabiston explica que los aminoácidos de cadena ramificada se catabolizan en el músculo, pero no que sean el combustible preferido del corazón y del músculo esquelético. La respuesta fisiológica (ácidos grasos y cuerpos cetónicos) no está entre las opciones.",
   "fuentes": [
    "Sabiston 21.ª ed., p. 124 del PDF",
-   "Sabiston 21.ª ed., p. 1465 del PDF"
+   "Sabiston 21.ª ed., p. 1465 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF"
   ],
-  "nota": "Clave original: B (resaltado). Matiz: en la inanición prolongada el músculo usa sobre todo ácidos grasos y cuerpos cetónicos (Sabiston p. 123), pero entre las opciones dadas solo los AACR son combustible muscular.",
+  "nota": "Clave original: B (aminoácidos de cadena ramificada, resaltado). El Sabiston (p. 124) dice que los AACR se catabolizan en el músculo, pero no que sean su combustible preferido; el ABSITE (p. 444) dice que en la inanición la mayor fuente de energía son los ácidos grasos libres, que no están entre las opciones.",
   "tema": "nutricion"
  },
  {

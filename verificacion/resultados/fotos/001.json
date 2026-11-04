@@ -176,7 +176,7 @@
  },
  {
   "k": "5a39705874",
-  "estado": "dudosa",
+  "estado": "nueva",
   "stem": "El signo de Klein se explica en el diagnóstico diferencial de la apendicitis aguda con la:",
   "opts": [
    "Apendicitis de localización pélvica",
@@ -185,13 +185,14 @@
    "Linfadenitis mesentérica",
    "Obstrucción intestinal por bridas"
   ],
-  "ans": null,
-  "why": "El resaltado (D) corresponde a la descripción clásica: en la linfadenitis mesentérica el dolor se desplaza al poner al paciente en decúbito lateral izquierdo, porque los ganglios y el mesenterio son móviles. Sin embargo, ni Sabiston (tabla 46.1 de signos abdominales), ni Giménez, ni el ABSITE describen el signo de Klein, y en la web solo aparece en bancos de preguntas o en fuentes que lo confunden con el signo de Alder. Sin una fuente fiable, no se puede confirmar la clave.",
+  "ans": 3,
+  "why": "El signo de Klein (1938) es el dolor que cambia de lado: al poner al paciente en decúbito lateral izquierdo, la zona dolorosa se desplaza hacia la izquierda, porque los ganglios mesentéricos inflamados se mueven con el mesenterio. Se describió para diferenciar la adenitis (linfadenitis) mesentérica inespecífica de la apendicitis aguda, en la que el dolor queda fijo en la fosa ilíaca derecha. No se usa para diferenciar la apendicitis pélvica o retrocecal, la colecistitis ni la obstrucción por bridas.",
   "fuentes": [
-   "Sabiston 21.ª ed., p. 1163 del PDF"
+   "Abdominal Physical Signs and Medical Eponyms: Part III. Physical Examination of Palpation, 1926-1976. Clin Med Res 2019 (PMID 31308023; PMC6886893)",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
   ],
   "tema": "apendicitis",
-  "nota": "En la foto aparece resaltada la D (linfadenitis mesentérica), con la nota del alumno 'desplazamiento por ganglios y mesenterio son móviles'."
+  "nota": "Sin clave en el original; en la foto el alumno resaltó D (linfadenitis mesentérica)."
  },
  {
   "k": "1aeda2c434",
