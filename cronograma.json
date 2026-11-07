@@ -1,0 +1,24 @@
+{
+ "curso": "Cirugía I · Generales (UPAO 2026)",
+ "nota": "Los temas de cada semana están en temas.json (campo semana). Un tema puede ir en dos semanas.",
+ "semanas": [
+  {"n": 1, "inicio": "2026-10-26", "fin": "2026-10-30", "titulo": "Bases de la cirugía"},
+  {"n": 2, "inicio": "2026-11-02", "fin": "2026-11-06", "titulo": "Heridas, infección y complicaciones"},
+  {"n": 3, "inicio": "2026-11-09", "fin": "2026-11-13", "titulo": "Paciente crítico: líquidos, nutrición, quemados y shock", "estrella": true},
+  {"n": 4, "inicio": "2026-11-16", "fin": "2026-11-20", "titulo": "Pared abdominal y abdomen agudo"},
+  {"n": 5, "inicio": "2026-11-23", "fin": "2026-11-27", "titulo": "Tubo digestivo"},
+  {"n": 6, "inicio": "2026-11-30", "fin": "2026-12-04", "titulo": "Hígado, vía biliar, páncreas y politrauma", "pesada": true},
+  {"n": 7, "inicio": "2026-12-07", "fin": "2026-12-11", "titulo": "Trauma, bariátrica, trasplantes y ética", "aviso": "Feriados mar 8 y mié 9: se pierden bariátrica y trasplantes, salvo reprogramación."},
+  {"n": 8, "inicio": "2026-12-14", "fin": "2026-12-18", "titulo": "ECOE y examen final", "sinTemas": true}
+ ],
+ "eventos": [
+  {"fecha": "2026-11-06", "nombre": "Examen semana 2"},
+  {"fecha": "2026-11-13", "nombre": "Examen semana 3"},
+  {"fecha": "2026-11-20", "nombre": "Examen semana 4"},
+  {"fecha": "2026-11-27", "nombre": "Examen semana 5"},
+  {"fecha": "2026-12-04", "nombre": "Examen semana 6"},
+  {"fecha": "2026-12-11", "nombre": "Examen semana 7"},
+  {"fecha": "2026-12-14", "nombre": "ECOE (lun 14 – jue 17)"},
+  {"fecha": "2026-12-18", "nombre": "Examen final", "final": true}
+ ]
+}

@@ -13,100 +13,444 @@
 <link rel="icon" href="iconos/favicon-64.png">
 <link rel="stylesheet" href="fuentes/fuentes.css">
 <link rel="stylesheet" href="comun/app.css">
-</head><body>
-<div class="wrap">
-  <header class="hero">
-    <div class="kicker">Cirugía I · Generales</div>
-    <h1>Bancos de preguntas</h1>
-    <p id="resumenTotal">Cargando…</p>
-  </header>
+</head><body class="shell">
 
-  <div id="continuar"></div>
-  <div id="instalar"></div>
+<nav class="nav" aria-label="Secciones">
+  <div class="brand"><img src="iconos/favicon-64.png" alt=""><div><b>Bancos Cx</b><small>Cirugía I · Generales</small></div></div>
+  <a href="#inicio" data-ir="inicio"><svg viewBox="0 0 24 24"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg><span>Inicio</span></a>
+  <a href="#practicar" data-ir="practicar"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" class="fill"/></svg><span>Practicar</span></a>
+  <a href="#simulacro" data-ir="simulacro"><svg viewBox="0 0 24 24"><circle cx="12" cy="13.5" r="7.5"/><path d="M12 9.5v4l2.5 2M9.5 2.5h5M12 2.5V6"/></svg><span>Simulacro</span></a>
+  <a href="#estadisticas" data-ir="estadisticas"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg><span>Estadísticas</span></a>
+  <a href="#bancos" data-ir="bancos"><svg viewBox="0 0 24 24"><path d="M12 3l9 4.5-9 4.5-9-4.5zM3 12l9 4.5 9-4.5M3 16.5l9 4.5 9-4.5"/></svg><span>Bancos</span></a>
+  <a href="#biblioteca" data-ir="biblioteca"><svg viewBox="0 0 24 24"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3H20v15H5.5A1.5 1.5 0 0 0 4 19.5zM4 19.5A1.5 1.5 0 0 0 5.5 21H20v-3"/></svg><span>Biblioteca</span></a>
+</nav>
 
-  <h2 class="section-title" id="tituloTemas" hidden>Estudiar por tema</h2>
-  <p class="muted" id="notaTemas" hidden style="margin:-4px 0 10px;font-size:15px">Las preguntas de todos tus bancos, ordenadas por las clases del sílabo. ⭐ = se repiten entre bancos (alto valor).</p>
-  <div class="temas" id="temas"></div>
-
-  <h2 class="section-title">Bancos</h2>
-  <div class="list" id="bancos"></div>
-
-  <h2 class="section-title" id="tituloBiblio" hidden>Biblioteca</h2>
-  <p class="muted" id="notaBiblio" hidden style="margin:-4px 0 10px;font-size:15px">Resúmenes para leer. Cada documento queda guardado sin internet después de abrirlo una vez.</p>
-  <div class="list" id="biblioteca"></div>
-  <button class="btn ghost block" id="bajarBiblio" type="button" hidden style="margin-top:12px">Guardar toda la biblioteca para usar sin internet</button>
-
-  <footer>
-    <div class="row"><b style="color:var(--ink)">Tu progreso</b> se guarda solo en este celular.</div>
-    <div class="row">
-      <button class="linkbtn" id="exportar" type="button">Hacer copia de seguridad</button>
-      <label class="linkbtn" style="display:inline-flex;align-items:center">Restaurar copia<input type="file" id="importar" accept="application/json,.json" hidden></label>
+<main class="main">
+  <!-- INICIO -->
+  <section class="vista" id="v-inicio">
+    <header class="hero">
+      <div class="kicker">Cirugía I · Generales</div>
+      <h1 id="saludo">Bancos de preguntas</h1>
+      <p id="resumenTotal">Cargando…</p>
+    </header>
+    <div class="cuentas" id="cuentas"></div>
+    <div id="continuar"></div>
+    <div id="semanaHoy"></div>
+    <h2 class="section-title">¿Qué quieres hacer?</h2>
+    <div class="opciones">
+      <a class="opcion o1" href="#practicar/tema"><span class="ico">◎</span><b>Un tema</b><small>Solo las preguntas de un tema del sílabo</small></a>
+      <a class="opcion o2" href="#practicar/semana"><span class="ico">▦</span><b>Por semana</b><small>Los temas de una semana del cronograma</small></a>
+      <a class="opcion o3" href="#practicar/examen"><span class="ico">✎</span><b>Examen a medida</b><small>Tú eliges temas o semanas y cuántas</small></a>
+      <a class="opcion o4" href="#simulacro"><span class="ico">⏱</span><b>Simulacro</b><small>45 preguntas en 25 minutos</small></a>
     </div>
-    <div class="row" id="estadoRed"></div>
-  </footer>
-</div>
+    <h2 class="section-title">Tu avance</h2>
+    <div class="mini-stats" id="miniStats"><p class="muted">Calculando…</p></div>
+    <div id="criticosInicio"></div>
+    <div id="instalar"></div>
+    <footer>
+      <div class="row"><span><b style="color:var(--ink)">Tu progreso</b> se guarda solo en este celular.</span></div>
+      <div class="row">
+        <button class="linkbtn" id="exportar" type="button">Hacer copia de seguridad</button>
+        <label class="linkbtn" style="display:inline-flex;align-items:center">Restaurar copia<input type="file" id="importar" accept="application/json,.json" hidden></label>
+      </div>
+      <div class="row" id="estadoRed"></div>
+    </footer>
+  </section>
+
+  <!-- PRACTICAR -->
+  <section class="vista" id="v-practicar" hidden>
+    <header class="hero"><div class="kicker">Practicar</div><h1>Elige qué estudiar</h1></header>
+    <div class="tabs" role="tablist">
+      <a href="#practicar/tema" data-sub="tema" role="tab">Un tema</a>
+      <a href="#practicar/semana" data-sub="semana" role="tab">Por semana</a>
+      <a href="#practicar/examen" data-sub="examen" role="tab">A medida</a>
+    </div>
+    <div id="p-tema" class="sub"></div>
+    <div id="p-semana" class="sub" hidden></div>
+    <div id="p-examen" class="sub" hidden></div>
+  </section>
+
+  <!-- SIMULACRO -->
+  <section class="vista" id="v-simulacro" hidden>
+    <header class="hero"><div class="kicker">Simulacro semanal</div><h1>Como el examen del viernes</h1>
+      <p>45 preguntas en 25 minutos, solo de los temas de la semana. Un reloj general y la corrección al final.</p></header>
+    <div class="list" id="simSemanas"></div>
+    <h2 class="section-title" id="simHistTit" hidden>Tus simulacros</h2>
+    <div class="list" id="simHist"></div>
+  </section>
+
+  <!-- ESTADÍSTICAS -->
+  <section class="vista" id="v-estadisticas" hidden>
+    <header class="hero"><div class="kicker">Estadísticas</div><h1>Cómo vas</h1><p id="estResumen"></p></header>
+    <div class="grid-est" id="est"><p class="muted">Calculando…</p></div>
+  </section>
+
+  <!-- BANCOS -->
+  <section class="vista" id="v-bancos" hidden>
+    <header class="hero"><div class="kicker">Bancos</div><h1>Bancos originales</h1>
+      <p>Cada banco tal como venía, solo con las preguntas verificadas con libros.</p></header>
+    <div class="list" id="bancos"></div>
+  </section>
+
+  <!-- BIBLIOTECA -->
+  <section class="vista" id="v-biblioteca" hidden>
+    <header class="hero"><div class="kicker">Biblioteca</div><h1>Resúmenes para leer</h1>
+      <p>Cada documento queda guardado sin internet después de abrirlo una vez.</p></header>
+    <div class="list" id="biblioteca"></div>
+    <button class="btn ghost block" id="bajarBiblio" type="button" style="margin-top:12px">Guardar toda la biblioteca para usar sin internet</button>
+  </section>
+</main>
 
 <script src="comun/app.js"></script>
 <script>
 (async () => {
   const { esc, $ } = App;
+  const $$ = s => [...document.querySelectorAll(s)];
   let cat;
   try { cat = await (await fetch('datos/catalogo.json')).json(); }
   catch (e) { $('#resumenTotal').textContent = 'No se pudo cargar la lista de bancos.'; return; }
+  const crono = cat.cronograma || { semanas: [], eventos: [] };
+  const temas = cat.temas || [];
+  const SEM = crono.semanas.filter(s => !s.sinTemas);
+  const temasDe = n => temas.filter(t => App.semanasDe(t).includes(n));
+  const fuera = t => !App.semanasDe(t).length;
+  const hoy = new Date(); hoy.setHours(0, 0, 0, 0);
+  const fecha = f => App.dia(f).toLocaleDateString('es', { weekday: 'short', day: 'numeric', month: 'short' });
+  const diasA = f => Math.round((App.dia(f) - hoy) / 864e5);
+  const fmtT = ms => { const s = Math.max(0, Math.round(ms / 1000)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return h ? `${h} h ${m} min` : m ? `${m} min ${String(x).padStart(2, '0')} s` : `${x} s`; };
+  const color = p => p == null ? 'var(--raised)' : p >= 70 ? 'var(--ok)' : p >= 50 ? 'var(--amber)' : 'var(--bad)';
 
-  // ---------- bancos ----------
-  let totalQ = 0, totalVistas = 0, ultima = null;
-  const tarjetas = cat.bancos.map(b => {
-    const p = b.tipo === 'html' ? App.cargarHtml(b.clave) : App.cargar(b.id);
-    const r = App.resumen(p.hist || {}, b.n || 0);
-    totalQ += b.n || 0; totalVistas += r.vistas;
-    const ses = p.ses;
-    if (ses && ses.ids && ses.ids.length && (!ultima || (ses.ts || 0) > (ultima.ses.ts || 0))) ultima = { b, ses };
-    const pctBien = r.total ? r.bien / r.total * 100 : 0, pctMal = r.total ? r.mal / r.total * 100 : 0;
-    const sinClave = (b.verificadas ? `<span class="pill ok">✓ ${b.verificadas} verificadas</span> ` : '') +
-      (b.tipo !== 'html' && b.conClave < b.n ? `<span class="pill warn">${b.n - b.conClave} sin clave</span>` : '');
-    return `<a class="bank" href="${esc(b.url)}">
-      <span class="chev" aria-hidden="true">›</span>
-      <h3>${esc(b.nombre)}</h3>
-      <div class="sub">${b.n ?? '?'} preguntas ${sinClave}</div>
-      <div class="track" aria-hidden="true"><i class="ok" style="width:${pctBien}%"></i><i class="ko" style="width:${pctMal}%"></i></div>
-      <div class="stats">${r.vistas
-        ? `<span>Respondidas <b>${r.vistas}/${r.total}</b></span><span>Falladas <b>${r.mal}</b></span>${r.pct !== null ? `<span>Aciertos <b>${r.pct}%</b></span>` : ''}`
-        : '<span>Sin empezar</span>'}</div>
-    </a>`;
+  // ---------- progreso de cada pregunta (de todos los bancos) ----------
+  const almacen = {};
+  cat.bancos.forEach(b => { almacen[b.id] = App.cargar(b.id); });
+  const Qs = await App.todas(cat);
+  const reg = App.registro();
+  const primera = {};   // primer intento registrado de cada pregunta
+  reg.forEach(([id, , , ok, pri]) => { if (pri && !(id in primera)) primera[id] = ok; });
+  const estado = q => {
+    const a = almacen[q.banco] || { hist: {}, flag: {} };
+    const h = a.hist[q.id], f = !!a.flag[q.id];
+    let cat4;
+    if (f) cat4 = 'marcada';
+    else if (!h) cat4 = 'nueva';
+    else if (q.gid in primera ? primera[q.gid] === 1 : h.ok === h.n) cat4 = 'primera';
+    else cat4 = 'fallada';
+    return { h, f, cat4 };
+  };
+  const E = Qs.map(q => Object.assign({ q }, estado(q)));
+  const porTema = {};
+  temas.forEach(t => porTema[t.id] = { t, n: 0, vistas: 0, bien: 0, mal: 0 });
+  E.forEach(({ q, h }) => {
+    const x = porTema[q.tema]; if (!x) return;
+    x.n++;
+    if (h) { x.vistas++; if (h.last === true) x.bien++; if (h.last === false) x.mal++; }
   });
-  $('#bancos').innerHTML = tarjetas.join('');
-  $('#resumenTotal').textContent = `${cat.bancos.length} bancos · ${totalQ.toLocaleString('es')} preguntas` +
-    (totalVistas ? ` · has respondido ${totalVistas.toLocaleString('es')}` : '');
+  const pctT = x => x.bien + x.mal ? Math.round(x.bien / (x.bien + x.mal) * 100) : null;
+  const total = E.length, vistas = E.filter(e => e.h).length;
+  const bienT = E.filter(e => e.h && e.h.last === true).length, malT = E.filter(e => e.h && e.h.last === false).length;
+  const pctG = bienT + malT ? Math.round(bienT / (bienT + malT) * 100) : null;
+  const sumSem = (n, k) => temasDe(n).reduce((a, t) => a + porTema[t.id][k], 0);
 
-  // ---------- estudiar por tema ----------
-  if (cat.temas && cat.temas.length) {
-    $('#tituloTemas').hidden = $('#notaTemas').hidden = false;
-    const fuera = t => t.clase === 'fuera del sílabo' || t.id === 'otros';
-    const temas = cat.temas.filter(t => !fuera(t)).concat([{ separador: true }], cat.temas.filter(fuera));
-    $('#temas').innerHTML = temas.map(t => {
-      if (t.separador) return '<p class="muted" style="margin:10px 0 0;font-size:14px;font-weight:600">Fuera del sílabo (salen en los bancos)</p>';
-      const s = App.cargar('tema-' + t.id).ses;
-      if (s && s.ids && s.ids.length && (!ultima || (s.ts || 0) > (ultima.ses.ts || 0)))
-        ultima = { b: { nombre: t.nombre, url: 'banco.html?tema=' + encodeURIComponent(t.id), tipo: 'tema' }, ses: s };
-      return `<a class="tema" href="banco.html?tema=${encodeURIComponent(t.id)}"><span class="nm">${esc(t.nombre)}</span>
-        <small>${t.n} preg.${t.alto ? `<br>⭐ ${t.alto}` : ''}</small></a>`;
+  // nota proyectada: % de aciertos por tema, ponderado por cuántas preguntas tiene ese tema en el banco
+  function proyeccion() {
+    if (bienT + malT < 20) return null;
+    const g = (bienT + 1) / (bienT + malT + 2);
+    let s = 0, w = 0;
+    Object.values(porTema).forEach(x => {
+      if (!x.n || fuera(x.t)) return;
+      const acc = (x.bien + 3 * g) / (x.bien + x.mal + 3);   // con pocas respuestas se acerca a tu promedio general
+      s += x.n * acc; w += x.n;
+    });
+    return w ? s / w * 20 : null;
+  }
+  // ritmo: preguntas nuevas por día en los últimos 7 días
+  function ritmo() {
+    const desde = Date.now() - 7 * 864e5;
+    const nuevas = reg.filter(r => r[4] && r[1] >= desde).length;
+    const primeraVez = reg.length ? reg[0][1] : Date.now();
+    const dias = Math.max(1, Math.min(7, Math.ceil((Date.now() - primeraVez) / 864e5)));
+    return nuevas / dias;
+  }
+  const finalEv = crono.eventos.find(e => e.final);
+
+  // ---------- navegación ----------
+  const VISTAS = ['inicio', 'practicar', 'simulacro', 'estadisticas', 'bancos', 'biblioteca'];
+  const hechas = {};
+  function ir() {
+    const [v, sub] = (location.hash.slice(1) || 'inicio').split('/');
+    const vista = VISTAS.includes(v) ? v : 'inicio';
+    VISTAS.forEach(x => $('#v-' + x).hidden = x !== vista);
+    $$('.nav a').forEach(a => a.toggleAttribute('aria-current', a.dataset.ir === vista));
+    if (!hechas[vista]) { hechas[vista] = 1; ({ inicio: rInicio, practicar: rPracticar, simulacro: rSimulacro, estadisticas: rEstadisticas, bancos: rBancos, biblioteca: rBiblio })[vista](); }
+    if (vista === 'practicar') {
+      const s = ['tema', 'semana', 'examen'].includes(sub) ? sub : 'tema';
+      ['tema', 'semana', 'examen'].forEach(x => $('#p-' + x).hidden = x !== s);
+      $$('.tabs a').forEach(a => a.setAttribute('aria-selected', a.dataset.sub === s));
+    }
+    const sec = $('#v-' + vista); sec.classList.remove('entra'); void sec.offsetWidth; sec.classList.add('entra');
+    window.scrollTo({ top: 0 });
+  }
+  addEventListener('hashchange', ir);
+
+  // ---------- INICIO ----------
+  function rInicio() {
+    const h = new Date().getHours();
+    $('#saludo').textContent = h < 12 ? 'Buenos días' : h < 19 ? 'Buenas tardes' : 'Buenas noches';
+    $('#resumenTotal').textContent = `${total.toLocaleString('es')} preguntas verificadas con libros` + (vistas ? ` · has visto ${vistas.toLocaleString('es')}` : '');
+    // cuentas regresivas
+    const prox = crono.eventos.filter(e => diasA(e.fecha) >= 0);
+    const evs = prox.slice(0, 1).concat(finalEv && prox[0] !== finalEv && diasA(finalEv.fecha) >= 0 ? [finalEv] : []);
+    $('#cuentas').innerHTML = evs.map(e => { const d = diasA(e.fecha); return `<div class="cuenta ${e.final ? 'final' : ''}"><b>${d === 0 ? 'Hoy' : d === 1 ? 'Mañana' : d}</b><span>${d > 1 ? 'días · ' : ''}${esc(e.nombre)}</span><small>${fecha(e.fecha)}</small></div>`; }).join('');
+    // continuar
+    const ses = App.sesiones()[0];
+    if (ses) $('#continuar').innerHTML = `<a class="resume" href="${esc(ses.url)}"><span class="k">Continuar donde me quedé</span>
+      <b>${esc(ses.nombre)}</b><span>${ses.ses.sim ? 'Simulacro en curso · ' : ''}Pregunta ${ses.ses.i + 1} de ${ses.ses.ids.length}</span></a>`;
+    // semana actual
+    const sa = App.semanaActual(crono);
+    if (sa && !sa.s.sinTemas) {
+      const s = sa.s, ts = temasDe(s.n);
+      const n = sumSem(s.n, 'n'), v = sumSem(s.n, 'vistas');
+      $('#semanaHoy').innerHTML = `<div class="semana-hoy">
+        <div class="sh-top"><span class="sh-n">S${s.n}</span><div><div class="kicker">${sa.estado === 'empieza' ? 'Empieza el ' + fecha(s.inicio) : 'Esta semana · hasta el ' + fecha(s.fin)}</div>
+        <h2>${esc(s.titulo)}</h2></div></div>
+        <div class="chips-ro">${ts.map(t => `<a href="banco.html?tema=${encodeURIComponent(t.id)}">${esc(t.nombre)}</a>`).join('')}</div>
+        ${s.aviso ? `<p class="aviso">⚠️ ${esc(s.aviso)}</p>` : ''}
+        <div class="track grande"><i class="ok" style="width:${n ? v / n * 100 : 0}%"></i></div>
+        <p class="muted" style="margin:0 0 12px;font-size:14px">Has visto ${v} de ${n} preguntas de esta semana</p>
+        <div class="dos"><a class="btn" href="banco.html?semana=${s.n}">Practicar la semana</a><a class="btn amber" href="banco.html?sim=${s.n}">Simulacro S${s.n}</a></div></div>`;
+    } else if (sa && sa.s.sinTemas) {
+      $('#semanaHoy').innerHTML = `<div class="semana-hoy"><div class="kicker">Semana ${sa.s.n}</div><h2>${esc(sa.s.titulo)}</h2>
+        <p class="muted">Repasa todo con un examen a medida o con tus temas débiles.</p><div class="dos"><a class="btn" href="#practicar/examen">Examen a medida</a><a class="btn ghost" href="#estadisticas">Temas débiles</a></div></div>`;
+    }
+    // mini estadísticas
+    const nota = proyeccion();
+    $('#miniStats').innerHTML = `
+      <a class="ms" href="#estadisticas"><div class="ring sm" style="--p:${total ? vistas / total * 100 : 0}"><b>${total ? Math.round(vistas / total * 100) : 0}%</b></div><span>del banco visto</span></a>
+      <a class="ms" href="#estadisticas"><div class="ring sm" style="--p:${pctG ?? 0};--c:${color(pctG)}"><b>${pctG ?? '–'}${pctG != null ? '%' : ''}</b></div><span>de aciertos</span></a>
+      <a class="ms" href="#estadisticas"><div class="ring sm" style="--p:${nota ? nota * 5 : 0};--c:${nota ? (nota >= 10.5 ? 'var(--ok)' : 'var(--bad)') : 'var(--raised)'}"><b>${nota ? nota.toFixed(1) : '–'}</b></div><span>nota estimada</span></a>`;
+    const crit = criticos();
+    if (crit.length) $('#criticosInicio').innerHTML = `<div class="criticos"><h3>Tus 3 temas críticos</h3>${crit.map(filaCritico).join('')}</div>`;
+  }
+  function criticos() {
+    return Object.values(porTema).filter(x => x.bien + x.mal >= 5 && x.mal > 0)
+      .sort((a, b) => b.mal / (b.bien + b.mal) - a.mal / (a.bien + a.mal)).slice(0, 3);
+  }
+  const filaCritico = (x, i) => `<a class="critico" href="banco.html?tema=${encodeURIComponent(x.t.id)}&f=falladas"><span class="pos">${i + 1}</span>
+    <span class="nm">${esc(x.t.nombre)}<small>${x.mal} falladas de ${x.bien + x.mal} · practicar las falladas</small></span><b style="color:${color(pctT(x))}">${100 - pctT(x)}%<small>error</small></b></a>`;
+
+  // ---------- PRACTICAR ----------
+  const filaTema = t => {
+    const x = porTema[t.id], p = pctT(x);
+    return `<a class="tema" href="banco.html?tema=${encodeURIComponent(t.id)}">
+      <span class="nm">${esc(t.nombre)}<span class="track fino"><i style="width:${x.n ? x.vistas / x.n * 100 : 0}%;background:${p == null ? 'var(--accent)' : color(p)}"></i></span></span>
+      <small>${x.n} preg.${t.alto ? `<br>⭐ ${t.alto}` : ''}${p != null ? `<br><b style="color:${color(p)}">${p}%</b>` : ''}</small></a>`;
+  };
+  function rPracticar() {
+    // por tema, agrupado por semana
+    let h = '';
+    SEM.forEach(s => {
+      const ts = temasDe(s.n);
+      if (!ts.length) return;
+      h += `<h3 class="grupo-sem"><span class="sem-tag">S${s.n}</span><span>${esc(s.titulo)}</span>${s.estrella ? '<span class="pill amber">★</span>' : ''}</h3><div class="temas">${ts.map(filaTema).join('')}</div>`;
+    });
+    const fz = temas.filter(fuera);
+    if (fz.length) h += `<h3 class="grupo-sem"><span class="sem-tag gris">+</span><span>Fuera del sílabo (salen en los bancos)</span></h3><div class="temas">${fz.map(filaTema).join('')}</div>`;
+    $('#p-tema').innerHTML = '<p class="muted nota">Toca un tema para practicar solo sus preguntas. La barra muestra cuánto has visto; el color, tus aciertos.</p>' + h;
+
+    // por semana
+    $('#p-semana').innerHTML = '<div class="list">' + SEM.map(s => tarjetaSemana(s, 'practicar')).join('') + '</div>';
+
+    // examen a medida
+    rExamen();
+  }
+  function tarjetaSemana(s, modo) {
+    const ts = temasDe(s.n);
+    const n = sumSem(s.n, 'n'), v = sumSem(s.n, 'vistas'), bien = sumSem(s.n, 'bien'), mal = sumSem(s.n, 'mal');
+    const p = bien + mal ? Math.round(bien / (bien + mal) * 100) : null;
+    const sa = App.semanaActual(crono);
+    const actual = sa && sa.s.n === s.n;
+    const sims = App.simulacros().filter(x => +x.semana === s.n);
+    const ult = sims[sims.length - 1];
+    const href = modo === 'sim' ? `banco.html?sim=${s.n}` : `banco.html?semana=${s.n}`;
+    return `<a class="semana ${actual ? 'actual' : ''} ${diasA(s.fin) < 0 ? 'pasada' : ''}" href="${href}">
+      <div class="sem-num"><small>Semana</small>${s.n}</div>
+      <div class="sem-body">
+        <div class="sem-fecha">${fecha(s.inicio)} – ${fecha(s.fin)}${actual ? ' · <b>ahora</b>' : ''}${s.estrella ? ' · ★ muy preguntada' : ''}${s.pesada ? ' · la más pesada' : ''}</div>
+        <h3>${esc(s.titulo)}</h3>
+        <div class="sem-temas">${ts.map(t => esc(t.nombre)).join(' · ')}</div>
+        <div class="track"><i class="ok" style="width:${n ? bien / n * 100 : 0}%"></i><i class="ko" style="width:${n ? mal / n * 100 : 0}%"></i></div>
+        <div class="stats"><span><b>${n}</b> preguntas</span><span>Vistas <b>${v}</b></span>${p != null ? `<span>Aciertos <b>${p}%</b></span>` : ''}
+          ${modo === 'sim' ? `<span>${ult ? `Último: <b>${ult.nota.toFixed(1)}/20</b>` : 'Sin simulacros'}</span>` : ''}</div>
+        ${modo === 'sim' && n < 45 ? `<div class="sem-nota">Solo ${n} preguntas verificadas: el simulacro usa todas, con menos tiempo.</div>` : ''}
+      </div><span class="chev">›</span></a>`;
+  }
+  // examen a medida
+  const ex = { por: 'semanas', sel: new Set(), f: 'todas', n: 20 };
+  function poolExamen() {
+    const ts = new Set(ex.por === 'semanas' ? [...ex.sel].flatMap(n => temasDe(+n).map(t => t.id)) : [...ex.sel]);
+    return E.filter(e => ts.has(e.q.tema)).filter(e => {
+      if (ex.f === 'nuevas') return !e.h;
+      if (ex.f === 'falladas') return e.h && e.h.last === false;
+      if (ex.f === 'marcadas') return e.f;
+      if (ex.f === 'alto') return !!e.q.rep;
+      return true;
+    }).length;
+  }
+  const ck = (v, nm, n) => `<label class="ck"><input type="checkbox" data-v="${v}" ${ex.sel.has(v) ? 'checked' : ''}><span class="nm">${nm}</span><span class="ct">${n}</span></label>`;
+  function rExamen() {
+    const opciones = ex.por === 'semanas'
+      ? SEM.map(s => ck(String(s.n), `<b>Semana ${s.n}</b> · ${esc(s.titulo)}`, sumSem(s.n, 'n'))).join('')
+      : SEM.map(s => `<div class="ck-grupo">S${s.n} · ${esc(s.titulo)}</div>` + temasDe(s.n).map(t => ck(t.id, esc(t.nombre), porTema[t.id].n)).join('')).join('') +
+        '<div class="ck-grupo">Fuera del sílabo</div>' + temas.filter(fuera).map(t => ck(t.id, esc(t.nombre), porTema[t.id].n)).join('');
+    const n = poolExamen();
+    const usar = ex.n ? Math.min(ex.n, n) : n;
+    $('#p-examen').innerHTML = `<div class="panel">
+      <div class="field"><h3>1 · Elegir por</h3><div class="seg">${[['semanas', 'Semanas'], ['temas', 'Temas']].map(([k, t]) => `<button type="button" data-por="${k}" aria-pressed="${ex.por === k}">${t}</button>`).join('')}</div></div>
+      <div class="field"><div class="field-head"><h3>2 · ${ex.por === 'semanas' ? 'Qué semanas' : 'Qué temas'}</h3><button type="button" class="linkbtn mini" id="exTodo">${ex.sel.size ? 'Quitar todo' : 'Marcar todo'}</button></div>
+        <div class="checklist ${ex.por === 'temas' ? 'alto' : ''}">${opciones}</div></div>
+      <div class="field"><h3>3 · Qué preguntas</h3><div class="chips">${[['todas', 'Todas'], ['nuevas', 'Sin responder'], ['falladas', 'Las que fallé'], ['marcadas', 'Marcadas ⚑'], ['alto', 'Alto valor ⭐']].map(([k, t]) => `<button type="button" class="chip" data-f="${k}" aria-pressed="${ex.f === k}">${t}</button>`).join('')}</div></div>
+      <div class="field"><h3>4 · Cuántas</h3><div class="chips">${[10, 20, 30, 45, 60, 0].map(c => `<button type="button" class="chip" data-c="${c}" aria-pressed="${ex.n === c}">${c || 'Todas'}</button>`).join('')}</div></div>
+      <button class="btn block" id="exEmpezar" type="button" ${usar ? '' : 'disabled'}>${ex.sel.size ? (usar ? `Empezar · ${usar} preguntas` : 'No hay preguntas con estos filtros') : 'Elige al menos ' + (ex.por === 'semanas' ? 'una semana' : 'un tema')}</button>
+    </div>`;
+  }
+  $('#p-examen').addEventListener('click', e => {
+    const t = e.target.closest('button'); if (!t) return;
+    if (t.dataset.por) { if (ex.por !== t.dataset.por) { ex.por = t.dataset.por; ex.sel.clear(); } }
+    else if (t.dataset.f) ex.f = t.dataset.f;
+    else if (t.dataset.c) ex.n = +t.dataset.c;
+    else if (t.id === 'exTodo') { if (ex.sel.size) ex.sel.clear(); else (ex.por === 'semanas' ? SEM.map(s => String(s.n)) : temas.map(x => x.id)).forEach(v => ex.sel.add(v)); }
+    else if (t.id === 'exEmpezar') {
+      location.href = `banco.html?${ex.por}=${encodeURIComponent([...ex.sel].join(','))}&f=${ex.f}&n=${ex.n}&auto=1`;
+      return;
+    } else return;
+    const y = scrollY; rExamen(); scrollTo({ top: y });
+  });
+  $('#p-examen').addEventListener('change', e => {
+    const c = e.target.closest('[data-v]'); if (!c) return;
+    c.checked ? ex.sel.add(c.dataset.v) : ex.sel.delete(c.dataset.v);
+    const y = scrollY, sc = $('#p-examen .checklist').scrollTop; rExamen(); $('#p-examen .checklist').scrollTop = sc; scrollTo({ top: y });
+  });
+
+  // ---------- SIMULACRO ----------
+  function rSimulacro() {
+    $('#simSemanas').innerHTML = SEM.map(s => tarjetaSemana(s, 'sim')).join('');
+    const sims = App.simulacros().slice().reverse();
+    if (sims.length) {
+      $('#simHistTit').hidden = false;
+      $('#simHist').innerHTML = sims.slice(0, 15).map(x => `<div class="mini-res"><span>S${esc(x.semana)} · ${new Date(x.fecha).toLocaleDateString('es', { day: 'numeric', month: 'short' })}</span>
+        <b style="color:${x.nota >= 10.5 ? 'var(--ok)' : 'var(--bad)'}">${x.nota.toFixed(1)}<small>/20</small></b><span>${x.bien}/${x.n} · ${fmtT(x.ms)}</span></div>`).join('');
+    }
+  }
+
+  // ---------- ESTADÍSTICAS ----------
+  function donut(partes) {
+    const tot = partes.reduce((a, p) => a + p.v, 0) || 1;
+    const R = 52, C = 2 * Math.PI * R; let off = 0;
+    const arcos = partes.map(p => { const l = p.v / tot * C; const s = `<circle r="${R}" cx="70" cy="70" fill="none" stroke="${p.c}" stroke-width="22" stroke-dasharray="${l} ${C - l}" stroke-dashoffset="${-off}" transform="rotate(-90 70 70)"><title>${p.t}: ${p.v}</title></circle>`; off += l; return s; }).join('');
+    return `<div class="donut"><svg viewBox="0 0 140 140" role="img" aria-label="Estado del banco"><circle r="${R}" cx="70" cy="70" fill="none" stroke="var(--raised)" stroke-width="22"/>${arcos}
+      <text x="70" y="70" text-anchor="middle" class="d-n">${tot}</text><text x="70" y="88" text-anchor="middle" class="d-t">preguntas</text></svg>
+      <ul class="leyenda">${partes.map(p => `<li><i style="background:${p.c}"></i><span>${p.t}</span><b>${p.v}</b><small>${Math.round(p.v / tot * 100)}%</small></li>`).join('')}</ul></div>`;
+  }
+  function radar(ejes) {
+    const N = ejes.length, cx = 150, cy = 145, R = 95;
+    const pt = (i, r) => { const a = -Math.PI / 2 + i * 2 * Math.PI / N; return [cx + r * Math.cos(a), cy + r * Math.sin(a)]; };
+    let s = '';
+    [25, 50, 75, 100].forEach(l => { s += `<polygon points="${ejes.map((_, i) => pt(i, R * l / 100).join(',')).join(' ')}" fill="none" stroke="var(--line)" stroke-width="1"/>`; });
+    ejes.forEach((e, i) => { const [x, y] = pt(i, R); s += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="var(--line)"/>`;
+      const [lx, ly] = pt(i, R + 24); s += `<text x="${lx}" y="${ly}" text-anchor="middle" class="r-lbl">${e.t}</text><text x="${lx}" y="${ly + 14}" text-anchor="middle" class="r-val">${e.p != null ? e.p + '%' : '–'}</text>`; });
+    s += `<polygon points="${ejes.map((e, i) => pt(i, R * (e.p || 0) / 100).join(',')).join(' ')}" fill="var(--accent)" fill-opacity=".22" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/>`;
+    ejes.forEach((e, i) => { if (e.p != null) { const [x, y] = pt(i, R * e.p / 100); s += `<circle cx="${x}" cy="${y}" r="4" fill="var(--accent)"/>`; } });
+    return `<svg viewBox="0 0 300 290" class="radar" role="img" aria-label="Aciertos por semana">${s}</svg>`;
+  }
+  function rEstadisticas() {
+    const nota = proyeccion(), rit = ritmo();
+    const nuevas = E.filter(e => !e.h).length;
+    const conT = reg.filter(r => r[2] > 0);
+    const prom = conT.length ? conT.reduce((a, r) => a + r[2], 0) / conT.length : null;
+    const tEstudio = reg.reduce((a, r) => a + r[2], 0);
+    const sims = App.simulacros();
+    const tSim = sims.reduce((a, x) => a + x.ms, 0);
+    const ult = reg.slice(-50).filter(r => r[3] >= 0);
+    const pctUlt = ult.length ? Math.round(ult.filter(r => r[3] === 1).length / ult.length * 100) : null;
+    $('#estResumen').textContent = vistas ? `Has respondido ${vistas} de ${total} preguntas.` : 'Aún no respondes preguntas: empieza a practicar y aquí verás tu avance.';
+    const dias = Math.ceil(nuevas / Math.max(rit, 0.0001));
+    const fin = new Date(); fin.setDate(fin.getDate() + dias);
+    const diasFinal = finalEv ? diasA(finalEv.fecha) : null;
+    const necesito = diasFinal > 0 ? Math.ceil(nuevas / diasFinal) : null;
+    // actividad de los últimos 14 días
+    const act = Array.from({ length: 14 }, (_, i) => { const d = new Date(hoy); d.setDate(d.getDate() - 13 + i); return { d, n: 0 }; });
+    reg.forEach(r => { const k = Math.floor((r[1] - act[0].d) / 864e5); if (k >= 0 && k < 14) act[k].n++; });
+    const maxA = Math.max(1, ...act.map(a => a.n));
+    const semEjes = SEM.map(s => { const b = sumSem(s.n, 'bien'), m = sumSem(s.n, 'mal'); return { t: 'S' + s.n, p: b + m ? Math.round(b / (b + m) * 100) : null }; });
+    const conDatos = Object.values(porTema).filter(x => x.bien + x.mal > 0).sort((a, b) => pctT(a) - pctT(b));
+    const crit = criticos();
+    const cat4 = k => E.filter(e => e.cat4 === k).length;
+
+    $('#est').innerHTML = `
+    <div class="card"><h3>Cobertura del banco</h3>
+      <p class="kpi">${vistas}<small> / ${total} vistas</small></p>
+      <div class="track grande"><i class="ok" style="width:${total ? vistas / total * 100 : 0}%"></i></div>
+      <p class="muted chico">${total ? Math.round(vistas / total * 100) : 0}% del banco · faltan ${nuevas} preguntas por ver</p></div>
+
+    <div class="card"><h3>Nota estimada</h3>
+      ${nota ? `<p class="kpi" style="color:${nota >= 10.5 ? 'var(--ok)' : 'var(--bad)'}">${nota.toFixed(1)}<small> / 20</small></p>
+      <p class="muted chico">Según tus aciertos en cada tema, pesando más los temas con más preguntas.${pctUlt != null ? ` En tus últimas ${ult.length} respuestas llevas ${pctUlt}%.` : ''}</p>`
+      : '<p class="kpi">–</p><p class="muted chico">Responde al menos 20 preguntas para estimar tu nota.</p>'}</div>
+
+    <div class="card"><h3>Proyección de avance</h3>
+      ${rit > 0 ? `<p class="kpi">${dias}<small> días</small></p>
+      <p class="muted chico">Al ritmo de ${rit.toFixed(rit < 10 ? 1 : 0)} preguntas nuevas por día (últimos 7 días) terminas de ver todo el banco el ${fin.toLocaleDateString('es', { day: 'numeric', month: 'long' })}.
+      ${necesito ? (dias <= diasFinal ? ' Llegas antes del examen final. 👍' : ` Para terminarlo antes del final necesitas ${necesito} por día.`) : ''}</p>`
+      : `<p class="kpi">–</p><p class="muted chico">Aún no hay ritmo para calcular.${necesito ? ` Para ver todo el banco antes del final (${fecha(finalEv.fecha)}) necesitas unas ${necesito} preguntas nuevas por día.` : ''}</p>`}</div>
+
+    <div class="card"><h3>Tiempo</h3>
+      <div class="kpis"><div><p class="kpi">${prom ? Math.round(prom / 1000) : '–'}<small> s</small></p><span class="muted chico">promedio por pregunta</span></div>
+      <div><p class="kpi">${fmtT(tSim).replace(/ \d+ s$/, '')}</p><span class="muted chico">en ${sims.length} simulacro${sims.length === 1 ? '' : 's'}</span></div>
+      <div><p class="kpi">${Math.round(tEstudio / 60000)}<small> min</small></p><span class="muted chico">respondiendo en total</span></div></div>
+      ${prom ? `<p class="muted chico">En el examen tienes unos 33 s por pregunta (45 en 25 min).${prom / 1000 > 33 ? ' Vas algo lento: practica simulacros.' : ' Vas a buen ritmo.'}</p>` : ''}</div>
+
+    <div class="card ancho"><h3>Estado del banco</h3>${donut([
+      { t: 'Nuevas (sin ver)', v: cat4('nueva'), c: 'var(--neutro)' },
+      { t: 'Acertadas a la primera', v: cat4('primera'), c: 'var(--ok)' },
+      { t: 'Falladas alguna vez', v: cat4('fallada'), c: 'var(--bad)' },
+      { t: 'Marcadas o dudosas ⚑', v: cat4('marcada'), c: 'var(--amber)' }])}</div>
+
+    <div class="card"><h3>Aciertos por semana</h3>${radar(semEjes)}<p class="muted chico" style="text-align:center">Cuanto más afuera llega la figura, mejor.</p></div>
+
+    <div class="card"><h3>Actividad · últimos 14 días</h3>
+      <div class="barras">${act.map(a => `<div title="${a.d.toLocaleDateString('es')}: ${a.n}"><i style="height:${a.n / maxA * 100}%"></i><span>${a.d.getDate()}</span></div>`).join('')}</div>
+      <p class="muted chico">Respuestas por día. Hoy: ${act[13].n}.</p></div>
+
+    <div class="card ancho"><h3>Top 3 temas críticos</h3>
+      ${crit.length ? `<div class="criticos">${crit.map(filaCritico).join('')}</div>` : '<p class="muted chico">Aparecen cuando respondas al menos 5 preguntas de un tema.</p>'}</div>
+
+    <div class="card ancho"><h3>Precisión por tema · temas débiles</h3>
+      ${conDatos.length ? `<p class="muted chico">De peor a mejor. Toca uno para practicar sus falladas.</p><div class="hbars">${conDatos.map(x => { const p = pctT(x); return `<a class="hbar" href="banco.html?tema=${encodeURIComponent(x.t.id)}${x.mal ? '&f=falladas' : ''}">
+        <span class="nm">${esc(x.t.nombre)}</span><span class="b"><i style="width:${Math.max(p, 2)}%;background:${color(p)}"></i></span><b>${p}%</b><small>${x.bien + x.mal} resp.</small></a>`; }).join('')}</div>`
+      : '<p class="muted chico">Aún no hay respuestas.</p>'}</div>`;
+  }
+
+  // ---------- BANCOS ----------
+  function rBancos() {
+    $('#bancos').innerHTML = cat.bancos.map(b => {
+      const p = b.tipo === 'html' ? App.cargarHtml(b.clave) : almacen[b.id];
+      const r = App.resumen(p.hist || {}, b.n || 0);
+      const pctBien = r.total ? r.bien / r.total * 100 : 0, pctMal = r.total ? r.mal / r.total * 100 : 0;
+      return `<a class="bank" href="${esc(b.url)}">
+        <span class="chev" aria-hidden="true">›</span>
+        <h3>${esc(b.nombre)}</h3>
+        <div class="sub">${b.n ?? '?'} preguntas${b.altoValor ? ` · ⭐ ${b.altoValor} de alto valor` : ''}</div>
+        <div class="track"><i class="ok" style="width:${pctBien}%"></i><i class="ko" style="width:${pctMal}%"></i></div>
+        <div class="stats">${r.vistas
+          ? `<span>Respondidas <b>${r.vistas}/${r.total}</b></span><span>Falladas <b>${r.mal}</b></span>${r.pct !== null ? `<span>Aciertos <b>${r.pct}%</b></span>` : ''}`
+          : '<span>Sin empezar</span>'}</div></a>`;
     }).join('');
   }
 
-  // ---------- continuar la última sesión ----------
-  if (ultima) {
-    const s = ultima.ses;
-    $('#continuar').innerHTML = `<a class="resume" href="${esc(ultima.b.url)}${ultima.b.tipo === 'html' ? '' : '&continuar=1'}">
-      <span style="font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase">Continuar donde me quedé</span>
-      <b>${esc(ultima.b.nombre)}</b><span>Pregunta ${s.i + 1} de ${s.ids.length}</span></a>`;
-  }
-
-  // ---------- biblioteca ----------
-  if (cat.biblioteca.length) {
-    $('#tituloBiblio').hidden = $('#notaBiblio').hidden = $('#bajarBiblio').hidden = false;
+  // ---------- BIBLIOTECA ----------
+  function rBiblio() {
     $('#biblioteca').innerHTML = cat.biblioteca.map(d =>
-      `<a class="doc" href="biblioteca.html?id=${encodeURIComponent(d.id)}"><span>${esc(d.nombre)}</span><small>${d.paginas} pág.</small></a>`).join('');
+      `<a class="doc" href="biblioteca.html?id=${encodeURIComponent(d.id)}"><span class="ico-doc" aria-hidden="true">📄</span><span>${esc(d.nombre)}</span><small>${d.paginas} pág.</small></a>`).join('');
     $('#bajarBiblio').onclick = async () => {
       const btn = $('#bajarBiblio'); btn.disabled = true;
       const urls = cat.biblioteca.flatMap(d => Array.from({ length: d.paginas }, (_, i) => `biblioteca/${d.id}/${String(i + 1).padStart(3, '0')}.jpg`));
@@ -119,6 +463,8 @@
       btn.disabled = !fallas;
     };
   }
+
+  ir();
 
   // ---------- instalar en la pantalla de inicio ----------
   const instalada = matchMedia('(display-mode: standalone)').matches || navigator.standalone;

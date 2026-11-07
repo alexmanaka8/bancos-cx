@@ -13,23 +13,26 @@
 <link rel="icon" href="iconos/favicon-64.png">
 <link rel="stylesheet" href="fuentes/fuentes.css">
 <link rel="stylesheet" href="comun/app.css">
-</head><body>
+</head><body class="motor">
 <div class="wrap">
   <!-- 1. Configurar la práctica -->
   <section id="vSetup">
-    <div class="top"><a class="back" href="index.html">← Menú</a></div>
+    <div class="top"><a class="back" id="volver" href="index.html#practicar">← Volver</a></div>
     <header class="hero" style="padding-top:0">
+      <div class="kicker" id="kicker"></div>
       <h1 id="titulo">Cargando…</h1>
       <p id="subtitulo"></p>
     </header>
     <div id="continuarBox"></div>
     <div class="panel" style="margin-top:14px">
-      <div class="field" id="fSecciones" hidden><h3>Temas</h3><div class="chips scroll" id="secciones"></div></div>
+      <div class="field" id="fSecciones" hidden>
+        <div class="field-head"><h3 id="tituloSecciones">Temas</h3><button type="button" class="linkbtn mini" id="todosSec">Todos</button></div>
+        <div class="checklist" id="secciones"></div>
+      </div>
       <div class="field"><h3>Qué preguntas</h3><div class="chips" id="filtro"></div></div>
       <div class="field"><h3>Cuántas</h3><div class="chips" id="cantidad"></div></div>
       <div class="field" style="display:grid;gap:2px">
         <label class="check"><input type="checkbox" id="mezclar" checked> Mezclar el orden</label>
-        <label class="check" id="lblSoloClave"><input type="checkbox" id="soloClave"> Solo preguntas con clave</label>
       </div>
       <button class="btn block" id="empezar" type="button">Empezar</button>
     </div>
@@ -37,17 +40,22 @@
     <div style="margin-top:6px"><button class="linkbtn danger" id="borrar" type="button">Borrar mi progreso en este banco</button></div>
   </section>
 
+  <!-- 1b. Antes del simulacro -->
+  <section id="vSim" hidden></section>
+
   <!-- 2. Responder -->
   <section id="vQuiz" hidden>
     <div class="qbar">
       <div class="row">
         <button class="back" id="salir" type="button">Pausar</button>
         <span class="count" id="contador"></span>
+        <span class="reloj" id="reloj" title="Tiempo"></span>
         <span class="score" id="marcador"></span>
       </div>
       <div class="bar"><i id="barra"></i></div>
     </div>
     <article class="qcard" id="tarjeta" aria-live="polite"></article>
+    <div class="mapa" id="mapa" hidden></div>
     <div class="qnav">
       <button class="btn ghost" id="anterior" type="button" aria-label="Anterior">←</button>
       <button class="btn" id="siguiente" type="button">Siguiente</button>
@@ -69,19 +77,37 @@
 const { esc, $ } = App;
 const L = 'ABCDEF';
 const params = new URLSearchParams(location.search);
-const ID = params.get('id'), TEMA = params.get('tema');
-let B, P, guardar, CAT = { temas: [], bancos: [] };
+const lista = k => (params.get(k) || '').split(',').map(s => s.trim()).filter(Boolean);
+const ID = params.get('id');
+const SIM = params.get('sim');                       // simulacro de la semana N
+const SEMANA = params.get('semana');                 // practicar una semana
+const SEMANAS = lista('semanas');                    // examen personalizado por semanas
+const TEMAS_P = lista('temas').concat(lista('tema')); // uno o varios temas
+let CAT = { temas: [], bancos: [] };
 try { CAT = await (await fetch('datos/catalogo.json')).json(); } catch (e) {}
 const nombreTema = Object.fromEntries((CAT.temas || []).map(t => [t.id, t.nombre]));
+const temasDeSemana = n => (CAT.temas || []).filter(t => App.semanasDe(t).includes(+n)).map(t => t.id);
+const semInfo = n => ((CAT.cronograma || {}).semanas || []).find(s => s.n === +n);
 
-// Modo "por tema": junta las preguntas de ese tema de todos los bancos. El progreso de cada pregunta
+// ¿Qué se practica? -> qué temas, con qué nombre, dónde se guarda la sesión y a dónde vuelve
+let MODO = null;   // null = un banco
+if (SIM) MODO = { temas: temasDeSemana(SIM), nombre: `Simulacro · Semana ${SIM}`, kicker: 'Simulacro semanal', clave: 'simulacro-' + SIM, volver: 'index.html#simulacro', sim: true };
+else if (SEMANA) MODO = { temas: temasDeSemana(SEMANA), nombre: `Semana ${SEMANA}` + (semInfo(SEMANA) ? ' · ' + semInfo(SEMANA).titulo : ''), kicker: 'Practicar por semana', clave: 'semana-' + SEMANA, volver: 'index.html#practicar/semana' };
+else if (SEMANAS.length) MODO = { temas: [...new Set(SEMANAS.flatMap(temasDeSemana))], nombre: 'Examen personalizado', kicker: 'Semanas ' + SEMANAS.join(', '), clave: 'examen', volver: 'index.html#practicar/examen' };
+else if (TEMAS_P.length === 1) MODO = { temas: TEMAS_P, nombre: nombreTema[TEMAS_P[0]] || 'Tema', kicker: 'Practicar un tema', clave: 'tema-' + TEMAS_P[0], volver: 'index.html#practicar/tema' };
+else if (TEMAS_P.length > 1) MODO = { temas: TEMAS_P, nombre: 'Examen personalizado', kicker: TEMAS_P.length + ' temas', clave: 'examen', volver: 'index.html#practicar/examen' };
+const VARIOS = !!MODO;   // las preguntas vienen de varios bancos
+
+let B, P, guardar;
+// Modo por temas: junta las preguntas de esos temas de todos los bancos. El progreso de cada pregunta
 // se guarda en su propio banco (así cuenta igual si luego abres el banco); la sesión, aparte.
-async function porTema(tema) {
+async function porTemas(temas, nombre, claveSes) {
   const bancos = CAT.bancos.filter(b => b.n);
   const datos = await Promise.all(bancos.map(b => fetch('datos/' + encodeURIComponent(b.id) + '.json').then(r => r.json()).catch(() => null)));
+  const quiero = new Set(temas);
   const preguntas = [];
   datos.forEach((d, i) => d && d.preguntas.forEach(q => {
-    if (q.tema === tema) preguntas.push(Object.assign({}, q, { id: bancos[i].id + '|' + q.id, bn: bancos[i].nombre }));
+    if (quiero.has(q.tema)) preguntas.push(Object.assign({}, q, { id: bancos[i].id + '|' + q.id, bn: bancos[i].nombre }));
   }));
   const almacenes = {};
   const de = b => almacenes[b] || (almacenes[b] = App.cargar(b));
@@ -94,14 +120,14 @@ async function porTema(tema) {
     ownKeys: () => preguntas.map(q => q.id).filter(k => { const [b, id] = partir(k); return id in de(b)[f]; }),
     getOwnPropertyDescriptor: (t, k) => { const [b, id] = partir(k); return id in de(b)[f] ? { value: de(b)[f][id], enumerable: true, configurable: true, writable: true } : undefined; },
   });
-  const propio = App.cargar('tema-' + tema);
+  const propio = App.cargar(claveSes);
   const p = { hist: campo('hist'), clave: campo('clave'), flag: campo('flag'), ses: propio.ses };
-  const g = () => { Object.entries(almacenes).forEach(([b, d]) => App.guardar(b, d)); App.guardar('tema-' + tema, { hist: {}, ses: p.ses, clave: {}, flag: {} }); };
-  return [{ nombre: nombreTema[tema] || 'Tema', preguntas }, p, g];
+  const g = () => { Object.entries(almacenes).forEach(([b, d]) => App.guardar(b, d)); App.guardar(claveSes, { hist: {}, ses: p.ses, clave: {}, flag: {} }); };
+  return [{ nombre, preguntas }, p, g];
 }
 
 try {
-  if (TEMA) [B, P, guardar] = await porTema(TEMA);
+  if (MODO) [B, P, guardar] = await porTemas(MODO.temas, MODO.nombre, MODO.clave);
   else {
     B = await (await fetch('datos/' + encodeURIComponent(ID) + '.json')).json();
     P = App.cargar(ID);                 // progreso guardado: hist, ses, clave, flag
@@ -109,8 +135,10 @@ try {
   }
 } catch (e) { $('#titulo').textContent = 'No encontré este banco'; return; }
 const Q = B.preguntas, byId = Object.fromEntries(Q.map(q => [q.id, q]));
-// Agrupación de los chips: por tema del sílabo dentro de un banco; por banco dentro de un tema.
-const grupo = q => TEMA ? q.bn : (nombreTema[q.tema] || q.sec);
+const gid = q => VARIOS ? q.id : ID + '|' + q.id;   // id global para el registro de respuestas
+// Agrupación: por tema dentro de un banco o de una semana; por banco dentro de un solo tema.
+const UN_TEMA = MODO && MODO.temas.length === 1;
+const grupo = q => UN_TEMA ? q.bn : (nombreTema[q.tema] || q.sec);
 const clave = q => (q.id in P.clave ? P.clave[q.id] : q.ans);   // la tuya manda sobre la del documento
 const tieneClave = q => clave(q) !== null && clave(q) !== undefined;
 const orden = Object.fromEntries(Q.map((q, i) => [q.id, i]));
@@ -118,73 +146,65 @@ const VERIF = ['confirmada', 'corregida', 'nueva'];
 const verificada = q => q.ver && VERIF.includes(q.ver.e) && !(q.id in P.clave);
 document.title = B.nombre;
 $('#titulo').textContent = B.nombre;
+$('#kicker').textContent = MODO ? MODO.kicker : 'Banco';
+$('#volver').href = MODO ? MODO.volver : 'index.html#bancos';
+const URL_SES = location.pathname.split('/').pop() + '?' + [...params].filter(([k]) => !['continuar', 'auto', 'n', 'f'].includes(k)).map(([k, v]) => k + '=' + encodeURIComponent(v)).join('&');
 
 // ---------- configuración ----------
-const cfg = { secs: null, filtro: 'todas', cant: 20, };
+const cfg = { secs: null, filtro: params.get('f') || 'todas', cant: params.has('n') ? +params.get('n') : 20 };
 const secs = {};
 Q.forEach(q => { const g = grupo(q); if (g) secs[g] = (secs[g] || 0) + 1; });
-const secsVisibles = Object.entries(secs).filter(([, n]) => n >= (TEMA ? 1 : 3)).sort((a, b) => a[0].localeCompare(b[0], 'es'));
+const secsVisibles = Object.entries(secs).filter(([, n]) => n >= (VARIOS ? 1 : 3)).sort((a, b) => a[0].localeCompare(b[0], 'es'));
 
 function pool() {
   return Q.filter(q => {
     if (cfg.secs && !cfg.secs.has(grupo(q))) return false;
-    if ($('#soloClave').checked && !tieneClave(q)) return false;
     const h = P.hist[q.id];
     if (cfg.filtro === 'nuevas') return !h;
     if (cfg.filtro === 'falladas') return h && h.last === false;
     if (cfg.filtro === 'marcadas') return P.flag[q.id];
-    if (cfg.filtro === 'verificadas') return verificada(q);
     if (cfg.filtro === 'alto') return !!q.rep;
     return true;
   });
 }
 function renderSetup() {
   const r = App.resumen(P.hist, Q.length);
-  const con = Q.filter(tieneClave).length;
   $('#subtitulo').textContent = `${Q.length} preguntas` + (r.vistas ? ` · respondidas ${r.vistas} · falladas ${r.mal}` + (r.pct !== null ? ` · ${r.pct}% de aciertos` : '') : '');
   if (secsVisibles.length > 1) {
     $('#fSecciones').hidden = false;
-    $('#secciones').innerHTML = `<button type="button" class="chip" data-sec="*" aria-pressed="${!cfg.secs}">Todos<span class="ct">${Q.length}</span></button>` +
-      secsVisibles.map(([s, n]) => `<button type="button" class="chip" data-sec="${esc(s)}" aria-pressed="${!!(cfg.secs && cfg.secs.has(s))}">${esc(s)}<span class="ct">${n}</span></button>`).join('');
+    $('#todosSec').textContent = cfg.secs ? 'Marcar todos' : 'Todos marcados';
+    $('#secciones').innerHTML = secsVisibles.map(([s, n]) => `<label class="ck"><input type="checkbox" data-sec="${esc(s)}" ${!cfg.secs || cfg.secs.has(s) ? 'checked' : ''}><span class="nm">${esc(s)}</span><span class="ct">${n}</span></label>`).join('');
   }
-  const nF = Object.values(P.hist).filter(h => h.last === false).length;
+  const nF = Q.filter(q => P.hist[q.id] && P.hist[q.id].last === false).length;
   const nN = Q.filter(q => !P.hist[q.id]).length;
-  const nM = Object.keys(P.flag).length;
-  const nV = Q.filter(verificada).length;
-  const filtros = [['todas', 'Todas', Q.length], ['nuevas', 'Sin responder', nN], ['falladas', 'Solo las que fallé', nF], ['marcadas', 'Marcadas ⚑', nM]];
-  if (nV) filtros.splice(1, 0, ['verificadas', 'Verificadas con libro ✓', nV]);
+  const nM = Q.filter(q => P.flag[q.id]).length;
   const nA = Q.filter(q => q.rep).length;
+  const filtros = [['todas', 'Todas', Q.length], ['nuevas', 'Sin responder', nN], ['falladas', 'Las que fallé', nF], ['marcadas', 'Marcadas ⚑', nM]];
   if (nA) filtros.splice(1, 0, ['alto', 'Alto valor ⭐', nA]);
   $('#filtro').innerHTML = filtros.map(([k, t, n]) => `<button type="button" class="chip" data-f="${k}" aria-pressed="${cfg.filtro === k}" ${n || k === 'todas' ? '' : 'disabled'}>${t}<span class="ct">${n}</span></button>`).join('');
   const n = pool().length;
-  $('#cantidad').innerHTML = [10, 20, 50, 0].map(c => `<button type="button" class="chip" data-c="${c}" aria-pressed="${cfg.cant === c}">${c || 'Todas · ' + n}</button>`).join('');
-  $('#lblSoloClave').hidden = con === Q.length;
+  $('#cantidad').innerHTML = [10, 20, 45, 0].map(c => `<button type="button" class="chip" data-c="${c}" aria-pressed="${cfg.cant === c}">${c || 'Todas · ' + n}</button>`).join('');
   const usar = cfg.cant ? Math.min(cfg.cant, n) : n;
   $('#empezar').textContent = usar ? `Empezar · ${usar} pregunta${usar > 1 ? 's' : ''}` : 'No hay preguntas con estos filtros';
   $('#empezar').disabled = !usar;
-  $('#notaClave').textContent = (nV === Q.length
-    ? 'Todas las preguntas tienen la respuesta verificada con libros: al responder verás la explicación y la página de la fuente. '
-    : nV
-    ? `${nV} de ${Q.length} preguntas tienen la respuesta verificada con libros. Las demás muestran la clave del documento original, que puede estar mal. `
-    : 'Las claves de este banco aún no están verificadas con libros: son las del documento original y pueden estar mal. ') +
-    (con < Q.length ? `${Q.length - con} preguntas no tienen respuesta; al responderlas puedes marcar tú la correcta.` : '');
+  $('#notaClave').textContent = 'Todas las preguntas tienen la respuesta verificada con libros: al responder verás la explicación y la página de la fuente.';
   const s = P.ses;
   $('#continuarBox').innerHTML = s && s.ids && s.ids.every(id => byId[id])
-    ? `<button class="resume" id="btnContinuar" type="button" style="border:0;width:100%;text-align:left;cursor:pointer">
-        <span style="font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase">Continuar donde me quedé</span>
+    ? `<button class="resume" id="btnContinuar" type="button">
+        <span class="k">Continuar donde me quedé</span>
         <b>Pregunta ${s.i + 1} de ${s.ids.length}</b></button>` : '';
   const bc = $('#btnContinuar'); if (bc) bc.onclick = () => abrir();
 }
-$('#secciones').onclick = e => {
+$('#secciones').onchange = e => {
   const b = e.target.closest('[data-sec]'); if (!b) return;
-  const s = b.dataset.sec;
-  if (s === '*') cfg.secs = null;
-  else { cfg.secs = cfg.secs || new Set(); cfg.secs.has(s) ? cfg.secs.delete(s) : cfg.secs.add(s); if (!cfg.secs.size) cfg.secs = null; }
+  const todos = secsVisibles.map(([s]) => s);
+  const marcados = new Set([...document.querySelectorAll('#secciones [data-sec]')].filter(x => x.checked).map(x => x.dataset.sec));
+  cfg.secs = marcados.size === todos.length ? null : marcados;
   renderSetup();
 };
+$('#todosSec').onclick = () => { cfg.secs = null; renderSetup(); };
 $('#filtro').onclick = e => { const b = e.target.closest('[data-f]'); if (b && !b.disabled) { cfg.filtro = b.dataset.f; renderSetup(); } };
 $('#cantidad').onclick = e => { const b = e.target.closest('[data-c]'); if (b) { cfg.cant = +b.dataset.c; renderSetup(); } };
-$('#soloClave').onchange = renderSetup;
 $('#empezar').onclick = () => {
   let ids = pool().map(q => q.id);
   if ($('#mezclar').checked) ids = mezclar(ids);
@@ -198,91 +218,188 @@ $('#borrar').onclick = e => {
   else { b.dataset.armado = '1'; b.textContent = 'Toca otra vez para confirmar'; }
 };
 
+// ---------- simulacro: 45 preguntas en 25 minutos, corrección al final ----------
+const SIM_N = 45, SIM_MS = 25 * 60000;
+function renderSim() {
+  const n = Math.min(SIM_N, Q.length);
+  const ms = Math.max(1, Math.round(SIM_MS * n / SIM_N / 60000)) * 60000;
+  const prev = App.simulacros().filter(x => String(x.semana) === String(SIM)).slice(-3).reverse();
+  const s = P.ses;
+  const enCurso = s && s.sim && s.ids && s.ids.every(id => byId[id]);
+  let h = `<div class="top"><a class="back" href="index.html#simulacro">← Volver</a></div>
+    <header class="hero" style="padding-top:0"><div class="kicker">Simulacro semanal</div><h1>${esc(B.nombre)}</h1></header>
+    <div class="sim-hero">
+      <div class="sim-big"><b>${n}</b><span>preguntas</span></div>
+      <div class="sim-big"><b>${ms / 60000}</b><span>minutos</span></div>
+      <div class="sim-big"><b>${n ? Math.round(ms / n / 1000) : 0}</b><span>seg. por pregunta</span></div>
+    </div>
+    <ul class="reglas">
+      <li>Solo entran los temas de la semana ${esc(SIM)}: ${MODO.temas.filter(t => nombreTema[t]).map(t => esc(nombreTema[t])).join(', ')}.</li>
+      <li>El reloj corre aunque salgas de la app. Al llegar a 0 se corrige solo.</li>
+      <li>No verás si acertaste hasta el final. Puedes cambiar de respuesta y marcar ⚑ las dudosas.</li>
+      ${n < SIM_N ? `<li>Esta semana tiene solo ${Q.length} preguntas verificadas: el simulacro usa todas y el tiempo baja en proporción.</li>` : ''}
+    </ul>`;
+  if (enCurso) h += `<button class="resume" id="simSeguir" type="button"><span class="k">Simulacro en curso</span><b>Volver al examen · pregunta ${s.i + 1} de ${s.ids.length}</b></button>`;
+  else h += `<button class="btn amber block big-btn" id="simEmpezar" type="button" ${n ? '' : 'disabled'}>Empezar simulacro</button>`;
+  if (prev.length) h += `<h2 class="section-title">Tus últimos simulacros de esta semana</h2><div class="list">` +
+    prev.map(x => `<div class="mini-res"><span>${new Date(x.fecha).toLocaleDateString('es', { day: 'numeric', month: 'short' })}</span><b>${x.nota.toFixed(1)}<small>/20</small></b><span>${x.bien}/${x.n} · ${fmtT(x.ms)}</span></div>`).join('') + '</div>';
+  $('#vSim').innerHTML = h;
+  const e1 = $('#simEmpezar'); if (e1) e1.onclick = () => {
+    const ids = mezclar(Q.map(q => q.id)).slice(0, n);
+    P.ses = { ids, i: 0, ans: {}, ts: Date.now(), sim: true, ini: Date.now(), fin: Date.now() + ms, dur: ms, tq: {}, url: URL_SES, nombre: B.nombre };
+    guardar(); abrir();
+  };
+  const e2 = $('#simSeguir'); if (e2) e2.onclick = () => abrir();
+}
+
 // ---------- sesión ----------
 function mezclar(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
-function empezar(ids) { P.ses = { ids, i: 0, ans: {}, ts: Date.now() }; guardar(); abrir(); }
-function abrir() { mostrar('vQuiz'); renderQ(); }
-function mostrar(v) { ['vSetup', 'vQuiz', 'vFin'].forEach(x => $('#' + x).hidden = x !== v); window.scrollTo({ top: 0 }); }
+function empezar(ids) { P.ses = { ids, i: 0, ans: {}, ts: Date.now(), tq: {}, url: URL_SES, nombre: B.nombre }; guardar(); abrir(); }
+function abrir() {
+  if (P.ses.sim && Date.now() >= P.ses.fin) { corregirSim(); return; }
+  mostrar('vQuiz'); cur = { id: null, t0: 0 }; renderQ(); tic();
+}
+function mostrar(v) { ['vSetup', 'vSim', 'vQuiz', 'vFin'].forEach(x => $('#' + x).hidden = x !== v); window.scrollTo({ top: 0 }); if (v !== 'vQuiz') { clearInterval(reloj); reloj = null; } }
 
-function registrar(q, ok) {
+// cronómetro de la pregunta que se ve
+let cur = { id: null, t0: 0 }, reloj = null;
+function cerrarTiempo() {
+  const S = P.ses;
+  if (S && cur.id && cur.t0) { S.tq = S.tq || {}; S.tq[cur.id] = (S.tq[cur.id] || 0) + Math.min(Date.now() - cur.t0, 15 * 60000); }
+  cur = { id: cur.id, t0: 0 };
+}
+function verPregunta(id) {
+  const S = P.ses;
+  const corre = S.sim || S.ans[id] === undefined;   // en práctica, el reloj para al responder
+  if (cur.id !== id) { cerrarTiempo(); cur = { id, t0: corre ? Date.now() : 0 }; }
+  else if (!cur.t0 && corre) cur.t0 = Date.now();
+}
+document.addEventListener('visibilitychange', () => {
+  if ($('#vQuiz').hidden || !P.ses) return;
+  if (document.hidden) { cerrarTiempo(); guardar(); }
+  else { const S = P.ses, id = S.ids[S.i]; if (S.sim || S.ans[id] === undefined) cur = { id, t0: Date.now() }; tic(); }
+});
+const fmtT = ms => { const s = Math.max(0, Math.round(ms / 1000)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(x).padStart(2, '0'); };
+function tic() {
+  clearInterval(reloj);
+  const paso = () => {
+    const S = P.ses; if (!S) return;
+    if (S.sim) {
+      const quedan = S.fin - Date.now();
+      $('#reloj').textContent = '⏱ ' + fmtT(quedan);
+      $('#reloj').className = 'reloj' + (quedan < 5 * 60000 ? ' poco' : '');
+      if (quedan <= 0) { clearInterval(reloj); corregirSim(); }
+    } else {
+      const q = S.ids[S.i];
+      const t = (S.tq && S.tq[q] || 0) + (cur.t0 && cur.id === q ? Date.now() - cur.t0 : 0);
+      $('#reloj').textContent = S.ans[q] !== undefined ? '' : '⏱ ' + fmtT(t);
+      $('#reloj').className = 'reloj suave';
+    }
+  };
+  paso(); reloj = setInterval(paso, 1000);
+}
+
+function registrar(q, ok, ms) {
   const h = P.hist[q.id] || { n: 0, ok: 0, last: null };
+  const primera = !h.n;
   h.n++; if (ok === true) h.ok++; h.last = ok; P.hist[q.id] = h;
+  App.anotar(gid(q), ms, ok, primera);
 }
 
 let editando = false;   // eligiendo la clave a mano
+let animada = null;    // última pregunta que entró con animación
 function fuentes(q) {
-  const v = q.ver; let h = '';
+  const v = q.ver; if (!v) return '';
+  let h = '';
   if (v.e === 'corregida') h += '<p class="muted" style="font-size:14px"><b>Clave corregida:</b> la del documento original estaba mal.</p>';
   if (v.n) h += `<p class="muted" style="font-size:14px"><span class="lbl">Nota:</span> ${esc(v.n)}</p>`;
-  if (v.f && v.f.length) h += `<p class="muted" style="font-size:14px"><span class="lbl">Fuente:</span> ${v.f.map(esc).join(' · ')}</p>`;
+  if (v.f && v.f.length) h += `<p class="fuente"><span class="lbl">Fuente:</span> ${v.f.map(esc).join(' · ')}</p>`;
   return h;
 }
 function renderQ() {
   const S = P.ses, q = byId[S.ids[S.i]];
+  verPregunta(q.id);
   const elegida = S.ans[q.id], respondida = elegida !== undefined, k = clave(q);
-  const ok = S.ids.filter(id => S.ans[id] !== undefined && S.ans[id] === clave(byId[id])).length;
-  const mal = S.ids.filter(id => S.ans[id] !== undefined && tieneClave(byId[id]) && S.ans[id] !== clave(byId[id])).length;
+  const sim = !!S.sim;
   $('#contador').textContent = `${S.i + 1} / ${S.ids.length}`;
-  $('#marcador').innerHTML = `<span class="v">✓ ${ok}</span> · <span class="x">✗ ${mal}</span>`;
+  if (sim) $('#marcador').innerHTML = `<span class="muted">${Object.keys(S.ans).length} resp.</span>`;
+  else {
+    const ok = S.ids.filter(id => S.ans[id] !== undefined && S.ans[id] === clave(byId[id])).length;
+    const mal = S.ids.filter(id => S.ans[id] !== undefined && tieneClave(byId[id]) && S.ans[id] !== clave(byId[id])).length;
+    $('#marcador').innerHTML = `<span class="v">✓ ${ok}</span> · <span class="x">✗ ${mal}</span>`;
+  }
+  $('#salir').textContent = sim ? 'Salir' : 'Pausar';
   $('#barra').style.width = `${Object.keys(S.ans).length / S.ids.length * 100}%`;
 
   let h = '<div class="meta">';
   if (q.rep) h += `<span class="pill amber">⭐ Alto valor</span>`;
-  if (TEMA) h += `<span class="pill">${esc(q.bn)}</span>`;
-  else if (grupo(q)) h += `<span class="pill">${esc(grupo(q))}</span>`;
-  if (q.p) h += `<span class="pill">pág. ${q.p}</span>`;
-  if (verificada(q)) h += '<span class="pill ok">✓ verificada</span>';
+  if (!sim) {
+    if (UN_TEMA) h += `<span class="pill">${esc(q.bn)}</span>`;
+    else if (grupo(q)) h += `<span class="pill">${esc(grupo(q))}</span>`;
+  }
   if (P.flag[q.id]) h += '<span class="pill warn">⚑ marcada</span>';
   h += `</div><p class="stem">${esc(q.stem)}</p><ol class="opts">`;
+  const corregir = respondida && !sim && !editando && tieneClave(q);
   q.opts.forEach((o, i) => {
     let c = 'opt';
-    if (respondida && !editando && tieneClave(q)) { if (i === k) c += ' right'; else if (i === elegida) c += ' wrong'; }
+    if (corregir) { if (i === k) c += ' right'; else if (i === elegida) c += ' wrong'; }
     else if (respondida && i === elegida) c += ' pick';
-    const bloqueada = respondida && !editando && tieneClave(q);
-    h += `<li><button type="button" class="${c}" data-i="${i}" ${bloqueada ? 'disabled' : ''}><span class="L">${L[i]}</span><span class="T">${esc(o)}</span></button></li>`;
+    h += `<li><button type="button" class="${c}" data-i="${i}" ${corregir ? 'disabled' : ''}><span class="L">${L[i]}</span><span class="T">${esc(o)}</span></button></li>`;
   });
   h += '</ol>';
 
-  if (respondida) {
+  if (respondida && !sim) {
     h += '<div class="fb">';
     if (editando) {
       h += '<div class="res nk">Toca la opción correcta</div><p>Se guardará como la clave de esta pregunta en tu celular.</p>';
     } else if (!tieneClave(q)) {
-      if (q.ver && q.ver.e === 'anulada') h += '<div class="res nk">Pregunta anulada</div>';
-      else if (q.ver && q.ver.e === 'dudosa') h += '<div class="res nk">Respuesta no confirmada</div>';
-      else h += '<div class="res nk">Esta pregunta no trae la respuesta en el documento</div>';
-      if (q.ver && q.why) h += `<p><span class="lbl">Por qué:</span> ${esc(q.why)}</p>` + fuentes(q);
-      h += '<p class="muted" style="font-size:14px">Si sabes cuál es la correcta, tócala para guardarla como clave. Si no, sigue a la siguiente.</p>';
+      h += '<div class="res nk">Esta pregunta no trae la respuesta</div>';
+      if (q.why) h += `<p><span class="lbl">Por qué:</span> ${esc(q.why)}</p>` + fuentes(q);
+      h += '<p class="muted" style="font-size:14px">Si sabes cuál es la correcta, tócala para guardarla como clave.</p>';
     } else {
       h += elegida === k ? '<div class="res ok">Correcto</div>' : `<div class="res ko">Incorrecto · la respuesta es ${L[k]}</div>`;
+      if (S.tq && S.tq[q.id]) h += `<p class="muted" style="font-size:13px;margin-top:-4px">Tardaste ${fmtT(S.tq[q.id])}</p>`;
       if (q.why) h += `<p><span class="lbl">Por qué:</span> ${esc(q.why)}</p>`;
       if (verificada(q)) h += fuentes(q);
-      else {
-        const fuente = q.id in P.clave ? 'la elegiste tú' : { 'resaltado': 'resaltada en el documento original', 'aula virtual': 'aula virtual (UPAO)', 'respuestas del documento': 'respuestas del documento' }[q.src] || 'documento original';
-        h += `<p class="muted" style="font-size:14px">Clave sin verificar: ${esc(fuente)}. Puede estar mal.</p>`;
-      }
+      else h += `<p class="muted" style="font-size:14px">Clave elegida por ti.</p>`;
     }
     h += '</div>';
+    if (q.rep) h += `<p class="muted" style="font-size:14px;margin-top:10px">⭐ <b>Alto valor:</b> esta pregunta (o una muy parecida) aparece ${q.rep.n} veces ${q.rep.en.length > 1 ? 'en ' + q.rep.en.length + ' bancos' : 'en el mismo banco'} (${q.rep.en.map(esc).join(', ')}). Es probable que vuelva a salir.</p>`;
   }
-  if (q.rep && respondida) h += `<p class="muted" style="font-size:14px;margin-top:10px">⭐ <b>Alto valor:</b> esta pregunta (o una muy parecida) aparece ${q.rep.n} veces ${q.rep.en.length > 1 ? 'en ' + q.rep.en.length + ' bancos' : 'en el mismo banco'} (${q.rep.en.map(esc).join(', ')}). Es probable que vuelva a salir.</p>`;
   h += '<div class="tools">';
-  if (respondida && tieneClave(q) && !editando) h += '<button class="linkbtn" type="button" data-accion="editar">¿La clave está mal? Corregirla</button>';
-  if (B.imgs && B.imgs[q.p - 1]) h += '<button class="linkbtn" type="button" data-accion="foto">Ver el original</button>';
-  h += `<button class="linkbtn" type="button" data-accion="flag">${P.flag[q.id] ? 'Quitar marca ⚑' : 'Marcar ⚑ (repasar o mal convertida)'}</button>`;
+  if (respondida && !sim && tieneClave(q) && !editando) h += '<button class="linkbtn" type="button" data-accion="editar">¿La clave está mal? Corregirla</button>';
+  if (!sim && B.imgs && B.imgs[q.p - 1]) h += '<button class="linkbtn" type="button" data-accion="foto">Ver el original</button>';
+  h += `<button class="linkbtn" type="button" data-accion="flag">${P.flag[q.id] ? 'Quitar marca ⚑' : sim ? 'Marcar ⚑ (dudosa)' : 'Marcar ⚑ (repasar)'}</button>`;
   h += '</div>';
   $('#tarjeta').innerHTML = h;
+  if (animada !== q.id) { animada = q.id; $('#tarjeta').classList.remove('entra'); void $('#tarjeta').offsetWidth; $('#tarjeta').classList.add('entra'); }
   $('#anterior').disabled = S.i === 0;
-  $('#siguiente').textContent = S.i === S.ids.length - 1 ? 'Ver resultados' : 'Siguiente';
+  $('#siguiente').textContent = S.i === S.ids.length - 1 ? (sim ? 'Terminar y corregir' : 'Ver resultados') : 'Siguiente';
+  delete $('#siguiente').dataset.armado;
+  $('#mapa').hidden = !sim;
+  if (sim) $('#mapa').innerHTML = S.ids.map((id, i) => `<button type="button" data-ir="${i}" class="${i === S.i ? 'aqui ' : ''}${S.ans[id] !== undefined ? 'hecha ' : ''}${P.flag[id] ? 'dudosa' : ''}">${i + 1}</button>`).join('') +
+    `<button type="button" class="terminar" id="terminarYa">Terminar ya</button>`;
 }
 
+$('#mapa').onclick = e => {
+  const b = e.target.closest('[data-ir]');
+  if (b) { P.ses.i = +b.dataset.ir; guardar(); renderQ(); window.scrollTo({ top: 0 }); return; }
+  if (e.target.id === 'terminarYa') {
+    const t = e.target;
+    if (t.dataset.armado) corregirSim();
+    else { t.dataset.armado = '1'; const faltan = P.ses.ids.length - Object.keys(P.ses.ans).length; t.textContent = faltan ? `Te faltan ${faltan}. Toca otra vez para terminar` : 'Toca otra vez para terminar'; }
+  }
+};
 $('#tarjeta').onclick = e => {
   const S = P.ses, q = byId[S.ids[S.i]];
   const o = e.target.closest('[data-i]');
   if (o && !o.disabled) {
     const i = +o.dataset.i;
-    if (S.ans[q.id] === undefined) {                       // primera respuesta
+    if (S.sim) { S.ans[q.id] = i; }                        // simulacro: se puede cambiar, se corrige al final
+    else if (S.ans[q.id] === undefined) {                  // primera respuesta
+      cerrarTiempo();
       S.ans[q.id] = i;
-      registrar(q, tieneClave(q) ? i === clave(q) : null);
+      registrar(q, tieneClave(q) ? i === clave(q) : null, (S.tq || {})[q.id]);
     } else if (editando || !tieneClave(q)) {               // fijar la clave a mano
       P.clave[q.id] = i; editando = false;
       const h = P.hist[q.id]; if (h) { if (h.last === true) h.ok--; h.last = S.ans[q.id] === i; if (h.last) h.ok++; }
@@ -298,47 +415,94 @@ $('#cerrarVisor').onclick = () => { $('#visor').hidden = true; };
 $('#siguiente').onclick = () => {
   const S = P.ses; editando = false;
   if (S.i < S.ids.length - 1) { S.i++; S.ts = Date.now(); guardar(); renderQ(); window.scrollTo({ top: 0 }); }
+  else if (S.sim) {
+    const faltan = S.ids.length - Object.keys(S.ans).length;
+    const b = $('#siguiente');
+    if (faltan && !b.dataset.armado) { b.dataset.armado = '1'; b.textContent = `Te faltan ${faltan} · toca otra vez`; return; }
+    corregirSim();
+  }
   else terminar();
 };
 $('#anterior').onclick = () => { const S = P.ses; editando = false; if (S.i > 0) { S.i--; guardar(); renderQ(); window.scrollTo({ top: 0 }); } };
-$('#salir').onclick = () => { editando = false; renderSetup(); mostrar('vSetup'); };   // la sesión queda guardada
+$('#salir').onclick = () => { editando = false; cerrarTiempo(); guardar(); if (P.ses && P.ses.sim) { renderSim(); mostrar('vSim'); } else { renderSetup(); mostrar('vSetup'); } };   // la sesión queda guardada
 
 // ---------- resultados ----------
+function revision(ids, ans, titulo) {
+  if (!ids.length) return '';
+  let h = `<h2 class="section-title">${titulo}</h2><div class="rlist">`;
+  ids.forEach(id => {
+    const q = byId[id], k = clave(q), a = ans[id];
+    const est = a === undefined ? 'blanco' : a === k ? 'bien' : 'mal';
+    h += `<details class="r-${est}"><summary><span class="dot"></span><span>${esc(q.stem.slice(0, 110))}${q.stem.length > 110 ? '…' : ''}</span></summary><div class="body">
+      <p>${esc(q.stem)}</p>` +
+      (a === undefined ? '<p class="muted">No la respondiste.</p>' : a !== k ? `<p>Tu respuesta: <b>${L[a]}.</b> ${esc(q.opts[a])}</p>` : '') +
+      `<p style="color:var(--ok)">Correcta: <b>${L[k]}.</b> ${esc(q.opts[k])}</p>${q.why ? `<p><span class="lbl">Por qué:</span> ${esc(q.why)}</p>` : ''}${fuentes(q)}</div></details>`;
+  });
+  return h + '</div>';
+}
 function terminar() {
+  cerrarTiempo();
   const S = P.ses;
   const resp = S.ids.filter(id => S.ans[id] !== undefined);
   const conK = resp.filter(id => tieneClave(byId[id]));
   const bien = conK.filter(id => S.ans[id] === clave(byId[id]));
   const falladas = S.ids.filter(id => tieneClave(byId[id]) && S.ans[id] !== undefined && S.ans[id] !== clave(byId[id]));
   const pct = conK.length ? Math.round(bien.length / conK.length * 100) : 0;
+  const tTotal = Object.values(S.tq || {}).reduce((a, b) => a + b, 0);
   P.ses = null; guardar();
-  let h = `<div class="top"><a class="back" href="index.html">← Menú</a></div>
-    <h1 style="font-size:28px">${esc(B.nombre)}</h1>
-    <p class="big" style="margin:18px 0 4px">${bien.length}<span style="font-size:26px;color:var(--muted)"> / ${conK.length}</span></p>
-    <p class="muted" style="margin:0">${pct}% de aciertos` +
+  let h = `<div class="top"><a class="back" href="${esc(MODO ? MODO.volver : 'index.html#bancos')}">← Volver</a></div>
+    <div class="kicker">${esc(B.nombre)}</div>
+    <div class="score-hero"><div class="ring" style="--p:${pct}"><b>${pct}%</b></div>
+      <div><p class="big">${bien.length}<span> / ${conK.length}</span></p>
+      <p class="muted" style="margin:0">aciertos` +
     (resp.length < S.ids.length ? ` · ${S.ids.length - resp.length} sin responder` : '') +
-    (resp.length > conK.length ? ` · ${resp.length - conK.length} sin clave` : '') + '</p><div class="actions">';
+    (tTotal ? `<br>Tiempo: ${fmtT(tTotal)} · ${fmtT(tTotal / Math.max(1, resp.length))} por pregunta` : '') + '</p></div></div><div class="actions">';
   if (falladas.length) h += `<button class="btn" type="button" id="repasar">Repasar las ${falladas.length} que fallé</button>`;
   h += '<button class="btn ghost" type="button" id="otra">Nueva práctica</button></div>';
-  if (falladas.length) {
-    h += '<h2 style="font-size:22px;margin-top:26px">Las que fallaste</h2><div class="rlist">';
-    falladas.forEach(id => {
-      const q = byId[id], k = clave(q);
-      h += `<details><summary>${esc(q.stem.slice(0, 110))}${q.stem.length > 110 ? '…' : ''}</summary><div class="body">
-        <p>${esc(q.stem)}</p><p>Tu respuesta: <b>${L[S.ans[id]]}.</b> ${esc(q.opts[S.ans[id]])}</p>
-        <p style="color:var(--ok)">Correcta: <b>${L[k]}.</b> ${esc(q.opts[k])}</p>${q.why ? `<p><span class="lbl">Por qué:</span> ${esc(q.why)}</p>` : ''}</div></details>`;
-    });
-    h += '</div>';
-  }
+  h += revision(falladas, S.ans, 'Las que fallaste');
   $('#vFin').innerHTML = h;
   mostrar('vFin');
   const rp = $('#repasar'); if (rp) rp.onclick = () => empezar(mezclar(falladas));
   $('#otra').onclick = () => { renderSetup(); mostrar('vSetup'); };
 }
+function corregirSim() {
+  cerrarTiempo();
+  const S = P.ses; if (!S) return;
+  const tq = S.tq || {};
+  S.ids.forEach(id => { const q = byId[id]; if (S.ans[id] !== undefined) registrar(q, S.ans[id] === clave(q), tq[id]); });
+  const bien = S.ids.filter(id => S.ans[id] !== undefined && S.ans[id] === clave(byId[id]));
+  const mal = S.ids.filter(id => S.ans[id] !== undefined && S.ans[id] !== clave(byId[id]));
+  const blanco = S.ids.filter(id => S.ans[id] === undefined);
+  const usado = Math.min(Date.now(), S.fin) - S.ini;
+  const nota = S.ids.length ? bien.length / S.ids.length * 20 : 0;
+  App.guardarSimulacro({ semana: SIM, fecha: Date.now(), n: S.ids.length, bien: bien.length, mal: mal.length, blanco: blanco.length, ms: usado, dur: S.dur, nota: Math.round(nota * 10) / 10 });
+  const ids = S.ids, ans = S.ans;
+  P.ses = null; guardar();
+  const pct = Math.round(bien.length / Math.max(1, ids.length) * 100);
+  let h = `<div class="top"><a class="back" href="index.html#simulacro">← Volver</a></div>
+    <div class="kicker">${esc(B.nombre)} · corregido</div>
+    <div class="score-hero"><div class="ring ${nota >= 10.5 ? 'aprob' : 'desaprob'}" style="--p:${pct}"><b>${nota.toFixed(1)}</b><small>/20</small></div>
+      <div><p class="big">${bien.length}<span> / ${ids.length}</span></p>
+      <p class="muted" style="margin:0">${mal.length} incorrectas · ${blanco.length} en blanco<br>Tiempo usado: ${fmtT(usado)} de ${fmtT(S.dur)}<br>Promedio: ${fmtT(usado / Math.max(1, ids.length - blanco.length))} por pregunta</p></div></div>
+    <p class="muted" style="font-size:14px">${nota >= 10.5 ? 'Aprobado.' : 'Aún no llega a 10.5.'} Las preguntas en blanco cuentan como incorrectas.</p>
+    <div class="actions">${mal.length + blanco.length ? `<button class="btn" type="button" id="repasar">Practicar las ${mal.length + blanco.length} que no acerté</button>` : ''}
+    <a class="btn ghost" href="index.html#estadisticas">Ver mis estadísticas</a></div>`;
+  h += revision(mal, ans, 'Incorrectas') + revision(blanco, ans, 'En blanco') + revision(bien, ans, 'Correctas');
+  $('#vFin').innerHTML = h;
+  mostrar('vFin');
+  const rp = $('#repasar'); if (rp) rp.onclick = () => empezar(mezclar(mal.concat(blanco)));
+}
 
-if (TEMA) { $('#borrar').hidden = true; $('#fSecciones').querySelector('h3').textContent = 'Bancos'; }
-renderSetup();
-if (params.get('continuar') && P.ses) abrir();
+if (VARIOS) $('#borrar').hidden = true;
+if (UN_TEMA) $('#tituloSecciones').textContent = 'Bancos';
+if (SIM) {
+  if (params.get('continuar') && P.ses && P.ses.sim) abrir();
+  else { renderSim(); mostrar('vSim'); }
+} else {
+  renderSetup();
+  if (params.get('continuar') && P.ses) abrir();
+  else if (params.get('auto')) $('#empezar').click();
+}
 })();
 </script>
 </body></html>

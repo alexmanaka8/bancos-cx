@@ -449,8 +449,12 @@ def main():
             if q.get('tema'):
                 c = cuenta.setdefault(q['tema'], {'n': 0, 'alto': 0})
                 c['n'] += 1; c['alto'] += bool(q.get('rep'))
-    catalogo['temas'] = [dict(id=t['id'], nombre=t['nombre'], clase=t['clase'], **cuenta[t['id']])
+    catalogo['temas'] = [dict(id=t['id'], nombre=t['nombre'], clase=t['clase'], semana=t.get('semana'), **cuenta[t['id']])
                          for t in TEMAS if t['id'] in cuenta]
+    # cronograma del curso (semanas y fechas de examen): lo usa el menú para agrupar los temas por semana
+    crono = os.path.join(RAIZ, 'cronograma.json')
+    if os.path.exists(crono):
+        catalogo['cronograma'] = json.load(open(crono, encoding='utf8'))
     catalogo['sinTema'] = sum(1 for _, d in leidos for q in d['preguntas'] if not q.get('tema'))
     for b in cfg['biblioteca']:
         print(f'• (biblioteca) {b["nombre"]}')

@@ -3,240 +3,286 @@
   "id": "historia",
   "nombre": "Historia de la cirugía",
   "clase": "1",
+  "semana": 1,
   "incluye": "historia, pioneros, primeras cirugías, epónimos históricos"
  },
  {
   "id": "tecnica",
   "nombre": "Técnica quirúrgica básica e instrumental",
   "clase": "2",
+  "semana": 1,
   "incluye": "tiempos quirúrgicos, instrumental, mesa quirúrgica, posiciones, lavado quirúrgico, vestido, campos, equipo quirúrgico y sus funciones"
  },
  {
   "id": "rcp",
   "nombre": "Reanimación cardiopulmonar (RCP básica y avanzada)",
   "clase": "3",
+  "semana": 1,
   "incluye": "BLS, ACLS, desfibrilación, cardioversión, ritmos de paro, fármacos de paro"
  },
  {
   "id": "seguridad",
   "nombre": "Seguridad en el entorno quirúrgico",
   "clase": "4",
+  "semana": 1,
   "incluye": "asepsia, antisepsia, esterilización, desinfección, bioseguridad, quirófano (ventilación, áreas), lista de verificación OMS, comunicación, errores, electrocirugía y riesgos"
  },
  {
   "id": "procedimientos",
   "nombre": "Procedimientos básicos",
   "clase": "5",
+  "semana": 1,
   "incluye": "anestesia local, bloqueos, vías venosas, sondas, drenaje torácico, toracocentesis, paracentesis, curaciones simples, drenes"
  },
  {
   "id": "suturas",
   "nombre": "Laparotomía y suturas",
   "clase": "7",
+  "semana": 2,
   "incluye": "incisiones abdominales, cierre de pared, materiales de sutura, agujas, nudos, grapas"
  },
  {
   "id": "cicatrizacion",
   "nombre": "Cicatrización y clasificación de heridas",
   "clase": "8",
+  "semana": 2,
   "incluye": "fases de cicatrización, factores que la alteran, queloides, tipos de cierre, clasificación de heridas (limpia, contaminada…), curación de heridas"
  },
  {
   "id": "iso",
   "nombre": "Infección del sitio quirúrgico",
   "clase": "9",
+  "semana": 2,
   "incluye": "ISO superficial, profunda, órgano-espacio, gérmenes, prevención, profilaxis antibiótica"
  },
  {
   "id": "laparoscopia",
   "nombre": "Cirugía laparoscópica y robótica",
   "clase": "10",
+  "semana": 2,
   "incluye": "neumoperitoneo, trócares, complicaciones de la laparoscopia, ventajas, robótica"
  },
  {
   "id": "complicaciones",
   "nombre": "Complicaciones quirúrgicas y antibioticoterapia",
   "clase": "11",
+  "semana": 2,
   "incluye": "complicaciones posoperatorias (fiebre, dehiscencia, fístulas, TVP/TEP, atelectasia, íleo), antibióticos terapéuticos"
  },
  {
   "id": "eras",
   "nombre": "ERAS y cuidados perioperatorios",
   "clase": "12",
+  "semana": 3,
   "incluye": "recuperación mejorada, ayuno, valoración preoperatoria, riesgo quirúrgico, ASA"
  },
  {
   "id": "liquidos",
   "nombre": "Balance hidroelectrolítico y ácido-base",
   "clase": "13",
+  "semana": 3,
   "incluye": "líquidos, electrolitos, sodio, potasio, gases arteriales, acidosis, alcalosis"
  },
  {
   "id": "nutricion",
   "nombre": "Soporte nutricional en el paciente quirúrgico",
   "clase": "14",
+  "semana": 3,
   "incluye": "valoración nutricional, nutrición enteral y parenteral, síndrome de realimentación, respuesta metabólica al trauma"
  },
  {
   "id": "quemados",
   "nombre": "Manejo de quemados",
   "clase": "15",
+  "semana": 3,
   "incluye": "clasificación de quemaduras, superficie corporal, Parkland, quemaduras eléctricas y químicas"
  },
  {
   "id": "shock",
   "nombre": "Shock",
   "clase": "16",
+  "semana": 3,
   "incluye": "tipos de shock, hemorragia, clasificación ATLS de la hemorragia, reanimación, vasopresores"
  },
  {
   "id": "hernias",
   "nombre": "Hernias de la pared abdominal",
   "clase": "17",
+  "semana": 4,
   "incluye": "hernia inguinal directa e indirecta, crural, umbilical, epigástrica, Spiegel, Littré, Richter, técnicas de reparación, anatomía inguinal"
  },
  {
   "id": "eventraciones",
   "nombre": "Eventraciones, evisceraciones y diástasis de rectos",
   "clase": "18",
+  "semana": 4,
   "incluye": "hernia incisional, evisceración, dehiscencia de pared, diástasis"
  },
  {
   "id": "abdomen-agudo",
   "nombre": "Abdomen agudo",
   "clase": "19-20",
+  "semana": 4,
   "incluye": "abdomen agudo quirúrgico, en gestante y en anciano, peritonitis, signos semiológicos, isquemia mesentérica"
  },
  {
   "id": "esofago-estomago",
   "nombre": "Patología esófago-gástrica benigna",
   "clase": "22",
+  "semana": 5,
   "incluye": "úlcera péptica, H. pylori, hemorragia digestiva alta, hernia hiatal, ERGE, acalasia, perforación"
  },
  {
   "id": "intestino",
   "nombre": "Patología intestinal y obstrucción intestinal",
   "clase": "21, 23",
+  "semana": [
+   4,
+   5
+  ],
   "incluye": "obstrucción intestinal, vólvulo, íleo, bridas, Crohn, divertículo de Meckel, patología intestinal no obstructiva"
  },
  {
   "id": "colon",
   "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
   "clase": "24",
+  "semana": 5,
   "incluye": "diverticulitis, Hinchey, megacolon, colitis ulcerosa, colitis, vólvulo de sigma, hemorragia digestiva baja"
  },
  {
   "id": "apendicitis",
   "nombre": "Apendicitis aguda",
   "clase": "25",
+  "semana": 5,
   "incluye": "apendicitis, Alvarado, signos apendiculares, complicaciones, plastrón"
  },
  {
   "id": "anorrectal",
   "nombre": "Patología anorrectal benigna",
   "clase": "26",
+  "semana": 5,
   "incluye": "hemorroides, fisura, fístula, absceso perianal, quiste pilonidal, prolapso rectal"
  },
  {
   "id": "higado",
   "nombre": "Quistes y abscesos del hígado",
   "clase": "27",
+  "semana": 6,
   "incluye": "quiste hidatídico, absceso hepático piógeno y amebiano, quistes simples, tumores hepáticos benignos"
  },
  {
   "id": "vesicula",
   "nombre": "Colelitiasis, colecistitis y coledocolitiasis",
   "clase": "28",
+  "semana": 6,
   "incluye": "litiasis biliar, colecistitis aguda, Tokio para colecistitis, coledocolitiasis, CPRE, colecistectomía, anatomía biliar"
  },
  {
   "id": "via-biliar",
   "nombre": "Colangitis, Mirizzi, quiste de colédoco y lesión de vía biliar",
   "clase": "29",
+  "semana": 6,
   "incluye": "colangitis aguda, tríada de Charcot, péntada de Reynolds, Mirizzi, quistes de colédoco, lesión iatrogénica de vía biliar, Strasberg, Bismuth"
  },
  {
   "id": "pancreas-bazo",
   "nombre": "Pancreatitis aguda y patología del bazo",
   "clase": "30",
+  "semana": 6,
   "incluye": "pancreatitis, criterios de Ranson y Atlanta, pseudoquiste, necrosis, esplenectomía, bazo"
  },
  {
   "id": "trauma",
   "nombre": "Politraumatizado y trauma",
   "clase": "31-32",
+  "semana": [
+   6,
+   7
+  ],
   "incluye": "ATLS, ABCDE, vía aérea, neumotórax, hemotórax, trauma cervical, torácico, abdominal y pélvico, FAST, control de daños, síndrome compartimental abdominal, trauma de bazo e hígado"
  },
  {
   "id": "bariatrica",
   "nombre": "Cirugía bariátrica y metabólica",
   "clase": "33",
+  "semana": 7,
   "incluye": "obesidad, IMC, bypass gástrico, manga gástrica, indicaciones"
  },
  {
   "id": "trasplantes",
   "nombre": "Trasplantes y procura de órganos",
   "clase": "34",
+  "semana": 7,
   "incluye": "muerte encefálica, donación, rechazo, inmunosupresión"
  },
  {
   "id": "etica",
   "nombre": "Ética y profesionalismo en cirugía",
   "clase": "35",
+  "semana": 7,
   "incluye": "consentimiento informado, principios bioéticos, profesionalismo"
  },
  {
   "id": "onco-digestivo",
   "nombre": "Cáncer digestivo",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "cáncer de esófago, estómago, colon, recto, ano, páncreas, hígado y vía biliar; pólipos y síndromes hereditarios (FAP, Lynch); GIST, neuroendocrinos, carcinoides, linfomas digestivos"
  },
  {
   "id": "hipertension-portal",
   "nombre": "Cirrosis e hipertensión portal",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "cirrosis, Child-Pugh, MELD, hipertensión portal, várices esofágicas, ascitis, encefalopatía, derivaciones (TIPS, shunts)"
  },
  {
   "id": "endocrino",
   "nombre": "Tiroides, paratiroides y suprarrenal",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "nódulo tiroideo, cáncer de tiroides, tiroidectomía, hiperparatiroidismo, feocromocitoma, suprarrenal, MEN"
  },
  {
   "id": "mama",
   "nombre": "Mama",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "BI-RADS, cáncer de mama, ganglio centinela, patología benigna de mama"
  },
  {
   "id": "torax-vascular",
   "nombre": "Tórax y vascular",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "pulmón, pleura, mediastino, diafragma (no traumático), aneurismas, isquemia arterial, enfermedad carotídea, várices"
  },
  {
   "id": "hemostasia",
   "nombre": "Hemostasia, coagulación y transfusión",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "cascada de coagulación, coagulopatías, anticoagulantes y su reversión, transfusión de hemoderivados (excepto la reanimación del shock hemorrágico)"
  },
  {
   "id": "piel-partes-blandas",
   "nombre": "Piel, partes blandas y sarcomas",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "melanoma, cáncer de piel, sarcomas, quistes y tumores de partes blandas, infecciones necrotizantes"
  },
  {
   "id": "pediatria",
   "nombre": "Cirugía pediátrica",
   "clase": "fuera del sílabo",
+  "semana": null,
   "incluye": "estenosis pilórica, invaginación, malformaciones congénitas, hernias del niño"
  },
  {
   "id": "otros",
   "nombre": "Otros temas",
   "clase": "",
+  "semana": null,
   "incluye": "lo que no encaja en ningún tema anterior (urología, ginecología, texto ilegible, etc.)"
  }
 ]

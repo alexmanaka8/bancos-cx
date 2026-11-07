@@ -147,6 +147,7 @@
    "id": "historia",
    "nombre": "Historia de la cirugía",
    "clase": "1",
+   "semana": 1,
    "n": 2,
    "alto": 1
   },
@@ -154,6 +155,7 @@
    "id": "rcp",
    "nombre": "Reanimación cardiopulmonar (RCP básica y avanzada)",
    "clase": "3",
+   "semana": 1,
    "n": 6,
    "alto": 2
   },
@@ -161,6 +163,7 @@
    "id": "seguridad",
    "nombre": "Seguridad en el entorno quirúrgico",
    "clase": "4",
+   "semana": 1,
    "n": 6,
    "alto": 3
   },
@@ -168,6 +171,7 @@
    "id": "procedimientos",
    "nombre": "Procedimientos básicos",
    "clase": "5",
+   "semana": 1,
    "n": 5,
    "alto": 0
   },
@@ -175,6 +179,7 @@
    "id": "suturas",
    "nombre": "Laparotomía y suturas",
    "clase": "7",
+   "semana": 2,
    "n": 5,
    "alto": 3
   },
@@ -182,6 +187,7 @@
    "id": "cicatrizacion",
    "nombre": "Cicatrización y clasificación de heridas",
    "clase": "8",
+   "semana": 2,
    "n": 33,
    "alto": 11
   },
@@ -189,6 +195,7 @@
    "id": "iso",
    "nombre": "Infección del sitio quirúrgico",
    "clase": "9",
+   "semana": 2,
    "n": 10,
    "alto": 5
   },
@@ -196,6 +203,7 @@
    "id": "laparoscopia",
    "nombre": "Cirugía laparoscópica y robótica",
    "clase": "10",
+   "semana": 2,
    "n": 5,
    "alto": 0
   },
@@ -203,6 +211,7 @@
    "id": "complicaciones",
    "nombre": "Complicaciones quirúrgicas y antibioticoterapia",
    "clase": "11",
+   "semana": 2,
    "n": 35,
    "alto": 15
   },
@@ -210,6 +219,7 @@
    "id": "eras",
    "nombre": "ERAS y cuidados perioperatorios",
    "clase": "12",
+   "semana": 3,
    "n": 13,
    "alto": 8
   },
@@ -217,6 +227,7 @@
    "id": "liquidos",
    "nombre": "Balance hidroelectrolítico y ácido-base",
    "clase": "13",
+   "semana": 3,
    "n": 31,
    "alto": 17
   },
@@ -224,6 +235,7 @@
    "id": "nutricion",
    "nombre": "Soporte nutricional en el paciente quirúrgico",
    "clase": "14",
+   "semana": 3,
    "n": 15,
    "alto": 6
   },
@@ -231,6 +243,7 @@
    "id": "quemados",
    "nombre": "Manejo de quemados",
    "clase": "15",
+   "semana": 3,
    "n": 23,
    "alto": 9
   },
@@ -238,6 +251,7 @@
    "id": "shock",
    "nombre": "Shock",
    "clase": "16",
+   "semana": 3,
    "n": 12,
    "alto": 6
   },
@@ -245,6 +259,7 @@
    "id": "hernias",
    "nombre": "Hernias de la pared abdominal",
    "clase": "17",
+   "semana": 4,
    "n": 25,
    "alto": 19
   },
@@ -252,6 +267,7 @@
    "id": "eventraciones",
    "nombre": "Eventraciones, evisceraciones y diástasis de rectos",
    "clase": "18",
+   "semana": 4,
    "n": 7,
    "alto": 2
   },
@@ -259,6 +275,7 @@
    "id": "abdomen-agudo",
    "nombre": "Abdomen agudo",
    "clase": "19-20",
+   "semana": 4,
    "n": 18,
    "alto": 7
   },
@@ -266,6 +283,7 @@
    "id": "esofago-estomago",
    "nombre": "Patología esófago-gástrica benigna",
    "clase": "22",
+   "semana": 5,
    "n": 31,
    "alto": 16
   },
@@ -273,6 +291,10 @@
    "id": "intestino",
    "nombre": "Patología intestinal y obstrucción intestinal",
    "clase": "21, 23",
+   "semana": [
+    4,
+    5
+   ],
    "n": 49,
    "alto": 37
   },
@@ -280,6 +302,7 @@
    "id": "colon",
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
+   "semana": 5,
    "n": 35,
    "alto": 22
   },
@@ -287,6 +310,7 @@
    "id": "apendicitis",
    "nombre": "Apendicitis aguda",
    "clase": "25",
+   "semana": 5,
    "n": 28,
    "alto": 19
   },
@@ -294,6 +318,7 @@
    "id": "anorrectal",
    "nombre": "Patología anorrectal benigna",
    "clase": "26",
+   "semana": 5,
    "n": 33,
    "alto": 19
   },
@@ -301,6 +326,7 @@
    "id": "higado",
    "nombre": "Quistes y abscesos del hígado",
    "clase": "27",
+   "semana": 6,
    "n": 14,
    "alto": 7
   },
@@ -308,6 +334,7 @@
    "id": "vesicula",
    "nombre": "Colelitiasis, colecistitis y coledocolitiasis",
    "clase": "28",
+   "semana": 6,
    "n": 38,
    "alto": 14
   },
@@ -315,6 +342,7 @@
    "id": "via-biliar",
    "nombre": "Colangitis, Mirizzi, quiste de colédoco y lesión de vía biliar",
    "clase": "29",
+   "semana": 6,
    "n": 23,
    "alto": 10
   },
@@ -322,6 +350,7 @@
    "id": "pancreas-bazo",
    "nombre": "Pancreatitis aguda y patología del bazo",
    "clase": "30",
+   "semana": 6,
    "n": 31,
    "alto": 16
   },
@@ -329,6 +358,10 @@
    "id": "trauma",
    "nombre": "Politraumatizado y trauma",
    "clase": "31-32",
+   "semana": [
+    6,
+    7
+   ],
    "n": 31,
    "alto": 10
   },
@@ -336,6 +369,7 @@
    "id": "bariatrica",
    "nombre": "Cirugía bariátrica y metabólica",
    "clase": "33",
+   "semana": 7,
    "n": 2,
    "alto": 0
   },
@@ -343,6 +377,7 @@
    "id": "trasplantes",
    "nombre": "Trasplantes y procura de órganos",
    "clase": "34",
+   "semana": 7,
    "n": 1,
    "alto": 0
   },
@@ -350,6 +385,7 @@
    "id": "onco-digestivo",
    "nombre": "Cáncer digestivo",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 19,
    "alto": 19
   },
@@ -357,6 +393,7 @@
    "id": "hipertension-portal",
    "nombre": "Cirrosis e hipertensión portal",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 15,
    "alto": 7
   },
@@ -364,6 +401,7 @@
    "id": "endocrino",
    "nombre": "Tiroides, paratiroides y suprarrenal",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 1,
    "alto": 0
   },
@@ -371,6 +409,7 @@
    "id": "mama",
    "nombre": "Mama",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 18,
    "alto": 5
   },
@@ -378,6 +417,7 @@
    "id": "torax-vascular",
    "nombre": "Tórax y vascular",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 10,
    "alto": 9
   },
@@ -385,6 +425,7 @@
    "id": "hemostasia",
    "nombre": "Hemostasia, coagulación y transfusión",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 9,
    "alto": 5
   },
@@ -392,6 +433,7 @@
    "id": "piel-partes-blandas",
    "nombre": "Piel, partes blandas y sarcomas",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 5,
    "alto": 3
   },
@@ -399,6 +441,7 @@
    "id": "pediatria",
    "nombre": "Cirugía pediátrica",
    "clase": "fuera del sílabo",
+   "semana": null,
    "n": 3,
    "alto": 3
   },
@@ -406,9 +449,103 @@
    "id": "otros",
    "nombre": "Otros temas",
    "clase": "",
+   "semana": null,
    "n": 8,
    "alto": 6
   }
  ],
+ "cronograma": {
+  "curso": "Cirugía I · Generales (UPAO 2026)",
+  "nota": "Los temas de cada semana están en temas.json (campo semana). Un tema puede ir en dos semanas.",
+  "semanas": [
+   {
+    "n": 1,
+    "inicio": "2026-10-26",
+    "fin": "2026-10-30",
+    "titulo": "Bases de la cirugía"
+   },
+   {
+    "n": 2,
+    "inicio": "2026-11-02",
+    "fin": "2026-11-06",
+    "titulo": "Heridas, infección y complicaciones"
+   },
+   {
+    "n": 3,
+    "inicio": "2026-11-09",
+    "fin": "2026-11-13",
+    "titulo": "Paciente crítico: líquidos, nutrición, quemados y shock",
+    "estrella": true
+   },
+   {
+    "n": 4,
+    "inicio": "2026-11-16",
+    "fin": "2026-11-20",
+    "titulo": "Pared abdominal y abdomen agudo"
+   },
+   {
+    "n": 5,
+    "inicio": "2026-11-23",
+    "fin": "2026-11-27",
+    "titulo": "Tubo digestivo"
+   },
+   {
+    "n": 6,
+    "inicio": "2026-11-30",
+    "fin": "2026-12-04",
+    "titulo": "Hígado, vía biliar, páncreas y politrauma",
+    "pesada": true
+   },
+   {
+    "n": 7,
+    "inicio": "2026-12-07",
+    "fin": "2026-12-11",
+    "titulo": "Trauma, bariátrica, trasplantes y ética",
+    "aviso": "Feriados mar 8 y mié 9: se pierden bariátrica y trasplantes, salvo reprogramación."
+   },
+   {
+    "n": 8,
+    "inicio": "2026-12-14",
+    "fin": "2026-12-18",
+    "titulo": "ECOE y examen final",
+    "sinTemas": true
+   }
+  ],
+  "eventos": [
+   {
+    "fecha": "2026-11-06",
+    "nombre": "Examen semana 2"
+   },
+   {
+    "fecha": "2026-11-13",
+    "nombre": "Examen semana 3"
+   },
+   {
+    "fecha": "2026-11-20",
+    "nombre": "Examen semana 4"
+   },
+   {
+    "fecha": "2026-11-27",
+    "nombre": "Examen semana 5"
+   },
+   {
+    "fecha": "2026-12-04",
+    "nombre": "Examen semana 6"
+   },
+   {
+    "fecha": "2026-12-11",
+    "nombre": "Examen semana 7"
+   },
+   {
+    "fecha": "2026-12-14",
+    "nombre": "ECOE (lun 14 – jue 17)"
+   },
+   {
+    "fecha": "2026-12-18",
+    "nombre": "Examen final",
+    "final": true
+   }
+  ]
+ },
  "sinTema": 0
 }
