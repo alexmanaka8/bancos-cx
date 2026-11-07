@@ -38,11 +38,11 @@
    "nombre": "Recopilación Parcial 2021-2",
    "tipo": "preguntas",
    "url": "banco.html?id=recopilacion-2021",
-   "n": 37,
-   "conClave": 37,
+   "n": 167,
+   "conClave": 167,
    "secciones": 0,
-   "verificadas": 37,
-   "altoValor": 35
+   "verificadas": 167,
+   "altoValor": 49
   },
   {
    "id": "banco-traducido",
@@ -147,8 +147,8 @@
    "id": "historia",
    "nombre": "Historia de la cirugía",
    "clase": "1",
-   "n": 1,
-   "alto": 0
+   "n": 2,
+   "alto": 1
   },
   {
    "id": "rcp",
@@ -161,8 +161,8 @@
    "id": "seguridad",
    "nombre": "Seguridad en el entorno quirúrgico",
    "clase": "4",
-   "n": 5,
-   "alto": 2
+   "n": 6,
+   "alto": 3
   },
   {
    "id": "procedimientos",
@@ -182,7 +182,7 @@
    "id": "cicatrizacion",
    "nombre": "Cicatrización y clasificación de heridas",
    "clase": "8",
-   "n": 31,
+   "n": 33,
    "alto": 11
   },
   {
@@ -203,49 +203,49 @@
    "id": "complicaciones",
    "nombre": "Complicaciones quirúrgicas y antibioticoterapia",
    "clase": "11",
-   "n": 30,
-   "alto": 14
+   "n": 35,
+   "alto": 15
   },
   {
    "id": "eras",
    "nombre": "ERAS y cuidados perioperatorios",
    "clase": "12",
-   "n": 9,
-   "alto": 7
+   "n": 13,
+   "alto": 8
   },
   {
    "id": "liquidos",
    "nombre": "Balance hidroelectrolítico y ácido-base",
    "clase": "13",
-   "n": 18,
-   "alto": 14
+   "n": 31,
+   "alto": 17
   },
   {
    "id": "nutricion",
    "nombre": "Soporte nutricional en el paciente quirúrgico",
    "clase": "14",
-   "n": 8,
+   "n": 15,
    "alto": 6
   },
   {
    "id": "quemados",
    "nombre": "Manejo de quemados",
    "clase": "15",
-   "n": 11,
+   "n": 23,
    "alto": 9
   },
   {
    "id": "shock",
    "nombre": "Shock",
    "clase": "16",
-   "n": 9,
+   "n": 12,
    "alto": 6
   },
   {
    "id": "hernias",
    "nombre": "Hernias de la pared abdominal",
    "clase": "17",
-   "n": 21,
+   "n": 25,
    "alto": 19
   },
   {
@@ -259,83 +259,90 @@
    "id": "abdomen-agudo",
    "nombre": "Abdomen agudo",
    "clase": "19-20",
-   "n": 17,
+   "n": 18,
    "alto": 7
   },
   {
    "id": "esofago-estomago",
    "nombre": "Patología esófago-gástrica benigna",
    "clase": "22",
-   "n": 21,
+   "n": 31,
    "alto": 16
   },
   {
    "id": "intestino",
    "nombre": "Patología intestinal y obstrucción intestinal",
    "clase": "21, 23",
-   "n": 45,
+   "n": 49,
    "alto": 37
   },
   {
    "id": "colon",
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
-   "n": 30,
+   "n": 35,
    "alto": 22
   },
   {
    "id": "apendicitis",
    "nombre": "Apendicitis aguda",
    "clase": "25",
-   "n": 27,
+   "n": 28,
    "alto": 19
   },
   {
    "id": "anorrectal",
    "nombre": "Patología anorrectal benigna",
    "clase": "26",
-   "n": 24,
-   "alto": 17
+   "n": 33,
+   "alto": 19
   },
   {
    "id": "higado",
    "nombre": "Quistes y abscesos del hígado",
    "clase": "27",
-   "n": 11,
+   "n": 14,
    "alto": 7
   },
   {
    "id": "vesicula",
    "nombre": "Colelitiasis, colecistitis y coledocolitiasis",
    "clase": "28",
-   "n": 31,
+   "n": 38,
    "alto": 14
   },
   {
    "id": "via-biliar",
    "nombre": "Colangitis, Mirizzi, quiste de colédoco y lesión de vía biliar",
    "clase": "29",
-   "n": 17,
-   "alto": 8
+   "n": 23,
+   "alto": 10
   },
   {
    "id": "pancreas-bazo",
    "nombre": "Pancreatitis aguda y patología del bazo",
    "clase": "30",
-   "n": 22,
-   "alto": 15
+   "n": 31,
+   "alto": 16
   },
   {
    "id": "trauma",
    "nombre": "Politraumatizado y trauma",
    "clase": "31-32",
-   "n": 23,
-   "alto": 9
+   "n": 31,
+   "alto": 10
   },
   {
    "id": "bariatrica",
    "nombre": "Cirugía bariátrica y metabólica",
    "clase": "33",
+   "n": 2,
+   "alto": 0
+  },
+  {
+   "id": "trasplantes",
+   "nombre": "Trasplantes y procura de órganos",
+   "clase": "34",
    "n": 1,
    "alto": 0
   },
@@ -350,8 +357,15 @@
    "id": "hipertension-portal",
    "nombre": "Cirrosis e hipertensión portal",
    "clase": "fuera del sílabo",
-   "n": 10,
+   "n": 15,
    "alto": 7
+  },
+  {
+   "id": "endocrino",
+   "nombre": "Tiroides, paratiroides y suprarrenal",
+   "clase": "fuera del sílabo",
+   "n": 1,
+   "alto": 0
   },
   {
    "id": "mama",
@@ -371,14 +385,14 @@
    "id": "hemostasia",
    "nombre": "Hemostasia, coagulación y transfusión",
    "clase": "fuera del sílabo",
-   "n": 5,
+   "n": 9,
    "alto": 5
   },
   {
    "id": "piel-partes-blandas",
    "nombre": "Piel, partes blandas y sarcomas",
    "clase": "fuera del sílabo",
-   "n": 4,
+   "n": 5,
    "alto": 3
   },
   {
@@ -392,8 +406,8 @@
    "id": "otros",
    "nombre": "Otros temas",
    "clase": "",
-   "n": 6,
-   "alto": 5
+   "n": 8,
+   "alto": 6
   }
  ],
  "sinTema": 0

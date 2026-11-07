@@ -1,0 +1,417 @@
+[
+ {
+  "k": "c4f94a9ba7",
+  "estado": "confirmada",
+  "tema": "complicaciones",
+  "stem": "Un hombre alcohólico de 61 años se presenta con un dolor epigástrico intenso que se irradia a la espalda. Su amilasa y lipasa están elevadas y se le diagnostica pancreatitis aguda. Durante las primeras 48 horas, se determina que tiene 6 criterios de Ranson, incluida una PO2 inferior a 60 mmHg. La radiografía de tórax revela infiltrados pulmonares bilaterales y un ecocardiograma transtorácico es normal. ¿Cuál de las siguientes opciones NO es necesaria para hacer un diagnóstico de síndrome de dificultad respiratoria aguda (SDRA)?",
+  "opts": [
+   "Insuficiencia respiratoria que no se explica completamente por insuficiencia cardíaca o sobrecarga de volumen",
+   "Hipoxemia definida como una relación PO2/FiO2 de menos de 300",
+   "La presencia de opacidades bilaterales en las imágenes de tórax no se explica por completo por etiologías alternativas",
+   "Hipoxemia definida como PO2 < 55 mmHg",
+   "Síntomas respiratorios agudos, nuevos o que empeoran"
+  ],
+  "ans": 3,
+  "why": "La definición de Berlín del SDRA exige: inicio dentro de 7 días del desencadenante, opacidades bilaterales en radiografía o TC de tórax, cociente PaO2/FiO2 < 300 (con PEEP mínima de 5) e insuficiencia respiratoria que no se explique completamente por insuficiencia cardíaca o sobrecarga de volumen. La hipoxemia se define por el cociente PaO2/FiO2, no por una PO2 absoluta < 55 mmHg; por eso D no es necesaria. A, B, C y E forman parte de los criterios.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 233 del PDF",
+   "Sabiston 21.ª ed., p. 555 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "4a45f50c03",
+  "estado": "confirmada",
+  "tema": "shock",
+  "stem": "Un hombre de 22 años se presenta en el servicio de emergencia después de una herida de bala en el abdomen. Está hipotenso. ¿Cuál de las siguientes vías intravenosas (IV) es la más apropiada para administrar la reanimación rápida con líquidos a este paciente?",
+  "opts": [
+   "Catéter 6 French para línea central de la vena femoral",
+   "Catéter 7 French para línea central de la vena subclavia",
+   "Catéter periférico calibre 20",
+   "Catéter 7 French para línea central de la vena yugular interna",
+   "Catéter periférico de calibre 18"
+  ],
+  "ans": 4,
+  "why": "En la urgencia, el acceso más rápido es un catéter periférico (por ejemplo, en la fosa antecubital), y para reanimar rápido se usan catéteres cortos y anchos, porque el flujo depende sobre todo del radio del catéter. Por eso se prefiere un calibre 18 a uno de calibre 20, que es más fino. Las vías centrales no son el acceso de elección en el trauma inicial: toman tiempo y tienen muchas complicaciones (venas colapsadas por la hipovolemia, técnica estéril subóptima).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 261 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado). Es la misma pregunta que trae el ABSITE (cap. 16, pregunta 9)."
+ },
+ {
+  "k": "3b98174cb2",
+  "estado": "confirmada",
+  "tema": "vesicula",
+  "stem": "Una mujer de 88 años con un largo historial de tabaquismo intenso se somete a una derivación de la arteria femoral-arteria poplítea para aliviar el dolor en reposo en la pierna izquierda. Debido a una insuficiencia respiratoria subyacente grave, sigue necesitando asistencia respiratoria durante 4 días después de la operación. Tan pronto como le quitan el tubo endotraqueal, comienza a quejarse de un dolor vago en la parte superior del abdomen. Tiene picos diarios de fiebre de 39 °C (102,2 °F) y recuento de leucocitos de 18 000/mL. Una ecografía abdominal superior revela una vesícula biliar dilatada con líquido pericolecístico, pero no se observan cálculos. ¿Cuál de los siguientes es el siguiente mejor paso en su tratamiento?",
+  "opts": [
+   "Colangiopancreatografía retrógrada endoscópica (CPRE)",
+   "Drenaje percutáneo de la vesícula biliar",
+   "Administración de antibióticos de amplio espectro",
+   "Colecistectomía laparoscópica",
+   "Sin terapia adicional"
+  ],
+  "ans": 1,
+  "why": "Es una colecistitis alitiásica aguda: paciente anciana y grave en el posoperatorio, con fiebre, leucocitosis y vesícula con líquido pericolecístico sin cálculos. Aunque la colecistectomía es terapéutica, estos pacientes están muy graves y la cirugía aumenta la morbimortalidad; por eso el Sabiston considera mucho más atractivo y factible el tubo de colecistostomía percutánea guiado por imagen (más del 90% mejora). La CPRE no trata la vesícula, los antibióticos solos no drenan el foco y no tratar es inadecuado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1526-1527 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 47 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "a1ef659a23",
+  "estado": "confirmada",
+  "tema": "shock",
+  "stem": "¿Qué factor es el que más influye en la optimización del porcentaje de volumen de reanimación a través de catéteres de acceso venoso?",
+  "opts": [
+   "Flujo laminar",
+   "Gradiente de presión",
+   "Longitud",
+   "Radio",
+   "Viscosidad"
+  ],
+  "ans": 3,
+  "why": "El flujo a través de un catéter depende del área de su sección y de la cuarta potencia de su radio; por eso, para reanimar rápido se eligen catéteres cortos y anchos, y un calibre 18 se prefiere a uno 20. La longitud, la viscosidad y el gradiente de presión también influyen, pero el radio, por estar elevado a la cuarta potencia, es el factor de mayor peso.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 261 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). El texto de la pregunta se reparó levemente (\"¿Qué factor que más influye…\")."
+ },
+ {
+  "k": "96726d3cde",
+  "estado": "confirmada",
+  "tema": "trauma",
+  "stem": "Un paciente de 26 años está sometido a una laparotomía exploradora tras una herida de bala en el abdomen. El paciente tiene múltiples lesiones, que incluyen una laceración hepática significativa, múltiples lesiones del intestino delgado y del colon y una lesión en la vena cava infrahepática. El paciente recibe 35 U de hematíes empaquetados, 15 L de cristaloides, 12 U de plasma fresco congelado (PFC) y 12 paquetes de plaquetas. Se empaqueta el abdomen del paciente y se lo lleva a la unidad de cuidados intensivos para reanimación adicional. ¿Cuál de los siguientes justifica una laparotomía descompresiva?",
+  "opts": [
+   "Disminución de la renina plasmática y la aldosterona",
+   "Disminución de la resistencia vascular sistémica",
+   "Aumento del gasto cardiaco",
+   "Aumento de la presión de perfusión cerebral",
+   "Aumento de la presión máxima en las vías respiratorias"
+  ],
+  "ans": 4,
+  "why": "Tras una reanimación masiva, este paciente está en riesgo de síndrome compartimental abdominal (presión intraabdominal sostenida > 20 mmHg con disfunción orgánica nueva). Sus signos son distensión abdominal progresiva, aumento de la presión máxima (pico) en las vías respiratorias, disminución del gasto cardíaco y oliguria; el tratamiento es abrir el abdomen. El gasto cardíaco disminuye (no aumenta) y puede aparecer hipertensión intracraneal, de modo que C y D van en sentido contrario; A y B no son los signos que definen el cuadro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 246 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 415 del PDF"
+  ],
+  "nota": "La extracción perdió la 5.ª opción: en el original aparece resaltada como \"a. Aumento de la presión máxima en las vías respiratorias\" después de la d. Se agregó como opción E; la clave original (resaltado) es esa opción."
+ },
+ {
+  "k": "ee370b770d",
+  "estado": "confirmada",
+  "tema": "otros",
+  "stem": "Una chica de 16 años, deportista, sin antecedentes de interés acude al médico por presentar ictericia conjuntival ocasionalmente. Niega ingesta de fármacos y dolor abdominal. En los análisis realizados se observan cifras de ALT, AST, GGT y FA normales, con bilirrubina total de 3.2 mg/dl y bilirrubina directa de 0.4 mg/dl. No tiene anemia y el hígado es ecográficamente normal. ¿Cuál es su diagnóstico?",
+  "opts": [
+   "Síndrome de Gilbert",
+   "Coledocolitiasis",
+   "Hepatitis aguda",
+   "Síndrome de Dubin Johnson",
+   "Síndrome de Rotor"
+  ],
+  "ans": 0,
+  "why": "La bilirrubina elevada es casi toda indirecta (no conjugada), con enzimas hepáticas normales, sin anemia (no sugiere hemólisis) e hígado normal: es el cuadro del síndrome de Gilbert, causa frecuente de hiperbilirrubinemia no conjugada aislada, leve y recurrente. Dubin-Johnson, Rotor y los síndromes colestásicos (como la coledocolitiasis) dan hiperbilirrubinemia conjugada. En las hepatopatías agudas sube también la fracción conjugada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1464 del PDF",
+   "Grant LM, et al. Gilbert Syndrome. StatPearls, 2024 (PMID 29262099)"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "9faa6afbed",
+  "estado": "dudosa",
+  "tema": "liquidos",
+  "stem": "En paciente que ingresa por emergencia, se encuentra el K: 2.5 mmol/L. En el EKG se encontrará, excepto:",
+  "opts": [
+   "Taquicardia auricular con o sin bloqueo",
+   "Depresión de la onda T",
+   "Depresión de la onda U",
+   "Ondas T mayores que las ondas R"
+  ],
+  "ans": null,
+  "why": "El Sabiston describe en la hipopotasemia \"depresión de las ondas T y aparición de ondas U\" y arritmias como la taquicardia auricular con o sin bloqueo; en cambio, \"ondas T mayores que las ondas R\" es signo de hiperpotasemia peligrosa. La opción D es claramente la excepción buscada, pero la opción C, tal como está escrita (\"depresión de la onda U\"), tampoco es un hallazgo de hipopotasemia: lo que aparece son ondas U. Hay dos opciones que cumplen el \"excepto\", así que la pregunta queda dudosa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109-110 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 241 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). Probablemente la C quiso decir \"aparición de ondas U\" (como en el Sabiston) y entonces D sería la correcta, pero el texto del original no lo dice. En el original, debajo de \"b. NA\" aparece sin letra \"Depresión de la onda T\"; se tomó como opción B."
+ },
+ {
+  "k": "b093a32156",
+  "estado": "confirmada",
+  "tema": "colon",
+  "stem": "Un paciente de 85 años de edad ingresa a emergencia en estado de shock con el antecedente de hemorragia fresca de gran volumen por recto. Resucita al paciente con sangre y líquidos. No hay una fuente identificable en el examen rectal. Sin embargo, el paciente sigue siendo inestable y usted sospecha que sigue sangrando. Su próximo paso en el tratamiento es:",
+  "opts": [
+   "Gammagrafía de glóbulos rojos con radionucleótidos",
+   "Esofagogastroduodenoscopia",
+   "Laparotomía",
+   "Angiografía mesentérica",
+   "Colonoscopia"
+  ],
+  "ans": 1,
+  "why": "Ante una hematoquecia importante, tras descartar la fuente anorrectal hay que descartar una fuente digestiva alta: hasta el 15% de las hematoquecias vienen del tubo digestivo alto. En el paciente inestable, la EGD se hace antes (o durante) la cirugía; el ABSITE indica pasar a colectomía solo después de descartar el sangrado alto con EGD. La laparotomía sin localizar el origen está desaconsejada; la gammagrafía, la angiografía y la colonoscopia son estudios para localizar un sangrado bajo, una vez excluido el alto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1185 del PDF",
+   "Sabiston 21.ª ed., p. 1186 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 173 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). El Sabiston dice además que el paciente realmente inestable que sigue sangrando debe ir al quirófano, donde puede hacerse la EGD preoperatoria o intraoperatoria; en ambos casos el paso previo a resecar es descartar el origen alto."
+ },
+ {
+  "k": "75d985761d",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Una mujer de 30 años y 70 kg de peso tiene hiponatremia sintomática. Su nivel de sodio sérico es de 120 mEq/L (nivel normal, 140 mEq/L). Su déficit de sodio es:",
+  "opts": [
+   "700 mEq/L",
+   "400 mEq/L",
+   "800 mEq/L",
+   "500 mEq/L",
+   "600 mEq/L"
+  ],
+  "ans": 0,
+  "why": "Déficit de sodio (mEq) = ([Na] objetivo − [Na] plasmático) × agua corporal total (ACT). En una mujer joven, la ACT se estima en el 50% del peso (0,6 en varones y 0,5 en mujeres no ancianos; 0,5 y 0,45 en ancianos): 0,5 × 70 = 35 L. Déficit = (140 − 120) × 35 = 700 mEq. Las demás cifras no salen de la fórmula.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Barkas F, et al. A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke. Ther Adv Endocrinol Metab. 2023;14:20420188231163806 (PMC10074625)"
+  ],
+  "nota": "Clave original: A (resaltado). El Sabiston calcula la ACT como peso × 60% sin distinguir sexo (daría 840 mEq, que no está entre las opciones); la clave usa el 50% para mujeres. La unidad correcta es mEq, no mEq/L."
+ },
+ {
+  "k": "a15d2c9784",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "¿Cuál representa la más temprana indicación clínica de hipermagnesemia?",
+  "opts": [
+   "Estupor",
+   "Parálisis facial",
+   "Paro respiratorio",
+   "Hipotensión",
+   "Pérdida de reflejos de tendones profundos"
+  ],
+  "ans": 4,
+  "why": "El magnesio bloquea la transmisión sináptica y produce primero la pérdida de los reflejos tendinosos profundos; si sigue aumentando puede llevar a parálisis flácida y apnea. El letargo, la confusión, el coma y el paro respiratorio son manifestaciones más tardías o graves; la parálisis facial no es un signo descrito.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 115 del PDF"
+  ],
+  "nota": "Ítem con dos preguntas pegadas (n.º 42 y 43 del original). En el original las opciones de la 42 van de la b a la f (falta la a); se tomaron las 5 visibles. Clave original de la 42: f, pérdida de reflejos (resaltado).",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "tema": "cicatrizacion",
+    "stem": "Según la clasificación de herida operatoria, ¿cuál de las siguientes cirugías es una herida limpia contaminada?",
+    "opts": [
+     "Drenaje de absceso subfrénico.",
+     "Exploración de las vías biliares.",
+     "Apendicectomía por apendicitis aguda complicada.",
+     "Mastectomía.",
+     "Tiroidectomía."
+    ],
+    "ans": 1,
+    "why": "Según la clasificación de los CDC, la herida limpia-contaminada es aquella en la que se penetra en el aparato respiratorio, digestivo, genital o urinario en condiciones controladas; incluye específicamente las operaciones de las vías biliares, el apéndice, la vagina y la orofaringe sin infección. El drenaje de un absceso y la apendicitis complicada (perforada) son heridas sucias-infectadas; la mastectomía y la tiroidectomía son heridas limpias.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 249 del PDF"
+    ],
+    "nota": "Clave original: B (resaltado)."
+   }
+  ]
+ },
+ {
+  "k": "8494eac64f",
+  "estado": "confirmada",
+  "tema": "nutricion",
+  "stem": "¿Cuál es el requerimiento calórico diario de un paciente varón de 80 kilos con una superficie quemada de 30%?",
+  "opts": [
+   "3825 kcal",
+   "N.A",
+   "3200 kcal",
+   "2400 kcal",
+   "2675 kcal"
+  ],
+  "ans": 2,
+  "why": "La fórmula de Curreri calcula 25 kcal/kg/día más 40 kcal por cada porcentaje de superficie corporal quemada. Aquí: 25 × 80 = 2000 kcal + 40 × 30 = 1200 kcal = 3200 kcal/día. Las demás cifras no corresponden a esta fórmula.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 524 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "e55fd75675",
+  "estado": "confirmada",
+  "tema": "anorrectal",
+  "stem": "Una mujer de 80 años presenta prolapso rectal. Tiene antecedentes de estreñimiento crónico. Los resultados de la colonoscopia son negativos. El tratamiento se lograría mejor a través de:",
+  "opts": [
+   "Resección de la hernia perineal y cierre del fondo de saco (procedimiento de Moschcowitz)",
+   "Técnica anal de Thiersch",
+   "Rectosigmoidectomía perineal (procedimiento de Altemeier)",
+   "Fijación del recto con malla protésica (reparación Ripstein)",
+   "Resección anterior con rectopexia"
+  ],
+  "ans": 2,
+  "why": "Los abordajes perineales se recomiendan para pacientes ancianos o con mala salud; la rectosigmoidectomía perineal (Altemeier) es una buena opción en mujeres mayores, con recidiva de alrededor del 15%. Los procedimientos abdominales (rectopexia con o sin malla, resección anterior con rectopexia) tienen más complicaciones y se reservan para pacientes más jóvenes y de bajo riesgo. El cerclaje de Thiersch ya no se usa y el procedimiento de Moschcowitz se usa más en el prolapso vaginal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1418 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 182 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 173 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). En el ABSITE la misma pregunta dice \"con múltiples comorbilidades significativas\"; esta versión lo omite. Sin ese dato, el estreñimiento podría sugerir una resección con rectopexia en una paciente apta, pero por la edad (80 años) el Sabiston y el ABSITE favorecen la vía perineal."
+ },
+ {
+  "k": "27a4e1e214",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "El organismo que se encuentra con mayor frecuencia en las quemaduras es:",
+  "opts": [
+   "Estreptococos hemolíticos",
+   "C. tetani",
+   "Escherichia coli",
+   "Pseudomonas aeruginosa",
+   "C. perfringens"
+  ],
+  "ans": 3,
+  "why": "El Sabiston señala que S. aureus, Pseudomonas spp. y Klebsiella son los organismos prevalentes en las heridas por quemaduras, y que tras 5-7 días la flora de la herida pasa a ser gramnegativa, especialmente Pseudomonas. De las opciones, Pseudomonas aeruginosa es la única de ese grupo; los estreptococos, E. coli y los clostridios no figuran como los gérmenes prevalentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 520 del PDF",
+   "Sabiston 21.ª ed., p. 518 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). S. aureus, igual de prevalente según el Sabiston, no está entre las opciones."
+ },
+ {
+  "k": "1c9588fbf0",
+  "estado": "confirmada",
+  "tema": "via-biliar",
+  "stem": "Según la clasificación de Strasberg, la oclusión de un conducto hepático aberrante corresponde a una lesión biliar tipo:",
+  "opts": [
+   "C",
+   "D",
+   "B",
+   "E1",
+   "A"
+  ],
+  "ans": 2,
+  "why": "En la clasificación de Strasberg, el tipo B es la lesión de un conducto sectorial (aberrante) que produce la obstrucción de una porción de la vía biliar. El tipo A es una fuga de conductos pequeños (Luschka o cístico); el C es la lesión de un conducto sectorial con fístula biliar (fuga de un conducto que no está en continuidad con la vía biliar); el D es una lesión lateral de la vía extrahepática, y el E1 es una lesión del conducto principal a más de 2 cm de la confluencia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1535 del PDF"
+  ],
+  "nota": "Clave original: C, que corresponde a \"B\" (resaltado)."
+ },
+ {
+  "k": "0b1d29eac3",
+  "estado": "confirmada",
+  "tema": "intestino",
+  "stem": "Sobre la embriología del intestino, es cierto:",
+  "opts": [
+   "El ciego es una parte del intestino posterior.",
+   "La unión de los intestinos medio y posterior se encuentra en la segunda parte del duodeno.",
+   "La arteria mesentérica inferior irriga el intestino anterior.",
+   "El vólvulo del intestino posterior es una causa común de obstrucción intestinal neonatal.",
+   "La arteria mesentérica superior irriga el intestino medio."
+  ],
+  "ans": 4,
+  "why": "El intestino primitivo medio (duodeno distal, intestino delgado, colon ascendente y dos tercios proximales del transverso) recibe su irrigación de la arteria mesentérica superior. El ciego pertenece al intestino medio; en la segunda porción del duodeno se unen el intestino anterior y el medio (no el medio y el posterior, que se unen en el colon transverso); el intestino anterior lo irriga el tronco celíaco, y el vólvulo neonatal típico es el del intestino medio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1345 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "fc664974fe",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "¿Cuál de los siguientes puntos es correcto con respecto a la lesión por inhalación en pacientes con quemaduras?",
+  "opts": [
+   "La radiografía de tórax de admisión es útil para descartar una lesión por inhalación en el momento del ingreso.",
+   "Una lesión por inhalación supraglótica puede requerir intubación, incluso si el intercambio de gases no se ve afectado inicialmente.",
+   "La broncoscopia diaria es obligatoria para controlar la evolución de las lesiones por inhalación.",
+   "Con una higiene pulmonar adecuada, la neumonía es una complicación inusual de la inhalación de humo.",
+   "La inhalación de humo es básicamente un subconjunto del síndrome de dificultad respiratoria aguda (SDRA) que se observa en las víctimas de quemaduras"
+  ],
+  "ans": 1,
+  "why": "El calor se disipa en la vía aérea superior y produce edema; la ronquera progresiva indica obstrucción inminente, y la intubación debe hacerse pronto, antes de que el edema deforme la vía aérea, incluso en pacientes que al principio respiran bien. El diagnóstico se confirma por broncoscopia, no con la radiografía de ingreso; la broncoscopia repetida puede indicarse para limpiar secreciones, pero no es obligatoria a diario; la bronconeumonía aparece hasta en el 60% de estos pacientes, y la lesión por inhalación solo se asemeja clínicamente al SDRA en una de sus fases.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514-515 del PDF",
+   "Sabiston 21.ª ed., p. 517-518 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "6723c394e9",
+  "estado": "confirmada",
+  "tema": "esofago-estomago",
+  "stem": "Según la clasificación de Forrest de los hallazgos endoscópicos y riesgo de recidiva hemorrágica en úlcera péptica, la úlcera péptica con vaso visible no sangrante y su riesgo de recidiva de sangrado es:",
+  "opts": [
+   "III riesgo bajo",
+   "Ib riesgo alto",
+   "IIa riesgo bajo",
+   "Ia riesgo alto",
+   "IIa riesgo alto"
+  ],
+  "ans": 4,
+  "why": "En la clasificación de Forrest, el vaso visible que no sangra es el grado IIa, con riesgo alto de recidiva hemorrágica (alrededor del 50%). Ia es la hemorragia activa pulsátil e Ib la hemorragia activa no pulsátil (ambas de riesgo alto); III es el lecho limpio, de riesgo bajo. IIa no es de riesgo bajo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1178 del PDF",
+   "Sabiston 21.ª ed., p. 1235 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "073dfb6360",
+  "estado": "confirmada",
+  "tema": "liquidos",
+  "stem": "Paciente mujer de 75 años con peso de 78 kg, ingresa por emergencia; en sus exámenes se encuentra Na = 112 mEq/L. ¿Cuánto de solución de sodio al 20% debe infundirse para incrementar el sodio en 12 mEq/L en 24 horas?",
+  "opts": [
+   "131 ml",
+   "14 ml",
+   "72 ml",
+   "146 ml",
+   "7.6 ml"
+  ],
+  "ans": 0,
+  "why": "Con la fórmula de Adrogué-Madias, el cambio del sodio sérico por cada litro infundido = (Na del infusado − Na sérico) / (ACT + 1). En una mujer anciana la ACT es 0,45 × peso = 0,45 × 78 = 35,1 L. El NaCl al 0,9% tiene 154 mEq/L, así que el NaCl al 20% tiene unos 3422 mEq/L. Cambio por litro = (3422 − 112) / 36,1 ≈ 91,7 mEq/L; para subir 12 mEq/L: 12 / 91,7 ≈ 0,131 L = 131 ml. Con 0,5 (mujer no anciana) saldría unos 146 ml, por eso D es el distractor.",
+  "fuentes": [
+   "Barkas F, et al. A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke. Ther Adv Endocrinol Metab. 2023;14:20420188231163806 (PMC10074625)",
+   "Sabiston 21.ª ed., p. 96 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado). Las cuentas se hicieron con los datos citados (fórmula y fracciones de ACT de Barkas 2023; 154 mEq/L del suero salino al 0,9% del Sabiston)."
+ },
+ {
+  "k": "27da7a1b88",
+  "estado": "confirmada",
+  "tema": "endocrino",
+  "stem": "Una anciana diabética con broncoespasmo crónico dependiente de esteroides tiene una ileocolectomía por perforación del ciego. La llevan a la UCI intubada y se la mantiene con antibióticos de amplio espectro y una disminución rápida de esteroides. En el segundo día posoperatorio presenta fiebre de 39,2 °C, hipotensión, letargo y valores de laboratorio notables por hipoglucemia e hiperpotasemia. ¿Cuál de las siguientes es la explicación más probable de su deterioro?",
+  "opts": [
+   "Insuficiencia adrenal",
+   "Hipovolemia",
+   "Sepsis",
+   "Necrosis tubular aguda",
+   "Cetoacidosis diabética"
+  ],
+  "ans": 0,
+  "why": "La causa más frecuente de insuficiencia suprarrenal secundaria es la retirada de glucocorticoides exógenos usados por mucho tiempo, y el estrés quirúrgico precipita la crisis. La crisis cursa con fiebre, hipotensión o shock, letargo, hipoglucemia (falta de cortisol) e hiperpotasemia, y se confunde fácilmente con un shock séptico. La sepsis o la hipovolemia no explican la combinación de hipoglucemia e hiperpotasemia tras la retirada rápida de esteroides, y la cetoacidosis diabética no encaja con una hipoglucemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 283-284 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 221-222 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "a88329b208",
+  "estado": "confirmada",
+  "tema": "otros",
+  "stem": "Un hombre de 28 años asintomático es remitido a consultas por detectarse, en la analítica del examen de rutina laboral, una cifra de bilirrubina total en sangre de 3.8 mg/100 ml, con el resto del perfil sanguíneo hepático normal. Refiere cifras ocasionalmente similares de bilirrubina en exámenes previos. ¿Qué prueba cree importante para orientar el diagnóstico?",
+  "opts": [
+   "N.A",
+   "Colecistografía oral",
+   "Determinación de virus hepatotropos",
+   "Determinación de bilirrubina total y fraccionada y frotis sanguíneo",
+   "Colangiopancreatografía endoscópica retrógrada para estudiar la vía biliar"
+  ],
+  "ans": 3,
+  "why": "Una hiperbilirrubinemia aislada y recurrente con el resto del perfil hepático normal sugiere un síndrome de Gilbert. Primero hay que fraccionar la bilirrubina (en Gilbert es no conjugada) y descartar la hemólisis, que también da hiperbilirrubinemia no conjugada; para eso sirve el frotis sanguíneo. Los virus hepatotropos, la colecistografía y la CPRE estudian hepatitis o enfermedad biliar, que no corresponden a un perfil hepático normal.",
+  "fuentes": [
+   "Grant LM, et al. Gilbert Syndrome. StatPearls, 2024 (PMID 29262099)",
+   "Sabiston 21.ª ed., p. 1464 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado)."
+ }
+]

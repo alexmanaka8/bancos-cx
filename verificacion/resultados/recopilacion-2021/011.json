@@ -1,0 +1,297 @@
+[
+ {
+  "k": "d02fb937d2",
+  "estado": "confirmada",
+  "stem": "Un hombre de 17 años presenta una molestia que refiere como el peor dolor de su vida, en su pierna derecha. Afirma que estaba montando su bicicleta sucia con tierra hace 2 días y en un momento se estrelló contra un árbol, sufriendo un corte en el área mencionada, con una rama. No buscó atención en ese momento porque no creía que la lesión fuera grave. Los signos vitales son temperatura 102.3 °F, frecuencia cardíaca 122 latidos/min, frecuencia respiratoria 21, presión arterial 107/74 mmHg. Hay una decoloración pardusca de la pierna anterior derecha junto con drenaje negruzco sobre el área. El crépito palpable también se observa sobre el área y el tejido circundante. ¿Cuál es la acción inmediata más apropiada que se debe tomar en este paciente?",
+  "opts": [
+   "Iniciar antibióticos de amplio espectro.",
+   "Oxígeno hiperbárico",
+   "N.A",
+   "Comience antibióticos de amplio espectro y desbridamiento quirúrgico inmediato",
+   "Torniquete"
+  ],
+  "ans": 3,
+  "why": "Herida contaminada con tierra, dolor desproporcionado, fiebre, taquicardia, piel pardusca con secreción oscura y crépito: es una gangrena gaseosa (mionecrosis por Clostridium). Sabiston indica que el tratamiento inmediato con antibióticos i.v. y el desbridamiento quirúrgico son las piezas fundamentales. Solo antibióticos (A) no basta. La guía IDSA 2014 no recomienda el oxígeno hiperbárico (B) y pide exploración quirúrgica urgente. El torniquete (E) no trata la infección.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 256-257 del PDF",
+   "IDSA 2014, Practice guidelines for skin and soft tissue infections, Clin Infect Dis 59(2):e10 (https://academic.oup.com/cid/article/59/2/e10/2895845)"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): D.",
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "3961261043",
+  "estado": "anulada",
+  "stem": "Un hombre de 45 años se sometió a una reparación de hernia umbilical con colocación de malla. El curso perioperatorio transcurrió sin incidentes, excepto que antes de la cirugía el contenido gástrico tuvo que ser aspirado desde el tracto gastrointestinal superior. El historial médico pasado del paciente incluye enfermedad por reflujo gastroesofágico y ataques de pánico ocasionales. El análisis de sangre del paciente muestra sodio de 138 mEq/L, potasio de 3.5 mEq/L, cloruro de 75 mEq/L, bicarbonato de 42 mmol/L, pH de 7.58 y PCO2 de 55. ¿Cuáles son sus principales alteraciones ácido-base y brecha aniónica?",
+  "opts": [
+   "Alcalosis respiratoria y una brecha aniónica de 12",
+   "Acidosis respiratoria y una brecha aniónica de 4",
+   "Acidosis metabólica y una brecha aniónica de 15",
+   "Alcalosis respiratoria y una brecha aniónica de 11",
+   "Alcalosis metabólica con una brecha aniónica de 9"
+  ],
+  "ans": null,
+  "why": "El trastorno sí es claro: pH alto (7.58) con bicarbonato alto (42) es una alcalosis metabólica, y la PCO2 alta (55) es la compensación respiratoria; la pérdida de ácido y cloruro gástrico produce una alcalosis metabólica hipoclorémica (ABSITE). Pero la brecha aniónica se calcula como Na − (Cl + HCO3) = 138 − (75 + 42) = 21, no 9. Ninguna opción es correcta en las dos partes: la única con el trastorno correcto (E) tiene la brecha mal calculada con los datos dados. Lo que hay que aprender: alcalosis metabólica hipoclorémica por pérdida gástrica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 414 del PDF (fórmula de la brecha aniónica y alcalosis hipoclorémica por vómitos)"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): E (alcalosis metabólica con brecha de 9). La brecha de 9 no sale con los datos del enunciado (da 21); quizá el cloruro estaba mal copiado. Si en el examen aparece igual, la opción esperada es E.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "4f6ea5b9d7",
+  "estado": "confirmada",
+  "stem": "Una mujer de 33 años está programada para una colecistectomía electiva. La evaluación preoperatoria muestra la presencia de hipotiroidismo moderado. Seleccione la siguiente acción más apropiada:",
+  "opts": [
+   "Proceda con la cirugía mientras comienza el tratamiento con tioamidas.",
+   "Proceder con la cirugía mientras se inicia el tratamiento con levotiroxina.",
+   "Posponer la cirugía hasta que se logre un estado de eutiroidismo.",
+   "Proceder con la cirugía con el conocimiento de que se pueden desarrollar complicaciones perioperatorias menores.",
+   "Proceder con la cirugía si no se presentan síntomas clínicos graves."
+  ],
+  "ans": 2,
+  "why": "Sabiston, en el tratamiento del hipotiroidismo, dice que «la cirugía programada debe retrasarse hasta que se alcance el estado eutiroideo»; la colecistectomía electiva es programada. Las tioamidas (A) son antitiroideos, para el hipertiroidismo. Operar mientras se inicia levotiroxina (B) o aceptando complicaciones (D, E) no es lo indicado en un hipotiroidismo clínicamente relevante.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 285 del PDF",
+   "Sabiston 21.ª ed., p. 228 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): C. Matiz: en la valoración preoperatoria (p. 228) Sabiston admite iniciar la hormona en cualquier momento si el hipotiroidismo es asintomático, y retrasar la cirugía si es sintomático; para un hipotiroidismo «moderado» la respuesta esperada es posponer.",
+  "tema": "eras"
+ },
+ {
+  "k": "ee0c0d85db",
+  "estado": "dudosa",
+  "stem": "Se considera instrumental de síntesis, a los siguientes. Excepto:",
+  "opts": [
+   "Pinza de Allis",
+   "Pinza de Adson",
+   "Tijera de Doyen",
+   "Pinza de Halsted",
+   "Pinza Mixter"
+  ],
+  "ans": null,
+  "why": "La tijera es instrumental de corte, por eso la clave es la tijera. Pero según el manual de técnica (MEHU), la pinza de Allis es de «sujeción y fijación», la de Adson también de «sujeción y fijación», y las de Halstead y Mixter son de «pinzado y oclusión» (hemostasia); en la categoría «sutura y engrapado» solo aparece el portaagujas. Así, varias opciones tampoco serían de síntesis y la pregunta no tiene una sola respuesta según el libro.",
+  "fuentes": [
+   "MEHU, Técnica quirúrgica, p. 38-41 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): C (Tijera de Doyen). Probablemente el curso agrupa pinzas de disección y de tejido con la síntesis; el libro no respalda esa agrupación.",
+  "tema": "tecnica"
+ },
+ {
+  "k": "636cb3c751",
+  "estado": "confirmada",
+  "stem": "El músculo elevador del ano se compone de tres músculos, EXCEPTO:",
+  "opts": [
+   "N.A",
+   "Puborrectal",
+   "Iliococcígeo",
+   "Iliopúbico",
+   "Pubococcígeo"
+  ],
+  "ans": 3,
+  "why": "Latarjet describe el elevador del ano formado por tres porciones: pubococcígeo, puborrectal e iliococcígeo; Sabiston enumera las mismas tres subdivisiones. No existe un músculo «iliopúbico» en el elevador del ano, por eso es la excepción.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 730 del PDF",
+   "Sabiston 21.ª ed., p. 1353 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): D.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "4e144d87d7",
+  "estado": "confirmada",
+  "stem": "Un paciente de sexo masculino ingresa después de una caída de altura. A su llegada, su score en la Escala de Coma de Glasgow es de 5/15 y, por lo tanto, es intubado. Durante la reanimación primaria se toma una Rx de tórax que muestra un mediastino ensanchado y una desviación del lado derecho de la tráquea. El diagnóstico es:",
+  "opts": [
+   "Ruptura del esófago",
+   "Neumotórax a tensión",
+   "Ruptura aórtica",
+   "Colapso del lóbulo derecho",
+   "Taponamiento cardíaco"
+  ],
+  "ans": 2,
+  "why": "Caída de altura (desaceleración) con mediastino ensanchado sugiere lesión aórtica traumática. Sabiston: el hallazgo más común en la radiografía es el mediastino ensanchado, y también puede verse desviación hacia la derecha de las estructuras mediastínicas o del tubo endotraqueal. El neumotórax a tensión es un diagnóstico clínico y desvía la tráquea al lado opuesto sin ensanchar el mediastino; el colapso lobar no ensancha el mediastino.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1779 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): C.",
+  "tema": "trauma"
+ },
+ {
+  "k": "32eb6e414f",
+  "estado": "dudosa",
+  "stem": "¿Qué organismos son más frecuentemente asociados a peritonitis en pacientes que reciben diálisis peritoneal?",
+  "opts": [
+   "S. fecalis",
+   "S. aureus + S. epidermidis",
+   "Todas las anteriores",
+   "S. epidermidis",
+   "S. aureus"
+  ],
+  "ans": null,
+  "why": "Sabiston: cerca del 75% de estas peritonitis son por grampositivos; S. epidermidis causa el 30-50%, y S. aureus, los gramnegativos entéricos y los hongos son otras causas importantes. ABSITE dice que el estafilococo coagulasa negativo (S. epidermidis) es «by far» la causa más común. Así, «S. epidermidis» solo (D) es el más frecuente, pero la pregunta pide «organismos» en plural, lo que favorece S. aureus + S. epidermidis (B). Las dos son defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1117 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 25 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): B (S. aureus + S. epidermidis); el alumno marcó D y se le dio como incorrecta. Para el examen, la clave esperada es B.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "aa80ede274",
+  "estado": "confirmada",
+  "stem": "La precipitación del colesterol para formar cálculos biliares es causada por todo lo siguiente, excepto:",
+  "opts": [
+   "Resección del íleon terminal.",
+   "Embarazos repetidos.",
+   "Colectomía izquierda.",
+   "Píldoras anticonceptivas",
+   "Enfermedad de Crohn."
+  ],
+  "ans": 2,
+  "why": "Las sales biliares se reabsorben activamente solo en el íleon terminal; si se reseca o está enfermo (Crohn), se altera la circulación enterohepática y aumentan los cálculos biliares (Sabiston; ABSITE incluye los cálculos de colesterol entre las complicaciones del Crohn). El riesgo de cálculos aumenta con la multiparidad (Sabiston). La colectomía izquierda no afecta al íleon ni a la circulación enterohepática, por eso es la excepción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1320 del PDF",
+   "Sabiston 21.ª ed., p. 2051 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 56 y 135 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): C.",
+  "tema": "vesicula"
+ },
+ {
+  "k": "c65f3c0cbc",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el antibiótico de elección en el tratamiento del Clostridium perfringens en pacientes con alergia a la penicilina?",
+  "opts": [
+   "Clindamicina",
+   "Clindamicina + Eritromicina",
+   "Metronidazol",
+   "Eritromicina",
+   "Clindamicina + Eritromicina + Metronidazol"
+  ],
+  "ans": null,
+  "why": "La guía IDSA 2014 recomienda para la mionecrosis por Clostridium penicilina más clindamicina, y para alérgicos graves a penicilina no indica alternativa (pone «N/A»). Sabiston solo dice que el tratamiento son antibióticos i.v. precoces y desbridamiento. Ninguna fuente revisada respalda «clindamicina + eritromicina» como elección, ni decide entre las otras opciones.",
+  "fuentes": [
+   "IDSA 2014, Practice guidelines for skin and soft tissue infections, Clin Infect Dis 59(2):e10 (https://academic.oup.com/cid/article/59/2/e10/2895845)",
+   "Sabiston 21.ª ed., p. 257 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): B (Clindamicina + Eritromicina), sin respaldo en las fuentes revisadas.",
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "360a06b79c",
+  "estado": "confirmada",
+  "stem": "Doce horas después de la colocación de la banda hemorroidal, un hombre de 45 años de edad se presenta a emergencias reportando dolor rectal y abdominal e incapacidad para orinar. Su temperatura es 39 °C y su FC es de 110 latidos/minuto; el tratamiento consiste en:",
+  "opts": [
+   "Antibióticos intravenosos de amplio espectro",
+   "Colocación de un catéter de Foley",
+   "Ablandadores de heces y antibióticos orales",
+   "Antibióticos de amplio espectro y examen rectal con el paciente bajo anestesia",
+   "Cateterismo vesical de entrada y salida, y ablandadores de heces"
+  ],
+  "ans": 3,
+  "why": "Dolor, fiebre y retención urinaria en las primeras 12 h tras una ligadura con banda hacen sospechar sepsis pélvica. ABSITE: se trata con ingreso, reanimación y antibióticos i.v. contra gramnegativos y anaerobios, y examen bajo anestesia para descartar una infección necrotizante que requiera desbridamiento. Solo antibióticos (A), solo sonda (B, E) o manejo oral (C) son insuficientes ante sospecha de sepsis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 179 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): D.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "01968e02fa",
+  "estado": "confirmada",
+  "stem": "Mencione usted qué hormonas afectan la concentración de sodio.",
+  "opts": [
+   "Adrenalina y hormona antidiurética",
+   "Aldosterona y hormona antidiurética",
+   "Aldosterona y testosterona",
+   "Adrenalina y testosterona",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "Sabiston: la aldosterona aumenta la recuperación renal de sodio y la excreción de potasio; la ADH hace reabsorber agua, y su exceso disminuye la concentración de sodio. La hiponatremia y la hipernatremia están «muy bien controladas por la ADH». La adrenalina y la testosterona no son los reguladores principales del sodio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 107-108 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): B.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "995e223784",
+  "estado": "confirmada",
+  "stem": "Un joven de 17 años es llevado a emergencia tras verse involucrado en un accidente de motos a gran velocidad. Está hipotenso, con una presión sistólica de 60 mmHg. En la laparotomía, se encuentra una gran hemorragia detrás del hígado. La aplicación temporal de una maniobra de Pringle no controla la hemorragia. Sin embargo, se colocan compresas de laparotomía y la hemorragia parece disminuir. La presión arterial sistólica aumenta a 110 mmHg tras una reanimación agresiva. El pH es de 7,06 y su temperatura es de 34 °C. El siguiente paso en el manejo es:",
+  "opts": [
+   "Obtener el control de la VCI por encima y por debajo del hígado",
+   "Cierre de control de daños y transporte a la UCI",
+   "Obtener el control de la aorta en el hiato diafragmático",
+   "Cierre de control de daños y transporte a la sala de radiología intervencionista (IR) para embolización hepática",
+   "Realizar una esternotomía mediana para la colocación de un shunt atriocavo"
+  ],
+  "ans": 1,
+  "why": "Si el sangrado persiste pese al Pringle, probablemente es de la VCI retrohepática o de las venas hepáticas. ABSITE: si se controla con compresas y el paciente está frío (<34 °C), coagulopático y con acidosis refractaria, lo mejor es cirugía de control de daños y traslado a UCI para reanimar y recalentar. Controlar la VCI, la aorta o poner un shunt atriocavo (A, C, E) se reserva para cuando las compresas no controlan el sangrado. La embolización (D) no trata una lesión venosa retrohepática.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 270 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): B.",
+  "tema": "trauma"
+ },
+ {
+  "k": "553df6bd3b",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 80 años con diagnóstico de hipercloremia, presenta náuseas, confusión mental y taquipnea, ¿cuál cree usted que no es una causa de su enfermedad?",
+  "opts": [
+   "N.A",
+   "Inadecuada ingesta dietética",
+   "Falla cardíaca congestiva",
+   "Alcalosis metabólica",
+   "Deshidratación"
+  ],
+  "ans": null,
+  "why": "La clave es «inadecuada ingesta dietética», pero la alcalosis metabólica tampoco causa hipercloremia: la pérdida de ácido y cloruro produce una alcalosis metabólica hipoclorémica (ABSITE). La hipercloremia se asocia más bien a acidosis metabólica sin brecha aniónica, por ejemplo tras grandes volúmenes de solución salina (Sabiston). Hay al menos dos opciones que no son causa, y los libros no explican el papel de la falla cardíaca, así que la pregunta no tiene una sola respuesta defendible.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 414 del PDF",
+   "Sabiston 21.ª ed., p. 96 y 106 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): B (Inadecuada ingesta dietética).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "c3c5933857",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes no es función del potasio?",
+  "opts": [
+   "Principal contribuyente a la osmolaridad intracelular",
+   "Mantener el potencial de membrana en reposo",
+   "Ayuda en la coagulación sanguínea",
+   "N.A",
+   "Contribuir al balance ácido-base"
+  ],
+  "ans": 2,
+  "why": "Sabiston: el potasio es el principal ion intracelular, y sus cambios alteran el potencial de reposo de la membrana (la hipopotasemia lo hiperpolariza). El ion esencial para la coagulación es el calcio, no el potasio. Por eso «ayuda en la coagulación sanguínea» no es función del potasio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109-110 del PDF",
+   "Sabiston 21.ª ed., p. 134 del PDF (calcio: esencial para la coagulación)"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): C.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "428b60b8ae",
+  "estado": "confirmada",
+  "stem": "Un hombre de 35 años se presenta con dolor en el cuadrante superior derecho, fiebre, ictericia y escalofríos. La ecografía del abdomen muestra cálculos biliares, grosor normal de la pared de la vesícula biliar y colédoco de 1,0 cm. Su bilirrubina total es 5. Además de los líquidos intravenosos y los antibióticos, ¿cuál de los siguientes es el siguiente paso más apropiado en el tratamiento de este paciente?",
+  "opts": [
+   "Colocación de una sonda de colecistostomía",
+   "Colecistectomía laparoscópica",
+   "Colecistectomía abierta",
+   "Colangiopancreatografía retrógrada endoscópica (CPRE)",
+   "Operación de emergencia y descompresión del colédoco con un tubo en T"
+  ],
+  "ans": 3,
+  "why": "Dolor en hipocondrio derecho, fiebre e ictericia (tríada de Charcot) con colédoco dilatado es una colangitis aguda. Sabiston: tras hidratación y antibióticos i.v., se necesita descompresión urgente del árbol biliar, y el drenaje endoscópico o percutáneo lo logra con menos morbilidad que la cirugía; el tubo en T (E) se reserva para cuando esos métodos fallan o no están disponibles. La colecistostomía (A) no drena el colédoco y la colecistectomía (B, C) se hace después, en el mismo ingreso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1539 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 47 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): D.",
+  "tema": "via-biliar"
+ }
+]

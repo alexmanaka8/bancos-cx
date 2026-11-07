@@ -1,0 +1,401 @@
+[
+ {
+  "k": "7dac053715",
+  "estado": "dudosa",
+  "stem": "Se considera instrumental de síntesis, a los siguientes. Excepto:",
+  "opts": [
+   "Pinza de Adson",
+   "Pinza de Halsted",
+   "Pinza de Allis",
+   "Tijera de Doyen",
+   "Pinza Mixter"
+  ],
+  "ans": null,
+  "why": "Ninguna de las opciones es un instrumento de síntesis típico (el de síntesis por excelencia es el portaagujas, de la categoría 'sutura y engrapado'). Según el MEHU, la pinza de Halsted (mosquito) y la de Mixter son de 'pinzado y oclusión' (hemostasia), la de Allis es de 'sujeción y fijación', y la pinza de disección de Adson es de 'sujeción y fijación', aunque se usa al colocar suturas en heridas superficiales. Una tijera es de corte (diéresis). Por eso, varias opciones serían 'excepto' a la vez y los libros no permiten elegir una sola.",
+  "fuentes": [
+   "MEHU, Técnica quirúrgica, p. 38 del PDF",
+   "MEHU, Técnica quirúrgica, p. 39 del PDF",
+   "MEHU, Técnica quirúrgica, p. 40 del PDF",
+   "MEHU, Técnica quirúrgica, p. 41 del PDF"
+  ],
+  "tema": "tecnica",
+  "nota": "Clave original: D (Tijera de Doyen, resaltado). Es lógica si se piensa que la tijera es de diéresis, pero Halsted, Mixter y Allis tampoco son de síntesis según el MEHU. Además, en Boros 'Doyen' aparece como nombre de una pinza de campo, no de una tijera."
+ },
+ {
+  "k": "9964441dc2",
+  "estado": "confirmada",
+  "stem": "Después de esforzarse en la defecación, un hombre sano de 26 años desarrolla una protuberancia dolorosa en el borde anal. El dolor es continuo. No hay fiebre. En el examen, se presenta una hinchazón azulada de 1.5X1 cm en el borde derecho del borde anal y no se extiende hacia adentro. El diagnóstico más probable es",
+  "opts": [
+   "Hemorroides internas con trombosis aguda.",
+   "Pila de centinela.",
+   "Hematoma perianal agudo.",
+   "Absceso perianal.",
+   "Prolapso de hemorroides no complicadas."
+  ],
+  "ans": 2,
+  "why": "Una tumoración azulada, muy dolorosa y de inicio brusco tras pujar, en el borde anal y sin extenderse hacia dentro, es una hemorroide externa trombosada, es decir, un hematoma perianal agudo. Las hemorroides externas están por debajo de la línea dentada y solo duelen mucho cuando se trombosan; el cuadro suele seguir a estreñimiento o esfuerzo. Las internas (A, E) nacen por encima de la línea dentada, son indoloras y sangran sin dolor. El absceso perianal (D) da fiebre y fluctuación, y el 'pilar centinela' (B) acompaña a una fisura anal crónica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1429 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 180 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "'Hematoma perianal' es el nombre clásico de la hemorroide externa trombosada; los libros de la carpeta usan este último término."
+ },
+ {
+  "k": "eb00d58793",
+  "estado": "confirmada",
+  "stem": "El músculo elevador del ano se compone de tres músculos, EXCEPTO:",
+  "opts": [
+   "Iliopúbico",
+   "Pubococígeo",
+   "Puborrectal",
+   "N.A",
+   "Iliococígeo"
+  ],
+  "ans": 0,
+  "why": "El elevador del ano tiene tres porciones: pubococcígeo, puborrectal e iliococcígeo. No existe un músculo 'iliopúbico' en el elevador del ano. Por eso la excepción es A.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 730 del PDF",
+   "Sabiston 21.ª ed., p. 1353 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "cd9176313f",
+  "estado": "confirmada",
+  "stem": "Organismos mas frecuentes asociados con sepsis post esplenectomia, excepto:",
+  "opts": [
+   "Neumococo + Hemophilus influenza",
+   "Hemophilus influenza",
+   "Meningococo",
+   "Neumococo",
+   "N.A"
+  ],
+  "ans": 4,
+  "why": "La infección fulminante tras esplenectomía la causan bacterias encapsuladas: S. pneumoniae (neumococo, el 50-90 % de los casos), N. meningitidis (meningococo) y H. influenzae. Todas las opciones de A a D son gérmenes frecuentes, así que ninguna es excepción: la respuesta es 'N.A'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1603 del PDF",
+   "Sabiston 21.ª ed., p. 440 del PDF"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "5da0f812e1",
+  "estado": "dudosa",
+  "stem": "Se puede observar un desplazamiento intracelular de potasio en todos excepto:",
+  "opts": [
+   "Ayuna",
+   "Síndrome de realimentación",
+   "N.A",
+   "Terapía de insulina",
+   "Falla renal"
+  ],
+  "ans": null,
+  "why": "La insulina mete potasio en la célula: en la cetoacidosis, al dar insulina aparece hipopotasemia porque la glucosa entra en las células (Sabiston). En el síndrome de realimentación hay hipopotasemia por desplazamientos de electrólitos al iniciar la nutrición. La insuficiencia renal causa hiperpotasemia (es su causa más frecuente en hospitalizados), no un paso de potasio a la célula. Pero tampoco hay fuente que diga que el ayuno desplace potasio hacia dentro de la célula. Hay dos posibles 'excepto' (ayuno y falla renal), así que la pregunta es ambigua.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF",
+   "Sabiston 21.ª ed., p. 133 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: E (Falla renal, resaltado). Es defendible, pero la opción A (ayuno) tampoco aparece en los libros como causa de desplazamiento intracelular."
+ },
+ {
+  "k": "7e75e3fb97",
+  "estado": "dudosa",
+  "stem": "Los riesgos específicos de operar a un paciente con ictericia obstructiva incluyen todos los siguientes, excepto",
+  "opts": [
+   "Septicemia.",
+   "Insuficiencia hepática.",
+   "Sangrado.",
+   "Insuficiencia renal.",
+   "Trombosis venosa profunda"
+  ],
+  "ans": null,
+  "why": "Una revisión de 2023 sobre la ictericia obstructiva enumera como riesgos la disfunción hepática, la insuficiencia renal, la tendencia al sangrado y las infecciones/sepsis, y añade que 'es ampliamente aceptado' que estos pacientes tienen más riesgo de tromboembolia. Es decir, la TVP también figura como riesgo. Con esta evidencia, ninguna opción queda claramente fuera, y la clave E solo vale si 'riesgo específico' excluye los riesgos generales de toda cirugía, cosa que la pregunta no aclara.",
+  "fuentes": [
+   "Liu JJ et al. Pathophysiological consequences and treatment strategy of obstructive jaundice. World J Gastrointest Surg. 2023 (PMC10405123)"
+  ],
+  "tema": "via-biliar",
+  "nota": "Clave original: E (TVP, resaltado). Es la respuesta clásica de los libros de preguntas, pero la revisión citada describe hipercoagulabilidad y más riesgo tromboembólico en la ictericia obstructiva."
+ },
+ {
+  "k": "7e147e9322",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta con respecto a la fiebre postoperatoria?",
+  "opts": [
+   "El análisis de orina, el urocultivo y las radiografías de tórax se deben obtener como parte de un examen completo de fiebre en pacientes postoperatorios dentro de las 72 horas posteriores a la operación.",
+   "Todo lo anterior.",
+   "Las infecciones de la herida en las primeras 24 a 48 horas son poco frecuentes pero, si están presentes, son preocupantes por la infección estreptocócica o clostridial del grupo A.",
+   "En un paciente postoperatorio febril, se deben obtener cultivos de la herida independientemente del aspecto de la misma.",
+   "Se espera que la fiebre persista durante más de 96 horas después de la operación en casos de infección intraabdominal difusa, como la peritonitis fecal por diverticulitis, incluso con el tratamiento quirúrgico adecuado."
+  ],
+  "ans": 2,
+  "why": "Una infección de herida en las primeras 24-48 h es rara; si aparece (fiebre alta temprana con secreción de la herida), hay que pensar en Streptococcus pyogenes (grupo A) o Clostridium perfringens, que causan infección necrosante. A es falsa: la fiebre de las primeras 48 h se debe sobre todo a la respuesta inflamatoria de la cirugía, y después de 72 h es más probable una infección, así que no se pide un estudio completo de rutina. D es falsa: la herida se cultiva solo si tiene signos de infección. E es falsa: con un tratamiento adecuado no se espera fiebre persistente más de 96 h. B no vale porque A, D y E son falsas.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 469 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 475 del PDF",
+   "Sabiston 21.ª ed., p. 270 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "La afirmación sobre E (más de 96 h) no aparece literal en los libros; se descarta porque la clave C sí tiene respaldo directo."
+ },
+ {
+  "k": "68becaa383",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes test de coagulación se utiliza clínicamente para detectar un estado hiperfibrinolítico?",
+  "opts": [
+   "Tromboelastografía",
+   "TP",
+   "Tiempo de coagulación activado",
+   "Tiempo de sangria",
+   "TTPa"
+  ],
+  "ans": 0,
+  "why": "La tromboelastografía (TEG) mide también la fibrinólisis: los índices LY30 y LY60 calculan cuánto pierde fuerza el coágulo a los 30 y 60 min, y un índice de lisis alto indica fibrinólisis rápida (hiperfibrinólisis). Las pruebas básicas (TP, TTPa, tiempo de coagulación activado, tiempo de sangría) miden la cantidad de factores o la función plaquetaria, pero no la estabilidad del coágulo ni su lisis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 80 del PDF",
+   "Sabiston 21.ª ed., p. 563 del PDF"
+  ],
+  "tema": "hemostasia",
+  "nota": "En el original esta pregunta no tiene número (está entre la 103 y la 104)."
+ },
+ {
+  "k": "2db9738e56",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el menor número de factores que deben estar presentes a partir de los criterios modificados de Glasgow para que la pancreatitis aguda se clasifique como grave dentro de las 48 horas posteriores al ingreso?",
+  "opts": [
+   "5",
+   "1",
+   "3",
+   "4",
+   "2"
+  ],
+  "ans": 2,
+  "why": "Los criterios de Glasgow modificados (Imrie/Blamey) usan factores disponibles en las primeras 48 h del ingreso. Tres o más factores predicen una pancreatitis grave. En el estudio de validación, el 31 % de los episodios con 3 o más factores fueron graves, frente al 8 % de los que tenían menos de 3.",
+  "fuentes": [
+   "Blamey SL et al. Prognostic factors in acute pancreatitis. Gut. 1984;25:1340-6 (PMC1420197)"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "e9c9349fa8",
+  "estado": "corregida",
+  "stem": "Un hombre de 66 años se presenta en el departamento de emergencias con antecedentes de un día de dolor en el cuadrante inferior izquierdo, náuseas, vómitos y fiebre. Su temperatura se mide en 39 C, pulso 98 / min y presión arterial 102/74 mmHg. Los análisis de sangre mostraron un recuento elevado de glóbulos blancos. La tomografía computarizada muestra engrosamiento de la pared sigmoidea y hebras de grasa peri sigmoidea. ¿Cuál de los siguientes es un factor de riesgo para la condición de este paciente?",
+  "opts": [
+   "Descendientes de los judíos Ashkenazi",
+   "Ingestión de aflatoxinas",
+   "Dieta baja en fibra y alta en grasas",
+   "Antecedentes familiares de enfermedad similar.",
+   "N.A"
+  ],
+  "ans": 2,
+  "why": "El cuadro (dolor en fosa ilíaca izquierda, fiebre y TC con engrosamiento del sigma y hebras de grasa pericólica) es una diverticulitis aguda. Sabiston dice que la dieta occidental rica en carnes rojas, grasas y cereales refinados aumenta el riesgo, y que la fibra lo reduce. Las aflatoxinas (B) son carcinógenos del hígado y aumentan el riesgo de hepatocarcinoma. La ascendencia judía asquenazí (A) no es factor de riesgo de diverticulitis en los libros. Sabiston no incluye los antecedentes familiares (D) entre los factores de riesgo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF",
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "Sabiston 21.ª ed., p. 1490 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (aflatoxinas, resaltado), que es incorrecta: las aflatoxinas se relacionan con el hepatocarcinoma."
+ },
+ {
+  "k": "8fe52378ad",
+  "estado": "confirmada",
+  "stem": "El diagnostico en un paciente con injuria hepática, ictericia y sangrado gastrointestinal es por:",
+  "opts": [
+   "Hiperbilirrubinemia",
+   "Bilirrubina en orina",
+   "Aumento de transaminasas",
+   "Hemobilia",
+   "N.A"
+  ],
+  "ans": 3,
+  "why": "La hemobilia es el sangrado dentro de la vía biliar por una comunicación entre un vaso y la vía biliar. Hoy su causa más frecuente es el traumatismo hepático, sobre todo iatrogénico, y le sigue el accidental. Su tríada clásica es dolor epigástrico (cólico biliar), hemorragia digestiva alta e ictericia. La hiperbilirrubinemia, la bilirrubina en orina y las transaminasas solo indican lesión hepática o colestasis; no explican el sangrado digestivo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1504 del PDF",
+   "Sabiston 21.ª ed., p. 1505 del PDF"
+  ],
+  "tema": "via-biliar",
+  "nota": "El enunciado del original está mal redactado ('el diagnóstico ... es por'); se entiende como '¿cuál es el diagnóstico?'."
+ },
+ {
+  "k": "3565e95611",
+  "estado": "confirmada",
+  "stem": "En la etiología de la hipertensión portal son causas prehepáticas. Excepto:",
+  "opts": [
+   "Trombosis de vena porta",
+   "Trombosis de vena esplénica",
+   "Fístula arteriovenosa",
+   "Comprensión de la vena portal extrínseca.",
+   "NA"
+  ],
+  "ans": 4,
+  "why": "Las cuatro opciones son causas prehepáticas, así que la respuesta es 'NA'. La trombosis de la vena porta es la causa prehepática más frecuente, y la trombosis aislada de la vena esplénica da hipertensión portal 'izquierda' (Sabiston). La fístula arteriovenosa (esplénica o esplácnica) aumenta el flujo portal y se clasifica como causa prehepática. La compresión extrínseca de la vena porta (por ejemplo, por un lóbulo hepático accesorio o un tumor) también produce hipertensión portal prehepática.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1468 del PDF",
+   "Sabiston 21.ª ed., p. 1469 del PDF",
+   "Imanieh MH et al. Etiology of portal hypertension in children. Middle East J Dig Dis. 2012 (PMC3990125), tabla 2",
+   "Sağ E et al. Accessory hepatic lobe: a rare cause of prehepatic portal hypertension in a child. Pediatr Gastroenterol Hepatol Nutr. 2018 (PMC6182474)"
+  ],
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "e5a345ea61",
+  "estado": "confirmada",
+  "stem": "¿Cual de los siguientes fármacos esta contraindicado en pacientes con cirrosis y ascitis?",
+  "opts": [
+   "Bloqueantes betaadrenégicos",
+   "Analgesicos no antiinflamatorios",
+   "Antidiabéticos orales",
+   "Antiinflamatorios no esteroideos",
+   "Quinolonas"
+  ],
+  "ans": 3,
+  "why": "Los AINE deben evitarse en todos los pacientes con hepatopatía crónica avanzada, porque pueden precipitar una lesión renal aguda y hemorragia digestiva al inhibir las prostaglandinas. Los betabloqueantes no selectivos se recomiendan como profilaxis de la hemorragia por várices. Las quinolonas (norfloxacino) se usan como profilaxis de infecciones. Un analgésico no antiinflamatorio como el paracetamol es seguro a dosis bajas (no más de 2-3 g/día).",
+  "fuentes": [
+   "Canillas L et al. Clinical Guideline on Perioperative Management of Patients with Advanced Chronic Liver Disease. Life (Basel). 2023 (PMC9860873)",
+   "Singh J et al. Refractory Ascites and the Alfapump. Gastro Hep Adv. 2026 (PMC13098585)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Los antidiabéticos orales (C) no aparecen como contraindicación absoluta en las fuentes revisadas."
+ },
+ {
+  "k": "51ee67db7f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años con antecedentes de diabetes, hipertensión, enfermedad coronaria, asma y tabaquismo de larga data, se somete a una laparotomía de emergencia y un parche de Graham por una úlcera duodenal perforada. Después del procedimiento, desarrolla dificultad respiratoria aguda y saturación de oxígeno del 88%. El análisis de gases en sangre revela lo siguiente: pH = 7.43 paO2 = 55 mm Hg HCO3 = 23 mmol /L pCO2 = 35 mm Hg. Según los resultados anteriores, calcularía su gradiente A ‐ a (suponiendo que la presión atmosférica al nivel del mar, la presión de vapor de agua = 47 mm Hg):",
+  "opts": [
+   "15 mm Hg",
+   "51 mm Hg",
+   "61 mm Hg",
+   "8 mm Hg",
+   "30 mm Hg"
+  ],
+  "ans": 1,
+  "why": "El gradiente A-a es PAO2 − PaO2, y PAO2 se calcula con la ecuación del gas alveolar: (Patm − PH2O) × FiO2 − PaCO2/CR. Con aire ambiente (FiO2 0,21) y CR 0,8: (760 − 47) × 0,21 − 35/0,8 = 149,7 − 43,75 ≈ 106 mmHg. Entonces, 106 − 55 = 51 mmHg. Un gradiente tan alto indica alteración de la unidad alveolocapilar.",
+  "fuentes": [
+   "Hantzidiamantis PJ, Amaro E. Physiology, Alveolar to Arterial Oxygen Gradient. StatPearls, 2023 (PMID 31424737)"
+  ],
+  "tema": "liquidos",
+  "nota": "La pregunta no da FiO2 ni cociente respiratorio; se usan los valores estándar (aire ambiente 0,21; CR 0,8), que son los únicos con los que coincide alguna opción."
+ },
+ {
+  "k": "e7935fd9fc",
+  "estado": "corregida",
+  "stem": "Una de las siguientes es una operación de derivación selectiva para prevenir futuras hemorragias por várices esofágicas",
+  "opts": [
+   "Shunt mesenterico-caval.",
+   "TIPSS.",
+   "Derivación Espleno-renal distal",
+   "Shunt Portacaval T-L.",
+   "Derivación Espleno-renal proximal."
+  ],
+  "ans": 2,
+  "why": "La derivación esplenorrenal distal (Warren, 1967) es la derivación selectiva: anastomosa el extremo distal de la vena esplénica a la renal izquierda y liga las colaterales (vena coronaria y gastroepiploicas). Así descomprime las várices por las gástricas cortas y el bazo y mantiene la perfusión portal del hígado. La esplenorrenal convencional o proximal es no selectiva. Las derivaciones portocava, mesocava y el TIPS (DPIT) también son no selectivas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1473 del PDF",
+   "Sabiston 21.ª ed., p. 1474 del PDF",
+   "Sabiston 21.ª ed., p. 1184 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: E (derivación esplenorrenal proximal, resaltado), que es incorrecta: Sabiston la llama 'convencional (no selectiva)'."
+ },
+ {
+  "k": "54c7f956b3",
+  "estado": "confirmada",
+  "stem": "Un hombre de 60 años con alcoholismo crónico se despierta a las 3:00 a.m. con dolor epigástrico agudo y severo. Tres horas más tarde, desarrolla dolor abdominal difuso. ¿Cuál es la fuente más probable de dolor abdominal?",
+  "opts": [
+   "Úlcera perforada",
+   "Diverticulitis",
+   "Colecistitis",
+   "Obstrucción intestinal",
+   "Apendicitis aguda"
+  ],
+  "ans": 0,
+  "why": "La perforación de una úlcera péptica da un dolor epigástrico intenso y de inicio repentino; luego, al derramarse el contenido, aparece una peritonitis con dolor abdominal generalizado. La irritación peritoneal difusa indica perforación libre. La colecistitis, la diverticulitis y la apendicitis empiezan de forma más gradual y localizada, y la obstrucción intestinal da dolor cólico con distensión.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1236 del PDF",
+   "Sabiston 21.ª ed., p. 1232 del PDF",
+   "Sabiston 21.ª ed., p. 1159 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "3ac3b5cd3e",
+  "estado": "confirmada",
+  "stem": "Dentro de las directrices para el tratamiento de hiperpotasemia se encuentra: Excepto:",
+  "opts": [
+   "Infusión de 10 ml de cloruro de calcio al 10% en 10 min",
+   "Diuréticos de ASA",
+   "Infusión de glucosa e insulina",
+   "0 ml de gluconato de calcio al 10% en 3 a 5 min",
+   "En ondas T picudas dar tratamiento indicado pero no rápido."
+  ],
+  "ans": 4,
+  "why": "Las directrices de Sabiston (cuadro 4.5) para la hiperpotasemia incluyen calcio intravenoso (10 ml de cloruro de calcio al 10 % en 10 min o 10 ml de gluconato de calcio al 10 % en 3-5 min), glucosa con insulina y diurético de asa. Para las ondas T picudas dicen: 'es necesario tratamiento rápido'. Por eso E (tratamiento 'pero no rápido') es la excepción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 111 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "En el original la opción D dice '0 ml'; en Sabiston son 10 ml de gluconato de calcio al 10 %."
+ },
+ {
+  "k": "e3f41303c3",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años se presenta con u nevo benigno en la parte superior pierna. Ella desea la extracción y se somete a una incisión limpia y luego el cierre de la incisión sin complicaciones. Con respecto al proceso de curación, ¿cuál de los siguientes tipos de células son las primeras células que se infiltran en entrar en el sitio de la herida, alcanzando un pico entre las 24 y las 48 horas?",
+  "opts": [
+   "Fibroblastos",
+   "Neutrofilos",
+   "Monocitos",
+   "Macrófagos",
+   "Linfocitos"
+  ],
+  "ans": 1,
+  "why": "Tras el tapón de plaquetas, las primeras células que llegan a la herida son los neutrófilos (PMN). Predominan unas 48 h y luego los reemplazan los macrófagos, que siguen en la herida hasta que termina la cicatrización. Después llegan los linfocitos, y los fibroblastos aparecen en la fase proliferativa. Los monocitos se convierten en macrófagos en la herida.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 497 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 493 del PDF",
+   "Sabiston 21.ª ed., p. 145 del PDF"
+  ],
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "4fca0bad6e",
+  "estado": "confirmada",
+  "stem": "Un hombre de 47 años de edad ha sido admitido en la UCI de quemaduras durante 4 días después de haber sufrido una quemadura del 30% de la superficie corporal total, que involucra el cuello, el torax, las extremidades superiores bilaterales y las extremidades inferiores, cuando comienza a descompensarse clínicamente. ¿Cuál de las siguientes opciones sugiere o diagnostica la sepsis de una herida por quemadura?",
+  "opts": [
+   "Incapacidad para tolerar la alimentación por sonda enteral durante más de 24 h",
+   "Fiebres mayores de 38 ºC",
+   "Conversión de una quemadura de espesor parcial en una quemadura de espesor total",
+   "Incapacidad para mejorar con la administración de antibióticos de amplio espectro",
+   "Frotis de cultivo de heridas quemadas que crecen más de 105 organismos por gramo de tejido frotado"
+  ],
+  "ans": 2,
+  "why": "Entre los signos locales de invasión en la infección de una quemadura están la conversión de una herida de espesor parcial en una más profunda, la celulitis que avanza hacia tejido sano, el desprendimiento de la escara y la necrosis. La fiebre (B), la intolerancia a la nutrición enteral (A) y la falta de respuesta a antibióticos (D) no son específicas. El umbral de más de 10^5 organismos se mide por gramo de tejido con cultivo cuantitativo (biopsia), no con un frotis de superficie (E).",
+  "fuentes": [
+   "Hemmati J et al. Multidrug-Resistant Pathogens in Burn Wound, Prevention, Diagnosis, and Therapeutic Approaches. Can J Infect Dis Med Microbiol. 2023 (PMC10386904)",
+   "Sabiston 21.ª ed., p. 163 del PDF"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "38610b6f5c",
+  "estado": "dudosa",
+  "stem": "Un varón de 34 años de edad esta en ventilación mecánica en UCI por un TEC grave. El mide 180 cm y pesa 80Kg. No tiene quemaduras, ninguna cirugía y no muestra signos de sepsis. ¿Cuál de las siguientes es su requerimiento calórico estimado por 24 horas?",
+  "opts": [
+   "2570 kcal",
+   "2200 kcal",
+   "1840 kcal",
+   "1760 kcal",
+   "2390 kcal"
+  ],
+  "ans": null,
+  "why": "Con Harris-Benedict (Sabiston), el gasto en reposo es 66,5 + 13,75 × 80 + 5,003 × 180 − 6,755 × 34 ≈ 1.837 kcal, es decir, la opción C (1.840). El total depende del factor de estrés que se elija: × 1,2 (encamado) ≈ 2.200 (opción B) y × 1,3 ≈ 2.390 (clave E). La tabla de Sabiston no trae un factor para el TCE. ABSITE recomienda 25 kcal/kg/día en el paciente sedado y ventilado (2.000 kcal, que no está entre las opciones). Las fuentes no permiten elegir una sola cifra.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 129 del PDF",
+   "Sabiston 21.ª ed., p. 130 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 442 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original: E (2.390 kcal, resaltado). Supone un factor de 1,3 que no está justificado en los libros para un TCE."
+ }
+]

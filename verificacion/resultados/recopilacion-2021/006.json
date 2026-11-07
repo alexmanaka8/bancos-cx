@@ -1,0 +1,654 @@
+[
+ {
+  "k": "5cb5cc7db9",
+  "estado": "confirmada",
+  "stem": "Señale de entre las siguientes complicaciones más probables que presenta el paciente intervenido, hace 20 años, de úlcera gástrica mediante antrectomía y gastroyeyunostomía (Billroth II) que acude a su consulta refiriendo dolor abdominal postprandial, distensión abdominal, diarrea y datos analíticos de malabsorción de grasas y de vitamina B12:",
+  "opts": [
+   "Síndrome de evacuación gástrica rápida (dumping)",
+   "Síndrome de asa aferente con sobrecrecimiento bacteriano",
+   "N.A",
+   "Adenocarcinoma gástrico",
+   "Gastropatía por reflujo biliar"
+  ],
+  "ans": 1,
+  "why": "Tras un Billroth II, la obstrucción crónica del asa aferente puede agravarse con un síndrome de asa ciega: las bacterias proliferan en el asa estática, captan la vitamina B12 y desconjugan los ácidos biliares, lo que causa déficit de B12 (anemia megaloblástica), malabsorción de grasas y de vitaminas liposolubles. El dolor posprandial con distensión y diarrea más malabsorción de grasas y de B12 encaja con este cuadro. El dumping, el reflujo biliar y el cáncer no explican la malabsorción de B12 y de grasas por sobrecrecimiento bacteriano.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1242 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "006-a1",
+  "agregada": true,
+  "despues_de": "5cb5cc7db9",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes opciones no aumenta de forma rutinaria durante la cirugía laparoscópica?",
+  "opts": [
+   "Capacidad vital",
+   "Excursión diafragmática",
+   "Presión intratorácica",
+   "Presión capilar pulmonar en cuña",
+   "Presión de las vías respiratorias"
+  ],
+  "ans": null,
+  "why": "El Sabiston explica que el aumento de la presión intraabdominal desplaza el diafragma hacia arriba, disminuye la excursión diafragmática y la distensibilidad pulmonar, y aumenta la presión intratorácica. Por tanto, la excursión diafragmática (B) tampoco aumenta, igual que la capacidad vital (A), la clave resaltada. Hay al menos dos opciones que cumplen el enunciado y no encontré una fuente que explique cuál esperaba el examen.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 288 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado). El Sabiston describe estos efectos para la hipertensión intraabdominal en general, no para el neumoperitoneo en concreto.",
+  "tema": "laparoscopia"
+ },
+ {
+  "k": "d44bfcc802",
+  "estado": "dudosa",
+  "stem": "Hombre de 100 kg con porcentaje de área quemada de 30%, ¿cuánto será el volumen de cristaloides que Ud. le pasaría en las primeras 8 horas?",
+  "opts": [
+   "6000",
+   "3000",
+   "N.A",
+   "0.5 cc/Kg/h",
+   "12000"
+  ],
+  "ans": null,
+  "why": "Con la fórmula de Parkland (4 ml/kg/% de superficie quemada): 4 × 100 × 30 = 12 000 ml en 24 h, y la mitad en las primeras 8 h = 6000 ml (opción A). Pero el Sabiston presenta también la fórmula de Brooke (2 ml/kg/%), con la que salen 6000 ml en 24 h y 3000 ml en las primeras 8 h (opción B). Como la pregunta no dice qué fórmula usar, hay dos respuestas defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado). Si el docente pide la fórmula de Parkland, la respuesta es 6000 ml (A).",
+  "tema": "quemados"
+ },
+ {
+  "k": "a3f6931be9",
+  "estado": "confirmada",
+  "stem": "Un hombre de 32 años de edad se presenta después de haber sido agredido por un bate en la cabeza, la cara y el torso. Abre los ojos al frotamiento del esternón, se localiza al dolor y sólo hace ruidos de quejidos. ¿Cuál es el GCS de este paciente?",
+  "opts": [
+   "11",
+   "10",
+   "9",
+   "7",
+   "8"
+  ],
+  "ans": 2,
+  "why": "Escala de Glasgow: apertura ocular al dolor = 2; respuesta verbal incomprensible (solo quejidos) = 2; respuesta motora que localiza el dolor = 5. Total = 9. Las otras cifras no corresponden a esta suma.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 413 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "trauma"
+ },
+ {
+  "k": "5eeb2a22bb",
+  "estado": "confirmada",
+  "stem": "La tasa de infusión de dextrosa por vía parenteral no debe exceder:",
+  "opts": [
+   "2-3 mg/Kg/min",
+   "1-2 mg/Kg/min",
+   "4-5 mg/Kg/min",
+   "6-7 mg/Kg/min"
+  ],
+  "ans": 2,
+  "why": "Según las guías ESPEN 2019 para nutrición en UCI, citadas en el consenso de expertos de 2022, el aporte de glucosa en nutrición parenteral del adulto no debe superar 5 mg/kg/min. En un estudio citado ahí, con más de 5 mg/kg/min el 49% de los pacientes hizo hiperglucemia, y no hubo hiperglucemia con 4 mg/kg/min o menos. Por eso el límite es 4-5 mg/kg/min. Los valores menores no son el techo, y 6-7 mg/kg/min ya lo superan.",
+  "fuentes": [
+   "Expert consensus on the glycemic management of critically ill patients. J Intensive Med 2022 (PMC9923981), enunciado 22"
+  ],
+  "nota": "Clave original: C (resaltado). El Sabiston (p. 1870 del PDF) da cifras más altas (hasta 10-12 mg/kg/min), pero las da para lactantes y niños, no para adultos.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "e56fdebfde",
+  "estado": "confirmada",
+  "stem": "El factor etiológico más importante de la enfermedad de úlcera péptica es:",
+  "opts": [
+   "Fumar",
+   "El reflujo duodeno gástrico",
+   "Hipersecreción ácida",
+   "Ingesta de antiinflamatorios no esteroideos (AINE)",
+   "Colonización bacteriana"
+  ],
+  "ans": 4,
+  "why": "El Sabiston enumera entre los factores agresivos el ácido, el tabaco, el reflujo biliar y los AINE, pero destaca «más especialmente, la infección por H. pylori»; la mayoría de las úlceras se deben a H. pylori o a AINE. La colonización bacteriana (H. pylori) es por tanto el factor más importante. El tabaco, el reflujo y la hipersecreción ácida contribuyen, pero no son la causa principal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1229 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado).",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "006-a2",
+  "agregada": true,
+  "despues_de": "e56fdebfde",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el tratamiento de elección para pacientes con un absceso hepático amebiano?",
+  "opts": [
+   "Metronidazol",
+   "Todas las anteriores",
+   "Drenaje radiológico con guía ecográfica",
+   "Drenaje quirúrgico",
+   "Drenaje laparoscópico"
+  ],
+  "ans": 0,
+  "why": "La piedra angular del tratamiento del absceso amebiano es el metronidazol (750 mg v.o., 3 veces al día durante 10 días), que cura a más del 90% de los pacientes. Una revisión Cochrane no encontró beneficio de añadir la aspiración. El drenaje se reserva para diagnóstico dudoso, falta de respuesta en 3-5 días o riesgo de rotura, así que los drenajes no son el tratamiento de elección.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1483 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "higado"
+ },
+ {
+  "k": "39cc550347",
+  "estado": "confirmada",
+  "stem": "Un paciente con una cirugía abdominal urgente: usted tiene su informe de quirófano en el cual nos señalan que se ha realizado una resección de todo el duodeno y del tercio proximal del yeyuno, manteniendo íntegros el estómago y todo el íleon así como los dos tercios distales del yeyuno. En el seguimiento nutricional del paciente, ¿qué vitamina o mineral presentará con menos probabilidad una disminución de su absorción y por tanto no produciría manifestaciones clínicas secundarias a su déficit?",
+  "opts": [
+   "Hierro",
+   "Vitamina B12",
+   "Calcio",
+   "Magnesio",
+   "Ácido fólico"
+  ],
+  "ans": 1,
+  "why": "La vitamina B12 se absorbe sobre todo en el íleon terminal, unida al factor intrínseco del estómago; ambos están conservados, así que su absorción no se altera. En cambio, el hierro se absorbe en el duodeno y el calcio sobre todo en el intestino proximal (duodeno y yeyuno), que se han resecado, por lo que su déficit es probable.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1271 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "intestino"
+ },
+ {
+  "k": "8ff8e0f78f",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el antibiótico de elección en el tratamiento del Clostridium perfringens en pacientes con alergia a la penicilina?",
+  "opts": [
+   "Clindamicina",
+   "Clindamicina + Eritromicina",
+   "Eritromicina",
+   "Metronidazol",
+   "Clindamicina + Eritromicina + Metronidazol"
+  ],
+  "ans": null,
+  "why": "El Sabiston describe la gangrena gaseosa por C. perfringens pero no indica el antibiótico para alérgicos a la penicilina. Las guías WSES de infecciones de piel y partes blandas revisadas tampoco dan una pauta específica para este caso. Sin una fuente que lo decida no se puede confirmar la combinación clindamicina + eritromicina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 256 del PDF",
+   "WSES/SIS-E 2018, recommendations for the management of skin and soft-tissue infections (PMC6295010)"
+  ],
+  "nota": "Clave original: B (resaltado). No se encontró respaldo para combinar dos fármacos de acción parecida (clindamicina y eritromicina).",
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "006-a3",
+  "agregada": true,
+  "despues_de": "8ff8e0f78f",
+  "estado": "confirmada",
+  "stem": "Paciente con enfermedad de Crohn que va a comenzar tratamiento con terapia biológica anti-TNF (anticuerpos anti-factor de necrosis tumoral alfa). ¿Cuál de las siguientes pruebas diagnósticas no es necesaria antes de iniciar dicha terapia?",
+  "opts": [
+   "Serología del virus de la inmunodeficiencia humana",
+   "Radiografía de tórax",
+   "Prueba de tuberculina",
+   "Valoración del estado inmunitario mediante contaje linfocitario",
+   "Serología del virus de hepatitis B (VHB)"
+  ],
+  "ans": 3,
+  "why": "Antes de empezar biológicos, las guías de enfermedad inflamatoria intestinal piden serologías de VHB, VHC, VIH y varicela, y cribado de tuberculosis con valoración clínica, radiografía de tórax y pruebas de infección latente. La prueba de tuberculina es un método de cribado de tuberculosis latente, aunque hoy se prefieren los IGRA. El recuento de linfocitos no forma parte del cribado recomendado.",
+  "fuentes": [
+   "Lancet Gastroenterol Hepatol 2020; Viral screening before initiation of biologics in IBD (PMC7270848)",
+   "J Clin Med 2021; Screening for TB in hospitalised IBD patients before anti-TNF therapy (PMC8122329)"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "intestino"
+ },
+ {
+  "k": "006-a4",
+  "agregada": true,
+  "despues_de": "006-a3",
+  "estado": "confirmada",
+  "stem": "Primigesta de 23 años de edad, cursando embarazo de 22 semanas, se le diagnostica apendicitis. Marque la premisa:",
+  "opts": [
+   "N.A",
+   "El TTO quirúrgico por cirugía laparoscópica.",
+   "Dar antiespasmódicos, analgésicos y conducta expectante.",
+   "No es la emergencia más frecuente no obstétrica de 0.04% a 0.2%",
+   "Analgésicos, antibióticos y reevaluar en 24hs."
+  ],
+  "ans": 1,
+  "why": "Las pautas de SAGES, citadas en el Sabiston, establecen que la apendicectomía laparoscópica puede hacerse de forma segura en embarazadas con apendicitis aguda. El Sabiston añade que el tratamiento conservador de la apendicitis en la embarazada no tiene ningún papel, por el mayor riesgo de peritonitis y muerte fetal, así que C y E son incorrectas. La opción D es falsa porque la apendicitis es el problema quirúrgico abdominal no obstétrico más frecuente del embarazo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 2063 del PDF",
+   "Sabiston 21.ª ed., p. 2064 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "006-a5",
+  "agregada": true,
+  "despues_de": "006-a4",
+  "estado": "dudosa",
+  "stem": "Una bailarina de ballet de 25 años con antecedentes de anorexia nerviosa llega a emergencia con dolor en el cuadrante inferior derecho. Después de una apendicectomía, desarrolla una infección de sitio operatorio que requiere desbridamiento. La paciente recibe un régimen de antibióticos, y la herida está llena de apósitos húmedos a secos. En cuanto a la curación de heridas y la desnutrición, ¿cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "La hipoproteinemia conduce a una disminución de los niveles de arginina y glutamina, que son esenciales para la cicatrización de las heridas.",
+   "El paciente debe ser tratado con altas dosis de vitamina C, vitamina A y zinc.",
+   "La vitamina D desempeña un papel inmunomodulador en la cicatrización de heridas.",
+   "Las membranas celulares se deshidratan rápidamente en ausencia de vitamina E, lo que retrasa la cicatrización de la herida.",
+   "El zinc es esencial para la capacidad del fibroblasto para entrecruzar el colágeno."
+  ],
+  "ans": null,
+  "why": "En los libros revisados, la vitamina D aparece en el metabolismo del calcio y en la regulación del colágeno tipo I, no como inmunomoduladora de la cicatrización, así que no se pudo confirmar la clave C. El Sabiston atribuye el entrecruzamiento del colágeno a la vitamina C, y al cinc la función de cofactor de las ARN y ADN polimerasas. Eso va contra la opción E. Ninguna fuente revisada respalda claramente una sola opción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 134 del PDF",
+   "Sabiston 21.ª ed., p. 160 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 498 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "cicatrizacion"
+ },
+ {
+  "k": "c8b9087fbc",
+  "estado": "confirmada",
+  "stem": "Paciente sufre quemaduras y es llevado a curación bajo anestesia. ¿Cuál es el agente paralítico asociado con el riesgo de hiperpotasemia que debe evitarse?",
+  "opts": [
+   "Succinilcolina",
+   "Ketamina",
+   "Vecuronio",
+   "N.A",
+   "Propofol"
+  ],
+  "ans": 0,
+  "why": "La succinilcolina, el único bloqueante neuromuscular despolarizante en uso, puede causar hiperpotasemia grave con riesgo vital en pacientes con quemaduras, paraplejía o traumatismo masivo. El vecuronio es no despolarizante y no tiene ese efecto. La ketamina y el propofol no son agentes paralíticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 343 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "quemados"
+ },
+ {
+  "k": "006-a6",
+  "agregada": true,
+  "despues_de": "c8b9087fbc",
+  "estado": "anulada",
+  "stem": "Un paciente postoperado tiene una concentración sérica de sodio de 125 mEq/L y un nivel de glucosa en sangre de 500 mg/dL (nivel normal, 100 mg/dL). ¿Cuál sería la concentración sérica de sodio del paciente (suponiendo una función renal normal y una terapia adecuada con líquidos intraoperatorios) si los niveles de glucosa en sangre fueran normales?",
+  "opts": [
+   "120 mEq/L",
+   "122 mEq/L",
+   "147 mEq/L",
+   "137 mEq/L",
+   "142 mEq/L"
+  ],
+  "ans": null,
+  "why": "El sodio medido baja 1,6 mEq/L por cada 100 mg/dL de glucosa por encima de 100 (Sabiston). Aquí la glucosa sobra en 400 mg/dL, así que el sodio corregido es 125 + 4 × 1,6 ≈ 131 mEq/L. Con el factor de 2 mEq/L del ABSITE sale 133 mEq/L. Ninguna opción coincide; la clave resaltada (137) supondría un factor de 3 que no aparece en las fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 414 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "006-a7",
+  "agregada": true,
+  "despues_de": "006-a6",
+  "estado": "confirmada",
+  "stem": "La mayoría de los cálculos en la vesícula biliar:",
+  "opts": [
+   "Causar ictericia obstructiva.",
+   "Causar colecistitis aguda.",
+   "Causa cólico biliar.",
+   "Causar pancreatitis aguda.",
+   "Son asintomáticos."
+  ],
+  "ans": 4,
+  "why": "A menudo los cálculos biliares permanecen asintomáticos y se descubren por casualidad en pruebas de imagen; solo del 20 al 30% de los pacientes con cálculos asintomáticos tendrá síntomas en 20 años. La ictericia, la colecistitis, el cólico y la pancreatitis aparecen solo en una minoría.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1521 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado). En el original el inicio del enunciado quedó fuera de la numeración (antes de «74.»).",
+  "tema": "vesicula"
+ },
+ {
+  "k": "84b00591cf",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años que corre maratones tiene una hernia inguinal recurrente. ¿Qué afirmación es correcta?",
+  "opts": [
+   "El tipo de reparación anterior no tiene importancia en el plan de tratamiento.",
+   "Una reparación se puede realizar con el paciente bajo anestesia local con una alta probabilidad de éxito.",
+   "Tendrá que dejar de correr maratones después de la reparación.",
+   "La reparación laparoscópica, si la reparación anterior se realizó de manera abierta con una malla, es una opción basada en la evidencia.",
+   "Se recomienda una reparación de Shouldice."
+  ],
+  "ans": 3,
+  "why": "La reparación laparoscópica es la mejor opción para las hernias recurrentes que se operaron antes por vía abierta, porque permite trabajar por un plano no disecado. Por eso el tipo de reparación previa sí importa (A es falsa). No hay base para obligarlo a dejar de correr, y el Shouldice no es el abordaje recomendado para una recidiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 37 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "hernias"
+ },
+ {
+  "k": "4dfc86b9c6",
+  "estado": "confirmada",
+  "stem": "De las siguientes características clínicas, ¿cuál NO corresponde al neumotórax a tensión?",
+  "opts": [
+   "Ingurgitación yugular bilateral.",
+   "Ausencia de ruidos respiratorios en el lado afectado.",
+   "Desviación de la tráquea hacia el lado afectado.",
+   "Desviación contralateral del mediastino.",
+   "Hipotensión arterial."
+  ],
+  "ans": 2,
+  "why": "En el neumotórax a tensión la tráquea se desvía hacia el lado opuesto a la tensión: la desviación traqueal indica tensión intratorácica en el lado contrario. Por tanto, la desviación hacia el lado afectado no corresponde. Los ruidos respiratorios ausentes del lado afectado, el desplazamiento contralateral del mediastino y el compromiso hemodinámico sí son propios del cuadro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 417 del PDF",
+   "Sabiston 21.ª ed., p. 429 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "trauma"
+ },
+ {
+  "k": "006-a8",
+  "agregada": true,
+  "despues_de": "4dfc86b9c6",
+  "estado": "confirmada",
+  "stem": "Describió el método de desinfectar las heridas en sala de operaciones, instrumental médico, heridas y manos de cirujanos:",
+  "opts": [
+   "William Halsted",
+   "Ignac Semmelweis",
+   "Louis Pasteur",
+   "John Collins",
+   "Joseph Lister"
+  ],
+  "ans": 4,
+  "why": "Lister, basándose en los hallazgos de Pasteur, aplicó la antisepsia química con ácido carbólico (fenol). En 1866 lo instilaba en heridas y vendajes y lo pulverizaba alrededor del campo y de la mesa de operaciones, y sumergía los dedos en solución de fenol. Pasteur estudió la fermentación y los microorganismos, pero no describió un método quirúrgico. Halsted es conocido por popularizar los guantes de goma.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 31 del PDF",
+   "Sabiston 21.ª ed., p. 32 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado).",
+  "tema": "historia"
+ },
+ {
+  "k": "006-a9",
+  "agregada": true,
+  "despues_de": "006-a8",
+  "estado": "confirmada",
+  "stem": "Mujer de 48 años con Dx de pancreatitis aguda grave, presenta mal estado general, leucocitosis de 20,000/uL, fiebre de 39 °C, insuficiencia renal, disnea, shock. El manejo recomendado es:",
+  "opts": [
+   "Laparoscopía de emergencia",
+   "Laparotomía de emergencia",
+   "N.A",
+   "Nutrición parenteral total",
+   "Punción del páncreas con aguja fina guiada por imágenes y cultivo y antibiograma."
+  ],
+  "ans": 4,
+  "why": "Ante la sospecha de necrosis pancreática infectada (fiebre, leucocitosis y deterioro en una pancreatitis grave), el Sabiston indica que puede hacerse una aspiración con aguja fina si el diagnóstico es dudoso; una tinción de Gram o un cultivo positivos lo confirman. La intervención quirúrgica debe retrasarse tanto como sea posible para que la colección se encapsule, así que la laparotomía o laparoscopia de emergencia no son el manejo recomendado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1563 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado). El Sabiston reserva la punción para cuando el diagnóstico de infección es dudoso.",
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "7fae5c8da1",
+  "estado": "confirmada",
+  "stem": "El origen anómalo de la arteria hepática común y arteria hepática derecha se origina en:",
+  "opts": [
+   "Arteria pancreaticoduodenal superior",
+   "Arteria gástrica derecha",
+   "Aorta",
+   "Arteria pancreaticoduodenal inferior",
+   "Arteria mesentérica superior"
+  ],
+  "ans": 4,
+  "why": "La arteria hepática suele nacer del tronco celíaco, pero sus ramas, o todo el sistema arterial hepático, pueden provenir de la arteria mesentérica superior. La hepática común puede originarse en la mesentérica superior, y la hepática derecha accesoria o reemplazada nace de la mesentérica superior. Las demás opciones no son orígenes descritos de estas variantes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1454 del PDF",
+   "Sabiston 21.ª ed., p. 1457 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 73 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado).",
+  "tema": "higado"
+ },
+ {
+  "k": "58a846c4ab",
+  "estado": "confirmada",
+  "stem": "Una paciente presenta nivel de magnesio de 12 mEq/L, ¿cuál sería la manifestación clínica que podría presentar la paciente?",
+  "opts": [
+   "Apnea",
+   "Somnolencia",
+   "Hipotensión",
+   "Náuseas",
+   "Letargia"
+  ],
+  "ans": 0,
+  "why": "Con el magnesio cerca de 10 mEq/L desaparecen los reflejos rotulianos; por encima de 10 mEq/L aparece depresión respiratoria, y con 12 mEq/L o más se producen parálisis respiratoria y paro. El Sabiston confirma que la hipermagnesemia puede llevar a parálisis flácida y apnea. La somnolencia, la hipotensión, las náuseas y el letargo aparecen con niveles menores.",
+  "fuentes": [
+   "Indian J Anaesth 2018; Hypertensive disorders in pregnancy (PMC6144552)",
+   "Sabiston 21.ª ed., p. 115 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "ed42af4f6b",
+  "estado": "confirmada",
+  "stem": "Hombre de 60 años de edad, antecedente de alcoholismo crónico, admitido en hospital por pancreatitis aguda. A las 3 semanas cuenta con amilasa sérica elevada y Dx de pseudoquiste pancreático de 4 cm que se encuentra en la TC. ¿Cuál sería la conducta a seguir?",
+  "opts": [
+   "Drenaje percutáneo",
+   "N.A",
+   "Observación y controles con TAC",
+   "Toma de cultivo para saber si está infectado",
+   "Drenaje endoscópico, laparoscópico."
+  ],
+  "ans": 2,
+  "why": "En el seudoquiste asintomático está indicada la observación, porque hasta el 70% regresa de forma espontánea, sobre todo los menores de 4 cm. Los drenajes se reservan para los pacientes con síntomas o cuando no se puede descartar una neoplasia quística. No hay datos de infección que obliguen a cultivar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1564 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "006-a10",
+  "agregada": true,
+  "despues_de": "ed42af4f6b",
+  "estado": "confirmada",
+  "stem": "En patología colorrectal, dadas las siguientes premisas, marque la que NO es CORRECTA:",
+  "opts": [
+   "El conducto anal proximal tiene inervación visceral.",
+   "El esfínter externo es involuntario y el interno es voluntario.",
+   "El conducto anal distal tiene inervación de tipo somática.",
+   "El esfínter externo está inervado por el nervio pudendo.",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "Es al revés: el esfínter interno es músculo liso con inervación autónoma (involuntario), mientras que el externo puede contraerse voluntariamente y está inervado por la rama rectal inferior del nervio pudendo (S2-S3) y la rama perineal de S4. Por eso B es la afirmación incorrecta, y D es correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF",
+   "Sabiston 21.ª ed., p. 1427 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "d4d5dd3339",
+  "estado": "confirmada",
+  "stem": "Los siguientes son signos y síntomas asociados con la hipermagnesemia, excepto:",
+  "opts": [
+   "N.A",
+   "Parestesia facial",
+   "Hiperreflexia",
+   "Sangrado",
+   "Bradicardia"
+  ],
+  "ans": 2,
+  "why": "La hipermagnesemia bloquea la transmisión neuromuscular y produce primero la pérdida de los reflejos tendinosos profundos (hiporreflexia o arreflexia), no hiperreflexia. La hiperreflexia es propia de la hipomagnesemia. La bradicardia sí es una manifestación cardíaca inicial de la hipermagnesemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 115 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 409 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). En los libros no se encontró mención de la parestesia facial ni del sangrado; la hiperreflexia es la única opción que contradice claramente la fuente.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "006-a11",
+  "agregada": true,
+  "despues_de": "d4d5dd3339",
+  "estado": "confirmada",
+  "stem": "Paciente de 32 años, diagnosticado de colitis ulcerosa tipo pancolitis, tratado, sin episodios de brotes en los últimos cuatro meses. Refiere desde hace 15 días dolor sordo en hipocondrio derecho y astenia. Febrícula ocasional. La exploración física no objetiva ninguna alteración significativa y analíticamente tiene una bilirrubina total de 2.3 mg/dl (directa 1.2 mg/dl); aspartato aminotransferasa 90 UI/l; alanino aminotransferasa 106 UI/l. Actividad de la protrombina 95%. Proteínas totales 8 g% y albúmina 3.9 g%. Anticuerpos antimitocondriales negativos. Teniendo en cuenta los datos anteriores, ¿cuál es el diagnóstico más probable?",
+  "opts": [
+   "Colangitis esclerosante primaria",
+   "Hepatitis autoinmune",
+   "Coledocolitiasis",
+   "Hígado metastásico",
+   "Cirrosis biliar primaria"
+  ],
+  "ans": 0,
+  "why": "La colangitis esclerosante primaria se asocia con la colitis ulcerosa en casi el 70% de los casos, y unas pruebas hepáticas anómalas en un paciente con enfermedad inflamatoria intestinal deben hacer pensar en ella. En la CEP los anticuerpos antimitocondriales suelen ser negativos, a diferencia de la colangitis (cirrosis) biliar primaria, en la que suelen ser positivos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1527 del PDF",
+   "Sabiston 21.ª ed., p. 640 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "via-biliar"
+ },
+ {
+  "k": "29ae240612",
+  "estado": "confirmada",
+  "stem": "Un paciente con warfarina para trombosis venosa profunda múltiple está a punto de someterse a una laparotomía de emergencia para un colon sigmoide perforado. ¿Cuál de las siguientes es la mejor estrategia preoperatoria?",
+  "opts": [
+   "Continuar la terapia de warfarina según lo prescrito",
+   "Suspenda la terapia de warfarina, administre vitamina K (2-3 mg) y verifique el INR cada 6-8 horas antes de la cirugía.",
+   "Suspender la terapia de warfarina, administrar vitamina K (2-3mg), revisar el INR cada 6-8 horas antes de la cirugía, solicitar plasma fresco congelado para utilizarlo durante la cirugía.",
+   "Nada de lo anterior, ya que la cirugía debe posponerse.",
+   "Suspender la terapia de warfarina y revisar el INR cada 6-8 horas antes de la cirugía."
+  ],
+  "ans": 2,
+  "why": "La warfarina tiene una semivida de 36 a 42 h, así que suspenderla no basta para una cirugía urgente. Si el INR sigue alto, se puede dar vitamina K o plasma fresco congelado antes de operar, según la coagulopatía. La vitamina K tarda en actuar, por lo que en una laparotomía de urgencia hace falta además un aporte de factores de coagulación (plasma o concentrado de complejo protrombínico). La opción C es la más completa, y la cirugía de una perforación no puede posponerse.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 226 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 490 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). El ABSITE señala que el concentrado de complejo protrombínico corrige el INR más rápido y con menos volumen que el plasma; no figura entre las opciones.",
+  "tema": "hemostasia"
+ },
+ {
+  "k": "500549befe",
+  "estado": "confirmada",
+  "stem": "¿Cuál de lo siguiente es cierto con respecto a las hernias umbilicales en adultos?",
+  "opts": [
+   "La estrangulación es menos común que en los niños.",
+   "Se pueden observar clínicamente pequeñas hernias asintomáticas.",
+   "La mayoría son congénitas.",
+   "El cierre primario tiene tasas de recurrencia similares a las de la reparación con malla.",
+   "La reparación está contraindicada en pacientes con cirrosis."
+  ],
+  "ans": 1,
+  "why": "Las hernias umbilicales pequeñas, apenas palpables y asintomáticas pueden seguirse clínicamente; las grandes o sintomáticas se reparan. En el adulto son adquiridas, no congénitas, y la estrangulación es más frecuente que en el niño. En el cirrótico la reparación no está contraindicada: se optimiza primero la ascitis. Hoy se reparan cada vez más con malla, sobre todo los defectos grandes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 36 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 46 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "hernias"
+ },
+ {
+  "k": "321eccc5ab",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes no es función del potasio?",
+  "opts": [
+   "Ayuda en la coagulación sanguínea",
+   "Principal contribuyente a la osmolaridad intracelular",
+   "N.A",
+   "Mantener el potencial de membrana en reposo",
+   "Contribuir al balance ácido-base"
+  ],
+  "ans": 0,
+  "why": "El potasio es el principal ion intracelular, sus alteraciones cambian el potencial de reposo de la membrana y se relaciona con el equilibrio ácido-base (por ejemplo, el bicarbonato desplaza el potasio al interior de la célula). La coagulación no es función del potasio: el Sabiston atribuye al calcio ser esencial para la coagulación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "Sabiston 21.ª ed., p. 110 del PDF",
+   "Sabiston 21.ª ed., p. 134 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "006-a12",
+  "agregada": true,
+  "despues_de": "321eccc5ab",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la relación normal de bicarbonato a ácido carbónico en el cuerpo?",
+  "opts": [
+   "40:1",
+   "15:1",
+   "20:1",
+   "30:1",
+   "10:1"
+  ],
+  "ans": 2,
+  "why": "Según la ecuación de Henderson-Hasselbalch, pH = 6,1 + log [HCO3−/(0,03 × PCO2)]. Con el pH normal de 7,40, log del cociente = 7,40 − 6,1 = 1,3, y 10^1,3 ≈ 20. El cociente bicarbonato/ácido carbónico es por tanto 20:1. Los otros cocientes darían un pH fuera de lo normal.",
+  "fuentes": [
+   "Merck Manual Professional, Acid-Base Regulation (https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/acid-base-regulation-and-disorders/acid-base-regulation)"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "7930ab4a1a",
+  "estado": "confirmada",
+  "stem": "Mencione una complicación del uso de sulfadiacina de plata en pacientes quemados:",
+  "opts": [
+   "Leucocitosis",
+   "Neutropenia",
+   "Linfopenia",
+   "N.A",
+   "Leucopenia"
+  ],
+  "ans": 1,
+  "why": "El Sabiston señala como efecto adverso de la sulfadiacina de plata la neutropenia transitoria, y el ABSITE indica que puede causar neutropenia y trombocitopenia. La leucocitosis y la linfopenia no se describen; la neutropenia es el término que usan las fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 163 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 460 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "quemados"
+ },
+ {
+  "k": "fbcb432878",
+  "estado": "confirmada",
+  "stem": "Una mujer de 49 años presenta ictericia. La colangiopancreatografía por resonancia magnética muestra la presencia de colangitis esclerosante. Ella tiene una larga historia de diarrea por la cual ha recibido esteroides en varias ocasiones. ¿Es probable que sufra cuál de las siguientes enfermedades?",
+  "opts": [
+   "Enfermedad celíaca",
+   "Anemia perniciosa",
+   "Colitis ulcerosa.",
+   "Colitis amebiana.",
+   "Síndrome del intestino irritable."
+  ],
+  "ans": 2,
+  "why": "La colangitis esclerosante primaria se asocia con la colitis ulcerosa en casi el 70% de los pacientes. Una diarrea crónica tratada con corticoides orienta a enfermedad inflamatoria intestinal. Las otras enfermedades no tienen esa asociación descrita.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1527 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado).",
+  "tema": "via-biliar"
+ },
+ {
+  "k": "4c9a0119b2",
+  "estado": "confirmada",
+  "stem": "Una mujer de 33 años está programada para una colecistectomía electiva. La evaluación preoperatoria muestra la presencia de hipotiroidismo moderado. Seleccione la siguiente acción más apropiada:",
+  "opts": [
+   "Proceder con la cirugía si no se presentan síntomas clínicos graves.",
+   "Proceder con la cirugía mientras se inicia el tratamiento con levotiroxina.",
+   "Proceder con la cirugía con el conocimiento de que se pueden desarrollar complicaciones perioperatorias menores.",
+   "Posponer la cirugía hasta que se logre un estado de eutiroidismo.",
+   "Proceda con la cirugía mientras comienza el tratamiento con tioamidas."
+  ],
+  "ans": 3,
+  "why": "El Sabiston indica que la cirugía programada debe retrasarse hasta alcanzar el estado eutiroideo; solo en una urgencia se opera administrando T4 i.v. antes. Como la colecistectomía es electiva, lo adecuado es posponerla. Las tioamidas tratan el hipertiroidismo, no el hipotiroidismo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 285 del PDF",
+   "Sabiston 21.ª ed., p. 228 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). El Sabiston (p. 228 del PDF) matiza que en el hipotiroidismo asintomático se puede iniciar la hormona en cualquier momento perioperatorio, y que en el sintomático se retrasa la cirugía.",
+  "tema": "eras"
+ }
+]

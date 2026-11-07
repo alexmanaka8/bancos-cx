@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Verificación de claves con los libros (ver verificacion/REGLAS.md).
 
-  python3 herramientas/verificar.py lotes <banco> [--tam 20]   # reparte lo pendiente en lotes
+  python3 herramientas/verificar.py lotes <banco> [--tam 20] [--silabo]   # reparte lo pendiente en lotes
+                                     (--silabo: salta los temas fuera del sílabo y "otros")
   python3 herramientas/verificar.py original <banco> <k>       # imagen de la página original de una pregunta
   python3 herramientas/verificar.py validar <archivo.json>     # revisa que un resultado esté bien armado
   python3 herramientas/verificar.py unir <banco>               # junta los resultados en verificacion/<banco>.json
@@ -18,7 +19,9 @@ DATOS = os.path.join(RAIZ, 'docs', 'datos')
 FUENTES = os.path.join(AQUI, '.cache', 'fuentes')
 COMPLETO = os.path.join(AQUI, '.cache', 'completo')   # bancos completos, aunque la app muestre solo verificadas
 ESTADOS = ('confirmada', 'corregida', 'nueva', 'dudosa', 'anulada')
-TEMAS = [t['id'] for t in json.load(open(os.path.join(RAIZ, 'temas.json'), encoding='utf8'))]
+_TEMAS = json.load(open(os.path.join(RAIZ, 'temas.json'), encoding='utf8'))
+TEMAS = [t['id'] for t in _TEMAS]
+FUERA_SILABO = {t['id'] for t in _TEMAS if t['clase'] == 'fuera del sílabo'} | {'otros'}
 
 
 def _norm(s):
@@ -85,13 +88,13 @@ def _datos(banco):
     return d['preguntas'], f
 
 
-def lotes(banco, tam=20, solo_alto=False):
+def lotes(banco, tam=20, solo_alto=False, silabo=False):
     preguntas, fuentes = _datos(banco)
     hechos = set(registros(banco))
     for r in glob.glob(os.path.join(VER, 'resultados', banco, '*.json')):
         hechos |= {x['k'] for x in json.load(open(r, encoding='utf8'))}
     pend = [q for q in preguntas if q['id'] not in hechos and '-' not in q['id'] and q['id'] in fuentes
-            and (q.get('rep') or not solo_alto)]
+            and (q.get('rep') or not solo_alto) and not (silabo and q.get('tema') in FUERA_SILABO)]
     carpeta = os.path.join(VER, 'lotes', banco)
     os.makedirs(carpeta, exist_ok=True)
     for f in glob.glob(os.path.join(carpeta, '*.json')):
@@ -102,7 +105,7 @@ def lotes(banco, tam=20, solo_alto=False):
     for n, trozo in enumerate(trozos, max(usados, default=0) + 1):
         sig = trozos[n - max(usados, default=0)] if n - max(usados, default=0) < len(trozos) else None
         lote = {'banco': banco,
-                'cubre_hasta': 'SOLO estas preguntas (lote de alto valor): no busques preguntas perdidas' if solo_alto else ({'archivo': fuentes[sig[0]['id']][0], 'pagina': fuentes[sig[0]['id']][1],
+                'cubre_hasta': 'SOLO estas preguntas (lote filtrado): no busques preguntas perdidas' if solo_alto or silabo else ({'archivo': fuentes[sig[0]['id']][0], 'pagina': fuentes[sig[0]['id']][1],
                                  'pregunta': sig[0]['stem'][:120]} if sig else 'fin del banco'),
                 'preguntas': [{'k': q['id'], 'sec': q.get('sec'), 'stem': q['stem'], 'opts': q['opts'],
                                'clave_original': q['ans'], 'origen_clave': q.get('src'),
@@ -185,7 +188,7 @@ def estado():
 if __name__ == '__main__':
     a = sys.argv[1:] or ['ayuda']
     if a[0] == 'lotes':
-        lotes(a[1], int(a[a.index('--tam') + 1]) if '--tam' in a else 20, '--alto' in a)
+        lotes(a[1], int(a[a.index('--tam') + 1]) if '--tam' in a else 20, '--alto' in a, '--silabo' in a)
     elif a[0] == 'original':
         original(a[1], a[2])
     elif a[0] == 'validar':

@@ -1,0 +1,394 @@
+[
+ {
+  "k": "a8e8ef4b43",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el área de superficie corporal total (TBSA) quemada si toda la espalda y las nalgas bilaterales tienen quemaduras de segundo y tercer grado en un adulto?",
+  "opts": [
+   "23%",
+   "41%",
+   "18%",
+   "N.A",
+   "36%"
+  ],
+  "ans": 2,
+  "why": "En la regla de los nueves del adulto el tronco posterior vale 18% del área de superficie corporal total (Sabiston, ABSITE). La tabla de Lund y Browder del Giménez lo desglosa para el adulto: tronco posterior 13% + glúteo derecho 2½% + glúteo izquierdo 2½% = 18%; es decir, espalda y nalgas juntas suman 18%, no se suman aparte. 23% contaría las nalgas dos veces; 36% sería tronco anterior y posterior; 41% no corresponde a esta área.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 261 del PDF",
+   "Giménez 2.ª ed., p. 742 del PDF (cuadro 75-2, Lund y Browder)"
+  ],
+  "nota": "Clave resaltada en el original: C (18%).",
+  "tema": "quemados"
+ },
+ {
+  "k": "8ba8edef2c",
+  "estado": "corregida",
+  "stem": "Un paciente sufre un daño neurológico grave tras un traumatismo craneoencefálico e ingresa a UCI varios días. Ha sido ventilado mecánicamente durante toda su estadía en el hospital. ¿Cuál de los siguientes hallazgos clínicos es diagnóstico de neumonía asociada al ventilador?",
+  "opts": [
+   "Más de 100.000 (10⁵/ml) unidades formadoras de colonias de un organismo en el lavado broncoalveolar.",
+   "Más de 10.000 (10⁴/ml) unidades formadoras de colonias de un organismo en el lavado broncoalveolar.",
+   "Secreciones traqueales purulentas.",
+   "Infiltrado del lóbulo inferior derecho en la radiografía de tórax.",
+   "Recuento de glóbulos blancos superior a 12 000/ml."
+  ],
+  "ans": 1,
+  "why": "Con cultivo cuantitativo, el umbral diagnóstico de neumonía asociada al ventilador en el lavado broncoalveolar es 10⁴ UFC/ml (en el cepillado protegido es 10³ UFC/ml), según las guías IDSA/ATS 2016 que resume la revisión citada. Las secreciones purulentas, un infiltrado o la leucocitosis por sí solos son criterios clínicos de sospecha, no diagnósticos. 10⁵ no es el punto de corte del lavado broncoalveolar.",
+  "fuentes": [
+   "Papazian L, Klompas M, Luyt CE. Ventilator-associated pneumonia in adults: a narrative review. Intensive Care Med 2020 (PMC7095206), tabla de recomendaciones IDSA/ATS 2016"
+  ],
+  "nota": "Clave resaltada en el original: A (10⁵). El umbral de la guía para el lavado broncoalveolar es 10⁴ UFC/ml, por eso se marca B. Un recuento mayor de 10⁵ también supera el umbral, pero la opción que expresa el criterio diagnóstico es B. Sabiston (p. 257 y 555 del PDF) habla de la NAV sin dar el punto de corte.",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "e646a61790",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años de edad, que sufre de fibrilación auricular crónica, es ingresado en el servicio de emergencia con inicio repentino de cólicos abdominales centrales severos, dolor abdominal y vómitos. El paciente ha estado sangrando por el recto. La sangre es de color oscuro y tiene la consistencia alterada. En el examen el paciente está pálido, tiene la periferia fría y está taquicárdico. El abdomen está difusamente sensible y los RHA disminuidos. ¿Cuál es el diagnóstico probable?",
+  "opts": [
+   "Úlcera péptica perforada",
+   "Isquemia mesentérica aguda",
+   "Ninguno de los anteriores",
+   "Diverticulitis",
+   "Obstrucción del intestino delgado"
+  ],
+  "ans": 1,
+  "why": "La embolia de origen cardíaco es la causa más frecuente de isquemia mesentérica aguda (30-50%) y se ve sobre todo con fibrilación auricular; el émbolo suele alojarse en la arteria mesentérica superior. El dolor abdominal súbito e intenso, el sangrado rectal oscuro y el shock en un paciente con fibrilación auricular orientan a ella. La úlcera perforada, la diverticulitis o la obstrucción no explican el cuadro embólico con sangrado.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 283 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: B.",
+  "tema": "intestino"
+ },
+ {
+  "k": "25c3eb965c",
+  "estado": "confirmada",
+  "stem": "Un paciente de 65 años con antecedentes de enfermedad arterial coronaria, hipertensión y diabetes mellitus se somete a una hemicolectomía derecha por cáncer de colon. En el segundo día postoperatorio se vuelve hipotenso con estado mental deprimido y es trasladado inmediatamente a la unidad de cuidados intensivos. Después de la intubación, se realiza un ecocardiograma que demuestra un ventrículo hipocinético con una fracción de eyección del 15%. Su presión venosa central es de 18 mmHg y su hemoglobina es de 10 g/dl. Hemograma control: leucocitosis. ¿Cuál de las siguientes es la etiología más probable de la descompensación aguda del paciente?",
+  "opts": [
+   "Choque cardiogénico",
+   "Embolia pulmonar",
+   "Choque hemorrágico",
+   "Choque séptico",
+   "Taponamiento cardíaco"
+  ],
+  "ans": 0,
+  "why": "El shock cardiógeno es un shock «frío» por fallo intrínseco de la bomba cardíaca, y su causa más frecuente es la arteriopatía coronaria (Sabiston). Este paciente coronario tiene un ventrículo hipocinético con fracción de eyección del 15% y presión venosa central alta (18 mmHg), es decir, una bomba que falla con presiones de llenado elevadas. La hemoglobina de 10 g/dl no sugiere hemorragia, y el ecocardiograma muestra fallo de contractilidad, no taponamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 550-551 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: A. El original dice 'hernicolectomia', error por hemicolectomía. La leucocitosis es un dato distractor.",
+  "tema": "shock"
+ },
+ {
+  "k": "e648c1af37",
+  "estado": "confirmada",
+  "stem": "Sobre la hernia de Richter, solo una afirmación es cierta:",
+  "opts": [
+   "Esta es una hernia a través del triángulo lumbar.",
+   "Significa que una víscera forma parte de la pared del saco.",
+   "Estrangulación no causa obstrucción intestinal",
+   "Significa una hernia que contiene el divertículo de Meckel",
+   "Significa una hernia femoral irreductible."
+  ],
+  "ans": 2,
+  "why": "En la hernia de Richter solo una pequeña porción de la pared antimesentérica del intestino queda atrapada, por lo que puede estrangularse sin obstrucción intestinal (Sabiston, ABSITE). La hernia que contiene un divertículo de Meckel es la de Littré; la del triángulo lumbar es la de Petit o Grynfeltt; que una víscera forme parte de la pared del saco define la hernia por deslizamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 145 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: C.",
+  "tema": "hernias"
+ },
+ {
+  "k": "8e9521e250",
+  "estado": "confirmada",
+  "stem": "¿En cuál de las siguientes entidades que se enumeran a continuación no es característica la presencia de signos o síntomas de malabsorción?",
+  "opts": [
+   "Enfermedad de Whipple",
+   "Abetalipoproteinemia",
+   "Enfermedad de Wilson",
+   "Linfangiectasia intestinal",
+   "Esprúe celíaco"
+  ],
+  "ans": 2,
+  "why": "La enfermedad de Wilson es un trastorno autosómico recesivo del transporte de cobre que con el tiempo causa cirrosis (Sabiston); no es una enfermedad malabsortiva. En cambio, la revisión de malabsorción de Montoro-Huguet incluye la abetalipoproteinemia (no se forman quilomicrones), la linfangiectasia intestinal (enteropatía perdedora de proteínas), la enfermedad de Whipple y la enfermedad celíaca entre las causas de malabsorción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 642 del PDF",
+   "Montoro-Huguet MA et al. Small and Large Intestine (I): Malabsorption of Nutrients. Nutrients 2021 (PMC8070135)"
+  ],
+  "nota": "Clave resaltada en el original: C.",
+  "tema": "intestino"
+ },
+ {
+  "k": "2cf8ae5038",
+  "estado": "confirmada",
+  "stem": "¿En cuál de los siguientes pacientes con sintomatología de colelitiasis se esperan cálculos biliares pigmentarios?",
+  "opts": [
+   "Una mujer de 27 años en su estado post resección ileal.",
+   "Una mujer de 65 años en terapia de estrógenos.",
+   "Un hombre de 30 años con una dieta alta en calorías.",
+   "Una mujer de 38 años con pérdida rápida de peso después de una manga gástrica",
+   "Un hombre de 45 años con un índice de masa corporal (IMC) de 49"
+  ],
+  "ans": 0,
+  "why": "Los trastornos ileales, como la resección ileal, alteran la circulación enterohepática de los ácidos biliares y aumentan la absorción y posterior excreción hepática de bilirrubina, lo que favorece los cálculos pigmentarios (Stinton y Shaffer). En cambio, los estrógenos, la obesidad y la pérdida rápida de peso son factores de riesgo de cálculos de colesterol. Los cálculos negros se asocian además a hemólisis y cirrosis (Sabiston).",
+  "fuentes": [
+   "Stinton LM, Shaffer EA. Epidemiology of gallbladder disease: cholelithiasis and cancer. Gut Liver 2012 (PMC3343155)",
+   "Sabiston 21.ª ed., p. 1521 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: A.",
+  "tema": "vesicula"
+ },
+ {
+  "k": "5a08facd61",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la complicación más devastadora a largo plazo de la nutrición parenteral total?",
+  "opts": [
+   "Insuficiencia renal aguda",
+   "Todas las anteriores",
+   "Hiperlipidemia severa",
+   "Diabetes mellitus descompensada",
+   "Disfunción hepática/esteatosis"
+  ],
+  "ans": 4,
+  "why": "Sabiston describe la colestasis que lleva a insuficiencia hepática (enfermedad hepática asociada a la nutrición parenteral o a la insuficiencia intestinal) como complicación potencialmente fatal de la NPT prolongada: una vez instaurada se asocia a una mortalidad a 5 años del 43%, y la insuficiencia hepática por esta causa es indicación de trasplante intestinal. La hiperglucemia y la hipertrigliceridemia son complicaciones metabólicas manejables, y la insuficiencia renal aguda no figura entre las complicaciones típicas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 669 del PDF",
+   "Sabiston 21.ª ed., p. 558 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: E.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "f78f3c3d60",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 82 años desarrolla disfagia tanto para sólidos como para líquidos y pérdida de peso de 28 kilos en los últimos 6 meses. Se somete a endoscopia, que demuestra una lesión esofágica distal, y las biopsias son compatibles con carcinoma de células escamosas. Está programado para quimiorradiación neoadyuvante seguida de una esofagectomía. Preoperatoriamente se le inicia nutrición parenteral total, dada su severa desnutrición reflejada por una albúmina de menos de 1. ¿Cuál de los siguientes es más probable que sea una preocupación inicialmente al comenzar la nutrición parenteral total en este paciente?",
+  "opts": [
+   "Hipoglicemia",
+   "Hipofosfatemia",
+   "Hipermagnesemia",
+   "Hipocloremia",
+   "Hiperkalemia"
+  ],
+  "ans": 1,
+  "why": "Es un paciente con inanición grave en riesgo de síndrome de realimentación, cuya característica distintiva es la hipofosfatemia: al iniciar el soporte nutricional el fosfato entra a la célula para producir ATP y cae en sangre, con riesgo de arritmias y paro (Sabiston). El síndrome cursa con hipopotasemia e hipomagnesemia, no con hiperpotasemia ni hipermagnesemia; la hipoglucemia aparece de forma tardía.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 133 del PDF",
+   "Sabiston 21.ª ed., p. 559 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: B.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "2a2e2ac75b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de lo siguiente es cierto con respecto a la fístula en el ano?",
+  "opts": [
+   "La abertura interna es generalmente fácilmente identificable.",
+   "El drenaje de un absceso anorrectal rara vez resulta en una fístula anal persistente.",
+   "Las fístulas se clasifican según su relación con la mucosa anal.",
+   "Inyectar peróxido de hidrógeno o azul de metileno en la abertura externa está contraindicado.",
+   "El tratamiento quirúrgico está determinado por la apertura interna y externa de la fístula."
+  ],
+  "ans": 4,
+  "why": "El tratamiento quirúrgico depende de la localización de los orificios interno y externo y del trayecto de la fístula (ABSITE). Las demás son falsas: tras drenar un absceso anorrectal, del 26 al 50% desarrollan una fístula persistente; el orificio interno suele ser difícil de identificar; las fístulas se clasifican según su relación con el complejo esfinteriano, no con la mucosa; e inyectar peróxido de hidrógeno o azul de metileno por el orificio externo ayuda a encontrar el interno.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 182 del PDF",
+   "Sabiston 21.ª ed., p. 1433 del PDF"
+  ],
+  "nota": "Clave resaltada en el original: E.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "917179c7cb",
+  "estado": "confirmada",
+  "stem": "Hombre de 60 años de edad, antecedente de alcoholismo crónico, admitido en hospital por pancreatitis aguda. A las 3 semanas cuenta con amilasa sérica elevada y Dx de pseudoquiste pancreático de 4 cm que se encuentra en la TC. ¿Cuál sería la conducta a seguir?",
+  "opts": [
+   "Observación y controles con TAC",
+   "Drenaje percutáneo",
+   "Toma de cultivo para saber si está infectado",
+   "Drenaje endoscópico, laparoscópico.",
+   "N.A"
+  ],
+  "ans": 0,
+  "why": "En el pseudoquiste asintomático está indicada la observación, porque hasta el 70% regresa de forma espontánea, sobre todo los menores de 4 cm (Sabiston). El ABSITE añade que el tratamiento inicial es conservador y que predicen el fracaso los pseudoquistes de más de 6 cm o que persisten más de 6 semanas; la evolución se controla con TC o ecografía. El drenaje (percutáneo, endoscópico o quirúrgico) se reserva para los sintomáticos o complicados, y no hay datos de infección que justifiquen cultivo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1564 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 87 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): A. La extracción automática no registró la clave; el enunciado se reconstruyó desde la captura.",
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "a20c51db42",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes opciones es la menos favorable para un pseudoquiste pancreático crónico grande?",
+  "opts": [
+   "Drenaje guiado por TAC con un catéter en espiral",
+   "Cistogastrostomía laparoscópica",
+   "Drenaje transpapilar endoscópico con stent",
+   "Cistogastrostomía transgástrica endoscópica",
+   "Cistoyeyunostomía abierta en Y de Roux"
+  ],
+  "ans": 0,
+  "why": "Para el pseudoquiste sintomático que no se resuelve se prefiere el drenaje interno (endoscópico transmural o transpapilar, o quirúrgico: cistogastrostomía o cistoyeyunostomía). El drenaje externo percutáneo tiene más complicaciones, como infección y fístula pancreaticocutánea, y su única indicación es el pseudoquiste infectado en un paciente inestable para cirugía o endoscopia (ABSITE). Por eso el catéter percutáneo guiado por TC es la opción menos favorable.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 87 del PDF",
+   "Sabiston 21.ª ed., p. 1564 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): A. El estudiante marcó E (incorrecta).",
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "7eae74d185",
+  "estado": "confirmada",
+  "stem": "Paciente mujer de 75 años con peso de 78 kg, ingresa por emergencia; en sus exámenes se encuentra Na = 112 mEq/L. ¿Cuánto de solución de sodio al 20% debe infundirse para incrementar el sodio en 12 mEq/L en 24 horas?",
+  "opts": [
+   "131 ml",
+   "14 ml",
+   "7.6 ml",
+   "146 ml",
+   "72 ml"
+  ],
+  "ans": 0,
+  "why": "Con la fórmula de Adrogué-Madias, el cambio de Na por litro infundido = (Na del infusado − Na sérico) / (agua corporal total + 1), y el agua corporal total de una mujer anciana se estima en 0,45 × peso (Barkas 2023). Aquí: ACT = 0,45 × 78 = 35,1 L. El NaCl al 20% tiene unos 3400 mEq/L (200 g/L ÷ 58,5). Cambio por litro = (3400 − 112) / 36,1 ≈ 91 mEq/L; para subir 12 mEq/L: 12 / 91 ≈ 0,131 L = 131 ml. Las otras cifras no salen de este cálculo.",
+  "fuentes": [
+   "Barkas F et al. A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke. Ther Adv Endocrinol Metab 2023 (PMC10074625)"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): A. Con la fórmula de déficit de sodio del Sabiston (cuadro 4.4, p. 108 del PDF; ACT = peso × 60%) sale unos 164 ml, que no está entre las opciones; la clave corresponde a Adrogué-Madias con ACT de mujer anciana. Barkas advierte que la corrección rápida de la hiponatremia crónica puede causar síndrome de desmielinización osmótica.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "49fffcf374",
+  "estado": "confirmada",
+  "stem": "Sobre la enfermedad hidatídica del hígado, todas las siguientes afirmaciones son ciertas, excepto:",
+  "opts": [
+   "El hombre es el anfitrión intermedio habitual.",
+   "Múltiples quistes pueden estar presentes.",
+   "La cirugía debe incluir la extracción de la capa germinal.",
+   "La cirugía conlleva el riesgo de inducir una reacción alérgica.",
+   "Un quiste puede comunicarse con un conducto biliar."
+  ],
+  "ans": 0,
+  "why": "El ganado es el huésped intermedio habitual de Echinococcus granulosus; el ser humano es un huésped intermedio accidental y un estadio terminal para el parásito (Sabiston), por eso A es la falsa. Las demás son ciertas: el quiste puede abrirse a la vía biliar, y su rotura durante la cirugía puede causar anafilaxia, por lo que se protege el campo con compresas y se usa un escolicida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1484-1485 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): A.",
+  "tema": "higado"
+ },
+ {
+  "k": "c345e93951",
+  "estado": "confirmada",
+  "stem": "Una chica de 16 años, deportista, sin antecedentes de interés, acude al médico por presentar ictericia conjuntival ocasionalmente. Niega ingesta de fármacos y dolor abdominal. En los análisis realizados se observan cifras de ALT, AST, GGT y FA normales, con bilirrubina total de 3.2 mg/dl y bilirrubina directa de 0.4 mg/dl. No tiene anemia y el hígado es ecográficamente normal. ¿Cuál es su diagnóstico?",
+  "opts": [
+   "Coledocolitiasis",
+   "Hepatitis aguda",
+   "Síndrome de Dubin Johnson",
+   "Síndrome de Rotor",
+   "Síndrome de Gilbert"
+  ],
+  "ans": 4,
+  "why": "La paciente tiene hiperbilirrubinemia no conjugada (directa de solo 0,4 de 3,2 mg/dl), sin anemia que sugiera hemólisis y con enzimas e hígado normales. Sabiston clasifica el síndrome de Gilbert entre las deficiencias enzimáticas hereditarias con hiperbilirrubinemia no conjugada. En cambio, Dubin-Johnson y Rotor, como los síndromes colestásicos (por ejemplo, la coledocolitiasis), cursan con hiperbilirrubinemia conjugada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1464 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): E.",
+  "tema": "higado"
+ },
+ {
+  "k": "93841ed124",
+  "estado": "confirmada",
+  "stem": "En quemaduras eléctricas es cierto, excepto:",
+  "opts": [
+   "La alteración más grave en este tipo de quemaduras ocurre después de las 24 horas de la lesión.",
+   "Representan entre el 3 al 5 % de los pacientes ingresados por quemadura.",
+   "La piel tiene una resistencia relativamente alta a la corriente eléctrica.",
+   "La corriente eléctrica avanza por aquellos tejidos que tienen menor resistencia a la corriente como nervios, vasos sanguíneos y músculos.",
+   "Si los pacientes con lesiones por electricidad no tienen arritmias cardíacas en el EKG inicial ni antecedentes recientes de parada cardíaca no necesita más vigilancia."
+  ],
+  "ans": 0,
+  "why": "Sabiston dice que los problemas más graves aparecen en las 24 h posteriores a la lesión, no después, por eso A es la falsa. Las demás están casi literales en el mismo texto: el 3-5% de los quemados ingresados son electrocutados; la piel ofrece una resistencia relativamente alta; la corriente avanza por los tejidos de menor resistencia (nervios, vasos y músculo); y sin arritmias en el ECG inicial ni paro cardíaco no hace falta más monitorización.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): A. El estudiante marcó E (incorrecta).",
+  "tema": "quemados"
+ },
+ {
+  "k": "ef9a675a6d",
+  "estado": "confirmada",
+  "stem": "Una niña de 8 años es la pasajera del asiento trasero sin sujeción en una colisión vehicular a alta velocidad. Ella es intubada por los paramédicos por falta de respuesta y cuando se presenta a la sala de emergencias, su frecuencia cardíaca es de 160 latidos/minuto y su presión arterial es de 60/35 mm Hg. Pesa 25 kg. ¿Cuál de las siguientes es la recomendación más apropiada para su reanimación inicial con líquidos?",
+  "opts": [
+   "300 cc de hematíes empaquetados",
+   "600 cc de solución salina normal",
+   "500 cc de solución salina normal",
+   "300 cc de plasma fresco congelado",
+   "400 cc de solución salina normal"
+  ],
+  "ans": 2,
+  "why": "En el niño traumatizado en shock la reanimación inicial es un bolo de cristaloide isotónico de 20 ml/kg: 20 × 25 kg = 500 ml de solución salina. Si no responde, el siguiente paso es la transfusión de concentrado de hematíes (ABSITE; Sabiston la plantea tras dos bolos de 20 ml/kg). Los hemoderivados no son el primer líquido, y 400 o 600 ml no corresponden a 20 ml/kg.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1902 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 340 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): C.",
+  "tema": "trauma"
+ },
+ {
+  "k": "05f190c058",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta con respecto a la fiebre postoperatoria?",
+  "opts": [
+   "En un paciente postoperatorio febril, se deben obtener cultivos de la herida independientemente del aspecto de la misma.",
+   "El análisis de orina, el urocultivo y las radiografías de tórax se deben obtener como parte de un examen completo de fiebre en pacientes postoperatorios dentro de las 72 horas posteriores a la operación.",
+   "Todo lo anterior.",
+   "Las infecciones de la herida en las primeras 24 a 48 horas son poco frecuentes pero, si están presentes, son preocupantes por la infección estreptocócica o clostridial del grupo A.",
+   "Se espera que la fiebre persista durante más de 96 horas después de la operación en casos de infección intraabdominal difusa, como la peritonitis fecal por diverticulitis, incluso con el tratamiento quirúrgico adecuado."
+  ],
+  "ans": 3,
+  "why": "La infección necrosante de la herida en el postoperatorio inmediato es rara pero grave, y sus agentes típicos son Streptococcus pyogenes (estreptococo del grupo A) o Clostridium perfringens (ABSITE). La fiebre de las primeras 48 h se debe probablemente a la respuesta inflamatoria de la cirugía, y la que aparece desde las 72 h es más probablemente infecciosa (Sabiston). Por eso no se justifica un estudio completo rutinario (orina, urocultivo, radiografía) dentro de las 72 h, ni cultivar una herida de aspecto normal.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 475 del PDF",
+   "Sabiston 21.ª ed., p. 270 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): D. El estudiante marcó C (incorrecta).",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "67c819b56d",
+  "estado": "confirmada",
+  "stem": "Mujer de 48 años con Dx pancreatitis aguda grave, presenta mal estado general, leucocitosis de 20,000/uL, fiebre de 39 °C, insuficiencia renal, disnea, shock. El manejo recomendado es:",
+  "opts": [
+   "Laparotomía de emergencia",
+   "Laparoscopía de emergencia",
+   "Nutrición parenteral total",
+   "N.A",
+   "Punción del páncreas con aguja fina y guiado por imágenes y cultivo y antibiograma."
+  ],
+  "ans": 4,
+  "why": "Ante una pancreatitis grave con fiebre, leucocitosis y deterioro se sospecha necrosis infectada; si el diagnóstico es dudoso, la aspiración con aguja fina guiada por imagen con Gram y cultivo lo establece (Sabiston). Incluso con necrosis infectada, la intervención debe retrasarse lo más posible para que la colección se encapsule, por lo que la laparotomía o la laparoscopia de emergencia no son lo indicado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1563-1564 del PDF"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): E (punción con aguja fina). El estudiante marcó A (incorrecta). En la práctica actual la punción no es rutinaria: se reserva para cuando hay duda diagnóstica.",
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "0fffbe642b",
+  "estado": "confirmada",
+  "stem": "Según la clasificación de Strasberg, la oclusión de un conducto hepático aberrante corresponde a una lesión biliar tipo:",
+  "opts": [
+   "B",
+   "D",
+   "E1",
+   "A",
+   "C"
+  ],
+  "ans": 0,
+  "why": "En la clasificación de Strasberg, el tipo B es la lesión de un conducto sectorial (típicamente un hepático derecho aberrante) que provoca obstrucción de una porción de la vía biliar. El tipo C es la misma lesión pero con fuga (fístula biliar), el A es la fuga del cístico o de un conducto de Luschka, el D es la lesión lateral de la vía biliar extrahepática y el E1 es la lesión a más de 2 cm de la confluencia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1535 del PDF (figura 55.48)"
+  ],
+  "nota": "Clave del aula virtual (captura con «La respuesta correcta es»): A (tipo B).",
+  "tema": "via-biliar"
+ }
+]

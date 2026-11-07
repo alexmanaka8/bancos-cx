@@ -1,0 +1,424 @@
+[
+ {
+  "k": "e86efbdf77",
+  "estado": "confirmada",
+  "stem": "Un chico de 15 años se presenta con una historia de 5 días de dolor en el cuadrante inferior derecho (CID) y fiebre de 40ºC. En el examen, tiene sensibilidad en el CID y superior derecho. La bilirrubina total es de 3 mg/dL y la fosfatasa alcalina es de 250 IU/L. La TAC con contraste demuestra múltiples densidades en el lóbulo derecho del hígado, un absceso en el CID; y obliteración alrededor de la vena mesentérica superior con burbujas de aire dentro de la vena. Lo más probable es que el cuadro clínico lo represente:",
+  "opts": [
+   "Pileflebitis",
+   "Adenocarcinoma metastásico",
+   "Síndrome carcinoide",
+   "Enfermedad inflamatoria intestinal (EII)",
+   "Absceso hepático amebiano"
+  ],
+  "ans": 0,
+  "why": "La pileflebitis es la tromboflebitis infecciosa del sistema venoso portal; suele empezar en las venas que drenan un foco abdominal (sobre todo apendicitis o diverticulitis) y puede dar múltiples abscesos hepáticos pequeños, más en el lóbulo derecho. En la TC, las burbujas de aire o los trombos en el sistema portal (aquí, la vena mesentérica superior) son el hallazgo clave, y la fosfatasa alcalina suele estar elevada. El absceso amebiano también es del lóbulo derecho, pero suele ser único. Ni el síndrome carcinoide, ni la EII, ni el adenocarcinoma metastásico explican el cuadro séptico con gas en la vena mesentérica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "aa04529fa7",
+  "estado": "anulada",
+  "stem": "Los tipos de sutura y sus características, coloque la letra que corresponda:",
+  "opts": [
+   "Colágeno obtenido a partir de bueyes u ovejas sanas. Reacción inflamatoria moderada → Catgut",
+   "Polímeros anafilácticos de cadena larga, moderada reacción inflamatoria. Reabsorbible y trenzado → Vycril",
+   "Proteína orgánica denominada fibroína, produce reacción inflamatoria aguda. Trenzada → Seda",
+   "Reacción inflamatoria leve. Monofilamento. Uso por alta fuerza, tensión y larga duración → PDS II",
+   "Polímeros anafilácticos de cadena larga, mínima reacción inflamatoria. Monofilamento → Nylon"
+  ],
+  "ans": null,
+  "why": "No es una pregunta de una sola respuesta: es un ejercicio de relacionar cada descripción con su sutura, y las cinco opciones ya traen la pareja escrita, así que no hay una letra que marcar. Las parejas del original coinciden con los libros: el catgut es colágeno de intestino de bovinos u ovinos sanos; el poliglactín 910 (Vicryl) es sintético, absorbible y trenzado; la seda es una proteína del gusano de seda, trenzada, y es el material no absorbible que más inflamación produce; la polidioxanona (PDS) es un monofilamento absorbible que dura 140 a 180 días; el nylon es un polímero sintético no absorbible. Ojo: «polímeros anafilácticos» es un error del original.",
+  "fuentes": [
+   "Archundia, Cirugía 1: educación quirúrgica, p. 23 del PDF",
+   "Archundia, Cirugía 1: educación quirúrgica, p. 24 del PDF"
+  ],
+  "tema": "suturas",
+  "nota": "Sin clave en el original: las parejas aparecen resaltadas, pero no hay una opción marcada. Se anula como pregunta de opción múltiple; el contenido de las parejas es correcto."
+ },
+ {
+  "k": "9d2cd0fb4c",
+  "estado": "confirmada",
+  "stem": "Sobre el pseudoqusite pancreático, todas las siguientes afirmaciones son verdaderas, excepto:",
+  "opts": [
+   "El mejor estudio de imagen para su diagnóstico es la ingesta de bario",
+   "Puede ser indoloro",
+   "La cirugía se realiza para quistes que persisten por más de seis semanas",
+   "Se siente un quiste grande en el epigastrio",
+   "Muestra pulsaciones transmitidas"
+  ],
+  "ans": 0,
+  "why": "Es falso que el mejor estudio sea el tránsito con bario: según el Sabiston, el diagnóstico del seudoquiste pancreático se corrobora con TC o RM. Las otras afirmaciones son ciertas: hasta la mitad de los seudoquistes dan síntomas, así que pueden ser indoloros, y el tratamiento definitivo se ofrece al seudoquiste sintomático que persiste al menos 6 semanas después de la pancreatitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1564 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 85 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: A (resaltado). En el original dice «pseudoqusite»."
+ },
+ {
+  "k": "9b3d451201",
+  "estado": "confirmada",
+  "stem": "Un hombre de 46 años post covid (30 días), presenta una historia de 12 horas de dolor periumbilical y epigástrico que es muy intenso. Tiene antecedentes de fallecimiento de esposa hace 15 días. La radiografía de tórax de pie muestra aire libre bajo el diafragma. En la TAC con contraste se observa líquido libre en cavidad, nada más relevante. Al examen peritoneal. El paciente está hemodinámicamente estable. ¿Cuál de las siguientes es su mejor opción diagnóstica?",
+  "opts": [
+   "Obstrucción intestinal con perforación intestinal",
+   "Colecistitis aguda con peritonitis generalizada",
+   "Pancreatitis aguda necrosada",
+   "Úlcera gástrica perforada",
+   "Apendicitis aguda complicada"
+  ],
+  "ans": 3,
+  "why": "El aire libre bajo el diafragma indica una víscera hueca perforada. La úlcera péptica perforada da dolor epigástrico intenso y repentino, y con frecuencia aire libre en la radiografía de tórax. El Sabiston señala que el neumoperitoneo no suele verse en la apendicitis, aun perforada, y que debe hacer pensar en una úlcera o una diverticulitis perforadas. La colecistitis y la pancreatitis no explican el neumoperitoneo, y la TC sin otros hallazgos no apoya una obstrucción intestinal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1236 del PDF",
+   "Sabiston 21.ª ed., p. 1327 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). La frase «Al examen peritoneal.» está incompleta en el original, pero no impide responder."
+ },
+ {
+  "k": "8ba00a9668",
+  "estado": "confirmada",
+  "stem": "Un año después de someterse a una antrectomía y a la reconstrucción de Billroth II para la enfermedad de úlcera péptica, se evalúa a un paciente en busca de anemia. También se observa que el paciente tiene un dolor epigástrico vago que se alivia mediante la emesis biliar en proyectil sin partículas de comida. ¿Qué afirmación es verdadera con respecto a la condición de esta paciente?",
+  "opts": [
+   "Las bacterias compiten con éxito por la vitamina B6, lo que puede conducir a la anemia megaloblástica",
+   "El tratamiento médico con tetraciclina y vitamina B12 puede corregir definitivamente la afección",
+   "La adición de tetraciclina en la prueba de Schilling hace que la excreción de vitamina B6 en la orina regrese a la normalidad",
+   "La adición del factor intrínseco en la prueba de Schilling hace que la excreción de vitamina B12 en la orina regrese a la normalidad",
+   "La desconjungación bacteriana de las sales biliares puede provocar esteatorrea"
+  ],
+  "ans": 4,
+  "why": "Tras un Billroth II, la obstrucción crónica del asa aferente da dolor epigástrico que se alivia con vómitos biliosos en escopetazo; si dura, se suma el síndrome del asa ciega: las bacterias proliferan en el asa estática y consumen la vitamina B12 y los ácidos biliares, con anemia megaloblástica y malabsorción de grasas. El Sabiston explica que la desconjugación bacteriana de las sales biliares produce esteatorrea (E). La anemia se debe a la vitamina B12, no a la B6 (A, C). En la prueba de Schilling, añadir factor intrínseco no normaliza la excreción en el asa ciega (sí en la anemia perniciosa) (D). El tratamiento médico con antibióticos y B12 parenteral es el inicial, no definitivo; la cirugía se reserva para los fracasos (B).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1242 del PDF",
+   "Sabiston 21.ª ed., p. 1312 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 147 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "d13d5eac1f",
+  "estado": "anulada",
+  "stem": "Sobre la secreción de ácido clorhídrico, todas las siguientes afirmaciones son verdaderas, excepto:",
+  "opts": [
+   "Las células parietales están presentes en el cuerpo y el fondo del estómago",
+   "Los nervios de Latarjet estimulan la secreción de ácido clorhídrico",
+   "Las células G secretan gastrina en respuesta a la distensión de la pared gástrica",
+   "El calcio estimula la secreción de la hormona gastrina",
+   "El bloqueo de la bomba de protones inhibe la secreción de ácido"
+  ],
+  "ans": null,
+  "why": "Las cinco afirmaciones son ciertas según las fuentes, así que no hay una excepción que marcar. Las células parietales están sobre todo en el cuerpo y algunas en el fondo (A). El nervio de Latarjet es la continuación del vago a lo largo de la curvatura menor, y la vagotomía supraselectiva corta sus ramas a los dos tercios proximales, donde están las células parietales, para bajar el ácido: estimulan la secreción (B). La liberación de gastrina la estimula sobre todo la distensión gástrica (C). El calcio luminal es un estímulo conocido de la gastrina, a través del receptor sensor de calcio de las células G (D). Los IBP inhiben la bomba de protones H+/K+-ATPasa (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1222 del PDF",
+   "Sabiston 21.ª ed., p. 1223 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 129 del PDF",
+   "Feng J et al. Calcium-sensing receptor is a physiologic multimodal chemosensor regulating gastric G-cell growth and gastrin secretion. PNAS 2010 (PMID 20876097)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). Las fuentes dicen que los nervios de Latarjet sí estimulan la secreción ácida, por eso B no puede ser la excepción. Es posible que el examen esperara B, pero la evidencia no la respalda."
+ },
+ {
+  "k": "004-a1",
+  "agregada": true,
+  "despues_de": "d13d5eac1f",
+  "estado": "confirmada",
+  "stem": "Son equipos que usan la energía electromagnética:",
+  "opts": [
+   "Ultrasonido",
+   "Bipolar",
+   "Todos",
+   "N.A",
+   "Staplers"
+  ],
+  "ans": 1,
+  "why": "La electrocirugía bipolar transmite una corriente alterna de radiofrecuencia entre dos electrodos del mismo instrumento, y la radiofrecuencia es energía electromagnética. El bisturí ultrasónico (armónico) funciona con vibración mecánica ultrasónica, no con corriente eléctrica, y las grapadoras (staplers) son dispositivos mecánicos. Por eso no son «todos».",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 240 del PDF",
+   "Sabiston 21.ª ed., p. 241 del PDF",
+   "MEHU, Técnica quirúrgica, p. 35 del PDF"
+  ],
+  "tema": "seguridad",
+  "nota": "Pregunta 7 del original (página 1), que la extracción automática había perdido. Clave original: B (resaltado)."
+ },
+ {
+  "k": "897aaa2994",
+  "estado": "dudosa",
+  "stem": ". Sobre la enfermedad hidatídica del hígado, todas las siguientes afirmaciones son ciertas, excepto",
+  "opts": [
+   "Múltiples quistes deben estar presentes",
+   "La cirugía conlleva el riesgo de inducir una reacción alérgica",
+   "La cirugía debe incluir la extracción de la capa germinal",
+   "Un quiste puede comunicarse con un conducto biliar",
+   "El hombre es el anfitrión intermedio habitual"
+  ],
+  "ans": null,
+  "why": "Hay dos afirmaciones falsas. El Sabiston dice que el ganado es el huésped intermedio habitual y que el ser humano es un huésped intermedio accidental, así que E es falsa. Pero el mismo libro dice que unas tres cuartas partes de los quistes son solitarios, así que A («deben estar presentes múltiples quistes») también es falsa. Las demás son ciertas: la rotura puede causar anafilaxia, el quiste puede abrirse a la vía biliar y la pared tiene una membrana germinativa interna.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1484 del PDF",
+   "Sabiston 21.ª ed., p. 1485 del PDF"
+  ],
+  "tema": "higado",
+  "nota": "Clave original: E (resaltado). A y E son defendibles como la excepción; por eso queda dudosa."
+ },
+ {
+  "k": "ca8690cc08",
+  "estado": "confirmada",
+  "stem": "Un paciente masculino de 60 años con hepatitis C con antecedentes de hemorragia por várices ingresa en el hospital con hematemesis. Su frecuencia cardiaca es de 110 y la presión arterial es de 80/60 mmHg. El examen físico revela esplenomegalia y ascitis, y el hematocito inicial es de 25%. Antes de la endoscopia. ¿cuál de los siguientes es el mejor tratamiento inicial del paciente?",
+  "opts": [
+   "Administración de propanolol",
+   "Administración de octreótido intravenoso",
+   "Taponamiento con sonda Sengstaken-Blakemore",
+   "Medición del tiempo de protrombina"
+  ],
+  "ans": 1,
+  "why": "En la hemorragia aguda por várices, además de la reanimación, el Sabiston indica empezar pronto un fármaco vasoactivo y hacer la endoscopia con ligadura tras la reanimación inicial. La somatostatina y su análogo, el octreótido, controlan la hemorragia con pocos efectos adversos. El propranolol se usa como profilaxis en várices medianas o grandes, no en un paciente hipotenso que sangra. El balón de Sengstaken-Blakemore es una medida de rescate con alta tasa de resangrado al desinflarlo, y medir el tiempo de protrombina no trata la hemorragia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1183 del PDF",
+   "Sabiston 21.ª ed., p. 1469 del PDF",
+   "Sabiston 21.ª ed., p. 1470 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "97a3c08211",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años ingresa en el servicio de emergencia tras sufrir un accidente de tránsito a gran velocidad. El paciente está hemodinámicamente estable. Presenta hematuria macroscópica. La cistografía por TAC revela aire en la vejiga y una acumulación de contraste en el canal paracólico derecho. ¿Cuál de las siguientes es la mejor opción de tratamiento?",
+  "opts": [
+   "Drenaje con sonda Foley",
+   "Reparación abierta de la lesión vesical intraperitoneal con suturas absorbibles",
+   "Colocación de una cistostomía supra pública",
+   "Obtención de una cistostomía supra púbica",
+   "Obtención de un cistograma formal",
+   "Reparación abierta de la lesión vesical intraperitoneal con suturas de seda y sonda Foley por un mes"
+  ],
+  "ans": 1,
+  "why": "El contraste en el canal paracólico indica una rotura vesical intraperitoneal, que se repara quirúrgicamente por vía transabdominal con suturas absorbibles. La seda no se usa porque las suturas permanentes en la vejiga irritan la mucosa y forman cálculos. La sonda Foley sola sirve para la mayoría de las roturas extraperitoneales. La cistostomía suprapúbica no suele hacer falta salvo heridas muy grandes o tejido desvitalizado, y el cistograma formal solo se pide si la cistografía por TC es dudosa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 270 del PDF",
+   "Sabiston 21.ª ed., p. 2108 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Clave original: B (resaltado). El original tiene 6 opciones (a–f); C y D se parecen mucho."
+ },
+ {
+  "k": "eb622d79f3",
+  "estado": "confirmada",
+  "stem": "Un hombre de 52 años con una historia de 5 años de colitis ulcerosa se presenta para discutir la intervención quirúrgica. Por lo demás, el paciente está sano y no tiene evidencia de displasia rectal. ¿Cuál de las siguientes es la operación electiva más apropiada para este paciente?",
+  "opts": [
+   "Proctocolectomía total con anastomosis bolsa ileal-anal, mucosectomía anal e ilostomía de derivación",
+   "Proctocoelctomía total con anastomosis bolsa ileal- anal e ileostomía de derivación",
+   "Colectomía abdominal total con anastomosis ileal-rectal",
+   "Colectomía abdominal total con ileostomía terminal y Hartmann muy bajo",
+   "Proctocolectomía total con ileostomía terminal"
+  ],
+  "ans": 1,
+  "why": "La operación más usada en la colitis ulcerosa es la proctocolectomía con reservorio ileal en J y anastomosis reservorio-ano. El Sabiston prefiere la anastomosis grapada, sin mucosectomía, porque da mejor continencia y es más rápida, y reserva la técnica cosida a mano tras la mucosectomía para la displasia o el cáncer, que este paciente no tiene. Con frecuencia se añade una ileostomía temporal de derivación. La anastomosis ileorrectal conserva el recto enfermo, que necesita vigilancia por riesgo de cáncer, y la ileostomía terminal o el Hartmann no restituyen el tránsito.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1376 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "fff1a66fcb",
+  "estado": "confirmada",
+  "stem": "Un hombre de 18 años se presenta al departamento de emergencias ebrio después de que sus amigos de la universidad lo desafiaran a tomar una línea eléctrica de alto voltaje afuera de la casa de su fraternidad. ¿Cuál de los siguientes patrones de lesiones sería más consistente con una quemadura eléctrica de esta naturaleza?",
+  "opts": [
+   "Pelos de la nariz chamuscados y hollín en la cara",
+   "Quemadura en el pecho similar a una salpicadura",
+   "Quemaduras en la mano izquierda y talones bilaterales",
+   "N. A.",
+   "Patrón de media de quemaduras en las manos bilateralmente"
+  ],
+  "ans": 2,
+  "why": "En la lesión eléctrica de alto voltaje hay quemaduras en el punto de entrada y en el de salida, y la corriente sale por una zona del cuerpo en contacto con tierra. Si toma el cable con la mano, la entrada está en la mano y la salida en los pies (talones). Los pelos nasales chamuscados y el hollín son signos de lesión por inhalación. La salpicadura y el patrón en media no corresponden al paso de la corriente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "344d481438",
+  "estado": "confirmada",
+  "stem": "Un hombre de 72 años se somete a una colectomía subtotal por vólvulo cecal. Se recupera lentamente y requiere nutrición parenteral total durante 3 semanas. Después de recuperar la función intestinal, experimentó diarrea significativa. Ahora se queja de falta de gusto por la comida, pérdida de cabello y una nueva erupción pustulosa perioral. ¿Cuál es la más probable deficiente?",
+  "opts": [
+   "Vitamina C",
+   "Selenio",
+   "Zinc",
+   "Tiamina",
+   "Cromo"
+  ],
+  "ans": 2,
+  "why": "El déficit de zinc es más frecuente con la nutrición parenteral y en pacientes con pérdidas intestinales, como la diarrea. Da alopecia, mala cicatrización, alteración del gusto y del olfato, y un exantema sobre todo perioral y en los pliegues de los dedos. La vitamina C da escorbuto (encías sangrantes), el selenio da miocardiopatía y miopatía, y el cromo da hiperglucemia y neuropatía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "9012a56096",
+  "estado": "confirmada",
+  "stem": "Un hombre hipertenso de 58 años se somete a una reparación satisfactoria de la rotura de un aneurisma de la aorta abdominal. Recibe 9 L de solución de Ringer y 4 U de sangre total durante la operación. En el posoperatorio, a pesar de recibir 3 L adicionales de cristaloides durante sus primeras horas en la unidad de cuidados intensivos, se vuelve progresivamente hipotenso, taquicárdico, anúrico y difícil de ventilar debido a presiones máximas y meseta marcadamente elevadas- Se mide la presión de su vejiga y se encuentra que es de 30 mmHg. Teniendo en cuenta estos datos, ¿cuál es el siguiente paso en su manejo?",
+  "opts": [
+   "Inserción bilateral tubos de toracostomía",
+   "Administración de un diurético",
+   "Administración de norepinefrina",
+   "Inicio de la transfusión de sangre",
+   "Descompresión con una laparotomía"
+  ],
+  "ans": 4,
+  "why": "Tras una reanimación masiva, la oliguria, el aumento de las presiones de la vía aérea y una presión vesical de 30 mmHg definen el síndrome compartimental abdominal. Los grados III (21 a 25 mmHg) y IV (más de 25 mmHg) definen el síndrome, y está indicada la descompresión abdominal mediante laparotomía. Los diuréticos, los vasopresores, más volumen o los tubos de tórax no alivian la presión intraabdominal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 574 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 262 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "69ee88e3cf",
+  "estado": "confirmada",
+  "stem": "Un hombre de 85 años acude a consultorio externo de cirugía con diagnóstico de hernia umbilical reducible, presenta dolor y molestias crecientes pero intermitentes. Dos días antes de su visita al consultorio, fue dado de alta del hospital por angina inestable para la cual se sometió a una angioplastia con balón con la colocación de un stent metálico en la arteria coronaria. ¿Cuándo debería programarse su cirugía?",
+  "opts": [
+   "2 semanas",
+   "1 semana",
+   "8 semanas",
+   "6 meses",
+   "4 semanas"
+  ],
+  "ans": 4,
+  "why": "Tras un stent metálico sin fármaco (BMS) hay que esperar 1 mes antes de una cirugía no cardíaca electiva, y luego se puede operar manteniendo la aspirina. Tras una angioplastia con balón solo la espera es de 2 semanas, y tras un stent farmacoactivo es de 6 meses. Como la hernia da síntomas crecientes, la cirugía es de tiempo sensible y conviene hacerla al mes, no antes ni mucho después.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 33 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 465 del PDF"
+  ],
+  "tema": "eras",
+  "nota": "Clave original: «4 semanas» (resaltado). En el original las opciones «1 semana» y «8 semanas» están pegadas en la b; se separaron."
+ },
+ {
+  "k": "8743eaf560",
+  "estado": "confirmada",
+  "stem": "Una mujer de 28 años se somete a una colecistectomía laparoscópica sin incidentes para la que recibió profilaxis antibiótica adecuada. Una semana después, regresa a la emergencia con dolor abdominal y diarrea. Ella está afebril y no tiene signos peritoneales en el examen abdominal. Su conteo de células blancas es 12,000/mm3. Cuál es el manejo inicial apropiado",
+  "opts": [
+   "Loperamida",
+   "Solo soporte médico",
+   "Vancomicina oral",
+   "Ciprofloxacino oral",
+   "Metronidazol oral"
+  ],
+  "ans": 2,
+  "why": "Dolor abdominal y diarrea una semana después de recibir antibióticos (aunque sea una sola dosis profiláctica) sugieren infección por Clostridioides difficile. Para el episodio inicial se usa vancomicina oral 125 mg cada 6 h o fidaxomicina durante 10 días; el metronidazol queda solo como alternativa si no hay las anteriores. La loperamida y el soporte solo no tratan la infección, y el ciprofloxacino no es tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 293 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "846741a12a",
+  "estado": "confirmada",
+  "stem": "Un empleado de 22 años es encontrado en un lugar de trabajo en la base de la escalera. Tiene una herida carbonizada en la región temporal izquierda con fragmentos palpables de cráneo presentes. Su brazo izquierdo está firme, y los dedos de su pie izquierdo están quemados y ausentes. ¿Cuál de las siguientes es la arfirmación correcta con respecto a las lesiones eléctricas?",
+  "opts": [
+   "La mioglobinuria se trata manteniendo un gasto urinario por hora de 0.5 mL/kg en adultos y 1 mL/kg en niños menores de 20kg",
+   "Los signos relacionados con el síndrome compartimental deben provocar una escarotomía urgente de las extremidades afectadas",
+   "Los déficits neurológicos que se desarrollan de manera tardía, semanas o meses después de la lesión, tienen un mejor pronóstico",
+   "La causa de la orina oscura y rojiza que se observa en el catéter urinario muy probablemente se revelará por medio de una tomografía computarizada del abdomen",
+   "La descompresión fascial temprana de las extremidades puede ser importante para preservar la función de las extremidades"
+  ],
+  "ans": 4,
+  "why": "En las lesiones eléctricas de alto voltaje, el Sabiston recomienda explorar pronto los compartimentos musculares afectados y hacer fasciotomías completas, porque la necrosis es profunda y puede comprometer la extremidad. Ante un síndrome compartimental se necesita fasciotomía, no solo escarotomía (B). La orina oscura se debe a la mioglobina por el daño muscular, no a algo que vaya a mostrar una TC (D). En la mioglobinuria se busca una diuresis mayor que la habitual con hidratación vigorosa, bicarbonato y manitol (A). El Sabiston describe los déficits neurológicos tardíos (hasta 9 meses después) como un efecto retardado, no como un dato de mejor pronóstico (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF",
+   "Sabiston 21.ª ed., p. 526 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "a75c7bd472",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años presenta una pancreatitis biliar. ¿Cuál de los siguientes es el mejor indicador de la persistencia de un cálculo biliar residual en el conducto biliar común?",
+  "opts": [
+   "Un conducto biliar común dilatado al ingreso",
+   "Elevación persistente del nivel de bilirrubina total",
+   "Elevación persistente del nivel de fosfatasa alcalina",
+   "Dolor abdominal persistente",
+   "Elevación persistente del nivel de amilasa sérica"
+  ],
+  "ans": 1,
+  "why": "El mejor predictor de un cálculo residual en el colédoco tras una pancreatitis biliar es la elevación persistente de la bilirrubina total. La fosfatasa alcalina puede subir, pero predice peor. Muchos pacientes tienen el colédoco dilatado al ingreso por la obstrucción transitoria de la ampolla, así que no es específico. El dolor persistente tiene muchas causas, y la amilasa no suele usarse para esto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 84 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 91 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "0958575030",
+  "estado": "confirmada",
+  "stem": "El sistema de puntuación de riesgo de la Sociedad Americana de Anestesiólogos (American Society of Anesthesiologists, ASA):",
+  "opts": [
+   "Es un sistema de clasificación de 6 puntos para la evaluación de pacientes antes de la cirugía",
+   "Es evaluado por el equipo quirúrgico antes de la cirugía",
+   "Fue diseñado para la evaluación de pacientes en cuidados intensivos en estado crítico",
+   "Consiste en 12 anomalías fisiológicas agudas, así como una medida de evaluación de la salud crónica",
+   "Puede ser ajustado de acuerdo a varios procedimientos quirúrgicos diferentes"
+  ],
+  "ans": 0,
+  "why": "La clasificación del estado físico de la ASA es una escala descriptiva de la comorbilidad preoperatoria con seis clases (ASA I a VI; la VI es el donante en muerte encefálica), más el sufijo E para la emergencia. Sirve para comunicar el estado del paciente entre anestesiólogos y otros profesionales, y es independiente de la técnica quirúrgica, así que no se ajusta según el procedimiento (E). No se diseñó para pacientes críticos de UCI ni se basa en 12 variables fisiológicas (C, D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 356 del PDF"
+  ],
+  "tema": "eras",
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "584a2a7b94",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes tratamientos de una hidatidosis localizada en el lóbulo medio derecho del hígado se asocia con la menor tasa de recurrencia, morbilidad y mortalidad?",
+  "opts": [
+   "Pericistectomía total quirúrgica con albendazol pre y postoperatorio",
+   "Aspiración percutánea e inyección de agentes escolicidas",
+   "Albendazol oral a largo plazo",
+   "Escisión laparoscópica del quiste con omentoplastía",
+   "Mebendazol oral a largo plazo"
+  ],
+  "ans": 0,
+  "why": "Según el ABSITE, la pericistectomía total quirúrgica con albendazol antes y después de la cirugía tiene las tasas más bajas de recurrencia, morbilidad y mortalidad. El tratamiento farmacológico solo (albendazol o mebendazol) cura a pocos pacientes. La aspiración percutánea (PAIR) y la escisión laparoscópica con omentoplastia son opciones, pero no las de menor recurrencia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 71 del PDF"
+  ],
+  "tema": "higado",
+  "nota": "Clave original: A (resaltado). En el original, «Albendazol oral a largo plazo» y «Escisión laparoscópica del quiste con omentoplastía» están pegadas en la c; se separaron. El Sabiston dice que las técnicas radicales y conservadoras controlan la enfermedad con eficacia parecida, aunque sin comparación prospectiva."
+ },
+ {
+  "k": "6178eddc07",
+  "estado": "confirmada",
+  "stem": "Los principales mediadores de la fibrosis que conduce a la cirrosis en el hígado son:",
+  "opts": [
+   "Células de Mall",
+   "Las células de Kupffer",
+   "Las células Ito (estrelladas del hígado)",
+   "Células endoteliales",
+   "Hepatocitos"
+  ],
+  "ans": 2,
+  "why": "Las células de Ito (estrelladas) están en el espacio de Disse y almacenan vitamina A. Ante una lesión hepática aguda o crónica se activan a un estado de miofibroblasto, producen matriz extracelular y colágeno, y son las protagonistas de la progresión de la fibrosis a cirrosis. Los hepatocitos, las células de Kupffer, las endoteliales y las «hendiduras de Mall» no son los principales mediadores de la fibrosis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1460 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 72 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original: C (resaltado)."
+ }
+]

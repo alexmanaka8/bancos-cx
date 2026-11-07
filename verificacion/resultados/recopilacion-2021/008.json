@@ -1,0 +1,488 @@
+[
+ {
+  "k": "8019a42a82",
+  "estado": "confirmada",
+  "tema": "nutricion",
+  "stem": "Un paciente varón de 28 años fue admitido hace 7 días por un trauma multisistémico que incluye múltiples fracturas de huesos largos, hematoma subdural y contusiones pulmonares y todavía está con el ventilador. ¿Cuál de las siguientes afirmaciones es cierta en cuanto a las herramientas para evaluar el estado nutricional?",
+  "opts": [
+   "El uso de mediciones seriadas de albúmina y prealbúmina es el \"estándar de oro\" para los pacientes de trauma.",
+   "La medición del balance de nitrógeno es limitada porque subestima la entrada de nitrógeno en pacientes con trauma.",
+   "El índice de altura de la creatinina puede sobreestimar la masa corporal magra en los pacientes de trauma.",
+   "De todas las mediciones de proteína del suero, la transferrina parece ser la que más se aproxima al balance de nitrógeno.",
+   "La Mini Evaluación Nutricional está diseñada específicamente para los pacientes hospitalizados."
+  ],
+  "ans": 2,
+  "why": "Es la misma pregunta del ABSITE, cuya clave es esta opción: el índice creatinina-altura estima la masa magra, pero los cambios en la excreción de creatinina por procesos sistémicos como el trauma hacen que el resultado no sea fiable. Las guías EAST usan el balance de nitrógeno (no la albúmina/prealbúmina) como \"estándar de oro\"; en el balance la entrada de nitrógeno suele sobreestimarse (no subestimarse); la proteína que mejor se correlaciona con el balance es la prealbúmina, no la transferrina; y la Mini Evaluación Nutricional está diseñada para ancianos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 440 del PDF (pregunta 8)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 443 del PDF (respuesta 8)"
+  ],
+  "nota": "Clave original: C (resaltado). Coincide con la clave del ABSITE (opción D en el libro)."
+ },
+ {
+  "k": "7110c89b4a",
+  "estado": "confirmada",
+  "tema": "abdomen-agudo",
+  "stem": "Un hombre de 50 años acude a un servicio de urgencia del centro de salud presentando un cuadro de dolor abdominal súbito. ¿Cuál de las siguientes causas de dolor abdominal se plantearía en último lugar?",
+  "opts": [
+   "Diverticulosis",
+   "Perforación de úlcera péptica",
+   "Infarto agudo de miocardio",
+   "Aneurisma disecante de aorta",
+   "Embolia mesentérica"
+  ],
+  "ans": 0,
+  "why": "La diverticulosis (divertículos sin inflamación) cursa por lo general de forma asintomática, así que no explica un dolor abdominal súbito. En cambio, el Sabiston señala que la aparición repentina de un dolor intenso indica afecciones como la perforación intestinal o la embolia arterial con isquemia; por eso la úlcera perforada y la embolia mesentérica, y las demás causas graves de la lista, deben pensarse antes que una diverticulosis.",
+  "fuentes": [
+   "Giménez, Cirugía 2.ª ed., p. 686 del PDF",
+   "Sabiston 21.ª ed., p. 1159 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "008-a1",
+  "agregada": true,
+  "despues_de": "7110c89b4a",
+  "estado": "corregida",
+  "tema": "vesicula",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta con el uso de la colangiografía intraoperatoria (CIO) durante la colecistectomía laparoscópica?",
+  "opts": [
+   "El uso rutinario está justificado por su capacidad para identificar anomalías anatómicas de los conductos hepáticos.",
+   "El uso rutinario es útil para asegurar una completa extirpación de la vesícula biliar y del conducto cístico.",
+   "Es la mejor manera de identificar clínicamente significativos e insospechados cálculos en el CBC.",
+   "Ayuda a prevenir la incisión inadvertida del conducto biliar común (CBC).",
+   "El uso rutinario es innecesario."
+  ],
+  "ans": 4,
+  "why": "Es la pregunta 18 del ABSITE y su clave es \"el uso rutinario es innecesario\": el uso rutinario de la CIO es controvertido y la mayoría de los cirujanos lo considera innecesario; muchos la usan de forma selectiva. Probablemente no previene la lesión del colédoco (aunque permite reconocerla antes), y los cálculos del colédoco suelen sospecharse antes de la cirugía por las pruebas hepáticas, un colédoco dilatado o una pancreatitis biliar. El Sabiston añade que las Guías de Tokio no fomentan el uso sistemático de la colangiografía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 52 del PDF (pregunta 18)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 57 del PDF (respuesta 18)",
+   "Sabiston 21.ª ed., p. 1532 del PDF"
+  ],
+  "nota": "Pregunta 123 del original, que la extracción había perdido. Clave original: A (resaltado); el ABSITE, de donde viene la pregunta, da como correcta 'el uso rutinario es innecesario'."
+ },
+ {
+  "k": "7ea8d8afa4",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "¿Cuál es el límite inferior del triángulo de Hesselbach?",
+  "opts": [
+   "Ligamento inguinal",
+   "Ligamento pectíneo",
+   "Aponeurosis del oblicuo mayor",
+   "Vasos epigástricos inferiores",
+   "Fascia del músculo recto abdominal"
+  ],
+  "ans": 0,
+  "why": "El triángulo de Hesselbach está limitado por los vasos epigástricos inferiores (borde superolateral), el borde lateral del músculo recto/su vaina (borde medial) y el ligamento inguinal (borde inferior). Las otras opciones son el límite lateral (vasos epigástricos) o el medial (recto), y la aponeurosis del oblicuo mayor no es un borde del triángulo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 43 del PDF",
+   "Sabiston 21.ª ed., p. 1133 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado). Se agregó la opción E (\"Fascia del músculo recto abdominal\"), que la extracción había pegado a la pregunta siguiente. El Sabiston da como límite inferior \"los ligamentos inguinal y pectíneo\" (ambos); el ABSITE solo el ligamento inguinal. Como el ligamento inguinal figura en las dos fuentes, es la mejor respuesta."
+ },
+ {
+  "k": "d827d690ed",
+  "estado": "confirmada",
+  "tema": "colon",
+  "stem": "La intervención quirúrgica más adecuada para un paciente con megacolon tóxico en el contexto de colitis ulcerosa es:",
+  "opts": [
+   "Una colectomía total con anastomosis ileorrectal",
+   "Una hemicolectomía izquierda",
+   "Una colectomía total con ileostomía terminal",
+   "Una proctocolectomía total y anastomosis ileoanal con reservorio ileal",
+   "Una ileostomía terminal manteniendo el colon en reposo"
+  ],
+  "ans": 2,
+  "why": "En la cirugía de urgencia de la colitis ulcerosa (colitis grave con megacolon tóxico, perforación o hemorragia) se realiza una colectomía abdominal total con ileostomía terminal, dejando para más adelante la posible formación del reservorio. La proctocolectomía con reservorio ileoanal y la anastomosis ileorrectal son opciones de cirugía electiva; la hemicolectomía o la sola ileostomía no retiran el colon enfermo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). Se quitó del enunciado el texto \"e. Fascia del músculo recto abdominal\", que es la opción E de la pregunta anterior."
+ },
+ {
+  "k": "9a5d28c4e9",
+  "estado": "confirmada",
+  "tema": "hemostasia",
+  "stem": "¿Cuándo está indicado el crioprecipitado en la resucitación por trauma?",
+  "opts": [
+   "Coagulopatías con tiempos de coagulación prolongados",
+   "Coagulopatías con plaquetopenia + coagulopatías con bajo fibrinógeno",
+   "Coagulopatías con bajo fibrinógeno",
+   "Todas las anteriores",
+   "Coagulopatías con plaquetopenia"
+  ],
+  "ans": 2,
+  "why": "El crioprecipitado se usa hoy sobre todo en la reanimación masiva, junto con el plasma, para reponer el fibrinógeno. En la tromboelastografía, un tiempo K alto o un ángulo alfa bajo indican falta de fibrinógeno y se tratan con crioprecipitado; la amplitud máxima baja (falta de plaquetas) se trata con plaquetas, y el tiempo R prolongado (falta de factores) con plasma fresco congelado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 481 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 488 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "fc1bbb4005",
+  "estado": "confirmada",
+  "tema": "bariatrica",
+  "stem": "¿Cuál de los siguientes vasos se considera el principal suministro de sangre al estómago después de una gastrectomía en manga?",
+  "opts": [
+   "Arteria gástrica izquierda",
+   "Arterias gástricas cortas",
+   "Arteria gástrica derecha",
+   "Arteria gastroepiploica derecha",
+   "N.A"
+  ],
+  "ans": 0,
+  "why": "En la gastrectomía vertical (en manga) se libera toda la curvatura mayor, lo que secciona los vasos gástricos cortos y las ramas gastroepiploicas, y queda un tubo gástrico a lo largo de la curvatura menor. El Sabiston subraya que es de vital importancia conservar los vasos gástricos izquierdos y la irrigación de la curvatura menor, que pasan a ser la irrigación principal de la manga.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1206 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "7eaaba617f",
+  "estado": "dudosa",
+  "tema": "liquidos",
+  "stem": "Paciente varón de 56 años con 85 kg, presenta fístula entérica secundaria a liberación de bridas y adherencias, que produce diariamente 3200 ml, presencia de secreción verdosa por herida de 300 ml, diuresis de 1200 ml, y fiebre de 40 grados. FR: 30 respiraciones/min. El soporte nutricional recibido es de 2.8 litros de dextrosa al 50% y 860 ml de lípidos así como 650 ml de cloruro de sodio. Indicar cuál es el balance hídrico:",
+  "opts": [
+   "-1502",
+   "N.A",
+   "-1826",
+   "-1489",
+   "-1784"
+  ],
+  "ans": null,
+  "why": "Lo medible es claro: ingresos 2800 + 860 + 650 = 4310 ml; egresos medidos 3200 + 300 + 1200 = 4700 ml (balance parcial −390 ml). El resto depende de cómo se calculen las pérdidas insensibles (aumentadas por la fiebre de 40 °C y la FR de 30) y el agua endógena, y para eso hay varias fórmulas de clase. Los libros de la carpeta no traen una fórmula para el adulto que permita llegar a una sola de las cifras ofrecidas, así que no se puede verificar la clave.",
+  "fuentes": [],
+  "nota": "Clave original: A (−1502, resaltado). Puede ser la cifra esperada con la fórmula de pérdidas insensibles que se enseña en el curso, pero no se pudo comprobar con una fuente."
+ },
+ {
+  "k": "5e61b78a12",
+  "estado": "confirmada",
+  "tema": "pancreas-bazo",
+  "stem": "¿Cuál de las siguientes indicaciones para la esplenectomía presenta el mayor riesgo de sepsis después de la esplenectomía (OPSI)?",
+  "opts": [
+   "Talasemia grave",
+   "Trauma",
+   "Eliptocitosis hereditaria",
+   "Púrpura trombocitopénica idiopática (PTI)",
+   "Esferocitosis hereditaria"
+  ],
+  "ans": 0,
+  "why": "Todas estas indicaciones pueden seguirse de sepsis posesplenectomía, pero la incidencia y la mortalidad son más altas en las enfermedades hematológicas de base, sobre todo la talasemia mayor y la drepanocitosis (y en niños). La esplenectomía por trauma es la que se asocia con el menor riesgo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 99 del PDF (respuesta 13)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 94 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "0c968624be",
+  "estado": "confirmada",
+  "tema": "anorrectal",
+  "stem": "Mujer de 45 años llega con dolor, prurito anal, se examina y diagnostica patología hemorroidal. Referente a esta patología marque la premisa correcta:",
+  "opts": [
+   "Las hemorroides externas que necesitan tratamiento quirúrgico son las de grado III y IV.",
+   "Las hemorroides externas son distales a la línea pectínea y están cubiertas de mucosa.",
+   "N.A",
+   "La hemorroidectomía cerrada es conocida como técnica de Ferguson.",
+   "El tratamiento quirúrgico de hemorroidectomía abierta no es conocido como técnica de Milligan y Morgan."
+  ],
+  "ans": 3,
+  "why": "La hemorroidectomía cerrada es la técnica de Ferguson, y la abierta es la de Milligan-Morgan (por eso E es falsa). La clasificación en grados I-IV es de las hemorroides internas, no de las externas (A falsa). Las hemorroides externas están distales a la línea dentada y cubiertas de anodermo, no de mucosa (B falsa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1428 del PDF",
+   "Sabiston 21.ª ed., p. 1429 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 180 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "478b1e9def",
+  "estado": "dudosa",
+  "tema": "suturas",
+  "stem": "Es característica de las suturas mecánicas, excepto:",
+  "opts": [
+   "Disminuye el tiempo operatorio",
+   "Distorsiona las imágenes por TAC o RM",
+   "Disminuye riesgo de fístulas o dehiscencias",
+   "N.A",
+   "Recupera el peristaltismo rápido"
+  ],
+  "ans": null,
+  "why": "La clave marcada (B) no se pudo comprobar: los libros no tratan el efecto de las grapas sobre la TAC o la RM. Además, la opción C tampoco es cierta según la evidencia: el Giménez indica que la sutura manual y la mecánica tienen un porcentaje similar de fístulas, y el ABSITE que el método de anastomosis (manual o mecánica) no ha demostrado cambiar la tasa de fugas. Puede haber dos opciones falsas, así que no se puede decidir una sola.",
+  "fuentes": [
+   "Giménez, Cirugía 2.ª ed., p. 776 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 272 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "008-a2",
+  "agregada": true,
+  "despues_de": "478b1e9def",
+  "estado": "confirmada",
+  "tema": "nutricion",
+  "stem": "¿Cuál es la complicación más común de la infusión parenteral rápida de nutrición parenteral total?",
+  "opts": [
+   "Hipercalcemia",
+   "Hipertrigliceridemia",
+   "Hiperbilirrubinemia",
+   "Hiperglucemia",
+   "Hipocalemia"
+  ],
+  "ans": 3,
+  "why": "La hiperglucemia es la complicación metabólica más frecuente de la nutrición parenteral (incidencia global del 20% en un estudio publicado en JPEN). El Sabiston advierte que una velocidad de infusión de glucosa inadecuada produce hiperglucemia, que puede inducir rápidamente hiperosmolaridad y deshidratación. La hipertrigliceridemia también es una complicación de la NPT, pero menos frecuente; las demás no son típicas de la infusión rápida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 558 del PDF",
+   "Sabiston 21.ª ed., p. 1870 del PDF",
+   "Metabolic and monetary costs of avoidable parenteral nutrition use. JPEN J Parenter Enteral Nutr 1999 (PMID 10082002)"
+  ],
+  "nota": "Pregunta 132 del original, que la extracción había perdido. Clave original: D (resaltado)."
+ },
+ {
+  "k": "1e9c4fa895",
+  "estado": "dudosa",
+  "tema": "suturas",
+  "stem": "Para el cierre de una incisión abdominal en la línea media, todas las siguientes afirmaciones son verdaderas, excepto:",
+  "opts": [
+   "El cierre peritoneal no aumenta la resistencia a la tracción de la herida.",
+   "Puede cerrarse mediante suturas fasciales interrumpidas o continuas.",
+   "Las suturas fasciales deben estar atadas bajo tensión para evitar el estallido del abdomen.",
+   "El polipropileno es adecuado para el cierre de línea alba.",
+   "Las suturas fasciales deben colocarse al menos a 1 cm del borde."
+  ],
+  "ans": null,
+  "why": "Hay más de una opción discutible. La clave marcada (D) dice que el polipropileno es adecuado; el Sabiston no lo prohíbe: dice que no ha mostrado diferencias en hernias, dehiscencias o infecciones frente a las suturas reabsorbibles, aunque causa más dolor y más trayectos fistulosos, y recomienda sutura continua lentamente reabsorbible. Por otro lado, la opción E contradice la evidencia actual (el Sabiston y el ABSITE recomiendan puntos pequeños de 5 mm del borde y 5 mm entre ellos), y la opción C (anudar bajo tensión) va contra el principio de minimizar el daño tisular, aunque no hay una cita directa sobre ella en los libros.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 453 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 33 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). La respuesta más probable según la enseñanza clásica es C (no anudar bajo tensión), pero ninguna fuente lo decide frente a D y E."
+ },
+ {
+  "k": "9d5b5ecf24",
+  "estado": "confirmada",
+  "tema": "quemados",
+  "stem": "Un paciente de 38 años sufre una quemadura eléctrica en la mano derecha y la pierna izquierda. Se presenta a la sala de emergencias, despierto y alerta. Está asociado con quemaduras eléctricas, excepto:",
+  "opts": [
+   "Síndrome compartimental",
+   "Convulsiones",
+   "Cataratas",
+   "Neuropatías",
+   "Arritmias"
+  ],
+  "ans": 1,
+  "why": "El Sabiston describe en la quemadura eléctrica las arritmias (lo más grave en las primeras 24 h), el edema del tejido profundo con compromiso vascular que obliga a fasciotomía (síndrome compartimental), los déficits neurológicos y lesiones de nervios periféricos (neuropatías) y las cataratas como efecto tardío. El ABSITE también cita cataratas, polineuritis y arritmias. Las convulsiones no figuran entre las complicaciones típicas que describen estas fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF",
+   "Sabiston 21.ª ed., p. 526 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 263 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). Se confirma por exclusión: las otras cuatro están descritas expresamente en el Sabiston."
+ },
+ {
+  "k": "e3292ad68b",
+  "estado": "corregida",
+  "tema": "vesicula",
+  "stem": "Un paciente de 80 años presenta náuseas, fiebre, dolor y sensibilidad en el cuadrante superior derecho. La temperatura es de 39,5 °C y la presión arterial es de 70/40 mm Hg. Se inicia un tratamiento médico y se necesitan vasopresores para mantener la presión arterial. ¿Cuál de las siguientes afirmaciones es cierta en relación con esta enfermedad?",
+  "opts": [
+   "La perforación de la vesícula es rara.",
+   "El metronidazol es una opción antibiótica importante.",
+   "La colecistectomía urgente está indicada.",
+   "El organismo más común es una bacteria anaerobia gram-negativa.",
+   "El drenaje percutáneo urgente es preferible a la colecistectomía."
+  ],
+  "ans": 4,
+  "why": "Es la pregunta 19 del ABSITE (colecistitis enfisematosa) y su clave es el drenaje percutáneo: en el paciente inestable que no tolera anestesia general (por ejemplo, con vasopresores) se hace primero una colecistostomía percutánea; la colecistectomía se prefiere solo si está más estable. Las Guías de Tokio 2018 indican igual drenaje biliar urgente cuando el paciente no es apto para cirugía temprana. La perforación no es rara (más del 20%), el germen más común es Clostridium perfringens (anaerobio gram-positivo) y el antibiótico indicado es penicilina a dosis altas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 52 del PDF (pregunta 19)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 58 del PDF (respuesta 19)",
+   "Okamoto K et al. Tokyo Guidelines 2018: flowchart for the management of acute cholecystitis. J Hepatobiliary Pancreat Sci 2018 (PMID 29045062)"
+  ],
+  "nota": "Clave original: C (resaltado). En el ABSITE la ecografía muestra aire en la pared vesicular; la versión del examen omitió ese dato, pero la clave del libro y la de las Guías de Tokio en un paciente con shock es el drenaje percutáneo."
+ },
+ {
+  "k": "7ba9c50826",
+  "estado": "confirmada",
+  "tema": "trasplantes",
+  "stem": "¿Cuál de las siguientes afirmaciones con respecto al rechazo de los trasplantes de órganos sólidos es verdadera?",
+  "opts": [
+   "El rechazo crónico se caracteriza histológicamente por la infiltración de linfocitos.",
+   "El rechazo hiperagudo comienza en el quirófano con la reperfusión del órgano trasplantado.",
+   "Los trasplantes de hígado son especialmente susceptibles al rechazo hiperagudo.",
+   "La causa principal del fracaso del injerto es el rechazo agudo.",
+   "La mayoría de los medicamentos inmunosupresores se utilizan para prevenir el rechazo crónico."
+  ],
+  "ans": 1,
+  "why": "El rechazo hiperagudo lo causan anticuerpos preformados y aparece en minutos u horas tras la anastomosis arterial, es decir, ya en el quirófano al reperfundir el injerto. El hígado es en gran parte resistente al rechazo hiperagudo. El rechazo crónico es un proceso fibrótico lento (no un infiltrado linfocitario, que es del rechazo agudo) y es una causa frecuente de pérdida del injerto a largo plazo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 316 del PDF",
+   "Sabiston 21.ª ed., p. 617 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "67728e3591",
+  "estado": "confirmada",
+  "tema": "vesicula",
+  "stem": "Requerimiento de la visión crítica de seguridad, excepto:",
+  "opts": [
+   "Entrada de estructura a la vesícula biliar: arteria cística",
+   "N.A",
+   "Remoción de la vesícula biliar del tercio inferior de la placa cística (lecho hepático)",
+   "Entrada de estructura a la vesícula biliar: conducto cístico",
+   "Limpieza del triángulo hepatocístico de tejido adiposo y tejido fibroso"
+  ],
+  "ans": 1,
+  "why": "La visión crítica de seguridad exige tres cosas: disecar por completo el triángulo de Calot (hepatocístico) libre de grasa y tejido fibroso, separar la parte inferior de la vesícula de su lecho hepático, y ver solo dos estructuras (conducto cístico y arteria cística) entrando en la vesícula. Todas las opciones A, C, D y E son requisitos, así que ninguna es la excepción.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 58 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). La opción C dice en el original \"del tercio placa cística y hepática\"; se interpretó como la separación del tercio inferior de la vesícula de su lecho."
+ },
+ {
+  "k": "17f6eea21f",
+  "estado": "confirmada",
+  "tema": "vesicula",
+  "stem": "Un paciente de 87 años con antecedente de bronquitis crónica e insuficiencia cardiaca ha sido diagnosticado de colecistitis aguda litiásica. Tras cuatro días de hospitalización en tratamiento con dieta absoluta, sueroterapia y piperacilina/tazobactam, el paciente continúa con fiebre, dolor abdominal persistente y leucocitosis. La actitud más adecuada en este momento sería:",
+  "opts": [
+   "Drenaje biliar mediante colecistostomía percutánea",
+   "Sustituir la piperacilina/tazobactam por metronidazol + cefuroxima",
+   "Tratamiento quirúrgico (colecistectomía) urgente",
+   "Añadir al tratamiento un aminoglucósido como gentamicina",
+   "Sustituir la piperacilina/tazobactam por amikacina + clindamicina"
+  ],
+  "ans": 0,
+  "why": "Las Guías de Tokio 2018 indican que, si el paciente no es apto para cirugía temprana (comorbilidad alta), se hace drenaje biliar temprano o urgente y la colecistectomía se difiere hasta que mejore. Este paciente muy anciano, con enfermedad pulmonar y cardiaca, no responde al tratamiento médico: necesita drenar la vesícula (colecistostomía percutánea). Cambiar o añadir antibióticos no resuelve el foco, y la colecistectomía urgente tiene un riesgo alto en él.",
+  "fuentes": [
+   "Okamoto K et al. Tokyo Guidelines 2018: flowchart for the management of acute cholecystitis. J Hepatobiliary Pancreat Sci 2018 (PMID 29045062)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 58 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "6caabbfae2",
+  "estado": "confirmada",
+  "tema": "esofago-estomago",
+  "stem": "Sobre el síndrome de dumping posterior a la gastrectomía, todas las siguientes afirmaciones son verdaderas, excepto:",
+  "opts": [
+   "La reducción de la ingesta de azúcar reduce la intensidad del síndrome.",
+   "La ingesta de comidas pequeñas reduce la intensidad del síndrome.",
+   "La condición es causada por el tránsito rápido del contenido gástrico al yeyuno.",
+   "El paciente desarrolla dolor de cabeza, hipertensión y bradicardia después de una comida.",
+   "La ingesta de comidas secas reduce la intensidad del síndrome."
+  ],
+  "ans": 3,
+  "why": "El dumping se debe al vaciamiento gástrico rápido hacia el intestino delgado. Sus síntomas vasomotores son sudación, taquicardia, palpitaciones, cefalea y síncope: hay taquicardia, no bradicardia ni hipertensión. Se trata con medidas dietéticas: evitar alimentos con mucho azúcar, comidas pequeñas y frecuentes y separar los líquidos de los sólidos (comidas secas).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1241 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "008-a3",
+  "agregada": true,
+  "despues_de": "6caabbfae2",
+  "estado": "confirmada",
+  "tema": "esofago-estomago",
+  "stem": "Un hombre de 24 años ebrio se presenta en el departamento de emergencias luego de sufrir una puñalada durante una pelea. Está consciente pero letárgico. Se queja de dolor abdominal e insulta cuando habla. Su presión arterial es de 90/65 mmHg, la frecuencia respiratoria es de 27/min y la frecuencia del pulso es de 130/min. El examen físico revela una herida punzante de 4 cm en su región epigástrica. La exploración local revela sangrado activo dentro del peritoneo. Se realiza una laparoscopía urgente y se descubre que la arteria ha sido seccionada. Además, la exploración muestra que la arteria lesionada se originó de la arteria esplénica cerca de la cola pancreática, se dirige medialmente hacia el hígado y emite ramas gástricas superiores. ¿Qué es verdad de esta arteria?",
+  "opts": [
+   "N.A",
+   "La mayoría de esta arteria se encuentra dentro del páncreas.",
+   "Esta arteria emite ramas omentales posteriores.",
+   "La lesión de esta arteria conduce a una isquemia gástrica extensa.",
+   "Esta arteria recorre el saco menor."
+  ],
+  "ans": 2,
+  "why": "Una arteria que nace de la esplénica cerca de la cola del páncreas y del hilio esplénico, recorre la curvatura mayor hacia la derecha (medialmente) y da ramas gástricas ascendentes es la gastroepiploica (gastroomental) izquierda. Corre por el ligamento gastroesplénico y luego el gastrocólico, y además de las ramas gástricas da ramas descendentes para el omento mayor (ramas omentales). No es intrapancreática ni recorre la transcavidad de los epiplones (va dentro del ligamento gastrocólico), y su sección no causa isquemia gástrica extensa por la rica circulación colateral del estómago.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 446 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 520 del PDF"
+  ],
+  "nota": "Pregunta 140 del original, que la extracción había perdido. Clave resaltada: C. La descripción (rama de la esplénica cerca de la cola del páncreas, va medialmente y da ramas gástricas superiores) corresponde a la gastroepiploica izquierda; \"hacia el hígado\" es impreciso."
+ },
+ {
+  "k": "4761435185",
+  "estado": "corregida",
+  "tema": "eras",
+  "stem": "Un hombre de 51 años tiene una colecistitis crónica calculosa que está indicada para una colecistectomía laparoscópica electiva. Sin embargo, él es un gran fumador crónico. El abandono preoperatorio de fumar debe extenderse por al menos:",
+  "opts": [
+   "4 semanas.",
+   "8 semanas.",
+   "4 meses.",
+   "Una semana.",
+   "2 semanas."
+  ],
+  "ans": 0,
+  "why": "El Sabiston indica que dejar de fumar al menos 4 semanas antes de la operación reduce el riesgo de complicaciones. Un metaanálisis (Wong 2012) mostró que dejarlo menos de 4 semanas antes no cambia el riesgo respiratorio, mientras que más de 4 semanas lo reduce (y más de 8 semanas lo reduce aún más); para las complicaciones de la herida bastan 3-4 semanas. Por eso el mínimo es 4 semanas; 8 semanas da más beneficio, pero no es el mínimo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 220 del PDF",
+   "Wong J et al. Short-term preoperative smoking cessation and postoperative complications: a systematic review and meta-analysis. Can J Anaesth 2012 (PMID 22187226)"
+  ],
+  "nota": "Clave original: B (8 semanas, resaltado). Otra página del Sabiston (p. 1612 del PDF) dice \"como mínimo 2 semanas y preferiblemente 4-8 semanas\"; el dato de 4 semanas es el que respaldan el metaanálisis y la p. 220."
+ },
+ {
+  "k": "008-a4",
+  "agregada": true,
+  "despues_de": "4761435185",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "¿Cuál es la situación exacta del espacio de Retzius?",
+  "opts": [
+   "Prevesical",
+   "Retroinguinal",
+   "Preperitoneal, entre los ligamentos umbilicales interno y externo",
+   "Por fuera del ligamento umbilical externo",
+   "Retrovesical"
+  ],
+  "ans": 0,
+  "why": "El espacio de Retzius es el espacio retropúbico o prevesical: está entre el pubis y la cara anterior de la vejiga, contiene tejido adiposo y se prolonga lateralmente hasta los agujeros obturadores. El espacio retroinguinal es el de Bogros, que contacta medialmente con el de Retzius sin comunicarse con él.",
+  "fuentes": [
+   "Latarjet, Anatomía humana tomo 2, p. 632 del PDF",
+   "Latarjet, Anatomía humana tomo 2, p. 420 del PDF"
+  ],
+  "nota": "Pregunta 142 del original, que la extracción había perdido. Clave original: A (resaltado)."
+ },
+ {
+  "k": "1226e91052",
+  "estado": "confirmada",
+  "tema": "colon",
+  "stem": "La causa más frecuente de fístula colovesical es:",
+  "opts": [
+   "La enfermedad de Crohn",
+   "La colitis ulcerosa",
+   "La diverticulitis de colon",
+   "El cáncer de colon",
+   "La cirugía abdominal"
+  ],
+  "ans": 2,
+  "why": "Las fístulas son una complicación relativamente frecuente de la diverticulitis: la inflamación local forma un absceso que se abre a un órgano vecino, y el tipo más frecuente es la fístula colovesical hacia la cúpula vesical. Se manifiesta con infecciones urinarias recurrentes, neumaturia y fecaluria.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 154 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "97d41fb723",
+  "estado": "confirmada",
+  "tema": "anorrectal",
+  "stem": "Sobre la línea dentada, todas las siguientes afirmaciones son verdaderas, excepto:",
+  "opts": [
+   "Demarca la unión del intestino posterior con el proctodeum.",
+   "Separa arriba el epitelio columnar del epitelio cuboidal debajo.",
+   "El drenaje linfático del canal anal debajo de él va a los ganglios linfáticos inguinales.",
+   "Las glándulas anales se abren a este nivel.",
+   "Separa el área sensible al dolor debajo del área insensible al dolor arriba."
+  ],
+  "ans": 1,
+  "why": "La línea dentada marca la unión entre endodermo y ectodermo. Por encima el conducto anal está revestido de epitelio cilíndrico (columnar) y por debajo de epitelio pavimentoso (escamoso) modificado, no cuboidal. En su nivel, en las criptas de las columnas de Morgagni, desembocan las glándulas anales, y por encima de ella no hay fibras somáticas de dolor (por eso la ligadura con banda se hace proximal a ella).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF",
+   "Sabiston 21.ª ed., p. 1428 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ }
+]

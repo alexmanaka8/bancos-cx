@@ -1,0 +1,401 @@
+[
+ {
+  "k": "992268da9b",
+  "estado": "dudosa",
+  "stem": "En paciente varon de 28 años con diagnostico de embolismo pulmonar se presentan los siguientes transtornos, excepto:",
+  "opts": [
+   "N.A",
+   "Disminucion de la postcarga",
+   "Aumento de la poscarga",
+   "Aumento de la precarga",
+   "Disminucion del gasto cardiaco"
+  ],
+  "ans": null,
+  "why": "El Sabiston explica que los émbolos obstruyen el flujo pulmonar y producen hipertensión pulmonar y un «aumento agudo de la presión en el ventrículo derecho», y que la EP masiva causa sobrecarga del corazón derecho e hipotensión (shock obstructivo). Es decir, la poscarga del VD sí aumenta, así que la clave C no puede ser la excepción. Entre las otras opciones (disminución de la poscarga, aumento de la precarga) la respuesta depende de si se habla del ventrículo derecho o del izquierdo, y ninguna fuente de la carpeta describe esos parámetros de forma que permita elegir una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 274 del PDF",
+   "Sabiston 21.ª ed., p. 552 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "Clave original: C (resaltado). Esa clave contradice al Sabiston: en la EP la poscarga del ventrículo derecho aumenta."
+ },
+ {
+  "k": "bcb171936c",
+  "estado": "confirmada",
+  "stem": "La prueba de función pancreática de mayor sensibilidad para valorar el grado de insuficiencia pancreática exocrina es:",
+  "opts": [
+   "Comida de prueba de Lundh",
+   "Consumo de aminoácidos tras la inyección de secretina/pancreozimina",
+   "Secretina-pancreozimina",
+   "Prueba de dilaurato de fluoresceína",
+   "Quimotripsina en las heces"
+  ],
+  "ans": 2,
+  "why": "Las pruebas directas con secretagogos (secretina y colecistocinina/pancreozimina), que recogen el jugo duodenal tras la estimulación, se consideran el patrón de referencia de la función pancreática exocrina y dan las mediciones más sensibles y específicas; detectan insuficiencia leve, moderada o grave. La comida de prueba de Lundh solo detecta insuficiencia moderada o grave y requiere anatomía normal. Las pruebas indirectas (fluoresceína, enzimas fecales) son menos sensibles que las directas.",
+  "fuentes": [
+   "Frontiers in Pediatrics 2022; Assessment of exocrine pancreatic function in children and adolescents with direct and indirect testing (PMC9704773)"
+  ],
+  "tema": "pancreas-bazo"
+ },
+ {
+  "k": "917d057eec",
+  "estado": "confirmada",
+  "stem": "Una paciente de 69 años se somete a una duodenopancreatectomía por un cáncer de cabeza de páncreas. Se le coloca una sonda de yeyunostomía para facilitar la reposición nutricional, ya que se espera que tenga una recuperación prolongada. ¿Cuál de las siguientes es una contraindicación para la alimentación enteral a través de la sonda de yeyunostomía?",
+  "opts": [
+   "Ileo",
+   "Fistula pancreatica",
+   "Delirio",
+   "Vaciamiento gastrico retardado",
+   "Pancreatitis aguda"
+  ],
+  "ans": 0,
+  "why": "El Sabiston enumera como contraindicaciones absolutas de la nutrición enteral el íleo, la falta de continuidad intestinal, la obstrucción intestinal, la hemorragia digestiva activa y la inestabilidad hemodinámica. La pancreatitis aguda no la contraindica: el ABSITE recomienda iniciar nutrición enteral en las primeras 24-48 h en la pancreatitis moderada a grave. Fístula pancreática, delirio y vaciamiento gástrico retardado tampoco figuran como contraindicaciones; con una sonda de yeyunostomía, el vaciamiento gástrico lento no impide alimentar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 558 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 441 del PDF"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "53e152ac5b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 29 años es resucitado con concentrado de glóbulos rojos después de accidente de auto complicada por una fractura de pelvis y hemorragia resultante. Unas horas más tarde el paciente se vuelve hipotenso con una presión venosa central (PVC) normal, oligúrica y febril. En el examen, se observa que el paciente tiene una abundante exudación de sangre de sus sitios intravenosos (IV). ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Shock hipovolémico",
+   "Obstrucción ureteral",
+   "Insuficiencia adrenal aguda",
+   "Reacción transfusional",
+   "Bacteriemia gram- negativa"
+  ],
+  "ans": 3,
+  "why": "La reacción transfusional hemolítica (por incompatibilidad ABO) produce fiebre, escalofríos, hipotensión, CID (sangrado por los sitios de punción), hematuria e insuficiencia renal (oliguria). Este paciente acaba de recibir concentrado de hematíes y presenta justo eso. El shock hipovolémico daría una PVC baja, no normal, y no explica la fiebre ni el sangrado por las vías. La obstrucción ureteral, la insuficiencia suprarrenal y la bacteriemia no explican el cuadro tras la transfusión.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 480 del PDF"
+  ],
+  "tema": "hemostasia"
+ },
+ {
+  "k": "036a477c5d",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta en relación al divertículo faringoesofágico o divertículo de Zenker?",
+  "opts": [
+   "La pirosis es su síntoma principal",
+   "El tratamiento incluye la miotomía del musculo cricofaríngeo",
+   "Suele diagnosticarse en pacientes jóvenes",
+   "Se trata de divertículo por tracción",
+   "Se localiza siempre en la cara anterior de la hipofaringe."
+  ],
+  "ans": 1,
+  "why": "El Sabiston indica que en la reparación del divertículo de Zenker, abierta o endoscópica, «se realiza una miotomía» del cricofaríngeo; en los divertículos pequeños basta la miotomía sola. Las otras son falsas: los síntomas típicos son disfagia, regurgitación y halitosis (no pirosis); aparece en ancianos (séptima década); es un divertículo falso por pulsión (no por tracción); y es posterior (triángulo de Killian), no anterior.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1052-1053 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "60c39b39e3",
+  "estado": "confirmada",
+  "stem": "Sobre las fístulas intestinales, solo una afirmación es correcta:",
+  "opts": [
+   "La mayoría de las fístulas intestinales externas son el resultado del cáncer de colon.",
+   "La mayoría de las fístulas postoperatorias requieren intervención quirúrgica.",
+   "La obstrucción intestinal proximal causa la persistencia de una fístula.",
+   "Una causa común de fístula colovesical es la diverticulitis colónica.",
+   "Una fístula de alto flujo significa un rendimiento que es más de 200 ml / día."
+  ],
+  "ans": 3,
+  "why": "El Sabiston dice que las fístulas son una complicación relativamente frecuente de la diverticulitis y que el tipo más frecuente es la fístula colovesical. Las demás son falsas: la mayoría de las fístulas externas vienen de complicaciones de una cirugía previa, no del cáncer; la mayoría cierra espontáneamente (54% en un estudio grande, >90% de las de intestino delgado en un mes tras controlar la sepsis); lo que impide el cierre es la obstrucción distal, no la proximal; y alto flujo es más de 500 ml/día (200-500 ml/día es flujo moderado).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 296 del PDF",
+   "Sabiston 21.ª ed., p. 1316 del PDF",
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "complicaciones"
+ },
+ {
+  "k": "5d2dfd56a9",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años con sepsis tiene un pH de 7,18. ¿Cuál de las siguientes afirmaciones es cierta con respecto a su acidosis metabólica?",
+  "opts": [
+   "La causa más común del exceso de ácido es la succión nasogástrica prolongada.",
+   "La acidosis metabólica resulta de la pérdida de bicarbonato o del aumento de ácidos fijos.",
+   "La hipoxia tisular conduce a un aumento del metabolismo oxidativo.",
+   "La restauración de la presión arterial con vasopresores corrige la acidosis metabólica asociada a la insuficiencia circulatoria.",
+   "La compensación aguda para la acidosis metabólica es principalmente renal."
+  ],
+  "ans": 1,
+  "why": "Según el Sabiston, la acidosis metabólica se debe al exceso de un ácido fuerte (lactato, cetonas…), con brecha aniónica alta, o a la pérdida o no reabsorción de bicarbonato (brecha normal, como en la diarrea). Las otras son falsas: la succión nasogástrica y las pérdidas digestivas altas causan alcalosis metabólica; la compensación aguda es respiratoria (alcalosis respiratoria compensatoria), no renal; y el tratamiento de la acidosis del shock es corregir la causa (hemorragia, isquemia).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 561-562 del PDF",
+   "Sabiston 21.ª ed., p. 77 del PDF"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "032d73965e",
+  "estado": "confirmada",
+  "stem": "En quemaduras eléctricas es cierto, excepto:",
+  "opts": [
+   "La alteración más grave en este tipo de quemaduras ocurre después de las 24 horas de la lesión.",
+   "La piel tiene una resistencia relativamente alta a la corriente eléctrica.",
+   "Si los pacientes con lesiones por electricidad no tienen arritmias cardíacas en el EKG inicial ni antecedentes recientes de parada cardíaca no necesita más vigilancia.",
+   "La corriente eléctrica avanza por aquellos tejidos que tienen menor resistencia a la corriente como nervios, vasos sanguíneos y músculos.",
+   "Representan entre el 3 al 5 % de los pacientes ingresados por quemadura."
+  ],
+  "ans": 0,
+  "why": "El Sabiston afirma que en las lesiones eléctricas «los problemas más graves aparecen en las 24 h posteriores a la lesión», no después; por eso A es la falsa. Las demás son frases del mismo texto: el 3-5% de los quemados ingresados son por electricidad; la piel ofrece una resistencia relativamente alta; la corriente avanza por los tejidos de menor resistencia (nervios, vasos, músculos); y si el ECG inicial no muestra arritmias ni hubo paro, no hace falta más monitorización.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "5eee1003fb",
+  "estado": "dudosa",
+  "stem": "Varón de 25 años, pesa 85 kg, talla: 1,82 m, sufre traumatismo abdominal abierto por arma blanca en Pataz, llega a las 24 horas de haber sufrido el accidente. En examen físico: palidez ++/+++, mucosas orales secas ++/+++, lúcido, PA: 90 /60 mmHg, FC: 100 x min, T° : 39 °C, FR: 30 x min. Abdomen distendido, RHA ausentes, signos peritoneales: ++. Viene con catéter periférico por el que según el informe de referencia se le paso 3 litro de cloruro de sodio al 0.9%. Se coloca SNG por donde sale 400 ml secreción biliosa, sonda Foley 400 ml de orina. Se pasa 2000 ml de lactato ringer, además de antibiótico profilaxis. En laparotomía exploratoria: peritonitis generalizada 1 litro de liquido intestinal por perforación de intestino delgado, se realiza resección y anastomosis primaria. Se deja abdomen abierto. Tiempo operatorio 2 horas. En SOP se pasa 2000 de solución polielectrolítica, 2 poligelinas de 500 ml cada una y 1 paquete globular (270 ml). Por SNG sale 800 ml y por sonda Foley 500 ml de orina. En el postoperatorio: se pasa 1000 ml de cloruro de sodio al 0.9%x1000, 1 frasco de poligelina y 2 paquetes de plasmas fresco (180 cc cada uno). Realice el balance hidroelectrolítico de este paciente e indique su respuesta:",
+  "opts": [
+   "+5272",
+   "+4789",
+   "+6122",
+   "+1120",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Al sumar lo que dice el caso, los ingresos son 10 130 ml (3000 SF previos + 2000 LR + 2000 polielectrolítica + 1000 de poligelinas + 270 de paquete globular + 1000 SF + 500 de poligelina + 360 de plasma). Los egresos medidos son 3100 ml (SNG 400 + 800, orina 400 + 500, 1 L de líquido peritoneal). Eso da +7030 ml antes de restar las pérdidas insensibles. La clave +5272 supone unos 1758 ml de pérdidas insensibles (fiebre, taquipnea, abdomen abierto) y quizás agua endógena, según una fórmula del curso que no aparece en los libros de la carpeta. Tampoco está claro qué periodo cubre ni si se cuentan los 3 L previos y el litro de líquido peritoneal. Sin esa fórmula no se puede comprobar ninguna opción.",
+  "fuentes": [],
+  "tema": "liquidos",
+  "nota": "Clave original: A (+5272, resaltado). El resultado depende de cómo calcule el curso las pérdidas insensibles; consulta la fórmula que usó tu docente."
+ },
+ {
+  "k": "f5d77d03ed",
+  "estado": "confirmada",
+  "stem": "Un paciente de sexo masculino ingresa después de una caída de altura. A su llegada, su score en la Escala de Coma de Glasgow es de 5/15 y, por lo tanto, es intubado. Durante la reanimación primaria se toma una Rx de tórax que muestra un mediastino ensanchado y una desviación del lado derecho de la tráquea. El diagnóstico es:",
+  "opts": [
+   "Ruptura aórtica",
+   "Colapso del lóbulo derecho",
+   "Neumotórax a tensión",
+   "Taponamiento cardíaco",
+   "Ruptura del esófago"
+  ],
+  "ans": 0,
+  "why": "En la lesión traumática de la aorta torácica, el hallazgo más frecuente en la radiografía de tórax es el mediastino ensanchado, y también puede verse la desviación hacia la derecha de las estructuras mediastínicas o del tubo endotraqueal (Sabiston). El mecanismo de desaceleración (caída de altura) encaja. El neumotórax a tensión no ensancha el mediastino y empuja la tráquea al lado contrario de la lesión. El taponamiento da una silueta cardíaca agrandada, no el desvío traqueal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1779 del PDF"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "8415a1879c",
+  "estado": "confirmada",
+  "stem": "Todos los siguientes desplazan la curva de disociación de oxígeno hacia la izquierda, excepto:",
+  "opts": [
+   "Carboxihemoglobina",
+   "Hb fetal",
+   "Alcalosis respiratoria",
+   "Hipotermia",
+   "Hipercapnia"
+  ],
+  "ans": 4,
+  "why": "La hipercapnia desplaza la curva a la derecha: el CO2 disminuye la afinidad de la hemoglobina por el oxígeno (efecto Bohr por el descenso del pH y unión directa en forma de carbamino-Hb). Las otras opciones la desplazan a la izquierda: el monóxido de carbono (Sabiston), la hipotermia (Sabiston), la alcalosis (el ABSITE lo señala para el bicarbonato) y la Hb fetal, que tiene más afinidad por el oxígeno (ABSITE).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 517 del PDF",
+   "Sabiston 21.ª ed., p. 268 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 460 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 415 del PDF",
+   "Frontiers in Medicine 2022; Effects of Carbon Dioxide and Temperature on the Oxygen-Hemoglobin Dissociation Curve of Human Blood (PMC8859098)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "9ddc1966e6",
+  "estado": "dudosa",
+  "stem": "Paciente quemado con fuego que presenta área de quemadura del 20% al exameny de II y tercer grado, en cual fase de la quemadura puede ocurrir la hiponatremia?",
+  "opts": [
+   "Fase tardía",
+   "Fase temprana",
+   "Hiponatremia no ocurre",
+   "Solo es cuadro de edema",
+   "Ambas fases"
+  ],
+  "ans": null,
+  "why": "El Sabiston solo menciona que, en pacientes con pérdidas como las quemaduras, infundir dextrosa al 5% puede causar hiponatremia rápidamente, y que el nitrato de plata tópico produce hiponatremia (este se usa más tarde, en el tratamiento de la herida). Ninguna fuente de la carpeta ni de las consultadas asigna la hiponatremia a una fase concreta de la quemadura, así que no se puede decidir entre «fase temprana» y «ambas fases».",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Sabiston 21.ª ed., p. 163 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: B (fase temprana, resaltado)."
+ },
+ {
+  "k": "9fd636b0ce",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años, 80 kilos de peso, sufre una quemadura de 60% de SCT con fuego directo. El paciente comienza con la reanimación con líquidos cristaloides utilizando la fórmula de Brooke modificada. ¿Cuál es la velocidad de administración de líquidos cristaloides administrados en las primeras 8 horas?",
+  "opts": [
+   "9600 ml / h",
+   "100 ml / h",
+   "600 ml / h",
+   "1200 ml / h",
+   "500 ml / h"
+  ],
+  "ans": 2,
+  "why": "La fórmula de Brooke (modificada) da 2 ml/kg/% SCT en 24 h (Sabiston): 2 × 80 × 60 = 9600 ml. Con las fórmulas tradicionales, la mitad se pasa en las primeras 8 h: 4800 ml ÷ 8 h = 600 ml/h. 9600 ml/h confunde el volumen de 24 h con un ritmo horario; 1200 ml/h corresponde a Parkland (4 ml/kg/%); 100 y 500 ml/h no salen del cálculo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF",
+   "Scand J Trauma Resusc Emerg Med 2020; Burn care: before the burn center (PMC7531144)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "b93efc9cce",
+  "estado": "dudosa",
+  "stem": "Una mujer de 20 años fue resucitada en emergencia y requirió la inserción de un drenaje torácico. El drenaje se retiró dos días después, antes de que le dieran el alta. Ella vuelve a presentarse 10 días después quejándose de dolor en el pecho asociado con fiebre alta y diaforesis. Se sospecha un empiema y una radiografía de tórax confirma una colección. El siguiente paso más apropiado es:",
+  "opts": [
+   "Reinserción del drenaje torácico",
+   "Tomografía computarizada del tórax",
+   "Ultrasonografía",
+   "Irrigación y aspiración",
+   "Antibióticos intravenosos durante 6 semanas"
+  ],
+  "ans": null,
+  "why": "Las fuentes de la carpeta indican que el empiema se drena con tubo de toracostomía y, si no responde, con VATS (ABSITE). Ninguna dice si, tras confirmar la colección con la radiografía, el paso siguiente es una ecografía (para guiar el drenaje), una TC o reinsertar el drenaje directamente. La guía BTS de enfermedad pleural de 2023, que trata este tema, no es de acceso abierto y no se pudo leer. Hay al menos dos opciones defendibles (B y C).",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 428 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 433 del PDF"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Clave original: C (ecografía, resaltado)."
+ },
+ {
+  "k": "c7a756fbc7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es verdadera con respecto a una vagotomía altamente selectiva?",
+  "opts": [
+   "La rama celíaca es dividida.",
+   "El nervio anterior de Latarjet se divide.",
+   "El nervio de Grassi está a salvo.",
+   "Las patas de cuervo del antro se salvan.",
+   "Los troncos vagales anterior y posterior se dividen."
+  ],
+  "ans": 3,
+  "why": "En la vagotomía altamente selectiva (supraselectiva) solo se seccionan las ramas vagales del fondo y el cuerpo, y se conserva la inervación del antro y el píloro: la «pata de cuervo» (Sabiston, ABSITE). Por eso no hace falta drenaje. Los troncos vagales y la rama celíaca no se dividen; los nervios de Latarjet se identifican y se preservan; el nervio criminal de Grassi sí debe seccionarse, porque dejarlo predispone a la recidiva.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1238-1239 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 115 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "8cf2426139",
+  "estado": "dudosa",
+  "stem": "A un paciente con 4 litros de oxígeno por cánula nasal se le realiza una gasometría arterial. El paciente tiene una respiración normal, con una frecuencia respiratoria de 23. La gasometría arterial indica un pH de 7.40, PaO2 = 92 mmHg y PaCO2 = 42 mmHg. ¿Cuál de los siguientes es el más apropiado?",
+  "opts": [
+   "N.A",
+   "Disminuya el oxígeno a 2 litros.",
+   "Aumentar el oxígeno a 6 litros.",
+   "Continuar con la gestión actual y registrar los datos en el gráfico.",
+   "Anime al paciente a respirar más rápido."
+  ],
+  "ans": null,
+  "why": "No se encontró en los libros de la carpeta ni en fuentes accesibles (StatPearls bloqueado, guía BTS de oxígeno no abierta) una cita que dé los valores normales de la gasometría y la conducta ante un paciente con oxígeno y gasometría normal. La clave D (continuar y registrar) parece coherente con una gasometría sin alteraciones, pero no se pudo respaldar con una fuente leída, y reducir el oxígeno (B) también podría defenderse si se busca usar la mínima FiO2.",
+  "fuentes": [],
+  "tema": "liquidos",
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "621b5d6ccd",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes están descritas como causas de pancreatitis aguda, excepto:",
+  "opts": [
+   "Litiasis vesicular",
+   "Traumatismo abdominal",
+   "Hipertrigliceridemia",
+   "Hipercolesterolemia",
+   "Alcohol"
+  ],
+  "ans": 3,
+  "why": "Según el Sabiston, los cálculos biliares y el alcohol causan el 70-80% de las pancreatitis agudas, y la hipertrigliceridemia (sospechar con triglicéridos >1000 mg/dl) y los traumatismos abdominales también son causas. La hipercolesterolemia no figura entre ellas. Lo que daña el páncreas son los metabolitos de los triglicéridos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1558-1559 del PDF"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Se eliminó el texto basura «gastroep» del enunciado. Matiz: el Sabiston dice que la pancreatitis por hipertrigliceridemia es más frecuente en las hiperlipidemias de tipo I, II o V, pero el mecanismo que describe son los triglicéridos, no el colesterol."
+ },
+ {
+  "k": "af080969f0",
+  "estado": "corregida",
+  "stem": "¿Cuál es el tratamiento de elección para pacientes con lesión del conducto biliar complejo?",
+  "opts": [
+   "Coledocoyeyunostomia en Y de Roux + Hepaticoyeyunostomia en Y de Roux",
+   "Coledocoduodeno anastomosis",
+   "Todas las anteriores",
+   "Hepaticoyeyunostomia en Y de Roux",
+   "Coledocoyeyunostomia en Y de Roux"
+  ],
+  "ans": 3,
+  "why": "El Sabiston explica que la mayoría de las lesiones de la vía biliar se producen en lo alto, cerca del hilio, y no permiten una anastomosis sin tensión al duodeno. Por eso, «en casi todos los casos» se prefiere resecar el segmento dañado y hacer una anastomosis mucosa a mucosa con un asa yeyunal en Y de Roux (hepaticoyeyunostomía). El ABSITE también indica la hepaticoyeyunostomía en Y de Roux para la reconstrucción. La coledocoduodenostomía solo sirve para lesiones bajas y tiene riesgo de fístula duodenal. La opción A une dos anastomosis que no se hacen juntas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1536 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 49 del PDF",
+   "de Virgilio, ABSITE 3.ª ed., p. 57 del PDF"
+  ],
+  "tema": "via-biliar",
+  "nota": "Clave original: A (resaltado), que combina coledocoyeyunostomía + hepaticoyeyunostomía; no es un procedimiento descrito en las fuentes."
+ },
+ {
+  "k": "4a72a8dc32",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años de edad requiere cirugía para una úlcera duodenal intratable. ¿Qué operación previene mejor la recurrencia de la úlcera?",
+  "opts": [
+   "Vagotomía altamente selectiva",
+   "Gastrectomía subtotal",
+   "Vagotomía troncal y antrectomía",
+   "Vagotomía selectiva",
+   "Vagotomía troncal y piloroplastia"
+  ],
+  "ans": 2,
+  "why": "La vagotomía troncal con antrectomía tiene la menor tasa de recidiva de la úlcera, del 0-2%, a costa de un 20% de síndromes posgastrectomía (Sabiston). La vagotomía supraselectiva tiene una recidiva del 10-15%, algo mayor que la vagotomía troncal con piloroplastia. La vagotomía selectiva da más recidiva que la troncal y se ha abandonado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1238-1239 del PDF"
+  ],
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "49e520c185",
+  "estado": "confirmada",
+  "stem": "Sobre las pruebas de función hepática, todo lo siguiente es cierto, excepto",
+  "opts": [
+   "ALT y AST están marcadamente elevados en casos de hepatitis viral.",
+   "La albúmina sérica se reduce en casos de cirrosis hepática.",
+   "La bilirrubina conjugada muestra una elevación más marcada que la forma no conjugada en casos de ictericia obstructiva.",
+   "El tiempo de protrombina se prolonga notablemente en pacientes con ictericia hemolítica.",
+   "La fosfatasa alcalina está marcadamente elevada en casos de ictericia obstructiva."
+  ],
+  "ans": 3,
+  "why": "En la hemólisis, lo que sube es la bilirrubina no conjugada, por mayor producción. El TP/INR mide la síntesis hepática de los factores de coagulación y se prolonga en la hepatopatía avanzada, no en la ictericia hemolítica (Sabiston). Las demás son ciertas: las transaminasas son marcadores de necrosis hepatocelular (hepatitis); la albúmina baja indica hepatopatía crónica grave; en la obstrucción biliar predomina la bilirrubina conjugada y sube la fosfatasa alcalina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1466-1467 del PDF"
+  ],
+  "tema": "higado"
+ },
+ {
+  "k": "009-a1",
+  "agregada": true,
+  "despues_de": "49e520c185",
+  "estado": "dudosa",
+  "stem": "Las técnicas utilizadas en la preparación de equipos y empaque de material quirúrgico, deben permitir: Excepto:",
+  "opts": [
+   "N.A",
+   "La remoción del aire",
+   "Manipulación aséptica",
+   "Prevenir la contaminación",
+   "El ingreso y el contacto con el agente esterilizante"
+  ],
+  "ans": null,
+  "why": "Según la guía de los CDC, el material de empaque debe permitir la penetración del esterilizante, proteger del contacto con contaminantes durante la manipulación, ser una barrera eficaz contra los microbios y mantener la esterilidad (respalda D y E). Esa página no menciona el empaque como requisito para la remoción del aire ni para la manipulación aséptica (B y C). Ningún libro de la carpeta trata el empaque. Sin una fuente que confirme B y C, no se puede asegurar que «N.A» sea la respuesta.",
+  "fuentes": [
+   "CDC, Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Sterilizing Practices (https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/sterilizing-practices.html)"
+  ],
+  "nota": "Pregunta 170 del original (p. 14), perdida en la extracción. Clave resaltada: A (N.A).",
+  "tema": "seguridad"
+ }
+]
