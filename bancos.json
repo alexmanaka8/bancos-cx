@@ -101,6 +101,16 @@
         "WhatsApp Image 2026-10-28": "Examen (oct 2026)"
       },
       "ver_original": false
+    },
+    {
+      "id": "enam-2026",
+      "nombre": "ENAM 2026 · EsSalud comentado (Dr. Goyzueta)",
+      "tipo": "json",
+      "ver_original": false,
+      "destacado": true,
+      "archivos": [
+        "enam-2026.json"
+      ]
     }
   ],
   "biblioteca": [

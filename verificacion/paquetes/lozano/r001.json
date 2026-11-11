@@ -1,0 +1,444 @@
+{
+ "banco": "lozano",
+ "paquete": "r001",
+ "preguntas": [
+  {
+   "k": "b9f09f50fd",
+   "stem": "Una mujer de 32 años está en su PO1 de una laparoscopia convertida por colecistitis aguda. Desde la cirugía ella ha tenido un episodio de vómitos, su gasto urinario ha disminuido a 0.3 cc/kg/ h y Na sérico es de 131. La creatinina sérica es normal pero la ADH está elevada. cual es la causa más probable de estos hallazgos en esta paciente.",
+   "opts": [
+    "SIADH",
+    "respuesta fisiológica normal a la cirugía",
+    "injuria renal aguda",
+    "vómitos",
+    "falla cardiaca congestiva"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 412,
+     "texto": "PART II Medical Knowledge 384 15. A 25-year-old female is postoperative day 1 from a laparoscopic, converted to open cholecystectomy for acute cholecystitis. Since surgery, she has had one episode of emesis, urinary output has decreased to 0.3 cc/kg per hour, and serum sodium is found to be 131 mEq/L. Serum creatinine is normal, but antidiuretic hormone (ADH) level is elevated. What is the most likely cause of these findings? A. Syndrome of inappropriate antidiuretic hormone secretion (SIADH) B. Normal physiologic response to surgery C. Acute kidney injury D. Emesis E. Congestive heart failure 16. A 65-year-old male with massive intracranial hemorrhage after a ruptured intracranial aneurysm is currently in the neurosurgical intensive care unit (ICU). Two days ago, he underwent intravascular coiling of the lesion. Because of increased urinary output over the last 24 hours, a urine sodium was measured and found to be 35 mEq/L. Current labs include a serum sodium of 128 mEq/L and a hemoglobin of 18 g/ dL. Central venous pressure is 2 mm Hg. Which of the following is the most appropriate initial treatment? A. Normal saline B. Free water restriction C. Desmopressin D. Demeclocycline E. Tolvaptan 17. A 75-year-old male is in the ICU due to sepsis 5 days after a colectomy for a perforated diverticulitis. While the nurse is checking his blood pressure, his hand went into a spasm. Which of the following is the most likely etiology? A. Hypercalcemia B. Hypermagnesemia C. Hypomagnesemia D. Hyponatremia E. Hyperkalemia 18. A 48-year-old male with past medical history of alcoholic cirrhosis and refractory ascites is admitted to the ICU recovering from spontaneous bacterial peritonitis (SBP). He is now off the antibiotics, and there is no evidence of continued infection. Over the"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 107,
+     "texto": "por los barorreceptores carotídeos y los péptidos natriuréticos auriculares. La infusión o el bloqueo de cualquiera de estas hormonas llevan a mecanismos compensadores y a perturbaciones dentro de este sistema complicado. El sistema se ve también afectado por muchos otros factores que hemos descubierto recientemente, y es probable que se vea afectado por otros que aún no hemos esclarecido. Por ejemplo, se ha demostrado que el TCE afecta directamente a la interfase hipotálamo-hipófisis por un traumatismo mecánico o la PIC aumentada. En estos pacientes es difícil controlar el tratamiento porque pasan a través de una amplia variedad de respuestas fisiológicas. Los pacientes que sufren una hernia encefálica pasan de un estado bradicárdico hipertensivo a un estado profundamente taquicárdico e hipotensivo. Durante estos estados tan variables también se afecta la diuresis y puede aparecer una diabetes insípida (DI) o síndrome de secreción inadecuada de ADH (SIADH). El cuerpo humano ha evolucionado desde un punto de vista teleológico para intentar reducir el edema encefálico a cualquier coste y a menudo se producen volúmenes de orina altos, lo que exige infusiones de vasopresina. Los pacientes cuyo sistema regulador funciona mal o cuyas glándulas suprarrenales se han agotado, también precisan dosis altas de vasoconstrictores. Sin embargo, algunos estudios han demostrado que la infusión de cortisol y de hormona tiroidea en goteo puede reducir tal inestabilidad y minimizar la necesidad de infundir líquido y vasoconstrictores. Los pacientes que sufren una hernia encefálica ilustran la complejidad del sistema regulador; los cirujanos deben ser conscientes de los cambios que pueden tener lugar cada minuto. La insuficiencia glucocorticoide suprarrenal, pero no el fallo completo, se"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 108,
+     "texto": "lesión craneoencefálica, la hiponatremia que normalmente se tolera bien puede ser devastadora; se cree que produce una tumefacción intracelular cerebral a medida que se reduce la osmolalidad. En estos pacientes puede ser necesaria la infusión de SHT. Según los desequilibrios electrolíticos, las perfusiones de sal pueden adoptar varias formas; el sodio se aporta en forma de cloruro, acetato o bicarbonato sódico, o bien en combinaciones. Si se realiza una intervención quirúrgica ginecológica o urológica con irrigación hipoosmótica puede producirse una hiponatremia aguda. Durante la resección endometrial y la resección transuretral de la próstata se ha descrito la intoxicación hídrica aguda como complicación. En los pacientes de las UCI quirúrgicas, una causa frecuente de hiponatremia es el SIADH. Este síndrome puede ser agudo o crónico. En pacientes hipovolémicos, la respuesta natural del organismo es liberar ADH; sin embargo, si el organismo está euvolémico y aun así libera ADH inapropiadamente, se puede establecer el diagnóstico de SIADH. Por este motivo, el diagnóstico de SIADH solo debe aplicarse a pacientes euvolémicos. Además, la osmolaridad urinaria suele ser superior a 150 mmol/kg, y el sodio urinario estará por encima de CUADRO 4.4 Ecuaciones del sodio para uso clínico Deficiencia de sodio Deficiencia de sodio (mEq) = ACT = (peso corporal × 60%) ([Na] objetivo – [Na] en plasma) × ACT Deficiencia de agua libre Deficiencia de agua libre = (([Na]/140) − 1) × ACT Sodio corregido Sodio corregido = [Na] + 0,016 × (glucosa − 100) Osmolalidad sérica (calculada) 2 × [Na] + BUN/2,8 + glucosa/18 Excreción fraccional de sodio FeNa < 1% > 2% = [Na] orina + creatinina en plasma/[Na] en plasma + creatinina en orina = ¿? prerrenal (hipovolemia) = trastorno renal intrínseco ACT,"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 470,
+     "texto": "PART II Medical Knowledge 442 20. One day after a left colectomy for recurrent diverticulitis, a patient is noted to have an elevation of his serum creatinine. Other laboratories are unremarkable. He has a urine output of 30 to 50 mL/hour. A renal ultrasound shows no evidence of abnormalities with the exception of ascites. Computed tomography (CT) scan demonstrates discontinuity of the left ureter with contrast extravasation at the level of the pelvic brim. Which of the following about this injury is true? A. Immediate reoperation should not be performed B. Placement of ureteral stents would have"
+    }
+   ]
+  },
+  {
+   "k": "0fa18147c7",
+   "stem": "Una mujer de 22 años con antecedentes de una herida de bala en el abdomen que requirió múltiples resecciones intestinales ha estado con nutrición periférica total (NPT) crónica para el síndrome de intestino corto. Ella se presenta para un seguimiento clínico y dice que su cabello ha comenzado a caerse, y ha desarrollado múltiples moretones en sus brazos y piernas. Además, tiene un sarpullido escamoso difuso y piel seca. ¿De cuál de los siguientes nutrientes y oligoelementos es probable que tenga deficiencia?",
+   "opts": [
+    "Cobre",
+    "Vitamina",
+    "Ácido linoleico",
+    "Zinc",
+    "Selenio"
+   ],
+   "tema": "nutricion",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 494,
+     "texto": "with a large amount of exudate C. Wet-to-dry dressings remain the gold standard for wound dressings in most scenarios D. Moisture-retentive dressings have similar rates of infection compared to gauze dressings E. Hydrogels with silver can be used in combination with enzymatic debriding agents 4. Which of the following is true regarding cell junctions in humans? A. Hemidesmosomes do not interact with intermediate filaments B. Tight junctions, by definition, do not allow the passage of solutes through adjacent cell membranes C. Connexons allow for direct communication between two adjacent cells D. Adherens junctions are a specialized type of tight junction E. Desmosomes function primarily to anchor a cell to the extracellular matrix 5. Which of the following is true regarding nutritional status and nonhealing wounds? A. Short periods of starvation before surgery generally have minimal effect on wound healing B. Malnutrition prolongs the inflammatory phase of wound healing C. Prealbumin will provide an accurate estimation of nutritional status over the previous several weeks D. Nutritional supplements have been shown to decrease interval time to complete healing of pressure ulcers E. Presence of granulation tissue is not predictive of adequate wound healing ability 6. A 22-year-old female with history of a gunshot wound to the abdomen requiring multiple bowel resections has been on chronic total peripheral nutrition (TPN) for short gut syndrome. She presents for a clinic follow-up stating that her hair has started to fall out, and she has developed multiple bruises over her arms and legs. In addition, she has a diffuse scaly rash and dry skin. In which following nutrients or trace elements is she likely deficient? A. Copper B. Vitamin C C. Linoleic acid D. Zinc E. Selenium"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1870,
+     "texto": "de las concentraciones de nitrógeno ureico en sangre, lo que causa un cociente calorías no proteicas:calorías proteicas (cuando se expresa en gramos de nitrógeno) mayor de 150:1. En lactantes que reciben nutrición parenteral, la administración de proteínas suele comenzar a razón de 0,5 g/kg/día y avanza en incrementos diarios de 0,5 g/kg/día hasta un objetivo de alrededor de 3,5 g/kg/día. La grasa es una fuente importante de calorías no proteicas. Se considera que el ácido linoleico, una cadena de 18 carbonos con dos enlaces dobles, es un ácido graso esencial, y su deficiencia provoca sequedad, exantema y descamación de la piel. En pacientes pediátricos, se aporta grasa como una fuente importante de calorías para prevenir la aparición de deficiencia de ácidos grasos esenciales. Las necesidades de lípidos para el crecimiento son significativas, y la grasa es una robusta fuente de calorías. Como en el caso de las proteínas, las infusiones de grasa se inician a razón de 0,5 g/kg/día y se aumentan hasta 2,5-3,5 g/kg/día. En lactantes con hiperbilirrubinemia no conjugada, se administra grasa con prudencia, porque los ácidos grasos pueden desplazar a la bilirrubina de la albúmina. Luego, la bilirrubina no conjugada libre puede atravesar la barrera hematoencefálica y causar kernícterus, que da por resultado retraso mental. La NPT se reserva para lactantes en quienes no es posible lograr nutrición enteral diaria adecuada. Los lactantes únicamente tienen reserva de energía para tolerar períodos de inanición de tan solo 2 a 3 días. Por consiguiente, debe considerarse con rapidez la necesidad de nutrición parenteral de un lactante. La velocidad total de NPT se mantiene en un estado estable para satisfacer las necesidades de líquidos, y la concentración de nutrientes se aumenta de"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 497,
+     "texto": "Langer G, Fink A. Nutritional interventions for preventing and treating pressure ulcers. Cochrane Database Syst Rev. 2014;(6):CD003216. Stechmiller JK. Understanding the role of nutrition and wound healing. Nutr Clin Pract. 2010;25(1):61-68. 6. C. A deficiency of trace elements and essential fatty acids is a relatively rare entity in patients taking tood by mouth. However, it has occurred with increased frequency with the advent and widespread use of TPN, particularly in patients with a history of short gut syndrome. Copper is primarily associated with anemia resistant to iron supplementation, leukopenia, and neurologic defects (A). Vitamin C deficiency, or scurvy, causes delayed wound healing, bleeding gums, loose teeth, and abnormal bone deposition in children (B). Selenium deficiency is associated with a fatal cardiomyopathy (E). Zinc and essential fatty acid deficiency (linoleic acid and alpha-linolenic acid) have many similar features including delayed wound healing, increased infections, diarrhea, and a rash. However, the essential fatty acid rash tends to be scalier and is associated with dry skin, and the rash from zinc is primarily located in the perioral area and intertriginous skin of the fingers and toes. While alopecia and thrombocytopenia can be found with both conditions, it is more closely associated with free fatty acid deficiency. Conversely, the impaired taste, night blindness, and loss of appetite are more closely related with zinc deficiency (D). References: Jeppesen PB, Høy CE, Mortensen PB. Essential fatty acid deficiency in patients receiving home parenteral nutrition. Am J Clin Nutr. 1998;68(1):126-133. Kumar V, Fausto N, Abbas A, eds. Robbins and Cotran pathologic basis of disease. 7th ed. WB Saunders; 2004. O'Leary JP, Tabuenca A, Capote LR."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 134,
+     "texto": "mala cicatrización de heridas y prendimiento del injerto NPT a largo plazo, alcoholismo, posgastrectomía Crucial en la cicatrización de las heridas; facilita la regeneración tisular y formación de colágeno en el hueso, los dientes y el tejido conjuntivo Importante para reducir la osteopenia y la función de las colagenasas; su deficiencia causa hipotensión, colapso cardiovascular, falta de respuesta a líquidos y vasopresores, resistencia de los órganos diana a la PTH, arritmias Exudado importante por las heridas; se sabe que en niños con quemaduras hay pérdidas de cobre y cinc Puede haber"
+    }
+   ]
+  },
+  {
+   "k": "16557c5c8a",
+   "stem": "Una mujer de 22 años con antecedente de herida por arma de fuego abdominal, múltiples resecciones intestinales y síndrome de intestino corto está en nutrición parenteral total crónica. En consulta ambulatoria refiere caída del cabello, múltiples hematomas en brazos y piernas, erupción escamosa difusa y piel seca. ¿Qué nutriente o oligoelemento probablemente le falta?",
+   "opts": [
+    "Cobre",
+    "Vitamina C",
+    "Ácido linoleico",
+    "Zinc",
+    "Selenio"
+   ],
+   "tema": "nutricion",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 494,
+     "texto": "with a large amount of exudate C. Wet-to-dry dressings remain the gold standard for wound dressings in most scenarios D. Moisture-retentive dressings have similar rates of infection compared to gauze dressings E. Hydrogels with silver can be used in combination with enzymatic debriding agents 4. Which of the following is true regarding cell junctions in humans? A. Hemidesmosomes do not interact with intermediate filaments B. Tight junctions, by definition, do not allow the passage of solutes through adjacent cell membranes C. Connexons allow for direct communication between two adjacent cells D. Adherens junctions are a specialized type of tight junction E. Desmosomes function primarily to anchor a cell to the extracellular matrix 5. Which of the following is true regarding nutritional status and nonhealing wounds? A. Short periods of starvation before surgery generally have minimal effect on wound healing B. Malnutrition prolongs the inflammatory phase of wound healing C. Prealbumin will provide an accurate estimation of nutritional status over the previous several weeks D. Nutritional supplements have been shown to decrease interval time to complete healing of pressure ulcers E. Presence of granulation tissue is not predictive of adequate wound healing ability 6. A 22-year-old female with history of a gunshot wound to the abdomen requiring multiple bowel resections has been on chronic total peripheral nutrition (TPN) for short gut syndrome. She presents for a clinic follow-up stating that her hair has started to fall out, and she has developed multiple bruises over her arms and legs. In addition, she has a diffuse scaly rash and dry skin. In which following nutrients or trace elements is she likely deficient? A. Copper B. Vitamin C C. Linoleic acid D. Zinc E. Selenium"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 134,
+     "texto": "el ARN; función de los linfocitos La remodelación y la degradación del colágeno se realizan por colagenasas dependientes del calcio Aumento de la agregación plaquetaria, menor supervivencia de los eritrocitos, anemia hemolítica, anomalías neurológicas, menor concentración sérica de creatinina, creatinuria excesiva Hematomas, hemorragias Beriberi, acidosis láctica, anorexia, cansancio, neuropatía periférica, síndrome de Wernicke-Korsakoff, cardiomegalia Cansancio, alteraciones del sueño, náuseas, retortijones, vómitos, diarrea, calambres musculares, depresión mental, hipoglucemia Glositis, dermatitis, palidez, caída de cabello y vello Cansancio, anorexia, dolor muscular, escorbuto (anemia, trastornos hemorrágicos, colágeno defectuoso en hueso, cartílago, dientes, tejidos conjuntivos, degeneración muscular, gingivitis, debilidad capilar, cicatrización de las heridas alterada) Osteoporosis Cobre Promueve la formación de enlaces cruzados de colágeno y la síntesis de elastina; neutraliza los radicales libres Hierro Magnesio Esencial en las moléculas que contienen hemo para el transporte (hemoglobina) y almacenamiento de oxígeno (mioglobina), la cadena de electrones y las reacciones de oxidorreducción (citocromos) Cofactor en la síntesis de proteínas y colágeno Selenio Reduce los hidroperóxidos intracelulares; protege a las membranas lipídicas del daño oxidativo; podría reducir la mortalidad en pacientes enfermos críticos Cinc Cofactor esencial en una amplia gama de sistemas enzimáticos implicados en la síntesis de proteínas, metaloenzimas, replicación del ADN, función inmunitaria, síntesis y formación de enlaces cruzados de colágeno Desmineralización esquelética, alteración de la tolerancia a la glucosa, anemia, neutropenia, leucopenia, cambios en la pigmentación de la piel"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 497,
+     "texto": "Langer G, Fink A. Nutritional interventions for preventing and treating pressure ulcers. Cochrane Database Syst Rev. 2014;(6):CD003216. Stechmiller JK. Understanding the role of nutrition and wound healing. Nutr Clin Pract. 2010;25(1):61-68. 6. C. A deficiency of trace elements and essential fatty acids is a relatively rare entity in patients taking tood by mouth. However, it has occurred with increased frequency with the advent and widespread use of TPN, particularly in patients with a history of short gut syndrome. Copper is primarily associated with anemia resistant to iron supplementation, leukopenia, and neurologic defects (A). Vitamin C deficiency, or scurvy, causes delayed wound healing, bleeding gums, loose teeth, and abnormal bone deposition in children (B). Selenium deficiency is associated with a fatal cardiomyopathy (E). Zinc and essential fatty acid deficiency (linoleic acid and alpha-linolenic acid) have many similar features including delayed wound healing, increased infections, diarrhea, and a rash. However, the essential fatty acid rash tends to be scalier and is associated with dry skin, and the rash from zinc is primarily located in the perioral area and intertriginous skin of the fingers and toes. While alopecia and thrombocytopenia can be found with both conditions, it is more closely associated with free fatty acid deficiency. Conversely, the impaired taste, night blindness, and loss of appetite are more closely related with zinc deficiency (D). References: Jeppesen PB, Høy CE, Mortensen PB. Essential fatty acid deficiency in patients receiving home parenteral nutrition. Am J Clin Nutr. 1998;68(1):126-133. Kumar V, Fausto N, Abbas A, eds. Robbins and Cotran pathologic basis of disease. 7th ed. WB Saunders; 2004. O'Leary JP, Tabuenca A, Capote LR."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1870,
+     "texto": "lo que causa un cociente calorías no proteicas:calorías proteicas (cuando se expresa en gramos de nitrógeno) mayor de 150:1. En lactantes que reciben nutrición parenteral, la administración de proteínas suele comenzar a razón de 0,5 g/kg/día y avanza en incrementos diarios de 0,5 g/kg/día hasta un objetivo de alrededor de 3,5 g/kg/día. La grasa es una fuente importante de calorías no proteicas. Se considera que el ácido linoleico, una cadena de 18 carbonos con dos enlaces dobles, es un ácido graso esencial, y su deficiencia provoca sequedad, exantema y descamación de la piel. En pacientes"
+    }
+   ]
+  },
+  {
+   "k": "c046f04080",
+   "stem": "Un hombre de 59 años con un injerto de derivación de la arteria coronaria 1 año antes por enfermedad multivaso se somete a una cirugía de reemplazo de rodilla derecha. Su evolución postoperatoria se complica por neumonía que requiere ventilación mecánica. El electrocardiograma muestra una onda Q estable en la derivación II. La frecuencia cardíaca es de 80 lpm y la presión arterial es de 116/82 mm Hg. La radiografía de tórax muestra infiltrados irregulares bilaterales. El examen de laboratorio muestra una Pao2 de 70 mm Hg, un recuento de glóbulos blancos de 17 000 células/μL y una hemoglobina de 7,4 g/dL. ¿Cuál de las siguientes afirmaciones es verdadera con respecto al tratamiento de su anemia?",
+   "opts": [
+    "La transfusión de sangre facilitará el destete del respirador mecánico.",
+    "Se le debe transfundir hasta alcanzar un objetivo de hemoglobina de 10 g/dL.",
+    "La transfusión de glóbulos rojos se asocia de forma dependiente con una menor mortalidad.",
+    "La eritropoyetina humana recombinante puede reducir sus necesidades generales de transfusión.",
+    "Los transportadores de oxígeno basados en hemoglobina ofrecen una buena alternativa a la transfusión en este paciente."
+   ],
+   "tema": "eras",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 469,
+     "texto": "CHAPTER 35 Preoperative Evaluation and Perioperative Care 14. A 59-year-old male with a coronary artery bypass grafting 1 year prior for multivessel disease undergoes a right hip replacement surgery. His postoperative course is complicated by pneumonia requiring mechanical ventilation. Electrocardiogram shows a stable Q wave in lead II. Heart rate is 80 beats per minute and blood pressure is 116/82 mmHg. Chest radiograph shows bilateral patchy infiltrates. Laboratory exam demonstrates PaO, of 70 mmHg, a white blood cell count of 17,000 cells / uL, and hemoglobin of 7.4 g/dL. Which of the following is true regarding the management of his anemia? A. Blood transfusion will lower his risk of developing an acute coronary syndrome B. He should be transfused to a hemoglobin goal of 10 g/ dL C. Red blood cell transfusion is independently associated with lower mortality D. Blood transfusion is not necessary at this time E. Hemoglobin-based oxygen carriers offer a good alternative to transfusion in this patient 15. Four days after a pancreaticoduodenectomy for pancreatic adenocarcinoma, a 65-year-old man develops a fever and tachycardia. Exam reveals tenderness, edema, and erythema over the angle of the jaw. Which of the following is true regarding this condition? A. It is usually due to Staphylococcus B. Massage of the area is beneficial C. It can be prevented with antibiotics D. The incidence has been increasing E. It can be avoided with the use of anticholinergics 16. Which of the following is true regarding venous thromboembolism (VTE) prophylaxis in surgical patients? A. Intermittent pneumatic compression (IPC) prevents DVT by increasing circulating tissue plasminogen activator (tPA) B. Thigh-high IPC is superior to knee-high IPC C. IPC is equivalent to pharmacologic"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 474,
+     "texto": "and anesthetic management. J Clin Anesth. 2011;23(2):153-165 14. D. Red blood cell transfusion has been independently associated with longer intensive care unit (ICU) and hospital stays, increased complications, and increased mortality (C). It is also an independent risk factor for multiorgan system tailure and systemic inflammatory response syndrome (SIRS). Most societal guidelines agree that a liberal transfusion strategy (goal of 10 g/dL) is no better and likely worse than a more restrictive strategy (goal of 7-9 g/dL) in the majority of patients. So transfusion is needed as long as the hemoglobin remains above 7 g/ dL. The Transfusion Requirements in Critical Care (TRICC) trial demonstrated that critically ill patients without active bleeding fared better with a restrictive transfusion strategy. There is also no evidence that transfusion lowers the risk of acute coronary syndromes. (A, B). While hemoglobin can improve oxygen delivery to tissues, it has not been shown to lower risk of acute coronary syndromes, decrease time on the mechanical ventilator, improve oxygen consumption, or improve outcomes in patients with adult respiratory distress syndrome or acute lung injury (A). Because of the negative effects of blood transfusion, alternative methods of managing anemia are actively being researched, including the use of recombinant human erythropoietin (EPO) and hemoglobin-based oxygen carriers. Trials designed specifically looking at administering exogenous EPO in trauma patients, the EPO-1 and EPO-2 trials showed reductions in required blood transfusions and improved mortality, respectively. While hemoglobin-based oxygen carriers show some promise, they are not currently approved for use in the United States (E). 15. A. This patient has postoperative parotitis."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 555,
+     "texto": "renal hay que administrarles esos mismos antibióticos hasta que el resultado de los cultivos permitan prescribir un tratamiento específico, durante un total de 8 días. A los pacientes que no presentan estos factores de riesgo hay que administrarles únicamente cefepima. Sin embargo, conviene señalar que las prácticas locales, los formularios y los patrones de resistencia a los antibióticos varían considerablemente entre diferentes regiones de EE. UU. y de todo el mundo. La elaboración de unas pautas junto con un farmacéutico de la UCI permitirá mejorar la calidad asistencial y el pronóstico de los pacientes. La prevención es un elemento clave en el tratamiento de las NN y las NAR. Hay que elevar 30° la cabecera de la cama de todos los pacientes, una medida que puede prevenir las NN, junto con la espirometría incentivada y la movilización precoz. Además, los pacientes conectados a un respirador mecánico deben realizar enjuagues con clorhexidina e interrumpir su sedación a diario. Pero la medida definitiva para prevenir las NN consiste en desconectar al paciente del respirador mecánico cuanto antes y de la manera más segura posible. Síndrome de dificultad respiratoria aguda El SDRA representa una respuesta del pulmón a numerosos factores desencadenantes, como las transfusiones de hemoderivados, la sepsis (neumonía, etc.), la pancreatitis grave, las contusiones pulmonares por traumatismos y las hemorragias y/o la hipotensión arterial. Se caracteriza por una merma de la capacidad de oxigenación y una disminución de la distensibilidad pulmonar. Varias sociedades colaboraron para alcanzar una definición formal (conocida como la definición [o criterios] de Berlín). Se requiere la presencia de infiltrados bilaterales en la radiografía o la TC de tórax, un cociente PaO2/FiO2 <"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 99,
+     "texto": "coagulopatía. FUTURA INVESTIGACIÓN EN LA REANIMACIÓN Sustitutos de la sangre Al contrario que los expansores de volumen, los sustitutos sanguíneos se refieren a líquidos que pueden transportar oxígeno. En EE. UU. se transfunden al año 15 millones de unidades de eritrocitos. Los métodos para reducir la necesidad de transfusiones sanguíneas son la donación preoperatoria autógena, la recuperación intraoperatoria de la sangre con reinfusión y la hemodilución isovolémica. Estos métodos permiten extraer la sangre del paciente al comienzo de la intervención quirúrgica, reemplazarla por un expansor de volumen y"
+    }
+   ]
+  },
+  {
+   "k": "680a3d4154",
+   "stem": "¿Cuál de los siguientes estudios preoperatorios está más fuertemente asociado con un mayor riesgo de complicaciones posoperatorias relacionadas con los pulmones?",
+   "opts": [
+    "Nitrógeno ureico en sangre",
+    "Espirometría incentivada",
+    "Radiografía de tórax",
+    "Albúmina sérica",
+    "Gasometría arterial con aire ambiente"
+   ],
+   "tema": "eras",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1722,
+     "texto": "tubo endotraqueal, las líneas centrales, el catéter de Swan-Ganz y el BCIA, y para identificar posibles neumotórax, atelectasias, edemas pulmonares o derrames pleurales. Los estudios de laboratorio iniciales deben incluir la determinación de la hemoglobina, el hematocrito, los electrólitos, el nitrógeno ureico en sangre, la creatinina, la gasometría arterial, el recuento plaquetario, el tiempo de protrombina y el tiempo de tromboplastina parcial. El paciente debe estar conectado a un ECG que permita evaluar posibles anomalías en las ondas ST-T, a una línea arterial para medir la presión arterial, y a una línea para medir la presión venosa central, la pulsioximetría y la temperatura central. En determinados pacientes se emplea un catéter de Swan-Ganz para monitorizar constantemente las presiones arteriales pulmonares y el gasto cardíaco. Se debe realizar una evaluación neurológica completa tan pronto como despierte el paciente, con el objeto de garantizar que no ha sufrido ningún accidente cerebrovascular. Durante las 12 h inmediatamente posteriores a la intervención es prioritario mantener una presión arterial y un gasto cardíaco adecuados, corregir los defectos de la coagulación y los desequilibrios electrolíticos, estabilizar el volumen intravascular y normalizar la resistencia vascular periférica. Para conseguirlo hay que administrar en muchos casos soluciones de cristaloides, sangre o hemoderivados, inótropos, calcio y vasodilatadores o vasoconstrictores. Estos son algunos de los objetivos para cumplir en el período postoperatorio: • Evitar aumentos muy marcados de la presión arterial. • Mantener una presión de perfusión adecuada (60-80 mmHg). • Mantener la temperatura corporal central por encima de 36,5 °C calentando al paciente con mantas de aire caliente forzado."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 271,
+     "texto": "de una vena periférica, manifestaciones clínicas de infección (fiebre, escalofríos o hipotensión) y ausencia de una fuente aparente de sepsis, excepto el catéter. El tratamiento antibiótico suele iniciarse de forma empírica; se recomienda vancomicina para el tratamiento empírico del SARM. Los factores responsables de la bacteriemia recurrente a pesar del tratamiento parenteral son la administración de antibióticos a través del catéter retenido y la formación de biofilm. La sepsis grave y las complicaciones infecciosas metastásicas (como la endocarditis infecciosa) prolongan el curso de la SRC. Se debe retirar el catéter en caso de SRC asociada a inflamación local o sistémica o a una afección inmunocomprometida. COMPLICACIONES RESPIRATORIAS Consideraciones generales Las intervenciones quirúrgicas (especialmente, torácicas y abdominales) y la anestesia repercuten en la fisiología pulmonar al disminuir la capacidad residual funcional (CRF). En la mayoría de los casos se tolera bien, pero los pacientes con enfermedades pulmonares subyacentes (enfermedad pulmonar obstructiva crónica, enfisema, fumadores de cigarrillos, etc.) son propensos a desarrollar complicaciones en ese órgano. Es útil identificar a los pacientes de «alto riesgo» antes de la cirugía y las pruebas de función pulmonar preoperatorias, la deshabituación tabáquica o los estudios del sueño ayudan al equipo quirúrgico a reducir el riesgo de complicaciones optimizando el estado del paciente antes de la cirugía (ventilación con presión positiva en la vía aérea en dos niveles prequirúrgicos, broncodilatadores, etc.). Más recientemente, se han desarrollado protocolos estándar de atención al paciente (iCough) para disminuir el riesgo de complicaciones pulmonares; estos protocolos incluyen espirometría incentiva, tos"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 468,
+     "texto": "PART II Medical Knowledge 440 8. Which of the following modalities is LEAST likely to assist in the prevention of postoperative pulmonary complications in a 65-year-old male smoker? A. Postoperative use of an incentive spirometer B. Postoperative deep-breathing exercises C. Postoperative use of continuous positive airway pressure D. Smoking cessation 1 week before surgery E. Placement of a nasogastric tube 9. Which of the following preoperative studies is most strongly associated with an increased risk of pulmonary-related postoperative complications? A. Blood urea nitrogen B. Incentive spirometry C. Chest radiograph D. Serum albumin E. Room air arterial blood gas 10. A 67-year-old male recovering from a pelvic exenteration secondary to locally advanced rectal cancer is started on total parenteral nutrition for prolonged ileus via a right-sided peripherally inserted central catheter (PICC) line. Several days later his arm becomes swollen. Ultrasound confirms clot in the basilic and axillary veins. What is the appropriate management of his condition? A. Warm compress and nonsteroidal antiinflammatory drugs (NSAIDs) B. Immediately remove the line C. Immediately remove line and then start heparin D. Start heparin and move the line to an alternate site E. Start heparin, keep the line in place, and therapeutic anticoagulation for 3 to 6 months 11. A 76-year-old diabetic male is admitted to the surgical intensive care unit after a fall. His injuries include a right femoral neck fracture and subarachnoid hemorrhage. He continues to have intermittent elevation in his intracranial pressure and is still requiring respiratory support after 2 days. Which of the following is true regarding nutritional supplementation in this patient? A. Postpyloric feeding may reduce his risk of"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 473,
+     "texto": "preoperative interventions, patients who require additional testing can be identified by history of new symptoms or physical examination findings Thus, PFT should be restricted to those who have current symptoms or signs based on history and physical. Location of the surgical incision is an important risk factor for postoperative pulmonary complications, with incisions closer to the diaphragm inferring more risk (D). When patients have been identified as high risk for pulmonary complications, current evidence supports the use of perioperative deep-breathing exercises and incentive spirometry."
+    }
+   ]
+  },
+  {
+   "k": "e2bb804344",
+   "stem": "Un hombre de 67 años que se recupera de una exenteración pélvica secundaria a un cáncer rectal localmente avanzado comienza a recibir nutrición parenteral total por íleo prolongado a través de un catéter central insertado periféricamente (PICC) en el lado derecho. Varios días después, la enfermera informa que no puede extraer sangre de su catéter central insertado periféricamente. El brazo está hinchado. La ecografía confirma un coágulo en las venas basílicas y axilares. ¿Cuál es el tratamiento adecuado para su afección?",
+   "opts": [
+    "Compresa tibia y medicamentos antiinflamatorios no esteroides (AINE)",
+    "Retire la vía inmediatamente.",
+    "Retire la vía inmediatamente y luego comience a administrar heparina.",
+    "Comience a administrar heparina y mueva la vía a un sitio alterno.",
+    "Iniciar heparina, mantener la vía en su lugar y administrar anticoagulación terapéutica durante 3 a 6 meses"
+   ],
+   "tema": "nutricion",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 468,
+     "texto": "PART II Medical Knowledge 440 8. Which of the following modalities is LEAST likely to assist in the prevention of postoperative pulmonary complications in a 65-year-old male smoker? A. Postoperative use of an incentive spirometer B. Postoperative deep-breathing exercises C. Postoperative use of continuous positive airway pressure D. Smoking cessation 1 week before surgery E. Placement of a nasogastric tube 9. Which of the following preoperative studies is most strongly associated with an increased risk of pulmonary-related postoperative complications? A. Blood urea nitrogen B. Incentive spirometry C. Chest radiograph D. Serum albumin E. Room air arterial blood gas 10. A 67-year-old male recovering from a pelvic exenteration secondary to locally advanced rectal cancer is started on total parenteral nutrition for prolonged ileus via a right-sided peripherally inserted central catheter (PICC) line. Several days later his arm becomes swollen. Ultrasound confirms clot in the basilic and axillary veins. What is the appropriate management of his condition? A. Warm compress and nonsteroidal antiinflammatory drugs (NSAIDs) B. Immediately remove the line C. Immediately remove line and then start heparin D. Start heparin and move the line to an alternate site E. Start heparin, keep the line in place, and therapeutic anticoagulation for 3 to 6 months 11. A 76-year-old diabetic male is admitted to the surgical intensive care unit after a fall. His injuries include a right femoral neck fracture and subarachnoid hemorrhage. He continues to have intermittent elevation in his intracranial pressure and is still requiring respiratory support after 2 days. Which of the following is true regarding nutritional supplementation in this patient? A. Postpyloric feeding may reduce his risk of"
+    }
+   ]
+  },
+  {
+   "k": "7dc2b3390c",
+   "stem": "Un hombre diabético de 76 años ingresa en la unidad de cuidados intensivos quirúrgicos después de una caída. Sus lesiones incluyen una fractura del cuello femoral derecho y hemorragia subaracnoidea. Sigue teniendo elevación intermitente de su presión intracraneal y sigue necesitando asistencia respiratoria después de 2 días. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la suplementación nutricional en este paciente?",
+   "opts": [
+    "La alimentación pospilórica puede reducir el riesgo de desarrollar neumonía.",
+    "La alimentación gástrica se asocia con una mayor duración de la estadía en la UCI.",
+    "Los pacientes diabéticos tienen mejores resultados con la alimentación gástrica que con la pospilórica.",
+    "La alimentación pospilórica simula más de cerca la alimentación fisiológica normal.",
+    "La alimentación gástrica se asocia con una mayor nutrición total."
+   ],
+   "tema": "nutricion",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 468,
+     "texto": "Postoperative deep-breathing exercises C. Postoperative use of continuous positive airway pressure D. Smoking cessation 1 week before surgery E. Placement of a nasogastric tube 9. Which of the following preoperative studies is most strongly associated with an increased risk of pulmonary-related postoperative complications? A. Blood urea nitrogen B. Incentive spirometry C. Chest radiograph D. Serum albumin E. Room air arterial blood gas 10. A 67-year-old male recovering from a pelvic exenteration secondary to locally advanced rectal cancer is started on total parenteral nutrition for prolonged ileus via a right-sided peripherally inserted central catheter (PICC) line. Several days later his arm becomes swollen. Ultrasound confirms clot in the basilic and axillary veins. What is the appropriate management of his condition? A. Warm compress and nonsteroidal antiinflammatory drugs (NSAIDs) B. Immediately remove the line C. Immediately remove line and then start heparin D. Start heparin and move the line to an alternate site E. Start heparin, keep the line in place, and therapeutic anticoagulation for 3 to 6 months 11. A 76-year-old diabetic male is admitted to the surgical intensive care unit after a fall. His injuries include a right femoral neck fracture and subarachnoid hemorrhage. He continues to have intermittent elevation in his intracranial pressure and is still requiring respiratory support after 2 days. Which of the following is true regarding nutritional supplementation in this patient? A. Postpyloric feeding may reduce his risk of developing pneumonia B. Gastric feeding is associated with a longer length of ICU stay C. Diabetic patients have better outcomes with gastric versus postpyloric feedings D. Postpyloric feeding more closely simulates normal physiologic"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 272,
+     "texto": "riesgo de aspiración orofaríngea, debido a la combinación de dismotilidad faríngea, reflujo gastroesofágico y mala higiene bucal en esta población. Los microorganismos habituales en la neumonía por aspiración son E. coli, Klebsiella spp., Staphylococcus spp., Pseudomonas spp. y Bacteroides spp. La patogenia y los resultados de la aspiración gástrica dependen de la naturaleza de la materia aspirada, del volumen y el pH del ácido gástrico, y del estado inmunitario del paciente. Cuanto más ácido (pH < 2,5) y voluminoso (> 20 ml) sea el aspirado, mayor será la gravedad del daño pulmonar. Sin embargo, la aspiración de líquido gástrico con partículas provoca un daño pulmonar importante y persistente independiente de la acidez. Los cambios inflamatorios iniciales del parénquima (edema del espacio aéreo, hemorragia o membrana hialina) en el síndrome de Mendelson son similares al síndrome de dificultad respiratoria aguda (SDRA) y se atribuyen a la activación y el reclutamiento de neutrófilos y a la liberación de citocinas inflamatorias (TNF e IL-8). La aspiración de partículas provoca la muerte por obstrucción de las vías respiratorias o una reacción granulomatosa futura a las partículas extrañas. Algunos médicos consideran que el riesgo de aspiración se puede reducir controlando los volúmenes residuales gástricos en los pacientes alimentados por sonda. Sin embargo, no hay consenso sobre los límites seguros o inseguros. El riesgo de aspiración es mayor con alimentaciones en embolada que con alimentación continua. Se ha propuesto usar sondas nasogástricas de pequeño calibre para disminuir la neumonía por aspiración y el reflujo. Algunos centros prefieren utilizar sondas de alimentación de doble luz, que permiten la alimentación pospilórica y la descompresión gástrica simultáneas."
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 245,
+     "texto": "patients, particularly in the intensive care unit. The kidney is primarily responsible for magnesium homeostasis through regulation by calcium/magnesium receptors on renal tubular cells that sense serum magnesium levels. Hypomagnesemia results from a variety of causes ranging from poor intake (starvation, alcoholism, prolonged administration of IV fluids, and total parenteral nutrition with inadequate supplementation of magnesium), increased renal excretion (alcohol, most diuretics, and amphotericin B), gastrointestinal losses (diarrhea), malabsorption, acute pancreatitis, diabetic ketoacidosis, and primary aldosteronism. Magnesium depletion is characterized by neuromuscular and central nervous system hyperactivity, and symptoms are similar to those of calcium deficiency. Signs 217 CHAPTER 15 Surgical Critical Care include hyperactive reflexes, muscle tremors, and tetany with a positive Chvostek sign. Severe deficiencies can lead to delirium and seizures. Electrocardiographic changes including prolonged QT and PR intervals, ST-segment depression, flattening or inversion of P waves, torsade de pointes, and arrhythmias can also be seen (B-E). When hypokalemia or hypocalcemia coexists with hypomagnesemia, magnesium should be aggressively replaced to assist in restoring potassium or calcium homeostasis. 26. C. Treatment of hypermagnesemia includes withholding exogenous sources of magnesium, correcting volume deficits, and correcting acidosis if present. To manage acute symptoms, calcium chloride should be administered to antagonize the cardiovascular effects (C). If elevated levels or symptoms persist, dialysis is indicated (E). Insulin, dextrose, and dialysis are typically used in the treatment of hyperkalemia (A, B, D). 27. C. PEEP increases intrathoracic pressure, which"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 138,
+     "texto": "114 I Principios básicos en cirugía entérica y la utilidad de la nutrición trófica, la seguridad de la nutrición pospilórica perioperatoria ininterrumpida y los efectos secundarios inflamatorios del tratamiento nutricional abundante en grasa.4 Quizás aún más importante, la investigación sobre nutrición en quemaduras resultó crítica en uno de los cambios de paradigma fundamentales en la nutrición quirúrgica: en modelos animales y estudios humanos de lesión térmica se demostró que los déficits de proteínas y calorías resistentes observados con esta lesión estaban ligados directamente a relaciones"
+    }
+   ]
+  },
+  {
+   "k": "ea6a37643f",
+   "stem": "Una mujer obesa de 55 años con enfermedad pulmonar obstructiva crónica (EPOC) está siendo sometida a una evaluación preoperatoria para la reparación de una hernia ventral. Tiene antecedentes de fumar 30 paquetes-año, aunque dejó de fumar hace 1 año. Sus síntomas de EPOC están bien controlados con su régimen de medicación actual y su último ingreso por exacerbación de EPOC fue hace más de 2 años. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la evaluación de riesgos de complicaciones pulmonares posoperatorias en esta paciente?",
+   "opts": [
+    "La obesidad no es un factor de riesgo significativo.",
+    "Se deben realizar pruebas de función pulmonar preoperatorias (PFT).",
+    "Se debe utilizar una sonda nasogástrica",
+    "La laparotomía de la línea media superior y de la línea media inferior confieren un riesgo similar de complicaciones pulmonares.",
+    "Una Paco2 de más de 45 es una contraindicación absoluta para una cirugía abdominal mayor."
+   ],
+   "tema": "eras",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 468,
+     "texto": "C. Immediately remove line and then start heparin D. Start heparin and move the line to an alternate site E. Start heparin, keep the line in place, and therapeutic anticoagulation for 3 to 6 months 11. A 76-year-old diabetic male is admitted to the surgical intensive care unit after a fall. His injuries include a right femoral neck fracture and subarachnoid hemorrhage. He continues to have intermittent elevation in his intracranial pressure and is still requiring respiratory support after 2 days. Which of the following is true regarding nutritional supplementation in this patient? A. Postpyloric feeding may reduce his risk of developing pneumonia B. Gastric feeding is associated with a longer length of ICU stay C. Diabetic patients have better outcomes with gastric versus postpyloric feedings D. Postpyloric feeding more closely simulates normal physiologic feeding E. Gastric feeding is associated with increased total nutrition 12. A 55-year-old obese female with chronic obstructive pulmonary disease (COPD) is undergoing preoperative evaluation for ventral hernia repair. She has a 30 pack/ year smoking history, though she quit 1 year ago. Her COPD symptoms are well controlled with her current medication regimen, and her last admission for COPD exacerbation was over 2 years ago. Which of the following is true regarding risk assessment for postoperative pulmonary complications in this patient? A. Higher ASA class is a significant risk factor B. Preoperative pulmonary function tests (PFTS) should be obtained C. A nasogastric tube should be used postoperatively to decrease pulmonary complications D. Upper midline and lower midline laparotomy confer similar risk for pulmonary complications E. A PaCO, of more than 45 mmHg is an absolute contraindication to major abdominal"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 355,
+     "texto": "1,3 Obesidad 1,3 EPOC 1,8 ASA, American Society of Anesthesiologist; EPOC, enfermedad pulmonar obstructiva crónica. Modificado de Qaseem A, Snow V, Fitterman N, et al. Risk assessment for and strategies to reduce perioperative pulmonary complications for patients undergoing noncardiothoracic surgery: a guideline from the American College of Physicians. Ann Intern Med. 2006;144:575–580. Los pacientes con asma o enfermedad pulmonar obstructiva crónica deben ser evaluados en el preoperatorio y optimizados antes de la cirugía. La valoración deben incluir anamnesis y exploración física para determinar el uso de broncodilatadores y esteroides, el número y la gravedad de las exacerbaciones respiratorias recientes, los antecedentes de intubación y los factores precipitantes.26 El enfoque para la optimización preoperatoria depende de los antecedentes del paciente y la gravedad de la enfermedad actual, y comprende la utilización de agonistas β2 inhalatorios, anticolinérgicos y esteroides, así como el tratamiento de otras enfermedades concomitantes. La elección de la técnica y los agentes anestésicos depende del estado del paciente y del tipo de cirugía. En los pacientes con enfermedad activa se debe posponer la cirugía programada hasta que el paciente sea tratado de manera adecuada. Los demás factores importantes que permiten predecir posibles complicaciones pulmonares perioperatorias están relacionados con la cirugía y la anestesia: las intervenciones de más de 3 h de duración, la cirugía de urgencia y el uso de la anestesia general. Las operaciones con mayor riesgo de complicaciones pulmonares son las de cirugía abdominal, cirugía torácica, neurocirugía, cirugía de cabeza y cuello, y cirugía vascular. La utilidad de las pruebas de función pulmonar continúa siendo discutible, en"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 473,
+     "texto": "reflux should be considered for postpyloric feeds (C). In terms of timing, there is abundant evidence that earlier enteral feeding in critically ill patients results in better outcomes. Reference: Alkhawaja S, Martin C, Butler RJ, Gwadry-Sridhar F. Post-pyloric versus gastric tube feeding for preventing pneumonia and improving nutritional outcomes in critically ill adults. Cochrane Database Syst Rev. 2015;(8):CD008875. 12. A. Patient-related risk factors for the development of postoperative pulmonary complications include: age more than 50 years, COPD, congestive heart failure, American Society of Anesthesiologists (ASA) class greater than 2, serum albumin less than 3.5 g/L, obstructive sleep apnea, pulmonary hypertension, and current smoking. While a preoperative PaCO, greater than 45 does increase the surgical risk, there is currently no definitive number that prohibits abdominal surgery (E). Current American College of Physicians Guidelines recommend against the routine use of preoperative chest radiography or PFT (B). Although it is important to identity patients with COPD, and some COPD patients may benefit from preoperative interventions, patients who require additional testing can be identified by history of new symptoms or physical examination findings Thus, PFT should be restricted to those who have current symptoms or signs based on history and physical. Location of the surgical incision is an important risk factor for postoperative pulmonary complications, with incisions closer to the diaphragm inferring more risk (D). When patients have been identified as high risk for pulmonary complications, current evidence supports the use of perioperative deep-breathing exercises and incentive spirometry. Routine use of nasogastric decompression has been associated with"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1613,
+     "texto": "67 años que había perdido 4,5 kg de peso en 4 semanas y presentaba antecedentes de tabaquismo de 35 paquetes-año. Dejó de fumar hace 10 años. Manifestaba dolor en el hombro izquierdo desde hacía 4 meses, sin disnea, tos, hemoptisis u otros síntomas. Sus síntomas no mejoraron con los masajes ni con otras manipulaciones musculoesqueléticas. En las radiografías posteroanterior (A) y lateral (B) se identifica una masa de 8,4 cm en el pulmón superior izquierdo. Se aprecia también alguna desviación de la tráquea distal. ￼ FIGURA 58.6 Espirometría con subdivisiones de los volúmenes pulmonares. CI,"
+    }
+   ]
+  },
+  {
+   "k": "53b5577a6b",
+   "stem": "¿Cuál de las siguientes afirmaciones es cierta con respecto a las pruebas de función pulmonar?",
+   "opts": [
+    "La capacidad pulmonar total (TLC) generalmente se reduce con el envejecimiento.",
+    "Un volumen espiratorio forzado en un segundo (FEV1) preoperatorio de menos de 1,5 L es una contraindicación para la lobectomía pulmonar.",
+    "La capacidad de difusión de los pulmones para el monóxido de carbono (DLCO) se mantendrá relativamente constante con la edad siempre que no haya una enfermedad pulmonar intrínseca.",
+    "Un FEV1 posoperatorio porcentual previsto de >40 % es aceptable para una lobectomía, pero no para una neumonectomía.",
+    "La distensibilidad de la pared torácica disminuye con la edad."
+   ],
+   "tema": "eras",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1612,
+     "texto": "distensibilidad de los pulmones. Las pruebas de la función pulmonar (fig. 58.7) permiten evaluar igualmente las funciones de intercambio gaseoso, como la difusión pulmonar del monóxido de carbono (Dlco). El indicador de la reserva pulmonar postoperatoria más utilizado es el volumen espiratorio forzado en 1 s (FEV1) postoperatorio previsible. Dependiendo de otros factores evaluables, la mayoría de los pacientes con un FEV1 superior al 60% previsible puede tolerar una lobectomía anatómica. Si el FEV1 es inferior al 60% del valor previsto, se puede considerar la posibilidad de solicitar otras pruebas para intentar estimar el FEV1 postoperatorio (FEV1 postoperatorio previsible [FEV1-pop]). Para poder calcular la función pulmonar residual postoperatoria tras la resección se utiliza la gammagrafía pulmonar cuantitativa de ventilación-perfusión. Los pacientes con un FEV1-pop del 35-40% deberían tolerar funcionalmente la intervención. La perfusión pulmonar con radionucleótidos cuantitativa (fig. 58.8) ofrece una medida de la función relativa de cada lóbulo y cada pulmón, y permite estimar la función pulmonar: FEV pop FEVpreoperatorio - (1 = ×− 1 1 fracción de perfusión alazona prevista para la resección ) Un FEV1-pop del 30% o menor implica un mayor riesgo de que el paciente necesite oxígeno suplementario o ventilación asistida, pero es necesario considerar cada caso por separado a la hora de denegar la resección quirúrgica a este grupo de pacientes, ya que algunos responden mejor de lo que cabría esperar con una selección minuciosa en centros experimentados. Por último, es probable que en el período postoperatorio inmediato no se pueda calcular el FEV1-pop debido a las limitaciones para la ambulación, el dolor y otros factores psicológicos o físicos. Para medir la capacidad de"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 470,
+     "texto": "PART II Medical Knowledge 442 20. One day after a left colectomy for recurrent diverticulitis, a patient is noted to have an elevation of his serum creatinine. Other laboratories are unremarkable. He has a urine output of 30 to 50 mL/hour. A renal ultrasound shows no evidence of abnormalities with the exception of ascites. Computed tomography (CT) scan demonstrates discontinuity of the left ureter with contrast extravasation at the level of the pelvic brim. Which of the following about this injury is true? A. Immediate reoperation should not be performed B. Placement of ureteral stents would have prevented this complication C. A percutaneous nephrostomy should be placed D. A retrograde stent should be placed E. A ureteroneocystostomy will likely be the best option 21. Two days after sustaining significant crush injury to her bilateral lower extremities from a motor vehicle collision, a 32-year-old female becomes oliguric and is only producing scant dark urine. Urine dipstick reveals 4+ blood, and follow-up urinalysis shows 5 to 10 red blood cells per high power field. Prevention of acute kidney injury is best achieved by which of the following? A. Urgent 4-compartment fasciotomies B. Loop diuretics C. Vigorous IV fluid hydration D. Alkalization of urine with intravenous sodium bicarbonate E. Mannitol 22. Which of the following is true regarding PFTs? A. Total lung capacity (TLC) is generally reduced with aging B. A preoperative forced expiratory volume in one second (FEV,) of less than 1.5 L is a contraindication for pulmonary lobectomy C. Diffusion capacity of the lungs for carbon monoxide (DLCO) will stay relatively constant with age so long as there is no intrinsic lung disease D. Percent-predicted postoperative FEV, of >40% is acceptable for a lobectomy but not for"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1614,
+     "texto": "1590 XI Tórax ￼ FIGURA 58.7 El informe de la función pulmonar aporta todos los datos de la espirometría; estos datos se basan en los valores previstos para la altura y el peso del paciente. En este ejemplo concreto, el volumen espiratorio forzado en 1 s (FEV1) es de 2,26 l tras la administración de broncodilatadores (BD), lo que representa el 80% del valor previsto. La capacidad de difusión del monóxido de carbono (Dlco) es de 23,81 ml/min/mmHg, lo que supone el 105% del valor previsto. CPT, capacidad pulmonar total; CRF, capacidad de reserva funcional; CV, capacidad vital; CVF, capacidad vital forzada; CVIF, capacidad vital inspiratoria forzada; CVL, capacidad vital lenta; FEF, flujo espiratorio forzado; FEM, flujo espiratorio máximo; FIV1, volumen inspiratorio forzado en 1 s; Hb, hemoglobina; IU, inspiración única; VA, volumen alveolar. pectoral mayor, en el pliegue inframamario. Para la esternotomía media se practica una incisión vertical desde la escotadura esternal hasta la apófisis xifoides. Después se utiliza una sierra esternal para dividir el esternón en la línea media. Retrayendo con cuidado, se puede separar el esternón unos 8-10 cm para acceder al mediastino, el corazón, los grandes vasos y los hemitórax derecho e izquierdo. La pleura puede abrirse por ambos lados para explorar el hemitórax. Para cerrar el esternón suele usarse alambre de acero inoxidable. La esternotomía transversal, es mayor que una esternotomía media y causa más molestias al paciente. Esta incisión combina dos incisiones de toracotomía anterior por el pliegue inframamario con la sección transversal del esternón en el cuarto espacio intercostal. Seguidamente, se ligan ambas arterias mamarias internas. Esta técnica resulta ideal para acceder a los hilios derecho e izquierdo, y ofrece mayor"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 476,
+     "texto": "lung volumes, and the diffusion capacity of the lungs. Expected changes with aging include an increase in the functional residual capacity and the residual volume, with a corresponding decrease in the vital capacity. This reciprocal change generally means the TLC is preserved (A). DLCO will also decrease with age (C). Compliance of the lung can be misleading because even though the compliance of the lung tissue itself increases with age, the chest wall compliance is significantly reduced. In general, this means that the overall compliance of the pulmonary system is reduced. Preoperative"
+    }
+   ]
+  },
+  {
+   "k": "d9a8490ad7",
+   "stem": "Un hombre de 65 años con esófago de Barrett y disfagia de reciente aparición está siendo evaluado para una esofagogastroduodenoscopia diagnóstica (EGD), una ecografía endoscópica (EUS) y una biopsia de la mucosa. Está tomando warfarina para la válvula mitral mecánica y tiene antecedentes de accidente cerebrovascular embólico hace 10 años. ¿Qué se recomienda para su régimen anticoagulante antes de este procedimiento?",
+   "opts": [
+    "Suspender la warfarina durante 3 a 5 días y hacer un puente con heparina de bajo peso molecular.",
+    "Suspender la warfarina durante 48 a 72 horas, hacer un puente con heparina no fraccionada y suspender la heparina 4 a 6 horas antes del procedimiento.",
+    "Realizar EGD y EUS mientras se esté tomando warfarina; si está indicado, la biopsia de la mucosa se puede realizar en una fecha posterior después de suspender la warfarina.",
+    "Continuar con la warfarina sin interrupción.",
+    "Suspender la warfarina de 3 a 5 días antes del procedimiento y reiniciarla dentro de las 24 horas posteriores al procedimiento."
+   ],
+   "tema": "eras",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 226,
+     "texto": "farmacocinética de los anticoagulantes para mantener las interrupciones de la anticoagulación crónica lo más breves posible. La warfarina, con una semivida de 36 a 42 h, debe suspenderse 5 días antes de las operaciones programadas, comprobando el TP/INR el día de la cirugía. Si el INR sigue estando por encima de 1,5, se puede administrar vitamina K o plasma fresco congelado antes de la operación según el grado de coagulopatía y la planificación quirúrgica. Como, por lo general, la warfarina tarda 4-5 días en alcanzar un grado terapéutico de anticoagulación, reiniciar este fármaco en las 24 h siguientes a la cirugía tendrá como resultado un promedio de 8 a 9 días de anticoagulación subterapéutica durante el período perioperatorio. Por este motivo, hay que plantear una anticoagulación de transición en pacientes con riesgo muy alto de tromboembolia.34 Estos pacientes son los que presentan un accidente cerebrovascular isquémico reciente, una embolia arterial aguda, una válvula cardíaca mecánica o una tromboembolia venosa con riesgo alto de tromboembolia. Las directrices anteriores también recomendaban la anticoagulación de transición para la fibrilación auricular. Sin embargo, los resultados del estudio doble ciego y controlado con placebo BRIDGE concluyeron que abstenerse de la transición con heparina de bajo peso molecular en estos casos no aumenta el riesgo de tromboembolia arterial y disminuye el riesgo de hemorragia importante.35 Cuando se usa como tratamiento de transición, la heparina no fraccionada se suspende de 4 a 6 h antes de la cirugía, mientras que la heparina de bajo peso molecular debe interrumpirse 24 h antes de la cirugía. En operaciones con alto riesgo de hemorragia hay que reanudar la heparina de bajo peso molecular en dosis terapéuticas de 48 a 72 h"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 470,
+     "texto": "for pulmonary lobectomy C. Diffusion capacity of the lungs for carbon monoxide (DLCO) will stay relatively constant with age so long as there is no intrinsic lung disease D. Percent-predicted postoperative FEV, of >40% is acceptable for a lobectomy but not for a pneumonectomy E. Chest wall compliance decreases with age 23. A 45-year-old male with end-stage renal disease is undergoing placement of a tunneled hemodialysis catheter. During the operation, the anesthesiologist notices a sharp decline in the continuous capnography and the calculated physiologic dead space is increased. This is followed by massive myocardial infarction and cardiac arrest. Which of the following is true regarding this condition? A. Electrocardiogram (ECG) will most commonly demonstrate right heart strain B. A congenital heart defect likely contributed to C. The patient should be positioned left side up D. Bedside transesophageal echocardiography is generally not sensitive enough to detect this complication E. Aspiration from the central line is usually helpful 24. A 65-year-old man with Barrett esophagus and new-onset dysphagia is being evaluated for diagnostic esophagogastroduodenoscopy (EGD), endoscopic ultrasound (EUS), and mucosal biopsy. He is on warfarin for mechanical mitral valve and has a history of embolic stroke 10 years ago. What is recommended for his anticoagulation regimen before this procedure? A. Hold warfarin for 3 to 5 days and bridge with low-molecular-weight heparin B. Hold warfarin for 48 to 72 hours, bridge with unfractionated heparin, and hold heparin 4 to 6 hours before the procedure C. Perform EGD and EUS while therapeutic on warfarin; if indicated, the mucosal biopsy can be performed at a later date after holding D. Continue warfarin without interruption E. Hold"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1178,
+     "texto": "producida por rotura de varices esofágicas. EGD, esofagogastroduodenoscopia, EUP, enfermedad ulcerosa péptica; IBP, inhibidor de la bomba de protones. TABLA 47.1 Clasificación de Forrest para los hallazgos endoscópicos y los riesgos de recidiva hemorrágica en la enfermedad ulcerosa péptica CLASIFICACIÓN RIESGO DE RECIDIVA HEMORRÁGICA Grado Ia Hemorragia activa y pulsátil Alto Grado Ib Hemorragia activa y no pulsátil Alto Grado IIa Vaso visible que no sangra Alto Grado IIb Coágulo adherido Intermedio Grado IIc Úlcera con mancha negra Bajo Grado III Lecho de la úlcera limpio Bajo y que no sangra con una hemorragia activa, así como para aquellas con una úlcera visible (Forrest I-IIa). En casos con un coágulo adherente (Forrest IIb), se extrae el coágulo y se evalúa la úlcera. Las úlceras con una base limpia o una mancha negra secundaria al depósito de hematina (Forrest IIc-III) no requieren tratamiento endoscópico y se tratan con fármacos. Aproximadamente el 25% de los pacientes sometidos a una EGD por HDA precisarán una intervención endoscópica.18 Si la endoscopia no puede lograr la hemostasia, se debería realizar una arteriografía. La cirugía es el siguiente paso si la arteriografía falla o no está disponible. Tratamiento farmacológico. Todos los pacientes con una hemorragia por úlcera gastroduodenal confirmada deberían recibir tratamiento con un IBP. El tratamiento antes de la endoscopia con una dosis alta de un IBP intravenoso se ha asociado con una menor frecuencia de hallazgos de alto riesgo en la endoscopia (Forrest Ia-IIa), lo que lleva a una menor necesidad de intervención endoscópica. Si no se ha iniciado el uso de un IBP antes de la endoscopia, se debería administrar una inyección intravenosa rápida de 80 mg, seguida de una infusión a 8 mg por hora durante 72 h."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1853,
+     "texto": "Todas las trombosis venosas que afecten al sistema femoropoplíteo se tratan con anticoagulación plena. Clásicamente, el tratamiento de la TVP ha consistido en administrar heparina con el fin de mantener el TTP en 60-80 s, seguido de tratamiento con warfarina hasta lograr un INR de 2,5-3,0. Si se utiliza heparina no fraccionada, es importante emplear un régimen de dosis ajustadas según un nomograma. La incidencia de tromboembolias venosas recidivantes aumenta si se prolonga el tiempo hasta conseguir una anticoagulación terapéutica. Por tanto, es importante alcanzar concentraciones terapéuticas en 24 h."
+    }
+   ]
+  },
+  {
+   "k": "f45f723266",
+   "stem": "Un paciente en la unidad de cuidados intensivos quirúrgicos comenzó a recibir alimentación enteral en bolo hace aproximadamente 3 horas y ahora tiene dificultad respiratoria significativa. No se le administraron medicamentos recientemente y el personal de enfermería no notó ningún evento significativo. Después de la intubación, una gasometría arterial muestra una Pao2 de 70 mmHg con una Fio2 del 75 %. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta afección?",
+   "opts": [
+    "Está indicada la broncoscopia temprana.",
+    "Se deben administrar corticosteroides.",
+    "Es más común que sea",
+    "Se ha implicado al factor de necrosis tumoral alfa (TNF-α) y a la interleucina-8 (IL-8) como agentes causantes.",
+    "La alimentación a través de una sonda de gastrostomía endoscópica percutánea (PEG) es superior a la sonda nasogástrica para prevenir esta afección."
+   ],
+   "tema": "nutricion",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 272,
+     "texto": "volúmenes residuales gástricos en los pacientes alimentados por sonda. Sin embargo, no hay consenso sobre los límites seguros o inseguros. El riesgo de aspiración es mayor con alimentaciones en embolada que con alimentación continua. Se ha propuesto usar sondas nasogástricas de pequeño calibre para disminuir la neumonía por aspiración y el reflujo. Algunos centros prefieren utilizar sondas de alimentación de doble luz, que permiten la alimentación pospilórica y la descompresión gástrica simultáneas. Según la American Society of Anesthesiology, no se recomienda de forma rutinaria la administración de medicamentos en el preoperatorio para reducir el pH gástrico cuando no hay un riesgo alto de aspiración pulmonar.11 La relación riesgo-beneficio del uso profiláctico de antagonistas de los receptores H2 o inhibidores de la bomba de protones (IBP) para reducir el pH gástrico es favorable en los pacientes de alto riesgo. Ninguno de estos fármacos es absolutamente fiable para prevenir el riesgo de neumonitis por aspiración. Presentación y diagnóstico La aspiración del contenido gástrico en pacientes sometidos a cirugía programada rara vez da lugar a manifestaciones pulmonares graves. Sin embargo, provoca diversas secuelas pulmonares en los pacientes críticos. La aspiración gástrica causa neumonitis subclínica leve o insuficiencia respiratoria progresiva más grave, con una morbimortalidad importante. Después de un episodio de aspiración, los cambios clínicos y radiográficos comienzan a aparecer en las siguientes 24-36 h. Los signos y síntomas habituales de la aspiración gástrica son fiebre, tos, estertores, disminución de los ruidos respiratorios, sibilancias e infiltrados en la radiografía de tórax. La hipoxia es el signo más temprano y fiable. Se debe obtener una gasometría"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 273,
+     "texto": "en pacientes con enfermedades cardíacas preexistentes como signos o síntomas de insuficiencia cardíaca congestiva (edema de las extremidades inferiores, congestión de venas del cuello y ortopnea). Las radiografías de tórax muestran borramiento perihiliar, líneas B de Kerley, líneas septales, engrosamiento de fisuras, distribución en «ala de murciélago» de la opacificación del espacio aéreo, derrames pleurales y, posiblemente, cardiomegalia en el edema pulmonar cardiógeno. La gasometría arterial muestra hipoxia con aumento de la PaCO2 o acidosis respiratoria. La lesión pulmonar aguda y el SDRA se caracterizan por el empeoramiento agudo de los síntomas respiratorios, normalmente en el plazo de 1 semana tras la lesión clínica. La radiografía de tórax en el SDRA muestra infiltrados bilaterales. La relación PaO2/FiO2 normal es de 500. La gravedad del SDRA se clasifica como leve con una relación PaO2/FiO2 ≤ 300, moderada cuando es < 200 y grave si es < 100.13 Cuando la etiología del edema pulmonar no está clara, la medición de la presión venosa central y la ecocardiografía permiten diferenciar entre el edema pulmonar cardiógeno y el no cardiógeno. Tratamiento Los pacientes con edema pulmonar deben mantenerse sentados y recibirán oxígeno y soporte ventilatorio según esté clínicamente indicado. Se administra oxígeno para mantener la normoxia (SpO2 < 92%; < 88% en pacientes con enfermedad pulmonar obstructiva crónica). La ventilación no invasiva (con presión positiva continua o con dos niveles en las vías respiratorias) es beneficiosa en caso de hipoxemia para reclutar alvéolos y mejorar la oxigenación, pero no debe utilizarse en pacientes con hipotensión o posible neumotórax. En muchos casos, se requiere intubación y ventilación mecánica. Deben administrarse diuréticos si hay"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 147,
+     "texto": "(C). Goblet cells secrete mucus. Paneth cells secrete several substances including lysozyme, tumor necrosis tactor, and cryptidins, which assist in host mucosal defense. There are more than 10 distinct types of enteroendocrine cells that secrete various gut hormones. The interstitial Cajal cell is a specialized cell of mesodermal origin that seems to regulate peristalsis. It is referred to as an intestinal pacemaker cell. The cells normally express KIT, a tyrosine kinase receptor. These cells have been implicated as the cells of origin of References: Miettinen M, Majidi M, Lasota J. Pathology and diagnostic criteria of gastrointestinal stromal tumors (GISTS): a review. Eur | Cancer. 2002;38:S39-S51. Sircar K, Hewlett BR, Huizinga JD, Chorneyko K, Berezin I, Riddell RH. Interstitial cells of Cajal as precursors of gastrointestinal stromal tumors. Am | Surg Pathol. 1999;23(4):377-389. 23. C. The patient has a carcinoid crisis. This has been described after anesthetic induction as well as after other stressful situations such as biopsies or invasive procedures. Carcinoid crisis is characterized by hypotension, bronchospasms, flushing, and tachycardia. The primary treatment is IV octreotide administered as a bolus of 50 to 100 ug. Even 119 CHAPTER 9 Alimentary Tract-Small Bowel more rarely, a carcinoid crisis can manifest with hypertension. Octreotide is effective for a hypertensive crisis as well. Adjunctive treatment with antihistamines may also be of benefit due to frequent histamine release from carcinoid tumors (B). If the above measures do not resolve the crisis, then aborting the procedure may be necessary (D). Dantrolene is the preferred choice of management for malignant hyperthermia (E). This diagnosis is supported by an increase in end-tidal CO2. Corticosteroids"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 457,
+     "texto": "both lung fields on x-ray, and the PaO2/ FiO2 ratio is 180. Low tidal volume ventilation is commenced and the decision to paralyze the patient is made. Which agent should A. Rocuronium B. Vecuronium C. Atracurium besy late D. Suxamethonium chloride E. Pancuronium 5. Which of the following is true with regards to correcting metabolic acidosis? A. Giving bicarbonate alone will be efficient in correcting an acidosis B. Correction will fix the pulmonary vasodilation seen in metabolic acidosis c. Administraton of sodium bicarbonate can lead to hyperkalemia D. Sodium bicarbonate may interfere with oxygen"
+    }
+   ]
+  },
+  {
+   "k": "d3045b78a3",
+   "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al uso de betabloqueantes en el período perioperatorio de pacientes sometidos a cirugía no cardíaca?",
+   "opts": [
+    "Iniciar un betabloqueante dentro de las 24 horas posteriores a la cirugía puede aumentar la incidencia de muerte perioperatoria.",
+    "Los betabloqueantes deben suspenderse al menos 1 semana antes de la cirugía para reducir el riesgo de bradicardia e hipotensión postoperatorias.",
+    "En pacientes con riesgo cardíaco bajo e intermedio, los betabloqueantes deben iniciarse 2 a 3 semanas antes de la cirugía",
+    "Los betabloqueantes deben evitarse incluso en el grupo de alto riesgo cardíaco.",
+    "El inicio perioperatorio de betabloqueantes disminuye la incidencia de accidente cerebrovascular no mortal."
+   ],
+   "tema": "eras",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 279,
+     "texto": "la fibrilación auricular son amiodarona, flecainida, dofetilida, propafenona o ibutilida. En la mayoría de los casos, está indicado controlar la frecuencia antes de iniciar la conversión química. Se debe considerar la cardioversión eléctrica con o sin anticoagulación en pacientes con fibrilación auricular rápida y afectación hemodinámica. Además, se tratarán y corregirán simultáneamente los posibles problemas precipitantes, como infección, sepsis, anomalías ácido-base y electrolíticas, y anemia. Si no se consigue convertir al ritmo sinusal, se debe considerar la anticoagulación a largo plazo en función de los factores de riesgo de cada paciente. La taquicardia supraventricular de complejo estrecho (por reentrada eléctrica de la conducción nodular auriculoventricular) puede tratarse con maniobras vagales, como el masaje del seno carotídeo (en pacientes sin riesgo de accidente cerebrovascular por enfermedad de la arteria carótida) y con adenosina intravenosa o con cardioversión en caso de afectación hemodinámica. Las arritmias ventriculares son menos frecuentes. La contracción ventricular prematura a menudo es asintomática y no aumenta el riesgo de taquicardia ventricular mantenida o fibrilación ventricular, y la evaluación o el tratamiento perioperatorios no siempre son necesarios, a menos que sea frecuente, multifocal o sintomática. El tratamiento de las arritmias ventriculares incluye la corrección de las anomalías electrolíticas (especialmente, potasio y magnesio) o medicamentos. Los más utilizados son los β-bloqueantes, la amiodarona y la lidocaína. En las arritmias ventriculares hemodinámicamente inestables se debe aplicar la cardioversión eléctrica o la desfibrilación junto con la reanimación cardiopulmonar. Las bradiarritmias comprenden la bradicardia sinusal, que"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 218,
+     "texto": "si el riesgo de retrasar más tiempo la cirugía supera al riesgo de trombosis de la endoprótesis e isquemia. Al igual que en cualquier situación asistencial de pacientes de alto riesgo, es obligatoria la comunicación directa entre cirujanos y especialistas médicos, en este caso, cardiólogos. Otros pacientes cardíacos de alto riesgo Los pacientes con insuficiencia cardíaca izquierda o derecha moderada o grave, y/o hipertensión pulmonar significativa (presión de la arteria pulmonar > 25 mmHg) y estenosis aórtica grave (área valvular aórtica < 1 cm2) tienen un riesgo significativamente mayor de muerte. Las operaciones programadas o urgentes en pacientes con estos trastornos cardíacos concomitantes requieren un enfoque multidisciplinar y plantear los riesgos/beneficios. Aunque en algunos pacientes podría ser factible la optimización con tratamiento médico (p. ej., diuréticos) o la sustitución valvular preoperatoria (tradicional o transcatéter), el riesgo de las operaciones programadas en pacientes en los que no es posible mejorar la función cardíaca supera al beneficio potencial de la operación y hay que considerar estrategias terapéuticas no quirúrgicas. Fármacos cardiovasculares perioperatorios Hay indicios sólidos a favor del uso de β-bloqueantes perioperatorios para reducir los acontecimientos cardíacos; no obstante, apenas hay datos indicativos de mejora en la mortalidad quirúrgica. Por el contrario, los β-bloqueantes se asocian con bradicardia, hipotensión y accidente cerebrovascular. Así pues, las directrices del ACC/AHA recomiendan mantener los β-bloqueantes en el período perioperatorio en pacientes que los toman como medicamento preoperatorio establecido. Se pueden iniciar β-bloqueantes perioperatorios en los pacientes con isquemia de miocardio de riesgo intermedio"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 477,
+     "texto": "perioperative corticosteroids. They should be continued on their regular maintenance dose with the consideration of additional steroids only if they develop refractory hypotension suggestive of adrenal insufficiency. While the cosyntropin stimulation test can be instrumental in detecting acute adrenal insufficiency, its usefulness as a preoperative measure for assessing risk of postoperative adrenal crisis is lacking sufficient data to support its routine use. While septic shock in the early postoperative period 449 is possible, this vignette provides insufficient data to point to this diagnosis (C, D). Exploratory laparotomy is not an appropriate option for the above patient (B). References: Brunicardi FC, Andersen DK, Billiar TR, Dunn DL, Hunter JG, Matthews JB, Pollock RE. Schwartz's principles of surgery. 10th ed. McGraw-Hill Education; 2015 Kelly KN, Domajnko B. Perioperative stress-dose steroids. Clin Colon Rectal Surg. 2013;26(3):163-167. Marik PE, Varon J. Requirement of perioperative stress doses of corticosteroids: a systematic review of the literature. Arch Surg. 2008;143(12): 1222-1226. 26. A. The 2008 POISE trial was a randomized controlled trial to measure the effects of perioperative initiation of beta-blockers. The control group received a placebo while the study arm was started on metoprolol on the day of surgery and received it for 30 days postoperatively. The study found that patients who received metoprolol had a lower incidence of myocardial infarction, cardiac revascularization, and clinically significant atrial fibrillation. However, patients in the study arm also had increased mortality, stroke, hypotension, and bradycardia (A, E). This increase in mortality was not seen in the previously published DECREASE trials, which also showed a reduction"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 347,
+     "texto": "protection of the host against NEC. It has always been taught that NEC classically presents with bloody stools after the first feeding. However, the earliest signs are nonspecific, including apnea, bradycardia, lethargy, and temperature instability. The most common GI symptoms are feeding intolerance and high gastric residuals, while the most common sign is abdominal distention. Grossly bloody stools are infrequently seen. Management is initially conservative with NPO, fluid resuscitation, broadspectrum IV antibiotics, TPN, and decompression with an orogastric tube. Surgical intervention is"
+    }
+   ]
+  }
+ ]
+}

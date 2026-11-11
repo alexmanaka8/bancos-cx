@@ -1,0 +1,199 @@
+{
+ "banco": "lozano",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "51693bdeea",
+   "sec": "Quirúrgicas",
+   "stem": "Un hombre de 68 años (70 kg), residente en un asilo, es admitido por estado mental alterado. Tiene hipotensión ortostática. Laboratorios: Na 168, K 4.0, Cl 118, HCO₃ 28, BUN 30, Cr 1.6. ¿Cuál es su déficit de agua libre?",
+   "opts": [
+    "3 L y deben reemplazarse en 12 h",
+    "4 L y deben reemplazarse en 24 h",
+    "5 L y 2.5 L deben reemplazarse en 24 h",
+    "6 L y 3 L deben reemplazarse en 24 h",
+    "10 L y 5 L deben reemplazarse en 24 h"
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 24,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia solo trae el enunciado y una respuesta cortada antes del cálculo. No aparece la fórmula del déficit de agua libre ni la opción correcta. Además, la opción D no coincide: en el archivo dice 6 L y 3 L, y en el fragmento de ABSITE dice 7 L y 3.5 L. Hay que revisar esa opción en la fuente original antes de decidir.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "f762357011",
+   "sec": "Quirúrgicas",
+   "stem": "¿Cuál de los siguientes cambios ECG es el MENOS probable en hipokalemia?",
+   "opts": [
+    "Depresión del segmento ST",
+    "Inversión de la onda T",
+    "Bloqueo AV de segundo o tercer grado",
+    "Complejos ventriculares prematuros",
+    "Ondas U"
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 24,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos hablan del ECG en cardiopatía isquémica y de la hiperpotasemia, no de la hipokalemia. Ningún fragmento dice cuál cambio es el menos probable en hipokalemia. El texto de ABSITE sobre hipomagnesemia se corta antes de las conclusiones. Por eso no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "5c24017389",
+   "sec": "Quirúrgicas",
+   "stem": "Una mujer de 42 años con cáncer de mama metastásico está letárgica y con cambios mentales. Calcio: 14.5 mg/dL, FA: 2000 UI/L, BUN: 42, Cr: 1.1. ¿Cuál es el tratamiento inicial?",
+   "opts": [
+    "Mitramicina",
+    "Bifosfonatos",
+    "Diuréticos de asa",
+    "Diuréticos tiazídicos",
+    "Suero fisiológico"
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 24,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Ningún fragmento dice cuál es el tratamiento inicial de la hipercalcemia. La única mención de bifosfonatos es un título de una referencia bibliográfica sobre ácido zoledrónico, y no sirve como prueba por sí sola. La explicación de ABSITE se corta antes de la respuesta. Sabiston habla de hipocalcemia crónica y de tiazidas para la hipercalciuria, que no responde esta pregunta.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "a734be78e7",
+   "sec": "Quirúrgicas",
+   "stem": "¿Cuál de las siguientes variables tiene MENOR influencia en la entrega de oxígeno?",
+   "opts": [
+    "Hemoglobina",
+    "Contractilidad cardíaca",
+    "Frecuencia cardíaca",
+    "Concentración de monóxido de carbono",
+    "Presión parcial de oxígeno disuelto en sangre"
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 24,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia indica que la respuesta es la E (oxígeno disuelto en sangre), pero el texto se corta justo antes de explicar por qué es la de menor influencia. Sí dice que el gasto cardíaco y la contractilidad afectan la entrega de oxígeno. También muestra que el oxígeno disuelto aporta PaO2 × 0.003 en el contenido de oxígeno, pero no lo compara con la hemoglobina ni con el monóxido de carbono en el texto disponible. Por eso no decido.",
+    "tema": "shock"
+   }
+  },
+  {
+   "k": "e63dcc79fe",
+   "sec": "Quirúrgicas",
+   "stem": "Un hombre de 25 años con diabetes mellitus insulinodependiente es admitido a la UCI con hiperglucemia severa. Tiene 1 día de náuseas, vómitos y diarrea, y suspendió la insulina por baja ingesta. PA: 100/60 mmHg, FC: 104 lpm, FR: 28 rpm, T°: 99°F (37.2°C). Mucosas secas y dolor abdominal difuso leve. Laboratorio: Na 135, K 3.5, Cl 110, CO₂ 8, BUN 22, Cr 1.2, albúmina 4.1, glucosa 350. Gasometría: pH 7.25, PaCO₂ 20 mmHg, PaO₂ 95 mmHg. Cetonas positivas 1:8. ¿Cuál es la mejor explicación para la alteración ácido-base?",
+   "opts": [
+    "Cetoacidosis diabética",
+    "Cetoacidosis diabética con hiperventilación",
+    "Cetoacidosis diabética y diarrea",
+    "Cetoacidosis diabética y náuseas/vómitos",
+    "Error de laboratorio"
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 24,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Ningún fragmento habla de este caso de cetoacidosis con náuseas, vómitos y diarrea, ni da la respuesta. El texto de ABSITE sobre hiponatremia se corta antes de la conclusión. Sabiston habla de gastroparesia y de pruebas de función pulmonar, que no responden la pregunta. Para decidir faltaría la explicación de la alteración ácido-base de este caso.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "3b54043cbb",
+   "sec": "Quirúrgicas",
+   "stem": "Un hombre de 54 años que pesa 100 lb acu a urgencias tras 3 días de vómitos y pérdida de lb. Electrolitos: Na 136, K 3.1, Cl 88, CO₂ 37. ¿Qué estudio es más útil para determinar la cau de su trastorno ácido-base?",
+   "opts": [
+    "Sodio urinario",
+    "Creatinina urinaria",
+    "Cloro urinario",
+    "pH urinario",
+    "Potasio urinario"
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 25,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Ningún fragmento dice qué estudio urinario ayuda a encontrar la causa de este trastorno ácido-base. El texto de ABSITE sobre hiponatremia se corta antes de su explicación y no menciona el cloro urinario. Sabiston habla de líquidos de mantenimiento y de laboratorio en dolor abdominal, pero no responde esta pregunta. Por eso no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "f17e040c3f",
+   "sec": "Quirúrgicas",
+   "stem": "En el shock hemorrágico, ¿cuál es el signo más preciso de una reanimación adecuada con líquidos?",
+   "opts": [
+    "Aumento de la presión arterial",
+    "Aumento de la diuresis",
+    "Aumento de la oxigenación arterial",
+    "Disminución de la sed",
+    "Disminución de la taquicardia"
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 25,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos hablan de signos de shock en el paciente lesionado y de la presión intraabdominal, pero no dicen cuál signo es el más preciso de reanimación adecuada. Sabiston menciona que la diuresis baja en el shock, y Giménez dice que la diuresis debe mantenerse sobre 40 mL/h en hemorragia digestiva en cirróticos. Ninguno compara los signos de la pregunta, así que no decido.",
+    "tema": "shock"
+   }
+  },
+  {
+   "k": "e15120ef47",
+   "sec": "Quirúrgicas",
+   "stem": "Una mujer de 50 años séptica por colangitis ascendente es transferida a la UCI quirúrgica. S le realiza colecistectomía y exploración del colédoco tras una esfinterotomía fallida. Por hipotensión y escasa diuresis se coloca un Swan-Ganz. ¿Cuál de los siguientes valores es MENOS consistente con su cuadro clínico?",
+   "opts": [
+    "Presión venosa central: 5 cm H₂O",
+    "RVS: 300 dyn·s/cm⁵",
+    "Índice cardíaco: 2.0 L/min/m²",
+    "Presión de enclavamiento capilar pulmonar: cm H₂O",
+    "SvO₂: 86%"
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 25,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos no dan la evidencia sobre cuál valor es menos consistente con esta paciente séptica con colangitis. Sabiston habla del taponamiento cardíaco y de su signo inicial, que no responde esta pregunta. ABSITE habla de sedación en UCI, que tampoco responde. Además, la opción de PCWP en el archivo no tiene número (dice solo cm H2O), y conviene corregirla en la fuente.",
+    "tema": "shock"
+   }
+  }
+ ]
+}

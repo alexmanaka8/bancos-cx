@@ -6,6 +6,7 @@
 <meta name="robots" content="noindex,nofollow">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#1E5FA8">
+<script>try{var t=JSON.parse(localStorage.getItem("pwa:ajustes")).tema;if(t==="light"||t==="dark"){document.documentElement.setAttribute("data-theme",t);document.querySelector('meta[name="theme-color"]').content=t==="dark"?"#0B1C33":"#1E5FA8"}}catch(e){}</script>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Bancos Cx">
@@ -23,26 +24,33 @@
   <a href="#estadisticas" data-ir="estadisticas"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg><span>Estadísticas</span></a>
   <a href="#bancos" data-ir="bancos"><svg viewBox="0 0 24 24"><path d="M12 3l9 4.5-9 4.5-9-4.5zM3 12l9 4.5 9-4.5M3 16.5l9 4.5 9-4.5"/></svg><span>Bancos</span></a>
   <a href="#biblioteca" data-ir="biblioteca"><svg viewBox="0 0 24 24"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3H20v15H5.5A1.5 1.5 0 0 0 4 19.5zM4 19.5A1.5 1.5 0 0 0 5.5 21H20v-3"/></svg><span>Biblioteca</span></a>
+  <div class="tema-nav"><small>Aspecto</small><div class="seg chico sel-tema" role="group" aria-label="Aspecto de la app"></div></div>
 </nav>
 
 <main class="main">
   <!-- INICIO -->
   <section class="vista" id="v-inicio">
-    <header class="hero">
-      <div class="kicker">Cirugía I · Generales</div>
-      <h1 id="saludo">Bancos de preguntas</h1>
-      <p id="resumenTotal">Cargando…</p>
+    <header class="hero hero-fila">
+      <div>
+        <div class="kicker">Cirugía I · Generales</div>
+        <h1 id="saludo">Bancos de preguntas</h1>
+        <p id="resumenTotal">Cargando…</p>
+      </div>
+      <div class="meta-box" id="metaBox"></div>
     </header>
+    <div class="meta-elegir" id="metaElegir" hidden></div>
     <div class="cuentas" id="cuentas"></div>
+    <div id="repasoHoy"></div>
     <div id="continuar"></div>
     <div id="semanaHoy"></div>
     <h2 class="section-title">¿Qué quieres hacer?</h2>
     <div class="opciones">
-      <a class="opcion o1" href="#practicar/tema"><span class="ico">◎</span><b>Un tema</b><small>Solo las preguntas de un tema del sílabo</small></a>
-      <a class="opcion o2" href="#practicar/semana"><span class="ico">▦</span><b>Por semana</b><small>Los temas de una semana del cronograma</small></a>
-      <a class="opcion o3" href="#practicar/examen"><span class="ico">✎</span><b>Examen a medida</b><small>Tú eliges temas o semanas y cuántas</small></a>
-      <a class="opcion o4" href="#simulacro"><span class="ico">⏱</span><b>Simulacro</b><small>45 preguntas en 25 minutos</small></a>
+      <a class="opcion o1" href="#practicar/tema"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7.5"/><circle cx="12" cy="12" r="2.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg></span><b>Un tema</b><small>Solo las preguntas de un tema del sílabo</small></a>
+      <a class="opcion o2" href="#practicar/semana"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg></span><b>Por semana</b><small>Los temas de una semana del cronograma</small></a>
+      <a class="opcion o3" href="#practicar/examen"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.2-4.6L16.6 4a2.1 2.1 0 0 1 3 3L8.2 18.8z"/><path d="M14.5 6.2l3.3 3.3"/></svg></span><b>Examen a medida</b><small>Tú eliges temas o semanas y cuántas</small></a>
+      <a class="opcion o4" href="#simulacro"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="13.5" r="7.5"/><path d="M12 9.5v4l2.5 2M9.5 2.5h5M12 2.5V6"/></svg></span><b>Simulacro</b><small>45 preguntas en 25 minutos</small></a>
     </div>
+    <div id="enamAcceso"></div>
     <h2 class="section-title">Tu avance</h2>
     <div class="mini-stats" id="miniStats"><p class="muted">Calculando…</p></div>
     <div id="criticosInicio"></div>
@@ -53,6 +61,8 @@
         <button class="linkbtn" id="exportar" type="button">Hacer copia de seguridad</button>
         <label class="linkbtn" style="display:inline-flex;align-items:center">Restaurar copia<input type="file" id="importar" accept="application/json,.json" hidden></label>
       </div>
+      <div class="row"><span>Aspecto:</span><div class="seg chico sel-tema" role="group" aria-label="Aspecto de la app"></div></div>
+      <div class="row"><label class="check" style="min-height:44px"><input type="checkbox" id="chkVibrar"> Vibrar al acertar o fallar (si tu teléfono puede)</label></div>
       <div class="row" id="estadoRed"></div>
     </footer>
   </section>
@@ -64,10 +74,12 @@
       <a href="#practicar/tema" data-sub="tema" role="tab">Un tema</a>
       <a href="#practicar/semana" data-sub="semana" role="tab">Por semana</a>
       <a href="#practicar/examen" data-sub="examen" role="tab">A medida</a>
+      <a href="#practicar/repaso" data-sub="repaso" role="tab">Repaso</a>
     </div>
     <div id="p-tema" class="sub"></div>
     <div id="p-semana" class="sub" hidden></div>
     <div id="p-examen" class="sub" hidden></div>
+    <div id="p-repaso" class="sub" hidden></div>
   </section>
 
   <!-- SIMULACRO -->
@@ -88,7 +100,7 @@
   <!-- BANCOS -->
   <section class="vista" id="v-bancos" hidden>
     <header class="hero"><div class="kicker">Bancos</div><h1>Bancos originales</h1>
-      <p>Cada banco tal como venía, solo con las preguntas verificadas con libros.</p></header>
+      <p>Cada banco tal como venía, solo con preguntas que ya tienen su clave revisada y su explicación.</p></header>
     <div class="list" id="bancos"></div>
   </section>
 
@@ -137,6 +149,7 @@
     else cat4 = 'fallada';
     return { h, f, cat4 };
   };
+  const REP = App.repaso(Qs);   // repaso espaciado: qué toca hoy, mañana, esta semana
   const E = Qs.map(q => Object.assign({ q }, estado(q)));
   const porTema = {};
   temas.forEach(t => porTema[t.id] = { t, n: 0, vistas: 0, bien: 0, mal: 0 });
@@ -183,8 +196,8 @@
     $$('.nav a').forEach(a => a.toggleAttribute('aria-current', a.dataset.ir === vista));
     if (!hechas[vista]) { hechas[vista] = 1; ({ inicio: rInicio, practicar: rPracticar, simulacro: rSimulacro, estadisticas: rEstadisticas, bancos: rBancos, biblioteca: rBiblio })[vista](); }
     if (vista === 'practicar') {
-      const s = ['tema', 'semana', 'examen'].includes(sub) ? sub : 'tema';
-      ['tema', 'semana', 'examen'].forEach(x => $('#p-' + x).hidden = x !== s);
+      const s = ['tema', 'semana', 'examen', 'repaso'].includes(sub) ? sub : 'tema';
+      ['tema', 'semana', 'examen', 'repaso'].forEach(x => $('#p-' + x).hidden = x !== s);
       $$('.tabs a').forEach(a => a.setAttribute('aria-selected', a.dataset.sub === s));
     }
     const sec = $('#v-' + vista); sec.classList.remove('entra'); void sec.offsetWidth; sec.classList.add('entra');
@@ -197,6 +210,11 @@
     const h = new Date().getHours();
     $('#saludo').textContent = h < 12 ? 'Buenos días' : h < 19 ? 'Buenas tardes' : 'Buenas noches';
     $('#resumenTotal').textContent = `${total.toLocaleString('es')} preguntas verificadas con libros` + (vistas ? ` · has visto ${vistas.toLocaleString('es')}` : '');
+    rMeta(); rRepasoCard();
+    // acceso directo al banco destacado (si existe)
+    const dest = cat.bancos.find(b => b.destacado);
+    $('#enamAcceso').innerHTML = dest ? `<a class="enam-acceso" href="${esc(dest.url)}"><span class="etq-enam">ENAM 2026</span>
+      <span class="cuerpo"><b>Examen nacional comentado</b><small>${dest.n} preguntas de nuestros temas, ya resueltas</small></span><span class="chev" aria-hidden="true">›</span></a>` : '';
     // cuentas regresivas
     const prox = crono.eventos.filter(e => diasA(e.fecha) >= 0);
     const evs = prox.slice(0, 1).concat(finalEv && prox[0] !== finalEv && diasA(finalEv.fecha) >= 0 ? [finalEv] : []);
@@ -231,6 +249,53 @@
     const crit = criticos();
     if (crit.length) $('#criticosInicio').innerHTML = `<div class="criticos"><h3>Tus 3 temas críticos</h3>${crit.map(filaCritico).join('')}</div>`;
   }
+  // ---------- meta diaria y racha ----------
+  function rMeta() {
+    const m = App.metaEstado(reg);
+    const pct = Math.min(100, m.hoy / m.meta * 100);
+    $('#metaBox').innerHTML = `<div class="ring meta ${m.cumplida ? 'lista' : ''}" style="--p:${pct}" role="img" aria-label="Respuestas de hoy: ${m.hoy} de ${m.meta}"><b>${m.hoy}</b></div>
+      <div class="txt">de ${m.meta} hoy${m.cumplida ? ' ✓' : ''}</div>
+      <div class="racha ${m.racha ? '' : 'off'}">🔥 ${m.racha} ${m.racha === 1 ? 'día' : 'días'}</div>
+      <button class="linkbtn" type="button" id="cambiarMeta">Cambiar meta</button>`;
+    $('#metaElegir').innerHTML = `<span>¿Cuántas preguntas quieres responder cada día? La racha cuenta los días seguidos en que llegas a tu meta.</span>` +
+      [10, 20, 30, 45, 60].map(n => `<button type="button" class="chip" data-meta="${n}" aria-pressed="${n === m.meta}">${n}</button>`).join('');
+    $('#cambiarMeta').onclick = () => { $('#metaElegir').hidden = !$('#metaElegir').hidden; };
+  }
+  $('#metaElegir').addEventListener('click', e => {
+    const b = e.target.closest('[data-meta]'); if (!b) return;
+    App.guardarAjustes({ meta: +b.dataset.meta });
+    rMeta(); $('#metaElegir').hidden = true;
+  });
+
+  // ---------- repaso de hoy ----------
+  const ICO_REP = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14-4.5L4 9M4 4v5h5M4 13a8 8 0 0 0 14 4.5L20 15M20 20v-5h-5"/></svg>';
+  const pl = (n, uno, varios) => n === 1 ? uno : varios;
+  function rRepasoCard() {
+    const n = REP.hoy.length;
+    if (!n && !REP.programadas) { $('#repasoHoy').innerHTML = ''; return; }   // todavía no hay nada que repasar
+    if (n) {
+      $('#repasoHoy').innerHTML = `<div class="repaso-card"><span class="ico">${ICO_REP}</span><div class="cuerpo">
+        <div class="kicker">Repaso espaciado</div><h2>Repaso de hoy · ${n} ${pl(n, 'pregunta', 'preguntas')}</h2>
+        <p>Vuelven justo antes de olvidarlas.${n > 30 ? ' Se hacen de 30 en 30.' : ''}${REP.manana ? ` Mañana te tocan ${REP.manana} más.` : ''}</p>
+        <a class="btn amber" href="banco.html?repaso=1">Empezar repaso</a></div></div>`;
+    } else {
+      $('#repasoHoy').innerHTML = `<div class="repaso-card alDia"><span class="ico">${ICO_REP}</span><div class="cuerpo">
+        <div class="kicker">Repaso espaciado</div><h2>Repaso de hoy · al día ✓</h2>
+        <p>${REP.manana ? `Mañana te ${pl(REP.manana, 'toca', 'tocan')} ${REP.manana} ${pl(REP.manana, 'pregunta', 'preguntas')}.` : 'No tienes nada pendiente por ahora.'}</p></div></div>`;
+    }
+  }
+  function rRepasoTab() {
+    const n = REP.hoy.length;
+    $('#p-repaso').innerHTML = `<p class="nota">Las preguntas que fallas vuelven mañana. Las que aciertas vuelven cada vez más tarde (3, 7, 14 y 30 días), justo antes de que las olvides. Se calcula solo con lo que ya respondiste.</p>
+      <div class="rep-grid">
+        <div class="rep-n hoy"><b>${n}</b><span>Hoy</span><small>te tocan ahora</small></div>
+        <div class="rep-n"><b>${REP.manana}</b><span>Mañana</span><small>te tocan mañana</small></div>
+        <div class="rep-n"><b>${REP.semana}</b><span>Esta semana</span><small>en los próximos 7 días</small></div>
+        <div class="rep-n dom"><b>${REP.dominadas}</b><span>Dominadas</span><small>3 o más aciertos seguidos</small></div>
+      </div>
+      ${n ? `<a class="btn amber block big-btn" href="banco.html?repaso=1">Empezar el repaso de hoy · ${Math.min(n, 30)} ${pl(Math.min(n, 30), 'pregunta', 'preguntas')}</a>${n > 30 ? '<p class="muted chico" style="text-align:center">Se hacen de 30 en 30; al terminar puedes seguir con el resto.</p>' : ''}`
+        : `<div class="card-note"><b>${REP.programadas ? 'Estás al día ✓' : 'Todavía no hay nada que repasar'}</b>${REP.programadas ? 'No tienes repasos pendientes hoy.' : 'Responde algunas preguntas y aquí verás cuándo toca repasarlas.'}</div>`}`;
+  }
   function criticos() {
     return Object.values(porTema).filter(x => x.bien + x.mal >= 5 && x.mal > 0)
       .sort((a, b) => b.mal / (b.bien + b.mal) - a.mal / (a.bien + a.mal)).slice(0, 3);
@@ -262,6 +327,7 @@
 
     // examen a medida
     rExamen();
+    rRepasoTab();
   }
   function tarjetaSemana(s, modo) {
     const ts = temasDe(s.n);
@@ -432,13 +498,16 @@
 
   // ---------- BANCOS ----------
   function rBancos() {
-    $('#bancos').innerHTML = cat.bancos.map(b => {
+    const orden = cat.bancos.filter(b => b.destacado).concat(cat.bancos.filter(b => !b.destacado));
+    $('#bancos').innerHTML = orden.map(b => {
       const p = b.tipo === 'html' ? App.cargarHtml(b.clave) : almacen[b.id];
       const r = App.resumen(p.hist || {}, b.n || 0);
       const pctBien = r.total ? r.bien / r.total * 100 : 0, pctMal = r.total ? r.mal / r.total * 100 : 0;
-      return `<a class="bank" href="${esc(b.url)}">
+      return `<a class="bank${b.destacado ? ' destacado' : ''}" href="${esc(b.url)}">
         <span class="chev" aria-hidden="true">›</span>
+        ${b.destacado ? '<span class="etq-enam">ENAM 2026</span>' : ''}
         <h3>${esc(b.nombre)}</h3>
+        ${b.destacado ? '<p class="desc-dest">Preguntas de examen nacional ya resueltas y comentadas, solo de nuestros temas</p>' : ''}
         <div class="sub">${b.n ?? '?'} preguntas${b.altoValor ? ` · ⭐ ${b.altoValor} de alto valor` : ''}</div>
         <div class="track"><i class="ok" style="width:${pctBien}%"></i><i class="ko" style="width:${pctMal}%"></i></div>
         <div class="stats">${r.vistas
@@ -450,7 +519,7 @@
   // ---------- BIBLIOTECA ----------
   function rBiblio() {
     $('#biblioteca').innerHTML = cat.biblioteca.map(d =>
-      `<a class="doc" href="biblioteca.html?id=${encodeURIComponent(d.id)}"><span class="ico-doc" aria-hidden="true">📄</span><span>${esc(d.nombre)}</span><small>${d.paginas} pág.</small></a>`).join('');
+      `<a class="doc" href="biblioteca.html?id=${encodeURIComponent(d.id)}"><span class="ico-doc" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l5 5v13H6z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg></span><span>${esc(d.nombre)}</span><small>${d.paginas} pág.</small></a>`).join('');
     $('#bajarBiblio').onclick = async () => {
       const btn = $('#bajarBiblio'); btn.disabled = true;
       const urls = cat.biblioteca.flatMap(d => Array.from({ length: d.paginas }, (_, i) => `biblioteca/${d.id}/${String(i + 1).padStart(3, '0')}.jpg`));
@@ -478,6 +547,19 @@
       <div style="margin-top:10px"><button class="btn" type="button" id="btnInstalar">Instalar app</button></div></div>`;
     $('#btnInstalar').onclick = () => { e.prompt(); };
   });
+
+  // ---------- aspecto: claro / oscuro / automático ----------
+  function rTema() {
+    const t = App.ajustes().tema;
+    $$('.sel-tema').forEach(el => { el.innerHTML = [['auto', 'Automático'], ['light', 'Claro'], ['dark', 'Oscuro']].map(([k, n]) => `<button type="button" data-tema="${k}" aria-pressed="${t === k}">${n}</button>`).join(''); });
+  }
+  document.addEventListener('click', e => {
+    const b = e.target.closest('.sel-tema [data-tema]'); if (!b) return;
+    App.fijarTema(b.dataset.tema); rTema();
+  });
+  rTema();
+  $('#chkVibrar').checked = App.ajustes().vibrar;
+  $('#chkVibrar').onchange = e => App.guardarAjustes({ vibrar: e.target.checked });
 
   // ---------- copia de seguridad ----------
   $('#exportar').onclick = App.exportar;

@@ -6,6 +6,7 @@
 <meta name="robots" content="noindex,nofollow">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#1E5FA8">
+<script>try{var t=JSON.parse(localStorage.getItem("pwa:ajustes")).tema;if(t==="light"||t==="dark"){document.documentElement.setAttribute("data-theme",t);document.querySelector('meta[name="theme-color"]').content=t==="dark"?"#0B1C33":"#1E5FA8"}}catch(e){}</script>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Bancos Cx">
@@ -54,12 +55,15 @@
       </div>
       <div class="bar"><i id="barra"></i></div>
     </div>
-    <article class="qcard" id="tarjeta" aria-live="polite"></article>
-    <div class="mapa" id="mapa" hidden></div>
-    <div class="qnav">
-      <button class="btn ghost" id="anterior" type="button" aria-label="Anterior">←</button>
-      <button class="btn" id="siguiente" type="button">Siguiente</button>
+    <div class="qmain">
+      <article class="qcard" id="tarjeta" aria-live="polite"></article>
+      <p class="atajos" id="atajos" hidden><kbd>A</kbd>–<kbd>E</kbd> o <kbd>1</kbd>–<kbd>5</kbd> eligen · <kbd>Enter</kbd> o <kbd>→</kbd> siguiente · <kbd>←</kbd> anterior · <kbd>M</kbd> marca ⚑</p>
+      <div class="qnav">
+        <button class="btn ghost" id="anterior" type="button" aria-label="Anterior">←</button>
+        <button class="btn" id="siguiente" type="button">Siguiente</button>
+      </div>
     </div>
+    <aside class="mapa" id="mapa" hidden aria-label="Mapa de preguntas"></aside>
   </section>
 
   <!-- 3. Resultados -->
@@ -83,6 +87,8 @@ const SIM = params.get('sim');                       // simulacro de la semana N
 const SEMANA = params.get('semana');                 // practicar una semana
 const SEMANAS = lista('semanas');                    // examen personalizado por semanas
 const TEMAS_P = lista('temas').concat(lista('tema')); // uno o varios temas
+const REPASO = params.get('repaso');                 // repaso espaciado de hoy
+const REPASO_MAX = 30;                               // máximo de preguntas por sesión de repaso
 let CAT = { temas: [], bancos: [] };
 try { CAT = await (await fetch('datos/catalogo.json')).json(); } catch (e) {}
 const nombreTema = Object.fromEntries((CAT.temas || []).map(t => [t.id, t.nombre]));
@@ -91,24 +97,19 @@ const semInfo = n => ((CAT.cronograma || {}).semanas || []).find(s => s.n === +n
 
 // ¿Qué se practica? -> qué temas, con qué nombre, dónde se guarda la sesión y a dónde vuelve
 let MODO = null;   // null = un banco
-if (SIM) MODO = { temas: temasDeSemana(SIM), nombre: `Simulacro · Semana ${SIM}`, kicker: 'Simulacro semanal', clave: 'simulacro-' + SIM, volver: 'index.html#simulacro', sim: true };
+if (REPASO) MODO = { temas: [], nombre: 'Repaso de hoy', kicker: 'Repaso espaciado', clave: 'repaso', volver: 'index.html#inicio', repaso: true };
+else if (SIM) MODO = { temas: temasDeSemana(SIM), nombre: `Simulacro · Semana ${SIM}`, kicker: 'Simulacro semanal', clave: 'simulacro-' + SIM, volver: 'index.html#simulacro', sim: true };
 else if (SEMANA) MODO = { temas: temasDeSemana(SEMANA), nombre: `Semana ${SEMANA}` + (semInfo(SEMANA) ? ' · ' + semInfo(SEMANA).titulo : ''), kicker: 'Practicar por semana', clave: 'semana-' + SEMANA, volver: 'index.html#practicar/semana' };
 else if (SEMANAS.length) MODO = { temas: [...new Set(SEMANAS.flatMap(temasDeSemana))], nombre: 'Examen personalizado', kicker: 'Semanas ' + SEMANAS.join(', '), clave: 'examen', volver: 'index.html#practicar/examen' };
 else if (TEMAS_P.length === 1) MODO = { temas: TEMAS_P, nombre: nombreTema[TEMAS_P[0]] || 'Tema', kicker: 'Practicar un tema', clave: 'tema-' + TEMAS_P[0], volver: 'index.html#practicar/tema' };
 else if (TEMAS_P.length > 1) MODO = { temas: TEMAS_P, nombre: 'Examen personalizado', kicker: TEMAS_P.length + ' temas', clave: 'examen', volver: 'index.html#practicar/examen' };
 const VARIOS = !!MODO;   // las preguntas vienen de varios bancos
 
-let B, P, guardar;
-// Modo por temas: junta las preguntas de esos temas de todos los bancos. El progreso de cada pregunta
-// se guarda en su propio banco (así cuenta igual si luego abres el banco); la sesión, aparte.
-async function porTemas(temas, nombre, claveSes) {
-  const bancos = CAT.bancos.filter(b => b.n);
-  const datos = await Promise.all(bancos.map(b => fetch('datos/' + encodeURIComponent(b.id) + '.json').then(r => r.json()).catch(() => null)));
-  const quiero = new Set(temas);
-  const preguntas = [];
-  datos.forEach((d, i) => d && d.preguntas.forEach(q => {
-    if (quiero.has(q.tema)) preguntas.push(Object.assign({}, q, { id: bancos[i].id + '|' + q.id, bn: bancos[i].nombre }));
-  }));
+let B, P, guardar, HOY_IDS = [], TODOS = [];
+// Modo por lista: junta preguntas de varios bancos (por tema, por semana, repaso...). El progreso de cada
+// pregunta se guarda en su propio banco (así cuenta igual si luego abres el banco); la sesión, aparte.
+// Cada pregunta de la lista lleva id = 'banco|pregunta'.
+async function porLista(preguntas, nombre, claveSes) {
   const almacenes = {};
   const de = b => almacenes[b] || (almacenes[b] = App.cargar(b));
   const partir = k => { const i = k.indexOf('|'); return [k.slice(0, i), k.slice(i + 1)]; };
@@ -125,9 +126,28 @@ async function porTemas(temas, nombre, claveSes) {
   const g = () => { Object.entries(almacenes).forEach(([b, d]) => App.guardar(b, d)); App.guardar(claveSes, { hist: {}, ses: p.ses, clave: {}, flag: {} }); };
   return [{ nombre, preguntas }, p, g];
 }
+const conId = q => Object.assign({}, q, { id: q.gid });   // id global 'banco|pregunta'
+// Por temas: todas las preguntas de esos temas, de todos los bancos.
+async function porTemas(temas, nombre, claveSes) {
+  const quiero = new Set(temas);
+  const todos = await App.todas(CAT);
+  return porLista(todos.filter(q => quiero.has(q.tema)).map(conId), nombre, claveSes);
+}
+// Repaso de hoy: las que tocan hoy (máx. 30). Si hay una sesión a medias, también entran sus preguntas
+// (ya respondidas ya no "tocan hoy", pero la sesión debe poder continuar).
+async function porRepaso(nombre, claveSes) {
+  const todos = TODOS = await App.todas(CAT);
+  const hoy = App.repaso(todos).hoy.slice(0, REPASO_MAX).map(x => x.gid);
+  const ses = App.cargar(claveSes).ses;
+  const quiero = new Set(hoy.concat(ses && ses.ids ? ses.ids : []));
+  const lista = todos.filter(q => quiero.has(q.gid)).map(conId);
+  const [B, p, g] = await porLista(lista, nombre, claveSes);
+  return [B, p, g, hoy];
+}
 
 try {
-  if (MODO) [B, P, guardar] = await porTemas(MODO.temas, MODO.nombre, MODO.clave);
+  if (MODO && MODO.repaso) [B, P, guardar, HOY_IDS] = await porRepaso(MODO.nombre, MODO.clave);
+  else if (MODO) [B, P, guardar] = await porTemas(MODO.temas, MODO.nombre, MODO.clave);
   else {
     B = await (await fetch('datos/' + encodeURIComponent(ID) + '.json')).json();
     P = App.cargar(ID);                 // progreso guardado: hist, ses, clave, flag
@@ -259,7 +279,18 @@ function abrir() {
   if (P.ses.sim && Date.now() >= P.ses.fin) { corregirSim(); return; }
   mostrar('vQuiz'); cur = { id: null, t0: 0 }; renderQ(); tic();
 }
-function mostrar(v) { ['vSetup', 'vSim', 'vQuiz', 'vFin'].forEach(x => $('#' + x).hidden = x !== v); window.scrollTo({ top: 0 }); if (v !== 'vQuiz') { clearInterval(reloj); reloj = null; } }
+// ---------- pantalla encendida mientras corre el reloj del simulacro ----------
+let candado = null;
+async function pantallaEncendida(si) {
+  try {
+    if (!si) { if (candado) { const c = candado; candado = null; await c.release(); } return; }
+    if (candado || !('wakeLock' in navigator) || document.hidden) return;
+    candado = await navigator.wakeLock.request('screen');
+    candado.addEventListener('release', () => { candado = null; });
+  } catch (e) { candado = null; }   // sin soporte o sin permiso: se sigue normal
+}
+function mostrar(v) { ['vSetup', 'vSim', 'vQuiz', 'vFin'].forEach(x => $('#' + x).hidden = x !== v); document.body.classList.toggle('quiz-sim', v === 'vQuiz' && !!(P.ses && P.ses.sim)); window.scrollTo({ top: 0 }); if (v !== 'vQuiz') { clearInterval(reloj); reloj = null; }
+  pantallaEncendida(v === 'vQuiz' && !!(P.ses && P.ses.sim)); }
 
 // cronómetro de la pregunta que se ve
 let cur = { id: null, t0: 0 }, reloj = null;
@@ -276,6 +307,7 @@ function verPregunta(id) {
 }
 document.addEventListener('visibilitychange', () => {
   if ($('#vQuiz').hidden || !P.ses) return;
+  if (!document.hidden && P.ses.sim) pantallaEncendida(true);   // al volver a la app, pedirla de nuevo
   if (document.hidden) { cerrarTiempo(); guardar(); }
   else { const S = P.ses, id = S.ids[S.i]; if (S.sim || S.ans[id] === undefined) cur = { id, t0: Date.now() }; tic(); }
 });
@@ -303,11 +335,15 @@ function registrar(q, ok, ms) {
   const h = P.hist[q.id] || { n: 0, ok: 0, last: null };
   const primera = !h.n;
   h.n++; if (ok === true) h.ok++; h.last = ok; P.hist[q.id] = h;
+  const yaCumplia = App.metaEstado().cumplida;
   App.anotar(gid(q), ms, ok, primera);
+  if (!yaCumplia) { const m = App.metaEstado(); if (m.cumplida) App.aviso(`¡Meta de hoy cumplida! 🔥 ${m.racha} ${m.racha === 1 ? 'día seguido' : 'días seguidos'}`); }
 }
 
 let editando = false;   // eligiendo la clave a mano
+let mapaAbierto = false;   // el mapa del simulacro va plegado en el celular
 let animada = null;    // última pregunta que entró con animación
+let fresca = null;     // pregunta recién respondida (para animar el acierto o el fallo una sola vez)
 function fuentes(q) {
   const v = q.ver; if (!v) return '';
   let h = '';
@@ -321,6 +357,7 @@ function renderQ() {
   verPregunta(q.id);
   const elegida = S.ans[q.id], respondida = elegida !== undefined, k = clave(q);
   const sim = !!S.sim;
+  const anima = fresca === q.id; fresca = null;
   $('#contador').textContent = `${S.i + 1} / ${S.ids.length}`;
   if (sim) $('#marcador').innerHTML = `<span class="muted">${Object.keys(S.ans).length} resp.</span>`;
   else {
@@ -342,7 +379,7 @@ function renderQ() {
   const corregir = respondida && !sim && !editando && tieneClave(q);
   q.opts.forEach((o, i) => {
     let c = 'opt';
-    if (corregir) { if (i === k) c += ' right'; else if (i === elegida) c += ' wrong'; }
+    if (corregir) { if (i === k) c += ' right' + (anima && elegida === k ? ' pulso' : ''); else if (i === elegida) c += ' wrong' + (anima ? ' tiembla' : ''); }
     else if (respondida && i === elegida) c += ' pick';
     h += `<li><button type="button" class="${c}" data-i="${i}" ${corregir ? 'disabled' : ''}><span class="L">${L[i]}</span><span class="T">${esc(o)}</span></button></li>`;
   });
@@ -377,13 +414,16 @@ function renderQ() {
   $('#siguiente').textContent = S.i === S.ids.length - 1 ? (sim ? 'Terminar y corregir' : 'Ver resultados') : 'Siguiente';
   delete $('#siguiente').dataset.armado;
   $('#mapa').hidden = !sim;
-  if (sim) $('#mapa').innerHTML = S.ids.map((id, i) => `<button type="button" data-ir="${i}" class="${i === S.i ? 'aqui ' : ''}${S.ans[id] !== undefined ? 'hecha ' : ''}${P.flag[id] ? 'dudosa' : ''}">${i + 1}</button>`).join('') +
-    `<button type="button" class="terminar" id="terminarYa">Terminar ya</button>`;
+  $('#mapa').classList.toggle('abierto', mapaAbierto);
+  if (sim) $('#mapa').innerHTML = `<button type="button" class="mapa-toggle" id="mapaToggle" aria-expanded="${mapaAbierto}">${mapaAbierto ? 'Ocultar el mapa' : 'Ver las ' + S.ids.length}<span>${Object.keys(S.ans).length} respondidas</span></button><div class="mapa-cuerpo">` +
+    S.ids.map((id, i) => `<button type="button" data-ir="${i}" aria-label="Pregunta ${i + 1}" class="${i === S.i ? 'aqui ' : ''}${S.ans[id] !== undefined ? 'hecha ' : ''}${P.flag[id] ? 'dudosa' : ''}">${i + 1}</button>`).join('') +
+    `<button type="button" class="terminar" id="terminarYa">Terminar ya</button></div>`;
 }
 
 $('#mapa').onclick = e => {
+  if (e.target.closest('#mapaToggle')) { mapaAbierto = !mapaAbierto; renderQ(); return; }
   const b = e.target.closest('[data-ir]');
-  if (b) { P.ses.i = +b.dataset.ir; guardar(); renderQ(); window.scrollTo({ top: 0 }); return; }
+  if (b) { P.ses.i = +b.dataset.ir; mapaAbierto = false; guardar(); renderQ(); window.scrollTo({ top: 0 }); return; }
   if (e.target.id === 'terminarYa') {
     const t = e.target;
     if (t.dataset.armado) corregirSim();
@@ -398,8 +438,9 @@ $('#tarjeta').onclick = e => {
     if (S.sim) { S.ans[q.id] = i; }                        // simulacro: se puede cambiar, se corrige al final
     else if (S.ans[q.id] === undefined) {                  // primera respuesta
       cerrarTiempo();
-      S.ans[q.id] = i;
+      S.ans[q.id] = i; fresca = q.id;
       registrar(q, tieneClave(q) ? i === clave(q) : null, (S.tq || {})[q.id]);
+      if (tieneClave(q)) App.vibrar(i === clave(q) ? 25 : [45, 60, 45]);
     } else if (editando || !tieneClave(q)) {               // fijar la clave a mano
       P.clave[q.id] = i; editando = false;
       const h = P.hist[q.id]; if (h) { if (h.last === true) h.ok--; h.last = S.ans[q.id] === i; if (h.last) h.ok++; }
@@ -412,6 +453,53 @@ $('#tarjeta').onclick = e => {
   if (a.dataset.accion === 'foto') { $('#visorImg').src = B.imgs[q.p - 1]; $('#visor').hidden = false; $('#visor').scrollTop = 0; }
 };
 $('#cerrarVisor').onclick = () => { $('#visor').hidden = true; };
+
+// ---------- gestos: deslizar a la izquierda = siguiente, a la derecha = anterior ----------
+(() => {
+  let ini = null;
+  const zona = $('#vQuiz');
+  zona.addEventListener('touchstart', e => {
+    ini = null;
+    if (e.touches.length !== 1 || !$('#visor').hidden) return;
+    const t = e.touches[0];
+    if (t.clientX < 24 || t.clientX > innerWidth - 24) return;                       // borde: gesto de "atrás" del sistema
+    if (e.target.closest('#mapa, .qbar, .qnav, input, textarea, details')) return;
+    const sel = window.getSelection && getSelection();
+    if (sel && String(sel).length > 0) return;                                      // hay texto seleccionado
+    ini = { x: t.clientX, y: t.clientY, t: Date.now() };
+  }, { passive: true });
+  zona.addEventListener('touchend', e => {
+    if (!ini || !e.changedTouches.length) return;
+    const t = e.changedTouches[0], dx = t.clientX - ini.x, dy = t.clientY - ini.y, dt = Date.now() - ini.t;
+    ini = null;
+    if (dt > 700 || Math.abs(dx) < 70 || Math.abs(dx) < Math.abs(dy) * 2.2) return;   // solo si es claramente horizontal
+    const S = P.ses; if (!S) return;
+    if (dx < 0 && S.i < S.ids.length - 1) $('#siguiente').click();                   // en la última no termina solo
+    else if (dx > 0) $('#anterior').click();
+  }, { passive: true });
+  zona.addEventListener('touchcancel', () => { ini = null; }, { passive: true });
+})();
+
+// ---------- teclado (solo en computadora) ----------
+const hayTeclado = matchMedia('(hover:hover) and (pointer:fine)').matches;
+document.addEventListener('keydown', e => {
+  if (e.ctrlKey || e.metaKey || e.altKey || $('#vQuiz').hidden || !P.ses) return;
+  const t = e.target, tag = t && t.tagName;
+  if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') return;
+  if (!$('#visor').hidden) { if (e.key === 'Escape') $('#visor').hidden = true; return; }
+  const k = e.key;
+  const clic = el => { if (el && !el.disabled) { e.preventDefault(); el.click(); } };
+  if (k === 'ArrowRight') clic($('#siguiente'));
+  else if (k === 'ArrowLeft') clic($('#anterior'));
+  else if (k === 'Enter') { if (tag === 'BUTTON' || tag === 'A' || tag === 'SUMMARY') return; clic($('#siguiente')); }   // sobre un botón, Enter ya lo activa solo
+  else if (k.length === 1) {
+    const c = k.toUpperCase();
+    if (c === 'M') { clic($('#tarjeta [data-accion="flag"]')); return; }
+    let i = L.indexOf(c); if (i < 0 && c >= '1' && c <= '9') i = +c - 1;
+    if (i >= 0) clic($('#tarjeta').querySelector(`.opt[data-i="${i}"]`));
+  }
+});
+if (hayTeclado) $('#atajos').hidden = false;
 $('#siguiente').onclick = () => {
   const S = P.ses; editando = false;
   if (S.i < S.ids.length - 1) { S.i++; S.ts = Date.now(); guardar(); renderQ(); window.scrollTo({ top: 0 }); }
@@ -424,9 +512,20 @@ $('#siguiente').onclick = () => {
   else terminar();
 };
 $('#anterior').onclick = () => { const S = P.ses; editando = false; if (S.i > 0) { S.i--; guardar(); renderQ(); window.scrollTo({ top: 0 }); } };
-$('#salir').onclick = () => { editando = false; cerrarTiempo(); guardar(); if (P.ses && P.ses.sim) { renderSim(); mostrar('vSim'); } else { renderSetup(); mostrar('vSetup'); } };   // la sesión queda guardada
+$('#salir').onclick = () => { editando = false; cerrarTiempo(); guardar(); if (MODO && MODO.repaso) { location.href = MODO.volver; return; } if (P.ses && P.ses.sim) { renderSim(); mostrar('vSim'); } else { renderSetup(); mostrar('vSetup'); } };   // la sesión queda guardada
 
 // ---------- resultados ----------
+// Repaso: cuándo vuelve a tocar lo que acertaste y lo que fallaste (según el registro ya actualizado)
+function cuandoVuelve(bien, falladas) {
+  const pg = App.programas(bien.concat(falladas));
+  const cuando = d => d === 1 ? 'mañana' : `en ${d} días`;
+  const por = ids => { const m = {}; ids.forEach(id => { const x = pg[id]; if (x) m[x.dias] = (m[x.dias] || 0) + 1; }); return Object.entries(m).sort((a, b) => a[0] - b[0]); };
+  const frase = ids => por(ids).map(([d, n]) => `${n} ${n === 1 ? 'vuelve' : 'vuelven'} ${cuando(+d)}`).join(' · ');
+  let h = '<div class="cuando">';
+  if (bien.length) h += `<div class="ok"><b>Acertaste ${bien.length}</b>${frase(bien)}. Mientras más veces aciertes seguidas, más tarde vuelve.</div>`;
+  if (falladas.length) h += `<div class="ko"><b>Fallaste ${falladas.length}</b>${frase(falladas)}.</div>`;
+  return h + '</div>';
+}
 function revision(ids, ans, titulo) {
   if (!ids.length) return '';
   let h = `<h2 class="section-title">${titulo}</h2><div class="rlist">`;
@@ -440,6 +539,12 @@ function revision(ids, ans, titulo) {
   });
   return h + '</div>';
 }
+function fiesta() {
+  const cols = ['var(--amber)', 'var(--accent)', 'var(--ok)', 'var(--bad)'];
+  const el = document.createElement('div'); el.className = 'fiesta'; el.setAttribute('aria-hidden', 'true');
+  el.innerHTML = Array.from({ length: 28 }, (_, i) => `<i style="--x:${(i * 37 + 5) % 100};--d:${((i * 53) % 90) / 100}s;--dx:${((i * 29) % 120) - 60}px;--c:${cols[i % cols.length]}"></i>`).join('');
+  document.body.appendChild(el); setTimeout(() => el.remove(), 4500);
+}
 function terminar() {
   cerrarTiempo();
   const S = P.ses;
@@ -452,18 +557,23 @@ function terminar() {
   P.ses = null; guardar();
   let h = `<div class="top"><a class="back" href="${esc(MODO ? MODO.volver : 'index.html#bancos')}">← Volver</a></div>
     <div class="kicker">${esc(B.nombre)}</div>
-    <div class="score-hero"><div class="ring" style="--p:${pct}"><b>${pct}%</b></div>
+    <div class="score-hero ${pct >= 70 ? 'celebra' : ''}"><div class="ring" style="--p:${pct}"><b>${pct}%</b></div>
       <div><p class="big">${bien.length}<span> / ${conK.length}</span></p>
       <p class="muted" style="margin:0">aciertos` +
     (resp.length < S.ids.length ? ` · ${S.ids.length - resp.length} sin responder` : '') +
     (tTotal ? `<br>Tiempo: ${fmtT(tTotal)} · ${fmtT(tTotal / Math.max(1, resp.length))} por pregunta` : '') + '</p></div></div><div class="actions">';
   if (falladas.length) h += `<button class="btn" type="button" id="repasar">Repasar las ${falladas.length} que fallé</button>`;
-  h += '<button class="btn ghost" type="button" id="otra">Nueva práctica</button></div>';
+  if (MODO && MODO.repaso) {
+    const quedan = Math.max(0, App.repaso(TODOS).hoy.length);
+    if (quedan) h += `<a class="btn amber" href="banco.html?repaso=1">Seguir con el repaso · quedan ${quedan}</a>`;
+    h += `<a class="btn ghost" href="${esc(MODO.volver)}">Volver al inicio</a></div>` + cuandoVuelve(bien, falladas);
+  } else h += '<button class="btn ghost" type="button" id="otra">Nueva práctica</button></div>';
   h += revision(falladas, S.ans, 'Las que fallaste');
   $('#vFin').innerHTML = h;
   mostrar('vFin');
+  if (pct >= 70) fiesta();
   const rp = $('#repasar'); if (rp) rp.onclick = () => empezar(mezclar(falladas));
-  $('#otra').onclick = () => { renderSetup(); mostrar('vSetup'); };
+  const ot = $('#otra'); if (ot) ot.onclick = () => { renderSetup(); mostrar('vSetup'); };
 }
 function corregirSim() {
   cerrarTiempo();
@@ -481,7 +591,7 @@ function corregirSim() {
   const pct = Math.round(bien.length / Math.max(1, ids.length) * 100);
   let h = `<div class="top"><a class="back" href="index.html#simulacro">← Volver</a></div>
     <div class="kicker">${esc(B.nombre)} · corregido</div>
-    <div class="score-hero"><div class="ring ${nota >= 10.5 ? 'aprob' : 'desaprob'}" style="--p:${pct}"><b>${nota.toFixed(1)}</b><small>/20</small></div>
+    <div class="score-hero ${pct >= 70 ? 'celebra' : ''}"><div class="ring ${nota >= 10.5 ? 'aprob' : 'desaprob'}" style="--p:${pct}"><b>${nota.toFixed(1)}</b><small>/20</small></div>
       <div><p class="big">${bien.length}<span> / ${ids.length}</span></p>
       <p class="muted" style="margin:0">${mal.length} incorrectas · ${blanco.length} en blanco<br>Tiempo usado: ${fmtT(usado)} de ${fmtT(S.dur)}<br>Promedio: ${fmtT(usado / Math.max(1, ids.length - blanco.length))} por pregunta</p></div></div>
     <p class="muted" style="font-size:14px">${nota >= 10.5 ? 'Aprobado.' : 'Aún no llega a 10.5.'} Las preguntas en blanco cuentan como incorrectas.</p>
@@ -490,12 +600,23 @@ function corregirSim() {
   h += revision(mal, ans, 'Incorrectas') + revision(blanco, ans, 'En blanco') + revision(bien, ans, 'Correctas');
   $('#vFin').innerHTML = h;
   mostrar('vFin');
+  if (pct >= 70) fiesta();
   const rp = $('#repasar'); if (rp) rp.onclick = () => empezar(mezclar(mal.concat(blanco)));
 }
 
 if (VARIOS) $('#borrar').hidden = true;
 if (UN_TEMA) $('#tituloSecciones').textContent = 'Bancos';
-if (SIM) {
+if (MODO && MODO.repaso) {
+  if (P.ses && P.ses.ids && P.ses.ids.every(id => byId[id])) abrir();            // sesión a medias: seguir
+  else if (HOY_IDS.length) empezar(HOY_IDS.filter(id => byId[id]));              // directo, sin filtros
+  else {
+    $('#vFin').innerHTML = `<div class="top"><a class="back" href="${esc(MODO.volver)}">← Volver</a></div>
+      <div class="score-hero" style="margin-top:30px"><div><p class="big" style="font-size:40px">No tienes repasos pendientes hoy 🎉</p>
+      <p class="muted">Cuando respondas preguntas, aquí volverán justo antes de que las olvides.</p></div></div>
+      <div class="actions"><a class="btn" href="${esc(MODO.volver)}">Volver al inicio</a></div>`;
+    mostrar('vFin');
+  }
+} else if (SIM) {
   if (params.get('continuar') && P.ses && P.ses.sim) abrir();
   else { renderSim(); mostrar('vSim'); }
 } else {

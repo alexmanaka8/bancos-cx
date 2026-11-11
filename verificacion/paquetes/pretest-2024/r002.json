@@ -1,0 +1,43 @@
+{
+ "banco": "pretest-2024",
+ "paquete": "r002",
+ "preguntas": [
+  {
+   "k": "5335d5df5c",
+   "stem": "Un preescolar de 4 años se encuentra recibiendo una solución endovenosa de Dextrosa 5% en AD 1000ml + NaCl20% 20ml a una razón de 20 gotas por minuto. ¿Qué volumen se le infundirá en 24 horas?",
+   "opts": [
+    "1440 ml",
+    "1540 ml",
+    "1640 ml",
+    "1740 ml"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 301,
+     "texto": "ulcers: clinical practice guidelines of the Society for Vascular Surgery and the American Venous Forum. J Vasc Surg. 2014;60(2 Suppl):3S-59S. 14. D. The right internal jugular vein is the preferred option for central line placement because it is easily accessible and has a lower risk of pneumothorax compared to a subclavian line. It also has a straight course into the right atrium. In 70% of individuals, the internal jugular vein lies anterolateral to the carotid artery. However, in some cases, it may lie directly anterior or posterior to the carotid artery, increasing the risk of a carotid artery cannulation. If the carotid artery is entered with the probe needle (as evidenced by pulsatile bleeding), the needle should be immediately removed and pressure should be held for 10 minutes. If the artery is cannulated with a dilator or catheter, then the catheter should not be removed blindly. This could lead to a potential airway-threatening hemorrhage. It is safer to remove the catheter in the operating room via direct surgical exposure, followed by suture repair of the artery (A-C, E). Reference: Kron I, Ailawadi G. Cardiovascular monitoring and support. In: Fischer JE, ed. Fischer's mastery of surgery. 6th ed. Lippincott Williams & Wilkins; 2011:45-66. 15. C. The patient has superficial venous thrombosis (SVT) or thrombophlebitis. This entity is essentially a clotted surface vein. A palpable cord is suggestive of the diagnosis, as are accompanying pain and erythema. There are a few pitfalls in the diagnosis and management of SVT. Patients with SVT may have a concomitant DVT (5%-40%); thus, a duplex ultrasound scan of the venous system is essential. Second, SVT can easily be misdiagnosed as cellulitis, in which case antibiotics may be inappropriately prescribed and a"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 2154,
+     "texto": "mordeduras de mamíferos, 511, 511c resistencia anabólica, 109 y picaduras de animales marinos, 516 síndrome de realimentación, 109 inflamatorias con hipermetabolismo, 113-116 cáncer, 676 insuficiencia hepática, apoyo nutritivo, disbiosis, 111 Microcirculación hepática, 1435-1436, 1438f 115 pacientes bariátricos, carencias Microentorno inmunodepresor del tumor, de nutrientes, 115-116 respuesta a la quemadura y a la agresión metabólica, 113-114 Micronutrientes, 110t Microsomía craneofacial, 1924 septicemia, apoyo nutritivo, 114-115 sida y cáncer, apoyo nutritivo, 115 Midazolam, 318t, 319, 522, 2031 Mielodisplasia, 40, 41f inflamatorias sin hipermetabolismo, Mielomeningocele (MMC), 1910, 1910f, 2051-2052 enfermedad inflamatoria intestinal y síndrome del intestino corto, apoyo reparación fetal abierta, 2052 nutritivo, 111 Mielotomía, 1907 Mikulicz-Radecki, Jan, 8 fístula enterocutánea, 111 pacientes trasplantados, 109-111 Milán, criterios, 617 pancreatitis aguda y crónica, apoyo Miles, técnica, 1385, 1385f Miller, clasificación, 1757t nutritivo, 111-112 Mineralocorticoides, 967 síndrome de intestino corto, 111 estado nutritivo, evaluación carencia, 259 Miniengranaje, 191, 191c alimentación continua y en bolo, 108 alimentos tróficos, 108 Minievaluación nutritiva, 296 anamnesis y exploración física, 102-103, Miofibroblasto, 130 Miomectomía, 2012 103t apoyo nutritivo, de paciente quirúrgico. histeroscópica, 2012t, 2013 laparoscópica/abierta, 2013-2014, 2014f Vease Apoyo nutritivo vaginal, 2012-2013 evaluación antropométrica, 105 fibra, 108 Mirels, sistema de puntuación, 758t fórmulas, tipos, 108 Mirizzi, síndrome, 1504, 1504f gasto calórico, 105-106, 106t Mitocondria, 99 marcadores séricos, 103-104, 104t control de acoplamiento mitocondrial, 99 MitraClip System, 1740"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 239,
+     "texto": "22. A 21-year-old man who was the driver in a headon collision has a pulse of 140 beats per minute, respiratory rate of 36 breaths per minute, and systolic blood pressure of 70 mmHg. His trachea is deviated to the left, with palpable subcutaneous emphysema and absent breath sounds over the right hemithorax. The next best step in the management of this patient is: Irason graphy or chest radiograph to A. Resuscitative thoracotomy confirm diagnosis C. Intubation and ventilation D. Tube thoracostomy E. Needle thoracostomy 23. In hemorrhagic shock, which of the following is the most accurate sign of adequate fluid resuscitation? A. An increase in blood pressure B. An increase in urine output C. An increase in arterial oxygenation D. A decrease in thirst E. A decrease in tachycardia 24. A 50-year-old woman who is septic from ascending cholangitis is transferred to the surgical ICU. She undergoes cholecystectomy and common bile duct exploration after a failed endoscopic sphincterotomy. Because of hypotension and marginal urine output, a SwanGanz catheter is placed. Which of the following readings is least consistent with the patient's clinical course? A. Central venous pressure 5 cm HO B. SVR 300 dynes × sec × cm? C. Cardiac index 2.0 L/min/ cm2 D. Pulmonary capillary wedge pressure 10 cm HO E. SVO286% 25. Prolonged QT intervals are seen in association with: A. Hypomagnesemia B. Hypercalcemia C. Hyperphosphatemia D. Hyperkalemia E. Hypokalemia 26. Acute symptoms of hypermagnesemia are treated by: A. Fluid hydration with normal saline B. IV insulin C. Calcium chloride D. Dextrose E. Dialysis CHAPTER 15 Surgical Critical Care 211 27. A morbidly obese 48-year-old male is admitted to the ICU following an open cholecystectomy via a midline incision. The patient s PaO, is 50 mmHg on"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1764,
+     "texto": "1740 XI Tórax ￼ FIGURA 61.20 Sustitución de la válvula aórtica transcatéter (TAVR). TAVR acopla la valvuloplastia aórtica con balón con el implante de una bioprótesis expandible colocada y expandida en el anillo aórtico utilizando tecnología de catéter. (Tomado de http://www.heart-valve-surgery.com/ heartsurgery-blog/2013/09/18/tavr-transfemoral-transapical-approaches/. Acceso el 11 de agosto de 2020.) ￼ FIGURA 61.21 Reparación percutánea de la válvula mitral. Utilizando un sistema de colocación de un clip basado en catéter, el operador capta los bordes de las valvas de la válvula mitral y coloca un clip que"
+    }
+   ]
+  }
+ ]
+}

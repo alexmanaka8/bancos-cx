@@ -88,6 +88,100 @@ const App = (() => {
     return out.sort((a, b) => (b.ses.ts || 0) - (a.ses.ts || 0));
   }
 
+  // ---------- ajustes (meta diaria y tema) ----------
+  // pwa:ajustes = { meta: 30, tema: 'auto' | 'light' | 'dark', vibrar: true }
+  const AJ = 'ajustes';
+  function ajustes() {
+    let a = {};
+    try { a = JSON.parse(localStorage.getItem(PREF + AJ)) || {}; } catch (e) {}
+    return { meta: Number.isFinite(+a.meta) && +a.meta > 0 ? Math.round(+a.meta) : 30, tema: a.tema === 'light' || a.tema === 'dark' ? a.tema : 'auto', vibrar: a.vibrar !== false };
+  }
+  function guardarAjustes(cambios) {
+    const a = Object.assign(ajustes(), cambios);
+    try { localStorage.setItem(PREF + AJ, JSON.stringify(a)); } catch (e) {}
+    return a;
+  }
+  // "auto" = sin atributo data-theme (manda el modo del teléfono o la computadora)
+  function aplicarTema(t) {
+    const el = document.documentElement;
+    if (t === 'light' || t === 'dark') el.setAttribute('data-theme', t); else el.removeAttribute('data-theme');
+    const oscuro = t === 'dark' || (t !== 'light' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+    const m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute('content', oscuro ? '#0B1C33' : '#1E5FA8');
+  }
+  function fijarTema(t) { guardarAjustes({ tema: t }); aplicarTema(t); }
+  aplicarTema(ajustes().tema);
+  if (window.matchMedia) {
+    const mq = matchMedia('(prefers-color-scheme: dark)');
+    const cambio = () => { if (ajustes().tema === 'auto') aplicarTema('auto'); };
+    if (mq.addEventListener) mq.addEventListener('change', cambio); else if (mq.addListener) mq.addListener(cambio);
+  }
+
+  // vibración corta (no existe en iPhone: si no hay soporte, no pasa nada)
+  function vibrar(patron) {
+    try { if (navigator.vibrate && ajustes().vibrar) navigator.vibrate(patron); } catch (e) {}
+  }
+
+  // ---------- días, meta diaria y racha ----------
+  const diaIni = (t, mas = 0) => { const d = new Date(t); d.setHours(0, 0, 0, 0); if (mas) d.setDate(d.getDate() + mas); return d.getTime(); };
+  // respuestas de hoy frente a la meta, y días seguidos cumpliéndola (si hoy aún no, cuenta la racha de ayer)
+  function metaEstado(r) {
+    r = r || registro();
+    const meta = ajustes().meta, cuenta = {};
+    r.forEach(x => { const k = diaIni(x[1]); cuenta[k] = (cuenta[k] || 0) + 1; });
+    const h0 = diaIni(Date.now()), hoy = cuenta[h0] || 0, cumplida = hoy >= meta;
+    let racha = 0, d = cumplida ? h0 : diaIni(h0, -1);
+    while ((cuenta[d] || 0) >= meta) { racha++; d = diaIni(d, -1); }
+    return { meta, hoy, cumplida, racha };
+  }
+
+  // ---------- repaso espaciado ----------
+  // Se calcula solo, a partir de pwa:registro. Racha = aciertos seguidos contando desde la última respuesta.
+  // Falló la última -> mañana · racha 1 -> 3 días · 2 -> 7 · 3 -> 14 · 4 o más -> 30.
+  function mapaRegistro() {
+    const m = {};
+    registro().forEach(r => { if (r[3] < 0) return; (m[r[0]] = m[r[0]] || []).push(r); });
+    Object.values(m).forEach(l => l.sort((a, b) => a[1] - b[1]));
+    return m;
+  }
+  function programa(rs) {
+    let racha = 0;
+    for (let i = rs.length - 1; i >= 0 && rs[i][3] === 1; i--) racha++;
+    const ult = rs[rs.length - 1], fallo = ult[3] === 0;
+    const dias = fallo ? 1 : racha === 1 ? 3 : racha === 2 ? 7 : racha === 3 ? 14 : 30;
+    return { racha, fallo, dias, due: diaIni(ult[1], dias) };
+  }
+  // ids 'banco|pregunta' -> { racha, fallo, dias, due } (solo las que tienen respuestas con clave)
+  function programas(ids) {
+    const m = mapaRegistro(), out = {};
+    ids.forEach(id => { if (m[id]) out[id] = programa(m[id]); });
+    return out;
+  }
+  // preguntas = lista de { banco, id, gid? } (por ejemplo, la de todas())
+  function repaso(preguntas) {
+    const m = mapaRegistro(), alm = {}, de = b => alm[b] || (alm[b] = cargar(b));
+    const h0 = diaIni(Date.now());
+    const out = { hoy: [], manana: 0, semana: 0, dominadas: 0, programadas: 0 };
+    preguntas.forEach(q => {
+      const gid = q.gid || (q.banco + '|' + q.id), a = de(q.banco), rs = m[gid];
+      let due, racha = 0, fallo;
+      if (rs) { const e = programa(rs); due = e.due; racha = e.racha; fallo = e.fallo; }
+      else {                                   // historial viejo, sin registro
+        const h = a.hist[q.id];
+        if (!h || h.last !== false) return;
+        due = h0; fallo = true;
+      }
+      out.programadas++;
+      if (racha >= 3) out.dominadas++;
+      const dd = Math.round((due - h0) / 864e5);
+      if (dd <= 0) out.hoy.push({ q, gid, due, atraso: -dd, racha, marcada: !!(a.flag && a.flag[q.id]) && fallo });
+      else if (dd === 1) out.manana++;
+      else if (dd <= 7) out.semana++;
+    });
+    out.hoy.sort((x, y) => (y.marcada - x.marcada) || (y.atraso - x.atraso));
+    return out;
+  }
+
   // ---------- cronograma ----------
   const semanasDe = t => t.semana == null ? [] : [].concat(t.semana);
   const dia = f => new Date(f + 'T00:00:00');
@@ -142,5 +236,5 @@ const App = (() => {
   if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {});
 
   return { cargar, guardar, cargarHtml, resumen, exportar, importar, esc, $, aviso,
-    registro, anotar, simulacros, guardarSimulacro, sesiones, semanasDe, semanaActual, dia, todas };
+    registro, anotar, ajustes, guardarAjustes, vibrar, fijarTema, aplicarTema, metaEstado, repaso, programas, simulacros, guardarSimulacro, sesiones, semanasDe, semanaActual, dia, todas };
 })();

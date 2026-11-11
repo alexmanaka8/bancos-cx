@@ -1,0 +1,114 @@
+[
+  {
+    "k": "b9f09f50fd",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 108) dice que el SIADH solo se diagnostica en pacientes euvolémicos, y que un paciente hipovolémico que libera ADH responde de forma normal. La viñeta tiene vómitos y poca orina, lo que sugiere hipovolemia, pero el texto no lo dice con claridad. Además, la evidencia no trae la clave de esta pregunta. Por eso no decido.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "0fa18147c7",
+    "decide": true,
+    "ans": 2,
+    "cita": {
+      "libro": "absite",
+      "pagina": 497,
+      "texto": "However, the essential fatty acid rash tends to be scalier and is associated with dry skin, and the rash from zinc is primarily located in the perioral area and intertriginous skin of the fingers and toes."
+    },
+    "why": "La clave del libro (absite, p. 497) marca la opción C, que es el ácido linoleico. El texto dice que la deficiencia de ácidos grasos esenciales da una erupción más escamosa y con piel seca. La del zinc se localiza sobre todo alrededor de la boca y en los dedos. La caída del cabello aparece en ambas, pero se relaciona más con los ácidos grasos. El cobre, la vitamina C y el selenio tienen otros signos según el mismo texto.",
+    "tema": "nutricion"
+  },
+  {
+    "k": "16557c5c8a",
+    "decide": true,
+    "ans": 2,
+    "cita": {
+      "libro": "absite",
+      "pagina": 497,
+      "texto": "However, the essential fatty acid rash tends to be scalier and is associated with dry skin, and the rash from zinc is primarily located in the perioral area and intertriginous skin of the fingers and toes."
+    },
+    "why": "La clave del libro (absite, p. 497) marca la opción C, que es el ácido linoleico. El texto dice que la deficiencia de ácidos grasos esenciales da una erupción más escamosa y con piel seca. La del zinc se localiza sobre todo alrededor de la boca y en los dedos. La caída del cabello aparece en ambas, pero se relaciona más con los ácidos grasos. La vitamina C causa escorbuto, con encías sangrantes y mala cicatrización, y no este cuadro.",
+    "tema": "nutricion"
+  },
+  {
+    "k": "c046f04080",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Absite (p. 474) dice que la transfusión se asocia con más mortalidad, no con menos, y que un objetivo de 10 g/dL no es mejor que uno de 7 a 9. También dice que los transportadores de oxígeno no están aprobados en EE. UU. La opción de eritropoyetina aparece en el texto, pero solo en ensayos con pacientes de trauma, así que para este paciente habría que inferir demasiado. La clave del libro (14. D) corresponde a una opción distinta de este archivo, por eso no decido.",
+    "tema": "eras"
+  },
+  {
+    "k": "680a3d4154",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia de esta pregunta no trae la clave de la pregunta 9 de absite. Sabiston (p. 271) dice que la cirugía y la anestesia disminuyen la capacidad residual y que las pruebas de función pulmonar ayudan a identificar riesgo, pero no compara los estudios de la lista. Absite (p. 473) incluye la albúmina baja como factor del paciente, no como estudio, y dice que la radiografía de tórax de rutina no se recomienda. Como no lo dice con claridad, no decido.",
+    "tema": "eras"
+  },
+  {
+    "k": "e2bb804344",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia de esta pregunta solo trae el enunciado (absite, p. 468), sin la clave ni la explicación del manejo de un PICC con trombosis. Por eso no hay en el archivo un texto que diga cuál opción es la correcta. Decidir esto requeriría usar mi memoria, así que no decido.",
+    "tema": "nutricion"
+  },
+  {
+    "k": "7dc2b3390c",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 272) dice que la alimentación en bolo tiene más riesgo de aspiración, y que las sondas de doble luz permiten alimentar después del píloro. Sin embargo, no dice cuál de las opciones es verdadera en un paciente con traumatismo craneoencefálico. El estudio sobre alimentación pospilórica aparece solo como título en otra parte, sin resultados. Por eso no decido.",
+    "tema": "nutricion"
+  },
+  {
+    "k": "ea6a37643f",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Absite (p. 473) da la lista de factores de riesgo del paciente: edad mayor de 50, EPOC, ASA mayor de 2, albúmina baja, apnea, hipertensión pulmonar y tabaquismo actual. La obesidad no aparece ahí, aunque Sabiston (p. 355) la incluye en una tabla de riesgo, así que la opción A no queda clara. El mismo texto contradice las opciones B (PFT de rutina), D (la incisión más alta tiene más riesgo) y E (no hay un número que prohíba la cirugía). La opción correcta del libro, sobre el ASA, no aparece en este archivo, así que no decido.",
+    "tema": "eras"
+  },
+  {
+    "k": "53b5577a6b",
+    "decide": true,
+    "ans": 4,
+    "cita": {
+      "libro": "absite",
+      "pagina": 476,
+      "texto": "Compliance of the lung can be misleading because even though the compliance of the lung tissue itself increases with age, the chest wall compliance is significantly reduced."
+    },
+    "why": "Absite (p. 476) dice que, con la edad, la capacidad pulmonar total se conserva, así que la opción A es falsa. Ese mismo texto dice que la DLCO también baja con la edad, lo que hace falsa la opción C. El texto explica que la distensibilidad de la pared torácica se reduce mucho con la edad, por eso la opción E es la verdadera. La opción B y la D no aparecen en ese texto, por eso no las uso para decidir.",
+    "tema": "eras"
+  },
+  {
+    "k": "d9a8490ad7",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 226) dice que la warfarina se suspende 5 días antes de una cirugía programada y que, en una válvula mecánica, se usa anticoagulación de transición. También dice que reiniciarla en 24 h deja días subterapéuticos, así que la opción E es falsa. El texto no habla de endoscopias con biopsia ni de seguir la warfarina durante ellas, por lo que la opción C no se puede comprobar. La opción A no coincide del todo con los tiempos del texto. Por eso no decido.",
+    "tema": "eras"
+  },
+  {
+    "k": "f45f723266",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 272) dice que el riesgo de aspiración es mayor con alimentación en bolo que con alimentación continua, lo que encaja con el caso. Pero la evidencia de esta pregunta no dice qué mediadores causan el daño, así que la opción D no se puede comprobar aquí. La opción C está cortada y no se puede evaluar. Tampoco hay en esta evidencia nada que indique broncoscopia temprana, corticoides o PEG. Por eso no decido.",
+    "tema": "nutricion"
+  },
+  {
+    "k": "d3045b78a3",
+    "decide": true,
+    "ans": 0,
+    "cita": {
+      "libro": "absite",
+      "pagina": 477,
+      "texto": "However, patients in the study arm also had increased mortality, stroke, hypotension, and bradycardia (A, E)."
+    },
+    "why": "La clave del libro (absite, p. 477) marca la opción A y explica el estudio POISE. Los pacientes que empezaron metoprolol alrededor de la cirugía tuvieron más mortalidad, ACV, hipotensión y bradicardia. Por eso la opción A es la verdadera, aunque el texto dice el día de la cirugía y la opción dice dentro de las 24 horas. La opción E es falsa, porque Sabiston (p. 218) dice que los betabloqueantes se asocian con accidente cerebrovascular. La opción D también es falsa, porque el mismo libro dice que se mantienen en quienes ya los toman.",
+    "tema": "eras"
+  }
+]

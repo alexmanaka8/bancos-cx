@@ -1,0 +1,40 @@
+[
+ {
+  "k": "0fa18147c7",
+  "estado": "confirmada",
+  "stem": "Una mujer de 22 años con antecedentes de una herida de bala en el abdomen que requirió múltiples resecciones intestinales ha estado con nutrición periférica total (NPT) crónica para el síndrome de intestino corto. Ella se presenta para un seguimiento clínico y dice que su cabello ha comenzado a caerse, y ha desarrollado múltiples moretones en sus brazos y piernas. Además, tiene un sarpullido escamoso difuso y piel seca. ¿De cuál de los siguientes nutrientes y oligoelementos es probable que tenga deficiencia?",
+  "opts": [
+   "Cobre",
+   "Vitamina",
+   "Ácido linoleico",
+   "Zinc",
+   "Selenio"
+  ],
+  "ans": 2,
+  "why": "La clave del libro (absite, p. 497) marca la opción C, que es el ácido linoleico. El texto dice que la deficiencia de ácidos grasos esenciales da una erupción más escamosa y con piel seca. La del zinc se localiza sobre todo alrededor de la boca y en los dedos. La caída del cabello aparece en ambas, pero se relaciona más con los ácidos grasos. El cobre, la vitamina C y el selenio tienen otros signos según el mismo texto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "nota": "Verificación rápida: cita comprobada en el libro.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "16557c5c8a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 22 años con antecedente de herida por arma de fuego abdominal, múltiples resecciones intestinales y síndrome de intestino corto está en nutrición parenteral total crónica. En consulta ambulatoria refiere caída del cabello, múltiples hematomas en brazos y piernas, erupción escamosa difusa y piel seca. ¿Qué nutriente o oligoelemento probablemente le falta?",
+  "opts": [
+   "Cobre",
+   "Vitamina C",
+   "Ácido linoleico",
+   "Zinc",
+   "Selenio"
+  ],
+  "ans": 2,
+  "why": "La clave del libro (absite, p. 497) marca la opción C, que es el ácido linoleico. El texto dice que la deficiencia de ácidos grasos esenciales da una erupción más escamosa y con piel seca. La del zinc se localiza sobre todo alrededor de la boca y en los dedos. La caída del cabello aparece en ambas, pero se relaciona más con los ácidos grasos. La vitamina C causa escorbuto, con encías sangrantes y mala cicatrización, y no este cuadro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 497 del PDF"
+  ],
+  "nota": "Verificación rápida: cita comprobada en el libro.",
+  "tema": "nutricion"
+ }
+]

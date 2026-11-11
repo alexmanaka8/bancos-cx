@@ -1,0 +1,114 @@
+[
+ {
+  "k": "d75487b365",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "El enunciado está cortado al principio y no describe bien el cuadro completo. Los fragmentos hablan de enfermedad vascular periférica, absceso hepático y fístulas, no del caso. No hay nada en la evidencia que permita elegir una opción con seguridad.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "eed6b409e1",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "El caso parece un shock con resistencia vascular baja y gasto cardíaco alto, pero el libro no lo dice así. Sabiston menciona α-agonistas (noradrenalina, fenilefrina, vasopresina) para la vasodilatación inflamatoria, sin elegir uno. El texto donde la noradrenalina es el vasopresor de elección trata del shock séptico, y el caso no dice que lo sea. Elegir entre las opciones requiere inferir demasiado.",
+  "tema": "shock"
+ },
+ {
+  "k": "d44c936e7e",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "La evidencia dice que un sodio urinario bajo (<20 mEq/L) y una FENa baja (<1%) indican causa prerrenal, y que un cociente BUN/creatinina mayor de 20 es casi diagnóstico. Eso sugiere que sodio urinario mayor de 40 no encaja con prerrenal, pero el texto no lo dice de forma directa. Los fragmentos no muestran con claridad la osmolalidad urinaria ni la relación de osmolalidades, así que no decido.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "9afff3655b",
+  "decide": true,
+  "ans": 0,
+  "cita": {
+   "libro": "sabiston",
+   "pagina": 132,
+   "texto": "Los datos científicos actuales indican que la alimentación gástrica es segura a no ser que el riesgo de aspiración sea alto, en cuyo caso la alimentación pospilórica reduce la aspiración y las neumonías."
+  },
+  "why": "Según Sabiston, la alimentación pospilórica (la sonda llega al intestino delgado, más allá del píloro) reduce la aspiración y las neumonías. Por eso la aspiración es la complicación menos probable de esa vía. Las otras opciones, como diarrea, obstrucción de la sonda o alteraciones electrolíticas, son complicaciones que la evidencia no descarta, pero tampoco compara como más probables.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "4536642f87",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "Los fragmentos hablan del catabolismo muscular y de la caquexia en general, pero no mencionan el factor inductor de proteólisis (PIF) ni el tipo de cáncer asociado. La respuesta no sale de la evidencia, así que no decido.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "d998d45ccb",
+  "decide": true,
+  "ans": 2,
+  "cita": {
+   "libro": "absite",
+   "pagina": 444,
+   "texto": "Chromium is a cofactor involved in the utilization of insulin at the tissue level, and deficiency often manifests as a sudden diabetic state in which blood sugar is difficult to control, along with peripheral neuropathy and encephalopathy."
+  },
+  "why": "El cromo es cofactor de la insulina a nivel de los tejidos. Su deficiencia se manifiesta como un estado diabético repentino, con glucosa difícil de controlar. El zinc da alopecia y mala cicatrización, el cobre da anemia microcítica, y el molibdeno da acumulación tóxica de aminoácidos con azufre, por lo que ninguno es la respuesta.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "632458fe26",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "La evidencia dice que la clasificación Child-Pugh, el MELD y la clase ASA ayudan a predecir mortalidad operatoria en cirróticos. Por eso la historia de diabetes parecería la excepción, pero el texto no habla de la diabetes como factor en cirróticos. Decir que no sirve sería inferir a partir de lo que falta, así que no decido.",
+  "tema": "eras"
+ },
+ {
+  "k": "6595b6707e",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "Sabiston, en el capítulo de quemaduras, menciona acidosis metabólica e hiperpotasemia como alteraciones de la insuficiencia renal, pero no dice cuál es la amenaza más inmediata. El fragmento de ABSITE tiene la misma pregunta sin respuesta. No decido.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "c6d5f5fb96",
+  "decide": true,
+  "ans": 3,
+  "cita": {
+   "libro": "absite",
+   "pagina": 473,
+   "texto": "A serum albumin less than 3.5 g/dL is the single most important laboratory predictor of adverse pulmonary events after surgery."
+  },
+  "why": "ABSITE dice que la albúmina sérica menor de 3,5 g/dL es el predictor de laboratorio más importante de eventos pulmonares adversos tras la cirugía. El BUN también sirve, pero con menor correlación. La espirometría de rutina no aporta más que la historia y la exploración física, salvo en resección pulmonar.",
+  "tema": "eras"
+ },
+ {
+  "k": "76c0f435b1",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "Sabiston (índice RCRI) lista como factores: cirugía de alto riesgo, cardiopatía isquémica, insuficiencia cardíaca, enfermedad cerebrovascular, insulina y creatinina mayor de 2,0. Por eso el tabaquismo parecería la excepción. Pero el mismo libro menciona el tabaquismo entre los factores de riesgo de enfermedad coronaria, lo que deja la pregunta ambigua. No decido.",
+  "tema": "eras"
+ },
+ {
+  "k": "d2acbc0517",
+  "decide": false,
+  "ans": null,
+  "cita": null,
+  "why": "Los fragmentos no incluyen la afirmación sobre el hígado, la hemoglobina, el balance de líquidos ni el consumo de oxígeno en el shock séptico. Hablan de quemaduras, hipotermia, y de una pregunta de ABSITE sin respuesta. No decido.",
+  "tema": "shock"
+ },
+ {
+  "k": "f281e58727",
+  "decide": true,
+  "ans": 2,
+  "cita": {
+   "libro": "absite",
+   "pagina": 244,
+   "texto": "However, in 2016, the ELAIN trial published in JAMA was the first large randomized controlled trial demonstrating improved 90-day mortality (39% versus 54%) with the initiation of early CRRI (defined as within 8 hours of acute kidney injury onset)."
+  },
+  "why": "El ensayo ELAIN mostró mejor mortalidad a 90 días (39% frente a 54%) cuando la CRRT se inició temprano, según ABSITE. Por eso la opción de iniciar CRRT temprano mejora la supervivencia es la verdadera. El texto dice que la IL-8 alta se asocia a más dependencia de terapia renal, no a menos, así que esa opción es falsa.",
+  "tema": "shock"
+ }
+]

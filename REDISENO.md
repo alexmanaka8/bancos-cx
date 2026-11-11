@@ -53,3 +53,18 @@ Hay que responder siempre en español y con explicaciones simples.
 - `index.html` = Inicio / Practicar (tema, semana, a medida) / Simulacro / Estadísticas / Bancos / Biblioteca, con menú lateral o barra inferior.
 - `banco.html` acepta `?id=`, `?tema=`, `?temas=a,b`, `?semana=N`, `?semanas=1,3`, `?sim=N` (+ `n`, `f`, `auto=1`).
 - Nuevas claves en localStorage: `pwa:registro` (cada respuesta: id, fecha, ms, acierto, primer intento) y `pwa:simulacros`. Sesiones: `pwa:semana-N`, `pwa:examen`, `pwa:simulacro-N`.
+
+## Estado (repaso, meta, tema)
+Hecho en `docs/comun/app.js`, `app.css`, `index.html`, `banco.html`, `biblioteca.html` (sin probar en navegador; falta revisión a mano).
+
+**Claves nuevas de localStorage**
+- `pwa:ajustes` = `{ meta: 30, tema: 'auto' | 'light' | 'dark', vibrar: true }`. Meta diaria (10, 20, 30, 45, 60), aspecto y vibración.
+- `pwa:repaso` = sesión a medias del repaso de hoy (mismo formato que las otras sesiones). El calendario de repasos NO se guarda: se calcula de `pwa:registro` (y de `hist.last` en las preguntas viejas sin registro).
+
+**Parámetros nuevos de URL**
+- `banco.html?repaso=1`: repaso espaciado de hoy (máx. 30 por sesión, empieza directo).
+- `index.html#practicar/repaso`: pestaña "Repaso".
+
+**Reglas del repaso**: última respuesta mal → mañana; racha de aciertos 1 → 3 días, 2 → 7, 3 → 14, 4 o más → 30. "Dominadas" = racha 3 o más.
+
+**Otros**: `data-theme` en `<html>` (script mínimo en el `<head>` de las tres páginas); gestos (izquierda = siguiente, derecha = anterior, ignora 24 px de cada borde); pantalla encendida (Wake Lock) durante el simulacro; mapa del simulacro plegado en celular y en columna derecha desde 900 px; atajos de teclado en computadora (A–E / 1–5, Enter, flechas, M).

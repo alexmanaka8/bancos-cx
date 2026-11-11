@@ -1,6 +1,6 @@
 // Service worker: guarda la app en el celular para usarla sin internet.
 // Lo genera herramientas/construir.py a partir de sw.plantilla.js: no lo edites a mano.
-const VERSION = '94035872eb';
+const VERSION = 'e61adafe99';
 const CACHE = 'bancos-' + VERSION;
 const BIBLIOTECA = 'bancos-biblioteca';  // páginas de la biblioteca: se guardan al abrirlas
 const ARCHIVOS = [
@@ -15,6 +15,7 @@ const ARCHIVOS = [
  "datos/banco-traducido.json",
  "datos/catalogo.json",
  "datos/cicatrizacion.json",
+ "datos/enam-2026.json",
  "datos/examenes-2026.json",
  "datos/final-2021.json",
  "datos/fotos.json",

@@ -1,0 +1,102 @@
+[
+  {
+    "k": "51693bdeea",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia solo trae el enunciado y una respuesta cortada antes del cálculo. No aparece la fórmula del déficit de agua libre ni la opción correcta. Además, la opción D no coincide: en el archivo dice 6 L y 3 L, y en el fragmento de ABSITE dice 7 L y 3.5 L. Hay que revisar esa opción en la fuente original antes de decidir.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "f762357011",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos hablan del ECG en cardiopatía isquémica y de la hiperpotasemia, no de la hipokalemia. Ningún fragmento dice cuál cambio es el menos probable en hipokalemia. El texto de ABSITE sobre hipomagnesemia se corta antes de las conclusiones. Por eso no decido.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "5c24017389",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Ningún fragmento dice cuál es el tratamiento inicial de la hipercalcemia. La única mención de bifosfonatos es un título de una referencia bibliográfica sobre ácido zoledrónico, y no sirve como prueba por sí sola. La explicación de ABSITE se corta antes de la respuesta. Sabiston habla de hipocalcemia crónica y de tiazidas para la hipercalciuria, que no responde esta pregunta.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "938a6b9db5",
+    "decide": true,
+    "ans": 3,
+    "cita": {
+      "libro": "absite",
+      "pagina": 241,
+      "texto": "Inotropic support in the form of dobutamine is indicated to improve cardiac contractility and cardiac output, while decreasing afterload."
+    },
+    "why": "La explicación de ABSITE dice que el paciente está en shock cardiogénico, con gasto bajo, RVS alta y PCWP alta. Indica que la dobutamina mejora la contractilidad y el gasto cardíaco, y que baja la poscarga, por eso la respuesta es la opción D (dobutamina). Los líquidos extra no sirven porque el paciente ya no responde a ellos, y la furosemida no ayuda porque su poca diuresis refleja bajo flujo y no sobrecarga. El nitroprusiato no sube la presión sin un inotrópico, y la fenilefrina sube la presión pero es mala opción porque la vasoconstricción ya está al máximo. El fragmento no dice con esas mismas palabras que la dobutamina suba la presión, así que esa parte es menos directa.",
+    "tema": "shock"
+  },
+  {
+    "k": "61d94fd3ec",
+    "decide": true,
+    "ans": 1,
+    "cita": {
+      "libro": "absite",
+      "pagina": 241,
+      "texto": "It is measured from a blood sample obtained from the pulmonary artery."
+    },
+    "why": "La explicación de ABSITE dice que el SvO2 se mide con una muestra de la arteria pulmonar, por eso la respuesta es la opción B. Las otras opciones no son el sitio correcto: el mismo texto dice que una SvO2 verdadera incluye sangre de la vena cava y del seno coronario. El fragmento también dice que, en la práctica, la muestra se suele tomar de la vena cava superior con un catéter central, así que conviene recordarlo.",
+    "tema": "shock"
+  },
+  {
+    "k": "a734be78e7",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia indica que la respuesta es la E (oxígeno disuelto en sangre), pero el texto se corta justo antes de explicar por qué es la de menor influencia. Sí dice que el gasto cardíaco y la contractilidad afectan la entrega de oxígeno. También muestra que el oxígeno disuelto aporta PaO2 × 0.003 en el contenido de oxígeno, pero no lo compara con la hemoglobina ni con el monóxido de carbono en el texto disponible. Por eso no decido.",
+    "tema": "shock"
+  },
+  {
+    "k": "e63dcc79fe",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Ningún fragmento habla de este caso de cetoacidosis con náuseas, vómitos y diarrea, ni da la respuesta. El texto de ABSITE sobre hiponatremia se corta antes de la conclusión. Sabiston habla de gastroparesia y de pruebas de función pulmonar, que no responden la pregunta. Para decidir faltaría la explicación de la alteración ácido-base de este caso.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "744ed36e56",
+    "decide": true,
+    "ans": 2,
+    "cita": {
+      "libro": "absite",
+      "pagina": 417,
+      "texto": "Symptoms can manifest as simple neuromuscular irritability, as demonstrated above by the presence of Trousseau sign (spasm of the forearm and hand with occlusion of the brachial artery) or, in more serious cases, as tetany, nystagmus, and seizures."
+    },
+    "why": "La explicación de ABSITE dice que en casos más graves la falta de magnesio causa tetania, nistagmo y convulsiones, por eso la respuesta es la opción C (tetania). Sabiston describe la bradicardia, la hipotensión, la pérdida de reflejos tendinosos y la apnea como efectos del exceso de magnesio (hipermagnesemia), no de su falta. Por eso la depresión respiratoria, la bradicardia, la hipotensión y la pérdida del reflejo patelar no encajan con la deficiencia.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "3b54043cbb",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Ningún fragmento dice qué estudio urinario ayuda a encontrar la causa de este trastorno ácido-base. El texto de ABSITE sobre hiponatremia se corta antes de su explicación y no menciona el cloro urinario. Sabiston habla de líquidos de mantenimiento y de laboratorio en dolor abdominal, pero no responde esta pregunta. Por eso no decido.",
+    "tema": "liquidos"
+  },
+  {
+    "k": "f17e040c3f",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos hablan de signos de shock en el paciente lesionado y de la presión intraabdominal, pero no dicen cuál signo es el más preciso de reanimación adecuada. Sabiston menciona que la diuresis baja en el shock, y Giménez dice que la diuresis debe mantenerse sobre 40 mL/h en hemorragia digestiva en cirróticos. Ninguno compara los signos de la pregunta, así que no decido.",
+    "tema": "shock"
+  },
+  {
+    "k": "e15120ef47",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos no dan la evidencia sobre cuál valor es menos consistente con esta paciente séptica con colangitis. Sabiston habla del taponamiento cardíaco y de su signo inicial, que no responde esta pregunta. ABSITE habla de sedación en UCI, que tampoco responde. Además, la opción de PCWP en el archivo no tiene número (dice solo cm H2O), y conviene corregirla en la fuente.",
+    "tema": "shock"
+  }
+]

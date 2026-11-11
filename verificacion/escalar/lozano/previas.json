@@ -1,0 +1,69 @@
+{
+ "banco": "lozano",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "6d6e9f9845",
+   "sec": "Antibioticoterapia",
+   "stem": "Varón con herida de bala en el muslo. PA 90/60, FC 136, consciente pero luego confuso. ¿Tipo de shock?",
+   "opts": [
+    "III",
+    "Se necesita más información"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 39,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "3f0682fd98",
+   "sec": "Bhe - fisiología",
+   "stem": "Un paciente fue admitido por hiponatremia debido a complicaciones de cáncer de cabeza y cuello. Se debe observar en el paciente los signos y síntomas de:",
+   "opts": [
+    "Cambios en el nivel de conciencia, cólicos abdominales, espasmos musculares",
+    "Cefalea, taquipnea y nivel de energía alta c. Dolor de pecho, fiebre y roce pericardio d. Pérdida de peso, pulso lento y cambios en la visión e. N.A"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 43,
+   "motivo": "menos de 3 opciones"
+  },
+  {
+   "k": "e6c29412b0",
+   "sec": "Bhe - fisiología",
+   "stem": "Una mujer de 25 años se encuentra en el primer día postoperatorio de una colecistectomía laparoscópica convertida a abierta por colecistitis aguda. Desde la cirugía, ha tenido un episodio de vómito, su diuresis ha disminuido a 0.3 cc/kg por hora, y su sodio sérico es de 131 mEq/L. La creatinina sérica es normal, pero los niveles de hormona antidiurética (ADH) están elevados. ¿Cuál es la causa más probable de estos hallazgos?",
+   "opts": [
+    "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+    "Respuesta fisiológica normal a la cirugía",
+    "Lesión renal aguda",
+    "Vómito",
+    "Insuficiencia cardíaca congestiva"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 44,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "346d2b8083",
+   "sec": "Quemados",
+   "stem": "Complicación del uso de sulfadiazina de plata en pacientes quemados:",
+   "opts": [
+    "Leucocitosis",
+    "Neutropenia",
+    "Linfopenia",
+    "N.A",
+    "Leucopenia"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 49,
+   "motivo": "sin clave original"
+  }
+ ]
+}

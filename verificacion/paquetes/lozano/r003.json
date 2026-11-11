@@ -1,0 +1,400 @@
+{
+ "banco": "lozano",
+ "paquete": "r003",
+ "preguntas": [
+  {
+   "k": "51693bdeea",
+   "stem": "Un hombre de 68 años (70 kg), residente en un asilo, es admitido por estado mental alterado. Tiene hipotensión ortostática. Laboratorios: Na 168, K 4.0, Cl 118, HCO₃ 28, BUN 30, Cr 1.6. ¿Cuál es su déficit de agua libre?",
+   "opts": [
+    "3 L y deben reemplazarse en 12 h",
+    "4 L y deben reemplazarse en 24 h",
+    "5 L y 2.5 L deben reemplazarse en 24 h",
+    "6 L y 3 L deben reemplazarse en 24 h",
+    "10 L y 5 L deben reemplazarse en 24 h"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 236,
+     "texto": "sudden drop in urine output in a patient with an IABP should prompt an immediate chest x-ray B. The balloon inflates during early systole and deflates during diastole C. Coronary blood flow is unchanged D. IABP can be removed regardless of the platelet count E. Heparinization is required at all times with an IABP in place due to thrombotic risk 3. A 55-year-old male sustains severe multisystem injuries, including multiple rib fracture and a traumatic brain injury with subdural hematoma, after a motor vehicle collision. He remains intubated for multiple days and develops ventilator-associated pneumonia, acute renal failure, and septic shock and requires placement of a nontunneled hemodialysis catheter at bedside. His INR is 2.4. Which of the following is true regarding central line placement in this patient? A. The use of prophylactic antibiotics reduces catheter-associated infection B. Placement in the subclavian vein placement is ideal in this patient C. Placement of a central line in the internal jugular vein is contraindicated in a patient with intracranial hemorrhage D. Placement in the subclavian vein has the highest risk of pneumothorax E. Placement in the femoral vein has a lower risk of central line-associated bloodstream infection (CLABSI) compared to subclavian vein placement 4. A 68-year-old (70-kg) male nursing home resident is admitted for an altered mental status. His vital signs demonstrate orthostatic hypotension. Laboratory studies reveal a serum sodium level of 168 mEq/L, a serum potassium level of 4.0 mEq/L, a serum chloride level of 118 mEg/L, an HCO level of 28 mEq/L, a blood urea nitrogen (BUN) of 30 mg/ dL, and a serum creatinine level of 1.6 mg/ dL. His free water deficit is: A. 3 L and all of it should be replaced over the next 12 hours B. 4 L"
+    }
+   ]
+  },
+  {
+   "k": "f762357011",
+   "stem": "¿Cuál de los siguientes cambios ECG es el MENOS probable en hipokalemia?",
+   "opts": [
+    "Depresión del segmento ST",
+    "Inversión de la onda T",
+    "Bloqueo AV de segundo o tercer grado",
+    "Complejos ventriculares prematuros",
+    "Ondas U"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1707,
+     "texto": "dolor torácico aparte de la AC. La radiografía torácica no permite detectar directamente una AC; solo identifica sus secuelas, como la cardiomegalia, el edema pulmonar y los derrames pleurales, que son indicio de insuficiencia cardíaca. Desde el punto de vista quirúrgico, la radiografía de tórax preoperatoria es importante, ya que permite identificar anomalías patentes, como aorta de porcelana, masas pulmonares, derrame y neumonía, que pueden afectar al estudio diagnóstico o producir cambios en la estrategia quirúrgica. Electrocardiograma en reposo Se debe obtener un electrocardiograma (ECG) en reposo de 12 derivaciones en todo paciente con sospecha de CI o sus secuelas. En el ECG hay que buscar signos de hipertrofia del VI, depresión o ascenso del segmento ST, latidos ectópicos u ondas Q. Las arritmias (fibrilación auricular o taquicardia ventricular) y los defectos de conducción (bloqueo del fascículo anterior derecho, bloqueo de rama derecha, bloqueo de rama izquierda) son también indicio de AC e IM. Una elevación persistente del segmento ST o una onda Q en evolución suelen ser signos de lesión miocárdica e isquemia en desarrollo. El 50% de los pacientes tienen un ECG normal a pesar de sufrir AC significativa, y el 50% de los ECG obtenidos durante un episodio de dolor torácico en reposo son normales, lo que demuestra la escasa precisión de esta prueba. Los pacientes con CIE tienden a presentar peor pronóstico si registran alguna de las siguientes anomalías en el ECG en reposo: evidencia de IM previo, especialmente si las ondas Q en múltiples derivaciones o si una onda R en V1 indican infarto posterior; inversiones del segmento ST-ondas T, persistentes, sobre todo de V1 a V3; bloqueo de rama izquierda, bloqueo bifascicular, bloqueo AV de segundo o tercer grado,"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1722,
+     "texto": "la línea arterial. Al inflarse, incrementa la presión de perfusión diastólica y mejora el flujo sanguíneo coronario, con lo que disminuye el índice de tiempo-tensión y aumenta el índice de presión diastólica-tiempo, con el consiguiente aumento del cociente suministro-demanda de oxígeno miocárdico. El BCIA está totalmente contraindicado en pacientes con insuficiencia y disección aórticas. También está relativamente contraindicado en pacientes con VP o aneurismas aórticos. CUIDADOS POSTOPERATORIOS Los cuidados postoperatorios en la unidad de cuidados intensivos (UCI) comienzan por una evaluación física y hemodinámica exhaustiva. Hay que registrar y comprobar cada hora el drenaje por el tubo torácico mediastínico. El ventilador debe programarse inicialmente con los mismos valores usados en el quirófano. Posteriormente, se realizarán ajustes adicionales en función de los resultados de la gasometría postoperatoria. Se debe evitar una presión teleespiratoria positiva muy alta en los pacientes con inestabilidad hemodinámica. El tipo de ventilación ideal será aquel con el que se sienta más cómodo el equipo quirúrgico o de cuidados intensivos. Se obtiene una radiografía torácica con un equipo portátil para confirmar la posición del tubo endotraqueal, las líneas centrales, el catéter de Swan-Ganz y el BCIA, y para identificar posibles neumotórax, atelectasias, edemas pulmonares o derrames pleurales. Los estudios de laboratorio iniciales deben incluir la determinación de la hemoglobina, el hematocrito, los electrólitos, el nitrógeno ureico en sangre, la creatinina, la gasometría arterial, el recuento plaquetario, el tiempo de protrombina y el tiempo de tromboplastina parcial. El paciente debe estar conectado a un ECG que permita evaluar posibles anomalías en las ondas ST-T, a una"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 236,
+     "texto": "injury with subdural hematoma, after a motor vehicle collision. He remains intubated for multiple days and develops ventilator-associated pneumonia, acute renal failure, and septic shock and requires placement of a nontunneled hemodialysis catheter at bedside. His INR is 2.4. Which of the following is true regarding central line placement in this patient? A. The use of prophylactic antibiotics reduces catheter-associated infection B. Placement in the subclavian vein placement is ideal in this patient C. Placement of a central line in the internal jugular vein is contraindicated in a patient with intracranial hemorrhage D. Placement in the subclavian vein has the highest risk of pneumothorax E. Placement in the femoral vein has a lower risk of central line-associated bloodstream infection (CLABSI) compared to subclavian vein placement 4. A 68-year-old (70-kg) male nursing home resident is admitted for an altered mental status. His vital signs demonstrate orthostatic hypotension. Laboratory studies reveal a serum sodium level of 168 mEq/L, a serum potassium level of 4.0 mEq/L, a serum chloride level of 118 mEg/L, an HCO level of 28 mEq/L, a blood urea nitrogen (BUN) of 30 mg/ dL, and a serum creatinine level of 1.6 mg/ dL. His free water deficit is: A. 3 L and all of it should be replaced over the next 12 hours B. 4 L and all of it should be replaced over the next 24 hours C. 5 L and 2.5 L should be replaced over the next 24 hours D. 7 L and 3.5 L should be replaced over the next 24 hours E. 10 L and 5 L should be replaced over the next 24 hours 5. Which of the following electrocardiographic changes is least likely to occur with hypokalemia? A. ST segment depression B. T-wave inversion C. Second- or third-degree atrioventricular block D. Premature ventricular complexes E."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 563,
+     "texto": "tratamiento no da resultado, puede estar indicada la diálisis. Igualmente, puede que haya que recurrir a esta última para tratar algunas secuelas peligrosas. Hiperpotasemia La hiperpotasemia es el resultado de una alteración en la excreción de potasio (LRA) o a desplazamientos transcelulares del potasio. Su principal efecto es una disminución del potencial de membrana en reposo del miocardio con anomalías en el sistema de conducción. El ECG puede registrar ondas T picudas (el hallazgo más frecuente), complejos QRS anchos, pérdida de ondas P, ondas sinusoidales, arritmias ventriculares y, en última"
+    }
+   ]
+  },
+  {
+   "k": "5c24017389",
+   "stem": "Una mujer de 42 años con cáncer de mama metastásico está letárgica y con cambios mentales. Calcio: 14.5 mg/dL, FA: 2000 UI/L, BUN: 42, Cr: 1.1. ¿Cuál es el tratamiento inicial?",
+   "opts": [
+    "Mitramicina",
+    "Bifosfonatos",
+    "Diuréticos de asa",
+    "Diuréticos tiazídicos",
+    "Suero fisiológico"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 236,
+     "texto": "A. The use of prophylactic antibiotics reduces catheter-associated infection B. Placement in the subclavian vein placement is ideal in this patient C. Placement of a central line in the internal jugular vein is contraindicated in a patient with intracranial hemorrhage D. Placement in the subclavian vein has the highest risk of pneumothorax E. Placement in the femoral vein has a lower risk of central line-associated bloodstream infection (CLABSI) compared to subclavian vein placement 4. A 68-year-old (70-kg) male nursing home resident is admitted for an altered mental status. His vital signs demonstrate orthostatic hypotension. Laboratory studies reveal a serum sodium level of 168 mEq/L, a serum potassium level of 4.0 mEq/L, a serum chloride level of 118 mEg/L, an HCO level of 28 mEq/L, a blood urea nitrogen (BUN) of 30 mg/ dL, and a serum creatinine level of 1.6 mg/ dL. His free water deficit is: A. 3 L and all of it should be replaced over the next 12 hours B. 4 L and all of it should be replaced over the next 24 hours C. 5 L and 2.5 L should be replaced over the next 24 hours D. 7 L and 3.5 L should be replaced over the next 24 hours E. 10 L and 5 L should be replaced over the next 24 hours 5. Which of the following electrocardiographic changes is least likely to occur with hypokalemia? A. ST segment depression B. T-wave inversion C. Second- or third-degree atrioventricular block D. Premature ventricular complexes E. U waves 6. A 42-year-old woman with metastatic breast cancer is lethargic and has mental status changes. Her serum calcium is 14.5 mg/ dL, serum alkaline phosphatase is 2000 IU/L, BUN is 42 mg/ dL, and serum creatinine is 1.1 mg/ dL. Initial treatment of the hypercalcemia should be: A. Mithramycin B. Bisphosphonates C. Loop diuretics D. Thiazide diuretics"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 408,
+     "texto": "add 2 mEq/L of Na* for each 100 mg/ dL the blood glucose is above 100 mg/ dL 2. Isotonic (osmolality 275-290 mOsm/ kg): pseudohyponatremia a) Laboratory error due to over-dilution in the presence of abnormally high amounts of solute b) Most common causes are hypertriglyceridemia, familial hypercholesterolemia, multiple myeloma 3. Hypotonic (osmolality <275 mOsm/kg): excess free water a) Low urine osmolality (<285 mOsm/kg): antidiuretic hormone (ADH) independent (1) Tea and toast/Beer potomania: due to low solute intake (a) Treatment: high solute diet (2) Psychogenic polydipsia: excessive water intake (a) Treatment: water restriction b) High urine osmolality (>285 mOsm/kg): ADH dependent (1) Hypovolemic: gastrointestinal losses, renal losses (diuretics, mineralocorticoid deficiency), third-spacing (a) Treatment: normal saline (2) Euvolemic: SIADH, adrenal insufficiency, hypothyroidism (a) Treatment: free water restriction, hypertonic saline, vaptans (SIADH) (3) Hypervolemic: heart failure, cirrhosis, nephrotic syndrome (a) Treatment: water and Na+ restriction, diuresis C. Treatment: Na+ should be corrected at a rate <8 to 12 mEq/L over 24 hours in order to avoid osmotic demyelination syndrome (ODS) characterized by encephalopathy, seizures, dysphagia, neuromuscular weakness, lethargy, tremors, and paralysis; severe case of ODS is \"locked-in syndrome\" 1. Chronic hyponatremia, hypokalemia, liver disease, malnutrition, alcoholism are higher risk for ODS and should be corrected <8 mEq/L over 24 hours; initial level of serum sodium does not necessarily correlate with the development of ODS VI. Hypernatremia (Na* > 145 mEq/L): water deficit and/ or excess solute A. Symptoms: restlessness, confusion, seizures B. Diagnosis 1. Hypovolemic a) High urine sodium (>20 mEq/L): renal"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 113,
+     "texto": "renal se deteriora. La hiperfosfatemia crónica se trata con una dieta pobre en fosfato y quelantes de fosfato con las comidas. La hipocalcemia crónica (hipoparatiroidismo) se trata con la administración oral de calcio y, si esto es insuficiente, complementos de vitamina D. La concentración sérica diana de calcio debe ser de unos 8 mg/dl. La mayoría de los pacientes estarán completamente asintomáticos con ese valor. Una mayor elevación conducirá a la hipercalciuria debida a la falta de efecto de la PTH sobre los túbulos renales. La hipercalciuria crónica conlleva riesgos de nefrocalcinosis, nefrolitiasis y deterioro renal. Disponemos de preparados de calcio oral. El carbonato de calcio es la forma más barata, pero puede absorberse mal, en especial en pacientes mayores y aquellos con aclorhidria. De forma análoga disponemos de varias formas de vitamina D. Si los preparados orales de calcio no consiguen una repleción adecuada del calcio, debe añadirse vitamina D. La dosis diaria inicial es de 50.000 UI de 25-hidroxicolecalciferol (o 0,25-0,5 mg de 1,25-dihidroxicolecalciferol). Las dosis de calcio y vitamina D se establecen mediante un ajuste gradual. Cuando se consigue una concentración adecuada de calcio, se mide la excreción urinaria de calcio. Si se detecta una hipercalciuria, puede añadirse un diurético tiacídico para reducir la calciuria y aumentar más la concentración sérica de calcio. Si la concentración de fósforo es mayor de 6 mg/dl cuando la de calcio es satisfactoria, debe añadirse un quelante no reabsorbible del fosfato. Una vez controladas las concentraciones de calcio y fósforo, hay que vigilar en el paciente cada 3-6 meses los dos valores y la excreción urinaria de calcio. Es necesario considerar de forma especial el tratamiento de las mujeres con"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 73,
+     "texto": "cardíaco) o intrínsecas (infarto de miocardio causante de insuficiencia de la bomba, contusión o laceración cardíaca, o insuficiencia cardíaca). El segundo nivel se produce en los vasos grandes o intermedios, donde la hemorragia y la pérdida de volumen sanguíneo provocan shock. El último nivel sucede en los pequeños vasos, en los TABLA 4.1 del ATLS Clases de shock hemorrágico CLASE I CLASE II CLASE III CLASE IV Pérdida de 0-15 15-30 30-40 > 40 sangre (%) Sistema nervioso Ligeramente ansioso Moderadamente ansioso Ansioso o confuso Confuso o letárgico central Pulso < 100 > 100 > 120 > 140 (latidos/ min)"
+    }
+   ]
+  },
+  {
+   "k": "938a6b9db5",
+   "stem": "Un hombre de 75 años se torna hipotenso (PAS 70 mmHg) tras reparación de hernia inguinal. Tiene baja diuresis y no responde a líquidos. Catéter pulmonar: GC 3 L/min, RVS 2140, SvO₂ 55%, PCP 24 mmHg. ¿Qué elevará mejor la presión?",
+   "opts": [
+    "500 mL de Ringer lactato",
+    "Furosemida 20 mg IV",
+    "Nitroprusiato 0.5 µg/kg/min",
+    "Dobutamina 5–10 µg/min",
+    "Fenilefrina 1 µg/kg/min"
+   ],
+   "tema": "shock",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 237,
+     "texto": "7. A 75-year-old man becomes hypotensive (systolic blood pressure of 70 mmHg) after repair of an inguinal hernia. Urine output is low, and he is unresponsive to fluid administration. A pulmonary artery catheter is inserted. Cardiac output is 3 L/ min; systemic vascular resistance (SVR) is 2140 dynes / sec × cm'; SvO, is 55%; pulmonary capillary wedge pressure (PCWP) is 24 mmHg. Which of the following is most likely to elevate the systolic blood pressure? A. 500 mL of Ringer's lactate to improve preload B. Lasix (furosemide) 20 mg intravenously to improve urine output C. Nitroprusside at 0.5 ug/ kg/ L/ min to decrease the SVR D. Dobutamine at 5 to 10 ug/min for inotropic support E. Neo-Synephrine (phenylephrine) at 1 ug/L per min to increase blood pressure 8. Nosocomial pneumonia among intensive care unit patients: A. Has the same mortality rate as does community-acquired pneumonia (CAP) B. Is the most common nosocomial infection C. Can be avoided by early tracheostomy D. Is directly related to the duration of intubation E. Can be prevented by early institution of prophylactic IV antibiotics 9. Blood samples for the determination of mixed venous oxygen saturation (SvO2) are ideally obtained from: A. Right atrium B. Pulmonary artery C. Pulmonary vein D. Two peripheral veins mixed together E. Central venous pressure line 10. Which of the following variables has the least influence on oxygen delivery? A. Hemoglobin B. Cardiac contractility C. Heart rate D. Carbon monoxide concentration E. Partial pressure of dissolved oxygen in the blood 11. Pulmonary artery occlusion pressure (PAOP) reflects which of the following physiologic variables? A. Cardiac output B. Pulmonary arterial pressure C. Left atrial pressure D. Pulmonary compliance E. Systemic vascular resistance (SVR) 209"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 551,
+     "texto": "(o la presión de enclavamiento, si se puede medir) sube por encima de 15 mmHg, seguida de la inodilatación con dobutamina o milrinona. No obstante, hay que usar los líquidos de manera juiciosa, ya que la dilatación del ventrículo derecho puede hacer que el tabique se arquee hacia el ventrículo izquierdo, menguando la función ventricular izquierda, un fenómeno que se conoce como interdependencia interventricular. Los inodilatadores dilatan los vasos sanguíneos, reduciendo la presión arterial, e incrementan el GC, estimulando la contractilidad. Constituyen la opción ideal cuando el GC es bajo y la RVS es alta, pero a menudo no son viables si la presión arterial sistémica es baja. Por esa razón, una estrategia utilizada habitualmente consiste en combinar inodilatadores con vasopresores como la noradrenalina, titulando los primeros en función del GC y los segundos para poder obtener una presión arterial sistémica apropiada. Insuficiencia cardíaca izquierda. En la insuficiencia cardíaca izquierda se plantean dos cuestiones: ¿cuál es la presión arterial del paciente? y ¿existe una sobrecarga de líquidos? Aunque tradicionalmente se ha recurrido a los diuréticos para tratar a la mayoría de los pacientes con insuficiencia cardíaca izquierda basándose en la teoría de que esos pacientes han superado el punto de inflexión en la curva de Starling, en realidad los pacientes con shock cardiógeno pueden manifestar hipervolemia, hipovolemia o euvolemia. Hay que emplear otras medidas para determinar el estado de la volemia, como el peso, el edema de pies, la ecografía de la vena cava inferior y otros métodos no invasivos más recientes. El otro punto de referencia es la presión arterial. Si el paciente es hipertenso, se puede usar la nitroglicerina, el nitroprusiato o el nicardipino."
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 241,
+     "texto": "A, Hon J, et al. Zoledronic acid is superior to pamidronate in the treatment of hypercalcemia of malignancy: a pooled analysis of two randomized, controlled clinical trials. J Clin Oncol. 2001;19(2):558-567. 7. D. The patient is in cardiogenic shock as evidenced by low cardiac output, elevated SVR, and elevated PCWP. He has already shown to not have a persistent response to fluids so an additional bolus is unlikely to be helpful (A). Inotropic support in the form of dobutamine is indicated to improve cardiac contractility and cardiac output, while decreasing afterload. Alternative inotropes (vasoactive agents) include epinephrine and a phosphodiesterase inhibitor, such as milrinone. Given the patient's elevated PCWP, it is unlikely that further fluid resuscitation to increase preload is necessary. Furosemide (Lasix) is not a good option because his low urine output reflects poor forward flow versus volume overload (B). Nitroprusside is a vasodilator and could potentially improve cardiac output, but blood pressure is unlikely to improve without ionotropic agents (C). It should not be used as the next step in treating this patient. Phenylephrine CHAPTER 15 Surgical Critical Care 213 (Neo-Synephrine) is an al-agonist that will increase SVR (atterload) and can increase blood pressure. However, the patient is already maximally vasoconstricted as you would expect in cardiogenic shock and as evidenced by the high SVR. Phenylephrine would be a poor choice in a patient with cardiogenic shock (E). 8. D. Nosocomial pneumonia is the second most common nosocomial infection (the most common is urinary tract infection) and the most common nosocomial infection among ventilated patients (B). The risk of ventilator-associated pneumonia increases 5% per day and is as high as 70% at 30"
+    }
+   ]
+  },
+  {
+   "k": "61d94fd3ec",
+   "stem": "Las muestras para determinar la saturación venosa mixta de oxígeno (SvO₂) se obtienen idealmente de:",
+   "opts": [
+    "Aurícula derecha",
+    "Arteria pulmonar",
+    "Vena pulmonar",
+    "Dos venas periféricas mezcladas",
+    "Línea de presión venosa central"
+   ],
+   "tema": "shock",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1723,
+     "texto": "de los estudios longitudinales realizados, el IDAC ha borrado el impacto negativo de las anomalías de la función VI sobre la supervivencia a largo plazo. Una revascularización incompleta se asocia a una menor supervivencia, mientras que la revascularización completa, el uso de la AMII y, en algunos estudios, el uso de la AMIB, se asocian a una supervivencia más prolongada. En el estudio CASS se ha documentado una supervivencia general del 96, el 90, el 74, el 56 y el 45% transcurridos 1, 5, 10, 15 y 18 años desde la cirugía, respectivamente. Estas cifras son inferiores a las observadas en la población norteamericana de la misma edad y a las de los estudios modernos de pacientes que han recibido injertos mamarios sencillos o bilaterales. Morbilidad Taponamiento. El taponamiento pericárdico se debe a la formación de un coágulo en el pericardio y la compresión del corazón. Se debe sospechar esta posibilidad si el paciente muestra signos de bajo gasto cardíaco, hipotensión con taquicardia y aumento de la presión venosa central. La cuantía del drenaje mediastínico no permite predecir un taponamiento, aunque un descenso brusco del drenaje a través del tubo torácico mediastínico debe hacernos pensar en un posible taponamiento por el cierre de la vía de salida para la sangre. El ensanchamiento del mediastino en la radiografía torácica y los signos de derrame pericárdico en la ecocardiografía confirman el diagnóstico. Si el paciente tiene colocado un catéter de Swan-Ganz y se están monitorizando las presiones cardíacas derecha e izquierda, la presión venosa central y la presión de enclavamiento capilar pulmonar suelen estar elevadas y ser iguales. La primera manifestación del taponamiento es un descenso agudo de la saturación de oxígeno en sangre venosa mixta. Una vez que se ha"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1669,
+     "texto": "muy exacta del perfil hemodinámico del paciente. Los datos que se pueden medir o deducir son la presión venosa central, la presión auricular, las presiones ventriculares (incluida la presión telediastólica), la fracción de derivación (en el caso de las CIA o CIV), las presiones arteriales pulmonares, la presión en cuña de los capilares pulmonares, la presión arterial sistémica y la oximetría segmentaria de las distintas estructuras cardíacas, incluyendo los retornos venosos sistémico y pulmonar (fig. 59.5). De este modo, se obtiene información crucial sobre la presencia y el grado de derivaciones, la resistencia vascular sistémica y resistencia vascular pulmonar (RVP) y la función cardiopulmonar. Es indudable que en determinadas circunstancias clínicas estos datos son imprescindibles para que el tratamiento clínico tenga éxito, especialmente en el caso de un paciente adulto con una CC tratado o no que tiene que someterse a una intervención extracardíaca. Para poder interpretar los datos obtenidos con el cateterismo cardíaco en un paciente con una CC es fundamental conocer bien la fisiología cardiorrespiratoria normal. En concreto, hay que comparar el intervalo de presiones normales, la forma de las ondas del pulso y las saturaciones de oxígeno de las distintas cavidades cardíacas con los datos obtenidos en una circulación deteriorada. En las aurículas se registran unas ondas características: la onda a corresponde a la contracción auricular, la onda c al cierre de la válvula A-V y la onda v al llenado auricular por el retorno venoso contra la válvula A-V cerrada. Las presiones normales típicas de la aurícula derecha oscilan entre 1 y 5 mmHg, y las de la aurícula izquierda entre 2 y 10 mmHg. Los registros de la presión ventricular derecha de un corazón normal muestran"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 237,
+     "texto": "7. A 75-year-old man becomes hypotensive (systolic blood pressure of 70 mmHg) after repair of an inguinal hernia. Urine output is low, and he is unresponsive to fluid administration. A pulmonary artery catheter is inserted. Cardiac output is 3 L/ min; systemic vascular resistance (SVR) is 2140 dynes / sec × cm'; SvO, is 55%; pulmonary capillary wedge pressure (PCWP) is 24 mmHg. Which of the following is most likely to elevate the systolic blood pressure? A. 500 mL of Ringer's lactate to improve preload B. Lasix (furosemide) 20 mg intravenously to improve urine output C. Nitroprusside at 0.5 ug/ kg/ L/ min to decrease the SVR D. Dobutamine at 5 to 10 ug/min for inotropic support E. Neo-Synephrine (phenylephrine) at 1 ug/L per min to increase blood pressure 8. Nosocomial pneumonia among intensive care unit patients: A. Has the same mortality rate as does community-acquired pneumonia (CAP) B. Is the most common nosocomial infection C. Can be avoided by early tracheostomy D. Is directly related to the duration of intubation E. Can be prevented by early institution of prophylactic IV antibiotics 9. Blood samples for the determination of mixed venous oxygen saturation (SvO2) are ideally obtained from: A. Right atrium B. Pulmonary artery C. Pulmonary vein D. Two peripheral veins mixed together E. Central venous pressure line 10. Which of the following variables has the least influence on oxygen delivery? A. Hemoglobin B. Cardiac contractility C. Heart rate D. Carbon monoxide concentration E. Partial pressure of dissolved oxygen in the blood 11. Pulmonary artery occlusion pressure (PAOP) reflects which of the following physiologic variables? A. Cardiac output B. Pulmonary arterial pressure C. Left atrial pressure D. Pulmonary compliance E. Systemic vascular resistance (SVR) 209"
+    },
+    {
+     "libro": "latarjet2",
+     "nombre": "Latarjet, Anatomía humana, t. 2",
+     "pagina": 83,
+     "texto": "de menor calibre. El circuito de la sangre parte de la placenta, donde se efectúan todos los cambios nutritivos con la sangre de la mujer gestante y, en particular, la hematosis. Es, pues, sangre oxigenada la que parte de la placenta, por la vena umbilical, hacia el embrión y el feto.La vena umbilical se dirige hacia el hígado y a través del conducto venoso [de Arancio] llega a la vena cava inferior. El hígado recibe asimismo una parte de sangre proveniente de la vena porta hepática (sangre venosa) (fig . 78-1). A partir de este momento, los vasos sanguíneos contienen sangre mezclada: la vena cava"
+    }
+   ]
+  },
+  {
+   "k": "a734be78e7",
+   "stem": "¿Cuál de las siguientes variables tiene MENOR influencia en la entrega de oxígeno?",
+   "opts": [
+    "Hemoglobina",
+    "Contractilidad cardíaca",
+    "Frecuencia cardíaca",
+    "Concentración de monóxido de carbono",
+    "Presión parcial de oxígeno disuelto en sangre"
+   ],
+   "tema": "shock",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 241,
+     "texto": "(E). However, there are some data to suggest that oral decontaminant regimens (gentamicin/ colistin/ vancomycin 2% in Orabase gel every 6 hours) can reduce the rate of ventilator-associated pneumonia. However, this is not yet the standard of care. Although early tracheostomy can reduce the number of days on the ventilator, it does not lead to reduced rates of pneumonia (C). Reference: Bergmans DC, Bonten MJ, Gaillard CA, et al. Prevention of ventilator-associated pneumonia by oral decontamination: a prospective, randomized, double-blind, placebo-controlled study. Am J Respir Crit Care Med. 2001;164(3):382-388 9. B. SvO, is an indirect measurement of oxygen delivery. It is measured from a blood sample obtained from the pulmonary artery. A true SVO2 includes blood from the vena cava and the coronary sinus (A, C-E). SvO, is a marker for adequacy of resuscitation and reversal of hypoxemia. However, mixed venous gas is most commonly sampled from the superior vena cava using a central venous catheter. 10. E. Oxygen delivery (DO2) is determined solely by the cardiac output and the oxygen content of blood (CaO2), so anything that affects these two variables is going to have a direct effect on the DO2. Because cardiac output is determined by the stroke volume and heart rate, a change in cardiac contractility will directly influence DO, (B, C). The oxygen content of blood can be defined by the equation CaO2 = (Hg × 1.34 × SaO2) + (PaO2 × 0.003), where Hg is the concentration of hemoglobin, SaO, is the percent saturation of hemoglobin, 1.34 is the oxygen-carrying capacity of 1 g of hemoglobin, PaO, is the partial pressure of oxygen dissolved in the blood, and 0.003 is the measure of O2 (in mL) dissolved in 1 dL of blood per mmHg of pressure. So hemoglobin and carbon monoxide"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 237,
+     "texto": "7. A 75-year-old man becomes hypotensive (systolic blood pressure of 70 mmHg) after repair of an inguinal hernia. Urine output is low, and he is unresponsive to fluid administration. A pulmonary artery catheter is inserted. Cardiac output is 3 L/ min; systemic vascular resistance (SVR) is 2140 dynes / sec × cm'; SvO, is 55%; pulmonary capillary wedge pressure (PCWP) is 24 mmHg. Which of the following is most likely to elevate the systolic blood pressure? A. 500 mL of Ringer's lactate to improve preload B. Lasix (furosemide) 20 mg intravenously to improve urine output C. Nitroprusside at 0.5 ug/ kg/ L/ min to decrease the SVR D. Dobutamine at 5 to 10 ug/min for inotropic support E. Neo-Synephrine (phenylephrine) at 1 ug/L per min to increase blood pressure 8. Nosocomial pneumonia among intensive care unit patients: A. Has the same mortality rate as does community-acquired pneumonia (CAP) B. Is the most common nosocomial infection C. Can be avoided by early tracheostomy D. Is directly related to the duration of intubation E. Can be prevented by early institution of prophylactic IV antibiotics 9. Blood samples for the determination of mixed venous oxygen saturation (SvO2) are ideally obtained from: A. Right atrium B. Pulmonary artery C. Pulmonary vein D. Two peripheral veins mixed together E. Central venous pressure line 10. Which of the following variables has the least influence on oxygen delivery? A. Hemoglobin B. Cardiac contractility C. Heart rate D. Carbon monoxide concentration E. Partial pressure of dissolved oxygen in the blood 11. Pulmonary artery occlusion pressure (PAOP) reflects which of the following physiologic variables? A. Cardiac output B. Pulmonary arterial pressure C. Left atrial pressure D. Pulmonary compliance E. Systemic vascular resistance (SVR) 209"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 159,
+     "texto": "© Elsevier. Fotocopiar sin autorización es un delito. ￼ FIGURA 6.8 Carcinoma epidermoide en una úlcera por presión crónica. local adecuada. En condiciones de hipoxia, la energía obtenida de la glucólisis podría ser suficiente para desencadenar la síntesis de colágeno, pero la presencia de oxígeno molecular es crítica en la hidroxilación postraducción de los residuos de prolina y lisina necesaria para la formación de la triple hélice y el entrecruzamiento de las fibrillas de colágeno. Aunque una hipoxia leve estimula la angiogenia, este paso esencial en el ensamblaje de las fibrillas de colágeno apenas avanza cuando la presión parcial de oxígeno (Po2) desciende por debajo de 40 mmHg. Es posible que haya una Po2 óptima para la síntesis de colágeno en la periferia de la herida, pero el centro permanece hipóxico. Las consecuencias de la anemia en la cicatrización de las heridas se han atribuido desde hace tiempo a la hipoperfusión predominantemente. Sin embargo, los estudios que evalúan anastomosis del colon en un modelo de shock hemorrágico reanimado con cristaloides pusieron de manifiesto alteraciones de los parámetros histológicos: reducción de la infiltración por leucocitos, angiogenia, producción de fibroblastos y de colágeno, que contribuían a la demora en la cicatrización. Fumar y el consumo de productos tabáquicos causan vasoconstricción periférica y una reducción del 30-40% en el flujo sanguíneo de las heridas. Las concentraciones séricas elevadas de monóxido de carbono inhiben los sistemas enzimáticos necesarios para el metabolismo celular oxidativo. La nicotina también inhibe la prostaciclina plaquetaria, promoviendo la adherencia de las plaquetas, oclusiones microvasculares trombóticas e isquemia tisular. El consumo de tabaco inhibe la función de las células"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 341,
+     "texto": "eliminado con rapidez. Tras una anestesia superior a las 3 h, el desflurano produce una recuperación más rápida que el isoflurano. El desflurano, el más volátil y menos potente de los anestésicos volátiles, se debe administrar a través de vaporizadores especializados calentados eléctricamente. Su olor acre impide la inducción inhalatoria. Además, puede provocar taquicardia e hipertensión si se aumenta demasiado deprisa la concentración inspirada. Cuando se exponen a absorbente de CO2 seco, el desflurano, el isoflurano y el enflurano se convierten parcialmente en monóxido de carbono. El desflurano, el"
+    }
+   ]
+  },
+  {
+   "k": "e63dcc79fe",
+   "stem": "Un hombre de 25 años con diabetes mellitus insulinodependiente es admitido a la UCI con hiperglucemia severa. Tiene 1 día de náuseas, vómitos y diarrea, y suspendió la insulina por baja ingesta. PA: 100/60 mmHg, FC: 104 lpm, FR: 28 rpm, T°: 99°F (37.2°C). Mucosas secas y dolor abdominal difuso leve. Laboratorio: Na 135, K 3.5, Cl 110, CO₂ 8, BUN 22, Cr 1.2, albúmina 4.1, glucosa 350. Gasometría: pH 7.25, PaCO₂ 20 mmHg, PaO₂ 95 mmHg. Cetonas positivas 1:8. ¿Cuál es la mejor explicación para la alteración ácido-base?",
+   "opts": [
+    "Cetoacidosis diabética",
+    "Cetoacidosis diabética con hiperventilación",
+    "Cetoacidosis diabética y diarrea",
+    "Cetoacidosis diabética y náuseas/vómitos",
+    "Error de laboratorio"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 410,
+     "texto": "be most helpful in establishing a diagnosis? A. Urine drug screen B. Computed tomography of the brain C. Spot urine chloride concentration D. Electrocardiogram (ECG) E. Abdominal ultrasound 3. A 64-year-old female with a past medical history of breast cancer with diffuse osseous metastases is admitted to the general surgery service for nonoperative management of small bowel obstruction thought to be due to adhesive disease. Her admission labs demonstrate a calcium of 12.6 mg/dL with an albumin of 2.0 g/dL. She is given a normal saline bolus followed by a drip at 200 mL/hr. IV calcitonin is also administered What is the best next step in management? A. Administer IV furosemide B. Administer IV sevelamer C. Convert to maintenance fluids with lactated Ringer's D. Administer IV zoledronic acid E. Administer IV hydrocortisone 4. A 44-year-old male with poorly controlled type 2 diabetes mellitus presents with acute cholecystitis and a blood glucose of 800 mg/ dL, Na* of 120 mEq/L, an anion gap of 22, and positive urine ketones. He is initiated on IV fluids, an insulin drip, and antibiotics. What is true regarding his sodium? A. The corrected sodium is 127 mEq/L B. The sodium should not be corrected faster than 5 mEq/L in 24 hours C. The corrected sodium is 134 mEq/L D. It is impossible to correct for sodium in the setting of ketones E. His hyponatremia is due to glucose-induced diuresis 5. A 76-year-old female is postoperative day 4 from sigmoid colon resection. Her postoperative course has been uneventful, but she has not yet started passing flatus. Overnight, the urinary output has decreased to 20 cc/hour, and the patient has had several episodes of emesis. Lab work includes a blood urea nitrogen (BUN) of 40 mg/ dL and serum creatinine of 1.5 mg/ dL. Urinary sodium is 10"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 31,
+     "texto": "11. Un hombre obeso de 55 años se presenta al hospital para su gastrectomía bariátrica en manga. Sus comorbilidades incluyen diabetes e hipertensión, y afirma que fue diagnosticado con neumonía ambulante hace 2 semanas y recibió antibióticos, los cuales ya completó. ¿Cuál de las siguientes opciones no sería beneficiosa si se siguen las medidas SCIP para el cuidado preoperatorio y postoperatorio? Colocar al paciente con una escala móvil de insulina para mantener niveles de glucosa entre 80 y 120 mg/at B. Recortar el vello abdominal del paciente con una rasuradora eléctrica antes de operar C. Administrar anticoagulación en el día postoperatorio 1 D. Administrar antibióticos dentro de la primera hora de la cirugía E. Suspender los antibióticos para el día postoperatorio 1 en el I TrimesTIe X (pero II/III si 12. Una mujer de 32 años embarazada de 24 semanas acude al servicio de emergencias con dolor abdominal agudo, fiebre y vómitos. Refiere que el dolor comenzó en la parte alta del abdomen a media noche con un súbito inicio de dolor epigástrico que ahora es difuso. No presenta sangrado vaginal y la monitorización fetal demuestra signos vitales normales para el feto. Al examen físico, la paciente tiene sensibilidad difusa con defensa ademinal, peor en la región epigástrica. El examen pélvico es normal. Tiene leucocitosis de 15,000. la placa abdominal muestra algunas asasintestinales dilatadas pero sin otros hallazgos. ¿Cuál es el siguiente paso en el manejo de esta paciente? A. Ecografía abdominal •giomografía con contraste de abdomen/pelvis C. Admitir y observar con exámenes abdominales seriados D. Laparotomía exploratoria E. Laparoscopia diagnóstica Hematoma en el 13. ¿Cuál de las siguientes es verdadera en relación con un hematoma de la vaina de los rectos? A. Si se"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1228,
+     "texto": "de evaluar a los pacientes con sospecha de motilidad gástrica anómala después de la anamnesis y la exploración física deberían ser descartar una obstrucción mecánica con una endoscopia de la porción alta del tubo digestivo y o bien una enterografía por tomografía computarizada (TC) o resonancia magnética (RM) o bien un tránsito intestinal. La causa más frecuente de gastroparesia es idiopática, representando aproximadamente la mitad de los pacientes. Otras causas habituales son diabetes mellitus, infección vírica (p. ej., citomegalovirus y virus de Epstein-Barr), enfermedad neurológica (p. ej., esclerosis múltiple, accidente cerebrovascular, enfermedad de Parkinson), enfermedad autoinmunitaria y ciertos medicamentos como antidepresivos tricíclicos, antagonistas del calcio y ciclosporina. Además, la motilidad gástrica también puede verse afectada tras la cirugía debido a una vagotomía intencionada o accidental. La vagotomía provoca la pérdida de la relajación receptiva y la acomodación gástrica en respuesta a la ingestión de comida, con la consiguiente saciedad temprana, flatulencia posprandial, vaciado acelerado de líquidos y retraso en el vaciado de sólidos. El vaciado gástrico retardado también se observa después de la cirugía pancreática, sobre todo la pancreatoduodenectomía, en la que se notifica en el 10 al 40% de los pacientes después de la intervención. Se cree que las manifestaciones clínicas de la gastropatía diabética, que pueden aparecer en pacientes insulinodependientes o no insulinodependientes, se relacionan con una serie de factores. Se han implicado el deterioro del control nervioso a través del nervio vago, el sistema nervioso mientérico, las células intersticiales de Cajal y el músculo liso subyacente. Además, se ha demostrado que la hiperglucemia en sí"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 355,
+     "texto": "quirúrgica grave. Las pruebas de función pulmonar tienen un valor pronóstico variable, no permiten definir un umbral que señale un riesgo prohibitivo de la cirugía y no identifican el grupo de alto riesgo sin signos clínicos de enfermedad pulmonar. La gasometría arterial tampoco identifica un grupo con riesgo quirúrgico prohibitivo. La espirometría puede ser útil en el paciente con tos, disnea o intolerancia al ejercicio injustificadas, o si existen dudas sobre una mejora óptima de la obstrucción al flujo aéreo. Warner et al.27 compararon 135 pacientes sometidos a cirugía abdominal que habían"
+    }
+   ]
+  },
+  {
+   "k": "744ed36e56",
+   "stem": "¿Cuál de los siguientes hallazgos es más probable en un paciente con deficiencia severa de magnesio?",
+   "opts": [
+    "Depresión respiratoria",
+    "Bradicardia",
+    "Tetania",
+    "Hipotensión",
+    "Pérdida del reflejo patelar"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 134,
+     "texto": "en la pigmentación de la piel y el pelo; relacionado con arritmias mortales y peores resultados Anemia, queilosis, glositis, caída de cabello y vello, uñas quebradizas, coiloniquia, palidez, hipoxia tisular, disnea de esfuerzo, aumento de tamaño del corazón Náuseas, debilidad muscular, irritabilidad, alteraciones mentales Retraso del crecimiento, dolor y debilidad muscular, miopatía, miocardiopatía Caída del cabello y vello, dermatitis, retraso del crecimiento, retraso de la maduración sexual, atrofia testicular, menor apetito, disminución de la agudeza del olfato y el gusto, depresión, diarrea Esteatorrea prolongada y degeneración neuronal Deficiencia descrita en el tratamiento antibiótico a largo plazo, NPT carente de emulsiones grasas, malabsorción Deficiencia descrita en pacientes con reservas agotadas que reciben una carga brusca de hidratos de carbono; cicatrización de las heridas; se trata con 25-100 mg/día de tiamina Deficiencia que provoca mala cicatrización de heridas y prendimiento del injerto NPT a largo plazo, alcoholismo, posgastrectomía Crucial en la cicatrización de las heridas; facilita la regeneración tisular y formación de colágeno en el hueso, los dientes y el tejido conjuntivo Importante para reducir la osteopenia y la función de las colagenasas; su deficiencia causa hipotensión, colapso cardiovascular, falta de respuesta a líquidos y vasopresores, resistencia de los órganos diana a la PTH, arritmias Exudado importante por las heridas; se sabe que en niños con quemaduras hay pérdidas de cobre y cinc Puede haber deficiencia por anemia y pérdida de sangre; una cantidad inadecuada provoca menor resistencia a las infecciones e intolerancia al frío Su deficiencia provoca arritmias cardíacas, mayor irritabilidad del sistema nervioso, tetania Importante en"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 115,
+     "texto": "por la ingestión oral de magnesio es inusual sin una insuficiencia renal. Se ha registrado un caso de muerte por hipermagnesemia en un niño discapacitado que recibió magnesio para aliviar el estreñimiento. A pesar de las infusiones de calcio y la diálisis, el niño murió. El consumo crónico de magnesio volvió probablemente el estado del niño refractario al tratamiento, quizás por una mayor carga total de magnesio corporal por la sobrecarga crónica. La hipermagnesemia también se ha descrito repetidas veces después del uso de enemas con magnesio. En pacientes postquirúrgicos con oliguria puede aparecer hipermagnesemia por retención de magnesio, especialmente si el paciente está en acidosis. El magnesio puede bloquear la transmisión sináptica de los impulsos nerviosos. También produce la pérdida inicial de los reflejos tendinosos profundos y puede conducir a una parálisis flácida y a la apnea. La toxicidad neuromuscular también afecta al músculo liso, lo que provoca íleo y retención urinaria. En los casos de intoxicación oral, el desarrollo del íleo puede reducir el tránsito intestinal, lo que incrementa la absorción de magnesio. La hipermagnesemia también se ha descrito como causa de bloqueo parasimpático que provoca fijación y dilatación pupilar, lo que simula una hernia encefálica. Otros signos neurológicos son el letargo, la confusión y el coma. El magnesio bloquea el paso del calcio al interior de las células miocárdicas y puede actuar como un antagonista del calcio. En el tejido cardíaco, bloquea también los canales del potasio necesarios para la repolarización. Los pacientes con hipermagnesemia acentuada pueden mostrar signos de insuficiencia cardíaca. Otras manifestaciones cardíacas de la hipermagnesemia, al menos al principio, son la bradicardia y la hipotensión."
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 417,
+     "texto": "elevated hemoglobin in this patient indicate a reduction in intravascular volume, which should be replaced with normal saline. Fluid restriction, in an attempt to treat SIADH, could potentially cause worsening cerebral ischemia (B). Desmopressin is an ADH analogue used to treat central diabetes insipidus (inadequate production of ADH), which is characterized by excessive output of dilute urine and normal to high plasma sodium (C). Demeclocycline is a tetracycline antibiotic that blocks the responsiveness of the renal collecting tubules to ADH; it is used off-label as an adjunct to treat SIADH that is unresponsive to fluid restriction (D). \"Vaptans\" are a category of medications that function as vasopressin receptor antagonists and have also been used to treat SIADH (E). References: Robinson AG. The posterior pituitary (neurohypophysis). In: Gardner DG, Shoback D, eds. Greenspan's basic & clinical endocrinology. 9th ed. McGraw-Hill; 2011. Ropper AH. The hypothalamus and neuroendocrine disorders. In: Ropper AH, Samuels MA, Klein JP, eds. Adams & Victor's principles of neurology. 10th ed. McGraw-Hill; 2014. 17. C. Hypomagnesemia is one of the most common electrolyte abnormalities in hospitalized patients (11%-65%) and particularly in critically ill patients. Most patients are asymptomatic but can become symptomatic as the level drops below 1.2 mg/dL. Symptoms can manifest as simple neuromuscular irritability, as demonstrated above by the presence of Trousseau sign (spasm of the forearm and hand with occlusion of the brachial artery) or, in more serious cases, as tetany, nystagmus, and seizures. Depletion of magnesium also leads to both atrial and ventricular arrhythmias. However, hypomagnesemia commonly presents in the presence of other electrolyte deficiencies, and the"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 245,
+     "texto": "most diuretics, and amphotericin B), gastrointestinal losses (diarrhea), malabsorption, acute pancreatitis, diabetic ketoacidosis, and primary aldosteronism. Magnesium depletion is characterized by neuromuscular and central nervous system hyperactivity, and symptoms are similar to those of calcium deficiency. Signs 217 CHAPTER 15 Surgical Critical Care include hyperactive reflexes, muscle tremors, and tetany with a positive Chvostek sign. Severe deficiencies can lead to delirium and seizures. Electrocardiographic changes including prolonged QT and PR intervals, ST-segment depression, flattening or"
+    }
+   ]
+  },
+  {
+   "k": "3b54043cbb",
+   "stem": "Un hombre de 54 años que pesa 100 lb acu a urgencias tras 3 días de vómitos y pérdida de lb. Electrolitos: Na 136, K 3.1, Cl 88, CO₂ 37. ¿Qué estudio es más útil para determinar la cau de su trastorno ácido-base?",
+   "opts": [
+    "Sodio urinario",
+    "Creatinina urinaria",
+    "Cloro urinario",
+    "pH urinario",
+    "Potasio urinario"
+   ],
+   "tema": "liquidos",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 237,
+     "texto": "Dobutamine at 5 to 10 ug/min for inotropic support E. Neo-Synephrine (phenylephrine) at 1 ug/L per min to increase blood pressure 8. Nosocomial pneumonia among intensive care unit patients: A. Has the same mortality rate as does community-acquired pneumonia (CAP) B. Is the most common nosocomial infection C. Can be avoided by early tracheostomy D. Is directly related to the duration of intubation E. Can be prevented by early institution of prophylactic IV antibiotics 9. Blood samples for the determination of mixed venous oxygen saturation (SvO2) are ideally obtained from: A. Right atrium B. Pulmonary artery C. Pulmonary vein D. Two peripheral veins mixed together E. Central venous pressure line 10. Which of the following variables has the least influence on oxygen delivery? A. Hemoglobin B. Cardiac contractility C. Heart rate D. Carbon monoxide concentration E. Partial pressure of dissolved oxygen in the blood 11. Pulmonary artery occlusion pressure (PAOP) reflects which of the following physiologic variables? A. Cardiac output B. Pulmonary arterial pressure C. Left atrial pressure D. Pulmonary compliance E. Systemic vascular resistance (SVR) 209 CHAPTER 15 Surgical Critical Care 12. Argatroban: A. Activates antithrombin B. Is cleared by the kidneys C. Is reversed with fresh-frozen plasma D. Can be monitored by the activated partial thromboplastin time E. Has a 3-hour half-life 13. A 54-year-old man who weighs 100 Ibs comes to the ED after vomiting for 3 days and losing 10 lb. His serum electrolytes are as follows: sodium 136 mEq/L, potassium 3.1 mEq/L, chloride 88 mEq/L, and carbon dioxide 37 mEq/L. Which one of the following would be most helptul in determining the cause of his acid-base disorder? A. Urine sodium B. Urine creatinine C. Urine chloride D. Urine pH E."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 105,
+     "texto": "ese rango no incluye la sal añadida en la mesa, probablemente la infravalore. El Department of Agriculture de EE. UU. recomienda un consumo de sal menor de 2,3 g/día. La solución salina normal contiene 9 g de cloruro de sodio en 1 l de agua. La cantidad de líquidos y electrólitos infundidos a los pacientes con el preparado estándar es muy imprecisa. La decisión de administrar glucosa al 5% en el líquido de mantenimiento se cree que CUADRO 4.3 Cálculo del líquido de mantenimiento Cálculo del líquido intravenoso de mantenimiento • 4 ml/kg/h para los primeros 10 kg. • 2 ml/kg/h para los siguientes 10 kg. • 1 ml/kg/h por cada kg por encima de 20 kg. Ejemplo de cálculo para un paciente de 45 kg • 10 kg × 4 ml/kg/h = 40 ml/h. • 10 kg × 2 ml/kg/h = 20 ml/h. • 25 kg × 1 ml/kg/h = 25 ml/h. • Velocidad de mantenimiento = 85 ml/h. Ejemplo de cálculo para un paciente de 73 kg • 10 kg × 4 ml/kg/h = 40 ml/h. • 10 kg × 2 ml/kg/h = 20 ml/h. • 53 kg × 1 ml/kg/h = 53 ml/h. • Velocidad de mantenimiento = 113 ml/h. 4 Shock, electrólitos y líquidos 81 procede de los estudios de ayuno realizados a los estudiantes de medicina de Harvard en los años veinte. Esos estudios encontraron que proporcionar unos 100 g de glucosa reducía la pérdida de proteínas en la orina. Se desconoce la razón del uso de una solución salina seminormal y de 20 mEq/l de potasio. Un estudio de intensivistas mostró que la mayoría desconocía el consumo diario recomendado de sodio o potasio. Los cirujanos temen que un volumen de líquido insuficiente lleve a una insuficiencia renal. La oliguria en un hombre de 70 kg se define como menos de 400 ml de orina producida y excretada en un período de 24 h. Este es el mínimo volumen requerido para mantener el nitrógeno ureico en sangre normal y la concentración de creatinina, de"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1163,
+     "texto": "la hemoglobina y el hematocrito son más altos de lo normal, se debería evaluar al paciente en busca de signos de deshidratación. A los pacientes con dolor abdominal también se les debería solicitar un perfil metabólico completo. Se evalúan los electrólitos como sodio, potasio y calcio, así como pruebas de función renal como urea y creatinina. Las alteraciones en estos valores alertarán al médico sobre pérdidas de líquidos por diarrea o vómitos, así como sobre posibles fuentes endocrinas de dolor abdominal (p. ej., hiperparatiroidismo). El perfil metabólico completo contiene «pruebas funcionales hepáticas» que, cuando están elevadas, deberían conducir a una mayor evaluación de los sistemas hepático y biliar. Se deberían solicitar pruebas de hepatitis vírica cuando no se pueda descubrir una fuente de elevación de las enzimas hepáticas. La amilasa y la lipasa están indicadas cuando se sospecha que la pancreatitis es una fuente de dolor abdominal. para el dolor abdominal • Leucocitos y fórmula leucocítica. • Hemoglobina. • Plaquetas. • Electrólitos. • Creatinina y urea. • Amilasa y lipasa. • Bilirrubina sérica total y fraccionada. • Concentraciones séricas de lactato. • Perfil de hepatitis vírica. • Análisis de orina. • Gonadotropina coriónica humana urinaria. • Cultivo y determinación de la toxina de Clostridium difficile. © Elsevier. Fotocopiar sin autorización es un delito. Cuando se evalúa a un paciente gravemente enfermo, la gasometría arterial con mediciones de lactato sérico resulta ser una prueba valiosa. En el contexto del abdomen agudo, la acidosis láctica es un signo de hipoperfusión y, según las circunstancias, suscita la preocupación por una posible isquemia mesentérica. Se trata de una afección grave con una considerable mortalidad a pesar de las mejoras en"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 414,
+     "texto": "potassium; however, in this case the sodium corrects to a normal value and thus is more likely to represent hypertonic hyponatremia (E). Reference: Emmett M, Sterns RH. Fluid, electrolyte, and acidbase disturbances. J Am Soc Nephrol. 2013;12:191. 5. A. The first step in identifying the etiology of oliguria is an adequate history and analysis of the BUN:creatinine ratio. A BUN:creatinine ratio of greater than 20 with a history of hypoperfusion or hypotension is virtually diagnostic of prerenal azotemia. However, no such history is provided in this vignette. At this point, urinalysis is necessary. A low"
+    }
+   ]
+  },
+  {
+   "k": "f17e040c3f",
+   "stem": "En el shock hemorrágico, ¿cuál es el signo más preciso de una reanimación adecuada con líquidos?",
+   "opts": [
+    "Aumento de la presión arterial",
+    "Aumento de la diuresis",
+    "Aumento de la oxigenación arterial",
+    "Disminución de la sed",
+    "Disminución de la taquicardia"
+   ],
+   "tema": "shock",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 288,
+     "texto": "múltiples de las extremidades o shock séptico. Un denominador frecuente en los SCA primarios y secundarios es la presencia de shock o reposición de líquidos; cuando esta es intensiva, con grandes volúmenes de cristaloides, contribuye al edema progresivo de las vísceras y las partes blandas, al tercer espacio con líquido abdominal, a la disminución de la distensibilidad abdominal, al íleo y a la distensión progresiva con el consiguiente desarrollo de HIA y SCA.32 El cierre del abdomen con distensión masiva y una pared abdominal no distensible, bajo tensión, agrava aún más la HIA en pacientes críticos con patología intraabdominal. Más recientemente, se recomienda usar cirugía de control de daños y cierre abdominal temporal en pacientes de «alto riesgo». La reposición de una hemorragia masiva con sangre total o una combinación de plasma, concentrado de hematíes y plaquetas ayuda a disminuir el edema asociado a la administración de grandes volúmenes de cristaloides. La disfunción de órganos mediada por el SCA se debe a los efectos compresivos directos (insuficiencia pulmonar o renal inducida por la PIA) y a la perfusión inadecuada de los órganos diana. El desplazamiento hacia arriba del diafragma disminuye la excursión diafragmática y reduce la distensibilidad pulmonar, perjudicando tanto a la oxigenación como a la ventilación. El aumento de la PIA y de la presión intratorácica repercute negativamente en la precarga, la poscarga y la contractilidad cardíacas. El retorno venoso está disminuido a pesar de las presiones venosas centrales normales o elevadas. La combinación de la disminución de la precarga, la función del VD y el aumento de la poscarga disminuye el gasto cardíaco, que es, en gran medida, «dependiente del volumen». La disminución de la diuresis parece deberse a"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 418,
+     "texto": "394 III Traumatología y asistencia crítica CUADRO 17.3 Indicadores de shock en el paciente lesionado • Agitación o confusión. • Taquicardia. • Taquipnea. • Diaforesis. • Extremidades frías y moteadas. • Pulsos distales débiles. • Disminución de la presión de pulso. • Disminución de la diuresis. • Hipotensión. Circulación El objetivo principal de una valoración cardiovascular es determinar la presencia o ausencia de shock. El curso ATLS define el shock clínicamente como la evidencia de hipoperfusión órgano-terminal presente en la exploración física. Los signos clínicos de shock se recogen en el cuadro 17.3. Aunque la hipotensión es un indicador claro de descompensación cardiovascular, los pacientes pueden estar en shock mucho antes del inicio de la hipotensión, debido a los mecanismos compensadores fisiológicos. Con diferencia, la causa más común de shock en el paciente lesionado es la hemorragia, y es preciso descartar una pérdida de sangre aguda antes de considerar otras etiologías. La tabla 17.4 indica las diferentes clases de shock hemorrágico. Una vez reconocida la presencia de shock, el ATLS recomienda acceso intravenoso (i.v.) con dos catéteres i.v. periféricos cortos y de gran calibre, una aguja intraósea o un catéter venoso central, y reanimación inicial con 1 l de solución de cristaloides calentada. Los pacientes que no respondan apropiadamente a la reanimación inicial con cristaloides deben someterse a reanimación basada en productos, dado que la reanimación con cristaloides con más de 1,5 l incrementa el riesgo de deceso.8 A continuación, el paciente ha de someterse a un rápido cribado para identificar la causa de una pérdida de sangre potencialmente mortal. En esencia, existen cinco localizaciones principales a través de las cuales puede producirse la"
+    },
+    {
+     "libro": "gimenez",
+     "nombre": "Giménez, Cirugía 2.ª ed.",
+     "pagina": 829,
+     "texto": "los pacientes con encefalopatía hepática grados I1I y IV antes de realizar la endoscopia digestiva. Las infecciones graves son complicaciones frecuentes e la hemorragia digestiva en pacientes cirróticos: alr edor del 20-30% de los pacientes cirróticos con he morragia digestiva presentan infecciones por germenes entéricos gramnegativos y pueden estar ya presentes en el momento del ingreso y siempre hay que pesquisarlas. ales se basa en conservar una perfusión y oxigenación adecuadas. La broncoaspiración de sangre, el shock prolonoado v la politranstusión pueden deteriorar noablemente el intercambio de gases pulmonares, pro ocando hipoxemia e insuficiencia respiratoria agud Por lo tanto. es fundamental n trecuentes cuada de líquidos y electrolitos, debiendo perfusión de soluciones salinas, así como la administración de formacos potencia mente natratavicas co no los aminogl Si el paciente presenta una ascitis tensa que ocasiona difialiviadora. u prevención se basa en colocar al paciente en posi El mantenimiento de la función de los órganos viun control he. ografías de tórax La función renal se mantiene con la restitución ade La diuresis debe mantenerse sobre los 40 mL/h; una -ara prevenir la e promover la elimir presente debido a diconot o arogas o c La interpretación y el ma in desafío en la enfermed hay una deficiencia equilit anticoagulantes y las prueb o reflejan con precisión nienda la transfusión de p corregira la coaguloDatia • le volumen y un empeora En los pacientes que to ben suspenderse tempora esté bajo control. la du individualizarse en funci de la anticoagulación. Diagnóstico endoscóp Una vez alcanzadal iniciado el tratamie dentro de las prim al diagnóstico de la El diagnóstico de hem con certeza cuando se vis tivo o presenta signos d esco adherido o coágul"
+    },
+    {
+     "libro": "gimenez",
+     "nombre": "Giménez, Cirugía 2.ª ed.",
+     "pagina": 828,
+     "texto": "frecuentes e la hemorragia digestiva en pacientes cirróticos: alr edor del 20-30% de los pacientes cirróticos con he morragia digestiva presentan infecciones por germenes entéricos gramnegativos y pueden estar ya presentes en el momento del ingreso y siempre hay que pesquisarlas. ales se basa en conservar una perfusión y oxigenación adecuadas. La broncoaspiración de sangre, el shock prolonoado v la politranstusión pueden deteriorar noablemente el intercambio de gases pulmonares, pro ocando hipoxemia e insuficiencia respiratoria agud Por lo tanto. es fundamental n trecuentes cuada de líquidos y"
+    }
+   ]
+  },
+  {
+   "k": "e15120ef47",
+   "stem": "Una mujer de 50 años séptica por colangitis ascendente es transferida a la UCI quirúrgica. S le realiza colecistectomía y exploración del colédoco tras una esfinterotomía fallida. Por hipotensión y escasa diuresis se coloca un Swan-Ganz. ¿Cuál de los siguientes valores es MENOS consistente con su cuadro clínico?",
+   "opts": [
+    "Presión venosa central: 5 cm H₂O",
+    "RVS: 300 dyn·s/cm⁵",
+    "Índice cardíaco: 2.0 L/min/m²",
+    "Presión de enclavamiento capilar pulmonar: cm H₂O",
+    "SvO₂: 86%"
+   ],
+   "tema": "shock",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1723,
+     "texto": "un coágulo en el pericardio y la compresión del corazón. Se debe sospechar esta posibilidad si el paciente muestra signos de bajo gasto cardíaco, hipotensión con taquicardia y aumento de la presión venosa central. La cuantía del drenaje mediastínico no permite predecir un taponamiento, aunque un descenso brusco del drenaje a través del tubo torácico mediastínico debe hacernos pensar en un posible taponamiento por el cierre de la vía de salida para la sangre. El ensanchamiento del mediastino en la radiografía torácica y los signos de derrame pericárdico en la ecocardiografía confirman el diagnóstico. Si el paciente tiene colocado un catéter de Swan-Ganz y se están monitorizando las presiones cardíacas derecha e izquierda, la presión venosa central y la presión de enclavamiento capilar pulmonar suelen estar elevadas y ser iguales. La primera manifestación del taponamiento es un descenso agudo de la saturación de oxígeno en sangre venosa mixta. Una vez que se ha establecido el diagnóstico, hay que devolver al paciente al quirófano para evacuar el coágulo y aliviar la compresión. Si el estado del paciente se deteriora rápidamente, puede que haya que reabrir la incisión de la esternotomía en la misma cama del paciente. Hemorragia postoperatoria. Los efectos combinados de la heparinización, la hipotermia, la DCP y la inversión de la protamina incrementan el riesgo de sangrado tras el IDAC. En caso de una hemorragia después de un IDAC que obligue a transfundir sangre o volver a operar al paciente, la morbilidad y el riesgo de mortalidad aumentan considerablemente. Un pequeño porcentaje de los pacientes que se someten a intervenciones cardíacas (15-20%) consume más del 80% de los hemoderivados que se transfunden en los quirófanos. La sangre es un recurso escaso que conlleva"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 242,
+     "texto": "is not used in the formulation of midazolam (B). For the above reasons, benzodiazepines are poor choices for prolonged sedation in the ICU. Propofol, which is believed to work on the GABA receptor, is a highly lipophilic anesthetic with a very quick onset and short duration. It quickly distributes to tissues and is rapidly metabolized by the liver, leading to a short duration of action. However, it has significant cardiovascular effects including hypotension and bradycardia (A). Ketamine is a potent sedative that blocks glutamate NMDA receptors within sensory nerve endings. It creates a dissociative anesthetic effect where patients remain conscious without inhibition of respiratory drive or protective airway reflexes (E). Unlike propofol, ketamine is considered to have analgesic properties. However, because of significant psychoactive effects, its use is limited. Dexmedetomidine and clonidine are both selective alpha-2 receptor antagonists, though the former has a much higher affinity for alpha-2 receptors than clonidine. Dexmedetomidine is a sedative with anxiolytic and analgesic properties without significant respiratory depression. Patients transition easily from undisturbed sedation to being aroused with stimuli. References: Mihic S, Harris R. Hypnotics and sedatives. In: Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's: the pharmacological basis of therapeutics. 12th ed. McGraw-Hill; Sokol S, Patel BK, Lat I, Kress JP. Pain control, sedation, and use of muscle relaxants. In: Hall JB, Schmidt GA, Kress JP, eds. Principles of critical care. 4th ed. McGraw-Hill; 2014:76-84. 15. B. Traumatic pneumothorax should be suspected in all patients with a penetrating thoracoabdominal injury. The addition of NPPV increases intrathoracic pressure and may convert a"
+    },
+    {
+     "libro": "gimenez",
+     "nombre": "Giménez, Cirugía 2.ª ed.",
+     "pagina": 957,
+     "texto": "predictivos, 836 Carcinoma medular de tiroides, 193, 197, Véase también Cáncer de tiroides Carcinoma papilar tiroideo, 193, Véase también Cáncer de tiroides Carcinoma paratiroideo, 214 diagnóstico por imágenes, 215, 215 PET-TC scan con colina, 215 - tomografía computarizada 4D (TC-4D). 215 - manifestaciones clínicas, 214 Carcinoma y rayos UVB, 178 Carcinoma de la unión gastroesofágica, 366, Véase también Carcinomas mucoepidermoides, 273, Véase también Tumores traqueales Cardiopatías congénitas, 858 - guías, 859c Catéter REBOA, 720 Catéter de Swan-Ganz. 58 Células de Kulchitsku 773l Células madre, 880, Véase también Cirugía plástica, estética y reparadora Cercaie en incontinencia fecal. 618 Child-Pugh, puntuación, 456, 459, Véase también Cirrosis Circulación cutánca, 876 Cirugía asistida por computadora, 849 Cirugía asistida por imágenes hiperespectrales, 852 Cirugía asistida por robots, 847, Véase también Robótica ( irloía bariátrica. 882. - beneficios metabólicos, 884 - bypass gástrico de una anastomosis, 892, 892f - bypass gástrico en Y de Roux laparoscópico, 889, 890f - contraindicaciones, 885 - criterios de selección de pacientes, 883c • - factores clínicos. 883c - derivación biliopancreática con cruce (switch) duodenal, 889, 891€ - gastrectomía en manga laparoscópica, 889, 890f • índice de masa corporal, 882 - pacientes con diabetes, 888 valoración de micronutrientes 887c Cirugía de Beger, 554 Cirugía de Berna, 554 Cirugía cardíaca, 854, Véase también Cirugía cardiovascular _ circulación autocornáras 854 - tumores cardíacos, 858 Cirugía cardiovascular, Véase también Cirugía cardíaca - ancurisma de aorta ascendente y raíz aórtica, 857 - bubass aortocoronario. 855 - cordianatías conaénitos 858 - cirugía coronaria, 854ł Índice analítico cirugía endovascular, 862"
+    },
+    {
+     "libro": "gimenez",
+     "nombre": "Giménez, Cirugía 2.ª ed.",
+     "pagina": 956,
+     "texto": "Colangitis por estenosis de anastomosis biliodigestivas, 503 Colecciones abdominales, 7п diagnóstico nor imágenes. 82 actudios comalamentorios 82 tipo según las características, 78c Colecciones de origen fistuloso. 84 Colecciones neritones es 78 84 cavidad peritoneal, 78 - clasificación, 78c Colecciones retroperitoneales, 81 - absceso del psoas, 81 Índice analítico elección de la guía de punción, 83 estudios complementarios, 83 hemocultivos, 83 • perirrenal, oz • procalcitonina, 83 de Seldinger-Cope, °- - de tandem v trocar. 84 técnica de drenaje, 84 Colecciones subfrénicas, 79 Colecistectomía"
+    }
+   ]
+  }
+ ]
+}

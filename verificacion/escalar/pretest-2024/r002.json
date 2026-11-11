@@ -1,0 +1,30 @@
+{
+ "banco": "pretest-2024",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "5335d5df5c",
+   "sec": "Examen cirugía 1",
+   "stem": "Un preescolar de 4 años se encuentra recibiendo una solución endovenosa de Dextrosa 5% en AD 1000ml + NaCl20% 20ml a una razón de 20 gotas por minuto. ¿Qué volumen se le infundirá en 24 horas?",
+   "opts": [
+    "1440 ml",
+    "1540 ml",
+    "1640 ml",
+    "1740 ml"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 56,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia no permite decidir. Los fragmentos hablan de vena yugular y catéter central (p. 301), de un índice de nutrición (p. 2154), de otras preguntas de choque y QT (p. 239) y de una figura de TAVR (p. 1764). Ninguno indica el factor de goteo del equipo ni hace el cálculo de ml por hora en 24 horas. Para responder hace falta ese dato, que no aparece aquí.",
+    "tema": "liquidos"
+   }
+  }
+ ]
+}

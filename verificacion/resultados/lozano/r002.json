@@ -1,0 +1,21 @@
+[
+ {
+  "k": "c6d5f5fb96",
+  "estado": "confirmada",
+  "stem": ".¿Cuál de los siguientes estudios preoperatorios está más fuertemente asociado con un mayor riesgo de complicaciones pulmonares postoperatorias?",
+  "opts": [
+   "Nitrógeno ureico en sangre (BUN)",
+   "Espirómetro incentivo",
+   "Radiografía de tórax",
+   "Albúmina sérica",
+   "Gases arteriales en aire ambiente"
+  ],
+  "ans": 3,
+  "why": "ABSITE dice que la albúmina sérica menor de 3,5 g/dL es el predictor de laboratorio más importante de eventos pulmonares adversos tras la cirugía. El BUN también sirve, pero con menor correlación. La espirometría de rutina no aporta más que la historia y la exploración física, salvo en resección pulmonar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 473 del PDF"
+  ],
+  "nota": "Verificación rápida: cita comprobada en el libro.",
+  "tema": "eras"
+ }
+]

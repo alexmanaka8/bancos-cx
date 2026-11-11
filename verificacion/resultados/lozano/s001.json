@@ -1,0 +1,281 @@
+[
+ {
+  "k": "6d6e9f9845",
+  "estado": "dudosa",
+  "stem": "Varón con herida de bala en el muslo. PA 90/60, FC 136, consciente pero luego confuso. ¿Tipo de shock?",
+  "opts": [
+   "III",
+   "Se necesita más información"
+  ],
+  "ans": null,
+  "why": "La tabla ATLS del Sabiston pone la clase III con pulso mayor de 120, presión arterial reducida y paciente ansioso o confuso, y la clase IV con pulso mayor de 140 y paciente confuso o letárgico. Aquí el pulso es 136 y hay confusión, lo que encaja mejor con la clase III, pero la presión baja y la confusión también aparecen en la clase IV. El enunciado no da frecuencia respiratoria ni diuresis y una opción dice 'se necesita más información', así que la evidencia no alcanza para fijar una sola clase.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 73 del PDF (tabla 4.1 ATLS, clases de shock hemorrágico)",
+   "Sabiston 21.ª ed., p. 74 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "En el original la clave resaltada es d. IV (opciones: a. III, b. Se necesita más información, c. II, d. IV, e. I). El Sabiston no la respalda con claridad: con pulso 136 la tabla apunta más a clase III. El enunciado también es ambiguo ('tipo de shock')."
+ },
+ {
+  "k": "3f0682fd98",
+  "estado": "confirmada",
+  "stem": "Un paciente fue admitido por hiponatremia debido a complicaciones de cáncer de cabeza y cuello. Se debe observar en el paciente los signos y síntomas de:",
+  "opts": [
+   "Cambios en el nivel de conciencia, cólicos abdominales, espasmos musculares",
+   "Cefalea, taquipnea y nivel de energía alta",
+   "Dolor de pecho, fiebre y roce pericárdico",
+   "Pérdida de peso, pulso lento y cambios en la visión",
+   "N.A"
+  ],
+  "ans": 0,
+  "why": "En la hiponatremia el cerebro se hincha, y los libros describen alteración de la conciencia: letargo, confusión, convulsiones o coma, además de cefalea y náuseas. La opción A es la única que incluye cambios del nivel de conciencia. Las otras opciones traen 'nivel de energía alta', dolor de pecho con roce pericárdico, o pérdida de peso con pulso lento y cambios en la visión, que no son manifestaciones descritas de la hiponatremia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, p. 408 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Opciones reconstruidas desde el original (a-e, e = N.A.): el texto estaba pegado en una sola opción. Clave resaltada en el original: a. Los libros respaldan los cambios de conciencia; los calambres y espasmos musculares no se mencionan para la hiponatremia en los libros revisados, así que la confirmación se apoya en el síntoma neurológico y en que las demás opciones no corresponden."
+ },
+ {
+  "k": "e6c29412b0",
+  "estado": "nueva",
+  "stem": "Una mujer de 25 años se encuentra en el primer día postoperatorio de una colecistectomía laparoscópica convertida a abierta por colecistitis aguda. Desde la cirugía, ha tenido un episodio de vómito, su diuresis ha disminuido a 0.3 cc/kg por hora, y su sodio sérico es de 131 mEq/L. La creatinina sérica es normal, pero los niveles de hormona antidiurética (ADH) están elevados. ¿Cuál es la causa más probable de estos hallazgos?",
+  "opts": [
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Respuesta fisiológica normal a la cirugía",
+   "Lesión renal aguda",
+   "Vómito",
+   "Insuficiencia cardíaca congestiva"
+  ],
+  "ans": 1,
+  "why": "Después de una operación mayor hay una respuesta normal al estrés: la ADH sube hasta 100 veces durante la cirugía y sigue alta varios días, por la pérdida de volumen en el tercer espacio, el ayuno y las pérdidas insensibles. Eso causa oliguria e hiponatremia leve, y ahí la ADH alta no es inapropiada. El SIADH se da en pacientes euvolémicos y con sodio mucho más bajo. La creatinina normal descarta lesión renal aguda, y un solo vómito no explica el cuadro. Tampoco hay datos de insuficiencia cardíaca.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 412 del PDF (pregunta 15)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 416-417 del PDF (respuesta 15 B)",
+   "Sabiston 21.ª ed., p. 108-109 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Sin clave original. Misma pregunta que b9f09f50fd."
+ },
+ {
+  "k": "346d2b8083",
+  "estado": "nueva",
+  "stem": "Complicación del uso de sulfadiazina de plata en pacientes quemados:",
+  "opts": [
+   "Leucocitosis",
+   "Neutropenia",
+   "Linfopenia",
+   "N.A",
+   "Leucopenia"
+  ],
+  "ans": 1,
+  "why": "Los libros dicen que la sulfadiazina de plata puede causar neutropenia (y trombocitopenia); el Sabiston la describe como neutropenia transitoria. Leucocitosis y linfopenia no se describen. 'Leucopenia' (E) es un término más general y los libros nombran específicamente neutropenia, por lo que B es la opción que citan.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 262 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, p. 460 del PDF",
+   "Sabiston 21.ª ed., p. 163 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Sin clave original. La opción E (leucopenia) es cercana, pero las fuentes nombran neutropenia."
+ },
+ {
+  "k": "b9f09f50fd",
+  "estado": "corregida",
+  "stem": "Una mujer de 32 años está en su PO1 de una laparoscopia convertida por colecistitis aguda. Desde la cirugía ella ha tenido un episodio de vómitos, su gasto urinario ha disminuido a 0.3 cc/kg/ h y Na sérico es de 131. La creatinina sérica es normal pero la ADH está elevada. cual es la causa más probable de estos hallazgos en esta paciente.",
+  "opts": [
+   "SIADH",
+   "respuesta fisiológica normal a la cirugía",
+   "injuria renal aguda",
+   "vómitos",
+   "falla cardiaca congestiva"
+  ],
+  "ans": 1,
+  "why": "Después de una operación mayor la ADH sube como parte de la respuesta normal al estrés: hay pérdida de volumen en el tercer espacio, ayuno y pérdidas insensibles, lo que da oliguria e hiponatremia leve. En ese contexto la ADH alta no es inapropiada. El SIADH se diagnostica solo en pacientes euvolémicos y con sodio mucho más bajo. La creatinina normal descarta lesión renal aguda, un solo vómito no explica el cuadro y no hay datos de insuficiencia cardíaca.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 412 del PDF (pregunta 15)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 416-417 del PDF (respuesta 15 B)",
+   "Sabiston 21.ª ed., p. 108-109 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: E (insuficiencia cardíaca, resaltada). El libro de origen (ABSITE) marca B: respuesta fisiológica normal a la cirugía."
+ },
+ {
+  "k": "c046f04080",
+  "estado": "dudosa",
+  "stem": "Un hombre de 59 años con un injerto de derivación de la arteria coronaria 1 año antes por enfermedad multivaso se somete a una cirugía de reemplazo de rodilla derecha. Su evolución postoperatoria se complica por neumonía que requiere ventilación mecánica. El electrocardiograma muestra una onda Q estable en la derivación II. La frecuencia cardíaca es de 80 lpm y la presión arterial es de 116/82 mm Hg. La radiografía de tórax muestra infiltrados irregulares bilaterales. El examen de laboratorio muestra una Pao2 de 70 mm Hg, un recuento de glóbulos blancos de 17 000 células/μL y una hemoglobina de 7,4 g/dL. ¿Cuál de las siguientes afirmaciones es verdadera con respecto al tratamiento de su anemia?",
+  "opts": [
+   "La transfusión de sangre facilitará el destete del respirador mecánico.",
+   "Se le debe transfundir hasta alcanzar un objetivo de hemoglobina de 10 g/dL.",
+   "La transfusión de glóbulos rojos se asocia de forma dependiente con una menor mortalidad.",
+   "La eritropoyetina humana recombinante puede reducir sus necesidades generales de transfusión.",
+   "Los transportadores de oxígeno basados en hemoglobina ofrecen una buena alternativa a la transfusión en este paciente."
+  ],
+  "ans": null,
+  "why": "El ABSITE explica que la transfusión se asocia con más estancia, complicaciones y mortalidad, que una meta de 10 g/dL no es mejor que una de 7 a 9, y que la transfusión no baja el riesgo coronario ni acorta la ventilación mecánica. Con eso quedan falsas A, B y C. Los transportadores de oxígeno con hemoglobina no están aprobados en EE. UU. (E falsa). En cambio, los ensayos de eritropoyetina recombinante en trauma mostraron menos transfusiones, por lo que D es la única respaldada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 469 del PDF (pregunta 14)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 474 del PDF (respuesta 14)"
+  ],
+  "tema": "hemostasia",
+  "nota": "En el ABSITE la clave es 'no es necesaria la transfusión por ahora' (D del libro); esa opción no está en la versión de este banco, que la reemplazó por la de eritropoyetina. Los ensayos EPO-1 y EPO-2 que cita el libro son en pacientes de trauma, así que la opción D del banco se apoya en esos ensayos y en que las otras cuatro son falsas según el libro. Supervisión: se confirmó por descarte; la opción correcta del libro (no transfundir por ahora) no está en este banco. Queda dudosa."
+ },
+ {
+  "k": "680a3d4154",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes estudios preoperatorios está más fuertemente asociado con un mayor riesgo de complicaciones posoperatorias relacionadas con los pulmones?",
+  "opts": [
+   "Nitrógeno ureico en sangre",
+   "Espirometría incentivada",
+   "Radiografía de tórax",
+   "Albúmina sérica",
+   "Gasometría arterial con aire ambiente"
+  ],
+  "ans": 3,
+  "why": "Una albúmina sérica menor de 3,5 g/dL es el predictor de laboratorio más importante de complicaciones pulmonares posoperatorias. El nitrógeno ureico (BUN) sirve algo, pero con menor correlación. La espirometría de rutina no aporta más que la historia y el examen, y la radiografía de tórax y la gasometría solo predicen si están anormales.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 468 del PDF (pregunta 9)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 473 del PDF (respuesta 9 D)",
+   "Sabiston 21.ª ed., p. 354 del PDF"
+  ],
+  "tema": "eras"
+ },
+ {
+  "k": "e2bb804344",
+  "estado": "confirmada",
+  "stem": "Un hombre de 67 años que se recupera de una exenteración pélvica secundaria a un cáncer rectal localmente avanzado comienza a recibir nutrición parenteral total por íleo prolongado a través de un catéter central insertado periféricamente (PICC) en el lado derecho. Varios días después, la enfermera informa que no puede extraer sangre de su catéter central insertado periféricamente. El brazo está hinchado. La ecografía confirma un coágulo en las venas basílicas y axilares. ¿Cuál es el tratamiento adecuado para su afección?",
+  "opts": [
+   "Compresa tibia y medicamentos antiinflamatorios no esteroides (AINE)",
+   "Retire la vía inmediatamente.",
+   "Retire la vía inmediatamente y luego comience a administrar heparina.",
+   "Comience a administrar heparina y mueva la vía a un sitio alterno.",
+   "Iniciar heparina, mantener la vía en su lugar y administrar anticoagulación terapéutica durante 3 a 6 meses"
+  ],
+  "ans": 4,
+  "why": "La trombosis venosa del brazo por un catéter se maneja con anticoagulación, y no es necesario retirar el PICC si todavía se necesita (aquí, la nutrición parenteral por íleo). Se recomienda anticoagulación terapéutica por 3 a 6 meses. Retirar la vía sin anticoagulación deja riesgo de embolia pulmonar; si hay que retirarla, se espera de 5 a 7 días tras iniciar heparina. Compresas y AINE son para la tromboflebitis superficial.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 468 del PDF (pregunta 10)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 473 del PDF (respuesta 10 E)"
+  ],
+  "tema": "complicaciones"
+ },
+ {
+  "k": "7dc2b3390c",
+  "estado": "confirmada",
+  "stem": "Un hombre diabético de 76 años ingresa en la unidad de cuidados intensivos quirúrgicos después de una caída. Sus lesiones incluyen una fractura del cuello femoral derecho y hemorragia subaracnoidea. Sigue teniendo elevación intermitente de su presión intracraneal y sigue necesitando asistencia respiratoria después de 2 días. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la suplementación nutricional en este paciente?",
+  "opts": [
+   "La alimentación pospilórica puede reducir el riesgo de desarrollar neumonía.",
+   "La alimentación gástrica se asocia con una mayor duración de la estadía en la UCI.",
+   "Los pacientes diabéticos tienen mejores resultados con la alimentación gástrica que con la pospilórica.",
+   "La alimentación pospilórica simula más de cerca la alimentación fisiológica normal.",
+   "La alimentación gástrica se asocia con una mayor nutrición total."
+  ],
+  "ans": 0,
+  "why": "Una revisión Cochrane de 2015 comparó la alimentación pospilórica con la gástrica y halló solo dos diferencias: menos neumonía con la pospilórica y alguna evidencia de más nutrición total entregada. No hubo diferencia en la estancia en UCI, la mortalidad ni el tiempo de ventilador. La alimentación gástrica se parece más a la fisiología normal, y los diabéticos o con vaciamiento gástrico retrasado suelen ir mejor con la pospilórica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 468 del PDF (pregunta 11)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 473 del PDF (respuesta 11 A)"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "ea6a37643f",
+  "estado": "confirmada",
+  "stem": "Una mujer obesa de 55 años con enfermedad pulmonar obstructiva crónica (EPOC) está siendo sometida a una evaluación preoperatoria para la reparación de una hernia ventral. Tiene antecedentes de fumar 30 paquetes-año, aunque dejó de fumar hace 1 año. Sus síntomas de EPOC están bien controlados con su régimen de medicación actual y su último ingreso por exacerbación de EPOC fue hace más de 2 años. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la evaluación de riesgos de complicaciones pulmonares posoperatorias en esta paciente?",
+  "opts": [
+   "La obesidad no es un factor de riesgo significativo.",
+   "Se deben realizar pruebas de función pulmonar preoperatorias (PFT).",
+   "Se debe utilizar una sonda nasogástrica",
+   "La laparotomía de la línea media superior y de la línea media inferior confieren un riesgo similar de complicaciones pulmonares.",
+   "Una Paco2 de más de 45 es una contraindicación absoluta para una cirugía abdominal mayor."
+  ],
+  "ans": 0,
+  "why": "El Sabiston dice que la obesidad o el asma leve a moderada no se asociaron de forma significativa con complicaciones pulmonares perioperatorias, así que A es verdadera. Según el ABSITE, las guías del ACP recomiendan no usar de rutina radiografía ni pruebas de función pulmonar (B falsa), la sonda nasogástrica de rutina aumenta neumonía y atelectasia (C falsa), las incisiones más cercanas al diafragma dan más riesgo (D falsa) y no hay una cifra de PaCO2 que prohíba la cirugía abdominal (E falsa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 354 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, p. 468 del PDF (pregunta 12)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 473 del PDF (respuesta 12)"
+  ],
+  "tema": "eras",
+  "nota": "En el ABSITE la clave es 'una clase ASA mayor es un factor de riesgo significativo'; el banco cambió esa opción por la de obesidad. La opción A del banco es verdadera según Sabiston p. 354 (aunque su tabla 14.6 en p. 355 da un riesgo relativo de 1,3 para obesidad), y las otras cuatro son falsas según el ABSITE."
+ },
+ {
+  "k": "53b5577a6b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta con respecto a las pruebas de función pulmonar?",
+  "opts": [
+   "La capacidad pulmonar total (TLC) generalmente se reduce con el envejecimiento.",
+   "Un volumen espiratorio forzado en un segundo (FEV1) preoperatorio de menos de 1,5 L es una contraindicación para la lobectomía pulmonar.",
+   "La capacidad de difusión de los pulmones para el monóxido de carbono (DLCO) se mantendrá relativamente constante con la edad siempre que no haya una enfermedad pulmonar intrínseca.",
+   "Un FEV1 posoperatorio porcentual previsto de >40 % es aceptable para una lobectomía, pero no para una neumonectomía.",
+   "La distensibilidad de la pared torácica disminuye con la edad."
+  ],
+  "ans": 4,
+  "why": "Con la edad suben el volumen residual y la capacidad residual funcional y baja la capacidad vital, así que la capacidad pulmonar total se conserva (A falsa). La DLCO también baja con la edad (C falsa). La distensibilidad de la pared torácica disminuye mucho (E verdadera). Para resección pulmonar, los valores a recordar son FEV1 mayor de 1,5 L para lobectomía, pero no son absolutos: no cumplirlos solo exige más estudio (B falsa); y si el FEV1 y la DLCO posoperatorios previstos son mayores de 60 %, se puede operar sin más pruebas (D falsa, el corte es 60 %).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 470 del PDF (pregunta 22)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 476 del PDF (respuesta 22 E)"
+  ],
+  "tema": "eras"
+ },
+ {
+  "k": "d9a8490ad7",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años con esófago de Barrett y disfagia de reciente aparición está siendo evaluado para una esofagogastroduodenoscopia diagnóstica (EGD), una ecografía endoscópica (EUS) y una biopsia de la mucosa. Está tomando warfarina para la válvula mitral mecánica y tiene antecedentes de accidente cerebrovascular embólico hace 10 años. ¿Qué se recomienda para su régimen anticoagulante antes de este procedimiento?",
+  "opts": [
+   "Suspender la warfarina durante 3 a 5 días y hacer un puente con heparina de bajo peso molecular.",
+   "Suspender la warfarina durante 48 a 72 horas, hacer un puente con heparina no fraccionada y suspender la heparina 4 a 6 horas antes del procedimiento.",
+   "Realizar EGD y EUS mientras se esté tomando warfarina; si está indicado, la biopsia de la mucosa se puede realizar en una fecha posterior después de suspender la warfarina.",
+   "Continuar con la warfarina sin interrupción.",
+   "Suspender la warfarina de 3 a 5 días antes del procedimiento y reiniciarla dentro de las 24 horas posteriores al procedimiento."
+  ],
+  "ans": 3,
+  "why": "Una EGD con EUS y biopsia es un procedimiento endoscópico de bajo riesgo de sangrado, y este paciente tiene alto riesgo trombótico (válvula mitral mecánica y embolia previa). El ABSITE, citando la guía de la ASGE de 2009, indica que los procedimientos de bajo riesgo se hacen con anticoagulación terapéutica y la warfarina se continúa sin interrupción. Suspenderla, con o sin puente, se reserva para procedimientos endoscópicos de alto riesgo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 470 del PDF (pregunta 24)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 476-477 del PDF (respuesta 24 D)"
+  ],
+  "tema": "hemostasia",
+  "nota": "Fuente: texto del ABSITE, que cita la guía ASGE 2009; no se contrastó con una guía más reciente."
+ },
+ {
+  "k": "f45f723266",
+  "estado": "confirmada",
+  "stem": "Un paciente en la unidad de cuidados intensivos quirúrgicos comenzó a recibir alimentación enteral en bolo hace aproximadamente 3 horas y ahora tiene dificultad respiratoria significativa. No se le administraron medicamentos recientemente y el personal de enfermería no notó ningún evento significativo. Después de la intubación, una gasometría arterial muestra una Pao2 de 70 mmHg con una Fio2 del 75 %. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta afección?",
+  "opts": [
+   "Está indicada la broncoscopia temprana.",
+   "Se deben administrar corticosteroides.",
+   "Es más común que sea causada por organismos gramnegativos.",
+   "Se ha implicado al factor de necrosis tumoral alfa (TNF-α) y a la interleucina-8 (IL-8) como agentes causantes.",
+   "La alimentación a través de una sonda de gastrostomía endoscópica percutánea (PEG) es superior a la sonda nasogástrica para prevenir esta afección."
+  ],
+  "ans": 3,
+  "why": "El cuadro es una neumonitis por aspiración (síndrome de Mendelson) tras alimentación en bolo, que tiene más riesgo de aspiración que la continua. El Sabiston explica que el daño se atribuye a la activación de neutrófilos y a citocinas inflamatorias, TNF e IL-8, por lo que D es verdadera. La neumonitis por aspiración recibe tratamiento de soporte y el contenido gástrico suele ser estéril (C falsa). La broncoscopia solo se valora para sacar partículas (no 'temprana' de rutina), y los corticoides son controvertidos y no se recomiendan de rutina. Los libros no dicen que la PEG sea superior a la sonda nasogástrica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 272 del PDF",
+   "Sabiston 21.ª ed., p. 273 del PDF"
+  ],
+  "tema": "complicaciones",
+  "nota": "La opción C estaba cortada en el texto; en el original dice 'Es más común que sea causada por organismos gramnegativos.'"
+ },
+ {
+  "k": "d3045b78a3",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al uso de betabloqueantes en el período perioperatorio de pacientes sometidos a cirugía no cardíaca?",
+  "opts": [
+   "Iniciar un betabloqueante dentro de las 24 horas posteriores a la cirugía puede aumentar la incidencia de muerte perioperatoria.",
+   "Los betabloqueantes deben suspenderse al menos 1 semana antes de la cirugía para reducir el riesgo de bradicardia e hipotensión postoperatorias.",
+   "En pacientes con riesgo cardíaco bajo e intermedio, los betabloqueantes deben iniciarse 2 a 3 semanas antes de la cirugía",
+   "Los betabloqueantes deben evitarse incluso en el grupo de alto riesgo cardíaco.",
+   "El inicio perioperatorio de betabloqueantes disminuye la incidencia de accidente cerebrovascular no mortal."
+  ],
+  "ans": 0,
+  "why": "En el ensayo POISE, iniciar metoprolol el día de la cirugía redujo infarto y fibrilación auricular pero aumentó la mortalidad, el accidente cerebrovascular, la hipotensión y la bradicardia, por lo que A es verdadera. Las guías ACC/AHA 2014 dicen que los betabloqueantes se continúan si ya se usaban, que no se inician el día de la cirugía y que se pueden considerar en alto riesgo (D falsa). No se recomienda suspenderlos 1 semana antes (B), el riesgo de iniciarlos 2 a 45 días antes no está claro (C), y el ensayo mostró más ACV, no menos (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, p. 477 del PDF (respuesta 26 A)",
+   "de Virgilio, Review of Surgery for ABSITE, p. 471 del PDF (pregunta 26)"
+  ],
+  "tema": "eras",
+  "nota": "En el ABSITE la opción A dice 'aumentar la incidencia de ACV perioperatorio'; la del banco dice 'muerte perioperatoria'. Ambas se respaldan con POISE (más mortalidad y más ACV). El plazo de 24 horas del banco no coincide exactamente con 'el día de la cirugía' del libro."
+ }
+]

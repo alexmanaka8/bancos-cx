@@ -1,0 +1,287 @@
+{
+ "banco": "pretest-2024",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "8712fd6244",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "La paciente pregunta hasta que hora puede tomar agua, 8:00 am. Según las directrices de la ASA de 2017, sería:",
+   "opts": [
+    "Hasta la media noche del día previo",
+    "Hasta las 2:00 am",
+    "Hasta las 4:00 am.",
+    "Hasta las 6:00 am"
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 1,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia habla del ayuno en general y de la cirugía ambulatoria, pero no dice la regla de las 2 horas para tomar agua según la guía ASA 2017. No aparece la hora de la cirugía ni la regla exacta para líquidos claros. Por eso no puedo elegir la hora con seguridad.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "0227d76f81",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "¿Que incrementa el riesgo de hipotermia en un pacient quien se le realizará una laparotomía por cáncer gástrico?",
+   "opts": [
+    "La laparotomía",
+    "La edad",
+    "El sexo",
+    "Estado nutricional"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 1,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos hablan de hipotermia en traumatismos y en cirugía de control de daños, pero no comparan la laparotomía, la edad, el sexo o el estado nutricional como factores de riesgo de hipotermia. Para decidir habría que inferir demasiado. Por eso no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "69d0b47190",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "Pct en sala de operaciones, acaba de terminar colecistectomía laparoscópica programada por colecistitis crónica calculosa, sin incidentes, duración 30 minutos. Se usó anestesia general inhalatoria y se le administró cefazolina 1 gr ev en la inducción anestésica. Se le colocó sonda nasogástrica para descompresión, y sonda Foley. Se indica a continuación Cefazolina Igr ev c/ths Tramadol 100 mg, 1 amp ev c/ hi Retiro de sonda nasogástrica y sonda foley Interconsulta a medicina Interna 2. Paciente acude a consultorio de cirugía por presentar dolor abdominal y tras ecografía con diagnóstico de litiasis vesicular. Lo siguiente es",
+   "opts": [
+    "Solicitud de exámenes de laboratorio y riesgo quirúrgica",
+    "Anamnesis y examen físico",
+    "Solicitud de nueva ecografía institucional",
+    "Programación quirúrgica"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 1,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "El texto de la pregunta mezcla dos casos y no dice qué sigue después de la ecografía con litiasis vesicular. Los fragmentos tratan de antibióticos y de contraindicaciones de la colecistectomía laparoscópica, no del orden de la consulta. Por eso no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "295e2ed637",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "Paciente varón de 45 años, acude por masa inguinal. Se realiza anamnesis y examen físico, después de lo cual se identifica antecedente de diabetes mellitus II en tratamiento desde hace 1 año y diagnóstico de hernia inguinal derecha. Lo siguiente a solicitar es: a Hemograma, grupo sanguíneo, glucosa, creatinina b. Hemograma, grupo sanguíneo, glucosa, creatinina + Perfil lipídico c. Hemograma, grupo sanguíneo, glucosa, creatinina, Perfil hepático d. Solicitar Ecografía de partes blandas. 4. Paciente de 77 años, con diabetes mellitus, que usa metformina, en preoperatorio con valores de glucosa en ayunas de 140 mg/dL, usted le indica:",
+   "opts": [
+    "Debe optimizarse los valores de glucemia por debajo de 110 mg/dl",
+    "Debe continuar con el tratamiento con metformina hasta el día de la cirugía",
+    "Debe cambiar de medicación",
+    "Puede ser operado."
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 2,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "El enunciado de esta copia está mezclado con otra pregunta, y las opciones del registro (sobre glucemia) no corresponden al caso de hernia inguinal. La evidencia habla de estudios antes de una intervención endovascular, no de una hernia. No hay base clara para elegir.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "5a83f2c8ea",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "Paciente en pre operatorio x hernia inguinal, que se hospitaliza el día previo a su cirugía protocolo ERAS, se le debe indicar",
+   "opts": [
+    "Nada por vía oral desde la medianoche previa a la cirugía",
+    "…….. liquidos hasta 2 horas antes de la cirugia.",
+    "soło bebida azucarada 2 horas antes de la cirugia",
+    "Nada por vía oral después de la cena."
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 2,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Un fragmento de Sabiston describe el protocolo ERAS de Duke para nefrectomía de donante, con bebida de carbohidratos 2 horas antes de la cirugía. Pero ese protocolo no es el de hernia inguinal, y las opciones de líquidos hasta 2 horas se parecen entre sí. Por prudencia no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "c26f9a6339",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "Mujer de 85 años, fumadora, operada por colecistitis aguda. vómitos postoperatorios",
+   "opts": [
+    "Sexo femenino",
+    "Fumadora",
+    "Historia cefalea o migraña",
+    "Uso de aines en el post operatoria"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 2,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia habla de edad, fragilidad y úlcera péptica, pero no de los factores de riesgo de vómitos postoperatorios. No dice si el sexo femenino, el tabaquismo, la migraña o los AINE aumentan ese riesgo. No se puede decidir con seguridad.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "578f886a18",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "Paciente con diagnóstico de colecistitis crónica calculosa, en pre operatorio, sin comorbilidades asociadas considerando el protocolo ERAS, el cirujano le propone:",
+   "opts": [
+    "Colecistectomía convencional",
+    "Colecistectomía laparoscópica",
+    "Colangiopancreatografia retrógrada endoscópica",
+    "d. Colangioresonancia"
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 3,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston describe la colecistectomía laparoscópica como la técnica habitual, pero no dice que sea la mejor opción según el protocolo ERAS frente a las demás. Tampoco explica la CPRE ni la colangiorresonancia como alternativas en este caso. Por eso no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "94fc67490b",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "En un paciente adulto, sedentario, que será intervenido quirúrgicamente:",
+   "opts": [
+    "Una capacidad funcional baja se correlaciona con un incremento de complicación postoperatorias,",
+    "El postoperatorio es el período más oportuno para incrementar la capacidad funcional",
+    "Las intervenciones focalizadas sólo en ejercicios producen mejores resultados",
+    "Las intervenciones usando consejería nutricional y suplemento proteica son igual de efectivas que los ejercicios."
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 3,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia habla de fragilidad y de mortalidad en cirugía de urgencia, no de capacidad funcional baja en un adulto sedentario. No aparece la comparación entre consejería nutricional y ejercicio. Por eso no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "82fadb3579",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "¿Qué signos y síntomas no están asociados con el exceso de sodio?",
+   "opts": [
+    "Letargo",
+    "Convulsiones",
+    "Confusión",
+    "Insomnio",
+    "Todas"
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 9,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston dice que la hipernatremia causa letargo e insomnio, así que esos dos no son la respuesta. Las convulsiones aparecen con hiponatremia intensa, no con exceso de sodio, pero la evidencia no dice nada sobre la confusión en el exceso de sodio. La pregunta queda ambigua, por eso no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "4b8396e914",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "¿Cuál es un ejemplo de los signos y síntomas de la hipopotasemia?",
+   "opts": [
+    "Dolor muscular",
+    "Huesos debilitados",
+    "Alucinaciones",
+    "Palpitaciones",
+    "N.A"
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 9,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia habla de síntomas de tumores cerebrales y de otros temas, pero no describe los signos de hipopotasemia. No aparece dolor muscular, huesos debilitados, alucinaciones ni palpitaciones en ese contexto. Por eso no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "d46cb07bb2",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "Una persona fue ingresada en coma luego de un trauma, el AGA dio los siguientes v PCO2: 16 mm Hg, HC03: 5 mmol / 1y pH: 7.1 ¿Cuál es el trastorno ácido-base suby",
+   "opts": [
+    "Acidosis metabólica",
+    "Alcalosis metabólica",
+    "Acidosis respiratoria",
+    "Alcalosis respiratoria",
+    "No hay alteración"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 9,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia explica la acidosis respiratoria (aumento de CO2) y la alcalosis metabólica, pero no da el patrón de acidosis metabólica (pH bajo y HCO3 bajo) en sus propios fragmentos. Cerrar el diagnóstico exigiría inferir demasiado. Por eso no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "80bc4415b1",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "Un paciente se presenta a la emergencia de cirugía con los siguientes hallazgos de 7.51; PaCO2: 39.4; HCO3: 31.3; cual es el trastorno que presenta?",
+   "opts": [
+    "Acidosis metabólica no compensada",
+    "Alcalosis metabólica no compensada",
+    "Acidosis respiratoria no compensada",
+    "Alcalosis metabólica compensada",
+    "Acidosis metabólica compensada"
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 9,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos dicen que los vómitos llevan a alcalosis metabólica y que el cuerpo compensa unas alteraciones con otras, pero no dan la regla para decir si este caso está compensado. Con pCO2 normal y HCO3 alto, habría que inferir demasiado. Por eso no decido.",
+    "tema": "liquidos"
+   }
+  }
+ ]
+}

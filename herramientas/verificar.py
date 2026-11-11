@@ -100,7 +100,7 @@ def lotes(banco, tam=20, solo_alto=False, silabo=False):
     for f in glob.glob(os.path.join(carpeta, '*.json')):
         os.remove(f)
     # numerar después de los resultados que ya existen, para no pisarlos
-    usados = [int(os.path.basename(f)[:3]) for f in glob.glob(os.path.join(VER, 'resultados', banco, '*.json'))]
+    usados = [int(re.sub(r'\D', '', os.path.basename(f)) or 0) for f in glob.glob(os.path.join(VER, 'resultados', banco, '*.json'))]   # tolera rNNN.json (rapido.py)
     trozos = [pend[i:i + tam] for i in range(0, len(pend), tam)]
     for n, trozo in enumerate(trozos, max(usados, default=0) + 1):
         sig = trozos[n - max(usados, default=0)] if n - max(usados, default=0) < len(trozos) else None

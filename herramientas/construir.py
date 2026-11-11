@@ -180,6 +180,20 @@ def construir_preguntas(b):
     return datos
 
 
+def construir_json(b):
+    """Banco que ya viene estructurado: originales/<archivo>.json = {"preguntas":[{stem, opts, ans, sec, n}]}.
+    No hay imagen de página, así que no hay "ver el original"."""
+    ruta = archivos_de(b)[0]
+    preguntas = []
+    for q in json.load(open(ruta, encoding='utf8'))['preguntas']:
+        x = {'stem': q['stem'], 'opts': q['opts'], 'ans': q.get('ans'), 'p': q.get('n', 1)}
+        if q.get('sec'):
+            x['sec'] = q['sec']
+        preguntas.append(x)
+    shutil.rmtree(os.path.join(DOCS, 'originales', b['id']), ignore_errors=True)
+    return {'id': b['id'], 'nombre': b['nombre'], 'preguntas': verificar.aplicar(b['id'], preguntas)}
+
+
 def escribir_banco(b, datos):
     preguntas = datos['preguntas']
     with open(os.path.join(DOCS, 'datos', b['id'] + '.json'), 'w', encoding='utf8') as f:
@@ -408,7 +422,7 @@ def main():
             infos_html[b['id']] = construir_html(b)
             leidos.append((b, {'id': b['id'], 'nombre': b['nombre'], 'preguntas': preguntas_html(b)}))
         else:
-            datos = construir_preguntas(b)
+            datos = construir_json(b) if b['tipo'] == 'json' else construir_preguntas(b)
             if len(datos['preguntas']) < 5 and b.get('auto', True):
                 # casi sin preguntas: es un resumen -> pasa a la biblioteca
                 print(f'    solo {len(datos["preguntas"])} preguntas: lo paso a la Biblioteca')
@@ -439,7 +453,8 @@ def main():
         else:
             info = escribir_banco(b, datos)
             catalogo['bancos'].append({'id': b['id'], 'nombre': b['nombre'], 'tipo': 'preguntas',
-                                       'url': f'banco.html?id={b["id"]}', **info})
+                                       'url': f'banco.html?id={b["id"]}', **info,
+                                       **({'destacado': True} if b.get('destacado') else {})})
         print(f'  {b["nombre"]}: {info["n"]} preguntas' + (f', {info["conClave"]} con clave' if b['tipo'] != 'html' else '')
               + (f', {info.get("verificadas")} verificadas' if info.get('verificadas') else ''))
     # temas: cuántas preguntas hay de cada uno, entre todos los bancos

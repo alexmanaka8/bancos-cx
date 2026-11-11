@@ -1,0 +1,59 @@
+[
+ {
+  "k": "938a6b9db5",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años se torna hipotenso (PAS 70 mmHg) tras reparación de hernia inguinal. Tiene baja diuresis y no responde a líquidos. Catéter pulmonar: GC 3 L/min, RVS 2140, SvO₂ 55%, PCP 24 mmHg. ¿Qué elevará mejor la presión?",
+  "opts": [
+   "500 mL de Ringer lactato",
+   "Furosemida 20 mg IV",
+   "Nitroprusiato 0.5 µg/kg/min",
+   "Dobutamina 5–10 µg/min",
+   "Fenilefrina 1 µg/kg/min"
+  ],
+  "ans": 3,
+  "why": "La explicación de ABSITE dice que el paciente está en shock cardiogénico, con gasto bajo, RVS alta y PCWP alta. Indica que la dobutamina mejora la contractilidad y el gasto cardíaco, y que baja la poscarga, por eso la respuesta es la opción D (dobutamina). Los líquidos extra no sirven porque el paciente ya no responde a ellos, y la furosemida no ayuda porque su poca diuresis refleja bajo flujo y no sobrecarga. El nitroprusiato no sube la presión sin un inotrópico, y la fenilefrina sube la presión pero es mala opción porque la vasoconstricción ya está al máximo. El fragmento no dice con esas mismas palabras que la dobutamina suba la presión, así que esa parte es menos directa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 241 del PDF"
+  ],
+  "nota": "Verificación rápida: cita comprobada en el libro.",
+  "tema": "shock"
+ },
+ {
+  "k": "61d94fd3ec",
+  "estado": "confirmada",
+  "stem": "Las muestras para determinar la saturación venosa mixta de oxígeno (SvO₂) se obtienen idealmente de:",
+  "opts": [
+   "Aurícula derecha",
+   "Arteria pulmonar",
+   "Vena pulmonar",
+   "Dos venas periféricas mezcladas",
+   "Línea de presión venosa central"
+  ],
+  "ans": 1,
+  "why": "La explicación de ABSITE dice que el SvO2 se mide con una muestra de la arteria pulmonar, por eso la respuesta es la opción B. Las otras opciones no son el sitio correcto: el mismo texto dice que una SvO2 verdadera incluye sangre de la vena cava y del seno coronario. El fragmento también dice que, en la práctica, la muestra se suele tomar de la vena cava superior con un catéter central, así que conviene recordarlo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 241 del PDF"
+  ],
+  "nota": "Verificación rápida: cita comprobada en el libro.",
+  "tema": "shock"
+ },
+ {
+  "k": "744ed36e56",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes hallazgos es más probable en un paciente con deficiencia severa de magnesio?",
+  "opts": [
+   "Depresión respiratoria",
+   "Bradicardia",
+   "Tetania",
+   "Hipotensión",
+   "Pérdida del reflejo patelar"
+  ],
+  "ans": 2,
+  "why": "La explicación de ABSITE dice que en casos más graves la falta de magnesio causa tetania, nistagmo y convulsiones, por eso la respuesta es la opción C (tetania). Sabiston describe la bradicardia, la hipotensión, la pérdida de reflejos tendinosos y la apnea como efectos del exceso de magnesio (hipermagnesemia), no de su falta. Por eso la depresión respiratoria, la bradicardia, la hipotensión y la pérdida del reflejo patelar no encajan con la deficiencia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 417 del PDF"
+  ],
+  "nota": "Verificación rápida: cita comprobada en el libro.",
+  "tema": "liquidos"
+ }
+]

@@ -1,0 +1,379 @@
+[
+ {
+  "k": "d75487b365",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años, sin hogar y con diabetes mal controlada, se presenta por dolor severo e hinchazón en la pierna izquierda. Signos vitales: temperatura 38.9 °C, PA 132/78 mmHg, FC 102 lpm. Al examen físico se le nota taquipneico. La pierna izquierda está tensa; la piel sobre el muslo está roja, caliente, dolorosa a la palpación y con un área violácea con ampollas. Leucocitos: 22 × 10³/μL (normal 4.1–10.9 × 10³/μL), con predominio de neutrófilos. Sodio sérico: 128 mEq/L (VN: 137–145). ¿Cuál es el mejor siguiente paso en el tratamiento?",
+  "opts": [
+   "Heparina IV inmediata",
+   "Ecografía Doppler venosa de la pierna izquierda",
+   "Angiotomografía pulmonar (CTPA)",
+   "Hemocultivos, antibióticos de amplio espectro y desbridamiento quirúrgico urgente",
+   "Hemocultivos y antibióticos de amplio espectro"
+  ],
+  "ans": 3,
+  "why": "El cuadro (dolor intenso, piel violácea con ampollas, fiebre, leucocitosis, hiponatremia y diabetes) es una infección necrosante de partes blandas. Sabiston dice que el desbridamiento quirúrgico es la pieza fundamental del tratamiento y que la necrosis cutánea, las ampollas o la hiponatremia obligan a reanimación y cirugía urgentes. El ABSITE agrega que el tratamiento eficaz es antibióticos de amplio espectro más resección urgente del tejido necrótico, y que el manejo conservador no es adecuado. Solo antibióticos (E) es insuficiente; heparina, Doppler y angio-TC buscarían una trombosis o embolia que no explica la piel necrótica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 250 del PDF (LRINEC y tratamiento de las infecciones necrosantes de tejidos blandos)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 475 del PDF (respuesta 18)"
+  ],
+  "nota": "El enunciado del banco venía cortado al inicio; se completó con la imagen original. Clave original D (resaltada) respaldada.",
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "eed6b409e1",
+  "estado": "confirmada",
+  "stem": "Un hombre de 78 años se encuentra en recuperación tras una herniorrafia inguinal abierta. Se detecta presión arterial de 70/55 mmHg y pulso de 118 lpm. Respira normalmente. Tiene antecedentes de hipertensión tratada con diuréticos. La cirugía fue sin complicaciones, salvo que fue difícil colocar el catéter urinario. Por la hipotensión es trasladado a la UCI. Parámetros hemodinámicos: gasto cardíaco 10.2 L/min (normal 5 L/min), resistencia vascular sistémica 450 dynes/s/cm⁵ (VN: 700–1600). ¿Cuál es el siguiente paso terapéutico?",
+  "opts": [
+   "Fenilefrina",
+   "Dopamina",
+   "Hemocultivos y antibióticos de amplio espectro",
+   "Bolo IV de Ringer lactato",
+   "Noradrenalina"
+  ],
+  "ans": 3,
+  "why": "Gasto cardíaco alto con resistencia vascular baja es un shock distributivo (vasodilatado). Sabiston indica que el tratamiento inicial del shock distributivo/séptico es la reanimación con cristaloides, y que solo cuando esta no consigue subir la presión el vasopresor de elección es la noradrenalina; por eso la noradrenalina va después del bolo. La fenilefrina se asocia a mayor mortalidad en el shock séptico. Los hemocultivos y antibióticos son necesarios si se sospecha infección, pero el enunciado no describe fiebre ni foco, y no sustituyen la reposición de volumen inmediata en un paciente hipotenso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 551 del PDF (shock distributivo: cristaloides, luego noradrenalina; fenilefrina)",
+   "Sabiston 21.ª ed., p. 253 del PDF (la reanimación inicial con líquido precede al estudio diagnóstico en sepsis)"
+  ],
+  "nota": "Clave original D (resaltada) respaldada. Esta versión del enunciado no aparece tal cual en el ABSITE; la respuesta se apoya en el manejo del shock distributivo de Sabiston.",
+  "tema": "shock"
+ },
+ {
+  "k": "d44c936e7e",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años está en el segundo día postoperatorio de un bypass gástrico. La diuresis disminuye a 10 mL/h. Todo lo siguiente es compatible con azoemia prerrenal EXCEPTO:",
+  "opts": [
+   "Osmolalidad urinaria > 500 mosmol/kg",
+   "Sodio urinario > 40 mmol/L",
+   "BUN/creatinina plasmática > 40",
+   "BUN/urea plasmática > 8",
+   "Osmolalidad urinaria/plasmática < 1.5"
+  ],
+  "ans": 1,
+  "why": "La tabla 12.12 de Sabiston para la lesión renal aguda prerrenal da: osmolalidad urinaria > 500, sodio urinario < 20, excreción fraccionada de sodio < 1 %, relación creatinina orina/plasma > 40, relación urea orina/plasma > 8 y relación osmolalidad orina/plasma < 1,5. Las opciones A, C, D y E coinciden con esa tabla. El sodio urinario > 40 (B) corresponde a daño renal intrínseco (> 50 en la tabla), no a prerrenal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 281 del PDF (tabla 12.12 y texto: sodio urinario < 20 en prerrenal)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (sodio urinario < 20 mEq/L indica causa prerrenal)"
+  ],
+  "nota": "Clave original B (resaltada) respaldada. Las opciones C y D del banco son en realidad las relaciones orina/plasma de la tabla de Sabiston.",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "9afff3655b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es la complicación MENOS probable de la nutrición enteral postpilórica?",
+  "opts": [
+   "Aspiración",
+   "Diarrea",
+   "Obstrucción de la sonda de alimentación",
+   "Anormalidades electrolíticas",
+   "Atrofia de las vellosidades mucosas"
+  ],
+  "ans": 4,
+  "why": "La atrofia de las vellosidades aparece cuando el intestino no se usa (ayuno o nutrición parenteral prolongada); la nutrición enteral ayuda a mantener la mucosa y a prevenir esa atrofia, así que no es una complicación de alimentar por el intestino. En cambio, Sabiston lista para las sondas nasoduodenales/nasoyeyunales la obstrucción o desplazamiento de la sonda y el riesgo de aspiración (aunque teóricamente menor), y la diarrea y los trastornos electrolíticos son complicaciones conocidas de la alimentación enteral.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 559 del PDF (la falta de uso del tubo digestivo induce atrofia de la mucosa)",
+   "Sabiston 21.ª ed., p. 137 del PDF (tabla 5.9: vías de alimentación con sonda e inconvenientes)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 142 del PDF (la alimentación enteral previene la atrofia vellositaria)"
+  ],
+  "nota": "Clave original E (resaltada) respaldada. Una pista automática sugería A (aspiración), pero el riesgo de aspiración sí existe con sondas postpilóricas (menor, no ausente).",
+  "tema": "nutricion"
+ },
+ {
+  "k": "4536642f87",
+  "estado": "dudosa",
+  "stem": "La caquexia cancerosa relacionada con el factor inductor de proteólisis (PIF) se asocia más frecuentemente con cáncer de:",
+  "opts": [
+   "Colon",
+   "Próstata",
+   "Páncreas",
+   "Mama",
+   "Hígado"
+  ],
+  "ans": null,
+  "why": "El PIF se purificó de la orina de pacientes con pérdida de peso por carcinoma de páncreas. En un estudio de pacientes con cáncer de páncreas, el PIF se detectó en la orina del 80 % (55 pacientes) y se relacionó con mayor pérdida de peso. En series de cáncer gastroesofágico la cifra fue menor (56 %). No encontré datos de PIF como factor asociado en próstata, mama ni hígado, y en colon solo aparece en un tumor de ratón (MAC16), no en datos humanos.",
+  "fuentes": [
+   "Wigmore SJ et al., Br J Surg 2000, PMID 10606911 (PIF en orina del 80 % de pacientes con cáncer de páncreas) https://europepmc.org/article/MED/10606911",
+   "Neoplastic expression and cellular functions of proteolysis inducing factor/dermcidin, 2006, resumen en Europe PMC (PIF purificado de la orina de pacientes con carcinoma de páncreas y pérdida de peso)",
+   "PMID 16866854, 2006 (PIF en 56 % de pacientes con cáncer gastroesofágico metastásico)"
+  ],
+  "nota": "Los libros de la carpeta no mencionan el PIF; la evidencia es de artículos (Europe PMC) y no hay comparación directa entre los cinco tumores. Clave original C (resaltada) respaldada por la mayor frecuencia publicada. Supervisión: los libros no mencionan el PIF y no hay comparación directa entre los tumores. Queda dudosa.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "d998d45ccb",
+  "estado": "corregida",
+  "stem": "El mal control de la glucosa es una manifestación de deficiencia de:",
+  "opts": [
+   "Zinc",
+   "Cobre",
+   "Cromo",
+   "Molibdeno",
+   "Selenio"
+  ],
+  "ans": 2,
+  "why": "El cromo es cofactor en la utilización de la insulina en los tejidos; su deficiencia se manifiesta como un estado diabético en que la glucosa es difícil de controlar, con neuropatía periférica y encefalopatía. La deficiencia de zinc causa alopecia, mala cicatrización, inmunosupresión, alteraciones del gusto y del olfato y lesiones de piel (no mal control de glucosa). El cobre produce anemia microcítica y pancitopenia, el molibdeno acumula aminoácidos azufrados con encefalopatía, y el selenio causa miopatía y cardiomiopatía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 444 del PDF (respuesta 13); pregunta en p. 440 del PDF"
+  ],
+  "nota": "Clave original A (zinc, resaltada) no la respalda el libro; la correcta es C (cromo).",
+  "tema": "nutricion"
+ },
+ {
+  "k": "632458fe26",
+  "estado": "corregida",
+  "stem": "Estás planificando una reparación electiva de hernia umbilical en un paciente cirrótico. Todos los siguientes son útiles para evaluar la mortalidad operatoria en un paciente cirrótico EXCEPTO:",
+  "opts": [
+   "Clasificación de Child",
+   "Clasificación de Child-Pugh",
+   "Puntaje MELD (Model for End-Stage Liver Disease)",
+   "Clasificación ASA (American Society of Anesthesiology)",
+   "Historia de diabetes"
+  ],
+  "ans": 4,
+  "why": "Sabiston señala como medidas de riesgo quirúrgico en el cirrótico el índice de Child-Turcotte-Pugh y el MELD, y menciona que la clasificación ASA también predice la mortalidad. Un estudio de 772 pacientes cirróticos operados encontró que solo el MELD, la clase ASA y la edad predijeron la mortalidad postoperatoria. La clasificación de Child y la de Child-Pugh son la misma herramienta, así que B no puede ser la excepción; la historia de diabetes no figura entre los predictores.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 222-223 del PDF (CTP, MELD y ASA para el riesgo quirúrgico en cirrosis)",
+   "Sabiston 21.ª ed., p. 561 del PDF (seguridad quirúrgica según Child A o MELD < 10)",
+   "Teh SH et al., Gastroenterology 2007, PMID 17408652 (solo MELD, ASA y edad predijeron mortalidad) https://europepmc.org/article/MED/17408652"
+  ],
+  "nota": "Clave original B (Child-Pugh, resaltada) no la respalda la fuente: Child-Pugh sí es útil. La excepción es E (historia de diabetes).",
+  "tema": "eras"
+ },
+ {
+  "k": "6595b6707e",
+  "estado": "confirmada",
+  "stem": "En pacientes con insuficiencia renal aguda, la amenaza más inmediata para el paciente es:",
+  "opts": [
+   "Acidosis",
+   "Hiperkalemia",
+   "Disfunción plaquetaria",
+   "Sobrecarga de líquidos",
+   "Malnutrición"
+  ],
+  "ans": 1,
+  "why": "Todas son consecuencias de la lesión renal aguda, pero la hiperkalemia es la complicación más inmediatamente mortal porque predispone a taquicardia y fibrilación ventricular. Sabiston también señala la hiperkalemia como complicación potencialmente mortal de la enfermedad renal.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 246 del PDF (respuesta 31); pregunta en p. 239",
+   "Sabiston 21.ª ed., p. 222 del PDF (la hiperpotasemia es una complicación potencialmente mortal de la enfermedad renal)"
+  ],
+  "nota": "Clave original B (resaltada) respaldada.",
+  "tema": "complicaciones"
+ },
+ {
+  "k": "76c0f435b1",
+  "estado": "confirmada",
+  "stem": "Todos los siguientes son predictores conocidos de mayor riesgo de complicaciones cardíacas perioperatorias EXCEPTO:",
+  "opts": [
+   "Historia de enfermedad coronaria",
+   "Historia de insuficiencia cardíaca",
+   "Tabaquismo",
+   "Historia de accidente cerebrovascular",
+   "Creatinina sérica mayor a 2.0 mg/dL"
+  ],
+  "ans": 2,
+  "why": "El índice de riesgo cardíaco revisado (RCRI) incluye cirugía de alto riesgo, cardiopatía isquémica, antecedente de insuficiencia cardíaca, enfermedad cerebrovascular, diabetes tratada con insulina y creatinina > 2,0 mg/dL. El tabaquismo no está en la lista; es un predictor de complicaciones pulmonares postoperatorias.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 218 del PDF (cuadro 10.6, índice de riesgo cardíaco revisado)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 472 del PDF (el tabaquismo predice complicaciones pulmonares)"
+  ],
+  "nota": "Clave original C (resaltada) respaldada.",
+  "tema": "eras"
+ },
+ {
+  "k": "d2acbc0517",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al shock séptico?",
+  "opts": [
+   "Se caracteriza por mala perfusión de órganos terminales.",
+   "Se recomienda mantener la hemoglobina por encima de 10 g/dL.",
+   "En el shock séptico temprano, el consumo de oxígeno corporal total está disminuido.",
+   "El balance positivo de líquidos se asocia a mayor mortalidad.",
+   "El hígado puede ser una fuente continua de productos inflamatorios."
+  ],
+  "ans": 3,
+  "why": "Se debe evitar un balance de líquidos muy positivo porque se asocia a mayor mortalidad. El problema central del shock séptico es el mal uso del oxígeno (hipoxia citopática) y no una falta de perfusión, así que A es falsa; mantener la hemoglobina por encima de un umbral aporta poco (B); el consumo total de oxígeno está aumentado al inicio, no disminuido (C); y la fuente que perpetúa la inflamación es el intestino (isquemia de la mucosa y translocación), no el hígado (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 244 del PDF (respuesta 20); pregunta en p. 238"
+  ],
+  "nota": "Clave original D (resaltada) respaldada.",
+  "tema": "shock"
+ },
+ {
+  "k": "f281e58727",
+  "estado": "confirmada",
+  "stem": "Un hombre de 27 años (75 kg) con peritonitis severa por apendicitis perforada desarrolla hipotensión con requerimiento de vasopresores tras laparotomía. Tiene bajo RVS y alto gasto cardíaco. Su diuresis cae a menos de 10 cc/h en 12 h a pesar de líquidos adecuados. La creatinina sube de 0.9 a 2.2 mg/dL. No tiene acidosis ni hiperkalemia ni signos de sobrecarga. ¿Cuál es verdadera?",
+  "opts": [
+   "Se debe iniciar hemodiálisis.",
+   "Niveles altos de IL-8 se asocian a menor dependencia de terapia renal sustitutiva.",
+   "Iniciar CRRT temprano mejora la supervivencia.",
+   "La CRRT requiere un acceso vascular diferente al de HD.",
+   "El momento de iniciar CRRT no cambia la duración de hospitalización."
+  ],
+  "ans": 2,
+  "why": "En el paciente séptico con vasopresores la modalidad preferida es la CRRT, porque la hemodiálisis intermitente se tolera mal por los cambios de volumen (A falsa). El ensayo ELAIN (2016) mostró menor mortalidad a 90 días con CRRT temprana (39 % frente a 54 %), y una revisión sistemática de 26 estudios encontró menor mortalidad a 28 días con RRT temprana (RR 0,81), sobre todo en pacientes quirúrgicos. Ambas técnicas usan el mismo acceso (D falsa), la CRRT temprana acortó la estancia hospitalaria (E falsa) y la IL-8 alta aumenta, no reduce, el riesgo de dependencia de diálisis (B falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 244 del PDF (respuesta 21; ELAIN, JAMA 2016); pregunta en p. 238",
+   "Revisión sistemática y metaanálisis de RRT temprana en LRA crítica, 2026, PMID 41894268 https://europepmc.org/article/MED/41894268"
+  ],
+  "nota": "Clave original C (resaltada) respaldada por el ABSITE. El momento óptimo de iniciar la terapia renal sigue siendo un tema discutido en la literatura.",
+  "tema": "shock"
+ },
+ {
+  "k": "51693bdeea",
+  "estado": "anulada",
+  "stem": "Un hombre de 68 años (70 kg), residente en un asilo, es admitido por estado mental alterado. Tiene hipotensión ortostática. Laboratorios: Na 168, K 4.0, Cl 118, HCO₃ 28, BUN 30, Cr 1.6. ¿Cuál es su déficit de agua libre?",
+  "opts": [
+   "3 L y deben reemplazarse en 12 h",
+   "4 L y deben reemplazarse en 24 h",
+   "5 L y 2.5 L deben reemplazarse en 24 h",
+   "6 L y 3 L deben reemplazarse en 24 h",
+   "10 L y 5 L deben reemplazarse en 24 h"
+  ],
+  "ans": null,
+  "why": "Con la fórmula de Sabiston y del ABSITE, déficit de agua libre = [(Na/140) − 1] × agua corporal total. Con 50 % del peso (35 L) da 7 L; con 60 % (42 L, como indica Sabiston) da 8,4 L. Ninguna opción coincide: la D dice 6 L y la E 10 L. En el ABSITE la clave de esta pregunta es la D (7 L, 3,5 L en 24 h), pero su propia explicación dice 10 L, que no sale de su fórmula. En el banco la opción de 7 L aparece cambiada a 6 L.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF (déficit de agua libre = ((Na/140) − 1) × ACT; ACT = peso × 60 %)",
+   "Sabiston 21.ª ed., p. 562 del PDF (fórmula del déficit de agua libre)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 241 del PDF (respuesta 4; fórmula y 50 % de masa magra), p. 236 (pregunta), p. 407 del PDF (agua corporal total)"
+  ],
+  "nota": "Clave original E (10 L, resaltada) no sale del cálculo. Ninguna opción es correcta, por eso se anula.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "f762357011",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes cambios ECG es el MENOS probable en hipokalemia?",
+  "opts": [
+   "Depresión del segmento ST",
+   "Inversión de la onda T",
+   "Bloqueo AV de segundo o tercer grado",
+   "Complejos ventriculares prematuros",
+   "Ondas U"
+  ],
+  "ans": 2,
+  "why": "La hipokalemia produce ondas U, aplanamiento o inversión de la onda T, cambios del segmento ST y arritmias (como los complejos ventriculares prematuros). El bloqueo auriculoventricular es más típico de hipercalcemia e hiperkalemia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 241 del PDF (respuesta 5); pregunta en p. 236"
+  ],
+  "nota": "Clave original C (resaltada) respaldada.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5c24017389",
+  "estado": "confirmada",
+  "stem": "Una mujer de 42 años con cáncer de mama metastásico está letárgica y con cambios mentales. Calcio: 14.5 mg/dL, FA: 2000 UI/L, BUN: 42, Cr: 1.1. ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Mitramicina",
+   "Bifosfonatos",
+   "Diuréticos de asa",
+   "Diuréticos tiazídicos",
+   "Suero fisiológico"
+  ],
+  "ans": 4,
+  "why": "El tratamiento de la hipercalcemia maligna empieza con la expansión de volumen con suero fisiológico para inducir calciuresis. Después se dan diuréticos de asa, que también eliminan calcio. Los bifosfonatos tardan 48 a 72 horas en actuar, la mitramicina más de 24 horas, y los tiazídicos tienen el efecto contrario (retienen calcio).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 241 del PDF (respuesta 6); pregunta en p. 236"
+  ],
+  "nota": "Clave original E (resaltada) respaldada.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "a734be78e7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes variables tiene MENOR influencia en la entrega de oxígeno?",
+  "opts": [
+   "Hemoglobina",
+   "Contractilidad cardíaca",
+   "Frecuencia cardíaca",
+   "Concentración de monóxido de carbono",
+   "Presión parcial de oxígeno disuelto en sangre"
+  ],
+  "ans": 4,
+  "why": "La entrega de oxígeno depende del gasto cardíaco (frecuencia y contractilidad) y del contenido arterial de oxígeno (CaO2 = Hb × 1,34 × SaO2 + PaO2 × 0,003). La hemoglobina y el monóxido de carbono (que baja la saturación) influyen mucho. El oxígeno disuelto (PaO2) aporta solo 1 a 2 % del contenido total, por eso es la variable con menor influencia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 241-242 del PDF (respuesta 10); pregunta en p. 237"
+  ],
+  "nota": "Clave original E (resaltada) respaldada.",
+  "tema": "shock"
+ },
+ {
+  "k": "e63dcc79fe",
+  "estado": "confirmada",
+  "stem": "Un hombre de 25 años con diabetes mellitus insulinodependiente es admitido a la UCI con hiperglucemia severa. Tiene 1 día de náuseas, vómitos y diarrea, y suspendió la insulina por baja ingesta. PA: 100/60 mmHg, FC: 104 lpm, FR: 28 rpm, T°: 99°F (37.2°C). Mucosas secas y dolor abdominal difuso leve. Laboratorio: Na 135, K 3.5, Cl 110, CO₂ 8, BUN 22, Cr 1.2, albúmina 4.1, glucosa 350. Gasometría: pH 7.25, PaCO₂ 20 mmHg, PaO₂ 95 mmHg. Cetonas positivas 1:8. ¿Cuál es la mejor explicación para la alteración ácido-base?",
+  "opts": [
+   "Cetoacidosis diabética",
+   "Cetoacidosis diabética con hiperventilación",
+   "Cetoacidosis diabética y diarrea",
+   "Cetoacidosis diabética y náuseas/vómitos",
+   "Error de laboratorio"
+  ],
+  "ans": 2,
+  "why": "Brecha aniónica = Na − Cl − HCO₃ = 135 − 110 − 8 = 17 (normal 8-16). Con un bicarbonato tan bajo (8), una cetoacidosis pura daría una brecha mucho mayor; el cloro alto (110) indica además una acidosis hiperclorémica de brecha normal, que según Sabiston se produce sobre todo por diarrea. Los vómitos producirían alcalosis metabólica, no más acidosis, y la baja PaCO₂ es la compensación respiratoria, no una causa separada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (cálculo de la brecha aniónica y acidosis de brecha normal por pérdidas digestivas)",
+   "Sabiston 21.ª ed., p. 562 del PDF (acidosis de brecha alta por cetonas; brecha normal por diarrea; vómitos producen alcalosis)"
+  ],
+  "nota": "Clave original C (resaltada) respaldada.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "3b54043cbb",
+  "estado": "confirmada",
+  "stem": "Un hombre de 54 años que pesa 100 lb acude a urgencias tras 3 días de vómitos y pérdida de 10 lb. Electrolitos: Na 136, K 3.1, Cl 88, CO₂ 37. ¿Qué estudio es más útil para determinar la causa de su trastorno ácido-base?",
+  "opts": [
+   "Sodio urinario",
+   "Creatinina urinaria",
+   "Cloro urinario",
+   "pH urinario",
+   "Potasio urinario"
+  ],
+  "ans": 2,
+  "why": "Con bicarbonato de 37 hay una alcalosis metabólica. Su causa se aclara con el cloro urinario: bajo (< 15 mEq/L) indica alcalosis que responde al cloro (vómitos, diuréticos, depleción de volumen); alto (> 25) indica resistente (exceso de mineralocorticoides o depleción de potasio). Sabiston también dice que el cloruro urinario sirve para valorar la alcalosis metabólica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 242 del PDF (respuesta 13); pregunta en p. 237",
+   "Sabiston 21.ª ed., p. 562 del PDF (cloruro urinario en la alcalosis metabólica)"
+  ],
+  "nota": "Clave original C (resaltada) respaldada. El enunciado tenía palabras cortadas (acude, causa, 10 lb); se repararon con la imagen original.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "f17e040c3f",
+  "estado": "confirmada",
+  "stem": "En el shock hemorrágico, ¿cuál es el signo más preciso de una reanimación adecuada con líquidos?",
+  "opts": [
+   "Aumento de la presión arterial",
+   "Aumento de la diuresis",
+   "Aumento de la oxigenación arterial",
+   "Disminución de la sed",
+   "Disminución de la taquicardia"
+  ],
+  "ans": 1,
+  "why": "En el shock hemorrágico el riñón retiene sodio y agua y produce poca orina concentrada; cuando el paciente se reanima adecuadamente, el primer signo es la mejoría de la diuresis. La presión arterial, la frecuencia cardíaca y la sed son menos fiables porque se mantienen por mecanismos compensadores hasta fases tardías.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 245 del PDF (respuesta 23); pregunta en p. 239"
+  ],
+  "nota": "Clave original B (resaltada) respaldada.",
+  "tema": "shock"
+ },
+ {
+  "k": "e15120ef47",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años séptica por colangitis ascendente es transferida a la UCI quirúrgica. Se le realiza colecistectomía y exploración del colédoco tras una esfinterotomía fallida. Por hipotensión y escasa diuresis se coloca un Swan-Ganz. ¿Cuál de los siguientes valores es MENOS consistente con su cuadro clínico?",
+  "opts": [
+   "Presión venosa central: 5 cm H₂O",
+   "RVS: 300 dyn·s/cm⁵",
+   "Índice cardíaco: 2.0 L/min/m²",
+   "Presión de enclavamiento capilar pulmonar: 10 cm H₂O",
+   "SvO₂: 86%"
+  ],
+  "ans": 2,
+  "why": "La sepsis produce un fallo cardíaco de gasto alto con índice cardíaco elevado, por lo que un índice de 2,0 es el valor menos consistente. La RVS está baja por vasodilatación (B), la presión venosa central es baja por fuga capilar (A), la presión de enclavamiento suele no alterarse (D) y la SvO₂ es alta porque los tejidos no extraen el oxígeno (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 245 del PDF (respuesta 24); pregunta en p. 239"
+  ],
+  "nota": "Clave original C (resaltada) respaldada. El enunciado perdía el valor de la presión de enclavamiento (10 cm H₂O) y la 'e' de 'Se le'; se repararon con la imagen original.",
+  "tema": "shock"
+ }
+]

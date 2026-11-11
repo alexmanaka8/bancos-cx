@@ -1,0 +1,142 @@
+[
+  {
+    "k": "b9cc16a671",
+    "decide": true,
+    "ans": 1,
+    "cita": {
+      "libro": "absite",
+      "pagina": 88,
+      "texto": "Alcohol abuse is by far the most common cause of chronic pancreatitis."
+    },
+    "why": "ABSITE (p. 88) dice que el abuso de alcohol es, por mucho, la causa más común de pancreatitis crónica. Sabiston (p. 1565) coincide: el consumo intenso de alcohol causa del 70 al 80% de los casos. Las otras opciones (litiasis biliar, hereditaria, hipertrigliceridemia e infecciosa) aparecen en esos mismos fragmentos como causas menos frecuentes.",
+    "tema": "pancreas-bazo"
+  },
+  {
+    "k": "a923dfaf96",
+    "decide": true,
+    "ans": 4,
+    "cita": {
+      "libro": "sabiston",
+      "pagina": 1106,
+      "texto": "Se extiende desde la apófisis xifoides hasta la sínfisis del pubis y es mucho más ancha por encima del ombligo que por debajo de este, lo que facilita la práctica de incisiones quirúrgicas en la línea media sin interesar la vaina derecha o izquierda"
+    },
+    "why": "Sabiston (p. 1106) describe la línea alba como la banda de fibras aponeuróticas que mantiene juntos los músculos rectos cerca de la línea media. El mismo fragmento dice que facilita hacer incisiones en la línea media sin interesar la vaina derecha ni la izquierda. Por eso la respuesta es la línea alba.",
+    "tema": "suturas"
+  },
+  {
+    "k": "0a34e88c44",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "El fragmento de Sabiston sobre fístulas (p. 297 y 1316) dice que el octreótido es controvertido, que la NPT ayuda en fístulas de alto gasto y que la alimentación enteral se usa según tolerancia. Ninguno afirma cuál de las cinco opciones es la correcta para este paciente. El fragmento de ABSITE (p. 159) solo contiene el enunciado de la pregunta, sin clave. No decido.",
+    "tema": "apendicitis"
+  },
+  {
+    "k": "fa73c16806",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "ABSITE (p. 72) dice que el CFL afecta a personas jóvenes (mediana 25 años), que la mayoría no tiene cirrosis, hepatitis B ni AFP elevada, y que el tumor 'may have a central fibrotic area', es decir, puede tener un área fibrótica central sin decir con qué frecuencia. Esto descarta las opciones de hepatitis B, hombres ancianos y AFP elevada. La opción sobre cicatriz central queda en 'puede', no 'frecuentemente', y el pronóstico frente al CHC no aparece de forma explícita. No decido.",
+    "tema": "onco-digestivo"
+  },
+  {
+    "k": "1add120ba9",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "ABSITE (p. 59) dice que la asociación más fuerte de la colangitis esclerosante es con colitis ulcerosa y que es menos común con Crohn, lo que descarta la opción A. El mismo fragmento indica que la mayoría necesitará tratamiento más invasivo, como stents biliares, y que aparece más en hombres, lo que descarta las opciones D y E. Sabiston (p. 1527) describe el patrón 'arrosariado' de la colangiografía, pero no dice que la CPRE muestre predominantemente estrechamientos intrahepáticos. Sobre el CA 19-9 (opción B), Sabiston (p. 1544) habla de colangiocarcinoma, no de colangitis esclerosante. No decido.",
+    "tema": "via-biliar"
+  },
+  {
+    "k": "0c0059eaf2",
+    "decide": true,
+    "ans": 0,
+    "cita": {
+      "libro": "absite",
+      "pagina": 144,
+      "texto": "Small intestine angiodysplasias account for 75% of cases of obscure bleeding in adults"
+    },
+    "why": "ABSITE (p. 144) dice que la mayoría de las lesiones de sangrado digestivo se ven con endoscopia, y que el sangrado oculto suele originarse en el intestino delgado. Las angiodisplasias del intestino delgado explican el 75% de los casos de sangrado oculto en adultos. Las demás causas (Crohn, enteritis infecciosa, neoplasias y vasculitis) aparecen como otras causas, no como la más frecuente.",
+    "tema": "intestino"
+  },
+  {
+    "k": "4b4b2a23d1",
+    "decide": true,
+    "ans": 1,
+    "cita": {
+      "libro": "absite",
+      "pagina": 289,
+      "texto": "If the patient is relatively stable (as in this case), a CT scan is preferred to confirm the presence of a ruptured AAA and determine feasibility of endovascular repair"
+    },
+    "why": "ABSITE (p. 289) dice que, si el paciente está relativamente estable, se prefiere una TC para confirmar el aneurisma roto y valorar si es posible la reparación endovascular, siempre que exista un equipo multidisciplinario con capacidad endovascular inmediata. Esto corresponde a la opción B. El mismo fragmento indica que la ecografía no es precisa para detectar rotura retroperitoneal, y que el análisis Cochrane no muestra diferencia en la mortalidad a 30 días entre reparación endovascular y abierta.",
+    "tema": "torax-vascular"
+  },
+  {
+    "k": "a664e6083a",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos de este bloque son Sabiston (p. 1310 y 1312) y ABSITE (p. 26 y 138). Sabiston (p. 1310) describe complicaciones de los divertículos duodenales (perforación rara, estasis, sobrecrecimiento bacteriano) pero no dice qué hacer con un divertículo hallado de forma incidental. Sabiston (p. 1312) habla de divertículos yeyunoileales, y ABSITE (p. 138) solo contiene el enunciado sin clave. No decido.",
+    "tema": "intestino"
+  },
+  {
+    "k": "d36a71f551",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "El fragmento de ABSITE (p. 159) solo contiene el enunciado de la pregunta, sin la clave. Los fragmentos de Sabiston (p. 1327 y 1329) hablan de apendicitis y de su diagnóstico, no de colitis en niños con leucemia y neutropenia, y no dicen si basta con antibióticos. No decido.",
+    "tema": "colon"
+  },
+  {
+    "k": "d447f966e2",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "ABSITE (p. 269) dice que la ligadura de la VCI suprarrenal se tolera peor que la infrarrenal, que la vena porta se liga con mayor mortalidad que la reparación, y que la arteria braquial siempre debe repararse. Esto descarta las opciones E, D y C. El fragmento sobre la arteria subclavia se corta justo antes del predicado ('ligation of the subclavian artery is'), por lo que no puedo confirmar la opción A (subclavia) ni la de la vena cava superior. No decido.",
+    "tema": "trauma"
+  },
+  {
+    "k": "0bda86e254",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "ABSITE (p. 71) dice que el realce arterial en TC no ayuda a distinguir adenoma de HNF, lo que contradice la opción C. ABSITE (p. 74) describe la HNF, no el adenoma, al mencionar que se ve 'caliente' en la gammagrafía por las células de Kupffer; esto no responde a las opciones B y E para adenomas. Sobre la opción D, el fragmento dice que en hombres se recomienda resecar sin importar el tamaño, pero no habla de lesiones de 5,5 cm asintomáticas en mujeres. La opción A no aparece en la evidencia. No decido.",
+    "tema": "higado"
+  },
+  {
+    "k": "24bb6f049c",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 1124) dice que los reactantes de fase aguda (VSG y PCR) están elevados en el 80-100% de los pacientes, lo que contradice la opción D sobre VSG normal. El mismo fragmento indica que la valoración suele empezar con una TC, no con pielografía intravenosa, lo que descarta esa opción. Sobre el origen infeccioso, la evidencia habla de causas idiopáticas o autoinmunitarias, pero no lo excluye de forma explícita. La metisergida y la desviación lateral de los uréteres no aparecen en la evidencia. No decido.",
+    "tema": "otros"
+  },
+  {
+    "k": "f3be35d3e2",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "ABSITE (p. 42) dice que la mayoría de las hernias parastomales son asintomáticas y no requieren intervención, pero el texto de la sección sobre reubicación del estoma está muy deteriorado y no permite afirmar con seguridad la opción C. Sabiston (p. 292) menciona un cinturón de soporte para el prolapso leve, pero no lo presenta como tratamiento de la hernia ni menciona pérdida de peso. La EPOC, la malla profiláctica y la ileostomía en asa no aparecen en la evidencia. No decido.",
+    "tema": "colon"
+  },
+  {
+    "k": "465eb6761d",
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia no responde qué diagnóstico considerar en un paciente de 74 años con fístulas recurrentes. ABSITE (p. 172) describe el carcinoma de canal anal, y ABSITE (p. 180) describe las hemorroides externas trombosadas, pero ninguno relaciona fístulas recurrentes en un adulto mayor con cáncer. Sabiston (p. 1432) explica el absceso criptoglandular y su diferencial con fisura y hemorroides trombosadas, sin llegar a una conclusión sobre esta pregunta. No decido.",
+    "tema": "anorrectal"
+  },
+  {
+    "k": "ea92a77d7e",
+    "decide": true,
+    "ans": 1,
+    "cita": {
+      "libro": "absite",
+      "pagina": 170,
+      "texto": "Amyand's hernia: a case report of an incarcerated and perforated appendix within an inguinal hernia and review of the literature"
+    },
+    "why": "La cita es el título de una referencia de ABSITE (p. 170), no una definición directa, y dice que un apéndice incarcerado y perforado dentro de una hernia inguinal es una hernia de Amyand. El mismo fragmento describe el caso de un niño con hernia escrotal que contenía el apéndice. Las otras opciones se describen en el mismo fragmento con sus propias características: Petit (triángulo lumbar inferior), Littre (divertículo de Meckel), Spigelian (línea semilunar) y Grynfeltt (triángulo lumbar superior).",
+    "tema": "hernias"
+  }
+]

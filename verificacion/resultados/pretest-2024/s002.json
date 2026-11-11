@@ -1,0 +1,270 @@
+[
+ {
+  "k": "8712fd6244",
+  "estado": "confirmada",
+  "stem": "La paciente pregunta hasta qué hora puede tomar agua, si su cirugía está programada para las 8:00 am. Según las directrices de la ASA de 2017, sería:",
+  "opts": [
+   "Hasta la media noche del día previo",
+   "Hasta las 2:00 am",
+   "Hasta las 4:00 am.",
+   "Hasta las 6:00 am"
+  ],
+  "ans": 3,
+  "why": "Sabiston explica que la ASA (2017) permite líquidos claros hasta 2 horas antes de una cirugía programada con anestesia general. Si la operación es a las 8:00 am, el agua se puede tomar hasta las 6:00 am. Las demás horas son ayunos más largos de lo necesario (el libro dice que el ayuno clásico no hace falta para reducir la aspiración).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF (Ayuno preoperatorio)",
+   "Sabiston 21.ª ed., p. 131 del PDF (tabla 5.7, directrices ASA sobre ayuno)"
+  ],
+  "nota": "Clave original: D (resaltado). Coincide con el libro.",
+  "tema": "eras"
+ },
+ {
+  "k": "0227d76f81",
+  "estado": "confirmada",
+  "stem": "¿Qué incrementa el riesgo de hipotermia en un paciente varón de 45 años, con IMC 25, a quien se le realizará una laparotomía por cáncer gástrico?",
+  "opts": [
+   "La laparotomía",
+   "La edad",
+   "El sexo",
+   "Estado nutricional"
+  ],
+  "ans": 0,
+  "why": "Sabiston lista como factores de riesgo de hipotermia perioperatoria: edad avanzada, quemaduras, procedimientos quirúrgicos abiertos, quirófanos fríos, cirugías largas (más de 4 h), líquidos a temperatura ambiente y pérdidas por evaporación desde superficies serosas. La laparotomía es un procedimiento abierto. La edad solo cuenta si es avanzada, y el paciente tiene 45 años. El sexo y el estado nutricional no aparecen en la lista (IMC 25 es normal-alto).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 268 del PDF (Hipotermia, Causas)"
+  ],
+  "nota": "Clave original: A (resaltado). El enunciado en el original dice 'varón de 45 años, con IMC 25'; el banco lo había cortado.",
+  "tema": "eras"
+ },
+ {
+  "k": "69d0b47190",
+  "estado": "dudosa",
+  "stem": "Paciente acude a consultorio de cirugía por presentar dolor abdominal y tras ecografía con diagnóstico de litiasis vesicular. Lo siguiente es",
+  "opts": [
+   "Solicitud de exámenes de laboratorio y riesgo quirúrgico",
+   "Anamnesis y examen físico",
+   "Solicitud de nueva ecografía institucional",
+   "Programación quirúrgica"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que ante síntomas de cálculos biliares se indica colecistectomía laparoscópica programada y que la ecografía demuestra la colelitiasis, pero no da el orden de pasos en el consultorio (laboratorio y riesgo quirúrgico frente a anamnesis y examen físico). Ninguna fuente leída decide cuál es 'lo siguiente'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1523 del PDF (colecistitis crónica: diagnóstico y tratamiento)"
+  ],
+  "nota": "Clave original: A (resaltado). Reparación: el texto del banco estaba mezclado con la pregunta 1 de esa página (caso de colecistectomía laparoscópica con indicaciones postoperatorias), que en el original no tiene pregunta ni opciones visibles (se corta al final de la página); solo se conserva la pregunta 2, que sí tiene opciones. En el aula virtual la clave fue A, pero no hay fuente que la respalde o la refute.",
+  "tema": "eras"
+ },
+ {
+  "k": "295e2ed637",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 45 años, acude por masa inguinal. Se realiza anamnesis y examen físico, después de lo cual se identifica antecedente de diabetes mellitus II en tratamiento desde hace 1 año y diagnóstico de hernia inguinal derecha. Lo siguiente a solicitar es:",
+  "opts": [
+   "Hemograma, grupo sanguíneo, glucosa, creatinina",
+   "Hemograma, grupo sanguíneo, glucosa, creatinina + Perfil lipídico",
+   "Hemograma, grupo sanguíneo, glucosa, creatinina, Perfil hepático",
+   "Solicitar Ecografía de partes blandas."
+  ],
+  "ans": null,
+  "why": "Sabiston indica que en el diabético la evaluación preoperatoria se centra en ECG, electrolitos (efecto sobre corazón y riñón) y hemoglobina A1c. Ninguna opción incluye esos estudios, y no hay fuente que pida perfil hepático o perfil lipídico antes de una hernioplastia. Con los libros no se puede decidir entre las opciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 227 del PDF (Diabetes mellitus, evaluación preoperatoria)"
+  ],
+  "nota": "Clave original: C (resaltado en el original, Perfil hepático). No se encontró fuente que respalde esa clave. Reparación: el banco había pegado la pregunta 4 (metformina) al final del enunciado; ahora va en 'dividir'.",
+  "tema": "eras",
+  "dividir": [
+   {
+    "estado": "confirmada",
+    "stem": "Paciente de 77 años, con diabetes mellitus, que usa metformina, en preoperatorio con valores de glucosa en ayunas de 140 mg/dL, usted le indica:",
+    "opts": [
+     "Debe optimizarse los valores de glucemia por debajo de 110 mg/dl",
+     "Debe continuar con el tratamiento con metformina hasta el día de la cirugía",
+     "Debe cambiar de medicación",
+     "Puede ser operado."
+    ],
+    "ans": 3,
+    "why": "Sabiston da como umbral de control glucémico perioperatorio una glucosa menor de 200 mg/dl; 140 mg/dL está por debajo, así que no hay que posponer ni optimizar a 110. Sobre la metformina, el libro dice que su uso la mañana de la cirugía 'suscita controversias', por lo que 'debe continuar' no es una regla firme. No hay razón para cambiar de medicación.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 267 del PDF (control glucémico perioperatorio < 200 mg/dl)",
+     "Sabiston 21.ª ed., p. 228 del PDF (metformina el día de la cirugía)"
+    ],
+    "tema": "eras"
+   }
+  ]
+ },
+ {
+  "k": "5a83f2c8ea",
+  "estado": "confirmada",
+  "stem": "Paciente en pre operatorio x hernia inguinal, que se hospitaliza el día previo a su cirugía protocolo ERAS, se le debe indicar",
+  "opts": [
+   "Nada por vía oral desde la medianoche previa a la cirugía",
+   "…….. líquidos hasta 2 horas antes de la cirugía.",
+   "Solo bebida azucarada 2 horas antes de la cirugía",
+   "Nada por vía oral después de la cena."
+  ],
+  "ans": 1,
+  "why": "Los protocolos ERAS evitan el ayuno prolongado. Sabiston (directrices ASA 2017) permite líquidos claros, con o sin hidratos de carbono, hasta 2 horas antes de la cirugía programada, y una comida ligera hasta 6 horas antes. Por eso 'líquidos hasta 2 horas antes' es lo correcto. Nada por vía oral desde la medianoche o desde la cena es el ayuno clásico que el libro dice que no es necesario. 'Solo bebida azucarada' es más restrictivo que la guía (permite líquidos claros en general).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF (Ayuno preoperatorio)",
+   "Sabiston 21.ª ed., p. 131 del PDF (tabla 5.7)"
+  ],
+  "nota": "Clave original: B (resaltado). La opción B está incompleta en el propio original ('……..' al inicio); lo visible coincide con el libro.",
+  "tema": "eras"
+ },
+ {
+  "k": "c26f9a6339",
+  "estado": "confirmada",
+  "stem": "Mujer de 85 años, fumadora, operada por colecistitis aguda. Es factor de riesgo para náuseas y vómitos postoperatorios",
+  "opts": [
+   "Sexo femenino",
+   "Fumadora",
+   "Historia cefalea o migraña",
+   "Uso de aines en el post operatoria"
+  ],
+  "ans": 0,
+  "why": "La revisión de recomendaciones de PONV (basada en el consenso internacional) dice que los factores de riesgo del paciente incluyen sexo femenino, no fumador y antecedente de PONV o mareo por movimiento; además, la laparotomía y la colecistectomía añaden riesgo. El sexo femenino es factor de riesgo. Ser fumadora no lo es (el factor es ser no fumador). Migraña y AINE no aparecen en esa lista.",
+  "fuentes": [
+   "Prevention and Treatment of Postoperative Nausea and Vomiting (PONV): A Review of Current Recommendations and Emerging Therapies, 2020 (Europe PMC PMC7780848)"
+  ],
+  "nota": "Clave original: A (resaltado). Reparación: el original completa el enunciado con 'Es factor de riesgo para náuseas y vómitos postoperatorios'. Los libros de la carpeta no listan los factores de riesgo de NVPO.",
+  "tema": "eras"
+ },
+ {
+  "k": "578f886a18",
+  "estado": "confirmada",
+  "stem": "Paciente con diagnóstico de colecistitis crónica calculosa, en pre operatorio, sin comorbilidades asociadas considerando el protocolo ERAS, el cirujano le propone:",
+  "opts": [
+   "Colecistectomía convencional",
+   "Colecistectomía laparoscópica",
+   "Colangiopancreatografia retrógrada endoscópica",
+   "Colangioresonancia"
+  ],
+  "ans": 1,
+  "why": "Sabiston indica que en la colecistitis crónica (cólico biliar) con síntomas la colecistectomía laparoscópica programada está justificada y es curativa en más del 90% de los pacientes. Es además la vía mínimamente invasiva, coherente con los protocolos de recuperación mejorada. La CPRE y la colangiorresonancia son estudios, no el tratamiento de la colelitiasis sintomática sin otro dato en el caso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1523 del PDF (colecistitis crónica, tratamiento)",
+   "Sabiston 21.ª ed., p. 362 del PDF (vías de recuperación mejorada)"
+  ],
+  "nota": "Clave original: B (resaltado). Se quitó el 'd.' sobrante de la opción D.",
+  "tema": "eras"
+ },
+ {
+  "k": "94fc67490b",
+  "estado": "confirmada",
+  "stem": "En un paciente adulto, sedentario, que será intervenido quirúrgicamente:",
+  "opts": [
+   "Una capacidad funcional baja se correlaciona con un incremento de complicación postoperatorias.",
+   "El postoperatorio es el período más oportuno para incrementar la capacidad funcional",
+   "Las intervenciones focalizadas sólo en ejercicios producen mejores resultados",
+   "Las intervenciones usando consejería nutricional y suplemento proteica son igual de efectivas que los ejercicios."
+  ],
+  "ans": 0,
+  "why": "Sabiston recoge la dependencia funcional como factor de riesgo de complicaciones pulmonares postoperatorias y usa la capacidad funcional (menos de 4 MET) para estratificar el riesgo perioperatorio. Además, la prehabilitación se plantea antes de la cirugía, no después, lo que descarta B. Los libros no respaldan que solo el ejercicio sea mejor (C) ni que la consejería nutricional sea igual de efectiva que el ejercicio (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 220 del PDF (dependencia funcional, riesgo de complicaciones pulmonares)",
+   "Sabiston 21.ª ed., p. 351 del PDF (capacidad funcional < 4 MET)",
+   "Sabiston 21.ª ed., p. 230 del PDF (prehabilitación antes de la cirugía)"
+  ],
+  "nota": "Clave original: A (resaltado). Los libros no comparan directamente ejercicio frente a nutrición; A es la única opción que respalda la fuente.",
+  "tema": "eras"
+ },
+ {
+  "k": "82fadb3579",
+  "estado": "dudosa",
+  "stem": "¿Qué signos y síntomas no están asociados con el exceso de sodio?",
+  "opts": [
+   "Letargo",
+   "Convulsiones",
+   "Confusión",
+   "Insomnio",
+   "Todas"
+  ],
+  "ans": null,
+  "why": "Sabiston asocia la hipernatremia con debilidad muscular, inquietud, letargo, insomnio y, en casos graves, coma. El libro ABSITE lista como síntomas inquietud, confusión y convulsiones. Es decir, las cuatro opciones (letargo, convulsiones, confusión, insomnio) están asociadas con el exceso de sodio, así que ninguna es 'no asociada' y la opción 'Todas' es ambigua.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF (Hipernatremia)",
+   "de Virgilio, ABSITE 3.ª ed., p. 408 del PDF (Hypernatremia: síntomas)"
+  ],
+  "nota": "Clave original: D, Insomnio (resaltado). Sabiston dice expresamente que la hipernatremia se asocia con insomnio, por lo que esa clave contradice el libro. Probablemente la pregunta original se preguntaba al revés ('están asociados').",
+  "tema": "liquidos"
+ },
+ {
+  "k": "4b8396e914",
+  "estado": "confirmada",
+  "stem": "¿Cuál es un ejemplo de los signos y síntomas de la hipopotasemia?",
+  "opts": [
+   "Dolor muscular",
+   "Huesos debilitados",
+   "Alucinaciones",
+   "Palpitaciones",
+   "N.A"
+  ],
+  "ans": 3,
+  "why": "Sabiston dice que la hipopotasemia provoca arritmias cardíacas (taquicardia auricular, taquicardia y fibrilación ventricular) y alteraciones del ECG (ondas T aplanadas, ondas U); las arritmias se sienten como palpitaciones. Los síntomas musculares que menciona son calambres y debilidad, no 'dolor muscular' ni 'huesos debilitados'. Las alucinaciones no se asocian con hipopotasemia en los textos revisados.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (Hipopotasemia, arritmias)",
+   "Sabiston 21.ª ed., p. 998 del PDF (hipopotasemia: calambres, debilidad)"
+  ],
+  "nota": "Clave original: D (resaltado). 'Palpitaciones' es una forma de decir arritmias; el libro no usa esa palabra, por eso se explicó la relación.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "d46cb07bb2",
+  "estado": "confirmada",
+  "stem": "Una persona fue ingresada en coma luego de un trauma, el AGA dio los siguientes valores: PCO2: 16 mm Hg, HCO3: 5 mmol/l y pH: 7.1. ¿Cuál es el trastorno ácido-base subyacente?",
+  "opts": [
+   "Acidosis metabólica",
+   "Alcalosis metabólica",
+   "Acidosis respiratoria",
+   "Alcalosis respiratoria",
+   "No hay alteración"
+  ],
+  "ans": 0,
+  "why": "El libro ABSITE dice que un pH bajo con bicarbonato bajo indica acidosis metabólica, y que la PCO2 baja es la compensación respiratoria. Sabiston explica que la acidosis metabólica induce una alcalosis respiratoria compensatoria. Aquí el pH 7.1 está bajo, el HCO3 5 está muy bajo y la PCO2 16 está baja por hiperventilación compensadora. La acidosis respiratoria tendría PCO2 alta.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 414 del PDF (low pH, low pCO2 and low bicarbonate = metabolic acidosis)",
+   "Sabiston 21.ª ed., p. 561 del PDF (compensación acidobásica)",
+   "Sabiston 21.ª ed., p. 562 del PDF (acidosis metabólica)"
+  ],
+  "nota": "Clave original: A (resaltado). Se reparó el enunciado cortado ('v', '1y', 'suby').",
+  "tema": "liquidos"
+ },
+ {
+  "k": "80bc4415b1",
+  "estado": "confirmada",
+  "stem": "Un paciente se presenta a la emergencia de cirugía con los siguientes hallazgos de AGA: pH: 7.51; PaCO2: 39.4; HCO3: 31.3; ¿cuál es el trastorno que presenta?",
+  "opts": [
+   "Acidosis metabólica no compensada",
+   "Alcalosis metabólica no compensada",
+   "Acidosis respiratoria no compensada",
+   "Alcalosis metabólica compensada",
+   "Acidosis metabólica compensada"
+  ],
+  "ans": 1,
+  "why": "Sabiston describe la alcalosis metabólica como ganancia de bicarbonato o pérdida de ácido (por ejemplo, vómitos). El pH 7.51 es alcalino (por encima de 7.45) y el HCO3 31.3 está elevado, por lo que es alcalosis metabólica. El ABSITE explica que la compensación de la alcalosis metabólica es hipoventilación (PaCO2 más alta); aquí la PaCO2 es 39.4, sin aumento, y el pH sigue alcalino, por lo tanto no está compensada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 562 del PDF (alcalosis metabólica)",
+   "Sabiston 21.ª ed., p. 556 del PDF (pH de 7,30-7,45 como rango objetivo)",
+   "de Virgilio, ABSITE 3.ª ed., p. 413 del PDF (metabolic alkalosis leads to hypoventilation)"
+  ],
+  "nota": "Clave original: B (resaltado). Se agregó 'AGA' y 'pH' al enunciado, visibles en el original. Los libros de la carpeta no dan una tabla explícita de rangos normales de PaCO2.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5335d5df5c",
+  "estado": "dudosa",
+  "stem": "Un preescolar de 4 años se encuentra recibiendo una solución endovenosa de Dextrosa 5% en AD 1000ml + NaCl20% 20ml a una razón de 20 gotas por minuto. ¿Qué volumen se le infundirá en 24 horas?",
+  "opts": [
+   "1440 ml",
+   "1540 ml",
+   "1640 ml",
+   "1740 ml"
+  ],
+  "ans": null,
+  "why": "En 24 h pasan 20 gotas/min x 1440 min = 28 800 gotas. Para pasar a ml falta el factor de goteo (gotas por ml) del equipo, que el enunciado no da y que no aparece en los libros de la carpeta. Además, la bolsa solo tiene 1020 ml (1000 + 20), menos que cualquiera de las opciones. El dato falta, así que no se puede decidir.",
+  "fuentes": [
+   "Cálculo con los datos del enunciado (sin factor de goteo); ningún libro de la carpeta lo da"
+  ],
+  "nota": "Clave original: A, 1440 ml (resaltado). Solo sale 1440 ml si se supone 20 gotas por ml (macrogoteo), y esa suposición no está en el enunciado.",
+  "tema": "liquidos"
+ }
+]

@@ -1,0 +1,223 @@
+[
+ {
+  "k": "a65695065a",
+  "estado": "dudosa",
+  "tema": "eras",
+  "stem": "Paciente mujer 60 años, con diabetes mellitus y artrosis, usuario de ibuprofeno:",
+  "opts": [
+   "Puede continuar tomando ibuprofeno en forma habitual",
+   "Debe suspender el ibuprofeno 1 día antes de la cirugía",
+   "Se puede cambiar el ibuprofeno por naproxeno",
+   "Debe suspender el ibuprofeno por lo menos dos días antes de la cirugía"
+  ],
+  "ans": null,
+  "why": "Los libros de la carpeta (Sabiston, Giménez, ABSITE) no dicen cuántos días antes hay que suspender un AINE como el ibuprofeno. En la web hay dos fuentes que se contradicen: una tabla de manejo de medicación antes de cirugía cardíaca (PMC11704528) dice que los AINE de acción corta como el ibuprofeno se suspenden 7 días antes, y una tabla de un estudio de cirugía de columna (PMC11583895) dice que los de acción corta (ibuprofeno) se suspenden 1 día antes y el naproxeno 4 días antes. Como no hay una guía oficial que decida entre 1 día, 2 días o 7 días, no se puede marcar una clave.",
+  "fuentes": [
+   "PMC11704528, Preoperative medication management turnkey order set for nonemergent adult cardiac surgery (2024), tabla de medicamentos (https://europepmc.org/article/MED/39780789)",
+   "PMC11583895, Perioperative medication and prolonged postoperative stay in older adults with spinal surgery (2024), tabla de medicamentos de alto riesgo (https://europepmc.org/article/MED/39619378)"
+  ],
+  "nota": "El original no trae clave (la opción C se escribió como 'C' sin punto y la B y la D estaban pegadas en la conversión; ya se separaron). La opción C (cambiar por naproxeno) no tiene respaldo: la tabla de PMC11583895 dice que el naproxeno se suspende 4 días antes, así que no es una alternativa más segura."
+ },
+ {
+  "k": "2a3897802b",
+  "estado": "dudosa",
+  "tema": "liquidos",
+  "stem": "Un hombre de 78 años de edad se somete a una laparotomía por una úlcera péptica perforada. Se colocó un catéter urinario produciendo 40 ml/h durante las primeras horas después de la cirugía. Su bioquímica sérica fue normal inmediatamente antes de la operación. ¿Cuál de los siguientes regímenes de fluidos sería el más apropiado para las próximas 24 horas?",
+  "opts": [
+   "Solución salina isotónica 2L + 1L dextrosa 5% + 30 mmol de potasio",
+   "1L solución salina isotónica + 1L dextrosa 5%",
+   "2L solución salina isotónica + 1L dextrosa 5% + 60 mmol de potasio",
+   "1L solución salina isotónica + 1L dextrosa 5% + 60 mmol de potasio",
+   "3 L de solución salina isotónica + 60 mmol de potasio"
+  ],
+  "ans": null,
+  "why": "Sabiston da la regla de volumen de mantenimiento (4-2-1 ml/kg/h; en adultos de más de 40 kg, 40 + peso en kg en ml/h) y dice que el líquido estándar es glucosa 5% en solución salina seminormal con 20 mEq/l de potasio, pero admite que ese preparado es 'muy impreciso' y no estudiado con rigor. No da una cifra de sodio y potasio por día que permita elegir entre las opciones, y la tabla de necesidades diarias no se pudo leer en el texto del libro. Sin esa cifra la elección entre las opciones C y D (ambas con 60 mmol de potasio) quedaría por descarte, así que no se confirma.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF (líquidos de mantenimiento, cuadro 4.3)",
+   "Sabiston 21.ª ed., p. 106 del PDF (la diuresis baja indica más volumen, no diurético)"
+  ],
+  "nota": "Sin clave original. El enunciado se completó con palabras que faltaban ('de la operación', 'las próximas')."
+ },
+ {
+  "k": "c949eca17f",
+  "estado": "nueva",
+  "tema": "shock",
+  "stem": "¿Cuál es una característica del sustituto de sangre ideal?",
+  "opts": [
+   "Ser incompatibles con todos los tipos de sangre.",
+   "Tener efectos secundarios significativos.",
+   "Ser costoso de producir.",
+   "Entregar oxígeno y tener pocas reacciones adversas."
+  ],
+  "ans": 3,
+  "why": "Sabiston enumera el sustituto sanguíneo ideal: transporta oxígeno, es compatible con todos los tipos sanguíneos, tiene pocos efectos adversos, se almacena mucho tiempo, persiste en la circulación y es rentable. Por eso la D es correcta. Las otras tres dicen lo contrario: incompatible con todos los tipos, efectos secundarios importantes y costoso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 99 del PDF (Sustitutos de la sangre)"
+  ],
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "d73454c572",
+  "estado": "dudosa",
+  "tema": "shock",
+  "stem": "¿Cuál es la complicación más temida de la transfusión de sangre?",
+  "opts": [
+   "Reacción hemolítica aguda",
+   "Transmisión de enfermedades",
+   "Lesión pulmonar aguda",
+   "Síndrome de transfusión de plaquetas"
+  ],
+  "ans": null,
+  "why": "'Más temida' no es un dato medible que los libros definan. ABSITE dice que las principales causas de muerte por transfusión son, en orden, la lesión pulmonar aguda relacionada con transfusión (TRALI), las reacciones hemolíticas (ABO y no ABO) y la sepsis por contaminación bacteriana. Sabiston (tabla 10.7) da el riesgo por unidad: hemólisis mortal 1 en 1.972.000 y lesión pulmonar aguda 1 en 12.000 aproximadamente (la tabla extraída del PDF mezcla las cifras, por eso se cita solo la hemólisis). Según el criterio 'causa de más muertes' sería la C, pero según el criterio clásico 'incompatibilidad ABO' sería la A; las fuentes no deciden cuál criterio usa la pregunta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 491 del PDF (pregunta 26, causas de mortalidad por transfusión)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 480 del PDF (tabla de reacciones transfusionales)",
+   "Sabiston 21.ª ed., p. 224 del PDF (tabla 10.7, riesgo por transfusión)"
+  ],
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "5219edee8f",
+  "estado": "nueva",
+  "tema": "shock",
+  "stem": "¿Cuál es la indicación principal para la transfusión de plasma fresco congelado en cirugía?",
+  "opts": [
+   "Coagulopatía",
+   "Anemia",
+   "Hipotensión",
+   "Hipoxia"
+  ],
+  "ans": 0,
+  "why": "El plasma fresco congelado aporta todos los factores de coagulación; ABSITE lo indica para revertir warfarina, CID, PTT, enfermedad hepática y déficit de factor V, es decir, trastornos de la coagulación. La anemia se trata con concentrado de eritrocitos; la hipotensión y la hipoxia no son indicaciones del plasma.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 479 del PDF (tabla de hemoderivados y fármacos para revertir coagulación)"
+  ],
+  "nota": "Sin clave original. Al enunciado le faltaba el final ('congelado en cirugía?'), que se ve completo en el original. El apoyo para 'la anemia se trata con concentrado de eritrocitos' viene del mismo libro (los hemoderivados se eligen según el componente que falta) y no se citó una página aparte."
+ },
+ {
+  "k": "067d4cc32f",
+  "estado": "nueva",
+  "tema": "hemostasia",
+  "stem": "¿Cuál de los siguientes agentes hemostáticos, su mecanismo de acción es la activación plaquetaria que acelera la formación de coágulos, EXCEPTO?",
+  "opts": [
+   "Colágeno fibrilar",
+   "Polímero de cianoacrilato",
+   "Celulosa oxidada (Surgicel®)",
+   "Plasma autólogo con colágeno bovino y trombina"
+  ],
+  "ans": 1,
+  "why": "El colágeno microfibrilar actúa porque las plaquetas se agregan sobre su superficie, se desgranulan y liberan factores de coagulación. La celulosa oxidada (Surgicel) figura como agente que activa plaquetas y absorbe agua. El cianoacrilato es un adhesivo tisular: al contacto con la sangre se polimeriza y forma una película que pega los bordes, es decir, una barrera física y no una activación de plaquetas. El plasma autólogo con colágeno y trombina contiene colágeno y trombina, que sí favorecen la coagulación.",
+  "fuentes": [
+   "Narrative review 'Application and outlook of topical hemostatic materials', Ann Transl Med 2021, PMC8105794 (tabla de clasificación, secciones de celulosa y cianoacrilato)",
+   "'Achieving hemostasis in dermatology, Part II: topical hemostatic agents', PMC3752468 (sección de colágeno microfibrilar)"
+  ],
+  "nota": "Sin clave original. Los libros de la carpeta no clasifican estos agentes por mecanismo. Nota: la última opción (plasma autólogo con colágeno y trombina) no aparece en las fuentes leídas como producto concreto; se la juzgó por sus componentes, y la respuesta por exclusión se apoya sobre todo en que el cianoacrilato está descrito como adhesivo/barrera."
+ },
+ {
+  "k": "f861052452",
+  "estado": "nueva",
+  "tema": "nutricion",
+  "stem": "Cuáles son los tres minerales de suma importancia en los adolescentes",
+  "opts": [
+   "Fósforo, magnesio, sodio",
+   "fósforo, hierro, zinc",
+   "calcio, hierro calcio zinc",
+   "hierro, magnesio, fósforo"
+  ],
+  "ans": 2,
+  "why": "Una revisión sobre nutrición en el crecimiento dice que en la adolescencia, con el estirón, aumentan las necesidades de micronutrientes, en particular calcio, hierro, zinc y folato. La opción C (en el original se lee 'calcio, hierro calcio zinc', con una repetición de 'calcio') es la única que reúne calcio, hierro y zinc. Las otras incluyen fósforo, magnesio o sodio, que esa fuente no destaca.",
+  "fuentes": [
+   "'Macronutrient balance and micronutrient amounts through growth and development', Ital J Pediatr 2021, PMC8106138"
+  ],
+  "nota": "Sin clave original. La opción C está mal escrita en el propio original (repite 'calcio'); se dejó tal como se ve. Los libros de la carpeta no tratan este tema."
+ },
+ {
+  "k": "2043ffe15d",
+  "estado": "nueva",
+  "tema": "nutricion",
+  "stem": "El exceso produce la enfermedad de Wilson",
+  "opts": [
+   "yodo",
+   "magnesio",
+   "Zinc",
+   "cobre"
+  ],
+  "ans": 3,
+  "why": "Sabiston describe la enfermedad de Wilson como un trastorno autosómico recesivo del transporte de cobre, en el que la acumulación de cobre causa cirrosis con el tiempo. Por eso la respuesta es cobre; el yodo, el magnesio y el zinc no están implicados.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 642 del PDF (enfermedad de Wilson)"
+  ],
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "cf01892874",
+  "estado": "nueva",
+  "tema": "nutricion",
+  "stem": "Su déficit causa pelagra:",
+  "opts": [
+   "Ácido ascórbico",
+   "Covalamina",
+   "Niacina",
+   "Tiamina"
+  ],
+  "ans": 2,
+  "why": "En la tabla de déficits de vitaminas de ABSITE, la pelagra (diarrea, dermatitis, demencia) corresponde a la vitamina B3 (niacina). Sabiston añade que la pelagra del síndrome carcinoide se debe a que el triptófano de la dieta se desvía hacia serotonina (el triptófano es precursor de la niacina). El ácido ascórbico (vitamina C) causa escorbuto, la cobalamina anemia megaloblástica y la tiamina beriberi y encefalopatía de Wernicke.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF (tabla de déficit de vitaminas y minerales)",
+   "Sabiston 21.ª ed., p. 1302 del PDF (pelagra en el síndrome carcinoide)"
+  ],
+  "nota": "Sin clave original. En el original la opción B dice 'Covalamina' (error de escritura de cobalamina); se dejó tal cual."
+ },
+ {
+  "k": "ad72802bfb",
+  "estado": "dudosa",
+  "tema": "nutricion",
+  "stem": "La recomendación en pacientes con encefalopatía hepática crónica, de sustituir proteínas de origen animal, sobre todo las provenientes de las carnes, por proteínas de alimentos vegetales, se fundamenta en que estas últimas presentan:",
+  "opts": [
+   "Menor contenido de amonio, metionina y AA aromáticos, con mayor contenido en AA ramificados",
+   "Menor contenido de nitrógeno, por lo que reducen la necesidad de síntesis hepática de urea",
+   "Menor contenido AA esenciales y ramificados que pueden atravesar la Barrera hematoencefálica",
+   "Menor valor biológico y mayor contenido en amoniaco que aumenta la necesidad de síntesis hepática de urea"
+  ],
+  "ans": null,
+  "why": "La guía china de encefalopatía hepática dice que las proteínas vegetales tienen menos metionina y cisteína, por eso inducen menos encefalopatía, y más ornitina y arginina, que ayudan a eliminar amonio por el ciclo de la urea. Eso respalda solo una parte de la opción A (menos metionina). No se encontró en ninguna fuente leída que las proteínas vegetales tengan menos aromáticos y más aminoácidos ramificados, ni que tengan menos 'amonio'. Elegir la A sería confirmar por descarte, así que queda dudosa.",
+  "fuentes": [
+   "Chinese guidelines on management of hepatic encephalopathy in cirrhosis, 2019, PMC6767982 (sección de nutrición, proteínas)",
+   "ESPEN/EASL: no se pudo leer el texto completo en acceso abierto"
+  ],
+  "nota": "Sin clave original. La opción A es la más cercana a lo que dicen las fuentes, pero no queda completamente respaldada."
+ },
+ {
+  "k": "0cf162939b",
+  "estado": "anulada",
+  "tema": "nutricion",
+  "stem": "Cuál es el diagnóstico nutricional de una mujer de 57 años de edad, cuyo peso actual es de 60 kg, talla: 1.60 m y circunferencia de cintura: 89 cm. Datos bioquímicos: Colesterol total: 125 mg/dl; Triglicéridos: 145 mg/dl, HDL - C: 35 mg/dl. Datos clínicos: Presión arterial: 140/90 mmHg",
+  "opts": [
+   "(el original no trae opciones)",
+   "(el original no trae opciones)"
+  ],
+  "ans": null,
+  "why": "En el original esta pregunta no tiene opciones: justo después de los datos clínicos empieza la pregunta siguiente (calorimetría indirecta). Sin opciones no se puede elegir una respuesta. La pregunta de calorimetría, que la conversión había pegado al final de este enunciado, se separó en el campo 'dividir'.",
+  "fuentes": [
+   "Original del banco, CX. GENERALES_PRETEST 2024.2.pdf, p. 13"
+  ],
+  "nota": "Sin clave original.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "tema": "nutricion",
+    "stem": "¿De qué se encarga la medición de la energía por calorimetría indirecta?",
+    "opts": [
+     "de medir la relación entre el calor disipado y el nivel metabólico",
+     "de cuantificar la frecuencia cardíaca y el consumo de oxígeno",
+     "de evaluar el número de pasos de un individuo de registrar el oxígeno consumido y la consiguiente producción de CO2"
+    ],
+    "ans": null,
+    "why": "Sabiston explica que la calorimetría indirecta calcula el gasto energético midiendo el O2 que consume y el CO2 que produce el organismo (ecuación de Weir). Eso coincide con la última parte de la opción C. Pero en el original la C dice además 'de evaluar el número de pasos de un individuo', frase que es falsa y que parece de una opción perdida o fusionada; no se puede saber si el original quiso una C correcta o hay una opción más. Por eso no se marca clave. La A (calor disipado) describe calorimetría directa y la B (frecuencia cardíaca) no se usa en esta técnica.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 557 del PDF (calorimetría indirecta)"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,283 @@
+{
+ "banco": "lozano",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "d75487b365",
+   "sec": "Quirúrgicas",
+   "stem": "1–10.9 × 10³/μL), con predominio de neutrófilos. Sodio sérico: 128 mEq/L (VN: 137–145). ¿Cuál es el mejor siguiente paso en el tratamiento?",
+   "opts": [
+    "Heparina IV inmediata",
+    "Ecografía Doppler venosa de la pierna",
+    "Angiotomografía pulmonar (CTPA)",
+    "Hemocultivos, antibióticos de amplio espectro y desbridamiento quirúrgico urgente",
+    "Hemocultivos y antibióticos de amplio espectro"
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 14,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "El enunciado está cortado al principio y no describe bien el cuadro completo. Los fragmentos hablan de enfermedad vascular periférica, absceso hepático y fístulas, no del caso. No hay nada en la evidencia que permita elegir una opción con seguridad.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "eed6b409e1",
+   "sec": "Quirúrgicas",
+   "stem": "Un hombre de 78 años se encuentra en recuperación tras una herniorrafia inguinal abierta. Se detecta presión arterial de 70/55 mmHg y pulso de 118 lpm. Respira normalmente. Tiene antecedentes de hipertensión tratada con diuréticos. La cirugía fue sin complicaciones, salvo que fue difícil colocar el catéter urinario. Por la hipotensión es trasladado a la UCI. Parámetros hemodinámicos: gasto cardíaco 10.2 L/min (normal 5 L/min), resistencia vascular sistémica 450 dynes/s/cm⁵ (VN: 700–1600). ¿Cuál es el siguiente paso terapéutico?",
+   "opts": [
+    "Fenilefrina",
+    "Dopamina",
+    "Hemocultivos y antibióticos de amplio espectro",
+    "Bolo IV de Ringer lactato",
+    "Noradrenalina"
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 14,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "El caso parece un shock con resistencia vascular baja y gasto cardíaco alto, pero el libro no lo dice así. Sabiston menciona α-agonistas (noradrenalina, fenilefrina, vasopresina) para la vasodilatación inflamatoria, sin elegir uno. El texto donde la noradrenalina es el vasopresor de elección trata del shock séptico, y el caso no dice que lo sea. Elegir entre las opciones requiere inferir demasiado.",
+    "tema": "shock"
+   }
+  },
+  {
+   "k": "d44c936e7e",
+   "sec": "Quirúrgicas",
+   "stem": "Un hombre de 65 años está en el segundo día postoperatorio de un bypass gástrico. La diuresis disminuye a 10 mL/h. Todo lo siguiente es compatible con azoemia prerrenal EXCEPTO:",
+   "opts": [
+    "Osmolalidad urinaria > 500 mosmol/kg",
+    "Sodio urinario > 40 mmol/L",
+    "BUN/creatinina plasmática > 40",
+    "BUN/urea plasmática > 8",
+    "Osmolalidad urinaria/plasmática < 1.5"
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 15,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia dice que un sodio urinario bajo (<20 mEq/L) y una FENa baja (<1%) indican causa prerrenal, y que un cociente BUN/creatinina mayor de 20 es casi diagnóstico. Eso sugiere que sodio urinario mayor de 40 no encaja con prerrenal, pero el texto no lo dice de forma directa. Los fragmentos no muestran con claridad la osmolalidad urinaria ni la relación de osmolalidades, así que no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "9afff3655b",
+   "sec": "Quirúrgicas",
+   "stem": "¿Cuál de las siguientes es la complicación MENOS probable de la nutrición enteral postpilórica?",
+   "opts": [
+    "Aspiración",
+    "Diarrea",
+    "Obstrucción de la sonda de alimentación",
+    "Anormalidades electrolíticas",
+    "Atrofia de las vellosidades mucosas"
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 16,
+   "motivo": "la respuesta del modelo barato (A) difiere de la clave original (E)",
+   "pista_modelo_barato": {
+    "decide": true,
+    "ans": 0,
+    "cita": {
+     "libro": "sabiston",
+     "pagina": 132,
+     "texto": "Los datos científicos actuales indican que la alimentación gástrica es segura a no ser que el riesgo de aspiración sea alto, en cuyo caso la alimentación pospilórica reduce la aspiración y las neumonías."
+    },
+    "why": "Según Sabiston, la alimentación pospilórica (la sonda llega al intestino delgado, más allá del píloro) reduce la aspiración y las neumonías. Por eso la aspiración es la complicación menos probable de esa vía. Las otras opciones, como diarrea, obstrucción de la sonda o alteraciones electrolíticas, son complicaciones que la evidencia no descarta, pero tampoco compara como más probables.",
+    "tema": "nutricion"
+   }
+  },
+  {
+   "k": "4536642f87",
+   "sec": "Quirúrgicas",
+   "stem": "La caquexia cancerosa relacionada con el factor inductor de proteólisis (PIF) se asocia más frecuentemente con cáncer de:",
+   "opts": [
+    "Colon",
+    "Próstata",
+    "Páncreas",
+    "Mama",
+    "Hígado"
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 17,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos hablan del catabolismo muscular y de la caquexia en general, pero no mencionan el factor inductor de proteólisis (PIF) ni el tipo de cáncer asociado. La respuesta no sale de la evidencia, así que no decido.",
+    "tema": "nutricion"
+   }
+  },
+  {
+   "k": "d998d45ccb",
+   "sec": "Quirúrgicas",
+   "stem": "El mal control de la glucosa es una manifestación de deficiencia de:",
+   "opts": [
+    "Zinc",
+    "Cobre",
+    "Cromo",
+    "Molibdeno",
+    "Selenio"
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 17,
+   "motivo": "la respuesta del modelo barato (C) difiere de la clave original (A)",
+   "pista_modelo_barato": {
+    "decide": true,
+    "ans": 2,
+    "cita": {
+     "libro": "absite",
+     "pagina": 444,
+     "texto": "Chromium is a cofactor involved in the utilization of insulin at the tissue level, and deficiency often manifests as a sudden diabetic state in which blood sugar is difficult to control, along with peripheral neuropathy and encephalopathy."
+    },
+    "why": "El cromo es cofactor de la insulina a nivel de los tejidos. Su deficiencia se manifiesta como un estado diabético repentino, con glucosa difícil de controlar. El zinc da alopecia y mala cicatrización, el cobre da anemia microcítica, y el molibdeno da acumulación tóxica de aminoácidos con azufre, por lo que ninguno es la respuesta.",
+    "tema": "nutricion"
+   }
+  },
+  {
+   "k": "632458fe26",
+   "sec": "Quirúrgicas",
+   "stem": "Estás planificando una reparación electiva de hernia umbilical en un paciente cirrótico. Todos los siguientes son útiles para evaluar la mortalidad operatoria en un paciente cirrótico EXCEPTO:",
+   "opts": [
+    "Clasificación de Child",
+    "Clasificación de Child-Pugh",
+    "Puntaje MELD (Model for End-Stage Liver Disease)",
+    "Clasificación ASA (American Society of Anesthesiology)",
+    "Historia de diabetes"
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 17,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia dice que la clasificación Child-Pugh, el MELD y la clase ASA ayudan a predecir mortalidad operatoria en cirróticos. Por eso la historia de diabetes parecería la excepción, pero el texto no habla de la diabetes como factor en cirróticos. Decir que no sirve sería inferir a partir de lo que falta, así que no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "6595b6707e",
+   "sec": "Quirúrgicas",
+   "stem": "En pacientes con insuficiencia renal aguda, la amenaza más inmediata para el paciente es:",
+   "opts": [
+    "Acidosis",
+    "Hiperkalemia",
+    "Disfunción plaquetaria",
+    "Sobrecarga de líquidos",
+    "Malnutrición"
+   ],
+   "clave_original": 1,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 17,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston, en el capítulo de quemaduras, menciona acidosis metabólica e hiperpotasemia como alteraciones de la insuficiencia renal, pero no dice cuál es la amenaza más inmediata. El fragmento de ABSITE tiene la misma pregunta sin respuesta. No decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "76c0f435b1",
+   "sec": "Quirúrgicas",
+   "stem": "Todos los siguientes son predictores conocidos de mayor riesgo de complicaciones cardíacas perioperatorias EXCEPTO:",
+   "opts": [
+    "Historia de enfermedad coronaria",
+    "Historia de insuficiencia cardíaca",
+    "Tabaquismo",
+    "Historia de accidente cerebrovascular",
+    "Creatinina sérica mayor a 2.0 mg/dL"
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 17,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (índice RCRI) lista como factores: cirugía de alto riesgo, cardiopatía isquémica, insuficiencia cardíaca, enfermedad cerebrovascular, insulina y creatinina mayor de 2,0. Por eso el tabaquismo parecería la excepción. Pero el mismo libro menciona el tabaquismo entre los factores de riesgo de enfermedad coronaria, lo que deja la pregunta ambigua. No decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "d2acbc0517",
+   "sec": "Quirúrgicas",
+   "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al shock séptico?",
+   "opts": [
+    "Se caracteriza por mala perfusión de órganos terminales.",
+    "Se recomienda mantener la hemoglobina por encima de 10 g/dL.",
+    "En el shock séptico temprano, el consumo de oxígeno corporal total está disminuido.",
+    "El balance positivo de líquidos se asocia a mayor mortalidad.",
+    "El hígado puede ser una fuente continua de productos inflamatorios."
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 23,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Los fragmentos no incluyen la afirmación sobre el hígado, la hemoglobina, el balance de líquidos ni el consumo de oxígeno en el shock séptico. Hablan de quemaduras, hipotermia, y de una pregunta de ABSITE sin respuesta. No decido.",
+    "tema": "shock"
+   }
+  },
+  {
+   "k": "f281e58727",
+   "sec": "Quirúrgicas",
+   "stem": "Un hombre de 27 años (75 kg) con peritonitis severa por apendicitis perforada desarrolla hipotensión con requerimiento de vasopresores tras laparotomía. Tiene bajo RVS y alto gasto cardíaco. Su diuresis cae a menos de 10 cc/h en 12 h a pesar de líquidos adecuados. La creatinina sube de 0.9 a 2.2 mg/dL. No tiene acidosis ni hiperkalemia ni signos de sobrecarga. ¿Cuál es verdadera?",
+   "opts": [
+    "Se debe iniciar hemodiálisis.",
+    "Niveles altos de IL-8 se asocian a menor dependencia de terapia renal sustitutiva.",
+    "Iniciar CRRT temprano mejora la supervivencia.",
+    "La CRRT requiere un acceso vascular diferente al de HD.",
+    "El momento de iniciar CRRT no cambia la duración de hospitalización."
+   ],
+   "clave_original": 2,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 24,
+   "motivo": "la cita no menciona la opción elegida (modo estricto)",
+   "pista_modelo_barato": {
+    "decide": true,
+    "ans": 2,
+    "cita": {
+     "libro": "absite",
+     "pagina": 244,
+     "texto": "However, in 2016, the ELAIN trial published in JAMA was the first large randomized controlled trial demonstrating improved 90-day mortality (39% versus 54%) with the initiation of early CRRI (defined as within 8 hours of acute kidney injury onset)."
+    },
+    "why": "El ensayo ELAIN mostró mejor mortalidad a 90 días (39% frente a 54%) cuando la CRRT se inició temprano, según ABSITE. Por eso la opción de iniciar CRRT temprano mejora la supervivencia es la verdadera. El texto dice que la IL-8 alta se asocia a más dependencia de terapia renal, no a menos, así que esa opción es falsa.",
+    "tema": "shock"
+   }
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "banco": "pretest-2024",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "a65695065a",
+   "sec": "Semana 1 · Tema 3",
+   "stem": "Paciente mujer 60 años, con diabetes mellitus y artrosis, usuario de ibuprofeno:",
+   "opts": [
+    "Puede continuar tomando ibuprofeno en forma habitual,",
+    "Debe suspender el ibuprofeno 1 día antes de la cirugía. C Se puede cambiar el ibuprofeno por naproxeno. d. Debe suspender el ibuprofeno por lo menos dos dias antes de la cirugia"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 2,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "2a3897802b",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "Un hombre de 78 años de edad se somete a una laparotomía por una úlcera péptica perforada. Se colocó un catéter urinario produciendo 40 ml/h durante las primeras horas después de la cirugía. Su bioquímica sérica fue normal inmediatamente antes operación. ¿Cuál de los siguientes regimenes de fluidos sería el más apropiado para próximas 24 horas?",
+   "opts": [
+    "Solución salina isotónica 2L + 1L dextrosa 5% + 30 mmol de potasio",
+    "1L solución salina isotónica + 1L dextrosa 5%",
+    "2L solución salina isotónica + 1L dextrosa 5% + 60 mmol de potasio",
+    "1L solución salina isotónica + 1L dextrosa 5% + 60 mmol de potasio",
+    "3 L de solución salina isotónica + 60 mmol de potasio"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 9,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "c949eca17f",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "¿Cuál es una característica del sustituto de sangre ideal?",
+   "opts": [
+    "Ser incompatibles con todos los típos de sangre.",
+    "Tener efectos secundarios significativos.",
+    "Ser costoso de producir.",
+    "Entregar oxígeno y tener pocas reacciones adversas."
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 11,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "d73454c572",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "¿Cuál es la complicación más temida de la transfusión de sangre?",
+   "opts": [
+    "Reacción hemolítica aguda",
+    "Transmisión de enfermedades",
+    "Lesión pulmonar aguda",
+    "Síndrome de transfusión de plaquetas"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 12,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "5219edee8f",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "¿Cuál es la indicación principal para la transfusión de plasma fresco congel",
+   "opts": [
+    "Coagulopatía",
+    "Anemia",
+    "Hipotensión",
+    "Hipoxia"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 12,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "067d4cc32f",
+   "sec": "Semana 2 · Tema 5",
+   "stem": "¿Cuál de los siguientes agentes hemostáticos, su mecanismo de acción es plaquetaria que acelera la formación de coágulos, EXCEPTO?",
+   "opts": [
+    "Colágeno fibrilar",
+    "Polímero de cianoacrilato",
+    "Celulosa oxidada (Surgicel®)",
+    "Plasma autólogo con colágeno bovino y trombina"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 12,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "f861052452",
+   "sec": "Semana 3 · Tema 7",
+   "stem": "Cuáles son los tres minerales de suma importancia en los adolescentes",
+   "opts": [
+    "Fósforo, magnesio, sodio",
+    "fósforo, hierro, zinc",
+    "calcio, hierro calcio zinc",
+    "hierro, magnesio, fósforo"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 13,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "2043ffe15d",
+   "sec": "Semana 3 · Tema 7",
+   "stem": "El exceso produce la enfermedad de Wilson",
+   "opts": [
+    "yodo",
+    "magnesio",
+    "Zinc",
+    "cobre"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 13,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "cf01892874",
+   "sec": "Semana 3 · Tema 7",
+   "stem": "Su déficit causa pelagra:",
+   "opts": [
+    "Ácido ascórbico",
+    "Covalamina",
+    "Niacina",
+    "Tiamina"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 13,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "ad72802bfb",
+   "sec": "Semana 3 · Tema 7",
+   "stem": "La recomendación en pacientes con encefalopatía hepática crónica, de sustituir proteínas de origen animal, sobre todo las provenientes de las carnes, por proteínas de alimentos vegetales, se fundamenta en que estas últimas presentan:",
+   "opts": [
+    "Menor contenido de amonio, metionina y AA aromáticos, con mayor contenido en AA ramificados",
+    "Menor contenido de nitrógeno, por lo que reducen la necesidad de síntesis hepática de urea",
+    "Menor contenido AA esenciales y ramificados que pueden atravesar la Barrera hematoencefálica",
+    "Menor valor biológico y mayor contenido en amoniaco que aumenta la necesidad de síntesis hepática de urea"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 13,
+   "motivo": "sin clave original"
+  },
+  {
+   "k": "0cf162939b",
+   "sec": "Semana 3 · Tema 7",
+   "stem": "Cuál es el diagnóstico nutricional de una mujer de 57 años de edad, cuyo peso actual es de 60 kg, talla: 1.60 m y circunferencia de cintura: 89 cm. Datos bioquímicos: Colesterol total: 125 mg/dl; Triglicéridos: 145 mg/dl, HDL - C: 35 Mg/dl. Datos clínicos: Presión arterial: 140/90 mmHg 6. ¿De qué se encarga la medición de la energía por calorimetría indirecta?",
+   "opts": [
+    "de medir la relación entre el calor disipado y el nivel metabólico",
+    "de cuantificar la frecuencia cardíaca y el consumo de oxígeno",
+    "de evaluar el número de pasos de un individuo de registrar el oxígeno consumido y la consiguiente producción de CO2"
+   ],
+   "clave_original": null,
+   "origen_clave": null,
+   "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+   "pagina": 13,
+   "motivo": "sin clave original"
+  }
+ ]
+}

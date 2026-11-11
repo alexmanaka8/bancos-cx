@@ -1,0 +1,255 @@
+{
+ "banco": "lozano",
+ "cubre_hasta": "SOLO estas preguntas (lote filtrado): no busques preguntas perdidas",
+ "nota": "Escaladas por verificar.py rapido: el modelo barato no pudo comprobar la clave; sigue REGLAS.md. \"pista_modelo_barato\" es solo una pista, no una fuente.",
+ "preguntas": [
+  {
+   "k": "b9f09f50fd",
+   "sec": "Técnicas quirúrgicas 1 -2",
+   "stem": "Una mujer de 32 años está en su PO1 de una laparoscopia convertida por colecistitis aguda. Desde la cirugía ella ha tenido un episodio de vómitos, su gasto urinario ha disminuido a 0.3 cc/kg/ h y Na sérico es de 131. La creatinina sérica es normal pero la ADH está elevada. cual es la causa más probable de estos hallazgos en esta paciente.",
+   "opts": [
+    "SIADH",
+    "respuesta fisiológica normal a la cirugía",
+    "injuria renal aguda",
+    "vómitos",
+    "falla cardiaca congestiva"
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 1,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 108) dice que el SIADH solo se diagnostica en pacientes euvolémicos, y que un paciente hipovolémico que libera ADH responde de forma normal. La viñeta tiene vómitos y poca orina, lo que sugiere hipovolemia, pero el texto no lo dice con claridad. Además, la evidencia no trae la clave de esta pregunta. Por eso no decido.",
+    "tema": "liquidos"
+   }
+  },
+  {
+   "k": "c046f04080",
+   "sec": "Pre - post qx",
+   "stem": "Un hombre de 59 años con un injerto de derivación de la arteria coronaria 1 año antes por enfermedad multivaso se somete a una cirugía de reemplazo de rodilla derecha. Su evolución postoperatoria se complica por neumonía que requiere ventilación mecánica. El electrocardiograma muestra una onda Q estable en la derivación II. La frecuencia cardíaca es de 80 lpm y la presión arterial es de 116/82 mm Hg. La radiografía de tórax muestra infiltrados irregulares bilaterales. El examen de laboratorio muestra una Pao2 de 70 mm Hg, un recuento de glóbulos blancos de 17 000 células/μL y una hemoglobina de 7,4 g/dL. ¿Cuál de las siguientes afirmaciones es verdadera con respecto al tratamiento de su anemia?",
+   "opts": [
+    "La transfusión de sangre facilitará el destete del respirador mecánico.",
+    "Se le debe transfundir hasta alcanzar un objetivo de hemoglobina de 10 g/dL.",
+    "La transfusión de glóbulos rojos se asocia de forma dependiente con una menor mortalidad.",
+    "La eritropoyetina humana recombinante puede reducir sus necesidades generales de transfusión.",
+    "Los transportadores de oxígeno basados en hemoglobina ofrecen una buena alternativa a la transfusión en este paciente."
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 6,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Absite (p. 474) dice que la transfusión se asocia con más mortalidad, no con menos, y que un objetivo de 10 g/dL no es mejor que uno de 7 a 9. También dice que los transportadores de oxígeno no están aprobados en EE. UU. La opción de eritropoyetina aparece en el texto, pero solo en ensayos con pacientes de trauma, así que para este paciente habría que inferir demasiado. La clave del libro (14. D) corresponde a una opción distinta de este archivo, por eso no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "680a3d4154",
+   "sec": "Pre - post qx",
+   "stem": "¿Cuál de los siguientes estudios preoperatorios está más fuertemente asociado con un mayor riesgo de complicaciones posoperatorias relacionadas con los pulmones?",
+   "opts": [
+    "Nitrógeno ureico en sangre",
+    "Espirometría incentivada",
+    "Radiografía de tórax",
+    "Albúmina sérica",
+    "Gasometría arterial con aire ambiente"
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 8,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia de esta pregunta no trae la clave de la pregunta 9 de absite. Sabiston (p. 271) dice que la cirugía y la anestesia disminuyen la capacidad residual y que las pruebas de función pulmonar ayudan a identificar riesgo, pero no compara los estudios de la lista. Absite (p. 473) incluye la albúmina baja como factor del paciente, no como estudio, y dice que la radiografía de tórax de rutina no se recomienda. Como no lo dice con claridad, no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "e2bb804344",
+   "sec": "Pre - post qx",
+   "stem": "Un hombre de 67 años que se recupera de una exenteración pélvica secundaria a un cáncer rectal localmente avanzado comienza a recibir nutrición parenteral total por íleo prolongado a través de un catéter central insertado periféricamente (PICC) en el lado derecho. Varios días después, la enfermera informa que no puede extraer sangre de su catéter central insertado periféricamente. El brazo está hinchado. La ecografía confirma un coágulo en las venas basílicas y axilares. ¿Cuál es el tratamiento adecuado para su afección?",
+   "opts": [
+    "Compresa tibia y medicamentos antiinflamatorios no esteroides (AINE)",
+    "Retire la vía inmediatamente.",
+    "Retire la vía inmediatamente y luego comience a administrar heparina.",
+    "Comience a administrar heparina y mueva la vía a un sitio alterno.",
+    "Iniciar heparina, mantener la vía en su lugar y administrar anticoagulación terapéutica durante 3 a 6 meses"
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 8,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "La evidencia de esta pregunta solo trae el enunciado (absite, p. 468), sin la clave ni la explicación del manejo de un PICC con trombosis. Por eso no hay en el archivo un texto que diga cuál opción es la correcta. Decidir esto requeriría usar mi memoria, así que no decido.",
+    "tema": "nutricion"
+   }
+  },
+  {
+   "k": "7dc2b3390c",
+   "sec": "Pre - post qx",
+   "stem": "Un hombre diabético de 76 años ingresa en la unidad de cuidados intensivos quirúrgicos después de una caída. Sus lesiones incluyen una fractura del cuello femoral derecho y hemorragia subaracnoidea. Sigue teniendo elevación intermitente de su presión intracraneal y sigue necesitando asistencia respiratoria después de 2 días. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la suplementación nutricional en este paciente?",
+   "opts": [
+    "La alimentación pospilórica puede reducir el riesgo de desarrollar neumonía.",
+    "La alimentación gástrica se asocia con una mayor duración de la estadía en la UCI.",
+    "Los pacientes diabéticos tienen mejores resultados con la alimentación gástrica que con la pospilórica.",
+    "La alimentación pospilórica simula más de cerca la alimentación fisiológica normal.",
+    "La alimentación gástrica se asocia con una mayor nutrición total."
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 9,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 272) dice que la alimentación en bolo tiene más riesgo de aspiración, y que las sondas de doble luz permiten alimentar después del píloro. Sin embargo, no dice cuál de las opciones es verdadera en un paciente con traumatismo craneoencefálico. El estudio sobre alimentación pospilórica aparece solo como título en otra parte, sin resultados. Por eso no decido.",
+    "tema": "nutricion"
+   }
+  },
+  {
+   "k": "ea6a37643f",
+   "sec": "Pre - post qx",
+   "stem": "Una mujer obesa de 55 años con enfermedad pulmonar obstructiva crónica (EPOC) está siendo sometida a una evaluación preoperatoria para la reparación de una hernia ventral. Tiene antecedentes de fumar 30 paquetes-año, aunque dejó de fumar hace 1 año. Sus síntomas de EPOC están bien controlados con su régimen de medicación actual y su último ingreso por exacerbación de EPOC fue hace más de 2 años. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la evaluación de riesgos de complicaciones pulmonares posoperatorias en esta paciente?",
+   "opts": [
+    "La obesidad no es un factor de riesgo significativo.",
+    "Se deben realizar pruebas de función pulmonar preoperatorias (PFT).",
+    "Se debe utilizar una sonda nasogástrica",
+    "La laparotomía de la línea media superior y de la línea media inferior confieren un riesgo similar de complicaciones pulmonares.",
+    "Una Paco2 de más de 45 es una contraindicación absoluta para una cirugía abdominal mayor."
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 9,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Absite (p. 473) da la lista de factores de riesgo del paciente: edad mayor de 50, EPOC, ASA mayor de 2, albúmina baja, apnea, hipertensión pulmonar y tabaquismo actual. La obesidad no aparece ahí, aunque Sabiston (p. 355) la incluye en una tabla de riesgo, así que la opción A no queda clara. El mismo texto contradice las opciones B (PFT de rutina), D (la incisión más alta tiene más riesgo) y E (no hay un número que prohíba la cirugía). La opción correcta del libro, sobre el ASA, no aparece en este archivo, así que no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "53b5577a6b",
+   "sec": "Pre - post qx",
+   "stem": "¿Cuál de las siguientes afirmaciones es cierta con respecto a las pruebas de función pulmonar?",
+   "opts": [
+    "La capacidad pulmonar total (TLC) generalmente se reduce con el envejecimiento.",
+    "Un volumen espiratorio forzado en un segundo (FEV1) preoperatorio de menos de 1,5 L es una contraindicación para la lobectomía pulmonar.",
+    "La capacidad de difusión de los pulmones para el monóxido de carbono (DLCO) se mantendrá relativamente constante con la edad siempre que no haya una enfermedad pulmonar intrínseca.",
+    "Un FEV1 posoperatorio porcentual previsto de >40 % es aceptable para una lobectomía, pero no para una neumonectomía.",
+    "La distensibilidad de la pared torácica disminuye con la edad."
+   ],
+   "clave_original": 4,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 9,
+   "motivo": "la cita no menciona la opción elegida (modo estricto)",
+   "pista_modelo_barato": {
+    "decide": true,
+    "ans": 4,
+    "cita": {
+     "libro": "absite",
+     "pagina": 476,
+     "texto": "Compliance of the lung can be misleading because even though the compliance of the lung tissue itself increases with age, the chest wall compliance is significantly reduced."
+    },
+    "why": "Absite (p. 476) dice que, con la edad, la capacidad pulmonar total se conserva, así que la opción A es falsa. Ese mismo texto dice que la DLCO también baja con la edad, lo que hace falsa la opción C. El texto explica que la distensibilidad de la pared torácica se reduce mucho con la edad, por eso la opción E es la verdadera. La opción B y la D no aparecen en ese texto, por eso no las uso para decidir.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "d9a8490ad7",
+   "sec": "Pre - post qx",
+   "stem": "Un hombre de 65 años con esófago de Barrett y disfagia de reciente aparición está siendo evaluado para una esofagogastroduodenoscopia diagnóstica (EGD), una ecografía endoscópica (EUS) y una biopsia de la mucosa. Está tomando warfarina para la válvula mitral mecánica y tiene antecedentes de accidente cerebrovascular embólico hace 10 años. ¿Qué se recomienda para su régimen anticoagulante antes de este procedimiento?",
+   "opts": [
+    "Suspender la warfarina durante 3 a 5 días y hacer un puente con heparina de bajo peso molecular.",
+    "Suspender la warfarina durante 48 a 72 horas, hacer un puente con heparina no fraccionada y suspender la heparina 4 a 6 horas antes del procedimiento.",
+    "Realizar EGD y EUS mientras se esté tomando warfarina; si está indicado, la biopsia de la mucosa se puede realizar en una fecha posterior después de suspender la warfarina.",
+    "Continuar con la warfarina sin interrupción.",
+    "Suspender la warfarina de 3 a 5 días antes del procedimiento y reiniciarla dentro de las 24 horas posteriores al procedimiento."
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 10,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 226) dice que la warfarina se suspende 5 días antes de una cirugía programada y que, en una válvula mecánica, se usa anticoagulación de transición. También dice que reiniciarla en 24 h deja días subterapéuticos, así que la opción E es falsa. El texto no habla de endoscopias con biopsia ni de seguir la warfarina durante ellas, por lo que la opción C no se puede comprobar. La opción A no coincide del todo con los tiempos del texto. Por eso no decido.",
+    "tema": "eras"
+   }
+  },
+  {
+   "k": "f45f723266",
+   "sec": "Pre - post qx",
+   "stem": "Un paciente en la unidad de cuidados intensivos quirúrgicos comenzó a recibir alimentación enteral en bolo hace aproximadamente 3 horas y ahora tiene dificultad respiratoria significativa. No se le administraron medicamentos recientemente y el personal de enfermería no notó ningún evento significativo. Después de la intubación, una gasometría arterial muestra una Pao2 de 70 mmHg con una Fio2 del 75 %. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta afección?",
+   "opts": [
+    "Está indicada la broncoscopia temprana.",
+    "Se deben administrar corticosteroides.",
+    "Es más común que sea",
+    "Se ha implicado al factor de necrosis tumoral alfa (TNF-α) y a la interleucina-8 (IL-8) como agentes causantes.",
+    "La alimentación a través de una sonda de gastrostomía endoscópica percutánea (PEG) es superior a la sonda nasogástrica para prevenir esta afección."
+   ],
+   "clave_original": 3,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 10,
+   "motivo": "el modelo barato no pudo decidir con la evidencia",
+   "pista_modelo_barato": {
+    "decide": false,
+    "ans": null,
+    "cita": null,
+    "why": "Sabiston (p. 272) dice que el riesgo de aspiración es mayor con alimentación en bolo que con alimentación continua, lo que encaja con el caso. Pero la evidencia de esta pregunta no dice qué mediadores causan el daño, así que la opción D no se puede comprobar aquí. La opción C está cortada y no se puede evaluar. Tampoco hay en esta evidencia nada que indique broncoscopia temprana, corticoides o PEG. Por eso no decido.",
+    "tema": "nutricion"
+   }
+  },
+  {
+   "k": "d3045b78a3",
+   "sec": "Pre - post qx",
+   "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto al uso de betabloqueantes en el período perioperatorio de pacientes sometidos a cirugía no cardíaca?",
+   "opts": [
+    "Iniciar un betabloqueante dentro de las 24 horas posteriores a la cirugía puede aumentar la incidencia de muerte perioperatoria.",
+    "Los betabloqueantes deben suspenderse al menos 1 semana antes de la cirugía para reducir el riesgo de bradicardia e hipotensión postoperatorias.",
+    "En pacientes con riesgo cardíaco bajo e intermedio, los betabloqueantes deben iniciarse 2 a 3 semanas antes de la cirugía",
+    "Los betabloqueantes deben evitarse incluso en el grupo de alto riesgo cardíaco.",
+    "El inicio perioperatorio de betabloqueantes disminuye la incidencia de accidente cerebrovascular no mortal."
+   ],
+   "clave_original": 0,
+   "origen_clave": "resaltado",
+   "archivo": "JIJAS LOZANO.pdf",
+   "pagina": 11,
+   "motivo": "la cita no menciona la opción elegida (modo estricto)",
+   "pista_modelo_barato": {
+    "decide": true,
+    "ans": 0,
+    "cita": {
+     "libro": "absite",
+     "pagina": 477,
+     "texto": "However, patients in the study arm also had increased mortality, stroke, hypotension, and bradycardia (A, E)."
+    },
+    "why": "La clave del libro (absite, p. 477) marca la opción A y explica el estudio POISE. Los pacientes que empezaron metoprolol alrededor de la cirugía tuvieron más mortalidad, ACV, hipotensión y bradicardia. Por eso la opción A es la verdadera, aunque el texto dice el día de la cirugía y la opción dice dentro de las 24 horas. La opción E es falsa, porque Sabiston (p. 218) dice que los betabloqueantes se asocian con accidente cerebrovascular. La opción D también es falsa, porque el mismo libro dice que se mantienen en quienes ya los toman.",
+    "tema": "eras"
+   }
+  }
+ ]
+}

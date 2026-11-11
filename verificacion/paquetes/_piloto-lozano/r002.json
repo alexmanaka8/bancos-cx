@@ -1,0 +1,558 @@
+{
+ "banco": "lozano",
+ "paquete": "r002",
+ "preguntas": [
+  {
+   "k": "1e2bb4a4e4",
+   "stem": "Los antibióticos profilácticos están menos indicados en cuál de las siguientes situaciones:",
+   "opts": [
+    "Cirugía de úlcera duodenal en un paciente que recibe antagonistas de receptores H2",
+    "Hernia inguinal",
+    "Bypass aortobifemoral",
+    "Cirugía de mama",
+    "Colecistectomía por colelitiasis sintomática"
+   ],
+   "tema": "iso",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 235,
+     "texto": "211 TABLA 10.12 Recomendaciones para la profilaxis antimicrobiana quirúrgica (cont.) eHay que considerar la profilaxis en pacientes con el riesgo máximo de infecciones gastroduodenales postoperatorias, como los que tienen pH gástrico elevado (p. ej., pacientes en tratamiento con antagonistas del receptor histaminérgico H2 o inhibidores de la bomba de protones), perforación gastroduodenal, motilidad gástrica reducida, obstrucción a la salida gástrica, hemorragia gástrica, obesidad mórbida o cáncer. Es posible que no sea necesaria la profilaxis antimicrobiana cuando no se entra en la luz del tubo intestinal. fHay que considerar una cobertura antimicrobiana adicional con infecciones del árbol biliar. gGentamicina o tobramicina. hDebido a la resistencia creciente de Escherichia coli a las fluoroquinolonas y la ampicilina-sulbactam, es necesario revisar los perfiles de sensibilidad de la población local antes del uso. iCiprofloxacino o levofloxacino. jLas fluoroquinolonas se asocian con un riesgo mayor de tendinitis y rotura tendinosa en pacientes de todas las edades. No obstante, cabe esperar que este riesgo sea bastante pequeño con la profilaxis antibiótica de una sola dosis. Aunque puede ser necesario utilizar fluoroquinolonas para la profilaxis antibiótica quirúrgica en algunos niños, no son fármacos de primera elección en esta población por su mayor incidencia de acontecimientos adversos, comparado con los controles, en algunos estudios clínicos. kEl uso de ceftriaxona debería limitarse a los pacientes que precisan tratamiento antimicrobiano por colecistitis aguda o infecciones agudas del árbol biliar que quizás no estén determinadas antes de la incisión; la ceftriaxona no debe usarse en pacientes que vayan a someterse a colecistectomía por trastornos biliares no"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 2062,
+     "texto": "embarazo, se ha notificado una tasa de mortalidad materna del 15% y una tasa de mortalidad fetal del 60%. En un estudio de 63 pacientes que ingresaron con colelitiasis sintomática, el tratamiento quirúrgico redujo la necesidad de inducción del parto, la tasa de partos prematuros y la mortalidad fetal.36 Por lo tanto, la intervención quirúrgica se considera el principal tratamiento de los cálculos biliares durante el embarazo. El momento de la colecistectomía para el cólico biliar depende de la edad gestacional y la gravedad de los síntomas. Una tasa de aborto espontáneo del 12% con colecistectomía abierta durante el primer trimestre cae al 5,6% y al 0% durante el segundo y tercer trimestres, respectivamente. El riesgo de parto prematuro es casi del 0% durante el segundo trimestre y del 40% durante el tercer trimestre.1 El momento óptimo para la colecistectomía es el segundo trimestre, cuando los riesgos de aborto espontáneo y parto prematuro son los más bajos, a menos que la paciente sufra una complicación de la colelitiasis. En un estudio de 122 pacientes que ingresaron con un cólico biliar, 69 (56,5%) fueron sometidas a una intervención laparoscópica. Ocho pacientes fueron tratadas durante el primero, 54 durante el segundo y 7 durante el último trimestre. No hubo morbilidad ni mortalidad fetal y solo morbilidad materna leve, sin mortalidad.33 La colecistectomía laparoscópica es más segura durante el segundo trimestre. El útero grávido no es lo suficientemente grande a esta edad gestacional como para interferir en la visualización; también es menos probable que se introduzcan instrumentos en el útero de forma accidental con este tamaño. Para acceder al abdomen se recomienda la técnica abierta con el trocar de Hasson. Si para la coledocolitiasis están indicadas una"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 275,
+     "texto": "E. Surgical options include open AAA repair and endovascular repair (EVAR) F. Compared to open AAA repair, EVAR has a lower perioperative (30-day) mortality rate but similar longterm mortality G. Complications of AAA repair: 1. MI is the most common cause of in-hospital death after AAA repair 2. Kidney injury: increased incidence if intraoperative hypotension or suprarenal aortic cross-clamp 3. Ischemic colitis: risk factors (coverage of the IMA or internal iliac, ruptured AAA, intraoperative hypotension; can present with abdominal pain and diarrhea (sometimes bloody); diagnose with flexible sigmoidoscopy; treat with antibiotics, NPO, and resuscitation, if patient deteriorates or develops peritonitis will require surgery 4. Aortoenteric fistula (after open or endovascular repair): upper GI bleed usually >6 months after surgery; due to infected graft that erodes into the duodenum; upper endoscopy (first step in workup) usually negative, CT shows fluid / air around aortic graft/sac; management is graft excision, close the duodenum, and revascularization either with in situ human aortic homograft, neoaortoiliac procedure (NAIS) or extra anatomic axillobifemoral bypass V. Mesenteric Ischemia A. Acute mesenteric ischemia (AMI) etiologies: embolism (to SMA, most common), thrombosis, low flow state (non occlusive), venous thrombosis B. AMI presentation: writhing around complaining of severe abdominal pain, but not significantly tender on exam (pain out of proportion to physical exam); dx with CTA and have preop discussion regarding bowel viability, quality of life, and possible bowel resection C. Surgery for AMI due to embolism: resect frankly necrotic bowel, open SMA embolectomy 1. Transverse arteriotomy proximal to the middle colic artery, then embolectomy 2. If any bowel"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 290,
+     "texto": "Oftentimes, the patient will have a so-called herald bleed, after which the bleeding may temporarily stop, allowing a workup for an aortoenteric fistula. The diagnosis can be difficult to establish. Upper endoscopy is negative surprisingly often and has a low sensitivity but should be the first step in the workup. Duodenal graft erosion typically occurs at the fourth portion of the duodenum, and findings may be subtle, such as mild mucosal erosion. CT scan is highly useful, as in the presence of an aortoenteric fistula will likely demonstrate perigraft fluid, air, or inflammation, indicative of a graft"
+    }
+   ]
+  },
+  {
+   "k": "e92b5aed2b",
+   "stem": "Dos semanas después de una reparación abierta de aneurisma aórtico, el paciente se presenta con distensión abdominal marcada sin náuseas ni vómitos. No hay sensibilidad en el examen abdominal. Las radiografías simples no muestran hallazgos relevantes. La tomografía computarizada (TC) revela una gran cantidad de ascitis pero por lo demás es normal. La paracentesis muestra líquido turbio con cultivo negativo. El análisis del líquido revela un nivel de triglicéridos de 400 mg/dL. El recuento de leucocitos es de 600 células/μL con predominio de linfocitos. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+   "opts": [
+    "El paciente debe ser puesto en nutrición parenteral total (NPT) y dieta absoluta (NPO).",
+    "La octreotida no es útil.",
+    "El paciente debe ser reexplorado inmediatamente.",
+    "El cortocircuito peritoneo-venoso tiene alta tasa de éxito.",
+    "La mayoría de los pacientes responde a una dieta alta en proteínas y baja en grasas con triglicéridos de cadena media."
+   ],
+   "tema": "complicaciones",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 137,
+     "texto": "She states her ostomy has put out 1.9 L per day and she has doubled her daily fluid intake due to increased thirst. Her serum creatinine remains normal and she has no electrolyte abnormalities. What is the best treatment option for this patient? A. Admission to the hospital for IV hydration B. Oral loperamide and close outpatient monitoring C. Revision to a more distal ostomy D. Methylnaltrexone and close outpatient monitoring E. Observation 3. A 55-year-old man with a history of heavy nonsteroidal antiinflammatory drugs (NSAID) use is admitted with a perforated antral ulcer. He undergoes a Billroth II reconstruction. On postoperative day 4, he develops acute abdominal pain and hemodynamic instability. Which of the following complications is most likely causing this presentation? A. Anastomotic leak of gastrojejunostomy B. Efferent limb syndrome C. Duodenal stump blowout D. Marginal ulcer E. Internal hernia 109 CHAPTER 9 Alimentary Tract-Small Bowel 4. Two weeks after an open aortic aneurysm repair, the patient presents with marked abdominal distention without nausea or vomiting. There is no tenderness on abdominal examination. Plain films are unremarkable. CT scan reveals a large amount of ascites but is otherwise unremarkable. Paracentesis reveals turbid fluid that is culture negative. Fluid analysis reveals a triglyceride level of 400 mg/ dL. The white blood cell count is 600 cells / uL with a predominance of lymphocytes. Which of the following is true about this condition? A. The patient should be placed on total parental nutrition (TPN) and NPO B. Octreotide is not useful C. The patient should immediately be reexplored D. Interventional radiology (IR) embolization is first-line treatment E. Most patients respond to a high-protein, lowfat diet with medium-chain"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 141,
+     "texto": "to the development of chylous ascites include exudation of chyle due to obstruction of the cisterna chyli, direct leakage of chyle through a lymphoperitoneal fistula, and exudation through dilated retroperitoneal vessels. The diagnosis of chylous ascites is best established by analysis of the fluid. Chyle typically has a turbid appearance; however, it may be clear in fasting patients. Elevated triglyceride levels in the fluid are considered diagnostic, usually above 200 mg/dL, although some use a threshold above 110 mg/dL. In addition, the white blood cell count is greater than 500, with a predominance of lymphocytes. The total protein level is between 2.5 and 7.0 g/dL. Cultures are negative, except for cases of tuberculosis, in which adenosine deaminase is also positive in the fluid. The initial treatment of chylous ascites is to administer a high-protein, low-fat diet with medium-chain triglycerides. This diet minimizes chyle production and flow. Medium-chain triglycerides are absorbed by the intestinal epithelium and are transported to the liver through the portal vein and do not contribute to chylomicron formation. Conversely, long-chain triglycerides are converted to monoglycerides and free fatty acids, which are then transported to the intestinal lymph vessels as chylomicrons. If this diet regimen fails, placing the patient NPO and on IPN with octreotide has been shown to be useful in patients with postoperative chylous ascites (A, B). If these medical approaches fail, then lymphoscintigraphy is often useful to localize lymph leaks and the site of obstruction. In some instances, IR can percutaneously inject glue to stop leak. Surgical reexploration with localization and closure of the lymphatic leak should be performed if leak persists beyond 2 weeks (C)."
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1116,
+     "texto": "la paracentesis se obtiene un líquido ascítico característico, de aspecto lechoso, con un alto contenido de proteínas y de grasa. El gradiente de albúmina entre el suero y el líquido ascítico es menor de 1,1 mg/dl y el valor de los triglicéridos excede el del plasma en un factor de 2 a 8. La TC, la linfogammagrafía y la linfoangiografía proporcionan, a veces, datos acerca del lugar de obstrucción. Aunque no se han realizado estudios amplios sobre práctica ideal, el tratamiento de los pacientes con ascitis quilosa incluye el mantenimiento o mejoría de la nutrición, la reducción de la velocidad de formación del quilo y la corrección del proceso patológico de base. La mayor parte de los pacientes se pueden tratar con buenos resultados mediante una dieta rica en proteínas y pobre en grasas y diuréticos, o ayuno y nutrición parenteral total asociada o no a somatostatina. Para tratar a los adultos con ascitis quilosa por disección de los ganglios linfáticos retroperitoneales se ha utilizado con resultados satisfactorios una dieta pobre en grasas a base de triglicéridos de cadena media. Se cree que limitando la ingesta de triglicéridos de cadena larga se puede reducir el flujo de quilo, ya que sus metabolitos son transportados por los linfáticos esplácnicos en forma de quilomicrones. Por el contrario, los triglicéridos de cadena media son absorbidos directamente por los enterocitos y transportados al hígado a través de los vasos sanguíneos esplácnicos en forma de ácidos grasos libres y glicerol. La paracentesis puede aliviar temporalmente la disnea y las molestias abdominales asociadas a la ascitis quilosa; sin embargo, su repetición da lugar a hipoproteinemia y malnutrición. En general, el tratamiento de la ascitis quilosa mediante derivaciones peritoneovenosas ha"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1115,
+     "texto": "En este estudio no se produjo ningún caso de hemoperitoneo, muerte o infección después de practicar más de 229 paracentesis en 125 pacientes cirróticos; únicamente detectó hematomas abdominales en el 2% de los casos, y solo en la mitad de ellos hubo que realizar transfusiones sanguíneas. El análisis de líquido ascítico empieza por su aspecto macroscópico. En condiciones normales, este líquido es amarillento y transparente. Si el líquido contiene más de 5.000 leucocitos/mm3, aparecerá turbio, un líquido ascítico con un recuento inferior a 1.000 células/mm3 es casi transparente. La presencia de sangre en el líquido"
+    }
+   ]
+  },
+  {
+   "k": "8471e9d3ab",
+   "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la apendicitis en pacientes con VIH?",
+   "opts": [
+    "La apendicitis ocurre más frecuentemente que en la población general",
+    "Los pacientes con VIH usualmente no manifiestan síntomas ni signos abdominales",
+    "Un recuento bajo de CD4 se asocia a menor riesgo de ruptura",
+    "La morbilidad postoperatoria para la apendicitis no perforada es mayor que en la población general",
+    "Los recuentos leucocitarios absolutos típicamente están elevados"
+   ],
+   "tema": "apendicitis",
+   "evidencia": [
+    {
+     "libro": "gimenez",
+     "nombre": "Giménez, Cirugía 2.ª ed.",
+     "pagina": 689,
+     "texto": "de materia fecal calcificada que obstruye la luz apendicular), parásitos y cuerpos extranos, entre otros. ror otra parte, la causa parietal mas omún es la hiperplasia folicular linfoidea secundaria a na infección viral o bacteriana, la cual suele presentars en pacientes jovenes. otra causa parietal menos recuente son los tumores de ciego o apéndice cecal. La obstrucción de la luz apendicular genera un aumento en la presión intraluminal con la consecuente distension de la pared del apendice. Cuando el aumento de la presión intraluminal excede a la presión de los capilare: sanguíneos, disminuye en primer lugar el retorno venosc y luego el nujo de sangre arterial provocando la isquemia y gangrena de la pared apendicular. Paralelamente teriano y su translocación transmural, generando una respuesta infamatoria aguda sistemica con liberación de citocinas y activación leucocitaria. Si el proceso continúa. puede producirse la perforación del apéndice en el trascurso de 2 a 3 días con pasaie del contenido anendicular a la cavidad peritoneal y la consecuente peritonitis gene ralizada. Puede ocurrir que, en lugar de producirse una peritonitis. las asas intestinales. el mesenterio v/o el epio un absceso apendicular, pero sin peritonitis generalizada. El plastrón apendicular se produce en el contexto de un cuadro de AA de varios días de evolución que no ha sido tratado a tiempo. La perforación apendicular bloqueada por los órganos circundantes antes mencionados genera en primera instancia un flemón apendicular que corresponde a una masa infamatoria due no contienel pus. Este puede evolucionar luego a un absceso propia nente dicho con contenido purulento y eventualmente burbujas de aire extraluminales propias de la perforación apendicular. Clasificación La apendicitis aguda puede"
+    },
+    {
+     "libro": "gimenez",
+     "nombre": "Giménez, Cirugía 2.ª ed.",
+     "pagina": 688,
+     "texto": "de materia fecal calcificada que obstruye la luz apendicular), parásitos y cuerpos extranos, entre otros. ror otra parte, la causa parietal mas omún es la hiperplasia folicular linfoidea secundaria a na infección viral o bacteriana, la cual suele presentars en pacientes jovenes. otra causa parietal menos recuente son los tumores de ciego o apéndice cecal. La obstrucción de la luz apendicular genera un aumento en la presión intraluminal con la consecuente distension de la pared del apendice. Cuando el aumento de la presión intraluminal excede a la presión de los capilare: sanguíneos, disminuye en primer lugar el retorno venosc y luego el nujo de sangre arterial provocando la isquemia y gangrena de la pared apendicular. Paralelamente teriano y su translocación transmural, generando una respuesta infamatoria aguda sistemica con liberación de citocinas y activación leucocitaria. Si el proceso continúa. puede producirse la perforación del apéndice en el trascurso de 2 a 3 días con pasaie del contenido anendicular a la cavidad peritoneal y la consecuente peritonitis gene ralizada. Puede ocurrir que, en lugar de producirse una peritonitis. las asas intestinales. el mesenterio v/o el epio un absceso apendicular, pero sin peritonitis generalizada. El plastrón apendicular se produce en el contexto de un cuadro de AA de varios días de evolución que no ha sido tratado a tiempo. La perforación apendicular bloqueada por los órganos circundantes antes mencionados genera en primera instancia un flemón apendicular que corresponde a una masa infamatoria due no contienel pus. Este puede evolucionar luego a un absceso propia nente dicho con contenido purulento y eventualmente burbujas de aire extraluminales propias de la perforación apendicular. Clasificación La apendicitis aguda puede"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 652,
+     "texto": "lista de trasplante renal, y aquellos pacientes cuya filtración glomerular (FG) descienda a menos de 20 ml/min/1,72 m2 deben evaluarse para un posible trasplante si no tienen contraindicaciones absolutas. La infección por el virus de la inmunodeficiencia humana (VIH) alguna vez fue una contraindicación para el trasplante; sin embargo, determinados pacientes con recuentos celulares adecuados (CD4+ por encima de 400 células/mm3) y una cantidad de virus indetectable obtienen buenos resultados del trasplante como modalidad terapéutica TABLA 27.1 de recidiva Principales nefropatías y tasas ENFERMEDAD TASA DE RECIDIVA (%) PÉRDIDA DEL INJERTO (%) GNSF 30-60, primer 40-50 trasplante; 80 s GNMP de tipo 1 25-65 30 GNMP de tipo 2 90 10-20 Nefropatía por IgA 30-60 10-30 Nefropatía membranosa 40 Hasta 50 Síndrome urémico hemolítico 25-50 40-60 Lupus sistémico ≤ 10 Infrecuente GNMP, glomerulonefritis membranoproliferativa; GNSF, glomerulonefritis segmentaria focal; IgA, inmunoglobulina A. Tomado de Morozumi K, Takeda A, Otsuka Y, et al. Recurrent glomerular disease after kidney transplantation: an update of selected areas and the impact of protocol biopsy. Nephrology (Carlton). 2014;19(suppl 3):6–10. CUADRO 27.2 Contraindicaciones para el trasplante renal Absolutas Neoplasia maligna activa. Infección activa. Enfermedad vascular periférica irreparable. Enfermedad pulmonar o cardíaca grave. Consumo activo de drogas intravenosas. Dificultades psicosociales significativas que interfieren en la capacidad del paciente para cumplir con un esquema médico complejo. Relativas Corta esperanza de vida. Antecedentes de incumplimiento del régimen de medicación. Antecedentes de incumplimiento en la diálisis. Condicionantes económicos. Problemas psiquiátricos. Nefropatía con elevada frecuencia de"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 168,
+     "texto": "of a cecal fistula (B). If the fistula fails to close, one must suspect the possibility of either a neoplasm in the cecum, IBD, tuberculosis, or distal obstruction. Reference: Hale DA, Molloy M, Pearl RH, Schutt DC, Jaques DP. Appendectomy: a contemporary appraisal. Ann Surg. 1997;225(3):252-261. 30. D. Current guidelines indicate that stage I (node negative, invades submucosa) colon cancer does not need chemotherapy. The role of chemotherapy in stage II (node negative, invades subserosa or direct invasion of adjacent organ) colon cancer remains debatable. The combination of 5-fluorouracil and leucovorin"
+    }
+   ]
+  },
+  {
+   "k": "e253a844d6",
+   "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía biliar?",
+   "opts": [
+    "El conducto hepático derecho suele ser más largo que el izquierdo y más propenso a dilatarse",
+    "El retorno venoso de la vesícula es principalmente por una vena cística hacia la vena porta",
+    "Las válvulas de Heister tienen un papel importante en la función de reservorio biliar de la vesícula",
+    "El colédoco y el conducto pancreático usualmente se unen fuera de la pared duodenal",
+    "La irrigación arterial del colédoco proviene principalmente de la arteria hepática izquierda y la arteria gástrica derecha"
+   ],
+   "tema": "vesicula",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 56,
+     "texto": "bile acids are passively absorbed along the entirety of the small intestine, they are actively absorbed only in the terminal ileum (B). Bile acids are colorless, and the yellow hue of bile is a result of the pigmented biliverdin (breakdown product of bilirubin) that is also found in bile (C). Bile duct stones occurring after 2 years are considered primary common duct stones and are often pigmented (D). During the fasting state, gallbladder emptying is stimulated by motilin. Reference: Luiking YC, Peeters TL, Stolk MF, et al. Motilin induces gall bladder emptying and antral contractions in the fasted state in humans. Gut. 1998;42(6):830-835. 10. D. The left hepatic duct is longer than the right and is more likely to be dilated in the presence of distal obstruction (A). The spiral Heister valves within the cystic duct do not have any true valvular function (C). In approximately threefourths of individuals, the CBD and the main pancreatic duct unite outside the duodenal wall and traverse the duodenal wall as a single duct. The blood supply to the CBD runs along the lateral and medial walls at the 3 and 9 o'clock positions and comes from the right hepatic artery and retroduodenal artery (off gastroduodenal artery) (E). Thus, a transverse hemitransection of the duct will likely interrupt the blood supply and render a repair prone to ischemia and stricture Venous return of the gallbladder is typically drained directly to the parenchyma of the liver (B). Reference: Oddsdottir, M, Hunter, JG. Gallbladder. In: Brunicardi FC, Andersen DK, Billiar TR, et al., eds. Schwartz's principles of surgery. 8th ed. New York: McGraw-Hill; 2005:1187-1200. 11. A. Most polypoid lesions of the gallbladder are benign, and of these, cholesterol polyps are the most common. They are usually small"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1513,
+     "texto": "derecho incluye los segmentos V, VI, VII y VIII y es notablemente más corto que el conducto izquierdo, bifurcándose casi de inmediato. La unión de dos conductos sectoriales, posterior y anterior, crea este conducto hepático derecho corto. El conducto sectorial anterior discurre en dirección vertical para drenar los segmentos V y VIII, mientras que el conducto sectorial posterior sigue un trayecto horizontal para drenar los segmentos VI y VII. La vesícula biliar es una estructura parcialmente intraperitoneal que se encuentra adherida a la superficie inferior del hígado en los segmentos IVB y V. Tiene una longitud de 7 a 10 cm, contiene de 30 a 60 ml de bilis como depósito y se divide en cuello, infundíbulo con bolsa de Hartmann, cuerpo y fondo (fig. 55.2). En el lado de la vesícula biliar que está adherido al hígado, no existe recubrimiento © 2022. Elsevie peritoneal; un revestimiento fibroso conocido como placa cística ocupa este espacio. La bilis es drenada a través del conducto cístico al colédoco. El conducto cístico puede variar de 1 a 5 cm de longitud y drena en un ángulo agudo en el colédoco. Existen numerosas variaciones en esta inserción, incluso en el conducto hepático derecho (fig. 55.3). Las válvulas de Heister, que son pliegues de mucosa orientados en forma de espiral dentro del cuello de la vesícula biliar, actúan para conservar la bilis en la vesícula biliar hasta la contracción en respuesta a la estimulación intestinal. El colédoco se divide en tres porciones: supraduodenal, retroduodenal y pancreática, que es la porción más inferior, englobada por la cabeza del páncreas. La inserción del conducto cístico señala la separación del colédoco (abajo) del conducto hepático común (arriba). El colédoco termina en la segunda porción del duodeno en la ampolla de"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1458,
+     "texto": "1434 X Abdomen ￼ FIGURA 54.12 Variaciones en la anatomía de la arteria cística. (A) Anatomía más común. (B) Doble arteria cística, una procedente de la arteria hepática propia. (C) Origen en la arteria hepática propia y trayectoria anterior al colédoco. (D) Origen en la arteria hepática derecha y trayectoria anterior al colédoco. (E) Origen en la arteria hepática izquierda y trayectoria anterior al colédoco. (F) Origen en la arteria gastroduodenal. (G) Origen en el tronco celíaco. (H) Origen en una arteria hepática derecha accesoria. (Tomado de Blumgart LH, Hann LE. Surgical and radiologic anatomy of the liver and biliary tract. In: Blumgart LH, Fong Y, eds. Surgery of the Liver and Biliary Tract. London: WB Saunders; 2000:3–34.) vesícula biliar, de tamaño variable, aunque generalmente mide 10 cm de longitud y de 3 a 5 cm de anchura, consta de fondo, cuerpo, infundíbulo y cuello que, en última instancia, desemboca en el conducto cístico. El fondo suele proyectarse algo más allá del borde hepático por delante y cuando se repliega sobre sí mismo forma una especie de gorro frigio. Si se sigue hacia el colédoco, se encuentra el cuerpo de la vesícula, casi siempre contiguo a la segunda porción del duodeno y al colon transverso. El infundíbulo (o bolsa de Hartmann) cuelga hacia delante, a lo largo del borde libre del epiplón menor, y se puede doblar delante del conducto cístico. La porción de la vesícula comprendida entre el infundíbulo y el conducto cístico se conoce como cuello. El conducto cístico tiene una longitud, trayectoria e inserción variables del árbol biliar principal. La primera porción del conducto cístico suele ser tortuosa y contiene duplicaciones de la mucosa conocidas como pliegues de Heister, que regulan el llenado y el vaciamiento de la vesícula."
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 51,
+     "texto": "are considered primary common duct stones E. In between meals, gallbladder emptying is stimulated by motilin 10. Which of the following is true regarding biliary anatomy? A. The right hepatic duct tends to be longer than the left and more prone to dilation B. Venous return from the gallbladder is most often via a cystic vein to the portal vein C. Heister valves have an important role in the gallbladder's function as a bile reservoir D. The CBD and pancreatic duct typically unite outside the duodenal wall E. The arterial supply to the CBD derives primarily from the left hepatic and right gastric arteries 23"
+    }
+   ]
+  },
+  {
+   "k": "1ed476d316",
+   "stem": "En el contexto de trauma, ¿la ligadura es mejor tolerada en cuál de los siguientes vasos?",
+   "opts": [
+    "Vena renal derecha",
+    "Vena renal izquierda",
+    "Arteria braquial",
+    "Arteria poplítea",
+    "Vena cava inferior suprarrenal"
+   ],
+   "tema": "trauma",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1829,
+     "texto": "© Elsevier. Fotocopiar sin autorización es un delito. Las lesiones vasculares renales penetrantes se exponen con facilidad de uno u otro lado mediante rotación visceral medial. Se abre la fascia de Gerota, y se moviliza el riñón en forma roma hacia la herida. Una vez movilizado el riñón, se puede controlar la lesión vascular por presión manual directa, mientras se obtiene control proximal y distal con ligaduras vasculares. Las lesiones de la arteria renal se pueden tratar mediante reparación primaria, anastomosis terminoterminal, parche venoso, injerto de interposición o nefrectomía (después de confirmar por palpación un riñón contralateral normal). El tratamiento de las lesiones de la arteria renal se basa en la complejidad de la lesión y el estado fisiológico del paciente. Las lesiones de la vena renal se pueden reparar por venorrafia primaria o ligadura. Del lado derecho, la ligadura de la vena renal exigirá una nefrectomía, y se debe considerar la angioplastia con parche o injerto de interposición en pacientes estables. La vena renal izquierda se puede ligar sin peligro cerca de la vena cava inferior, debido a la circulación colateral a través de las venas suprarrenales, gonadales y lumbares.31 En pacientes inestables se deben tratar con nefrectomía las lesiones combinadas de la arteria y la vena renales. Rara vez sobrevienen lesiones de la arteria renal después de traumatismos contusos. Estas lesiones se pueden tratar de manera conservadora, con involución previsible del riñón afectado, o por nefrectomía. Es infrecuente rescatar de manera exitosa la función renal con reconstrucción vascular de la oclusión contusa completa de la arteria renal. El tratamiento debe considerar varios factores, como el estado general del paciente, el tiempo de isquemia caliente y la"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 269,
+     "texto": "Am. 2001;81(6): 1299-1330. 40. B. Most veins can be safely ligated in the setting of traumatic injury. However, certain veins are less likely to tolerate ligation well. These include the superior vena cava (because it may result in an acute superior vena cava syndrome), the renal veins close to the renal parenchyma (because there is then inadequate outflow for the kidney), the IVC above the renal veins (because it will impair outflow to both kidneys), or just at the diaphragm (because this will cause an acute Budd-Chiari syndrome), and the portal vein (because it supplies 75% of the blood to the liver) (A, E). An exception to the aforementioned is ligation of the left renal vein close to the IVC is well tolerated because drainage can occur via the adrenal, gonadal, and iliolumbar veins. This is sometimes performed during open abdominal aortic aneurysm repair. The portal vein has been ligated successfully, provided adequate fluid is administered to compensate for the dramatic but transient edema that occurs in the bowel, but ligation seems to be associated with a higher mortality rate than repair. CHAPTER 16 Trauma 241 Ligation of the IVC below the renal veins is better tolerated than the suprarenal IVC; however, marked leg swelling may develop and may require fasciotomies. Ligation of the superior mesenteric vein is also fairly well tolerated and better tolerated than portal vein ligation, although again it is preferable to repair the superior mesenteric vein if the patient is stable and it is technically feasible because there is similarly marked bowel edema and risk of bowel infarction as with portal vein repair. Arteries for which repair should always be attempted include the innominate, brachial, superior mesenteric, proper hepatic, iliac, femoral, and popliteal"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 257,
+     "texto": "Pneumonectomy C. Closure of both the anterior and posterior parenchymal defects with interrupted sutures D. Pulmonary tractotomy E. Ligation of the right lower lobe pulmonary artery 37. Which of the following is true regarding flail chest? A. The initial chest radiograph provides a useful predictor of subsequent pulmonary insufficiency B. Respiratory failure is primarily caused by the paradoxical motion of the chest wall C. Operative chest wall stabilization in patients without pulmonary contusion may shorten the length of intubation D. Aggressive fluid resuscitation is an important management adjunct E. Once the diagnosis is established, the patient should be intubated 229 CHAPTER 16 Trauma 38. Which of the following is true regarding blunt cardiac injury (BCI)? A. Creatine kinase-myocardial bound (CK-MB) enzyme determination lacks sensitivity B. It commonly results in serious ventricular arrhythmias C. It usually results in traumatic thrombosis of a coronary artery branch D. Presence of a sternal fracture predicts the presence of BCI E. It should be suspected in patients with transient sinus tachycardia 39. Which of the following surgical maneuvers is most correct to access the corresponding blood vessel? A. Left-sided medial visceral rotation or Mattox maneuver for the mid inferior vena cava (IVC) B. Transection of the neck of the pancreas for the superior mesenteric artery C. Right-sided medial visceral rotation or Cattell maneuver for the suprarenal aorta D. Kocher maneuver for the celiac axis E. Division of the right common iliac artery for the distal vena cava and common iliac vein bifurcation 40. In the setting of trauma, ligation is best tolerated for which of the following vessels? A. Right renal vein B. Left renal vein C. Brachial artery D. Popliteal artery"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1828,
+     "texto": "epiplones; pero, en el caso de traumatismo, esto puede resultar difícil debido a un hematoma de gran tamaño en la transcavidad de los epiplones que enmascara los reparos anatómicos habituales. En el contexto de traumatismo, la mejor manera de exponer el tronco celíaco es a través de una amplia rotación visceral medial izquierda que moviliza el bazo y la cola del páncreas, pero deja en su lugar el riñón izquierdo.31 Una vez expuestas, se deben ligar la mayor parte de las lesiones del tronco celíaco, porque la reparación es difícil y la mayoría de los pacientes toleran bien la ligadura. Si bien la AMS y"
+    }
+   ]
+  },
+  {
+   "k": "e52d155eba",
+   "stem": "Cinco días después de la cirugía por apendicitis perforada, emanan heces líquidas de la herida del cuadrante inferior derecho. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta afección?",
+   "opts": [
+    "La mortalidad es alta para esta complicación.",
+    "La mayoría se cerrará espontáneamente.",
+    "El paciente debe recibir inmediatamente NPT.",
+    "Los trastornos de líquidos y electrolitos son comunes.",
+    "El paciente debe regresar inmediatamente al quirófano para la reparación quirúrgica."
+   ],
+   "tema": "complicaciones",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1316,
+     "texto": "drenaje. La protección de la piel alrededor de la abertura fistulosa es importante para impedir la escoriación y la destrucción de la piel. Esto se consigue con mayor facilidad usando la placa Stomahesive con aplicaciones de óxido de cinc, pasta de aluminio o polvo de karaya. El catéter de aspiración puede llevarse hasta el extremo de la bolsa Stomahesive, que se hace a la medida de la abertura fistulosa. Esto permitirá la recogida y la medida precisa de la secreción de la fístula. El uso de la NPT ha sido un importante avance en el tratamiento de pacientes con fístulas enterocutáneas de alto gasto, y disminuye significativamente la incidencia de malnutrición. La NPT es en particular valiosa en el período de estabilización, para ayudar a minimizar las pérdidas de las fístulas de alto gasto y para la reposición nutricional inmediata mientras se perfila la fístula. Sin embargo, si el paciente puede satisfacer las necesidades calóricas sin NPT, especialmente en ausencia de fístula de alto gasto, la alimentación enteral es preferible y recomendable. Estadificación y cuidados de apoyo. Cuando se ha controlado la septicemia y se ha instituido el tratamiento nutricional, la fístula debe estadificarse adecuadamente. El uso combinado de los estudios radioscópicos con contraste, la fistulografía si es necesaria y la TC, junto con el comportamiento clínico del paciente, caracterizará la anatomía y el trastorno subyacente de la fístula. Algunos han aconsejado un tratamiento conservador durante 3 meses para permitir un cierre espontáneo. Sin embargo, otros han demostrado que después de controlada la septicemia, más del 90% de las fístulas del intestino delgado se cierran en menos de 1 mes. Menos del 10% de las fístulas se cerraban pasados 2 meses y ninguna se cerraba espontáneamente"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 297,
+     "texto": "Por el contrario, las fístulas internas (colovesicales) se presentan de forma más sutil y requieren imágenes o endoscopia para su diagnóstico. En los pacientes con sepsis posquirúrgica se suelen obtener TC de abdomen y pelvis y se drenan las colecciones de líquido intraabdominal bajo orientación radiográfica para tratar las colecciones de líquido infectadas. El diagnóstico se establece cuando el medio de contraste oral se filtra desde el tubo digestivo o se drena contenido entérico. Otros métodos utilizados para diagnosticar las fístulas del intestino delgado comprenden un fistulograma para las fístulas externas o series GI altas o bajas (fístulas internas). Los fistulogramas proporcionan información sobre la longitud y el origen de la fístula, lo cual ayuda a determinar si esta podría cerrarse espontáneamente. La mayoría de las FEC requieren una estancia hospitalaria prolongada y se asocian a una morbimortalidad importante. Tratamiento La prevención de las fístulas se ve facilitada por el uso de intestino sano para la anastomosis, la preparación mecánica preoperatoria del intestino, antibióticos intraluminales o sistémicos prequirúrgicos, técnicas anastomóticas adecuadas (como se ha comentado en el apartado de fallos anastomóticos) y la optimización preoperatoria del estado nutricional. En las últimas tres décadas, la reducción de la mortalidad (del 40-60 al 15-20%) asociada a las fístulas se ha atribuido a los avances en el tratamiento de líquidos, electrólitos y nutrición. Los objetivos generales del tratamiento de las FEC son controlar la sepsis, prevenir la depleción de líquidos y electrólitos, controlar el drenaje de la fístula, prevenir daños en la piel y mejorar de la cicatrización, optimizando el estado nutricional con nutrición parenteral total (NPT) y"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 31,
+     "texto": "perforación, el riesgo de muerte fetal es muy alto. Por eso, el riesgo de pérdida fetal es mayor por una perforación visceral que por la radiación, por lo que se deben tomar todas las medidas para obtener un diagnóstico preciso. La resonancia magnética (RM) es otra buena opción en embarazo, aunque puede estar limitada en emergencias. La ecografía también es útil, pero sería más útil si la paciente presentara dolor en cuadrante superio derecho (enfermedad biliar) o cuadrante inferior derecho (apendicitis). Los hematomas de la vaina de los rectos son clínicamente significativos porque pueden confundirse fácilmente con un proceso intraabdominal agudo. La etiología suele deberse a una lesión de la arteria epigástrica dentro de la vaina. En la mayoría de los casos no se encuentra una causa clara (C). Particularmente en pacientes de edad avanzada que toman anticoagulantes, suelen ocurrir espontáneamente. Los pacientes describen un inicio súbito de dolor abdominal unilateral, a veces precedido por un episodio de tos. En una serie, 11 de 12 pacientes eran mujeres, y en otra serie, 8 eran mujeres, con una edad promedio en la sexta década. Debajo de la línea arcuata no existe una protección aponeurótica posterior que cubra al músculo recto. Por lo tanto, los hematomas por debajo de esta línea pueden cruzar la línea media, provocando una formación de hematoma más grande y que causa dolor en el cuadrante inferior, simulando una víscera perforada. consiste en una masa palpable En el examen físico, puede palparse una masa. El signo de Fothergi abdominal que no cambia con la contracción de los músculos rectos. Esto permite diferenciarlo de un asesor aandona cano senadanane co a contaccionnuscan El diagnóstico se establece , que demostrará una colección de líquido en la vaina del"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 467,
+     "texto": "important predictor of colonic ischemia after repair of a ruptured abdominal aortic aneurysm is: A. Age B. Presence of preoperative shock C. Time to operation D. Presence of associated cardiac disease E. Preoperative patency of inferior mesenteric artery 6. Five days after surgery for perforated appendicitis, liquid stool emanates from the right lower quadrant wound. Which of the following is true about this condition? A. It is most commonly due to an unrecognized malignancy B. The majority will close spontaneously C. The patient should be placed immediately on TPN D. Fluid and electrolyte derangements are"
+    }
+   ]
+  },
+  {
+   "k": "18e76ab023",
+   "stem": "Una mujer de 70 años se presenta con dolor abdominal progresivo y distensión, con matidez no cambiante. Una TC muestra colecciones loculadas de líquido y escallopado de los órganos intraabdominales. En la cirugía se encuentra varios litros de material mucoide amarillento-grisáceo en el epiplón y superficies peritoneales. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+   "opts": [
+    "No tiene indicación de resección quirúrgica",
+    "Se indican antimicrobianos a largo plazo",
+    "Lo más probable es que represente una neoplasia peritoneal primaria",
+    "Es más común en varones",
+    "Está indicada la cirugía citorreductora"
+   ],
+   "tema": "onco-digestivo",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 23,
+     "texto": "D. Paracentesis is contraindicated in patients with IAF (Eso es lo que deben havr) E. Cerebral perfusion is increased in ACS → dismanuyendo 4. Which of the following is true regarding omental Ạitorsion? 4. ¡Cuál de las siquientes afirmaciones es verdadera sobre la torsión del en control del dolor X A. Secondary torsion is more common than primary B. If surgery is necessary, management consists of La torsión secundaria es más común que la primaria dol detorsion and omentopexy C. Treatment is usually observation with pain C. El tatamiento paneral mente ec obse control D. The pain is usually in the left lower quadrant of the abdomen E. It typically produces purulent-appearing peritoneal fluid 5. The most common organism isolated from the infected peritoneal fluid of a patient with a PD catheter is: A. Beta-hemolytic streptococcus B. Enterococcus C. Escherichia coli D. Coagulase-negative staphylococcus E. Coagulase-positive staphylococcus catéter de diálisis peritoneal (DP) es 6. A 70-year-old woman presents with progressive Estafilococo coaqulasa negativo A. Estreptococo beta-hemolítico xoco coaqulasa positi abdominal pain and abdominal distention with nonshifting dullness. A CT scan demonstrates C. Eschorichia coli. loculated collections of fluid and scalloping of the B. Enterococo intraabdominal organs. At surgery, several liters of yellowish-gray mucoid material are present on the omentum and peritoneal surfaces. Which of the following is true about this condition? A. There is no role for surgical resection B. It is most commonly of ovarian origin C. There is a strong genetic influence D. It is more common in males Cytoreductive surgery may be of benefit co. Una muter de ro The most common cause of a retroperitoneal abscess is: A. No hay indicación de resección"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 28,
+     "texto": "es un proceso raro en el cual el peritoneo se cubre de moco semisólido y grandes masas quísticas loculadas. No existe una predisposición familiar (C). Una clasificación útil derivada de una gran serie utiliza dos categorías: adenomucinosis peritoneal diseminada (DPAM) y carcinomatosis mucinosa peritoneal (PMCA). El DPAM es histológicamente un proceso benigno y con mayor frecuencia se debe a un apéndice roto. En una serie grande, el adenoma mucinoso apendicular estuvo asociado con aproximadamente el 60% de los pacientes con DPAM. En pacientes clasificados como PMCA, el origen fue un adenocarcinoma mucinoso bien diferenciado apendicular o intestinal (B). El pseudomixoma peritoneal es más común en mujeres entre 50 y 70 años (D). A menudo es asintomático hasta etapas tardías de su evolución. Los síntomas suelen ser inespecíficos, pero el más común es el aumento del perímetro abdominal. El examen físico puede demostrar un abdomen distendido con matidez no cambiante. El tratamiento es quirúrgico, cor citorreducción del tumor primario y de los implantes secundarios, incluyendo peritonectomía y omentectomía (A). Si existe un origen claro en el apéndice, también debe realizarse una colectomía derecha. Si el origen parece ser el ovario, se recomienda una histerectomía abdominal total con salpingo-ooforectomía bilateral. La tasa de recurrencia es muy alta (76% en una serie). ABSCESOS RETROPERITONEALES 1. Diseminación hematoçena 12. Infeccón de un organo subyaente 7. C. Los abscesos retroperitoneales primarios son secundarios a la diseminación hematógena, mientras que los abscesos retroperitoneales secundarios están relacionados con una infección en un órgano adyacente. La fuente más común de los abscesos retroperitoneales es secundaria, y las infecciones renales representan casi"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1117,
+     "texto": "pueden aparecer manifestaciones clínicas similares. En este capítulo el análisis se limita al seudomixoma peritoneal asociado con neoplasias epiteliales del apéndice. Un grupo reciente de consenso internacional ha normalizado la clasificación anatomopatológica del seudomixoma peritoneal y la neoplasia mucinosa apendicular asociada.23 La clasificación de estos tumores se basa en la presencia o ausencia de invasión infiltrante, gran malignidad citológica, alta celularidad tumoral, invasión linfovascular, invasión perineural y células en anillo de sello.24 Las neoplasias mucinosas apendiculares se clasifican por la presencia o ausencia de invasión infiltrante de la pared apendicular y el grado de atipia celular en el adenocarcinoma bien diferenciado, anaplásico y mucinoso.23 La histología de los tumores apendiculares es un importante factor predictivo de supervivencia, y es la adenomucinosis la que mejor tasa de supervivencia registra (75% a 5 años) y la carcinomatosis mucinosa peritoneal la que presenta la peor (14% a 5 años).25 El seudomixoma peritoneal afecta con mayor frecuencia a pacientes de 40-50 años, con incidencia similar en hombres y mujeres. Los pacientes con frecuencia son asintomáticos hasta la fase tardía de la enfermedad. En la presentación, a menudo refieren un deterioro general de la salud, bastante antes de que se establezca el diagnóstico. El dolor y la distensión abdominal y otros síntomas inespecíficos son habituales. En la exploración física es posible detectar una hernia de nuevo desarrollo, ascitis, distensión abdominal con matidez no desplazable y, ocasionalmente, masa abdominal palpable. La TC de tórax, abdomen y pelvis puede mostrar ascitis, depósitos de líquido compartimentados, nódulos tumorales peritoneales, un epiplón engrosado, un"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1118,
+     "texto": "la tasa de mortalidad postoperatoria a los 30 días es del 2 al 3%. Del 25 al 35% de los pacientes presentarán una complicación grave, más habitualmente un íleo prolongado y complicaciones pulmonares. También se han notificado hemorragia, infecciones intraabdominales, fístula enterocutánea, pancreatitis y mielodepresión. Carcinomatosis por cáncer colorrectal. Alrededor del 8% de los pacientes con cáncer colorrectal presentan metástasis peritoneales. En la mitad de ellos, el peritoneo es el único sitio de enfermedad. La enfermedad metastásica sin tratamiento es mortal de manera constante. La cirugía citorreductora"
+    }
+   ]
+  },
+  {
+   "k": "d13d566370",
+   "stem": "Un paciente institucionalizado de 65 años se presenta con distensión abdominal, náuseas y obstipación de 2 días de evolución. El examen físico revela gran distensión con dolor abdominal leve y difuso, sin defensa ni rebote. El recuento de leucocitos es de 10,000/μL. Las radiografías simples muestran un asa intestinal dilatada con forma de U invertida (signo del omega). El manejo debe consistir en:",
+   "opts": [
+    "Detorsión endoscópica",
+    "Detorsión endoscópica seguida de colectomía sigmoidea electiva",
+    "Detorsión endoscópica seguida de colectomía sigmoidea electiva solo si hay recurrencia",
+    "Laparotomía exploradora con colectomía sigmoidea, lavado intraoperatorio y anastomosis primaria",
+    "Laparotomía exploradora con colectomía sigmoidea, colostomía proximal y cierre del muñón rectal"
+   ],
+   "tema": "colon",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 156,
+     "texto": "commonly found in FAP E. In an adenomatous polyp, the risk of malignancy is related to its location in the GI tract 12. A 75-year-old woman presents with mild diffuse abdominal pain and diarrhea that is positive on fecal immunochemical test. Her medical history is negative. Her WBC count is normal, as is her hematocrit. A CT scan shows mild thickening of the colonic wall at the splenic flexure with some associated pericolic fat stranding. Which of the following is the best next step in management? A. Diagnostic laparoscopy B. Exploratory laparotomy C. IV antibiotics and fluid hydration D. Colonoscopy E. Mesenteric angiography 13. A 65-year-old institutionalized patient presents with a 2-day history of abdominal distention, nausea, and obstipation. Physical examination is significant for marked distention with mild diffuse abdominal tenderness, no guarding, and no rebound. The WBC count is 10,000 cells/uL. Plain films reveal a massively dilated, inverted U-shaped (omega sign) loop of bowel. Management should consist of: A. Endoscopic detorsion B. Endoscopic detorsion followed by sigmoid colectomy during the same hospitalization C. Endoscopic detorsion followed by elective sigmoid colectomy in the case of a recurrence D. Exploratory laparotomy with sigmoid colectomy, on-table lavage, and primary anastomosis E. Exploratory laparotomy with sigmoid colectomy, proximal colostomy, and oversewn rectal stump 14. A 38-year-old woman presents with a 1-day history of nausea, vomiting, abdominal distention, and obstipation. The physical examination is significant for distention with a tympanic mass in the left upper quadrant and mild abdominal tenderness. She is hemodynamically stable with no leukocytosis or lactic acidosis. A plain abdominal radiograph reveals a markedly dilated,"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 31,
+     "texto": "de operar C. Administrar anticoagulación en el día postoperatorio 1 D. Administrar antibióticos dentro de la primera hora de la cirugía E. Suspender los antibióticos para el día postoperatorio 1 en el I TrimesTIe X (pero II/III si 12. Una mujer de 32 años embarazada de 24 semanas acude al servicio de emergencias con dolor abdominal agudo, fiebre y vómitos. Refiere que el dolor comenzó en la parte alta del abdomen a media noche con un súbito inicio de dolor epigástrico que ahora es difuso. No presenta sangrado vaginal y la monitorización fetal demuestra signos vitales normales para el feto. Al examen físico, la paciente tiene sensibilidad difusa con defensa ademinal, peor en la región epigástrica. El examen pélvico es normal. Tiene leucocitosis de 15,000. la placa abdominal muestra algunas asasintestinales dilatadas pero sin otros hallazgos. ¿Cuál es el siguiente paso en el manejo de esta paciente? A. Ecografía abdominal •giomografía con contraste de abdomen/pelvis C. Admitir y observar con exámenes abdominales seriados D. Laparotomía exploratoria E. Laparoscopia diagnóstica Hematoma en el 13. ¿Cuál de las siguientes es verdadera en relación con un hematoma de la vaina de los rectos? A. Si se encuentra por encima del ombligo, es más probable que parezca un proceso trabdomina agudo •i se encuentra por debajo del ombligo, es más probable que cause sangrado severo C. La mayoría están asociados a antecedentes de trauma D. El drenaje quirúrgico es el tratamiento de elección en la mayoría de casos E. La embolización angiográfica no es útil 11. A. El Surgical Care Improvement Project (SCIP) es una iniciativa nacional de calidad en la que participan organizaciones interesadas en mejorar los resultados quirúrgicos. Comenzó en 2006. Todas las instituciones deben seguir las"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 153,
+     "texto": "Sigmoid and Cecal Volvulus A. If no evidence of peritonitis, ischemia, or perforation, sigmoid volvulus can be managed with flexible sigmoidoscopy to detorse and reduce bowel, place rectal tube (decompression), and allow for bowel preparation; high risk of recurrence, so sigmoidectomy with primary anastomosis should be performed within 1 to 3 days B. For peritonitis, ischemia, or inability to detorse: emergency resection (with end colostomy) C. Cecal volvulus is not amenable to endoscopic therapy and should be managed surgically with right colectomy due to high risk of recurrence IX. Clostridium difficile Colitis A. Anaerobic, gram-positive rod; healthcare acquired infection, can present up to 3 to 4 weeks after antibiotic administration (even single dose); updated 2021 guidelines below Treatment Clinical Initial episode Preferred: fidaxomicin 200 mg BID for 10 days Alternative: oral vancomycin 125 mg 4x daily for 10 days OR If above unavailable, oral metronidazole 500 mg ×3 daily for 10 days 1st recurrence Preferred: fidaxomicin 200 mg BID for 10 days, OR BID for 5 days followed by once every other day for 20 days Alternative: vancomycin 125 mg 4x daily for 10 days Preferred: fidaxomicin 200 mg BID for 10 days, OR BID for 5 days followed by once every 2nd and 3rd recurrence other day for 20 days Alternative: vancomycin 125 mg 4x daily for 10 days followed by rifaximin 400 mg 3x daily for 20 days Fecal microbiota transplantation 4th recurrence Vancomycin 500 mg 4x daily; if ileus, consider adding rectal instillation of vancomycin; Fulminant infection IV metronidazole (500 mg every 8 hours) should be administered with oral or rectal (hypotension, ileus, vancomycin, particularly if ileus is present megacolon*) *Should consider total abdominal colectomy as well 125 CHAPTER"
+    }
+   ]
+  },
+  {
+   "k": "fd0964148a",
+   "stem": "Una mujer de 45 años con antecedentes de laparotomía y 5000 cGy de irradiación abdominopélvica por cáncer de ovario hace 10 años se presenta con síntomas y signos de obstrucción intestinal aguda. La TC muestra una obstrucción completa del intestino delgado a nivel del yeyuno medio sin evidencia de masas. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+   "opts": [
+    "Si hay una estenosis, se maneja mejor con plastia de estenosis.",
+    "Deben administrarse esteroides.",
+    "La enteritis por radiación aguda se debe a una arteritis obliterante.",
+    "El riesgo de esta complicación aumenta en el contexto de diabetes.",
+    "El grado de daño por radiación no se ve afectado por si el paciente recibió quimioterapia."
+   ],
+   "tema": "intestino",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 139,
+     "texto": "16. A hernia sac containing a Meckel diverticulum is known as: A. Petit hernia B. Littre hernia C. Spigelian hernia D. Richter hernia E. Grynfeltt hernia 17. Superior mesenteric artery (SMA) (Wilkie) syndrome: A. Involves the second portion of the duodenum B. Causes venous outflow obstruction from the left kidney C. Is best diagnosed with arteriography D. Should initially be managed with a high caloric intake diet E. Is best managed by gastrojejunostomy 18. A 45-year-old woman with a history of laparotomy and 5000 cGy of abdominal and pelvic irradiation for ovarian cancer 10 years ago presents with symptoms and signs of an acute bowel obstruction. CT scan shows a complete small bowel obstruction at the level of the mid jejunum with no evidence of any masses. Which of the following is true about this condition? A. If a stricture is present, it is best managed by strictureplasty B. Steroids should be administered C. Acute radiation enteritis is due to an obliterative arteritis D. The risk of this complication increases in the setting of diabetes E. The degree of radiation damage is not affected by whether the patient received chemotherapy 19. A 75-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents to the ED with a 1-day history of abdominal distention and nausea. He denies abdominal pain. Abdominal examination is benign. Laboratory values are normal. CT scan demonstrates free air under the diaphragm and thin-walled, airfilled cysts within the bowel wall. Which of the following is true regarding this condition? A. Laparotomy is indicated B. The primary form occurs more commonly than the secondary form C. It is unlikely to be related to the patient's COPD D. It is most commonly seen in the ileum E. It is associated with steroid use CHAPTER"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 146,
+     "texto": "PART I Patient Care 118 bowel can present with acute or chronic enteritis. Approximately 75% of patients undergoing radiation therapy for abdominal and pelvic cancers develop acute radiation enteritis transiently. Chronic radiation enteritis results from an obliterative arteritis in the submucosal vessels, while acute radiation enteritis is a transient period of nausea, vomiting, diarrhea, and abdominal pain that occurs around 3 weeks after treatment (C). This leads to progressive submucosal fibrosis and stricture formation. Not infrequently, patients with radiation-induced injury may develop a small bowel obstruction. The risk of radiation enteritis correlates with the amount of radiation received. It is uncommon if the total radiation dose is less than 4000 cGy. The risk of radiation damage increases it the patient received chemotherapy or has underlying vascular disease or diabetes (E). Early symptoms of radiation damage include diarrhea, abdominal pain, and malabsorption and are usually self-limited. The treatment of acute radiation enteritis includes antispasmodic agents, analgesic agents, and antidiarrheal agents. Steroids are not used in the management of radiation enteritis (B). Only a small group of patients with chronic radiation enteritis will require surgery for either SBO from stricture formation or fistulas. Unlike Crohn disease, for which strictureplasty is used, it is not recommended for radiation enteritis because there is a high risk of tissue breakdown (A). The extent of macroscopic radiation injury is difficult to determine on gross inspection. Extensive lysis of adhesions should be avoided because this creates a risk of an enterotomy and subsequent fistula formation as well. The two main surgical procedures are primary resection with reanastomosis"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1319,
+     "texto": "dolor abdominal cólico, meteorismo, pérdida de apetito, náuseas, diarrea y tenesmo rectal durante un ciclo de radioterapia o poco después de él. La mayoría de los pacientes sienten los síntomas durante la tercera semana de tratamiento, y estos se resuelven de 2 a 6 semanas después de completar la radiación. Los síntomas asociados a la lesión por radiación crónica se desarrollan habitualmente de 18 meses a 6 años después de completar un ciclo de radioterapia, si bien los síntomas llegan a manifestarse hasta 30 años después del tratamiento. La cantidad de radiación se corresponde, al parecer, con el riesgo de enteritis. Las complicaciones tardías graves ocurren rara vez cuando la dosis total de radiación es menor de 4.000 cGy; la morbilidad se eleva a partir de dosis de 5.000 cGy. Hay otros factores, como los antecedentes de cirugía abdominal, las enfermedades vasculares previas, la hipertensión, la diabetes o el tratamiento adyuvante con algunos preparados antineoplásicos (como el 5-FU, la doxorubicina, la dactinomicina y el MTX), que contribuyen a la aparición de la enteritis después de la radioterapia. Los antecedentes de laparotomía aumentan el riesgo de enteritis, probablemente por la aparición de adherencias que establecen contacto entre partes del intestino delgado y el campo radiado. El daño por radiación produce síntomas de diarrea, dolor abdominal y malabsorción. Los efectos tardíos de la lesión radiactiva son consecuencia del daño de los pequeños vasos sanguíneos de la submucosa y de una arteritis obliterante progresiva con fibrosis de la submucosa que acaba produciendo trombosis e insuficiencia vascular. Esta lesión determina una necrosis y perforación del intestino afectado, pero en general se sigue de la formación de estenosis con síntomas de obstrucción o"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1315,
+     "texto": "de Crohn, lupus eritematoso sistémico, celiaquía, enteritis ulcerosa Isquemia Insuficiencia arterial mesentérica o trombosis venosa Idiopáticas Inducidas por medicamentos Úlcera primaria, síndrome de Behçet Potasio, indometacina, fenilbutazona, salicilatos, antimetabolitos Radiación Radioterapia, accidental Vasculares Vasculitis, arteritis de células gigantes, amiloidosis (lesión isquémica), linfoma angiocéntrico Metabólicas Uremia Hiperacidez Síndrome de Zollinger-Ellison, divertículo de Meckel, úlcera del estoma Neoplásicas Linfoma, adenocarcinoma, melanoma Tóxicas Yeyunitis aguda (Clostridium"
+    }
+   ]
+  },
+  {
+   "k": "1d91db35bf",
+   "stem": "Un hombre de 45 años se presenta con una hernia inguinal derecha asintomática. Se reduce fácilmente con presión suave. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+   "opts": [
+    "La probabilidad de desarrollar estrangulación es alta sin cirugía.",
+    "Sin cirugía, es probable que se desarrolle dolor intratable.",
+    "Esperar hasta que se desarrollen síntomas es una alternativa razonable a la cirugía.",
+    "La reparación laparoscópica es la mejor opción.",
+    "Si la hernia es pequeña, hay menor probabilidad de incarceración."
+   ],
+   "tema": "hernias",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 331,
+     "texto": "realizar esas actividades. Se apuntó que estos resultados iban a favor de la reparación. Cerca del 15-30% de las reparaciones de hernias en ancianos se realizan de forma hiperurgente. La incarceración, de producirse, puede ser catastrófica, especialmente en ancianos frágiles. Este es principalmente el resultado de la alta incidencia de estrangulación encontrada en el momento de la cirugía. Es necesaria una resección intestinal hasta en el 12-20% de las hernias inguinales incarceradas, y esta cifra llega al 40% en las hernias femorales incarceradas. La decisión de operar en hernias asintomáticas o ligeramente sintomáticas se toma de forma individual sopesando las posibles consecuencias de la espera atenta con los riesgos de la cirugía. Hay que tener cuidado de averiguar si el paciente ha limitado sus actividades para evitar molestias leves buscando información de la familia. Una actividad reducida representa un riesgo mayor para la salud global de los ancianos que el riesgo operatorio asociado a la reparación de una hernia inguinal. Las hernias incisionales son frecuentes en ancianos y su reparación puede ser difícil. A diferencia de la reparación laparoscópica de las hernias inguinales, hay un beneficio claro con el uso de esta técnica siempre y cuando los trastornos concomitantes existentes y la dificultad técnica no prohíban el empleo de técnicas laparoscópicas. Estudios recientes han demostrado menos complicaciones de la herida y duración del ingreso más breve en los grupos de laparoscopia. Enfermedades vasculares Las enfermedades vasculares periféricas observadas con más frecuencia en pacientes ancianos son los aneurismas de la aorta abdominal (AAA), la enfermedad de la arteria carótida y la enfermedad oclusiva arterial periférica. En condiciones de cirugía"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 330,
+     "texto": "con frecuencia son de larga evolución y muchas llevan más de 10 años presentes. Como resultado de la cronicidad de estas hernias, a menudo la anatomía normal está distorsionada y se han perdido los planos tisulares. Además, es posible que la pérdida de la fortaleza tisular dificulte la reparación anatómica. Incluso con estos problemas, está claro que las hernias inguinales y umbilicales sintomáticas de los ancianos deberían repararse preferiblemente de forma programada. La reparación abierta sin tensión y con malla de las hernias inguinales, femorales y umbilicales se realiza como técnica ambulatoria con anestesia epidural o local y sedación i.v. Las tasas de mortalidad son bajas, incluso en pacientes con enfermedad médica concomitante, y muchos trabajos han demostrado tasas de mortalidad del 0%. La reparación laparoscópica requiere anestesia general en la mayoría de los casos, más tiempo operatorio en completarse y supone un mayor coste hospitalario. En los ancianos, el menor beneficio económico para la sociedad de un retorno más precoz a las actividades normales y el trabajo parece obviar el coste-beneficio global de la operación laparoscópica. La tendencia en la mayoría de los centros es restringir la reparación laparoscópica a las hernias inguinales bilaterales y recidivantes, en las cuales los resultados son excelentes. Sigue siendo controvertida la opción de espera atenta en vez de reparación inmediata de las hernias asintomáticas o ligeramente sintomáticas en ancianos. Aunque algunos estudios aleatorizados han respaldado la espera atenta, otros indican que la reparación podría mejorar la salud general y reducir posibles problemas graves. La mayoría de los estudios están de acuerdo en que el riesgo de incarceración de las hernias asintomáticas es pequeño. Una"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 40,
+     "texto": "Laparoscopic repair will prevent him from developing a femoral hernia in the future 9. A 28-year-old male patient is asking for advice on whether to pursue open mesh repair or TEP repair of a newly diagnosed, reducible right-sided inguinal hernia. What can you tell the patient about these two methods of repair? A. Chronic pain is reduced with an open mesh repair B. Operative time is not significantly different between the two C. TEP repair is associated with a quicker return to work and normal activities D. Open mesh repair is associated with a higher rate of intraoperative complications E. Recurrence is relatively common (>25%) no matter which method is chosen 10. One hour after laparoscopic repair of a left inguinal hernia, the patient complains of severe burning groin pain. Which of the following is the most appropriate recommendation? A. Immediate return to the OR for laparoscopy B. Nonsteroidal antiinflammatory drugs C. Neurontin D. Opioid analgesia E. Inject groin region with local anesthetic 11. Ischemic orchitis after inguinal hernia repair is most often due to: A. Too tight a reconstruction of the inguinal ring B. Preexisting testicular pathology C. Inadvertent ligation of the testicular artery D. Completely excising a large scrotal hernia sac E. Anomalous blood supply to the testicle 12. A 45-year-old man presents with an asymptomatic right inguinal hernia. It is easily reduced with gentle pressure. Which of the following is true about this condition? A. The likelihood of strangulation developing is high without surgery B. Without surgery, intractable pain will most likely develop C. Waiting until symptoms develop is a reasonable alternative to surgery D. Laparoscopic repair is the best option E. If the hernia is small, there is a lower chance of incarceration"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 45,
+     "texto": "considered a reasonable option (C), even if the patient is asymptomatic. If the hernia defect is large (>2 cm) or the family is bothered by the cosmetic appearance, repair should be considered. Although umbilical hernias in children can incarcerate, this is very rare (A). If the child presents with abdominal pain, bilious emesis, and a tender, hard mass protruding from the umbilicus, immediate exploration and hernia repair are indicated 15. D. Unlike in children, umbilical hernias in adults are usually acquired (A). Risk factors are any conditions that increase intraabdominal pressure, such as pregnancy,"
+    }
+   ]
+  },
+  {
+   "k": "972daa2757",
+   "stem": "Todas las siguientes afirmaciones sobre la enfermedad de Crohn son verdaderas, EXCEPTO:",
+   "opts": [
+    "Es más común en personas de bajo nivel socioeconómico",
+    "Es la enfermedad quirúrgica primaria más común del intestino delgado",
+    "Tiene una distribución bimodal",
+    "Es más prevalente en fumadores",
+    "Está asociada con el uso de Accutane (isotretinoína)"
+   ],
+   "tema": "intestino",
+   "evidencia": [
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 148,
+     "texto": "treated with alvimopan after bowel resection. J Am Coll Surg. 2007;204(4):609-616. Su'a BU, Hill AG. Perioperative use of chewing gum affects the inflammatory response and reduces postoperative ileus following major colorectal surgery. Evid Based Med. 2015;20(5): 185-186. Kotagal M, Hakkarainen TW, Simianu VV, Beck SJ, AlfonsoCristancho R, Flum DR. Ketorolac use and postoperative complications in gastrointestinal surgery. Ann Surg. 2016;263(1):71-75. 27. A. Crohn disease is the most common primary surgical disease of the small bowel. Acute onset of abdominal pain and diarrhea is not the most common presentation for Crohn disease; the majority of patients first present with an insidious onset of vague abdominal discomfort (E). It has a bimodal distribution, with one large peak in the second and third decades of life and a second smaller peak in the sixth decade (C). Several risk factors for Crohn disease have been identified, including living in northern latitudes, Ashkenazi Jewish descent, smoking, and a familial inheritance. The relative risk among first-degree relatives of patients with Crohn disease is as high as 14 to 15 times greater than in the general population. It is also more common in urban areas and in patients with a high socioeconomic status. Most studies suggest that Crohn disease is approximately of equal prevalence in females and males (D). Breastfeeding may also be protective against the development of Crohn disease. Although medical management is the first-line treatment for Crohn disease, about 75% of patients will ultimately need surgery. The most common reasons for surgery include fistula, abscess, and obstruction; perforation is quite rare (B). References: Passier JLM, Srivastava N, van Puijenbroek EP. Isotretinoin-induced inflammatory bowel"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1282,
+     "texto": "enfermedad puede complicarse con obstrucción intestinal o perforación localizada con aparición de fístulas. Los tratamientos médico y quirúrgico resultan paliativos, si bien la cirugía brinda un alivio sintomático eficaz para los pacientes con complicaciones de la enfermedad de Crohn y proporciona un efecto beneficioso razonable a largo plazo. Historia El primer caso documentado de enfermedad de Crohn lo describió Morgagni en 1761. En 1913, el cirujano escocés Dalziel describió nueve casos de enfermedad inflamatoria intestinal. Sin embargo, los detalles anatomopatológicos y clínicos de esta enfermedad inflamatoria de los adultos jóvenes los expusieron de forma elocuente en 1932 Crohn et al. en un artículo que marcó un hito.10 En este trabajo clásico se cristalizó la descripción de esta lesión inflamatoria. A pesar de que se han empleado muchos términos diferentes (y en ocasiones confusos), el nombre universalmente aceptado es el de enfermedad de Crohn. Incidencia y epidemiología La enfermedad de Crohn es la enfermedad quirúrgica primaria más común del intestino delgado. Su incidencia anual, creciente en EE. UU., es de 3 a 20 casos por cada 100.000 personas.11 Los costes totales directos e indirectos por la patología en EE. UU. se calculan en más de 800 millones de dólares, contando ingresos hospitalarios y visitas ambulatorias. La enfermedad de Crohn afecta sobre todo a adultos jóvenes en la segunda y tercera décadas de la vida. Sin embargo, se aprecia una distribución bimodal con un segundo pico menor en la sexta década de la vida. Esta enfermedad se ve más entre los habitantes de la ciudad y pese a que en los primeros informes se proponía un ligero predominio femenino, ambos sexos se afectan por igual. El riesgo de enfermedad de Crohn se duplica entre los fumadores."
+    }
+   ]
+  },
+  {
+   "k": "1e200cb798",
+   "stem": "Un hombre de 55 años con insuficiencia renal secundaria a diabetes está programado para colocación de un injerto arteriovenoso de politetrafluoroetileno (PTFE) para acceso a hemodiálisis. ¿Cuál de las siguientes opciones describe mejor el uso de antibióticos profilácticos en este paciente?",
+   "opts": [
+    "No se indican antibióticos profilácticos",
+    "Una dosis de antibióticos la noche anterior a la cirugía y otra en el quirófano",
+    "Una dosis de antibióticos 1 hora antes de la cirugía",
+    "Una dosis de antibióticos justo antes de la incisión de piel",
+    "Administrar antibióticos al llamado a quirófano y continuar por 24 horas postoperatorias"
+   ],
+   "tema": "iso",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 267,
+     "texto": "orina y pulmón). Los pacientes fumadores deben dejarlo durante 1 o 2 meses antes de la cirugía programada, si es posible, y los diabéticos deben tener bien controlada su glucemia. Otras afecciones que es necesario «optimizar» son el estado nutricional, la anemia y la obesidad. La descolonización de los portadores de estafilococos con una pomada nasal de mupirocina al 2% reduce el riesgo de infección posquirúrgica por S. aureus en la cirugía cardíaca y traumatológica. Sin embargo, no hay consenso respecto a quiénes deben someterse a un estudio determinado o en qué cirugías debe considerarse la profilaxis. Los antibióticos prequirúrgicos deben administrarse en los 60 min previos a la incisión de la piel para alcanzar la concentración terapéutica en el suero y los tejidos durante el procedimiento quirúrgico. La vancomicina y las fluoroquinolonas deben iniciarse antes, ya que sus tiempos de infusión y semividas son más prolongados. La administración de los antibióticos tiene que repetirse si la duración de la cirugía supera las dos semividas de los fármacos o si hay una pérdida masiva de sangre. Hay que tomar precauciones si hay problemas en la eliminación de fármacos (insuficiencia renal o disfunción hepática), y la elección de estos debe correlacionarse con los microorganismos habituales encontrados en el sitio quirúrgico. En general, los antibióticos profilácticos no deben continuarse después de la cirugía y la duración de la profilaxis antimicrobiana no debe superar las 24 h. En la tabla 12.6 se resumen la elección, la posología y la redistribución de los antibióticos profilácticos, y en la tabla 12.7 se revisa la profilaxis antibiótica recomendada en cada procedimiento quirúrgico. Para la preparación de la piel, los pacientes deben ducharse con jabón la noche anterior"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 240,
+     "texto": "There are a number of known complications with IABPs, including hemolysis due to mechanical damage to red blood cells. Additionally, IABP migration or malpositioning can occur and cover the renal vessels, decreasing urine output. Though heparinization is recommended when possible to prevent thrombotic complications, the risk of bleeding should be weighed, especially in patients who recently underwent major cardiac surgery (E). Before removal of IABP, the platelet count, PT, and PTT should be normal (D). References: Krishna M, Zacharowski K. Principles of intraaortic balloon pump counterpulsation. Contin Educ Anaesth Crit Care Pain. 2009;9(1):24-28. Pucher PH, Cummings IG, Shipolini AR, et al. Is heparin needed for patients with an intra-aortic balloon pump? Interact Cardiovasc Thorac Surg. 2012;15(1):136-139. 3. D. The choice of central line placement site is important in complex ICU patients that may have various contraindications. In a randomized control trial comparing complications between central line placement sites, subclavian placement had a lower risk of bloodstream infection and thrombosis compared to the internal jugular vein and femoral vein but had a higher rate of pneumothorax (E). In contrast, a Cochrane analysis found no difference in the risk of CLABSI between femoral, subclavian, and internal jugular vein site insertions (E). Subclavian placement should also be avoided in patients that may need hemodialysis access in the future and those with coagulopathy, as it is difficult to control bleeding with direct pressure in this area (B). Intracranial hemorrhage and / or elevated intracranial pressures are not a contraindication to catheterization of the internal jugular veins (C). There is also no high-level evidence supporting prophylactic antibiotics"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1806,
+     "texto": "femoral común asociada o no a una profundoplastia. Cuando se complete, la derivación tendrá un aflujo óptimo para mantener la permeabilidad del injerto. De un modo similar se debe realizar una evaluación detallada para identificar la arteria diana distal más adecuada. Nosotros proponemos una arteriografía de sustracción digital convencional para reconocer el vaso distal ideal. Estas pruebas se pueden realizar antes o en el momento de la intervención. Pueden hacerse intervenciones también para mejorar la arteria diana distal, aunque rara vez se necesita, dado que casi siempre se dispone de un segmento arterial relativamente preservado. El principio general a la hora de elegir un vaso diana distal es seleccionar el vaso más proximal distal a la enfermedad con repercusión hemodinámica que tengan un flujo continuo hacia el pie a través al menos de un vaso tibial. Los pacientes con claudicación necesitan típicamente una diana poplítea distal. Los pacientes con una ICRE suelen necesitar una diana más distal a la arteria tibial, peronea, pedia o plantar (fig. 63.15). Quizá el factor más fundamental para que la derivación infrainguinal tenga éxito es la selección del conducto. Los conductos de la vena autóloga incluyen la vena safena mayor (VSM) homolateral y contralateral, la vena safena menor (VSm), la vena femoral, una vena del brazo (basílica y cefálica), la arteria femoral superficial endoarterectomizada, una vena criopreservada y la arteria radial. Los estudios de imagen preoperatorios, típicamente mediante ecografía dúplex, son adecuados para determinar la presencia, el calibre y la calidad de las venas autólogas adecuadas. Los conductos protésicos incluyen dacrón, dacrón recubierto con heparina, vena umbilical humana, politetrafluoroetileno (PTFE) recubierto o no de"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 306,
+     "texto": "E. The fistula should be converted to a graft 4. A 65-year-old woman undergoes creation of an upper arm arteriovenous (AV) graft for hemodialysis in the left arm using a 6-mm polytetrafluoroethylene graft. Three weeks later, the patient reports marked coolness, pallor, and numbness in the hand as well as pain in the hand at rest. Motor exam is normal. On examination, there is no palpable pulse at the radial artery and only a monophasic Doppler signal. Upon graft compression, a pulse becomes palpable and the signal becomes biphasic. Which of the following is the best management option? A. Distal"
+    }
+   ]
+  },
+  {
+   "k": "1c7a0ba2be",
+   "stem": "Un hombre de 70 años ingresa en urgencias con diarrea intensa. La arteriografía revela un bloqueo del 90% en el origen aórtico de la arteria mesentérica inferior. ¿Cuál de las siguientes arterias proporcionará muy probablemente irrigación colateral al colon descendente?",
+   "opts": [
+    "Arteria gastroomental izquierda.",
+    "Arteria cólica media.",
+    "Arteria sigmoidea.",
+    "Arteria esplénica.",
+    "Arteria rectal superior."
+   ],
+   "tema": "colon",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1383,
+     "texto": "1999:27.) colon. En estos pacientes, si la circulación colateral no es suficiente, la oclusión aguda de la AMI puede provocar una isquemia del sigma y el colon descendente. Varios medicamentos se han relacionado con la colitis isquémica. Los fármacos que provocan estreñimiento pueden producir una colitis isquémica, muy probablemente como consecuencia de la reducción del flujo sanguíneo y el aumento de la presión intraluminal. Los fármacos inmunomoduladores, como los inhibidores anti-TNF-α, pueden afectar a la trombogenia, y las drogas como la cocaína y las metanfetaminas producen isquemia por vasoconstricción, hipercoagulación y lesión endotelial directa. Presentación y diagnóstico La mayoría de los pacientes con isquemia de grosor parcial de una porción localizada del colon presentan signos y síntomas relativamente inespecíficos. Se necesita un alto índice de sospecha para emitir un diagnóstico precoz. Los síntomas de presentación suelen consistir en dolor y cólicos abdominales repentinos, tenesmo rectal y diarrea hemorrágica o hematoquecia. La combinación de estos síntomas se encuentra presente en cerca del 50% de los pacientes, comenzando el dolor habitualmente antes que la hemorragia. La hemorragia asociada con la colitis isquémica suele ser leve y rara vez requiere transfusiones de sangre. Los pacientes también pueden presentar náuseas, vómitos y febrícula. En la exploración física, se puede observar una distensión abdominal, así como dolorimiento sobre la región afectada. Para establecer el diagnóstico es importante una buena anamnesis, con especial atención a las enfermedades y los medicamentos asociados. La región afectada con mayor frecuencia es el colon descendente (incluido el ángulo esplénico), seguido del colon sigmoide según la irrigación afectada. La"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1382,
+     "texto": "complicada pueden necesitar cirugía. COLITIS ISQUÉMICA La colitis isquémica es un trastorno frecuente que aparece cuando el aporte de sangre arterial al colon resulta insuficiente para mantener las demandas metabólicas celulares. Es la forma más habitual de isquemia gastrointestinal, con tasas de 7,1 a 22,9/100.000 persona-años.27 La gravedad varía dentro de un amplio espectro, desde una enfermedad leve autolimitada hasta una isquemia grave del colon potencialmente mortal. Teniendo en cuenta la amplia gama de manifestaciones clínicas, presentando la mayoría de los pacientes síntomas inespecíficos leves, es probable que la incidencia real sea mucho mayor. Es importante diferenciar la colitis isquémica de las situaciones de isquemia mesentérica aguda, en las que se obstruye un vaso principal del intestino, en las que los pacientes habitualmente presentan un dolor intenso desproporcionado con los signos físicos y requieren una intervención vascular inmediata. La colitis isquémica se considera una enfermedad de los pequeños vasos sanguíneos y, normalmente, se manifiesta de manera menos alarmante y rara vez requiere una intervención vascular. Cuando se reconocen y tratan con prontitud, la mayoría de los casos no precisan cirugía. Sin embargo, las demoras en el diagnóstico y el tratamiento pueden dar lugar a la necesidad de una colectomía de urgencia con elevada morbimortalidad. Consideraciones anatómicas La irrigación arterial del colon proviene de la AMS y la AMI. La AMS emite las arterias ileocólica, cólica derecha y cólica media. La AMI da lugar a las arterias cólica izquierda y sigmoidea y termina como arteria rectal superior (hemorroidal) (v. fig. 52.8). Existen dos redes colaterales bien definidas que ayudan a impedir la isquemia del colon al proporcionar «respaldo»"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 164,
+     "texto": "superior mesenteric artery and inferior mesenteric artery (specifically, the middle colic artery and the ascending branch of the left colic artery, respectively); Sudeck's critical point (rectosigmoid junction), where collaterals are present between the sigmoid artery and superior rectal artery; and the ileocecal area. In addition to advanced age, risk factors for ischemic colitis include underlying cardiovascular disease, diabetes, vasculitis, and hypotension. Most cases are mild and result in painless, bloody diarrhea. More severe cases can result in bacterial translocation with fever and leukocytosis or, rarely, full-thickness necrosis with peritonitis. The diagnosis is via a combination of the history and examination, plain films to rule out an acute abdomen and that sometimes will show signs of mucosal edema (thumb printing), and CT scan (nonspecific colonic wall edema and fat stranding). The surgeon needs to be aware that the differential diagnosis includes colon cancer and IBD. As such, colonoscopy should eventually be performed, although it is not necessary in the acute phase (D). The exception is ischemic colitis after aortic surgery, in which case the endoscopy assists in the diagnosis, and CT scan findings may be hard to interpret due to postsurgical changes. Most patients are treated medically with bowel rest and broad-spectrum antibiotics. Surgery is reserved for patients who deteriorate and/or have evidence of diffuse peritonitis or endoscopy in whom shows necrosis (A, B). References: Balthazar EJ, Yen BC, Gordon RB. Ischemic colitis: CT evaluation of 54 cases. Radiology. 1999;211(2):381-388. Schreuders EH, Grobbee EJ, Spaander MCW, Kuipers EJ. Advances in fecal tests for colorectal cancer screening. Curr Treat Options Gastroenterol. 2016;14(1):152-162."
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 472,
+     "texto": "and the presence of cardiac disease have little effect on the incidence of colonic ischemia after aortic repair (A-C, D). Patency of a patient's inferior mesenteric artery is not a good predictor of colonic ischemia because of significant avenues of collateral flow (E). Symptoms and signs of ischemia include bloody diarrhea, abdominal pain/ distention, and elevated white blood cell count. If the patient has evidence of peritonitis, urgent reoperation is indicated. Otherwise, urgent endoscopy is required to view the colonic mucosa. The majority of cases of colonic ischemia can be managed nonoperatively"
+    }
+   ]
+  },
+  {
+   "k": "66117d3961",
+   "stem": "Un hombre de 55 años se presenta con dolor abdominal, ictericia y pérdida de peso. La biopsia por aspiración de la masa pancreática confirma adenocarcinoma. Estudios de imagen muestran metástasis hepáticas. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+   "opts": [
+    "Procedimiento de Whipple",
+    "Quimioterapia paliativa",
+    "Derivación quirúrgica biliar",
+    "Pancreatectomía total",
+    "Radioterapia"
+   ],
+   "tema": "onco-digestivo",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1586,
+     "texto": "la operación una prueba de estrés fisiológico y una ayuda para seleccionar a los pacientes con pocas probabilidades de tolerar el estrés importante de la resección quirúrgica. El tratamiento neoadyuvante mejora la selección del paciente, evitando la operación en aquellos en que la enfermedad progresa, pero también mejorando las cifras de bordes negativos y de metástasis linfáticas. Tanto los datos retrospectivos como los datos de grado 1 de reciente aparición respaldan el uso de abordajes neoadyuvantes. En un estudio del MD Anderson Cancer Center, los autores revisaron y compararon con carácter retrospectivo las evoluciones de los pacientes con adenocarcinoma de páncreas operable que fueron sometidos a tratamiento neoadyuvante seguido de cirugía con las evoluciones de los pacientes que fueron tratados con el primer abordaje de cirugía. En este estudio, el 83% de los pacientes con tratamiento neoadyuvante completaron todos los componentes del tratamiento, incluida la cirugía con quimioterapia o radioterapia, en comparación con el 58% de los pacientes tratados con el primer abordaje de cirugía. En este estudio, los pacientes que completaron todos los componentes del tratamiento multimodal tuvieron mejores evoluciones en comparación con los que recibieron solo un componente, ya sea cirugía o quimioterapia. Aunque la tasa de complicaciones en ambos grupos fue similar, los pacientes que recibieron tratamiento neoadyuvante y sufrieron importantes complicaciones postoperatorias tuvieron una supervivencia más larga en comparación con los pacientes con el primer abordaje de cirugía que presentaron una complicación postoperatoria grave. Esto puede indicar que el tratamiento neoadyuvante protege a los pacientes con cáncer de páncreas que son sometidos a pancreatectomía por cáncer"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 88,
+     "texto": "DK, Bell RH, et al. Pancreas. In: Brunicardi FC, Andersen DK, Billiar TR, et al., eds. Schwartz's principles of surgery. 8th ed. New York: McGraw-Hill; 2005:1221-1296. Steer ML. Exocrine pancreas. In: Townsend CM, Jr, Beauchamp RD, Evers BM, Mattox KL, eds. Sabiston textbook of surgery: the biological basis of modern surgical practice. 17th ed. Philadelphia: W.B. Saunders; 2004:1643-1678. 18. A. The patient most likely has a VIPoma. It has also been termed WDHA (watery diarrhea, hypokalemia, and achlorhydria) and Verner-Morrison syndrome. Patients have large-volume secretory diarrhea and can lose enormous amounts of fluids and electrolytes. Diagnosis is by CT scan, and most tumors have metastasized by the time of diagnosis. Another useful imaging tool is endoscopic ultrasonography. Even with distant metastasis, however, tumor debulking, hepatic artery embolization, and radiofrequency ablation of liver metastasis are useful in controlling symptoms (C, E). The best medical treatment of symptoms is achieved with octreotide, a somatostatin analogue. Chemotherapy has no role in the management of VIPoma (D). Streptozotocin is toxic to pancreatic beta cells and may be useful in the management of insulinoma (B). Reference: Nguyen HN, Backes B, Lammert F, et al. Long-term survival after diagnosis of hepatic metastatic VIPoma: report of two cases with disparate courses and review of therapeutic options. Dig Dis Sci. 1999;44(6): 1148-1155. 19. E. Coffee drinking has not been shown to be a risk factor for pancreatic cancer. Factors that are associated with a risk for pancreatic cancer include smoking (strongest and accounts for 25%-30% of all cases) (C), obesity, diabetes (B), atypical multiple mole melanoma, hereditary pancreatitis (A), familial adenomatous polyposis, hereditary"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 82,
+     "texto": "chemotherapy D. Radiation therapy E. Preoperative chemoradiation followed by pancreaticoduodenectomy 8. Which of the following is true regarding pancreas divisum? A. The duct of Santorini ends in a blind pouch B. The inferior portion of the pancreatic head drains through the duct of Santorini C. The majority of the pancreas drains through the duct of Santorini D. The duct of Wirsung drains through the minor papilla E. The ducts of Wirsung and Santorini fail to develop 9. The preferred definitive treatment for recurrent acute pancreatitis due to pancreas divisum is: A. Lateral pancreaticojejunostomy (Puestow procedure) B. Pancreaticoduodenectomy (Whipple procedure) C. Minor papilla sphincterotomy D. Major papilla sphincterotomy and pancreatic ductal septotomy E. Distal pancreatectomy 10. A 50-year-old male with chronic pancreatitis has failed medical management and is being considered for more invasive treatment. Which of the following is true regarding potential interventions? A. Pancreaticoduodenectomy (Whipple procedure) is inappropriate for chronic pancreatitis B. Endoscopic procedures have been shown to be superior to surgical treatment C. Lateral pancreaticojejunostomy (Puestow procedure) is appropriate if the pancreatic duct is larger than 6 mm D. The most common indication for invasive intervention in chronic pancreatitis is poor exocrine and endocrine function E. Long-term pain control is similar to either the Puestow, Beger, or Frey procedure 11. Adenocarcinoma of the pancreas arises most often from which anatomic site? A. Main pancreatic duct B. Branch pancreatic duct C. Pancreatic acinus D. Ampulla of Vater E. Pancreatic islet 12. A 60-year-old man presents with obstructive jaundice, acholic stools, and weight loss. An abdominal ultrasound scan demonstrates a"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1578,
+     "texto": "venosa portal) con cortes de 3 mm y una reconstrucción frontal y tridimensional. Debido a su amplia disponibilidad y excelente sensibilidad (85%), la TC se ha convertido en la modalidad de imagen de elección en la evaluación de la sospecha de un cáncer pancreático. El adenocarcinoma de páncreas se ve normalmente como una lesión hipodensa durante la fase venosa portal de la formación de imágenes. La CPRE se utiliza con frecuencia en la evaluación del paciente ictérico por su capacidad para realizar una biopsia y paliar la ictericia, si es necesario. Aunque las endoprótesis biliares paliativas"
+    }
+   ]
+  },
+  {
+   "k": "f0c774080d",
+   "stem": "¿Cuál de las siguientes afirmaciones es correcta respecto a la enfermedad de Crohn?",
+   "opts": [
+    "El engrosamiento graso mesentérico se considera patognomónico.",
+    "Los síntomas de espondilitis anquilosante mejoran con la resección del intestino afectado.",
+    "La mayoría de los pacientes con presentación inicial de ileítis terminal progresa a enfermedad de Crohn en el seguimiento a largo plazo.",
+    "La patergia es un hallazgo común.",
+    "El pioderma gangrenoso es común en la presentación inicial de la enfermedad de Crohn."
+   ],
+   "tema": "intestino",
+   "evidencia": [
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1369,
+     "texto": "muchos pacientes con EII pueden aparecer manifestaciones extraintestinales, y se estima que hasta la mitad de los pacientes con EII presentarán una o más manifestaciones extraintestinales. Existe una prevalencia ligeramente mayor de manifestaciones extraintestinales en pacientes con enfermedad de Crohn en comparación con aquellos con CU y se pueden dividir en aquellas que afectan a las articulaciones, los ojos y la piel. La artritis es, con mucho, la manifestación extraintestinal más habitual. Una de las manifestaciones más frecuentes es la sacroilitis. Una de las manifestaciones articulares más graves es la espondilitis anquilosante, que presenta una evolución independiente de la enfermedad intestinal. Estos pacientes son HLA-B27 positivos y, en casos avanzados, pueden presentar una disminución de la flexión cervical, que tiene importantes repercusiones anestésicas para la intubación. Estos pacientes pueden precisar intubación con endoscopia y requerirán una evaluación específica preoperatoria de anestesia. Las manifestaciones cutáneas extraintestinales son, entre otras, el eritema nudoso y el pioderma gangrenoso. De la larga experiencia en el tratamiento de pacientes quirúrgicos con EII, el pioderma es mucho más frecuente que el eritema nudoso. El eritema nudoso (fig. 52.32) se caracteriza por nódulos rojos dolorosos e hinchados que se pueden presentar y suelen responder a la administración sistémica de esteroides, mientras que el pioderma gangrenoso se caracteriza por lesiones ulcerosas por regla general sumamente dolorosas que aparecen con frecuencia en sitios de traumatismos repetidos, como en los alrededores de incisiones quirúrgicas o, más habitualmente, alrededor de estomas intestinales (fig. 52.33). Existe un fenómeno llamado «patergia», que 52 Colon y recto"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 139,
+     "texto": "is present, it is best managed by strictureplasty B. Steroids should be administered C. Acute radiation enteritis is due to an obliterative arteritis D. The risk of this complication increases in the setting of diabetes E. The degree of radiation damage is not affected by whether the patient received chemotherapy 19. A 75-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents to the ED with a 1-day history of abdominal distention and nausea. He denies abdominal pain. Abdominal examination is benign. Laboratory values are normal. CT scan demonstrates free air under the diaphragm and thin-walled, airfilled cysts within the bowel wall. Which of the following is true regarding this condition? A. Laparotomy is indicated B. The primary form occurs more commonly than the secondary form C. It is unlikely to be related to the patient's COPD D. It is most commonly seen in the ileum E. It is associated with steroid use CHAPTER 9 Alimentary Tract-Small Bowel 111 20. Which of the following is true regarding PeutzJeghers syndrome? A. Patients should begin breast and cervical cancer screening at age 25 B. It is autosomal recessive C. Small bowel obstruction is uncommon D. Prophylactic colectomy is recommended to most patients starting at age 20 E. These patients are not at increased risk for small bowel cancer 21. Which of the following is correct with regards to Crohn disease? A. Mesenteric fat wrapping is considered pathognomonic B. Symptoms of ankylosing spondylitis improve with resection of diseased bowel C. The majority of patients with an initial presentation of terminal ileitis progress to Crohn disease on long-term follow-up D. Exaggerated skin injury after minor trauma (pathergy) is a commonly associated condition E. Pyoderma gangrenosum is"
+    },
+    {
+     "libro": "absite",
+     "nombre": "de Virgilio, Review of Surgery for ABSITE 3.ª ed.",
+     "pagina": 147,
+     "texto": "adiponectin, an adipocyte-specific protein with antiinflammatory properties found in mesenteric adipose tissue, may play an important role in the inflammation seen in Crohn disease. Terminal ileitis refers to any acute inflammation of the distal ileum adjacent to the ileocecal valve and is therefore not pathognomonic. Terminal ileitis is associated with numerous infectious causes including Yersinia enterocolitica and pseudotuberculosis, Mycobacterium, cytomegalovirus (in acquired immunodeficiency syndrome), Salmonella, Campylobacter, and Shigella, among others. The finding of terminal ileitis does not warrant bowel resection. Overall, a minority of patients (10% in one study) who present with terminal ileitis progress to Crohn disease on long-term follow-up (C). The majority of extraintestinal manifestations in inflammatory bowel disease improve with bowel resection but ankylosing spondylitis and primary sclerosing cholangitis do not (B). Pyoderma gangrenosum is rarely the initial presentation of Crohn disease (E). These patients present with small papules often on the lower extremities that resemble a \"cat's paw\" appearance and can progress to larger ulcerations with necrotic centers. Rarely, patients develop pathergy, a condition in which minor trauma leads to the development of large and difficult-to-heal ulcers (D). Debridement of these lesions should be avoided because this worsens the lesion. Infliximab or another tumor necrosis factor-alpha inhibitor should be used. References: Menachem Y, Gotsman I. Clinical manifestations of pyoderma gangrenosum associated with inflammatory bowel disease. Isr Med Assoc J. 2004;6(2):88-90. Yamamoto K, Kiyohara T, Murayama Y, et al. Production of adiponectin, an anti-inflammatory protein, in mesenteric adipose tissue in Crohn's"
+    },
+    {
+     "libro": "sabiston",
+     "nombre": "Sabiston 21.ª ed.",
+     "pagina": 1291,
+     "texto": "mejora de los tratamientos médicos durante la pasada década. No obstante, los pacientes con perforación intestinal, peritonitis, hemorragia excesiva o megacolon tóxico precisan cirugía de urgencia.24 Los niños con enfermedad de Crohn y síntomas generales del tipo de retraso del crecimiento pueden mejorar con la resección. Las complicaciones extraintestinales de la enfermedad de Crohn, aunque no representen una indicación primaria para la cirugía, suelen remitir tras la resección del intestino dañado; las excepciones son que los problemas pueden continuar con la espondilitis anquilosante y las"
+    }
+   ]
+  }
+ ]
+}

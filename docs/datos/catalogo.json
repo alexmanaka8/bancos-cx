@@ -16,10 +16,10 @@
    "nombre": "Pretest Cx Generales 2024-2",
    "tipo": "preguntas",
    "url": "banco.html?id=pretest-2024",
-   "n": 6,
-   "conClave": 6,
-   "secciones": 3,
-   "verificadas": 6,
+   "n": 22,
+   "conClave": 22,
+   "secciones": 6,
+   "verificadas": 22,
    "altoValor": 6
   },
   {
@@ -60,10 +60,10 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 127,
-   "conClave": 127,
-   "secciones": 14,
-   "verificadas": 127,
+   "n": 162,
+   "conClave": 162,
+   "secciones": 17,
+   "verificadas": 162,
    "altoValor": 127
   },
   {
@@ -98,6 +98,18 @@
    "secciones": 4,
    "verificadas": 52,
    "altoValor": 14
+  },
+  {
+   "id": "enam-2026",
+   "nombre": "ENAM 2026 · EsSalud comentado (Dr. Goyzueta)",
+   "tipo": "preguntas",
+   "url": "banco.html?id=enam-2026",
+   "n": 29,
+   "conClave": 29,
+   "secciones": 1,
+   "verificadas": 29,
+   "altoValor": 0,
+   "destacado": true
   }
  ],
  "biblioteca": [
@@ -156,7 +168,7 @@
    "nombre": "Reanimación cardiopulmonar (RCP básica y avanzada)",
    "clase": "3",
    "semana": 1,
-   "n": 6,
+   "n": 8,
    "alto": 2
   },
   {
@@ -172,7 +184,7 @@
    "nombre": "Procedimientos básicos",
    "clase": "5",
    "semana": 1,
-   "n": 5,
+   "n": 6,
    "alto": 0
   },
   {
@@ -196,7 +208,7 @@
    "nombre": "Infección del sitio quirúrgico",
    "clase": "9",
    "semana": 2,
-   "n": 10,
+   "n": 12,
    "alto": 5
   },
   {
@@ -212,7 +224,7 @@
    "nombre": "Complicaciones quirúrgicas y antibioticoterapia",
    "clase": "11",
    "semana": 2,
-   "n": 35,
+   "n": 39,
    "alto": 15
   },
   {
@@ -220,7 +232,7 @@
    "nombre": "ERAS y cuidados perioperatorios",
    "clase": "12",
    "semana": 3,
-   "n": 13,
+   "n": 27,
    "alto": 8
   },
   {
@@ -228,7 +240,7 @@
    "nombre": "Balance hidroelectrolítico y ácido-base",
    "clase": "13",
    "semana": 3,
-   "n": 31,
+   "n": 45,
    "alto": 17
   },
   {
@@ -236,7 +248,7 @@
    "nombre": "Soporte nutricional en el paciente quirúrgico",
    "clase": "14",
    "semana": 3,
-   "n": 15,
+   "n": 23,
    "alto": 6
   },
   {
@@ -244,7 +256,7 @@
    "nombre": "Manejo de quemados",
    "clase": "15",
    "semana": 3,
-   "n": 23,
+   "n": 24,
    "alto": 9
   },
   {
@@ -252,7 +264,7 @@
    "nombre": "Shock",
    "clase": "16",
    "semana": 3,
-   "n": 12,
+   "n": 23,
    "alto": 6
   },
   {
@@ -260,7 +272,7 @@
    "nombre": "Hernias de la pared abdominal",
    "clase": "17",
    "semana": 4,
-   "n": 25,
+   "n": 29,
    "alto": 19
   },
   {
@@ -276,7 +288,7 @@
    "nombre": "Abdomen agudo",
    "clase": "19-20",
    "semana": 4,
-   "n": 18,
+   "n": 19,
    "alto": 7
   },
   {
@@ -284,7 +296,7 @@
    "nombre": "Patología esófago-gástrica benigna",
    "clase": "22",
    "semana": 5,
-   "n": 31,
+   "n": 32,
    "alto": 16
   },
   {
@@ -303,7 +315,7 @@
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
    "semana": 5,
-   "n": 35,
+   "n": 36,
    "alto": 22
   },
   {
@@ -335,7 +347,7 @@
    "nombre": "Colelitiasis, colecistitis y coledocolitiasis",
    "clase": "28",
    "semana": 6,
-   "n": 38,
+   "n": 39,
    "alto": 14
   },
   {
@@ -351,7 +363,7 @@
    "nombre": "Pancreatitis aguda y patología del bazo",
    "clase": "30",
    "semana": 6,
-   "n": 31,
+   "n": 33,
    "alto": 16
   },
   {
@@ -386,7 +398,7 @@
    "nombre": "Cáncer digestivo",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 19,
+   "n": 22,
    "alto": 19
   },
   {
@@ -394,7 +406,7 @@
    "nombre": "Cirrosis e hipertensión portal",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 15,
+   "n": 17,
    "alto": 7
   },
   {
@@ -402,7 +414,7 @@
    "nombre": "Tiroides, paratiroides y suprarrenal",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 1,
+   "n": 2,
    "alto": 0
   },
   {
@@ -410,7 +422,7 @@
    "nombre": "Mama",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 18,
+   "n": 19,
    "alto": 5
   },
   {
@@ -426,7 +438,7 @@
    "nombre": "Hemostasia, coagulación y transfusión",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 9,
+   "n": 12,
    "alto": 5
   },
   {
@@ -434,7 +446,7 @@
    "nombre": "Piel, partes blandas y sarcomas",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 5,
+   "n": 6,
    "alto": 3
   },
   {
@@ -442,7 +454,7 @@
    "nombre": "Cirugía pediátrica",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 3,
+   "n": 5,
    "alto": 3
   },
   {
