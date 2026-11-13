@@ -4206,5 +4206,1177 @@
   ],
   "tema": "nutricion",
   "nota": "Clave original C."
+ },
+ "53da65b801": {
+  "k": "53da65b801",
+  "estado": "dudosa",
+  "stem": "Un hombre de 65 años con un tumor maligno tiene un nivel sérico elevado de factor de necrosis tumoral alfa (TNF-α) y un nivel urinario elevado de factor inductor de proteólisis (PIF). ¿Cuál de los siguientes cánceres tiene con mayor probabilidad este paciente?",
+  "opts": [
+   "Colon",
+   "Próstata",
+   "Páncreas",
+   "Mama",
+   "Hígado"
+  ],
+  "ans": null,
+  "why": "El factor inductor de proteólisis (PIF) es un factor de caquexia producido por el tumor. En un estudio de pacientes con cáncer de páncreas se encontró PIF en la orina del 80% de ellos, y esos pacientes bajaban de peso más rápido. Sabiston explica que el TNF-α (caquectina) y otras citocinas causan la caquexia del cáncer.",
+  "fuentes": [
+   "Wigmore SJ et al. Br J Surg 2000, 'Characteristics of patients with pancreatic cancer expressing a novel cancer cachectic factor' (PMID 10606911, Europe PMC)",
+   "Sabiston 21.ª ed., p. 139 del PDF (caquexia: TNF-α)"
+  ],
+  "tema": "nutricion",
+  "nota": "Respaldo indirecto: los libros de la carpeta no mencionan el PIF. Un estudio de orina (Cariuk 1997, PMID 9303359) también halló PIF en cáncer de mama, pulmón y ovario, pero la mejor evidencia con porcentaje es la de páncreas; colon, próstata e hígado no tienen datos de PIF en esas fuentes. Supervisión: los libros no mencionan el PIF y los artículos no lo limitan al páncreas. Queda dudosa."
+ },
+ "bfbc8ce82e": {
+  "k": "bfbc8ce82e",
+  "estado": "confirmada",
+  "stem": "El mal control glucémico es una manifestación de deficiencia de:",
+  "opts": [
+   "Zinc",
+   "Cobre",
+   "Cromo",
+   "Molibdeno",
+   "Selenio"
+  ],
+  "ans": 2,
+  "why": "El cromo es cofactor de la insulina en los tejidos; su deficiencia causa hiperglucemia (control difícil de la glucosa) y neuropatía. El zinc falla en cicatrización, el cobre da anemia, el molibdeno encefalopatía y el selenio miopatía/cardiomiopatía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF (tabla de deficiencias)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 440 y 444 del PDF (pregunta 13 y su respuesta)"
+  ],
+  "tema": "nutricion"
+ },
+ "06d7a2685e": {
+  "k": "06d7a2685e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la NPT a largo plazo?",
+  "opts": [
+   "La grasa es considerada la base nutricional de la NPT.",
+   "Puede conducir a una matriz de gel mucinoso con cristales de colesterol y bilirrubinato de calcio en la vesícula biliar.",
+   "La disfunción hepática relacionada con la NPT es menos probable que sea letal en lactantes que en adultos.",
+   "No se ha demostrado que conduzca a fibrosis hepática.",
+   "Se ha demostrado que la suplementación con carnitina revierte el daño hepático relacionado con la NPT."
+  ],
+  "ans": 1,
+  "why": "En la NPT prolongada se forma barro biliar (matriz de gel mucinoso con cristales de colesterol y bilirrubinato de calcio) y litiasis. La base de la NPT es la glucosa, no la grasa (A falsa); la disfunción hepática es más letal en lactantes que en adultos (C falsa); sí puede dar fibrosis hepática (D falsa); la carnitina puede mejorar la esteatosis pero no revierte el daño (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 441 y 444 del PDF (pregunta 14 y su respuesta)"
+  ],
+  "tema": "nutricion"
+ },
+ "cd7f043642": {
+  "k": "cd7f043642",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes aminoácidos ha demostrado potencial para aumentar la capacidad absortiva del intestino en pacientes que se han sometido a resección de un segmento largo del intestino delgado?",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Arginina"
+  ],
+  "ans": 0,
+  "why": "En pacientes con síndrome de intestino corto por resección, la glutamina (junto con hormona de crecimiento y dieta modificada) mejoró de forma modesta la absorción de nutrientes en dos estudios aleatorizados. Las demás opciones no han mostrado mejorar la absorción.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 441 y 444 del PDF (pregunta 15 y su respuesta)"
+  ],
+  "tema": "nutricion",
+  "nota": "Es evidencia modesta (estudios pequeños), pero es lo que el libro respalda."
+ },
+ "e221310b19": {
+  "k": "e221310b19",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las deficiencias nutricionales después de una gastrectomía parcial con una reconstrucción de Billroth II?",
+  "opts": [
+   "La absorción de calcio puede ser mínimamente afectada",
+   "La anemia por deficiencia de hierro es más común con un Billroth I que con un Billroth II",
+   "La deficiencia de vitamina B12 se presentará con un volumen corpuscular medio bajo",
+   "El estómago no tiene capacidad de absorción intrínseca",
+   "La absorción de carbohidratos no se ve afectada después de la cirugía"
+  ],
+  "ans": 4,
+  "why": "Tras gastrectomía con Billroth II no hay evidencia de que la absorción de carbohidratos esté alterada (sí se afecta la de grasas, hierro, calcio y B12). La absorción de calcio se afecta por saltar el duodeno (A falsa); la anemia ferropénica es más común con Billroth II que con I (B falsa); la deficiencia de B12 da anemia megaloblástica, con VCM alto (C falsa); el estómago sí absorbe algunas sustancias como alcohol y AINE (D falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 440 y 442 del PDF (pregunta 6 y su respuesta)"
+  ],
+  "tema": "nutricion"
+ },
+ "567da1f2f2": {
+  "k": "567da1f2f2",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 80 años, diabético, PO5 de laparotomía exploratoria. En tratamiento para diabetes con insulina de acción lenta (glargina). No baja la glucosa de 220 mg/dl a pesar del tratamiento. El pobre control de glucosa es una manifestación de deficiencia de:",
+  "opts": [
+   "zinc",
+   "cobre",
+   "cromo",
+   "molibdeno",
+   "selenio"
+  ],
+  "ans": 2,
+  "why": "El cromo es cofactor de la insulina en los tejidos y su deficiencia se manifiesta con glucosa difícil de controlar y neuropatía. No es el zinc (cicatrización, piel), cobre (anemia), molibdeno (encefalopatía) ni selenio (miopatía).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF (tabla de deficiencias)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF (respuesta 13)"
+  ],
+  "tema": "nutricion",
+  "nota": "Es una versión del caso de la pregunta de cromo. Texto reparado solo en espacios y signos."
+ },
+ "eabe67862a": {
+  "k": "eabe67862a",
+  "estado": "dudosa",
+  "stem": "Mientras admiten a un nuevo paciente por hipernatremia, la enfermera nota que la medicación del paciente empeora la condición del paciente, ¿cuál sería el medicamento?",
+  "opts": [
+   "Antiácidos",
+   "Diuréticos",
+   "Antipsicóticos",
+   "Antidepresivos",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "La hipernatremia se debe a pérdida de agua o ganancia de sal. Los diuréticos causan pérdidas renales de líquido y por eso pueden causar o empeorar la hipernatremia. Ningún texto consultado relaciona los antiácidos, antipsicóticos o antidepresivos con empeorar la hipernatremia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF (hipernatremia: 'pérdidas renales de líquido se deben a los diuréticos')",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (hipernatremia hipovolémica con sodio urinario alto: diuréticos)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: A (antiácidos, resaltado en el banco). Ninguna fuente respalda antiácidos; Sabiston y el ABSITE respaldan diuréticos. En el examen real pudo marcarse otra opción; la pregunta está mal redactada (sin contexto del paciente). Supervisión: la pregunta viene sin contexto y hay dos opciones defendibles (diuréticos y antiácidos). Queda dudosa."
+ },
+ "d2a52527e6": {
+  "k": "d2a52527e6",
+  "estado": "confirmada",
+  "stem": "¿Qué paciente tiene mayor riesgo de toxicidad con digoxina?",
+  "opts": [
+   "Un paciente con resultados de laboratorio incluyendo Ca 8.9 mg/dl",
+   "Un paciente con enfermedad de Cushing recibiendo Lasix ev para la diuresis",
+   "Un paciente con resultados de laboratorio incluyendo K 3.8 mEq/L",
+   "Un paciente con pérdida de peso y disminución del apetito."
+  ],
+  "ans": 1,
+  "why": "La hipopotasemia aumenta el riesgo de arritmia en pacientes que toman digoxina, incluso con potasio en el límite bajo. Los diuréticos como la furosemida causan hipopotasemia por pérdida renal de potasio. Calcio 8.9 y potasio 3.8 son casi normales, y la pérdida de peso no es factor de riesgo directo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (hipopotasemia, diuréticos y digoxina)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 409 del PDF (hipopotasemia: furosemida)"
+  ],
+  "tema": "liquidos",
+  "nota": "Respaldo en parte indirecto: la fuente liga furosemida con hipopotasemia y esta con digoxina; el síndrome de Cushing por sí solo no está citado para hipopotasemia en esta pregunta. 'Laxis' se corrigió a 'Lasix'."
+ },
+ "08f762546b": {
+  "k": "08f762546b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 22 años es llevado al departamento de emergencias por sus amigos tras sufrir una herida punzocortante en su muslo izquierdo. El hombre no puede responder preguntas adecuadamente. Su ropa está empapada de sangre. Su presión arterial es de 80/44 mmHg y su pulso es de 130 latidos por minuto. Sus extremidades están frías y húmedas. Sus amigos dicen que pesa 154 libras (aproximadamente 70 kg). ¿Aproximadamente cuánto de su peso corporal total está compuesto por el volumen de líquido intravascular?",
+  "opts": [
+   "5 kg",
+   "16 kg",
+   "30 kg",
+   "42 kg",
+   "55 kg"
+  ],
+  "ans": 0,
+  "why": "El volumen intravascular se calcula como 5-7% del peso corporal. En un hombre de 70 kg es de unos 3.5 a 4.9 kg, por lo que 5 kg es la opción que corresponde. 16 kg se acerca al líquido extracelular, 30 y 42 kg al agua intracelular o total, y 55 kg es casi todo el cuerpo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 104 del PDF (volumen intravascular 5-7% del peso)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 407 del PDF (plasma ≈5% del peso)"
+  ],
+  "tema": "shock",
+  "nota": "Respaldo indirecto en un punto: con 7% de 70 kg da 4.9 kg, y con 5% da 3.5 kg; 5 kg es la única opción dentro de ese rango."
+ },
+ "4b3cf76e8a": {
+  "k": "4b3cf76e8a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años y 70 kg está hospitalizado luego de una reparación de hernia inguinal directa. La cirugía transcurrió sin complicaciones. Su presión arterial es de 132/80 mmHg y el pulso es de 76 latidos por minuto. ¿Cuánto líquido intravenoso debería estar recibiendo por hora?",
+  "opts": [
+   "50 mL/h",
+   "75 mL/h",
+   "110 mL/h",
+   "125 mL/h",
+   "150 mL/h"
+  ],
+  "ans": 2,
+  "why": "Para un adulto de más de 40 kg, la regla simple de mantenimiento es 40 más el peso en kg en ml/h: 40 + 70 = 110 ml/h. Con la regla 4-2-1 también da 110 (40 + 20 + 50).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF (cuadro 4.3 y regla 40 + peso)"
+  ],
+  "tema": "liquidos"
+ },
+ "851a28f203": {
+  "k": "851a28f203",
+  "estado": "confirmada",
+  "stem": "Una mujer de 27 años se presenta al departamento de emergencias con 6 horas de dolor abdominal y vómitos. El dolor comenzó alrededor de su ombligo con una intensidad de 4/10 pero ahora está localizado en el cuadrante inferior derecho y es de 8/10. Su presión arterial es de 130/82 mmHg, el pulso es de 90, la frecuencia respiratoria es de 18 y la temperatura es de 38.5 °C. Se le realiza una apendicectomía de emergencia sin complicaciones. Su sodio preoperatorio era de 145 mEq/L y ahora es de 152 mEq/L. Su excreción fraccional de sodio (FENa) es < 1%. ¿Cuál de las siguientes es la causa más probable de su hipernatremia?",
+  "opts": [
+   "Necrosis tubular aguda (NTA)",
+   "Dieta alta en sal",
+   "Iatrogénica",
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Vómitos"
+  ],
+  "ans": 4,
+  "why": "Una FENa menor de 1% indica que el riñón retiene sodio, es decir, la pérdida de agua es extrarrenal. Los vómitos son una causa extrarrenal de hipernatremia hipovolémica con sodio urinario bajo. La NTA, la sobrecarga de sal o de líquidos salinos darían sodio urinario alto, y el SIADH produce hiponatremia, no hipernatremia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF (causas extrarrenales: vómitos; causas iatrogénicas/renales)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (hipernatremia hipovolémica: sodio urinario <20 = pérdidas extrarrenales)"
+  ],
+  "tema": "liquidos"
+ },
+ "5f5a75e13e": {
+  "k": "5f5a75e13e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 65 años que fue sometido a cirugía por una úlcera gástrica perforada y tiene colocada una sonda nasogástrica. Se encuentra que su potasio sérico es de 2.8 mEq/L. ¿Cuántos mEq de potasio se requerirán aproximadamente para elevar su nivel sérico de potasio a 3.5 mEq/L?",
+  "opts": [
+   "20 mEq",
+   "35 mEq",
+   "50 mEq",
+   "70 mEq",
+   "105 mEq"
+  ],
+  "ans": null,
+  "why": "Las fuentes de la carpeta dan cómo reponer potasio (10-20 mEq/h) y recuerdan que el déficit es sobre todo intracelular, pero no traen una fórmula para calcular el déficit total ni cuántos mEq elevan el potasio 0.7 mEq/L. Además la pregunta no da el peso del paciente, así que no se puede calcular.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (tratamiento de la hipopotasemia)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: D (70 mEq). No hay fuente que respalde ese valor; no se confirma por cálculos propios."
+ },
+ "dd12b54220": {
+  "k": "dd12b54220",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años es llevado a cirugía por una herida por arma blanca en el abdomen. Se encuentra hipotenso con taquicardia y alteración del estado mental. Tiene una hemoglobina de 6 g/dL. Se realiza una laparotomía de emergencia. ¿Cuál de los siguientes es el mediador más importante en la respuesta fisiológica inicial de este paciente?",
+  "opts": [
+   "Hormona antidiurética (ADH)",
+   "Cortisol",
+   "Aldosterona",
+   "Renina",
+   "Catecolaminas"
+  ],
+  "ans": 4,
+  "why": "En el shock hemorrágico el primer mecanismo compensador es el aumento de la actividad simpática, con liberación de catecolaminas por la médula suprarrenal (adrenalina, noradrenalina). Renina-angiotensina, ADH, cortisol y aldosterona actúan después para retener sal y agua.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 76-77 del PDF (mecanismos compensadores del shock)"
+  ],
+  "tema": "shock"
+ },
+ "dc14e11491": {
+  "k": "dc14e11491",
+  "estado": "confirmada",
+  "stem": "Un hombre de 62 años con antecedentes de insuficiencia cardíaca congestiva es admitido para cirugía electiva. Está tomando furosemida. Su potasio sérico es de 3.1 mEq/L. ¿Cuál de los siguientes hallazgos se espera observar en su electrocardiograma (ECG)?",
+  "opts": [
+   "Elevación del segmento ST",
+   "Ondas U prominentes",
+   "Ondas T picudas",
+   "Ensanchamiento del complejo QRS",
+   "Ausencia de ondas P"
+  ],
+  "ans": 1,
+  "why": "En la hipopotasemia el ECG muestra aplanamiento o inversión de la onda T, depresión del ST y ondas U. La elevación del ST, las ondas T picudas y el QRS ancho son de otros trastornos (T picudas y QRS ancho = hiperpotasemia).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (ECG en hipopotasemia: ondas U)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 409 del PDF (tabla de ECG)"
+  ],
+  "tema": "liquidos"
+ },
+ "31fee44f2b": {
+  "k": "31fee44f2b",
+  "estado": "confirmada",
+  "stem": "Un paciente de 54 años con dx de dm2 no controlada presenta colecistitis aguda y una glucemia de 800 mg/ dl, 120 mEq/L un anion gap de 22 y cetonas en orina positivo. Él ha iniciado fluidos endovenosos, insulina en goteo y antibióticos. qué es cierto en relación al sodio:",
+  "opts": [
+   "el sodio correcto es 127 mEq/l",
+   "el sodio no debe ser corregido más rápido de 5 meq/l en 24 h",
+   "el sodio corregido es 134 meq/l",
+   "es imposible de corregir el sodio en el contexto de presencia de cetonas",
+   "su hiponatremia se debe a la diuresis inducida por glucosa"
+  ],
+  "ans": 2,
+  "why": "Con hiperglucemia el sodio medido baja por dilución. Se corrige sumando 2 mEq/L por cada 100 mg/dl de glucosa por encima de 100: 120 + 2 x 7 = 134 mEq/L. Los cuerpos cetónicos no impiden la corrección, el sodio no debe subir más de 8-12 mEq/L en 24 h, y como corrige a un valor casi normal, la causa es hiponatremia hipertónica por la glucosa y no solo diuresis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (corrección del sodio)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 410 y 414 del PDF (pregunta 4 y su respuesta)"
+  ],
+  "tema": "liquidos",
+  "nota": "El texto del banco dice '120 mEq/L' sin nombrar el sodio; se entiende como sodio (igual que en el libro, donde la glucosa 800 y Na 120 dan 134). Clave original C."
+ },
+ "3dbe068a70": {
+  "k": "3dbe068a70",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años es llevado a cirugía para una colecistectomía laparoscópica. En el postoperatorio inmediato, se observa que su nivel sérico de sodio ha disminuido a 126 mEq/L. ¿Cuál de las siguientes es la causa más probable?",
+  "opts": [
+   "Administración de solución salina hipertónica",
+   "Hemólisis",
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Administración de furosemida",
+   "Nefropatía crónica"
+  ],
+  "ans": 2,
+  "why": "Después de una operación el cuerpo libera ADH por el estrés, lo que causa hiponatremia con volumen normal (SIADH). Sabiston: 'a menudo tiene lugar una secreción transitoria de ADH ... incluso en el período postoperatorio inicial' y el SIADH es causa frecuente de hiponatremia en UCI quirúrgica. La solución salina hipertónica y la hemólisis no bajan el sodio; la furosemida y la nefropatía pueden, pero son menos probables sin otros datos. El ABSITE trae un caso parecido (colecistectomía, ADH alta) cuya clave es SIADH.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 412 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 416 del PDF"
+  ],
+  "nota": "Clave original C; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "9de60fc2b7": {
+  "k": "9de60fc2b7",
+  "estado": "confirmada",
+  "stem": "Un hombre de 29 años con trauma abdominal presenta taquicardia persistente y presión arterial de 88/60 mmHg a pesar de recibir 2 litros de solución salina normal. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Administrar otro litro de solución salina",
+   "Transfusión de glóbulos rojos",
+   "Administrar albúmina",
+   "Esperar y observar",
+   "Administrar bicarbonato de sodio"
+  ],
+  "ans": 1,
+  "why": "Si el paciente sigue en shock tras cristaloides iniciales, es probable que siga sangrando. Sabiston (ATLS): quien no responde a la reanimación inicial con cristaloides debe recibir reanimación con hemoderivados, porque más de 1,5 L de cristaloides aumentan el riesgo de muerte. Más suero, albúmina, bicarbonato o esperar no son lo indicado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 340 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "shock"
+ },
+ "7c9682cfd2": {
+  "k": "7c9682cfd2",
+  "estado": "confirmada",
+  "stem": "Una mujer de 59 años se presenta con confusión progresiva. Está tomando hidroclorotiazida. Su sodio sérico es de 118 mEq/L. ¿Cuál de los siguientes síntomas indicaría la necesidad de corregir su hiponatremia rápidamente?",
+  "opts": [
+   "Debilidad muscular",
+   "Náuseas",
+   "Cefalea",
+   "Convulsiones",
+   "Calambres"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la hiponatremia sintomática que causa convulsiones debe corregirse rápido hasta que cesen, y luego pasar a un ritmo lento (para evitar desmielinización osmótica). Debilidad, náuseas, cefalea y calambres son síntomas leves que no justifican corrección rápida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original D; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "df939684f9": {
+  "k": "df939684f9",
+  "estado": "confirmada",
+  "stem": "Un hombre de 64 años con antecedentes de enfermedad hepática se presenta con signos de edema periférico y ascitis. Tiene hiponatremia (Na⁺ 128 mEq/L) y hipoalbuminemia. ¿Cuál de los siguientes mecanismos es el más probable en la hiponatremia de este paciente?",
+  "opts": [
+   "Pérdida renal de sodio",
+   "Ingesta excesiva de agua",
+   "Expansión del volumen extracelular efectivo",
+   "Disminución del volumen circulante efectivo",
+   "Exceso de aldosterona"
+  ],
+  "ans": 3,
+  "why": "En la cirrosis con ascitis, la vasodilatación esplácnica reduce el volumen sanguíneo circulante efectivo (Sabiston p. 1114); y Sabiston p. 108 explica que el volumen reducido estimula la liberación de ADH, que retiene agua y baja el sodio. Por eso la opción D es la correcta; 'expansión' del volumen efectivo es lo contrario.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1114 del PDF",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original D. Respaldo algo indirecto: el libro da el mecanismo del volumen circulante efectivo bajo y el de la ADH en dos páginas distintas; no hay una frase única que lo una para la cirrosis.",
+  "tema": "liquidos"
+ },
+ "d2e6249286": {
+  "k": "d2e6249286",
+  "estado": "confirmada",
+  "stem": "Un hombre de 58 años es sometido a una colectomía parcial por cáncer de colon. En el día 2 del postoperatorio se encuentra letárgico. El examen físico revela membranas mucosas secas. Su sodio sérico es de 160 mEq/L. ¿Cuál es la causa más probable de su hipernatremia?",
+  "opts": [
+   "Síndrome de secreción inadecuada de ADH",
+   "Administración de solución salina hipertónica",
+   "Hemólisis",
+   "Pérdida de agua libre",
+   "Hiperglucemia"
+  ],
+  "ans": 3,
+  "why": "Sodio de 160 con mucosas secas en el segundo día postoperatorio indica deshidratación por pérdida de agua libre. Sabiston: las causas de hipernatremia incluyen pérdida de agua, y la forma hipovolémica aparece en deshidratados con poca ingesta de agua. SIADH, solución hipertónica y hemólisis no explican este cuadro; la hiperglucemia causa hiponatremia por dilución.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "El texto del banco estaba cortado (faltaba el caso clínico); se reparó con la imagen original (pregunta 11 de la página). Clave original D.",
+  "tema": "liquidos"
+ },
+ "8ca046cd9b": {
+  "k": "8ca046cd9b",
+  "estado": "dudosa",
+  "stem": "Una mujer de 29 años se encuentra en el segundo día postoperatorio después de una histerectomía total. Ha tenido náuseas severas y no ha tolerado la vía oral. Se la encuentra letárgica. El laboratorio revela Na⁺ 122 mEq/L. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Diarrea",
+   "SIADH",
+   "Diuresis osmótica",
+   "Hemorragia postoperatoria",
+   "Administración de diuréticos de asa"
+  ],
+  "ans": null,
+  "why": "En el posoperatorio inicial es frecuente la liberación transitoria de ADH, que produce hiponatremia (Sabiston p. 108), y la ADH liberada por estrés es una forma de SIADH (p. 562). Las otras opciones (diarrea, diuresis osmótica, hemorragia, diuréticos) no aparecen en el caso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF"
+  ],
+  "nota": "Clave original B. Respaldo algo indirecto: el vómito también puede causar hiponatremia hipovolémica (ABSITE p. 416 dice que un solo episodio de emesis es poco probable como causa). Supervisión: hay dos causas defendibles de la hiponatremia (ADH postoperatoria y pérdidas por vómitos). Queda dudosa.",
+  "tema": "liquidos"
+ },
+ "1acede2a7b": {
+  "k": "1acede2a7b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 50 años es sometido a una resección de intestino delgado por enfermedad de Crohn. El laboratorio revela una disminución del magnesio sérico. ¿Cuál de las siguientes anormalidades electrolíticas también se esperaría?",
+  "opts": [
+   "Hiponatremia",
+   "Hipocalcemia",
+   "Hiperkalemia",
+   "Hipofosfatemia",
+   "Acidosis hiperclorémica"
+  ],
+  "ans": 1,
+  "why": "La hipomagnesemia causa resistencia a la PTH y reduce su producción, lo que lleva a hipocalcemia (Sabiston). El ABSITE dice que cuando coexisten hipocalcemia o hipopotasemia con hipomagnesemia, hay que reponer magnesio para corregirlas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 245 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "5b5a03406c": {
+  "k": "5b5a03406c",
+  "estado": "confirmada",
+  "stem": "Una mujer de 36 años tiene una tiroidectomía total. En el postoperatorio, desarrolla parestesias en las extremidades y espasmos musculares. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Hipopotasemia",
+   "Hipocalcemia",
+   "Hiponatremia",
+   "Hipermagnesemia",
+   "Hipocloremia"
+  ],
+  "ans": 1,
+  "why": "Tras una tiroidectomía total puede haber hipoparatiroidismo, la causa más frecuente de hipocalcemia, que da parestesias, espasmos musculares y tetania (Sabiston). Las otras alteraciones no causan este cuadro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "endocrino"
+ },
+ "40f1d3d727": {
+  "k": "40f1d3d727",
+  "estado": "confirmada",
+  "stem": "Un hombre de 43 años se presenta con pancreatitis aguda grave. En el segundo día de hospitalización, desarrolla tetania. ¿Cuál de los siguientes valores de laboratorio se espera encontrar?",
+  "opts": [
+   "Hipocalcemia",
+   "Hipopotasemia",
+   "Hipernatremia",
+   "Hipermagnesemia",
+   "Hipofosfatemia"
+  ],
+  "ans": 0,
+  "why": "La pancreatitis aguda secuestra calcio en el abdomen y produce hipocalcemia, que causa tetania (Sabiston).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ],
+  "nota": "Clave original A; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "cf558b922f": {
+  "k": "cf558b922f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 28 años se encuentra en su tercer día postoperatorio después de una laparotomía por apendicitis perforada. Presenta debilidad muscular generalizada y disminución de los reflejos tendinosos profundos. Su potasio sérico es de 2.5 mEq/L. ¿Cuál de los siguientes debe administrarse junto con la reposición de potasio?",
+  "opts": [
+   "Cloruro de sodio",
+   "Sulfato de magnesio",
+   "Gluconato de calcio",
+   "Insulina",
+   "Furosemida"
+  ],
+  "ans": 1,
+  "why": "Sabiston: hay que vigilar el magnesio porque la hipomagnesemia causa hipopotasemia refractaria; el magnesio debe reponerse junto con el potasio. El ABSITE dice igual: reponer magnesio de forma agresiva si coexiste con hipopotasemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 245 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "1744dc8539": {
+  "k": "1744dc8539",
+  "estado": "confirmada",
+  "stem": "Una mujer de 33 años es sometida a una histerectomía abdominal total. En el postoperatorio desarrolla debilidad, náuseas y vómitos. Su sodio es de 128 mEq/L y el potasio es de 5.6 mEq/L. ¿Cuál de los siguientes trastornos endocrinos es más probable?",
+  "opts": [
+   "Feocromocitoma",
+   "Insuficiencia suprarrenal",
+   "Acromegalia",
+   "Hipertiroidismo",
+   "Síndrome de Cushing"
+  ],
+  "ans": 1,
+  "why": "Hiponatremia con hiperpotasemia, debilidad, náuseas y vómitos tras una cirugía sugiere insuficiencia suprarrenal. ABSITE: hiponatremia, hiperpotasemia y acidosis leve se ven en la insuficiencia suprarrenal. Sabiston también la distingue del SIADH. Los otros trastornos no dan esta combinación.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 418 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 222 del PDF",
+   "Sabiston 21.ª ed., p. 109 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "eba09a9283": {
+  "k": "eba09a9283",
+  "estado": "dudosa",
+  "stem": "Un hombre de 63 años se encuentra en la UCI luego de una cirugía vascular complicada. Tiene taquicardia, presión baja, confusión y un gasto urinario bajo. A pesar de líquidos intravenosos adecuados, su presión sigue baja. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Dobutamina",
+   "Dopamina",
+   "Noradrenalina",
+   "Furosemida",
+   "Nitroglicerina"
+  ],
+  "ans": null,
+  "why": "Con hipotensión que persiste tras líquidos adecuados se usa un vasopresor, y la noradrenalina es el de primera línea (ABSITE: en el shock séptico y en la mayoría de otros tipos de shock). La furosemida y la nitroglicerina bajan más la presión; la dobutamina se usa en shock cardiogénico; la dopamina no es la primera opción.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 234 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 426 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 244 del PDF"
+  ],
+  "nota": "Clave original C. Respaldo algo indirecto: el texto no dice qué tipo de shock es; el ABSITE da la noradrenalina como primera línea en shock séptico y 'en la mayoría de otros tipos', no para el shock cardiogénico puro (dobutamina). Supervisión: el caso no dice qué tipo de shock es, y el fármaco de elección cambia según el tipo. Queda dudosa.",
+  "tema": "shock"
+ },
+ "1c0447429c": {
+  "k": "1c0447429c",
+  "estado": "confirmada",
+  "stem": "Un paciente de 70 años ha sido sometido a múltiples procedimientos abdominales. Ahora se encuentra séptico, con hipotensión refractaria. A pesar del soporte hemodinámico, desarrolla acidosis metabólica con brecha aniónica aumentada. ¿Cuál es la causa más probable de su acidosis?",
+  "opts": [
+   "Cetoacidosis",
+   "Acidosis láctica",
+   "Acidosis tubular renal",
+   "Acidosis respiratoria",
+   "Sobrecarga de cloruro"
+  ],
+  "ans": 1,
+  "why": "En el shock séptico la perfusión tisular inadecuada produce acidosis por lactato (Sabiston p. 77). El lactato es una causa de acidosis con brecha aniónica alta (Sabiston p. 562; ABSITE: MUDPILES). La cetoacidosis no encaja, la acidosis tubular renal y la sobrecarga de cloruro dan brecha normal, y la respiratoria no tiene brecha alta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 77 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 408 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ "874642e19e": {
+  "k": "874642e19e",
+  "estado": "confirmada",
+  "stem": "Una mujer de 56 años es llevada a sala de operaciones por una obstrucción intestinal. Durante la cirugía se encuentra líquido libre en la cavidad peritoneal. Se obtienen muestras para cultivo. En el postoperatorio, la paciente presenta presión arterial de 86/50 mmHg, frecuencia cardíaca de 120 lat/min y fiebre de 39.2 °C. ¿Cuál es la causa más probable de su estado hemodinámico?",
+  "opts": [
+   "Hipovolemia",
+   "Shock cardiogénico",
+   "Shock neurogénico",
+   "Shock séptico",
+   "Embolia pulmonar"
+  ],
+  "ans": 3,
+  "why": "Fiebre de 39.2 °C, taquicardia e hipotensión tras cirugía con líquido peritoneal sospechoso de infección indican shock séptico. Sabiston define el shock séptico como sepsis con hipotensión a pesar de reanimación con líquidos. La fiebre no se explica por shock cardiogénico, neurogénico, hipovolemia simple ni embolia pulmonar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 550 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 244 del PDF"
+  ],
+  "nota": "Clave original D. Respaldo algo indirecto: el libro da la definición, no este caso exacto.",
+  "tema": "shock"
+ },
+ "8787abe82d": {
+  "k": "8787abe82d",
+  "estado": "dudosa",
+  "stem": "Una mujer de 70 años con antecedentes de hipertensión y diabetes es sometida a una resección intestinal. Al segundo día postoperatorio desarrolla taquicardia, taquipnea y estado mental alterado. Se encuentra una glucosa sérica de 440 mg/dL y un bicarbonato de 14 mEq/L. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Acidosis metabólica con brecha aniónica normal",
+   "Acidosis respiratoria",
+   "Cetoacidosis diabética",
+   "Hiperglucemia hiperosmolar no cetósica",
+   "Acidosis láctica"
+  ],
+  "ans": null,
+  "why": "El caso da glucosa 440 y bicarbonato 14, pero no da pH, cetonas ni brecha aniónica ni lactato. El ABSITE (p. 408) lista tanto la cetoacidosis diabética como la acidosis láctica como causas de brecha aniónica alta, y tras una resección intestinal en una paciente con taquicardia y estado mental alterado la acidosis láctica (isquemia, sepsis) también es posible. No se pudo leer en los libros ni en la guía ADA 2024 (texto completo no disponible) un criterio directo que decida con estos datos.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 408 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF"
+  ],
+  "nota": "Clave original C (cetoacidosis diabética). No hay fuente leída que respalde directamente la opción; queda dudosa.",
+  "tema": "liquidos"
+ },
+ "667a382c06": {
+  "k": "667a382c06",
+  "estado": "confirmada",
+  "stem": "Un hombre de 47 años con enfermedad hepática crónica es admitido por hemorragia digestiva alta. Luego de transfusiones, presenta confusión, temblor fino y asterixis. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Lactulosa",
+   "Rifaximina",
+   "Gluconato de calcio",
+   "Furosemida",
+   "Cloruro de sodio hipertónico"
+  ],
+  "ans": 0,
+  "why": "El cuadro (cirrosis, sangrado digestivo, confusión y asterixis) es encefalopatía hepática. Sabiston explica que la lactulosa baja el pH del colon y reduce el amoníaco que se absorbe. Una revisión de 2026 indica que la rifaximina se agrega a la lactulosa cuando ocurre un episodio adicional, no como primer tratamiento. El gluconato de calcio, la furosemida y la solución salina hipertónica no tratan el amoníaco.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1354 del PDF",
+   "Reducing the Risk of Overt Hepatic Encephalopathy Recurrence: A Narrative Review. J Clin Transl Hepatol 2026 (PMC13384954)"
+  ],
+  "nota": "Clave original: A. Respaldo directo de la lactulosa en el libro es sobre su mecanismo; la jerarquía lactulosa primero y rifaximina como añadido sale de la revisión de 2026.",
+  "tema": "hipertension-portal"
+ },
+ "09128ce8d8": {
+  "k": "09128ce8d8",
+  "estado": "confirmada",
+  "stem": "En un paciente con acidosis metabólica no compensada, ¿cuál valor se mantiene inicialmente normal?",
+  "opts": [
+   "pH",
+   "Bicarbonato",
+   "Presión parcial de dióxido de carbono (PaCO₂)",
+   "Presión parcial de oxígeno (PaO₂)",
+   "N.A."
+  ],
+  "ans": 2,
+  "why": "En la acidosis metabólica el pH y el bicarbonato bajan. La respuesta del cuerpo es respirar más para bajar la PaCO₂ (Sabiston: la acidosis metabólica induce una alcalosis respiratoria compensatoria). Si todavía no hay compensación, la PaCO₂ sigue normal. Un artículo revisado por pares lo describe así: acidosis metabólica sin respuesta compensatoria porque la PaCO₂ es normal se llama 'no compensada'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 561 del PDF",
+   "Blood gas analysis for bedside diagnosis. Natl J Maxillofac Surg 2013 (PMC3961885)"
+  ],
+  "nota": "Clave original: C.",
+  "tema": "liquidos"
+ },
+ "6339016c08": {
+  "k": "6339016c08",
+  "estado": "dudosa",
+  "stem": "¿Qué electrolito se afecta más en esteatorrea?",
+  "opts": [
+   "Sodio",
+   "Potasio",
+   "Magnesio",
+   "Calcio",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Sabiston explica que cuando hay malabsorción de grasas, la malabsorción de calcio empeora porque los ácidos grasos se unen al calcio. Por eso en la esteatorrea el calcio es el electrolito más comprometido.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1242 del PDF"
+  ],
+  "nota": "Clave original: D. El de Virgilio (absite, p. 245) también cita la malabsorción como causa de hipomagnesemia, pero solo Sabiston relaciona la grasa de la esteatorrea con el calcio; el respaldo es razonable pero no compara directamente calcio con magnesio. Supervisión: el libro no compara calcio y magnesio; ambas opciones son defendibles. Queda dudosa.",
+  "tema": "liquidos"
+ },
+ "629b650562": {
+  "k": "629b650562",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes NO es causa de hipercloremia?",
+  "opts": [
+   "Deshidratación",
+   "Inadecuada ingesta dietética",
+   "Falla cardíaca congestiva",
+   "Alcalosis metabólica",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Ninguno de los libros de la carpeta trae una lista de causas de hipercloremia. Solo dicen que el suero salino en grandes volúmenes produce acidosis hiperclorémica (Sabiston p. 106; absite p. 261). Sin una fuente que clasifique cada opción no se puede decidir cuál 'no es causa'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 106 del PDF",
+   "de Virgilio (absite), p. 261 del PDF"
+  ],
+  "nota": "Clave original: B (ingesta dietética inadecuada). No hay respaldo en las fuentes.",
+  "tema": "liquidos"
+ },
+ "6c939dd637": {
+  "k": "6c939dd637",
+  "estado": "dudosa",
+  "stem": "¿En cuál condición el potasio NO se mueve al interior celular?",
+  "opts": [
+   "Síndrome de realimentación",
+   "Ayuno",
+   "Falla renal",
+   "Terapia de insulina",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "El libro absite dice que en el síndrome de realimentación la insulina hace entrar fosfato, magnesio y potasio a las células, y Sabiston/absite muestran que la insulina desplaza potasio al interior. Pero ninguna fuente dice qué pasa con el potasio en el ayuno ni la falla renal en cuanto a su movimiento hacia la célula (la falla renal retiene potasio por mala excreción). Dos opciones (ayuno y falla renal) son defendibles y no hay fuente que decida.",
+  "fuentes": [
+   "de Virgilio (absite), p. 408 y 442 del PDF",
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "nota": "Clave original: C (falla renal).",
+  "tema": "liquidos"
+ },
+ "42ade1cca6": {
+  "k": "42ade1cca6",
+  "estado": "dudosa",
+  "stem": "Obstrucción intestinal proximal: ¿cuál es el trastorno ácido-base más común?",
+  "opts": [
+   "Hiponatremia y alcalosis",
+   "Hipopotasemia y alcalosis metabólica",
+   "Hipocalcemia y acidosis",
+   "Hipernatremia y alcalosis respiratoria",
+   "Hipopotasemia y acidosis metabólica"
+  ],
+  "ans": null,
+  "why": "Las fuentes se contradicen. Sabiston (p. 1276) dice que en la obstrucción proximal la deshidratación puede acompañarse de hipocloremia, hipopotasemia y acidosis metabólica, lo que favorece la E. En cambio, absite (p. 407) y Sabiston (p. 562) explican que los vómitos intensos causan hipocloremia, hipopotasemia y alcalosis metabólica, lo que favorece la B (la clave original). Como el libro principal y la fisiología de los vómitos no coinciden, no se puede elegir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1276 y 562 del PDF",
+   "de Virgilio (absite), p. 407 del PDF"
+  ],
+  "nota": "Clave original: B (hipopotasemia y alcalosis metabólica). Si el examen vino del aula virtual, probablemente esperaba B; Sabiston p. 1276 respalda E.",
+  "tema": "intestino"
+ },
+ "1c404747c4": {
+  "k": "1c404747c4",
+  "estado": "confirmada",
+  "stem": "¿Qué factor influye más en el porcentaje de volumen de reanimación a través de un catéter venoso?",
+  "opts": [
+   "Flujo laminar",
+   "Gradiente de presión",
+   "Longitud",
+   "Radio",
+   "Viscosidad"
+  ],
+  "ans": 3,
+  "why": "El absite explica que para reanimar rápido se usan catéteres cortos y anchos, y que el flujo depende sobre todo del radio del catéter (por eso un calibre 18 es mejor que uno 20). Sabiston aplica la ley de Poiseuille, donde una pequeña reducción del diámetro reduce mucho el flujo. El radio pesa más que la longitud o la viscosidad.",
+  "fuentes": [
+   "de Virgilio (absite), p. 261 del PDF",
+   "Sabiston 21.ª ed., p. 1706 del PDF"
+  ],
+  "nota": "Clave original: D. Respaldo algo indirecto: el absite dice 'inversamente proporcional a la cuarta potencia del radio', que parece una errata del libro; la conclusión (catéter ancho y corto) sí es clara.",
+  "tema": "shock"
+ },
+ "b5a5239813": {
+  "k": "b5a5239813",
+  "estado": "confirmada",
+  "stem": "¿Cuál representa la más temprana manifestación clínica de hipermagnesemia?",
+  "opts": [
+   "Estupor",
+   "Parálisis facial",
+   "Paro respiratorio",
+   "Hipotensión",
+   "Pérdida de reflejos osteotendinosos"
+  ],
+  "ans": 4,
+  "why": "Sabiston dice que el magnesio produce la pérdida inicial de los reflejos tendinosos profundos y luego puede llevar a parálisis flácida y apnea. El absite también lista arreflexia entre los signos. Estupor, parálisis y paro respiratorio son más tardíos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 115 del PDF",
+   "de Virgilio (absite), p. 409 del PDF"
+  ],
+  "nota": "Clave original: E.",
+  "tema": "liquidos"
+ },
+ "ebe2205455": {
+  "k": "ebe2205455",
+  "estado": "confirmada",
+  "stem": "Un paciente postoperatorio tiene una concentración de sodio sérico de 128 mEq/L y una glucosa de 600 mg/dL. ¿Cuál sería el valor de sodio corregido si los niveles de glucosa fueran normales?",
+  "opts": [
+   "136 mEq/L",
+   "142 mEq/L",
+   "147 mEq/L",
+   "120 mEq/L",
+   "122 mEq/L"
+  ],
+  "ans": 0,
+  "why": "Sabiston: el sodio medido baja 1,6 mEq/L por cada 100 mg/dL de glucosa por encima de 100. Aquí hay 500 mg/dL de exceso: 5 x 1,6 = 8 mEq/L, y 128 + 8 = 136 mEq/L.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original: A. El absite (p. 408) usa 2 mEq/L por cada 100, que daría 138; esa cifra no está entre las opciones, así que el banco usa el factor de Sabiston.",
+  "tema": "liquidos"
+ },
+ "dfab60a1e1": {
+  "k": "dfab60a1e1",
+  "estado": "confirmada",
+  "stem": "En un EKG de un paciente con hipokalemia severa (potasio sérico de 2.5 mmol/L), se encontrarán los siguientes hallazgos excepto:",
+  "opts": [
+   "Taquicardia auricular con o sin bloqueo",
+   "Depresión de la onda T",
+   "Depresión de la onda U",
+   "Ondas T mayores que las ondas R"
+  ],
+  "ans": 3,
+  "why": "Sabiston: en la hipopotasemia el ECG muestra depresión de las ondas T y aparición de ondas U, con arritmias como taquicardia auricular con o sin bloqueo. Las ondas T mayores que las ondas R son un hallazgo de hiperpotasemia peligrosa (6-7 mmol/L), no de hipopotasemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "nota": "Clave original: D. La opción C ('depresión de la onda U') está mal redactada: Sabiston habla de aparición de ondas U; probablemente se mezcló con la frase de T y U. Respaldo fuerte para D, pero C es dudosa.",
+  "tema": "liquidos"
+ },
+ "8b6a4b577e": {
+  "k": "8b6a4b577e",
+  "estado": "anulada",
+  "stem": "Una mujer de 30 años tiene hiponatremia sintomática con un nivel de sodio sérico de 120 mEq/L. ¿Cuál es su déficit estimado de sodio?",
+  "opts": [
+   "700 mEq",
+   "400 mEq",
+   "800 mEq",
+   "500 mEq",
+   "600 mEq"
+  ],
+  "ans": null,
+  "why": "Falta el peso de la paciente, que se necesita para calcular el agua corporal total (el absite usa 0,5 x peso en kg en mujeres, p. 407). Sin el peso ni el sodio objetivo no se puede calcular el déficit. La clave 600 solo saldría si pesara 60 kg y el objetivo fuera 140 mEq/L, datos que la pregunta no da.",
+  "fuentes": [
+   "de Virgilio (absite), p. 407 del PDF"
+  ],
+  "nota": "Clave original: E (600 mEq). Pregunta incompleta en el original.",
+  "tema": "liquidos"
+ },
+ "7252cae367": {
+  "k": "7252cae367",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes NO es función del potasio?",
+  "opts": [
+   "Ayuda en la coagulación sanguínea",
+   "Principal contribuyente a la osmolaridad intracelular",
+   "N.A",
+   "Mantener el potencial de membrana en reposo",
+   "Contribuir al balance ácido-base"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que el potasio es el principal ion intracelular y que su gradiente mantiene el potencial de membrana. Ninguna fuente de la carpeta dice que el potasio participe o no en la coagulación, ni lista sus funciones en el equilibrio ácido-base. Sin una fuente directa para la opción elegida no se confirma.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 y 110 del PDF"
+  ],
+  "nota": "Clave original: A.",
+  "tema": "liquidos"
+ },
+ "56d0e8f487": {
+  "k": "56d0e8f487",
+  "estado": "dudosa",
+  "stem": "La respuesta del cuerpo a la hipotermia incluye todo lo siguiente EXCEPTO:",
+  "opts": [
+   "Disminución de la función plaquetaria",
+   "Disminución del gasto cardíaco",
+   "Taquicardia",
+   "Arritmias cardíacas",
+   "Mayor riesgo de infección de la herida"
+  ],
+  "ans": null,
+  "why": "Sabiston describe en la hipotermia: menor función plaquetaria, caída del gasto cardíaco por debajo de 32 °C, arritmias y mayor riesgo de infección de la herida (ISQ). No menciona taquicardia entre sus manifestaciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 268 del PDF"
+  ],
+  "nota": "Clave original: C. Respaldo indirecto: las otras cuatro opciones están dichas directamente en Sabiston; la taquicardia simplemente no aparece. Supervisión: se decidió por descarte: ninguna fuente dice directamente que esa opción sea falsa. Queda dudosa.",
+  "tema": "eras"
+ },
+ "2af0721546": {
+  "k": "2af0721546",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre hipertermia maligna son verdaderas EXCEPTO:",
+  "opts": [
+   "Es un trastorno autosómico dominante.",
+   "Los niveles de creatincinasa están elevados.",
+   "Es más común en pacientes ancianos.",
+   "Puede presentarse hasta 24 horas después de la anestesia.",
+   "El tratamiento es con dantroleno."
+  ],
+  "ans": null,
+  "why": "Las fuentes dicen que es autosómica dominante, que puede aparecer hasta 24 horas después de la cirugía (absite), que cursa con rabdomiólisis (Sabiston pide medir la creatina fosfocinasa) y que el tratamiento es dantroleno. Ninguna fuente dice que sea más frecuente en ancianos: se describe como una predisposición genética (mutación RYR1).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 242 y 270 del PDF",
+   "de Virgilio (absite), p. 394 del PDF"
+  ],
+  "nota": "Clave original: C. Respaldo indirecto: ninguna fuente habla de la edad. Además, Sabiston p. 242 dice 'hasta 60 min después de la anestesia', y el absite dice 24 horas; la opción D coincide con el absite. Supervisión: se decidió por descarte: ninguna fuente habla de la edad. Queda dudosa.",
+  "tema": "eras"
+ },
+ "9e7da4a43b": {
+  "k": "9e7da4a43b",
+  "estado": "dudosa",
+  "stem": "Un médico está atendiendo a un paciente que tiene quemaduras del 18% de su SCT. ¿Se espera cuál de los siguientes valores de laboratorio elevados?",
+  "opts": [
+   "Potasio",
+   "Cloro",
+   "Calcio",
+   "Sodio",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Ninguna fuente de la carpeta indica qué electrolito se eleva en una quemadura del 18%. Sabiston (p. 523) dice incluso que en los quemados graves la hiperpotasemia es rara por el aumento de aldosterona, y que se les suele dar potasio. No hay respaldo directo para ninguna opción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF"
+  ],
+  "nota": "Clave original: A (potasio).",
+  "tema": "quemados"
+ },
+ "7d9b2ff81c": {
+  "k": "7d9b2ff81c",
+  "estado": "confirmada",
+  "stem": "Una medico esta atendiendo un paciente en diálisis clínica. El medico entiendeque, en la nefrona, la mayoría de los electrolitos son reabsorbidos en:",
+  "opts": [
+   "Tubulo proximal",
+   "Glomérulo",
+   "Asa de Henle",
+   "Túbulo distal",
+   "N.A"
+  ],
+  "ans": 0,
+  "why": "En el túbulo proximal se reabsorbe cerca del 65% del sodio filtrado, y la mayor parte del potasio se reabsorbe ahí junto con el sodio y el agua; solo el 10% del potasio llega al túbulo distal. Por eso la mayoría de los electrolitos se reabsorben en el túbulo proximal. El glomérulo solo filtra; el asa de Henle y el túbulo distal reabsorben una parte menor (el magnesio es la excepción: se reabsorbe sobre todo en el asa ascendente).",
+  "fuentes": [
+   "Revisión de fisiología tubular renal, Pathophysiology 2025 (PMC12285995, Europe PMC)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original A. Ningún libro de la carpeta trata este punto de fisiología renal; el respaldo es una revisión arbitrada reciente."
+ },
+ "55c6effd3a": {
+  "k": "55c6effd3a",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes desordenes causan hiponatremia isovolemica?",
+  "opts": [
+   "Hipertiroidismo",
+   "SIADH",
+   "Falla cardiaca",
+   "Demencia",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "El SIADH causa hiponatremia con volumen normal (euvolemia): Sabiston dice que el diagnóstico de SIADH solo se aplica a pacientes euvolémicos, y el ABSITE lo lista como hiponatremia euvolémica. La insuficiencia cardíaca produce hiponatremia hipervolémica. El hipertiroidismo y la demencia no figuran como causas de hiponatremia isovolémica en las fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108-109 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 407-408 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original B. Las fuentes citan el hipotiroidismo (no el hipertiroidismo) como causa euvolémica."
+ },
+ "0e2c685b29": {
+  "k": "0e2c685b29",
+  "estado": "dudosa",
+  "stem": "Qué examen de laboratorio adicional debe ser visto en un paciente que se sospecha de hipomagnesemia?",
+  "opts": [
+   "plaquetas",
+   "albúmina",
+   "hemoglobina/ hto",
+   "urocultivo y antibiograma",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la hipomagnesemia se asocia con frecuencia a hipopotasemia (40%), hipocalcemia, hiponatremia e hipofosfatemia, y que el 30% del magnesio sérico va unido a albúmina. Pero ninguna fuente dice que haya que pedir albúmina (ni plaquetas, hemoglobina o urocultivo) en la sospecha de hipomagnesemia; los exámenes que sí cita (potasio, calcio, fósforo) no están entre las opciones. Por eso no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 114-115 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original B (albúmina): solo hay respaldo indirecto (el magnesio va en parte unido a albúmina), no una recomendación directa."
+ },
+ "5fd8a608f0": {
+  "k": "5fd8a608f0",
+  "estado": "confirmada",
+  "stem": "Una niña de 15 años desarrolla síndrome de intestino corto tras resección intestinal por leiomiosarcoma en la pared del intestino delgado. Posteriormente se le administra nutrición parenteral total (NPT) a largo plazo y se recupera bien. Un mes después, desarrolla parches rojos e inflamados de piel seca y escamosa alrededor de la boca y los ojos. Su cabello también empieza a afinarse, y nota un sabor desagradable al usar su spray de cloraseptic sabor cereza. ¿Cuál es la etiología más probable de sus lesiones cutáneas y caída de cabello?",
+  "opts": [
+   "Deficiencia de zinc",
+   "Deficiencia de cobre",
+   "Penfigo vulgar",
+   "Deficiencia de cromo",
+   "Psoriasis"
+  ],
+  "ans": 0,
+  "why": "En nutrición parenteral prolongada y síndrome de intestino corto aparece deficiencia de oligoelementos. El ABSITE dice que la erupción por zinc se ubica sobre todo alrededor de la boca, y que la alteración del gusto se relaciona más con la deficiencia de zinc; la alopecia se ve en la deficiencia de zinc y de ácidos grasos. Aquí hay lesiones alrededor de boca y ojos, caída del cabello y mal sabor, lo que encaja con zinc. El cobre da anemia, leucopenia y problemas neurológicos; el cromo, mal control de la glucosa; el pénfigo y la psoriasis no explican el cuadro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 497 del PDF (respuesta 6)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 438 del PDF (zinc: dermatitis y caída del cabello)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 444 del PDF (cobre)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original A. La pregunta del libro tiene otro caso (piel escamosa difusa, que apunta a ácido linoleico); aquí la ubicación periorificial y el mal sabor señalan zinc."
+ },
+ "66c0b41dfb": {
+  "k": "66c0b41dfb",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años con hemorragia intracraneal masiva tras la ruptura de un aneurisma en baya se encuentra actualmente en la unidad de cuidados intensivos neuroquirúrgicos (UCI). Hace dos días se sometió a una embolización intravascular de la lesión. Debido al aumento de la diuresis en las últimas 24 horas, se midió el sodio urinario y se encontró en 35 mEq/L. Los exámenes actuales incluyen sodio sérico de 128 mEq/L y hemoglobina de 18 g/dL. La presión venosa central es de 2 mm Hg. ¿Cuál de los siguientes es el tratamiento inicial más apropiado?",
+  "opts": [
+   "Solución salina normal",
+   "Restricción de agua libre",
+   "Desmopresina",
+   "Demeclociclina",
+   "Tolvaptán"
+  ],
+  "ans": 0,
+  "why": "Hiponatremia con sodio urinario alto, presión venosa central baja (2 mm Hg) y hemoglobina alta (hemoconcentración) tras hemorragia subaracnoidea indica síndrome pierde-sal cerebral: hay hipovolemia y se repone con solución salina normal. Restringir agua podría empeorar la isquemia cerebral; la desmopresina es para diabetes insípida central; demeclociclina y tolvaptán son para SIADH.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 412 y 417 del PDF (pregunta 16)"
+  ],
+  "tema": "liquidos"
+ },
+ "000102b051": {
+  "k": "000102b051",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años se encuentra en la UCI por sepsis 5 días después de una colectomía por diverticulitis perforada. Mientras la enfermera toma su presión arterial, su mano presenta un espasmo. ¿Cuál de las siguientes es la etiología más probable?",
+  "opts": [
+   "Hipercalcemia",
+   "Hipermagnesemia",
+   "Hipomagnesemia",
+   "Hiponatremia",
+   "Hipercalemia"
+  ],
+  "ans": 2,
+  "why": "La hipomagnesemia es frecuente en el paciente crítico y produce irritabilidad neuromuscular, como el signo de Trousseau (espasmo de la mano al ocluir la arteria braquial con el manguito). La hipercalcemia, hipermagnesemia, hiponatremia e hipercalemia no producen irritabilidad neuromuscular.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 412 y 417 del PDF (pregunta 17)",
+   "Sabiston 21.ª ed., p. 115 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Nota: el ABSITE menciona hipocalcemia entre causas de Trousseau, pero la opción correcta del libro es hipomagnesemia."
+ },
+ "c37f8c7471": {
+  "k": "c37f8c7471",
+  "estado": "dudosa",
+  "stem": "El método más eficaz para la prevención de nefropatía inducida por contraste (CIN) en una tomografía computarizada con contraste intravenoso es:",
+  "opts": [
+   "N-acetilcisteína intravenosa",
+   "Bolo de solución salina normal inmediatamente antes del estudio seguido de 6 horas de bicarbonato de sodio y solución salina normal",
+   "12 horas de solución salina intravenosa antes y después del estudio",
+   "Fluidos intravenosos con bicarbonato de sodio 2 horas antes del estudio y 12 horas después, además de N-acetilcisteína",
+   "6 horas de solución salina hipotónica antes y después del estudio"
+  ],
+  "ans": null,
+  "why": "El ABSITE dice que solo la hidratación intravenosa ha mostrado beneficio clínico consistente para prevenir la nefropatía por contraste; la N-acetilcisteína y la alcalinización con bicarbonato solo tienen beneficio teórico. La opción con 12 horas de solución salina isotónica antes y después es la hidratación intravenosa; la solución hipotónica no corresponde.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 459 y 463 del PDF (pregunta 19)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original C. Respaldo algo indirecto: el libro apoya la hidratación intravenosa con solución salina, pero no menciona el esquema exacto de 12 horas ni compara con el bolo más bicarbonato por 6 horas. Si el aula virtual marcó otra, revisar. Supervisión: la fuente solo respalda la hidratación intravenosa, no el esquema exacto de la opción. Queda dudosa."
+ },
+ "24625f23de": {
+  "k": "24625f23de",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes causas de acidosis en la unidad de cuidados intensivos se trata mejor con administración de bicarbonato de sodio?",
+  "opts": [
+   "Acidosis láctica",
+   "Cetoacidosis diabética",
+   "Acidosis respiratoria por síndrome de dificultad respiratoria aguda (SDRA)",
+   "Paro cardíaco",
+   "Acidosis tubular renal (ATR)"
+  ],
+  "ans": 4,
+  "why": "Sabiston indica que el bicarbonato se reserva para la acidosis metabólica de brecha aniónica normal, y que esta se debe a diarrea o acidosis tubular renal. En la acidosis láctica y la cetoacidosis se trata la causa; en el paro y la acidosis respiratoria no se corrige con bicarbonato (este aumenta el CO2).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "Sabiston 21.ª ed., p. 77 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 402 del PDF (no se recomienda bicarbonato en acidosis láctica)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ },
+ "f07762eb02": {
+  "k": "f07762eb02",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la deshidratación y/o hipovolemia en niños?",
+  "opts": [
+   "Los niños solo necesitan perder el 5% del agua corporal total para producir síntomas significativos de hipovolemia.",
+   "Hipovolemia se refiere a una reducción del agua libre.",
+   "La deshidratación provocará principalmente pérdidas de líquido extracelular.",
+   "La hipovolemia hipernatrémica profunda debe corregirse inicialmente con líquidos hipotónicos.",
+   "La reposición oral de líquidos es adecuada en la mayoría de niños con pérdidas insensibles."
+  ],
+  "ans": 4,
+  "why": "El ABSITE dice que la reposición oral es adecuada y es la estrategia preferida por la Academia Americana de Pediatría, salvo alteración mental o compromiso vascular. Es falso que baste con perder 5% del agua (se necesita casi 10%), que hipovolemia sea falta de agua libre (eso es deshidratación), que la deshidratación pierda sobre todo líquido extracelular (pierde intracelular) o que la hipernatremia profunda se corrija con líquidos hipotónicos (primero isotónicos).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 415 del PDF (pregunta 10)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ },
+ "16e63cc0e4": {
+  "k": "16e63cc0e4",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes se considera un cambio fisiológico normal en el embarazo?",
+  "opts": [
+   "Disminución del pH sanguíneo",
+   "Disminución de la ventilación por minuto",
+   "Aumento de la capacidad vital",
+   "Desplazamiento hacia la derecha de la curva de disociación de la oxihemoglobina",
+   "Leucopenia relativa"
+  ],
+  "ans": 3,
+  "why": "En el embarazo la curva de disociación de la oxihemoglobina se desvía a la derecha, lo que facilita entregar oxígeno al feto. La ventilación por minuto aumenta, el pH sube (alcalosis respiratoria), la capacidad vital casi no cambia y hay leucocitosis, no leucopenia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 414-415 del PDF (pregunta 9)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original D."
+ },
+ "af9395f46c": {
+  "k": "af9395f46c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al mantenimiento del sodio y agua en pacientes geriátricos?",
+  "opts": [
+   "Existe un aumento en la proporción de agua intracelular a extracelular.",
+   "Una respuesta sedienta hiperactiva predispone a los pacientes geriátricos a hiponatremia.",
+   "Los niveles elevados de hormona antidiurética predisponen a la retención de sodio.",
+   "Los niveles de péptido natriurético auricular aumentan con la edad.",
+   "Existe un aumento relativo en la actividad del sistema renina-angiotensina-aldosterona."
+  ],
+  "ans": 3,
+  "why": "En el anciano los niveles del péptido natriurético auricular aumentan, lo que favorece la pérdida de sal y agua. Disminuye la relación agua intracelular/extracelular, la sed está disminuida, hay menor respuesta a la ADH y el sistema renina-angiotensina-aldosterona está suprimido.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 410 y 414 del PDF (pregunta 6)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original D."
+ },
+ "34bed9a56e": {
+  "k": "34bed9a56e",
+  "estado": "confirmada",
+  "stem": "Un paciente anciano se presenta al departamento de emergencias (ED) con aumento de la sed y diuresis. ¿Cuál de los siguientes hallazgos sería más útil para sugerir diabetes insípida (DI) como etiología probable en este paciente?",
+  "opts": [
+   "Hipernatremia",
+   "Hiperglucemia",
+   "Hiponatremia",
+   "Osmolalidad urinaria baja",
+   "Relación elevada entre osmolalidad sérica y urinaria"
+  ],
+  "ans": 4,
+  "why": "Una relación suero/orina de osmolalidad alta (orina diluida con suero concentrado) es lo que sugiere diabetes insípida. La hiperglucemia apunta a diuresis osmótica. La hipernatremia puede faltar porque el paciente compensa tomando agua, y la osmolalidad urinaria baja se ve también en la polidipsia primaria, así que no distingue.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 416 del PDF (pregunta 13)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ },
+ "3adaaf60f6": {
+  "k": "3adaaf60f6",
+  "estado": "confirmada",
+  "stem": "Un hombre alcohólico de 58 años se presenta al departamento de emergencias quejándose de aumento del perímetro abdominal en las últimas semanas. Hace un año se le realizó una ecografía diagnóstica que mostró evidencia de cirrosis. El examen físico revela edema con fóvea en las extremidades inferiores y una onda ascítica positiva en el abdomen. Además de la abstinencia alcohólica, ¿cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Restricción de agua libre",
+   "Derivación portosistémica intrahepática",
+   "Furosemida intravenosa con transición a vía oral una vez resuelta la ascitis",
+   "Restricción estricta de sodio (<1 g por día)",
+   "Combinación de furosemida y espironolactona por vía oral"
+  ],
+  "ans": 4,
+  "why": "Para movilizar la ascitis del cirrótico se necesita balance negativo de sodio: se inicia espironolactona y furosemida orales juntas, que se potencian y limitan el desbalance de potasio. No se indica restringir agua salvo hiponatremia menor de 125; la furosemida intravenosa suele evitarse en ascitis nueva porque produce azotemia; la restricción necesaria es de sodio menor de 2 g/día, no de 1 g; el TIPS es para ascitis refractaria.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 416 del PDF (pregunta 14)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original E. Reclasificada al tema de cirrosis."
+ },
+ "fa4b839925": {
+  "k": "fa4b839925",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la solución de Ringer lactato cuando se usa como fluido intravenoso?",
+  "opts": [
+   "Es igualmente adecuada como fluido de mantenimiento o de resucitación.",
+   "Es útil en la acidosis debido al contenido de bicarbonato de la solución.",
+   "Es una solución acuosa compuesta únicamente por cloruro de sodio, lactato de sodio, cloruro de calcio y cloruro de potasio.",
+   "El pH de la solución es 7.5.",
+   "El contenido de sodio es equivalente al del suero normal."
+  ],
+  "ans": 2,
+  "why": "El Ringer lactato aporta sodio 130, potasio 4, calcio 3, cloro 109 y lactato 28 mEq/l, es decir, solo esos iones (cloruro de sodio, lactato de sodio, cloruro de calcio y cloruro de potasio). No es útil por un 'contenido de bicarbonato' (lleva lactato), su pH es 6,5 (no 7,5) y su sodio es 130 (el suero normal tiene 154).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 96 del PDF (tabla 4.13)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 407 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original C. Texto reparado con la imagen del original (opciones B y C estaban cortadas). Respaldo algo indirecto: los libros dan la composición en iones, no en sales."
+ },
+ "e4b10fc1b7": {
+  "k": "e4b10fc1b7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la osmolaridad y osmolalidad séricas?",
+  "opts": [
+   "Las proteínas grandes, como la albúmina, son los contribuyentes más importantes a la osmolalidad sérica.",
+   "La presencia de una brecha osmolar indica la presencia de una molécula extraña que se distribuye fácilmente a través de las membranas celulares.",
+   "La diferencia entre osmolaridad y osmolalidad séricas es altamente variable dependiendo del estado fisiológico.",
+   "El sodio se multiplica por dos en el cálculo de la osmolaridad sérica debido a su mayor actividad osmótica.",
+   "El número de moléculas, y no el tamaño, es el contribuyente más importante a la osmolaridad sérica."
+  ],
+  "ans": 4,
+  "why": "La osmolalidad depende del número de partículas, no de su tamaño; por eso las proteínas grandes como la albúmina aportan poco. Una brecha osmolar indica una molécula extraña que no atraviesa fácilmente las membranas. En condiciones normales osmolaridad y osmolalidad son casi iguales, y el sodio se multiplica por dos para incluir sus aniones (cloro y bicarbonato).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 415 del PDF (pregunta 12)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
  }
 }

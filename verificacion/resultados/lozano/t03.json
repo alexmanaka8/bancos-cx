@@ -1,7 +1,7 @@
 [
  {
   "k": "53da65b801",
-  "estado": "confirmada",
+  "estado": "dudosa",
   "stem": "Un hombre de 65 años con un tumor maligno tiene un nivel sérico elevado de factor de necrosis tumoral alfa (TNF-α) y un nivel urinario elevado de factor inductor de proteólisis (PIF). ¿Cuál de los siguientes cánceres tiene con mayor probabilidad este paciente?",
   "opts": [
    "Colon",
@@ -10,14 +10,14 @@
    "Mama",
    "Hígado"
   ],
-  "ans": 2,
+  "ans": null,
   "why": "El factor inductor de proteólisis (PIF) es un factor de caquexia producido por el tumor. En un estudio de pacientes con cáncer de páncreas se encontró PIF en la orina del 80% de ellos, y esos pacientes bajaban de peso más rápido. Sabiston explica que el TNF-α (caquectina) y otras citocinas causan la caquexia del cáncer.",
   "fuentes": [
    "Wigmore SJ et al. Br J Surg 2000, 'Characteristics of patients with pancreatic cancer expressing a novel cancer cachectic factor' (PMID 10606911, Europe PMC)",
    "Sabiston 21.ª ed., p. 139 del PDF (caquexia: TNF-α)"
   ],
   "tema": "nutricion",
-  "nota": "Respaldo indirecto: los libros de la carpeta no mencionan el PIF. Un estudio de orina (Cariuk 1997, PMID 9303359) también halló PIF en cáncer de mama, pulmón y ovario, pero la mejor evidencia con porcentaje es la de páncreas; colon, próstata e hígado no tienen datos de PIF en esas fuentes."
+  "nota": "Respaldo indirecto: los libros de la carpeta no mencionan el PIF. Un estudio de orina (Cariuk 1997, PMID 9303359) también halló PIF en cáncer de mama, pulmón y ovario, pero la mejor evidencia con porcentaje es la de páncreas; colon, próstata e hígado no tienen datos de PIF en esas fuentes. Supervisión: los libros no mencionan el PIF y los artículos no lo limitan al páncreas. Queda dudosa."
  },
  {
   "k": "bfbc8ce82e",
@@ -115,7 +115,7 @@
  },
  {
   "k": "eabe67862a",
-  "estado": "corregida",
+  "estado": "dudosa",
   "stem": "Mientras admiten a un nuevo paciente por hipernatremia, la enfermera nota que la medicación del paciente empeora la condición del paciente, ¿cuál sería el medicamento?",
   "opts": [
    "Antiácidos",
@@ -124,14 +124,14 @@
    "Antidepresivos",
    "N.A"
   ],
-  "ans": 1,
+  "ans": null,
   "why": "La hipernatremia se debe a pérdida de agua o ganancia de sal. Los diuréticos causan pérdidas renales de líquido y por eso pueden causar o empeorar la hipernatremia. Ningún texto consultado relaciona los antiácidos, antipsicóticos o antidepresivos con empeorar la hipernatremia.",
   "fuentes": [
    "Sabiston 21.ª ed., p. 109 del PDF (hipernatremia: 'pérdidas renales de líquido se deben a los diuréticos')",
    "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (hipernatremia hipovolémica con sodio urinario alto: diuréticos)"
   ],
   "tema": "liquidos",
-  "nota": "Clave original: A (antiácidos, resaltado en el banco). Ninguna fuente respalda antiácidos; Sabiston y el ABSITE respaldan diuréticos. En el examen real pudo marcarse otra opción; la pregunta está mal redactada (sin contexto del paciente)."
+  "nota": "Clave original: A (antiácidos, resaltado en el banco). Ninguna fuente respalda antiácidos; Sabiston y el ABSITE respaldan diuréticos. En el examen real pudo marcarse otra opción; la pregunta está mal redactada (sin contexto del paciente). Supervisión: la pregunta viene sin contexto y hay dos opciones defendibles (diuréticos y antiácidos). Queda dudosa."
  },
  {
   "k": "d2a52527e6",

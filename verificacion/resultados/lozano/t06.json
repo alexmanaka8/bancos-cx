@@ -118,7 +118,7 @@
  },
  {
   "k": "c37f8c7471",
-  "estado": "confirmada",
+  "estado": "dudosa",
   "stem": "El método más eficaz para la prevención de nefropatía inducida por contraste (CIN) en una tomografía computarizada con contraste intravenoso es:",
   "opts": [
    "N-acetilcisteína intravenosa",
@@ -127,13 +127,13 @@
    "Fluidos intravenosos con bicarbonato de sodio 2 horas antes del estudio y 12 horas después, además de N-acetilcisteína",
    "6 horas de solución salina hipotónica antes y después del estudio"
   ],
-  "ans": 2,
+  "ans": null,
   "why": "El ABSITE dice que solo la hidratación intravenosa ha mostrado beneficio clínico consistente para prevenir la nefropatía por contraste; la N-acetilcisteína y la alcalinización con bicarbonato solo tienen beneficio teórico. La opción con 12 horas de solución salina isotónica antes y después es la hidratación intravenosa; la solución hipotónica no corresponde.",
   "fuentes": [
    "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 459 y 463 del PDF (pregunta 19)"
   ],
   "tema": "liquidos",
-  "nota": "Clave original C. Respaldo algo indirecto: el libro apoya la hidratación intravenosa con solución salina, pero no menciona el esquema exacto de 12 horas ni compara con el bolo más bicarbonato por 6 horas. Si el aula virtual marcó otra, revisar."
+  "nota": "Clave original C. Respaldo algo indirecto: el libro apoya la hidratación intravenosa con solución salina, pero no menciona el esquema exacto de 12 horas ni compara con el bolo más bicarbonato por 6 horas. Si el aula virtual marcó otra, revisar. Supervisión: la fuente solo respalda la hidratación intravenosa, no el esquema exacto de la opción. Queda dudosa."
  },
  {
   "k": "24625f23de",

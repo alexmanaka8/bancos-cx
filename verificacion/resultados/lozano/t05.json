@@ -1,0 +1,294 @@
+[
+ {
+  "k": "667a382c06",
+  "estado": "confirmada",
+  "stem": "Un hombre de 47 años con enfermedad hepática crónica es admitido por hemorragia digestiva alta. Luego de transfusiones, presenta confusión, temblor fino y asterixis. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Lactulosa",
+   "Rifaximina",
+   "Gluconato de calcio",
+   "Furosemida",
+   "Cloruro de sodio hipertónico"
+  ],
+  "ans": 0,
+  "why": "El cuadro (cirrosis, sangrado digestivo, confusión y asterixis) es encefalopatía hepática. Sabiston explica que la lactulosa baja el pH del colon y reduce el amoníaco que se absorbe. Una revisión de 2026 indica que la rifaximina se agrega a la lactulosa cuando ocurre un episodio adicional, no como primer tratamiento. El gluconato de calcio, la furosemida y la solución salina hipertónica no tratan el amoníaco.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1354 del PDF",
+   "Reducing the Risk of Overt Hepatic Encephalopathy Recurrence: A Narrative Review. J Clin Transl Hepatol 2026 (PMC13384954)"
+  ],
+  "nota": "Clave original: A. Respaldo directo de la lactulosa en el libro es sobre su mecanismo; la jerarquía lactulosa primero y rifaximina como añadido sale de la revisión de 2026.",
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "09128ce8d8",
+  "estado": "confirmada",
+  "stem": "En un paciente con acidosis metabólica no compensada, ¿cuál valor se mantiene inicialmente normal?",
+  "opts": [
+   "pH",
+   "Bicarbonato",
+   "Presión parcial de dióxido de carbono (PaCO₂)",
+   "Presión parcial de oxígeno (PaO₂)",
+   "N.A."
+  ],
+  "ans": 2,
+  "why": "En la acidosis metabólica el pH y el bicarbonato bajan. La respuesta del cuerpo es respirar más para bajar la PaCO₂ (Sabiston: la acidosis metabólica induce una alcalosis respiratoria compensatoria). Si todavía no hay compensación, la PaCO₂ sigue normal. Un artículo revisado por pares lo describe así: acidosis metabólica sin respuesta compensatoria porque la PaCO₂ es normal se llama 'no compensada'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 561 del PDF",
+   "Blood gas analysis for bedside diagnosis. Natl J Maxillofac Surg 2013 (PMC3961885)"
+  ],
+  "nota": "Clave original: C.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "6339016c08",
+  "estado": "dudosa",
+  "stem": "¿Qué electrolito se afecta más en esteatorrea?",
+  "opts": [
+   "Sodio",
+   "Potasio",
+   "Magnesio",
+   "Calcio",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Sabiston explica que cuando hay malabsorción de grasas, la malabsorción de calcio empeora porque los ácidos grasos se unen al calcio. Por eso en la esteatorrea el calcio es el electrolito más comprometido.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1242 del PDF"
+  ],
+  "nota": "Clave original: D. El de Virgilio (absite, p. 245) también cita la malabsorción como causa de hipomagnesemia, pero solo Sabiston relaciona la grasa de la esteatorrea con el calcio; el respaldo es razonable pero no compara directamente calcio con magnesio. Supervisión: el libro no compara calcio y magnesio; ambas opciones son defendibles. Queda dudosa.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "629b650562",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes NO es causa de hipercloremia?",
+  "opts": [
+   "Deshidratación",
+   "Inadecuada ingesta dietética",
+   "Falla cardíaca congestiva",
+   "Alcalosis metabólica",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Ninguno de los libros de la carpeta trae una lista de causas de hipercloremia. Solo dicen que el suero salino en grandes volúmenes produce acidosis hiperclorémica (Sabiston p. 106; absite p. 261). Sin una fuente que clasifique cada opción no se puede decidir cuál 'no es causa'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 106 del PDF",
+   "de Virgilio (absite), p. 261 del PDF"
+  ],
+  "nota": "Clave original: B (ingesta dietética inadecuada). No hay respaldo en las fuentes.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "6c939dd637",
+  "estado": "dudosa",
+  "stem": "¿En cuál condición el potasio NO se mueve al interior celular?",
+  "opts": [
+   "Síndrome de realimentación",
+   "Ayuno",
+   "Falla renal",
+   "Terapia de insulina",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "El libro absite dice que en el síndrome de realimentación la insulina hace entrar fosfato, magnesio y potasio a las células, y Sabiston/absite muestran que la insulina desplaza potasio al interior. Pero ninguna fuente dice qué pasa con el potasio en el ayuno ni la falla renal en cuanto a su movimiento hacia la célula (la falla renal retiene potasio por mala excreción). Dos opciones (ayuno y falla renal) son defendibles y no hay fuente que decida.",
+  "fuentes": [
+   "de Virgilio (absite), p. 408 y 442 del PDF",
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "nota": "Clave original: C (falla renal).",
+  "tema": "liquidos"
+ },
+ {
+  "k": "42ade1cca6",
+  "estado": "dudosa",
+  "stem": "Obstrucción intestinal proximal: ¿cuál es el trastorno ácido-base más común?",
+  "opts": [
+   "Hiponatremia y alcalosis",
+   "Hipopotasemia y alcalosis metabólica",
+   "Hipocalcemia y acidosis",
+   "Hipernatremia y alcalosis respiratoria",
+   "Hipopotasemia y acidosis metabólica"
+  ],
+  "ans": null,
+  "why": "Las fuentes se contradicen. Sabiston (p. 1276) dice que en la obstrucción proximal la deshidratación puede acompañarse de hipocloremia, hipopotasemia y acidosis metabólica, lo que favorece la E. En cambio, absite (p. 407) y Sabiston (p. 562) explican que los vómitos intensos causan hipocloremia, hipopotasemia y alcalosis metabólica, lo que favorece la B (la clave original). Como el libro principal y la fisiología de los vómitos no coinciden, no se puede elegir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1276 y 562 del PDF",
+   "de Virgilio (absite), p. 407 del PDF"
+  ],
+  "nota": "Clave original: B (hipopotasemia y alcalosis metabólica). Si el examen vino del aula virtual, probablemente esperaba B; Sabiston p. 1276 respalda E.",
+  "tema": "intestino"
+ },
+ {
+  "k": "1c404747c4",
+  "estado": "confirmada",
+  "stem": "¿Qué factor influye más en el porcentaje de volumen de reanimación a través de un catéter venoso?",
+  "opts": [
+   "Flujo laminar",
+   "Gradiente de presión",
+   "Longitud",
+   "Radio",
+   "Viscosidad"
+  ],
+  "ans": 3,
+  "why": "El absite explica que para reanimar rápido se usan catéteres cortos y anchos, y que el flujo depende sobre todo del radio del catéter (por eso un calibre 18 es mejor que uno 20). Sabiston aplica la ley de Poiseuille, donde una pequeña reducción del diámetro reduce mucho el flujo. El radio pesa más que la longitud o la viscosidad.",
+  "fuentes": [
+   "de Virgilio (absite), p. 261 del PDF",
+   "Sabiston 21.ª ed., p. 1706 del PDF"
+  ],
+  "nota": "Clave original: D. Respaldo algo indirecto: el absite dice 'inversamente proporcional a la cuarta potencia del radio', que parece una errata del libro; la conclusión (catéter ancho y corto) sí es clara.",
+  "tema": "shock"
+ },
+ {
+  "k": "b5a5239813",
+  "estado": "confirmada",
+  "stem": "¿Cuál representa la más temprana manifestación clínica de hipermagnesemia?",
+  "opts": [
+   "Estupor",
+   "Parálisis facial",
+   "Paro respiratorio",
+   "Hipotensión",
+   "Pérdida de reflejos osteotendinosos"
+  ],
+  "ans": 4,
+  "why": "Sabiston dice que el magnesio produce la pérdida inicial de los reflejos tendinosos profundos y luego puede llevar a parálisis flácida y apnea. El absite también lista arreflexia entre los signos. Estupor, parálisis y paro respiratorio son más tardíos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 115 del PDF",
+   "de Virgilio (absite), p. 409 del PDF"
+  ],
+  "nota": "Clave original: E.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "ebe2205455",
+  "estado": "confirmada",
+  "stem": "Un paciente postoperatorio tiene una concentración de sodio sérico de 128 mEq/L y una glucosa de 600 mg/dL. ¿Cuál sería el valor de sodio corregido si los niveles de glucosa fueran normales?",
+  "opts": [
+   "136 mEq/L",
+   "142 mEq/L",
+   "147 mEq/L",
+   "120 mEq/L",
+   "122 mEq/L"
+  ],
+  "ans": 0,
+  "why": "Sabiston: el sodio medido baja 1,6 mEq/L por cada 100 mg/dL de glucosa por encima de 100. Aquí hay 500 mg/dL de exceso: 5 x 1,6 = 8 mEq/L, y 128 + 8 = 136 mEq/L.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original: A. El absite (p. 408) usa 2 mEq/L por cada 100, que daría 138; esa cifra no está entre las opciones, así que el banco usa el factor de Sabiston.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "dfab60a1e1",
+  "estado": "confirmada",
+  "stem": "En un EKG de un paciente con hipokalemia severa (potasio sérico de 2.5 mmol/L), se encontrarán los siguientes hallazgos excepto:",
+  "opts": [
+   "Taquicardia auricular con o sin bloqueo",
+   "Depresión de la onda T",
+   "Depresión de la onda U",
+   "Ondas T mayores que las ondas R"
+  ],
+  "ans": 3,
+  "why": "Sabiston: en la hipopotasemia el ECG muestra depresión de las ondas T y aparición de ondas U, con arritmias como taquicardia auricular con o sin bloqueo. Las ondas T mayores que las ondas R son un hallazgo de hiperpotasemia peligrosa (6-7 mmol/L), no de hipopotasemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "nota": "Clave original: D. La opción C ('depresión de la onda U') está mal redactada: Sabiston habla de aparición de ondas U; probablemente se mezcló con la frase de T y U. Respaldo fuerte para D, pero C es dudosa.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "8b6a4b577e",
+  "estado": "anulada",
+  "stem": "Una mujer de 30 años tiene hiponatremia sintomática con un nivel de sodio sérico de 120 mEq/L. ¿Cuál es su déficit estimado de sodio?",
+  "opts": [
+   "700 mEq",
+   "400 mEq",
+   "800 mEq",
+   "500 mEq",
+   "600 mEq"
+  ],
+  "ans": null,
+  "why": "Falta el peso de la paciente, que se necesita para calcular el agua corporal total (el absite usa 0,5 x peso en kg en mujeres, p. 407). Sin el peso ni el sodio objetivo no se puede calcular el déficit. La clave 600 solo saldría si pesara 60 kg y el objetivo fuera 140 mEq/L, datos que la pregunta no da.",
+  "fuentes": [
+   "de Virgilio (absite), p. 407 del PDF"
+  ],
+  "nota": "Clave original: E (600 mEq). Pregunta incompleta en el original.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "7252cae367",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes NO es función del potasio?",
+  "opts": [
+   "Ayuda en la coagulación sanguínea",
+   "Principal contribuyente a la osmolaridad intracelular",
+   "N.A",
+   "Mantener el potencial de membrana en reposo",
+   "Contribuir al balance ácido-base"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que el potasio es el principal ion intracelular y que su gradiente mantiene el potencial de membrana. Ninguna fuente de la carpeta dice que el potasio participe o no en la coagulación, ni lista sus funciones en el equilibrio ácido-base. Sin una fuente directa para la opción elegida no se confirma.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 y 110 del PDF"
+  ],
+  "nota": "Clave original: A.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "56d0e8f487",
+  "estado": "dudosa",
+  "stem": "La respuesta del cuerpo a la hipotermia incluye todo lo siguiente EXCEPTO:",
+  "opts": [
+   "Disminución de la función plaquetaria",
+   "Disminución del gasto cardíaco",
+   "Taquicardia",
+   "Arritmias cardíacas",
+   "Mayor riesgo de infección de la herida"
+  ],
+  "ans": null,
+  "why": "Sabiston describe en la hipotermia: menor función plaquetaria, caída del gasto cardíaco por debajo de 32 °C, arritmias y mayor riesgo de infección de la herida (ISQ). No menciona taquicardia entre sus manifestaciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 268 del PDF"
+  ],
+  "nota": "Clave original: C. Respaldo indirecto: las otras cuatro opciones están dichas directamente en Sabiston; la taquicardia simplemente no aparece. Supervisión: se decidió por descarte: ninguna fuente dice directamente que esa opción sea falsa. Queda dudosa.",
+  "tema": "eras"
+ },
+ {
+  "k": "2af0721546",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre hipertermia maligna son verdaderas EXCEPTO:",
+  "opts": [
+   "Es un trastorno autosómico dominante.",
+   "Los niveles de creatincinasa están elevados.",
+   "Es más común en pacientes ancianos.",
+   "Puede presentarse hasta 24 horas después de la anestesia.",
+   "El tratamiento es con dantroleno."
+  ],
+  "ans": null,
+  "why": "Las fuentes dicen que es autosómica dominante, que puede aparecer hasta 24 horas después de la cirugía (absite), que cursa con rabdomiólisis (Sabiston pide medir la creatina fosfocinasa) y que el tratamiento es dantroleno. Ninguna fuente dice que sea más frecuente en ancianos: se describe como una predisposición genética (mutación RYR1).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 242 y 270 del PDF",
+   "de Virgilio (absite), p. 394 del PDF"
+  ],
+  "nota": "Clave original: C. Respaldo indirecto: ninguna fuente habla de la edad. Además, Sabiston p. 242 dice 'hasta 60 min después de la anestesia', y el absite dice 24 horas; la opción D coincide con el absite. Supervisión: se decidió por descarte: ninguna fuente habla de la edad. Queda dudosa.",
+  "tema": "eras"
+ },
+ {
+  "k": "9e7da4a43b",
+  "estado": "dudosa",
+  "stem": "Un médico está atendiendo a un paciente que tiene quemaduras del 18% de su SCT. ¿Se espera cuál de los siguientes valores de laboratorio elevados?",
+  "opts": [
+   "Potasio",
+   "Cloro",
+   "Calcio",
+   "Sodio",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Ninguna fuente de la carpeta indica qué electrolito se eleva en una quemadura del 18%. Sabiston (p. 523) dice incluso que en los quemados graves la hiperpotasemia es rara por el aumento de aldosterona, y que se les suele dar potasio. No hay respaldo directo para ninguna opción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF"
+  ],
+  "nota": "Clave original: A (potasio).",
+  "tema": "quemados"
+ }
+]

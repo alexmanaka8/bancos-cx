@@ -1,0 +1,305 @@
+[
+ {
+  "k": "3dbe068a70",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años es llevado a cirugía para una colecistectomía laparoscópica. En el postoperatorio inmediato, se observa que su nivel sérico de sodio ha disminuido a 126 mEq/L. ¿Cuál de las siguientes es la causa más probable?",
+  "opts": [
+   "Administración de solución salina hipertónica",
+   "Hemólisis",
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Administración de furosemida",
+   "Nefropatía crónica"
+  ],
+  "ans": 2,
+  "why": "Después de una operación el cuerpo libera ADH por el estrés, lo que causa hiponatremia con volumen normal (SIADH). Sabiston: 'a menudo tiene lugar una secreción transitoria de ADH ... incluso en el período postoperatorio inicial' y el SIADH es causa frecuente de hiponatremia en UCI quirúrgica. La solución salina hipertónica y la hemólisis no bajan el sodio; la furosemida y la nefropatía pueden, pero son menos probables sin otros datos. El ABSITE trae un caso parecido (colecistectomía, ADH alta) cuya clave es SIADH.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 412 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 416 del PDF"
+  ],
+  "nota": "Clave original C; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "9de60fc2b7",
+  "estado": "confirmada",
+  "stem": "Un hombre de 29 años con trauma abdominal presenta taquicardia persistente y presión arterial de 88/60 mmHg a pesar de recibir 2 litros de solución salina normal. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Administrar otro litro de solución salina",
+   "Transfusión de glóbulos rojos",
+   "Administrar albúmina",
+   "Esperar y observar",
+   "Administrar bicarbonato de sodio"
+  ],
+  "ans": 1,
+  "why": "Si el paciente sigue en shock tras cristaloides iniciales, es probable que siga sangrando. Sabiston (ATLS): quien no responde a la reanimación inicial con cristaloides debe recibir reanimación con hemoderivados, porque más de 1,5 L de cristaloides aumentan el riesgo de muerte. Más suero, albúmina, bicarbonato o esperar no son lo indicado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 340 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "shock"
+ },
+ {
+  "k": "7c9682cfd2",
+  "estado": "confirmada",
+  "stem": "Una mujer de 59 años se presenta con confusión progresiva. Está tomando hidroclorotiazida. Su sodio sérico es de 118 mEq/L. ¿Cuál de los siguientes síntomas indicaría la necesidad de corregir su hiponatremia rápidamente?",
+  "opts": [
+   "Debilidad muscular",
+   "Náuseas",
+   "Cefalea",
+   "Convulsiones",
+   "Calambres"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la hiponatremia sintomática que causa convulsiones debe corregirse rápido hasta que cesen, y luego pasar a un ritmo lento (para evitar desmielinización osmótica). Debilidad, náuseas, cefalea y calambres son síntomas leves que no justifican corrección rápida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original D; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "df939684f9",
+  "estado": "confirmada",
+  "stem": "Un hombre de 64 años con antecedentes de enfermedad hepática se presenta con signos de edema periférico y ascitis. Tiene hiponatremia (Na⁺ 128 mEq/L) y hipoalbuminemia. ¿Cuál de los siguientes mecanismos es el más probable en la hiponatremia de este paciente?",
+  "opts": [
+   "Pérdida renal de sodio",
+   "Ingesta excesiva de agua",
+   "Expansión del volumen extracelular efectivo",
+   "Disminución del volumen circulante efectivo",
+   "Exceso de aldosterona"
+  ],
+  "ans": 3,
+  "why": "En la cirrosis con ascitis, la vasodilatación esplácnica reduce el volumen sanguíneo circulante efectivo (Sabiston p. 1114); y Sabiston p. 108 explica que el volumen reducido estimula la liberación de ADH, que retiene agua y baja el sodio. Por eso la opción D es la correcta; 'expansión' del volumen efectivo es lo contrario.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1114 del PDF",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "Clave original D. Respaldo algo indirecto: el libro da el mecanismo del volumen circulante efectivo bajo y el de la ADH en dos páginas distintas; no hay una frase única que lo una para la cirrosis.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "d2e6249286",
+  "estado": "confirmada",
+  "stem": "Un hombre de 58 años es sometido a una colectomía parcial por cáncer de colon. En el día 2 del postoperatorio se encuentra letárgico. El examen físico revela membranas mucosas secas. Su sodio sérico es de 160 mEq/L. ¿Cuál es la causa más probable de su hipernatremia?",
+  "opts": [
+   "Síndrome de secreción inadecuada de ADH",
+   "Administración de solución salina hipertónica",
+   "Hemólisis",
+   "Pérdida de agua libre",
+   "Hiperglucemia"
+  ],
+  "ans": 3,
+  "why": "Sodio de 160 con mucosas secas en el segundo día postoperatorio indica deshidratación por pérdida de agua libre. Sabiston: las causas de hipernatremia incluyen pérdida de agua, y la forma hipovolémica aparece en deshidratados con poca ingesta de agua. SIADH, solución hipertónica y hemólisis no explican este cuadro; la hiperglucemia causa hiponatremia por dilución.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "nota": "El texto del banco estaba cortado (faltaba el caso clínico); se reparó con la imagen original (pregunta 11 de la página). Clave original D.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "8ca046cd9b",
+  "estado": "dudosa",
+  "stem": "Una mujer de 29 años se encuentra en el segundo día postoperatorio después de una histerectomía total. Ha tenido náuseas severas y no ha tolerado la vía oral. Se la encuentra letárgica. El laboratorio revela Na⁺ 122 mEq/L. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Diarrea",
+   "SIADH",
+   "Diuresis osmótica",
+   "Hemorragia postoperatoria",
+   "Administración de diuréticos de asa"
+  ],
+  "ans": null,
+  "why": "En el posoperatorio inicial es frecuente la liberación transitoria de ADH, que produce hiponatremia (Sabiston p. 108), y la ADH liberada por estrés es una forma de SIADH (p. 562). Las otras opciones (diarrea, diuresis osmótica, hemorragia, diuréticos) no aparecen en el caso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF"
+  ],
+  "nota": "Clave original B. Respaldo algo indirecto: el vómito también puede causar hiponatremia hipovolémica (ABSITE p. 416 dice que un solo episodio de emesis es poco probable como causa). Supervisión: hay dos causas defendibles de la hiponatremia (ADH postoperatoria y pérdidas por vómitos). Queda dudosa.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "1acede2a7b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 50 años es sometido a una resección de intestino delgado por enfermedad de Crohn. El laboratorio revela una disminución del magnesio sérico. ¿Cuál de las siguientes anormalidades electrolíticas también se esperaría?",
+  "opts": [
+   "Hiponatremia",
+   "Hipocalcemia",
+   "Hiperkalemia",
+   "Hipofosfatemia",
+   "Acidosis hiperclorémica"
+  ],
+  "ans": 1,
+  "why": "La hipomagnesemia causa resistencia a la PTH y reduce su producción, lo que lleva a hipocalcemia (Sabiston). El ABSITE dice que cuando coexisten hipocalcemia o hipopotasemia con hipomagnesemia, hay que reponer magnesio para corregirlas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 245 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5b5a03406c",
+  "estado": "confirmada",
+  "stem": "Una mujer de 36 años tiene una tiroidectomía total. En el postoperatorio, desarrolla parestesias en las extremidades y espasmos musculares. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Hipopotasemia",
+   "Hipocalcemia",
+   "Hiponatremia",
+   "Hipermagnesemia",
+   "Hipocloremia"
+  ],
+  "ans": 1,
+  "why": "Tras una tiroidectomía total puede haber hipoparatiroidismo, la causa más frecuente de hipocalcemia, que da parestesias, espasmos musculares y tetania (Sabiston). Las otras alteraciones no causan este cuadro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "endocrino"
+ },
+ {
+  "k": "40f1d3d727",
+  "estado": "confirmada",
+  "stem": "Un hombre de 43 años se presenta con pancreatitis aguda grave. En el segundo día de hospitalización, desarrolla tetania. ¿Cuál de los siguientes valores de laboratorio se espera encontrar?",
+  "opts": [
+   "Hipocalcemia",
+   "Hipopotasemia",
+   "Hipernatremia",
+   "Hipermagnesemia",
+   "Hipofosfatemia"
+  ],
+  "ans": 0,
+  "why": "La pancreatitis aguda secuestra calcio en el abdomen y produce hipocalcemia, que causa tetania (Sabiston).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ],
+  "nota": "Clave original A; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "cf558b922f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 28 años se encuentra en su tercer día postoperatorio después de una laparotomía por apendicitis perforada. Presenta debilidad muscular generalizada y disminución de los reflejos tendinosos profundos. Su potasio sérico es de 2.5 mEq/L. ¿Cuál de los siguientes debe administrarse junto con la reposición de potasio?",
+  "opts": [
+   "Cloruro de sodio",
+   "Sulfato de magnesio",
+   "Gluconato de calcio",
+   "Insulina",
+   "Furosemida"
+  ],
+  "ans": 1,
+  "why": "Sabiston: hay que vigilar el magnesio porque la hipomagnesemia causa hipopotasemia refractaria; el magnesio debe reponerse junto con el potasio. El ABSITE dice igual: reponer magnesio de forma agresiva si coexiste con hipopotasemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 245 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "1744dc8539",
+  "estado": "confirmada",
+  "stem": "Una mujer de 33 años es sometida a una histerectomía abdominal total. En el postoperatorio desarrolla debilidad, náuseas y vómitos. Su sodio es de 128 mEq/L y el potasio es de 5.6 mEq/L. ¿Cuál de los siguientes trastornos endocrinos es más probable?",
+  "opts": [
+   "Feocromocitoma",
+   "Insuficiencia suprarrenal",
+   "Acromegalia",
+   "Hipertiroidismo",
+   "Síndrome de Cushing"
+  ],
+  "ans": 1,
+  "why": "Hiponatremia con hiperpotasemia, debilidad, náuseas y vómitos tras una cirugía sugiere insuficiencia suprarrenal. ABSITE: hiponatremia, hiperpotasemia y acidosis leve se ven en la insuficiencia suprarrenal. Sabiston también la distingue del SIADH. Los otros trastornos no dan esta combinación.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 418 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 222 del PDF",
+   "Sabiston 21.ª ed., p. 109 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "eba09a9283",
+  "estado": "dudosa",
+  "stem": "Un hombre de 63 años se encuentra en la UCI luego de una cirugía vascular complicada. Tiene taquicardia, presión baja, confusión y un gasto urinario bajo. A pesar de líquidos intravenosos adecuados, su presión sigue baja. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Dobutamina",
+   "Dopamina",
+   "Noradrenalina",
+   "Furosemida",
+   "Nitroglicerina"
+  ],
+  "ans": null,
+  "why": "Con hipotensión que persiste tras líquidos adecuados se usa un vasopresor, y la noradrenalina es el de primera línea (ABSITE: en el shock séptico y en la mayoría de otros tipos de shock). La furosemida y la nitroglicerina bajan más la presión; la dobutamina se usa en shock cardiogénico; la dopamina no es la primera opción.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 234 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 426 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 244 del PDF"
+  ],
+  "nota": "Clave original C. Respaldo algo indirecto: el texto no dice qué tipo de shock es; el ABSITE da la noradrenalina como primera línea en shock séptico y 'en la mayoría de otros tipos', no para el shock cardiogénico puro (dobutamina). Supervisión: el caso no dice qué tipo de shock es, y el fármaco de elección cambia según el tipo. Queda dudosa.",
+  "tema": "shock"
+ },
+ {
+  "k": "1c0447429c",
+  "estado": "confirmada",
+  "stem": "Un paciente de 70 años ha sido sometido a múltiples procedimientos abdominales. Ahora se encuentra séptico, con hipotensión refractaria. A pesar del soporte hemodinámico, desarrolla acidosis metabólica con brecha aniónica aumentada. ¿Cuál es la causa más probable de su acidosis?",
+  "opts": [
+   "Cetoacidosis",
+   "Acidosis láctica",
+   "Acidosis tubular renal",
+   "Acidosis respiratoria",
+   "Sobrecarga de cloruro"
+  ],
+  "ans": 1,
+  "why": "En el shock séptico la perfusión tisular inadecuada produce acidosis por lactato (Sabiston p. 77). El lactato es una causa de acidosis con brecha aniónica alta (Sabiston p. 562; ABSITE: MUDPILES). La cetoacidosis no encaja, la acidosis tubular renal y la sobrecarga de cloruro dan brecha normal, y la respiratoria no tiene brecha alta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 77 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 408 del PDF"
+  ],
+  "nota": "Clave original B; la fuente la respalda.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "874642e19e",
+  "estado": "confirmada",
+  "stem": "Una mujer de 56 años es llevada a sala de operaciones por una obstrucción intestinal. Durante la cirugía se encuentra líquido libre en la cavidad peritoneal. Se obtienen muestras para cultivo. En el postoperatorio, la paciente presenta presión arterial de 86/50 mmHg, frecuencia cardíaca de 120 lat/min y fiebre de 39.2 °C. ¿Cuál es la causa más probable de su estado hemodinámico?",
+  "opts": [
+   "Hipovolemia",
+   "Shock cardiogénico",
+   "Shock neurogénico",
+   "Shock séptico",
+   "Embolia pulmonar"
+  ],
+  "ans": 3,
+  "why": "Fiebre de 39.2 °C, taquicardia e hipotensión tras cirugía con líquido peritoneal sospechoso de infección indican shock séptico. Sabiston define el shock séptico como sepsis con hipotensión a pesar de reanimación con líquidos. La fiebre no se explica por shock cardiogénico, neurogénico, hipovolemia simple ni embolia pulmonar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 550 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 244 del PDF"
+  ],
+  "nota": "Clave original D. Respaldo algo indirecto: el libro da la definición, no este caso exacto.",
+  "tema": "shock"
+ },
+ {
+  "k": "8787abe82d",
+  "estado": "dudosa",
+  "stem": "Una mujer de 70 años con antecedentes de hipertensión y diabetes es sometida a una resección intestinal. Al segundo día postoperatorio desarrolla taquicardia, taquipnea y estado mental alterado. Se encuentra una glucosa sérica de 440 mg/dL y un bicarbonato de 14 mEq/L. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Acidosis metabólica con brecha aniónica normal",
+   "Acidosis respiratoria",
+   "Cetoacidosis diabética",
+   "Hiperglucemia hiperosmolar no cetósica",
+   "Acidosis láctica"
+  ],
+  "ans": null,
+  "why": "El caso da glucosa 440 y bicarbonato 14, pero no da pH, cetonas ni brecha aniónica ni lactato. El ABSITE (p. 408) lista tanto la cetoacidosis diabética como la acidosis láctica como causas de brecha aniónica alta, y tras una resección intestinal en una paciente con taquicardia y estado mental alterado la acidosis láctica (isquemia, sepsis) también es posible. No se pudo leer en los libros ni en la guía ADA 2024 (texto completo no disponible) un criterio directo que decida con estos datos.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 408 del PDF",
+   "Sabiston 21.ª ed., p. 562 del PDF"
+  ],
+  "nota": "Clave original C (cetoacidosis diabética). No hay fuente leída que respalde directamente la opción; queda dudosa.",
+  "tema": "liquidos"
+ }
+]
