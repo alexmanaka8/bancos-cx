@@ -1,0 +1,288 @@
+[
+ {
+  "k": "53da65b801",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años con un tumor maligno tiene un nivel sérico elevado de factor de necrosis tumoral alfa (TNF-α) y un nivel urinario elevado de factor inductor de proteólisis (PIF). ¿Cuál de los siguientes cánceres tiene con mayor probabilidad este paciente?",
+  "opts": [
+   "Colon",
+   "Próstata",
+   "Páncreas",
+   "Mama",
+   "Hígado"
+  ],
+  "ans": 2,
+  "why": "El factor inductor de proteólisis (PIF) es un factor de caquexia producido por el tumor. En un estudio de pacientes con cáncer de páncreas se encontró PIF en la orina del 80% de ellos, y esos pacientes bajaban de peso más rápido. Sabiston explica que el TNF-α (caquectina) y otras citocinas causan la caquexia del cáncer.",
+  "fuentes": [
+   "Wigmore SJ et al. Br J Surg 2000, 'Characteristics of patients with pancreatic cancer expressing a novel cancer cachectic factor' (PMID 10606911, Europe PMC)",
+   "Sabiston 21.ª ed., p. 139 del PDF (caquexia: TNF-α)"
+  ],
+  "tema": "nutricion",
+  "nota": "Respaldo indirecto: los libros de la carpeta no mencionan el PIF. Un estudio de orina (Cariuk 1997, PMID 9303359) también halló PIF en cáncer de mama, pulmón y ovario, pero la mejor evidencia con porcentaje es la de páncreas; colon, próstata e hígado no tienen datos de PIF en esas fuentes."
+ },
+ {
+  "k": "bfbc8ce82e",
+  "estado": "confirmada",
+  "stem": "El mal control glucémico es una manifestación de deficiencia de:",
+  "opts": [
+   "Zinc",
+   "Cobre",
+   "Cromo",
+   "Molibdeno",
+   "Selenio"
+  ],
+  "ans": 2,
+  "why": "El cromo es cofactor de la insulina en los tejidos; su deficiencia causa hiperglucemia (control difícil de la glucosa) y neuropatía. El zinc falla en cicatrización, el cobre da anemia, el molibdeno encefalopatía y el selenio miopatía/cardiomiopatía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF (tabla de deficiencias)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 440 y 444 del PDF (pregunta 13 y su respuesta)"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "06d7a2685e",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la NPT a largo plazo?",
+  "opts": [
+   "La grasa es considerada la base nutricional de la NPT.",
+   "Puede conducir a una matriz de gel mucinoso con cristales de colesterol y bilirrubinato de calcio en la vesícula biliar.",
+   "La disfunción hepática relacionada con la NPT es menos probable que sea letal en lactantes que en adultos.",
+   "No se ha demostrado que conduzca a fibrosis hepática.",
+   "Se ha demostrado que la suplementación con carnitina revierte el daño hepático relacionado con la NPT."
+  ],
+  "ans": 1,
+  "why": "En la NPT prolongada se forma barro biliar (matriz de gel mucinoso con cristales de colesterol y bilirrubinato de calcio) y litiasis. La base de la NPT es la glucosa, no la grasa (A falsa); la disfunción hepática es más letal en lactantes que en adultos (C falsa); sí puede dar fibrosis hepática (D falsa); la carnitina puede mejorar la esteatosis pero no revierte el daño (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 441 y 444 del PDF (pregunta 14 y su respuesta)"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "cd7f043642",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes aminoácidos ha demostrado potencial para aumentar la capacidad absortiva del intestino en pacientes que se han sometido a resección de un segmento largo del intestino delgado?",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Arginina"
+  ],
+  "ans": 0,
+  "why": "En pacientes con síndrome de intestino corto por resección, la glutamina (junto con hormona de crecimiento y dieta modificada) mejoró de forma modesta la absorción de nutrientes en dos estudios aleatorizados. Las demás opciones no han mostrado mejorar la absorción.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 441 y 444 del PDF (pregunta 15 y su respuesta)"
+  ],
+  "tema": "nutricion",
+  "nota": "Es evidencia modesta (estudios pequeños), pero es lo que el libro respalda."
+ },
+ {
+  "k": "e221310b19",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las deficiencias nutricionales después de una gastrectomía parcial con una reconstrucción de Billroth II?",
+  "opts": [
+   "La absorción de calcio puede ser mínimamente afectada",
+   "La anemia por deficiencia de hierro es más común con un Billroth I que con un Billroth II",
+   "La deficiencia de vitamina B12 se presentará con un volumen corpuscular medio bajo",
+   "El estómago no tiene capacidad de absorción intrínseca",
+   "La absorción de carbohidratos no se ve afectada después de la cirugía"
+  ],
+  "ans": 4,
+  "why": "Tras gastrectomía con Billroth II no hay evidencia de que la absorción de carbohidratos esté alterada (sí se afecta la de grasas, hierro, calcio y B12). La absorción de calcio se afecta por saltar el duodeno (A falsa); la anemia ferropénica es más común con Billroth II que con I (B falsa); la deficiencia de B12 da anemia megaloblástica, con VCM alto (C falsa); el estómago sí absorbe algunas sustancias como alcohol y AINE (D falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 440 y 442 del PDF (pregunta 6 y su respuesta)"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "567da1f2f2",
+  "estado": "confirmada",
+  "stem": "Paciente varón de 80 años, diabético, PO5 de laparotomía exploratoria. En tratamiento para diabetes con insulina de acción lenta (glargina). No baja la glucosa de 220 mg/dl a pesar del tratamiento. El pobre control de glucosa es una manifestación de deficiencia de:",
+  "opts": [
+   "zinc",
+   "cobre",
+   "cromo",
+   "molibdeno",
+   "selenio"
+  ],
+  "ans": 2,
+  "why": "El cromo es cofactor de la insulina en los tejidos y su deficiencia se manifiesta con glucosa difícil de controlar y neuropatía. No es el zinc (cicatrización, piel), cobre (anemia), molibdeno (encefalopatía) ni selenio (miopatía).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 438 del PDF (tabla de deficiencias)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 444 del PDF (respuesta 13)"
+  ],
+  "tema": "nutricion",
+  "nota": "Es una versión del caso de la pregunta de cromo. Texto reparado solo en espacios y signos."
+ },
+ {
+  "k": "eabe67862a",
+  "estado": "corregida",
+  "stem": "Mientras admiten a un nuevo paciente por hipernatremia, la enfermera nota que la medicación del paciente empeora la condición del paciente, ¿cuál sería el medicamento?",
+  "opts": [
+   "Antiácidos",
+   "Diuréticos",
+   "Antipsicóticos",
+   "Antidepresivos",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "La hipernatremia se debe a pérdida de agua o ganancia de sal. Los diuréticos causan pérdidas renales de líquido y por eso pueden causar o empeorar la hipernatremia. Ningún texto consultado relaciona los antiácidos, antipsicóticos o antidepresivos con empeorar la hipernatremia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF (hipernatremia: 'pérdidas renales de líquido se deben a los diuréticos')",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (hipernatremia hipovolémica con sodio urinario alto: diuréticos)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: A (antiácidos, resaltado en el banco). Ninguna fuente respalda antiácidos; Sabiston y el ABSITE respaldan diuréticos. En el examen real pudo marcarse otra opción; la pregunta está mal redactada (sin contexto del paciente)."
+ },
+ {
+  "k": "d2a52527e6",
+  "estado": "confirmada",
+  "stem": "¿Qué paciente tiene mayor riesgo de toxicidad con digoxina?",
+  "opts": [
+   "Un paciente con resultados de laboratorio incluyendo Ca 8.9 mg/dl",
+   "Un paciente con enfermedad de Cushing recibiendo Lasix ev para la diuresis",
+   "Un paciente con resultados de laboratorio incluyendo K 3.8 mEq/L",
+   "Un paciente con pérdida de peso y disminución del apetito."
+  ],
+  "ans": 1,
+  "why": "La hipopotasemia aumenta el riesgo de arritmia en pacientes que toman digoxina, incluso con potasio en el límite bajo. Los diuréticos como la furosemida causan hipopotasemia por pérdida renal de potasio. Calcio 8.9 y potasio 3.8 son casi normales, y la pérdida de peso no es factor de riesgo directo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (hipopotasemia, diuréticos y digoxina)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 409 del PDF (hipopotasemia: furosemida)"
+  ],
+  "tema": "liquidos",
+  "nota": "Respaldo en parte indirecto: la fuente liga furosemida con hipopotasemia y esta con digoxina; el síndrome de Cushing por sí solo no está citado para hipopotasemia en esta pregunta. 'Laxis' se corrigió a 'Lasix'."
+ },
+ {
+  "k": "08f762546b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 22 años es llevado al departamento de emergencias por sus amigos tras sufrir una herida punzocortante en su muslo izquierdo. El hombre no puede responder preguntas adecuadamente. Su ropa está empapada de sangre. Su presión arterial es de 80/44 mmHg y su pulso es de 130 latidos por minuto. Sus extremidades están frías y húmedas. Sus amigos dicen que pesa 154 libras (aproximadamente 70 kg). ¿Aproximadamente cuánto de su peso corporal total está compuesto por el volumen de líquido intravascular?",
+  "opts": [
+   "5 kg",
+   "16 kg",
+   "30 kg",
+   "42 kg",
+   "55 kg"
+  ],
+  "ans": 0,
+  "why": "El volumen intravascular se calcula como 5-7% del peso corporal. En un hombre de 70 kg es de unos 3.5 a 4.9 kg, por lo que 5 kg es la opción que corresponde. 16 kg se acerca al líquido extracelular, 30 y 42 kg al agua intracelular o total, y 55 kg es casi todo el cuerpo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 104 del PDF (volumen intravascular 5-7% del peso)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 407 del PDF (plasma ≈5% del peso)"
+  ],
+  "tema": "shock",
+  "nota": "Respaldo indirecto en un punto: con 7% de 70 kg da 4.9 kg, y con 5% da 3.5 kg; 5 kg es la única opción dentro de ese rango."
+ },
+ {
+  "k": "4b3cf76e8a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años y 70 kg está hospitalizado luego de una reparación de hernia inguinal directa. La cirugía transcurrió sin complicaciones. Su presión arterial es de 132/80 mmHg y el pulso es de 76 latidos por minuto. ¿Cuánto líquido intravenoso debería estar recibiendo por hora?",
+  "opts": [
+   "50 mL/h",
+   "75 mL/h",
+   "110 mL/h",
+   "125 mL/h",
+   "150 mL/h"
+  ],
+  "ans": 2,
+  "why": "Para un adulto de más de 40 kg, la regla simple de mantenimiento es 40 más el peso en kg en ml/h: 40 + 70 = 110 ml/h. Con la regla 4-2-1 también da 110 (40 + 20 + 50).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 105 del PDF (cuadro 4.3 y regla 40 + peso)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "851a28f203",
+  "estado": "confirmada",
+  "stem": "Una mujer de 27 años se presenta al departamento de emergencias con 6 horas de dolor abdominal y vómitos. El dolor comenzó alrededor de su ombligo con una intensidad de 4/10 pero ahora está localizado en el cuadrante inferior derecho y es de 8/10. Su presión arterial es de 130/82 mmHg, el pulso es de 90, la frecuencia respiratoria es de 18 y la temperatura es de 38.5 °C. Se le realiza una apendicectomía de emergencia sin complicaciones. Su sodio preoperatorio era de 145 mEq/L y ahora es de 152 mEq/L. Su excreción fraccional de sodio (FENa) es < 1%. ¿Cuál de las siguientes es la causa más probable de su hipernatremia?",
+  "opts": [
+   "Necrosis tubular aguda (NTA)",
+   "Dieta alta en sal",
+   "Iatrogénica",
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Vómitos"
+  ],
+  "ans": 4,
+  "why": "Una FENa menor de 1% indica que el riñón retiene sodio, es decir, la pérdida de agua es extrarrenal. Los vómitos son una causa extrarrenal de hipernatremia hipovolémica con sodio urinario bajo. La NTA, la sobrecarga de sal o de líquidos salinos darían sodio urinario alto, y el SIADH produce hiponatremia, no hipernatremia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 109 del PDF (causas extrarrenales: vómitos; causas iatrogénicas/renales)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (hipernatremia hipovolémica: sodio urinario <20 = pérdidas extrarrenales)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "5f5a75e13e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 65 años que fue sometido a cirugía por una úlcera gástrica perforada y tiene colocada una sonda nasogástrica. Se encuentra que su potasio sérico es de 2.8 mEq/L. ¿Cuántos mEq de potasio se requerirán aproximadamente para elevar su nivel sérico de potasio a 3.5 mEq/L?",
+  "opts": [
+   "20 mEq",
+   "35 mEq",
+   "50 mEq",
+   "70 mEq",
+   "105 mEq"
+  ],
+  "ans": null,
+  "why": "Las fuentes de la carpeta dan cómo reponer potasio (10-20 mEq/h) y recuerdan que el déficit es sobre todo intracelular, pero no traen una fórmula para calcular el déficit total ni cuántos mEq elevan el potasio 0.7 mEq/L. Además la pregunta no da el peso del paciente, así que no se puede calcular.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (tratamiento de la hipopotasemia)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: D (70 mEq). No hay fuente que respalde ese valor; no se confirma por cálculos propios."
+ },
+ {
+  "k": "dd12b54220",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años es llevado a cirugía por una herida por arma blanca en el abdomen. Se encuentra hipotenso con taquicardia y alteración del estado mental. Tiene una hemoglobina de 6 g/dL. Se realiza una laparotomía de emergencia. ¿Cuál de los siguientes es el mediador más importante en la respuesta fisiológica inicial de este paciente?",
+  "opts": [
+   "Hormona antidiurética (ADH)",
+   "Cortisol",
+   "Aldosterona",
+   "Renina",
+   "Catecolaminas"
+  ],
+  "ans": 4,
+  "why": "En el shock hemorrágico el primer mecanismo compensador es el aumento de la actividad simpática, con liberación de catecolaminas por la médula suprarrenal (adrenalina, noradrenalina). Renina-angiotensina, ADH, cortisol y aldosterona actúan después para retener sal y agua.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 76-77 del PDF (mecanismos compensadores del shock)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "dc14e11491",
+  "estado": "confirmada",
+  "stem": "Un hombre de 62 años con antecedentes de insuficiencia cardíaca congestiva es admitido para cirugía electiva. Está tomando furosemida. Su potasio sérico es de 3.1 mEq/L. ¿Cuál de los siguientes hallazgos se espera observar en su electrocardiograma (ECG)?",
+  "opts": [
+   "Elevación del segmento ST",
+   "Ondas U prominentes",
+   "Ondas T picudas",
+   "Ensanchamiento del complejo QRS",
+   "Ausencia de ondas P"
+  ],
+  "ans": 1,
+  "why": "En la hipopotasemia el ECG muestra aplanamiento o inversión de la onda T, depresión del ST y ondas U. La elevación del ST, las ondas T picudas y el QRS ancho son de otros trastornos (T picudas y QRS ancho = hiperpotasemia).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF (ECG en hipopotasemia: ondas U)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 409 del PDF (tabla de ECG)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "31fee44f2b",
+  "estado": "confirmada",
+  "stem": "Un paciente de 54 años con dx de dm2 no controlada presenta colecistitis aguda y una glucemia de 800 mg/ dl, 120 mEq/L un anion gap de 22 y cetonas en orina positivo. Él ha iniciado fluidos endovenosos, insulina en goteo y antibióticos. qué es cierto en relación al sodio:",
+  "opts": [
+   "el sodio correcto es 127 mEq/l",
+   "el sodio no debe ser corregido más rápido de 5 meq/l en 24 h",
+   "el sodio corregido es 134 meq/l",
+   "es imposible de corregir el sodio en el contexto de presencia de cetonas",
+   "su hiponatremia se debe a la diuresis inducida por glucosa"
+  ],
+  "ans": 2,
+  "why": "Con hiperglucemia el sodio medido baja por dilución. Se corrige sumando 2 mEq/L por cada 100 mg/dl de glucosa por encima de 100: 120 + 2 x 7 = 134 mEq/L. Los cuerpos cetónicos no impiden la corrección, el sodio no debe subir más de 8-12 mEq/L en 24 h, y como corrige a un valor casi normal, la causa es hiponatremia hipertónica por la glucosa y no solo diuresis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 408 del PDF (corrección del sodio)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 410 y 414 del PDF (pregunta 4 y su respuesta)"
+  ],
+  "tema": "liquidos",
+  "nota": "El texto del banco dice '120 mEq/L' sin nombrar el sodio; se entiende como sodio (igual que en el libro, donde la glucosa 800 y Na 120 dan 134). Clave original C."
+ }
+]
