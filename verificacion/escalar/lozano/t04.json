@@ -1,0 +1,197 @@
+[
+ {
+  "k": "3dbe068a70",
+  "stem": "Un hombre de 55 años es llevado a cirugía para una colecistectomía laparoscópica. En el postoperatorio inmediato, se observa que su nivel sérico de sodio ha disminuido a 126 mEq/L. ¿Cuál de las siguientes es la causa más probable?",
+  "opts": [
+   "Administración de solución salina hipertónica",
+   "Hemólisis",
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Administración de furosemida",
+   "Nefropatía crónica"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "9de60fc2b7",
+  "stem": "Un hombre de 29 años con trauma abdominal presenta taquicardia persistente y presión arterial de 88/60 mmHg a pesar de recibir 2 litros de solución salina normal. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Administrar otro litro de solución salina",
+   "Transfusión de glóbulos rojos",
+   "Administrar albúmina",
+   "Esperar y observar",
+   "Administrar bicarbonato de sodio"
+  ],
+  "clave_original": "B",
+  "tema": "shock"
+ },
+ {
+  "k": "7c9682cfd2",
+  "stem": "Una mujer de 59 años se presenta con confusión progresiva. Está tomando hidroclorotiazida. Su sodio sérico es de 118 mEq/L. ¿Cuál de los siguientes síntomas indicaría la necesidad de corregir su hiponatremia rápidamente?",
+  "opts": [
+   "Debilidad muscular",
+   "Náuseas",
+   "Cefalea",
+   "Convulsiones",
+   "Calambres"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "df939684f9",
+  "stem": "Un hombre de 64 años con antecedentes de enfermedad hepática se presenta con signos de edema periférico y ascitis. Tiene hiponatremia (Na⁺ 128 mEq/L) y hipoalbuminemia. ¿Cuál de los siguientes mecanismos es el más probable en la hiponatremia de este paciente?",
+  "opts": [
+   "Pérdida renal de sodio",
+   "Ingesta excesiva de agua",
+   "Expansión del volumen extracelular efectivo",
+   "Disminución del volumen circulante efectivo",
+   "Exceso de aldosterona"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "d2e6249286",
+  "stem": "¿Cuál de las siguientes es la causa más probable de su hipernatremia?",
+  "opts": [
+   "Síndrome de secreción inadecuada de ADH",
+   "Administración de solución salina hipertónica",
+   "Hemólisis",
+   "Pérdida de agua libre",
+   "Hiperglucemia"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "8ca046cd9b",
+  "stem": "Una mujer de 29 años se encuentra en el segundo día postoperatorio después de una histerectomía total. Ha tenido náuseas severas y no ha tolerado la vía oral. Se la encuentra letárgica. El laboratorio revela Na⁺ 122 mEq/L. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Diarrea",
+   "SIADH",
+   "Diuresis osmótica",
+   "Hemorragia postoperatoria",
+   "Administración de diuréticos de asa"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "1acede2a7b",
+  "stem": "Un hombre de 50 años es sometido a una resección de intestino delgado por enfermedad de Crohn. El laboratorio revela una disminución del magnesio sérico. ¿Cuál de las siguientes anormalidades electrolíticas también se esperaría?",
+  "opts": [
+   "Hiponatremia",
+   "Hipocalcemia",
+   "Hiperkalemia",
+   "Hipofosfatemia",
+   "Acidosis hiperclorémica"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5b5a03406c",
+  "stem": "Una mujer de 36 años tiene una tiroidectomía total. En el postoperatorio, desarrolla parestesias en las extremidades y espasmos musculares. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Hipopotasemia",
+   "Hipocalcemia",
+   "Hiponatremia",
+   "Hipermagnesemia",
+   "Hipocloremia"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "40f1d3d727",
+  "stem": "Un hombre de 43 años se presenta con pancreatitis aguda grave. En el segundo día de hospitalización, desarrolla tetania. ¿Cuál de los siguientes valores de laboratorio se espera encontrar?",
+  "opts": [
+   "Hipocalcemia",
+   "Hipopotasemia",
+   "Hipernatremia",
+   "Hipermagnesemia",
+   "Hipofosfatemia"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "cf558b922f",
+  "stem": "Un hombre de 28 años se encuentra en su tercer día postoperatorio después de una laparotomía por apendicitis perforada. Presenta debilidad muscular generalizada y disminución de los reflejos tendinosos profundos. Su potasio sérico es de 2.5 mEq/L. ¿Cuál de los siguientes debe administrarse junto con la reposición de potasio?",
+  "opts": [
+   "Cloruro de sodio",
+   "Sulfato de magnesio",
+   "Gluconato de calcio",
+   "Insulina",
+   "Furosemida"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "1744dc8539",
+  "stem": "Una mujer de 33 años es sometida a una histerectomía abdominal total. En el postoperatorio desarrolla debilidad, náuseas y vómitos. Su sodio es de 128 mEq/L y el potasio es de 5.6 mEq/L. ¿Cuál de los siguientes trastornos endocrinos es más probable?",
+  "opts": [
+   "Feocromocitoma",
+   "Insuficiencia suprarrenal",
+   "Acromegalia",
+   "Hipertiroidismo",
+   "Síndrome de Cushing"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "eba09a9283",
+  "stem": "Un hombre de 63 años se encuentra en la UCI luego de una cirugía vascular complicada. Tiene taquicardia, presión baja, confusión y un gasto urinario bajo. A pesar de líquidos intravenosos adecuados, su presión sigue baja. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Dobutamina",
+   "Dopamina",
+   "Noradrenalina",
+   "Furosemida",
+   "Nitroglicerina"
+  ],
+  "clave_original": "C",
+  "tema": "shock"
+ },
+ {
+  "k": "1c0447429c",
+  "stem": "Un paciente de 70 años ha sido sometido a múltiples procedimientos abdominales. Ahora se encuentra séptico, con hipotensión refractaria. A pesar del soporte hemodinámico, desarrolla acidosis metabólica con brecha aniónica aumentada. ¿Cuál es la causa más probable de su acidosis?",
+  "opts": [
+   "Cetoacidosis",
+   "Acidosis láctica",
+   "Acidosis tubular renal",
+   "Acidosis respiratoria",
+   "Sobrecarga de cloruro"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "874642e19e",
+  "stem": "Una mujer de 56 años es llevada a sala de operaciones por una obstrucción intestinal. Durante la cirugía se encuentra líquido libre en la cavidad peritoneal. Se obtienen muestras para cultivo. En el postoperatorio, la paciente presenta presión arterial de 86/50 mmHg, frecuencia cardíaca de 120 lat/min y fiebre de 39.2 °C. ¿Cuál es la causa más probable de su estado hemodinámico?",
+  "opts": [
+   "Hipovolemia",
+   "Shock cardiogénico",
+   "Shock neurogénico",
+   "Shock séptico",
+   "Embolia pulmonar"
+  ],
+  "clave_original": "D",
+  "tema": "shock"
+ },
+ {
+  "k": "8787abe82d",
+  "stem": "Una mujer de 70 años con antecedentes de hipertensión y diabetes es sometida a una resección intestinal. Al segundo día postoperatorio desarrolla taquicardia, taquipnea y estado mental alterado. Se encuentra una glucosa sérica de 440 mg/dL y un bicarbonato de 14 mEq/L. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Acidosis metabólica con brecha aniónica normal",
+   "Acidosis respiratoria",
+   "Cetoacidosis diabética",
+   "Hiperglucemia hiperosmolar no cetósica",
+   "Acidosis láctica"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ }
+]

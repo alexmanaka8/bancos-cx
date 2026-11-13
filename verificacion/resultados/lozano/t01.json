@@ -1,0 +1,305 @@
+[
+ {
+  "k": "0f1574cb32",
+  "estado": "confirmada",
+  "stem": "Intervalos QT prolongados se asocian con:",
+  "opts": [
+   "Hipomagnesemia",
+   "Hipercalcemia",
+   "Hiperfosfatemia",
+   "Hipercalemia",
+   "Hipocalemia"
+  ],
+  "ans": 0,
+  "why": "La falta de magnesio causa hiperactividad neuromuscular y cambios en el ECG: QT y PR prolongados, torsades de pointes y arritmias. Las otras opciones no se describen así en la fuente.",
+  "fuentes": [
+   "absite p.245 (respuesta 25, cap. 15)"
+  ],
+  "tema": "liquidos",
+  "nota": "Respaldo en un solo libro; no busqué el dato equivalente en Sabiston. Enunciado reparado con la imagen original."
+ },
+ {
+  "k": "63ddd0d8a2",
+  "estado": "confirmada",
+  "stem": "Los síntomas agudos de hipermagnesemia se tratan con:",
+  "opts": [
+   "Hidratación con solución salina normal",
+   "Insulina IV",
+   "Cloruro de calcio",
+   "Dextrosa",
+   "Diálisis"
+  ],
+  "ans": 2,
+  "why": "Para los síntomas agudos se da cloruro de calcio, que antagoniza los efectos cardiovasculares del magnesio. La diálisis es para cuando los niveles o síntomas persisten. Insulina y dextrosa se usan en la hipercalemia.",
+  "fuentes": [
+   "absite p.245 (respuesta 26, cap. 15)"
+  ],
+  "tema": "liquidos",
+  "nota": "Enunciado reparado con la imagen original."
+ },
+ {
+  "k": "9fc36757c8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes microorganismos se asocia con mayor frecuencia a infección bacteriana transmitida por transfusión?",
+  "opts": [
+   "Staphylococcus aureus",
+   "Staphylococcus epidermidis",
+   "Estreptococo β-hemolítico",
+   "Bacillus fragilis",
+   "Bacilos gramnegativos"
+  ],
+  "ans": 4,
+  "why": "Los gramnegativos (sobre todo Yersinia enterocolitica y Pseudomonas, que crecen a 4 °C) son la causa más común de contaminación bacteriana de la sangre. Los grampositivos se ven más como contaminantes de plaquetas.",
+  "fuentes": [
+   "absite p.245 (respuesta 28, cap. 15)",
+   "absite p.491 (respuesta 27, cap. 36)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "c829c9603f",
+  "estado": "confirmada",
+  "stem": "En la lesión renal aguda, ¿cuál es la amenaza más inmediata para el paciente?",
+  "opts": [
+   "Acidosis",
+   "Hipercalemia",
+   "Disfunción plaquetaria",
+   "Sobrecarga de líquidos",
+   "Malnutrición"
+  ],
+  "ans": 1,
+  "why": "La hipercalemia es en general la complicación que más amenaza la vida de inmediato, porque predispone a taquicardia y fibrilación ventricular. Las demás son consecuencias de la lesión renal pero no tan inmediatas.",
+  "fuentes": [
+   "absite p.246 (respuesta 31, cap. 15)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "9e859b0745",
+  "estado": "confirmada",
+  "stem": "Un hombre de 19 años se presenta tras accidente automovilístico. Está alerta pero no puede mover brazos ni piernas. FAST, radiografía de tórax y pelvis negativas. PA: 80/60 mmHg, FC: 70 lpm. Pies calientes y con priapismo. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Fenilefrina",
+   "Administración de líquidos IV",
+   "Dobutamina",
+   "Epinefrina",
+   "Noradrenalina"
+  ],
+  "ans": 1,
+  "why": "Es choque neurogénico (hipotensión con bradicardia relativa, extremidades calientes, lesión medular alta, priapismo). Con la vía aérea y la ventilación aseguradas, el siguiente paso es reponer volumen; los vasoconstrictores solo si no responde a líquidos y ya se descartó hipovolemia.",
+  "fuentes": [
+   "absite p.246 (respuesta 33, cap. 15)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "49942906e4",
+  "estado": "confirmada",
+  "stem": "La presión de oclusión de la arteria pulmonar (PAOP) refleja cuál de las siguientes variables fisiológicas:",
+  "opts": [
+   "Gasto cardíaco",
+   "Presión arterial pulmonar",
+   "Presión auricular izquierda",
+   "Distensibilidad pulmonar",
+   "Resistencia vascular sistémica (RVS)"
+  ],
+  "ans": 2,
+  "why": "La PAOP (presión en cuña) da un estimado indirecto de la presión de la aurícula izquierda y la presión diastólica del ventrículo izquierdo. No mide gasto cardíaco, presión pulmonar, distensibilidad ni RVS.",
+  "fuentes": [
+   "absite p.242 (respuesta 11, cap. 15)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "ad06e785d8",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes anomalías electrolíticas es más probable que se produzca con una transfusión sanguínea masiva?",
+  "opts": [
+   "Hipocalcemia, hipocalemia y acidosis metabólica",
+   "Hipercalcemia, hipercalemia y alcalosis metabólica",
+   "Hipocalcemia, hipercalemia y alcalosis metabólica",
+   "Hiponatremia, hipercalemia y alcalosis metabólica",
+   "Hiponatremia, hipercalemia y acidosis metabólica"
+  ],
+  "ans": 2,
+  "why": "El citrato de la sangre transfundida liga calcio (hipocalcemia) y se convierte en bicarbonato (alcalosis metabólica). El potasio de la sangre almacenada sube (hipercalemia) por lisis de glóbulos rojos.",
+  "fuentes": [
+   "absite p.490 (respuesta 23, cap. 36)",
+   "Sabiston 21.ª ed., p. 112 del PDF (citrato y calcio ionizado)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "fc078654ff",
+  "estado": "confirmada",
+  "stem": "La causa más frecuente de muerte relacionada con la transfusión es:",
+  "opts": [
+   "Infección",
+   "Incompatibilidad ABO",
+   "Lesión pulmonar aguda",
+   "Reacción transfusional tardía",
+   "Reacción de injerto contra huésped"
+  ],
+  "ans": 2,
+  "why": "Las principales causas de muerte por transfusión, por número de casos, son la lesión pulmonar aguda (TRALI), las reacciones hemolíticas ABO y no ABO y la sepsis asociada a transfusión. La enfermedad injerto contra huésped no es frecuente.",
+  "fuentes": [
+   "absite p.491 (respuesta 26, cap. 36)"
+  ],
+  "tema": "shock",
+  "nota": "Opción E del banco venía cortada ('contra'); se completó con 'huésped' según la opción equivalente del libro (graft-versus-host)."
+ },
+ {
+  "k": "f0d34127e0",
+  "estado": "corregida",
+  "stem": "Una mujer de 35 años presenta una hemorragia posparto y requiere una transfusión de concentrados de glóbulos rojos y plaquetas. Doce horas después de la transfusión, la paciente presenta de repente escalofríos y rigidez. Su temperatura aumenta a 39 °C, su presión arterial baja de 110/70 a 70/40 mm Hg y su frecuencia cardíaca aumenta de 80 a 120 lpm. La producción de orina disminuye, aunque la orina es clara. A pesar de los intentos de reanimación, la paciente muere en 24 horas. La muerte probablemente se deba a:",
+  "opts": [
+   "Sepsis por grampositivos",
+   "Incompatibilidad ABO",
+   "Lesión pulmonar aguda",
+   "Anafilaxia",
+   "Sepsis por gramnegativos"
+  ],
+  "ans": 4,
+  "why": "Fiebre, escalofríos e hipotensión 12 horas después, con orina clara, apuntan a sepsis por sangre contaminada; la gramnegativa es la más letal. La incompatibilidad ABO daría orina roja (hemoglobinuria) y dolor lumbar; la lesión pulmonar aguda da disnea a las ~6 horas; la anafilaxia es rara.",
+  "fuentes": [
+   "absite p.491 (respuesta 27, cap. 36)"
+  ],
+  "tema": "shock",
+  "nota": "Clave original: B (resaltado). El libro de Virgilio da E (sepsis por gramnegativos)."
+ },
+ {
+  "k": "80f0010066",
+  "estado": "confirmada",
+  "stem": "Un hombre de 50 años se somete a una resección de un gran leiomiosarcoma retroperitoneal. Hay una pérdida de sangre estimada de 750 cc. Al día siguiente, se descubre que el paciente está anémico y se le administran 2 unidades de sangre. A la mitad de la primera unidad, el paciente presenta escalofríos y su temperatura aumenta de 37° a 39°C. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la condición de este paciente?",
+  "opts": [
+   "No es necesario detener la transfusión.",
+   "Esto ocurre con mayor frecuencia cuando se administran glóbulos rojos concentrados en lugar de plaquetas.",
+   "La filtración es más eficaz que el lavado de leucocitos para prevenir esta afección.",
+   "La aspirina es más eficaz que el paracetamol para tratar esta afección.",
+   "La administración de paracetamol y difenhidramina antes de la transfusión es la prevención más eficaz."
+  ],
+  "ans": 2,
+  "why": "Es una reacción febril no hemolítica. La filtración (leucorreducción) quita 99.9% de los leucocitos y es más eficaz que el lavado. Es más común con plaquetas que con glóbulos rojos; hay que al menos parar la transfusión un momento para evaluar; la premedicación no mostró beneficio en el único ensayo; la aspirina no se aconseja.",
+  "fuentes": [
+   "absite p.487 (respuesta 10, cap. 36)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "1f71c43d6c",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones son verdaderas sobre la hipocalcemia posterior a una transfusión masiva, EXCEPTO:",
+  "opts": [
+   "Usualmente no se corrige espontáneamente",
+   "Es más común en niños",
+   "Es más común en pacientes con enfermedad hepática",
+   "Se debe a toxicidad por citrato",
+   "Es más común en pacientes con hipotensión severa"
+  ],
+  "ans": null,
+  "why": "Las fuentes respaldan que se debe al citrato (D) y que es más grave con disfunción hepática (C); Sabiston la relaciona con hipotensión. Pero ninguna fuente leída dice si 'no se corrige espontáneamente' o 'es más común en niños' son falsas, así que no se puede decidir la excepción.",
+  "fuentes": [
+   "absite p.490 (respuesta 23, cap. 36)",
+   "Sabiston 21.ª ed., p. 112 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Clave original: A (resaltado). Plausible, pero sin respaldo directo en los libros de la carpeta."
+ },
+ {
+  "k": "1eee382ff5",
+  "estado": "corregida",
+  "stem": "La causa más común de muerte relacionada a transfusión es:",
+  "opts": [
+   "Infección",
+   "Incompatibilidad ABO",
+   "Lesión pulmonar aguda (TRALI)",
+   "Reacción transfusional tardía",
+   "Enfermedad injerto contra huésped"
+  ],
+  "ans": 2,
+  "why": "Por número de muertes, la primera causa es la lesión pulmonar aguda relacionada con transfusión (TRALI), seguida de las reacciones hemolíticas ABO y no ABO y la sepsis asociada a transfusión.",
+  "fuentes": [
+   "absite p.491 (respuesta 26, cap. 36)"
+  ],
+  "tema": "shock",
+  "nota": "Clave original: B (resaltado). El libro da C (TRALI). Enunciado reparado con la imagen original."
+ },
+ {
+  "k": "39f9b2a78e",
+  "estado": "confirmada",
+  "stem": "La causa más probable de muerte por enfermedad infecciosa relacionada a transfusión es:",
+  "opts": [
+   "Virus de inmunodeficiencia humana (VIH)",
+   "Hepatitis B",
+   "Hepatitis C",
+   "Citomegalovirus",
+   "Contaminación bacteriana de la sangre"
+  ],
+  "ans": 4,
+  "why": "La contaminación bacteriana es la causa más frecuente de muerte por enfermedad infecciosa transmitida por transfusión. El CMV es el agente más transmitido pero rara vez es amenaza.",
+  "fuentes": [
+   "absite p.491 (respuesta 27, cap. 36)"
+  ],
+  "tema": "shock"
+ },
+ {
+  "k": "1467548269",
+  "estado": "dudosa",
+  "stem": "Las indicaciones para transfusión de glóbulos rojos incluyen todas las siguientes, EXCEPTO:",
+  "opts": [
+   "Disponibilidad de sangre autóloga pre-donada",
+   "Hemoglobina < 10 g/dL, frecuencia cardíaca de 110 lpm, paciente con antecedente de infarto de miocardio",
+   "Hemoglobina < 8 g/dL en paciente con disnea y oliguria",
+   "Hemoglobina < 8 g/dL, presión diastólica de 55 mmHg, frecuencia cardíaca de 110 lpm",
+   "Hemoglobina < 10 g/dL en paciente con EPOC y confusión"
+  ],
+  "ans": null,
+  "why": "Sabiston indica un umbral de 7 g/dl, o 8 g/dl en enfermedad cardiovascular, y habla de considerar también la taquicardia o hipotensión. Bajo ese criterio actual, varias opciones (con Hb < 10) no encajan como indicación, y ninguna fuente leída trata la sangre autóloga pre-donada. No hay respaldo directo para decidir la excepción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 224 del PDF",
+   "Sabiston 21.ª ed., p. 565 del PDF"
+  ],
+  "tema": "shock",
+  "nota": "Clave original: A (resaltado). Parece una pregunta con umbrales antiguos (Hb < 10)."
+ },
+ {
+  "k": "1039acafb5",
+  "estado": "confirmada",
+  "stem": "Varón de 72 años post colectomía subtotal, 3 semanas de NPT, luego diarrea, pérdida de gusto, alopecia y erupción perioral. ¿Déficit más probable?",
+  "opts": [
+   "Vitamina C",
+   "Selenio",
+   "Zinc",
+   "Tiamina",
+   "Cromo"
+  ],
+  "ans": 2,
+  "why": "La deficiencia de zinc causa erupción perioral, diarrea, alopecia y pérdida del gusto, y aparece más con NPT prolongada. La vitamina C causa escorbuto; el selenio, miocardiopatía; la tiamina, beriberi/Wernicke.",
+  "fuentes": [
+   "absite p.497 (respuesta 6, cap. 37)",
+   "Sabiston 21.ª ed., p. 134 del PDF (tabla 5.8)"
+  ],
+  "tema": "nutricion",
+  "nota": "Respaldo en la pregunta equivalente de Virgilio (opciones distintas: cobre, vit. C, selenio, zinc); cromo y tiamina del banco no están ahí. En Sabiston la tabla es difícil de alinear por columnas."
+ },
+ {
+  "k": "6d85bee1a8",
+  "estado": "confirmada",
+  "stem": "Post resección de duodeno y yeyuno proximal, ¿qué nutriente se absorbe normalmente sin afectación clínica?",
+  "opts": [
+   "Hierro",
+   "Vitamina B12",
+   "Calcio",
+   "Magnesio",
+   "Ácido fólico"
+  ],
+  "ans": 1,
+  "why": "La vitamina B12 se absorbe sobre todo en el íleon terminal, que no se reseca. El hierro se absorbe en el duodeno y el calcio sobre todo en duodeno y yeyuno, justo lo resecado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1271 del PDF",
+   "Sabiston 21.ª ed., p. 1320 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Respaldo parcialmente indirecto: Sabiston no dice dónde se absorben el ácido fólico ni el magnesio en este tramo; el sitio de B12 sí es directo. Enunciado completado con la imagen original."
+ }
+]

@@ -1,0 +1,167 @@
+[
+ {
+  "k": "6527728fc6",
+  "stem": "Paciente en preoperatorio por hernia inguinal, queda hospitalizado la Cx. Según el protocolo ERAS, que se le debe indicar:",
+  "opts": [
+   "NPO desde la medianoche previa a la Cx",
+   "NPO después de la cena",
+   "Solo puede tomar líquidos hasta 2 horas antes de la Cx",
+   "Solo bebidas azucaradas hasta 2 horas antes de la Cx"
+  ],
+  "clave_original": null,
+  "tema": "eras",
+  "alto_valor": false
+ },
+ {
+  "k": "f839ae6bbd",
+  "stem": "Según el protocolo ERAS en cirugía abdominal electiva, ¿cuál es el momento recomendado para el retiro de hipoglucemiantes orales en pacientes diabéticos?",
+  "opts": [
+   "Continuar hasta el día de la cirugía.",
+   "Suspender la mañana de la intervención.",
+   "Suspender 48 horas antes.",
+   "No suspender nunca.",
+   "Solo si hay hipoglucemia preoperatoria."
+  ],
+  "clave_original": null,
+  "tema": "eras",
+  "alto_valor": false
+ },
+ {
+  "k": "b25d04170d",
+  "stem": "En la evaluación preoperatoria según el protocolo ERAS, respecto al manejo anticoagulantes, ¿cuál de las siguientes afirmaciones es la más adecuada?",
+  "opts": [
+   "Todos los anticoagulantes deben suspenderse 7 días antes de cualquier procedimiento quirúrgico, independientemente del riesgo trombótico.",
+   "La suspensión de anticoagulantes depende del tipo de fármaco, del riesgo hemorrágico de la cirugía y del riesgo trombótico del paciente.",
+   "Los anticoagulantes orales directos no requieren suspensión antes de la cirugía.",
+   "Siempre se debe realizar terapia puente con heparina de bajo peso molecular en todos los pacientes anticoagulados.",
+   "Los anticoagulantes deben continuar hasta el día de la cirugía en procedimientos de bajo riesgo sin evaluación adicional."
+  ],
+  "clave_original": null,
+  "tema": "eras",
+  "alto_valor": false
+ },
+ {
+  "k": "1489a878f0",
+  "stem": "Ho (3000 prese puso realiz mbre de 35 años de edad sufre voltios) por contacto directo co nta contractura en flexión de la radial y cubital a la palpación. ¿ ar?",
+  "opts": [
+   "Fasciotomía de la extremidad",
+   "Escarotomía descompresiva",
+   "Monitorización de presión intra",
+   "Escarectomía"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "28fb2dfdef",
+  "stem": "Paciente varón ha sufrido una miembro inferior derecho. T",
+  "opts": [
+   "36%",
+   "32%",
+   "31.5%",
+   "29.25%",
+   "NA"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "0b85041f49",
+  "stem": "quemadu endrá una ra en cabeza, superficie co cara anterior de rporal quemada brazo dere de: c cho y . Referente al soporte nutricional artificial, dada las siguientes premisas, no es orrecto:",
+  "opts": [
+   "En postoperatorio, se reiniciaré el soporte nutricional artificial inmediatamente sin importar la estabilidad hemodinámica del paciente",
+   "La NPT o NE se debe prolongar el tiempo suficiente para que el paciente esté capacitado para ingerir al menos el 75% de necesidades calóricas",
+   "El síndrome de realimentación puede conducir a alteraciones hidroelectrolíticas y metabólicas graves",
+   "Pacientes con malnutrición severa tienen indicado el uso de soporte nutricional antes de la cirugía, mínimo siete días"
+  ],
+  "clave_original": null,
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "35fd56f2e5",
+  "stem": "¿Cuál es el tipo de más común de falla orgánica en sepsis?:",
+  "opts": [
+   "Pulmonar",
+   "Hepático",
+   "Hematológico",
+   "Cardiovascular",
+   "Renal"
+  ],
+  "clave_original": null,
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "15a6bb5f35",
+  "stem": "Criterios SOFA:",
+  "opts": [
+   "PaO2/FiO2 mmHg, plaquetas",
+   "PaO2/FiO2 mmHg, INR, bilirr",
+   "PaO2/FiO2 mmHg, plaquetas,",
+   "SatO2, plaquetas, bilirrubinas",
+   "PaO2/FiO2 mmHg, plaquetas diuresis"
+  ],
+  "clave_original": null,
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "85268a7a16",
+  "stem": ", transaminasas, PAM, Glasgow, creatinina, di ubinas, PAM, Glasgow, creatinina, diuresis bilirrubinas, PAM, Glasgow, creatinina, diure , PAM, Glasgow, urea, diuresis , bilirrubinas, PS<100 mmHg, Glasgow, creatin Entre las medidas adicionales en pacient sepsis y shock séptico, se recomienda:",
+  "opts": [
+   "Uso de insulina en casos de glucosa > 180mg/dl",
+   "Profilaxis de las úlceras de estrés",
+   "Profilaxis de tromboembolismo venoso heparina de bajo peso molecular",
+   "NA",
+   "Todas"
+  ],
+  "clave_original": null,
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "622959ccc2",
+  "stem": "¿Cuál de estas medidas NO estaría indicada en el tratamiento de urgencia en un paciente de 80 kg que presenta una quemadura por llama de segundo grado profundo con el 50% de superficie corporal quemada?:",
+  "opts": [
+   "Dieta absoluta.",
+   "Administración de ringer lactato según la fórmula de Parkland.",
+   "Administración profiláctica de antibióticos vía intravenosa.",
+   "Administración de heparina para profilaxis antitrombótica",
+   "Todas"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "2b02c3c0eb",
+  "stem": "Mujer de 35 años, sufre quemadura por vapor de agua en ambas nalgas, genitales y cara posterior de miembro inferior derecho. El diagnóstico es:",
+  "opts": [
+   "Gran quemado, SCQ: 15%",
+   "Gran quemado, SCQ: 23%",
+   "SCQ: 15%",
+   "SCQ: 12%",
+   "SCQ: 25%"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "841cbd0252",
+  "stem": "Respecto al caso anterior, fluidoterapia indicada, según",
+  "opts": [
+   "5980 ml",
+   "2860 ml",
+   "3900 ml",
+   "3120 ml",
+   "N.A."
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ }
+]

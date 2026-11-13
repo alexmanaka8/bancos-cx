@@ -1,0 +1,196 @@
+[
+ {
+  "k": "667a382c06",
+  "stem": "Un hombre de 47 años con enfermedad hepática crónica es admitido por hemorragia digestiva alta. Luego de transfusiones, presenta confusión, temblor fino y asterixis. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Lactulosa",
+   "Rifaximina",
+   "Gluconato de calcio",
+   "Furosemida",
+   "Cloruro de sodio hipertónico"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "09128ce8d8",
+  "stem": "En un paciente con acidosis metabólica no compensada, ¿cuál valor se mantiene inicialmente normal?",
+  "opts": [
+   "pH",
+   "Bicarbonato",
+   "Presión parcial de dióxido de carbono (PaCO₂)",
+   "Presión parcial de oxígeno (PaO₂)",
+   "N.A."
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "6339016c08",
+  "stem": "¿Qué electrolito se afecta más en esteatorrea?",
+  "opts": [
+   "Sodio",
+   "Potasio",
+   "Magnesio",
+   "Calcio",
+   "N.A"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "629b650562",
+  "stem": "¿Cuál de las siguientes NO es causa de hipercloremia?",
+  "opts": [
+   "Deshidratación",
+   "Inadecuada ingesta dietética",
+   "Falla cardíaca congestiva",
+   "Alcalosis metabólica",
+   "N.A"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "6c939dd637",
+  "stem": "¿En cuál condición el potasio NO se mueve al interior celular?",
+  "opts": [
+   "Síndrome de realimentación",
+   "Ayuno",
+   "Falla renal",
+   "Terapia de insulina",
+   "N.A"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "42ade1cca6",
+  "stem": "Obstrucción intestinal proximal: ¿cuál es el trastorno ácido-base más común?",
+  "opts": [
+   "Hiponatremia y alcalosis",
+   "Hipopotasemia y alcalosis metabólica",
+   "Hipocalcemia y acidosis",
+   "Hipernatremia y alcalosis respiratoria",
+   "Hipopotasemia y acidosis metabólica"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "1c404747c4",
+  "stem": "¿Qué factor influye más en el porcentaje volumen de reanimación a través de un venoso?",
+  "opts": [
+   "Flujo laminar",
+   "Gradiente de presión",
+   "Longitud",
+   "Radio",
+   "Viscosidad"
+  ],
+  "clave_original": "D",
+  "tema": "shock"
+ },
+ {
+  "k": "b5a5239813",
+  "stem": "¿Cuál representa la más temprana manifestación clínica de hipermagnesem",
+  "opts": [
+   "Estupor",
+   "Parálisis facial",
+   "Paro respiratorio",
+   "Hipotensión",
+   "Pérdida de reflejos osteotendinosos"
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "ebe2205455",
+  "stem": "Un paciente postoperatorio tiene una concentración de sodio sérico de 128 mEq/ glucosa de 600 mg/dL. ¿Cuál sería el valor sodio corregido si los niveles de glucosa fu normales?",
+  "opts": [
+   "136 mEq/L",
+   "142 mEq/L",
+   "147 mEq/L",
+   "120 mEq/L",
+   "122 mEq/L"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "dfab60a1e1",
+  "stem": "En un EKG de un paciente con hipokalemi severa (potasio sérico de 2.5 mmol/L), se encontrarán los siguientes hallazgos excep",
+  "opts": [
+   "Taquicardia auricular con o sin bloqueo",
+   "Depresión de la onda T",
+   "Depresión de la onda U",
+   "Ondas T mayores que las ondas R"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "8b6a4b577e",
+  "stem": "Una mujer de 30 años tiene hiponatremia sintomática con un nivel de sodio sérico de 120 mEq/L. ¿Cuál es su déficit estimado de sodio?",
+  "opts": [
+   "700 mEq",
+   "400 mEq",
+   "800 mEq",
+   "500 mEq",
+   "600 mEq"
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "7252cae367",
+  "stem": "¿Cuál de las siguientes NO es función potasio?",
+  "opts": [
+   "Ayuda en la coagulación sanguínea",
+   "Principal contribuyente a la osmolari intracelular",
+   "N.A",
+   "Mantener el potencial de membrana en repo",
+   "Contribuir al balance ácido-base"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "56d0e8f487",
+  "stem": "La respuesta del cuerpo a la hipotermia incl todo lo siguiente EXCEPTO:",
+  "opts": [
+   "Disminución de la función plaquetaria",
+   "Disminución del gasto cardíaco",
+   "Taquicardia",
+   "Arritmias cardíacas",
+   "Mayor riesgo de infección de la herida"
+  ],
+  "clave_original": "C",
+  "tema": "eras"
+ },
+ {
+  "k": "2af0721546",
+  "stem": "Todas las siguientes afirmaciones sobre hipertermia maligna son verdade EXCEPTO:",
+  "opts": [
+   "Es un trastorno autosómico dominante.",
+   "Los niveles de creatincinasa están elevados.",
+   "Es más común en pacientes ancianos.",
+   "Puede presentarse hasta 24 horas después la anestesia.",
+   "El tratamiento es con dantroleno."
+  ],
+  "clave_original": "C",
+  "tema": "eras"
+ },
+ {
+  "k": "9e7da4a43b",
+  "stem": "Un médico está atendiendo un paciente qu tiene quemaduras del 18%desuSCT. ¿ espera cuál de los siguientes valores laboratorio elevados?",
+  "opts": [
+   "Potasio",
+   "Cloro",
+   "Calcio",
+   "Sodio",
+   "N.A"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ }
+]

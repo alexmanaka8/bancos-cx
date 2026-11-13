@@ -1,0 +1,226 @@
+[
+ {
+  "k": "4701838811",
+  "stem": "Todo lo siguiente es verdadero sobre la disfunción hepática en lactantes con nutrición parenteral total (NPT) a largo plazo EXCEPTO:",
+  "opts": [
+   "Es más probable que revierta al suspender la NPT comparado con adultos",
+   "Se asocia con colestasis",
+   "Se agrava con infección",
+   "Puede requerir trasplante hepático e intestinal combinado",
+   "Puede mejorar con suplementación con carnitina"
+  ],
+  "clave_original": "A",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "649ee729f5",
+  "stem": "Se ha demostrado que la administración de cuál de los siguientes aminoácidos mejora la eficiencia de absorción intestinal después de una resección masiva de intestino delgado:",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Arginina"
+  ],
+  "clave_original": "A",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "3097a18ff7",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el uso de la NPT preoperatoria para prevenir complicaciones postoperatorias es verdadera?",
+  "opts": [
+   "Es útil incluso si se administra solo por 3 días",
+   "Solo es eficaz si el paciente ha perdido más del 15% de su peso corporal antes de la cirugía",
+   "No hay evidencia de que reduzca la tasa de complicaciones",
+   "La sobrealimentación leve por 7 días con hiperglucemia moderada reduce el riesgo de sepsis",
+   "Es eficaz incluso en casos de desnutrición leve a moderada"
+  ],
+  "clave_original": "B",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "6c19cfb8a7",
+  "stem": "¿Cuál afirmación del paciente hipertenso de 45 años indica que la educación nutricional ha sido exitosa?",
+  "opts": [
+   "La ingesta de sodio recomendado para un adulto saludable es 2g pero debería apuntar a 1g por mi presión arterial",
+   "Sodio solo afecta mi salud si yo adiciono mucha sal a mi comida",
+   "Vegetales frescos y congelados tienen la misma cantidad de sodio para servir como vegetales enlatados",
+   "La mayoría de personas consume la mínima cantidad de sodio recomendada por día",
+   "N.A"
+  ],
+  "clave_original": "A",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "19d5bf32e3",
+  "stem": "paciente varón de 58 años, se diagnostica perforación duodenal post CPRE, realizalaparotomía exploratoria y rafia primaria de perforación duodenal, en 5to postoperatorio, sedetecta secreción intestinal por dren penrose. que tipo de soporte nutricional artificial indicaría?",
+  "opts": [
+   "NE por SNG",
+   "NE por SNG",
+   "NPT",
+   "SNA mixto",
+   "NPO por 3 dias"
+  ],
+  "clave_original": "C",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "e460564d30",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los requerimientos calóricos y/o proteicos diarios?",
+  "opts": [
+   "Los recién nacidos prematuros pueden",
+   "Un adulto de 60 kg necesita aproximadamente 90 g/día de proteína.",
+   "Un cociente respiratorio mayor de 1.0 sugiere sobrealimentación.",
+   "Las víctimas de quemaduras generalmente requieren menos proteína que otras víctimas de trauma.",
+   "Un cociente respiratorio (RQ) de 0.8 sugiere inanición."
+  ],
+  "clave_original": "C",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "faf3469b7a",
+  "stem": "Un hombre de 23 años fue hospitalizado hace 7 días por trauma multisistémico que incluye múltiples fracturas de huesos largos, hematoma subdural y contusiones pulmonares, y aún está con ventilación mecánica. ¿Cuál de las siguientes afirmaciones es verdadera respecto a las herramientas para evaluar el estado nutricional?",
+  "opts": [
+   "El uso de mediciones seriadas de albúmina y prealbúmina es el “estándar de oro” para pacientes traumatizados.",
+   "La medición del balance de nitrógeno es",
+   "La Mini Evaluación Nutricional está diseñada específicamente para pacientes hospitalizados.",
+   "El índice de creatinina-altura puede",
+   "De todas las mediciones de proteínas séricas, la transferrina parece correlacionarse más con el balance de nitrógeno."
+  ],
+  "clave_original": "D",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "7508d7ff88",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al riesgo de hipoglucemia tras la suspensión de la nutrición parenteral total (NPT)?",
+  "opts": [
+   "Ocurre comúnmente en pacientes con",
+   "La NPT debe disminuirse progresivamente en la mayoría de los pacientes para evitar esta complicación.",
+   "Esta complicación es relativamente común.",
+   "Es más probable que ocurra en un paciente diabético.",
+   "Es más probable que ocurra en pacientes con enfermedad renal."
+  ],
+  "clave_original": "D",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "b7d473a048",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre el tratamiento farmacológico de la caquexia por cáncer?",
+  "opts": [
+   "No hay evidencia de que los miméticos de grelina sean beneficiosos.",
+   "Los cannabinoides son superiores al acetato de megestrol para estimular el apetito y el aumento de peso.",
+   "Cuando se inicia temprano, se ha demostrado que el acetato de megestrol mejora la supervivencia.",
+   "El megestrol es un derivado de la",
+   "Se ha demostrado que los esteroides"
+  ],
+  "clave_original": "D",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "ed938a1cf4",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la homeostasis energética durante períodos de ayuno o inanición?",
+  "opts": [
+   "La mayor fuente de energía después de que se agotan las reservas de glucógeno son los ácidos grasos libres.",
+   "El músculo esquelético tiene la mayor reserva de glucógeno disponible a nivel sistémico.",
+   "La glucosa se convierte en lactato en el",
+   "Los glóbulos rojos dependen del metabolismo aeróbico de la glucosa.",
+   "El cerebro es incapaz de utilizar cuerpos"
+  ],
+  "clave_original": "A",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "1b9e05fb7b",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la homeostasis de líquidos durante e inmediatamente después de una laparotomía de 4 horas?",
+  "opts": [
+   "La mayoría de la reposición oral de líquidos postoperatoria será absorbida principalmente en el colon.",
+   "Las causas abdominales laparoscópicas y",
+   "La administración de albúmina al 5% atrae los líquidos del tercer espacio hacia el espacio intravascular.",
+   "El déficit de líquidos insensibles puede ser de hasta 4 L.",
+   "Aproximadamente el 50% de un bolo de"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "de4b1d4a19",
+  "stem": "Una posible complicación de las transfusiones masivas de glóbulos rojos es:",
+  "opts": [
+   "Acidosis metabólica por el conservante citrato",
+   "Hipocalcemia por el conservante citrato",
+   "Hipocalemia debido al almacenamiento",
+   "Aumento del 2,3-difosfoglicerato (DPG)",
+   "Desplazamiento de la curva de disociación de la oxihemoglobina hacia la derecha"
+  ],
+  "clave_original": "B",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "22930c9f33",
+  "stem": "¿Cuál de los siguientes aminoácidos puede ser sintetizado de novo en humanos en cualquier estado fisiológico?",
+  "opts": [
+   "Triptófano",
+   "Tirosina",
+   "Glicina",
+   "Serina",
+   "Cualquier aminoácido de cadena ramificada"
+  ],
+  "clave_original": "D",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "a1258e4916",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al uso preoperatorio de la NPT para prevenir complicaciones postoperatorias?",
+  "opts": [
+   "Es útil incluso si se utiliza solo por 3 días.",
+   "Es eficaz si el paciente ha perdido más del 15% de su peso antes de la cirugía.",
+   "No hay evidencia de que reduzca la tasa de complicaciones.",
+   "Una sobrealimentación leve durante 7 días es preferible como medio para maximizar el reemplazo del déficit calórico.",
+   "La NPT es eficaz incluso en malnutrición leve a moderada."
+  ],
+  "clave_original": "B",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "e7e6da2948",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a las deficiencias nutricionales tras una gastrectomía parcial con reconstrucción Billroth II (gastro-yeyunostomía)?",
+  "opts": [
+   "La absorción de calcio se verá mínimamente afectada porque ocurre principalmente en el íleon.",
+   "La anemia por deficiencia de hierro es más común con Billroth I (gastroduodenostomía) que con Billroth II.",
+   "La deficiencia de vitamina B12 se presentará con un volumen corpuscular medio bajo.",
+   "El estómago no tiene capacidad absortiva intrínseca.",
+   "La absorción de carbohidratos no se ve"
+  ],
+  "clave_original": "E",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "6e622d7da6",
+  "stem": "El aminoácido más importante utilizado para la gluconeogénesis hepática es:",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Asparagina"
+  ],
+  "clave_original": "C",
+  "tema": "nutricion",
+  "alto_valor": false
+ }
+]

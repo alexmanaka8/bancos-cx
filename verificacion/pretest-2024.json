@@ -676,5 +676,23 @@
   ],
   "nota": "Clave original: A, 1440 ml (resaltado). Solo sale 1440 ml si se supone 20 gotas por ml (macrogoteo), y esa suposición no está en el enunciado.",
   "tema": "liquidos"
+ },
+ "eda4bce9bf": {
+  "k": "eda4bce9bf",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "Según el tipo de intervención quirúrgica, se considera de riesgo alto (>5%). [European Society of Cardiology - European Society of Anesthesiology]",
+  "opts": [
+   "Cirugía duodenopancreática",
+   "Esplenectomía",
+   "Cirugía de mama",
+   "Colecistectomía"
+  ],
+  "ans": 0,
+  "why": "En la tabla de riesgo quirúrgico de la ESC/ESA, la cirugía duodenopancreática está en riesgo alto (>5% de muerte cardiovascular o infarto a 30 días). La esplenectomía y la colecistectomía están en riesgo intermedio (1-5%) y la cirugía de mama en riesgo bajo (<1%).",
+  "fuentes": [
+   "Tabla 1 (riesgo quirúrgico ESC/ESA) reproducida en Europe PMC, PMC10925572 (PMID 38462583)"
+  ],
+  "nota": "Clave original: A (resaltado); coincide con la fuente. Texto reparado con la imagen: faltaba parte de la frase en la conversión."
  }
 }

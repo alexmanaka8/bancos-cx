@@ -1,0 +1,78 @@
+[
+ {
+  "k": "2083d71b1d",
+  "estado": "confirmada",
+  "tema": "eras",
+  "stem": "Un hombre de 74 años acude a consulta porque desea que se repare su hernia umbilical reducible, que le produce dolor y molestias cada vez más frecuentes, aunque intermitentes. Dos días antes fue dado de alta del hospital tras ser tratado por angina inestable mediante angioplastia con balón e implantación de un stent coronario metálico convencional (BMS). ¿Cuándo debe programarse la cirugía de la hernia?",
+  "opts": [
+   "En 2 semanas.",
+   "En 1 mes.",
+   "En 2 meses.",
+   "En 6 meses.",
+   "En 1 año."
+  ],
+  "ans": 1,
+  "why": "Sabiston recomienda diferir la cirugía no cardíaca un mínimo de 14 días tras angioplastia con balón y 30 días tras implantar una endoprótesis de metal desnudo (BMS). Este paciente tiene BMS, por lo que la cirugía electiva se programa al mes. Los 6 meses corresponden a las endoprótesis liberadoras de fármaco, no a las de metal desnudo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 352 del PDF (tiempo de espera tras angioplastia, BMS y DES)"
+  ]
+ },
+ {
+  "k": "8432c4c9c4",
+  "estado": "nueva",
+  "tema": "liquidos",
+  "stem": "Un hombre de 55 años presenta dolor epigástrico, náuseas y vómitos desde hace 12 horas. Tiene sensibilidad abdominal difusa leve. Los análisis muestran amilasa sérica de 800 U/L, glucosa de 130 mg/dL, cloro de 104 mEq/L, leucocitos de 12 000/µL, sodio de 125 mEq/L y triglicéridos de 1800 mg/dL. ¿Cuál es la explicación más probable de la hiponatremia?",
+  "opts": [
+   "Pérdida excesiva de líquidos.",
+   "Respuesta inadecuada de la hormona antidiurética.",
+   "Reposición excesiva de agua libre.",
+   "Pseudohiponatremia.",
+   "Insuficiencia suprarrenal."
+  ],
+  "ans": 3,
+  "why": "La hipertrigliceridemia grave da un sodio falsamente bajo: los lípidos desplazan el agua del suero y el aparato mide mal. Esto es pseudohiponatremia, y el peligro es corregirla con suero hipertónico. La pérdida de volumen por vómito causaría hiponatremia hipovolémica con cloro bajo, pero aquí el cloro es normal (104) y los triglicéridos están muy altos (1800).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 86 del PDF (explicación de pseudohiponatremia por hipertrigliceridemia)",
+   "de Virgilio ABSITE 3.ª ed., p. 408 del PDF"
+  ],
+  "nota": "La clave original venía vacía."
+ },
+ {
+  "k": "bd3881a6c4",
+  "estado": "nueva",
+  "tema": "nutricion",
+  "stem": "Un hombre de 39 años acude para conversar sobre su tratamiento antes de iniciar quimiorradioterapia neoadyuvante por cáncer de esófago. Su albúmina es de 2,4 g/dL. ¿Cuál de las siguientes afirmaciones sobre la optimización nutricional de este paciente es verdadera?",
+  "opts": [
+   "Debe comenzar nutrición parenteral.",
+   "No debe ofrecerse una gastrostomía percutánea.",
+   "Se ha demostrado consistentemente que la colocación de un stent esofágico mejora el estado nutricional.",
+   "Se ha demostrado que la colocación de una sonda nasogástrica mejora el estado nutricional.",
+   "La migración del stent y el dolor torácico son complicaciones poco frecuentes en pacientes con stents esofágicos."
+  ],
+  "ans": 1,
+  "why": "La gastrostomía percutánea debe desaconsejarse porque puede comprometer el estómago que se usará para reconstruir el esófago y retrasa la quimioterapia 2 a 4 semanas. La nutrición parenteral tiene un papel limitado por costo y complicaciones; el stent mejora la disfagia pero con resultados inconsistentes en el estado nutricional; la sonda nasogástrica puede migrar y causar aspiración; y la migración del stent y el dolor torácico son frecuentes.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 114 del PDF (respuesta a la pregunta 20)"
+  ],
+  "nota": "La clave original venía vacía."
+ },
+ {
+  "k": "31ba20adf8",
+  "estado": "nueva",
+  "tema": "colon",
+  "stem": "Una mujer de 45 años con pancolitis ulcerosa desde hace 15 años se somete a colonoscopia de vigilancia. No se detectan pólipos, pero las biopsias aleatorias muestran displasia de alto grado en el colon sigmoide. ¿Cuál es el tratamiento recomendado?",
+  "opts": [
+   "Repetir la colonoscopia en seis meses con más biopsias aleatorias.",
+   "Sigmoidectomía.",
+   "Colectomía total con anastomosis ileorrectal.",
+   "Proctocolectomía total con ileostomía.",
+   "Proctocolectomía restauradora con anastomosis de reservorio ileal al ano."
+  ],
+  "ans": 4,
+  "why": "Hallar displasia, incluso de alto grado, en colitis ulcerosa es indicación de cirugía, y repetir la colonoscopia no es apropiado. La operación curativa es la proctocolectomía restauradora con anastomosis del reservorio ileal al ano. Las otras operaciones no tratan toda la mucosa en riesgo (sigmoidectomía, ileorrectal) o no restauran el tránsito.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 162 del PDF (respuesta a la pregunta 6)"
+  ],
+  "nota": "La clave original venía vacía. El tema del lote decía 'shock' y se cambió a 'colon'."
+ }
+]

@@ -1,0 +1,197 @@
+[
+ {
+  "k": "7d9b2ff81c",
+  "stem": "Una medico esta atendiendo un paciente en diálisis clínica. El medico entiendeque, en la nefrona, la mayoría de los electrolitos son reabsorbidos en:",
+  "opts": [
+   "Tubulo proximal",
+   "Glomérulo",
+   "Asa de Henle",
+   "Túbulo distal",
+   "N.A"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "55c6effd3a",
+  "stem": "¿Cuál de los siguientes desordenes causan hiponatremia isovolemica?",
+  "opts": [
+   "Hipertiroidismo",
+   "SIADH",
+   "Falla cardiaca",
+   "Demencia",
+   "N.A"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "0e2c685b29",
+  "stem": "Qué examen de laboratorio adicional debe ser visto en un paciente que se sospecha de hipomagnesemia?",
+  "opts": [
+   "plaquetas",
+   "albúmina",
+   "hemoglobina/ hto",
+   "urocultivo y antibiograma",
+   "N.A"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5fd8a608f0",
+  "stem": "Una niña de 15 años desarrolla síndrome de intestino corto tras resección intestinal por leiomiosarcoma en la pared del intestino delgado. Posteriormente se le administra nutrición parenteral total (NPT) a largo plazo y se recupera bien. Un mes después, desarrolla parches rojos e inflamados de piel seca y escamosa alrededor de la boca y los ojos. Su cabello también empieza a afinarse, y nota un sabor desagradable al usar su spray de cloraseptic sabor cereza. ¿Cuál es la etiología más probable de sus lesiones cutáneas y caída de cabello?",
+  "opts": [
+   "Deficiencia de zinc",
+   "Deficiencia de cobre",
+   "Penfigo vulgar",
+   "Deficiencia de cromo",
+   "Psoriasis"
+  ],
+  "clave_original": "A",
+  "tema": "nutricion"
+ },
+ {
+  "k": "66c0b41dfb",
+  "stem": "Un hombre de 65 años con hemorragia intracraneal masiva tras la ruptura de un aneurisma en baya se encuentra actualmente en la unidad de cuidados intensivos neuroquirúrgicos (UCI). Hace dos días se sometió a una embolización intravascular de la lesión. Debido al aumento de la diuresis en las últimas 24 horas, se midió el sodio urinario y se encontró en 35 mEq/L. Los exámenes actuales incluyen sodio sérico de 128 mEq/L y hemoglobina de 18 g/dL. La presión venosa central es de 2 mm Hg. ¿Cuál de los siguientes es el tratamiento inicial más apropiado?",
+  "opts": [
+   "Solución salina normal",
+   "Restricción de agua libre",
+   "Desmopresina",
+   "Demeclociclina",
+   "Tolvaptán"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "000102b051",
+  "stem": "Un hombre de 75 años se encuentra en la UCI por sepsis 5 días después de una colectomía por diverticulitis perforada. Mientras la enfermera toma su presión arterial, su mano presenta un espasmo. ¿Cuál de las siguientes es la etiología más probable?",
+  "opts": [
+   "Hipercalcemia",
+   "Hipermagnesemia",
+   "Hipomagnesemia",
+   "Hiponatremia",
+   "Hipercalemia"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "c37f8c7471",
+  "stem": "El método más eficaz para la prevención de nefropatía inducida por contraste (CIN) en una tomografía computarizada con contraste intravenoso es:",
+  "opts": [
+   "N-acetilcisteína intravenosa",
+   "Bolo de solución salina normal inmediatamente antes del estudio seguido de 6 horas de bicarbonato de sodio y solución salina normal",
+   "12 horas de solución salina intravenosa antes y después del estudio",
+   "Fluidos intravenosos con bicarbonato de sodio 2 horas antes del estudio y 12 horas después, además de N-acetilcisteína",
+   "6 horas de solución salina hipotónica antes y después del estudio"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "24625f23de",
+  "stem": "¿Cuál de las siguientes causas de acidosis en la unidad de cuidados intensivos se trata mejor con administración de bicarbonato de sodio?",
+  "opts": [
+   "Acidosis láctica",
+   "Cetoacidosis diabética",
+   "Acidosis respiratoria por síndrome de dificultad respiratoria aguda (SDRA)",
+   "Paro cardíaco",
+   "Acidosis tubular renal (ATR)"
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "f07762eb02",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la deshidratación y/o hipovolemia en niños?",
+  "opts": [
+   "Los niños solo necesitan perder el 5% del agua corporal total para producir síntomas significativos de hipovolemia.",
+   "Hipovolemia se refiere a una reducción del agua libre.",
+   "La deshidratación provocará principalmente pérdidas de líquido extracelular.",
+   "La hipovolemia hipernatrémica profunda debe corregirse inicialmente con líquidos hipotónicos.",
+   "La reposición oral de líquidos es adecuada en la mayoría de niños con pérdidas insensibles."
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "16e63cc0e4",
+  "stem": "¿Cuál de las siguientes se considera un cambio fisiológico normal en el embarazo?",
+  "opts": [
+   "Disminución del pH sanguíneo",
+   "Disminución de la ventilación por minuto",
+   "Aumento de la capacidad vital",
+   "Desplazamiento hacia la derecha de la curva de disociación de la oxihemoglobina",
+   "Leucopenia relativa"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "af9395f46c",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al mantenimiento del sodio y agua en pacientes geriátricos?",
+  "opts": [
+   "Existe un aumento en la proporción de agua intracelular a extracelular.",
+   "Una respuesta sedienta hiperactiva predispone a los pacientes geriátricos a hiponatremia.",
+   "Los niveles elevados de hormona antidiurética predisponen a la retención de sodio.",
+   "Los niveles de péptido natriurético auricular aumentan con la edad.",
+   "Existe un aumento relativo en la actividad del sistema renina-angiotensina-aldosterona."
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "34bed9a56e",
+  "stem": "Un paciente anciano se presenta al departamento de emergencias (ED) con aumento de la sed y diuresis. ¿Cuál de los siguientes hallazgos sería más útil para sugerir diabetes insípida (DI) como etiología probable en este paciente?",
+  "opts": [
+   "Hipernatremia",
+   "Hiperglucemia",
+   "Hiponatremia",
+   "Osmolalidad urinaria baja",
+   "Relación elevada entre osmolalidad sérica y urinaria"
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "3adaaf60f6",
+  "stem": "Un hombre alcohólico de 58 años se presenta al departamento de emergencias quejándose de aumento del perímetro abdominal en las últimas semanas. Hace un año se le realizó una ecografía diagnóstica que mostró evidencia de cirrosis. El examen físico revela edema con fóvea en las extremidades inferiores y una onda ascítica positiva en el abdomen. Además de la abstinencia alcohólica, ¿cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Restricción de agua libre",
+   "Derivación portosistémica intrahepática",
+   "Furosemida intravenosa con transición a vía oral una vez resuelta la ascitis",
+   "Restricción estricta de sodio (<1 g por día)",
+   "Combinación de furosemida y espironolactona por vía oral"
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "fa4b839925",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la solución de Ringer lactato cuando se usa como fluido intravenoso?",
+  "opts": [
+   "Es igualmente adecuada como fluido de mantenimiento o de resucitación.",
+   "Es útil en la acidosis debido al contenido de",
+   "Es una solución acuosa compuesta",
+   "El pH de la solución es 7.5.",
+   "El contenido de sodio es equivalente al del suero normal."
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "e4b10fc1b7",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la osmolaridad y osmolalidad séricas?",
+  "opts": [
+   "Las proteínas grandes, como la albúmina, son los contribuyentes más importantes a la osmolalidad sérica.",
+   "La presencia de una brecha osmolar indica la presencia de una molécula extraña que se distribuye fácilmente a través de las membranas celulares.",
+   "La diferencia entre osmolaridad y osmolalidad séricas es altamente variable dependiendo del estado fisiológico.",
+   "El sodio se multiplica por dos en el cálculo de la osmolaridad sérica debido a su mayor actividad osmótica.",
+   "El número de moléculas, y no el tamaño, es el contribuyente más importante a la osmolaridad sérica."
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ }
+]

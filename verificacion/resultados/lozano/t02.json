@@ -1,0 +1,308 @@
+[
+ {
+  "k": "4701838811",
+  "estado": "confirmada",
+  "stem": "Todo lo siguiente es verdadero sobre la disfunción hepática en lactantes con nutrición parenteral total (NPT) a largo plazo EXCEPTO:",
+  "opts": [
+   "Es más probable que revierta al suspender la NPT comparado con adultos",
+   "Se asocia con colestasis",
+   "Se agrava con infección",
+   "Puede requerir trasplante hepático e intestinal combinado",
+   "Puede mejorar con suplementación con carnitina"
+  ],
+  "ans": 0,
+  "why": "La falsa es A: en lactantes la disfunción hepática por NPT es más seria y letal que en adultos, y puede persistir y llegar a cirrosis aunque se suspenda la NPT. Las otras son verdaderas: hay colestasis, la sepsis recurrente es factor predisponente, la solución final puede ser trasplante combinado de hígado e intestino, y la esteatosis puede mejorar con carnitina.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 441 y 444 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original A, respaldada por el libro. Es pregunta traducida del absite (opción C del libro, que habla de lactantes vs adultos). Solo respaldo en absite."
+ },
+ {
+  "k": "649ee729f5",
+  "estado": "confirmada",
+  "stem": "Se ha demostrado que la administración de cuál de los siguientes aminoácidos mejora la eficiencia de absorción intestinal después de una resección masiva de intestino delgado:",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Arginina"
+  ],
+  "ans": 0,
+  "why": "En pacientes con síndrome de intestino corto tras resección, la glutamina (junto con hormona de crecimiento y dieta modificada) mejoró la absorción en estudios aleatorizados pequeños. Los otros aminoácidos no han demostrado mejorar la eficiencia de absorción.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 444 del PDF (pregunta 15, p. 441)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original A. Efecto modesto, estudios con pocos pacientes, según el libro."
+ },
+ {
+  "k": "3097a18ff7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el uso de la NPT preoperatoria para prevenir complicaciones postoperatorias es verdadera?",
+  "opts": [
+   "Es útil incluso si se administra solo por 3 días",
+   "Solo es eficaz si el paciente ha perdido más del 15% de su peso corporal antes de la cirugía",
+   "No hay evidencia de que reduzca la tasa de complicaciones",
+   "La sobrealimentación leve por 7 días con hiperglucemia moderada reduce el riesgo de sepsis",
+   "Es eficaz incluso en casos de desnutrición leve a moderada"
+  ],
+  "ans": 1,
+  "why": "En el estudio multicéntrico de Veteranos, solo los pacientes desnutridos graves (pérdida de más de 15% del peso) tuvieron menos complicaciones sépticas con apoyo preoperatorio de 7 a 10 días. En desnutrición leve a moderada el beneficio se anula por más infecciones del catéter, y la hiperglucemia por NPT empeora los resultados.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 442 del PDF (pregunta 5, p. 439)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original B. Es adaptación del absite; el banco cambió la opción D (en el libro es 'sobrealimentar 7 días'), también falsa."
+ },
+ {
+  "k": "6c19cfb8a7",
+  "estado": "dudosa",
+  "stem": "¿Cuál afirmación del paciente hipertenso de 45 años indica que la educación nutricional ha sido exitosa?",
+  "opts": [
+   "La ingesta de sodio recomendado para un adulto saludable es 2g pero debería apuntar a 1g por mi presión arterial",
+   "Sodio solo afecta mi salud si yo adiciono mucha sal a mi comida",
+   "Vegetales frescos y congelados tienen la misma cantidad de sodio para servir como vegetales enlatados",
+   "La mayoría de personas consume la mínima cantidad de sodio recomendada por día",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "No se encontró en los libros de la carpeta ninguna fuente sobre educación nutricional en hipertensión. El Sabiston solo menciona restringir a 2 g de sodio al día en la ascitis cirrótica, que no es este caso. Sin una fuente directa sobre la meta de 1 g en hipertensos, no se puede confirmar la opción A.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1115 del PDF (solo restricción de sodio en ascitis)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original A (resaltada). No verificable con los libros; queda dudosa."
+ },
+ {
+  "k": "19d5bf32e3",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 58 años con perforación duodenal post CPRE; se realiza laparotomía exploratoria y rafia primaria de la perforación duodenal. En el 5.º día postoperatorio se detecta secreción intestinal por dren Penrose. ¿Qué tipo de soporte nutricional artificial indicaría?",
+  "opts": [
+   "NE por SNG",
+   "NE por SNG",
+   "NPT",
+   "SNA mixto",
+   "NPO por 3 dias"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que en fístulas enterocutáneas se optimiza la nutrición con NPT y alimentación enteral según tolerancia; la NPT es muy valiosa en las de alto gasto, pero si el paciente cubre sus calorías sin NPT (sin alto gasto) se prefiere la enteral. El enunciado no da el volumen del drenaje, y además las opciones A y B están repetidas y 'SNA mixto' no se entiende. Sin el gasto de la fístula no se puede decidir con la fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1316 del PDF",
+   "Sabiston 21.ª ed., p. 297 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original C (NPT), plausible pero sin el gasto del drenaje no es confirmable; opciones A y B idénticas en el original."
+ },
+ {
+  "k": "e460564d30",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los requerimientos calóricos y/o proteicos diarios?",
+  "opts": [
+   "Los recién nacidos prematuros pueden necesitar hasta 2 g/kg por día de proteína.",
+   "Un adulto de 60 kg necesita aproximadamente 90 g/día de proteína.",
+   "Un cociente respiratorio mayor de 1.0 sugiere sobrealimentación.",
+   "Las víctimas de quemaduras generalmente requieren menos proteína que otras víctimas de trauma.",
+   "Un cociente respiratorio (RQ) de 0.8 sugiere inanición."
+  ],
+  "ans": 2,
+  "why": "Un RQ mayor de 1 indica lipogénesis, es decir sobrealimentación. Los prematuros pueden necesitar 3 a 4 g/kg/día de proteína (no 2). El adulto necesita cerca de 0.8 g/kg/día (unos 48 g, no 90). Los quemados requieren más proteína (2 a 2.5 g/kg). El RQ de 0.8 corresponde a proteínas; la inanición da RQ menor de 0.7.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 442-443 del PDF (pregunta 7, p. 440)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 437 del PDF"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original C. Texto de opciones A reparado con la imagen."
+ },
+ {
+  "k": "faf3469b7a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 23 años fue hospitalizado hace 7 días por trauma multisistémico que incluye múltiples fracturas de huesos largos, hematoma subdural y contusiones pulmonares, y aún está con ventilación mecánica. ¿Cuál de las siguientes afirmaciones es verdadera respecto a las herramientas para evaluar el estado nutricional?",
+  "opts": [
+   "El uso de mediciones seriadas de albúmina y prealbúmina es el “estándar de oro” para pacientes traumatizados.",
+   "La medición del balance de nitrógeno es limitada porque subestima el aporte de nitrógeno.",
+   "La Mini Evaluación Nutricional está diseñada específicamente para pacientes hospitalizados.",
+   "El índice de creatinina-altura puede sobrestimar la masa corporal magra en pacientes con trauma.",
+   "De todas las mediciones de proteínas séricas, la transferrina parece correlacionarse más con el balance de nitrógeno."
+  ],
+  "ans": 3,
+  "why": "El libro da como verdadera que el índice creatinina-altura puede ser poco confiable (sobrestimar la masa magra) en trauma. Falsas: el estándar de oro es el balance de nitrógeno, no albúmina; el aporte de nitrógeno suele sobrestimarse; la Mini Evaluación Nutricional es para ancianos; la prealbúmina, no la transferrina, es la que más se correlaciona.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 443 del PDF (pregunta 8, p. 440)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original D. Opciones B y D completadas con la imagen."
+ },
+ {
+  "k": "7508d7ff88",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al riesgo de hipoglucemia tras la suspensión de la nutrición parenteral total (NPT)?",
+  "opts": [
+   "Ocurre comúnmente en pacientes con enfermedad hepática.",
+   "La NPT debe disminuirse progresivamente en la mayoría de los pacientes para evitar esta complicación.",
+   "Esta complicación es relativamente común.",
+   "Es más probable que ocurra en un paciente diabético.",
+   "Es más probable que ocurra en pacientes con enfermedad renal."
+  ],
+  "ans": 3,
+  "why": "La hipoglucemia tras suspender la NPT es muy rara y la mayoría tolera la suspensión brusca sin reducir de forma escalonada. Solo en el diabético o con mal control de glucosa se debe considerar disminuir progresivamente; el libro da D como la respuesta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 443 del PDF (pregunta 9, p. 440)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original D. Respaldo del libro algo indirecto: el texto solo dice que en diabéticos se considere el descenso gradual; la clave D es la del libro."
+ },
+ {
+  "k": "b7d473a048",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera sobre el tratamiento farmacológico de la caquexia por cáncer?",
+  "opts": [
+   "No hay evidencia de que los miméticos de grelina sean beneficiosos.",
+   "Los cannabinoides son superiores al acetato de megestrol para estimular el apetito y el aumento de peso.",
+   "Cuando se inicia temprano, se ha demostrado que el acetato de megestrol mejora la supervivencia.",
+   "El megestrol es un derivado de la progesterona.",
+   "Se ha demostrado que los esteroides anabólicos producen mejoras duraderas en el apetito y aumento de peso a largo plazo."
+  ],
+  "ans": 3,
+  "why": "El acetato de megestrol es un derivado sintético de la progesterona. Las demás son falsas según el libro: los miméticos de grelina mejoran la masa magra, los cannabinoides son inferiores al megestrol, el megestrol no mejora la supervivencia de forma consistente y el efecto de los esteroides es de corta duración.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 443 del PDF (pregunta 10, p. 440)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original D. Opciones D y E completadas con la imagen."
+ },
+ {
+  "k": "ed938a1cf4",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la homeostasis energética durante períodos de ayuno o inanición?",
+  "opts": [
+   "La mayor fuente de energía después de que se agotan las reservas de glucógeno son los ácidos grasos libres.",
+   "El músculo esquelético tiene la mayor reserva de glucógeno disponible a nivel sistémico.",
+   "La glucosa se convierte en lactato en el hígado.",
+   "Los glóbulos rojos dependen del metabolismo aeróbico de la glucosa.",
+   "El cerebro es incapaz de utilizar cuerpos cetónicos."
+  ],
+  "ans": 0,
+  "why": "Tras agotarse el glucógeno, la mayor fuente de energía son los ácidos grasos libres. El músculo tiene mucho glucógeno pero no lo libera a la sangre (le falta glucosa-6-fosfatasa). Los glóbulos rojos usan solo glucosa anaerobia (a lactato) porque no tienen mitocondrias, y el cerebro sí puede usar cetonas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 443-444 del PDF (pregunta 11, p. 440)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original A. Opciones C y E completadas con la imagen."
+ },
+ {
+  "k": "1b9e05fb7b",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la homeostasis de líquidos durante e inmediatamente después de una laparotomía de 4 horas?",
+  "opts": [
+   "La mayoría de la reposición oral de líquidos postoperatoria será absorbida principalmente en el colon.",
+   "Las causas abdominales laparoscópicas y abiertas tienen pérdidas de líquidos no medidas similares.",
+   "La administración de albúmina al 5% atrae los líquidos del tercer espacio hacia el espacio intravascular.",
+   "El déficit de líquidos insensibles puede ser de hasta 4 L.",
+   "Aproximadamente el 50% de un bolo de cristaloides permanecerá en el espacio intravascular."
+  ],
+  "ans": null,
+  "why": "Se buscó en el absite y el Sabiston y no apareció ninguna fuente que dé la cifra de pérdidas insensibles de hasta 4 L en una laparotomía de 4 horas, ni que compare pérdidas laparoscópicas y abiertas. El absite solo dice, en general, que tras cirugía hay pérdida de volumen por secuestro (tercer espacio), ayuno prolongado y pérdidas insensibles. No alcanza para decidir.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 416 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original D (resaltada). Sin respaldo directo en los libros; queda dudosa. Opciones B y E completadas con la imagen."
+ },
+ {
+  "k": "de4b1d4a19",
+  "estado": "confirmada",
+  "stem": "Una posible complicación de las transfusiones masivas de glóbulos rojos es:",
+  "opts": [
+   "Acidosis metabólica por el conservante citrato",
+   "Hipocalcemia por el conservante citrato",
+   "Hipocalemia debido al almacenamiento prolongado de eritrocitos",
+   "Aumento del 2,3-difosfoglicerato (DPG)",
+   "Desplazamiento de la curva de disociación de la oxihemoglobina hacia la derecha"
+  ],
+  "ans": 1,
+  "why": "En la transfusión masiva ocurre hipocalcemia porque el citrato de la sangre se une al calcio. El citrato se convierte en bicarbonato, por eso hay alcalosis metabólica (no acidosis), y el potasio sube (hiperkalemia, no hipocalemia) por la lisis de glóbulos durante el almacenamiento.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 490 del PDF (pregunta 23, p. 484)"
+  ],
+  "tema": "shock",
+  "nota": "Clave original B. Las opciones D y E no se descartan con el libro leído; B queda respaldada directamente."
+ },
+ {
+  "k": "22930c9f33",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes aminoácidos puede ser sintetizado de novo en humanos en cualquier estado fisiológico?",
+  "opts": [
+   "Triptófano",
+   "Tirosina",
+   "Glicina",
+   "Serina",
+   "Cualquier aminoácido de cadena ramificada"
+  ],
+  "ans": 3,
+  "why": "Los aminoácidos no esenciales (alanina, aspártico, asparagina, glutámico y serina) se crean de novo sin fuente externa. El triptófano y los de cadena ramificada son esenciales; tirosina y glicina pueden volverse esenciales en ciertos estados (por ejemplo, la tirosina en la fenilcetonuria).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 442 del PDF (pregunta 4, p. 439)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original D."
+ },
+ {
+  "k": "a1258e4916",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al uso preoperatorio de la NPT para prevenir complicaciones postoperatorias?",
+  "opts": [
+   "Es útil incluso si se utiliza solo por 3 días.",
+   "Es eficaz si el paciente ha perdido más del 15% de su peso antes de la cirugía.",
+   "No hay evidencia de que reduzca la tasa de complicaciones.",
+   "Una sobrealimentación leve durante 7 días es preferible como medio para maximizar el reemplazo del déficit calórico.",
+   "La NPT es eficaz incluso en malnutrición leve a moderada."
+  ],
+  "ans": 1,
+  "why": "En desnutridos graves (pérdida de más de 15% del peso) el apoyo preoperatorio de 7 a 10 días redujo las complicaciones sépticas. En desnutrición leve a moderada no está indicada porque aumentan las infecciones del catéter, y la hiperglucemia por NPT empeora los resultados.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 442 del PDF (pregunta 5, p. 439)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original B. Versión exacta del absite."
+ },
+ {
+  "k": "e7e6da2948",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a las deficiencias nutricionales tras una gastrectomía parcial con reconstrucción Billroth II (gastro-yeyunostomía)?",
+  "opts": [
+   "La absorción de calcio se verá mínimamente afectada porque ocurre principalmente en el íleon.",
+   "La anemia por deficiencia de hierro es más común con Billroth I (gastroduodenostomía) que con Billroth II.",
+   "La deficiencia de vitamina B12 se presentará con un volumen corpuscular medio bajo.",
+   "El estómago no tiene capacidad absortiva intrínseca.",
+   "La absorción de carbohidratos no se ve afectada después de la cirugía."
+  ],
+  "ans": 4,
+  "why": "El libro dice que no hay evidencia de que la absorción de carbohidratos esté alterada tras gastrectomía. Las demás son falsas: el calcio se absorbe en el duodeno (que se evita en Billroth II), el hierro falla más con Billroth II, la falta de B12 da anemia megaloblástica (VCM alto) y el estómago sí absorbe algunas sustancias liposolubles como alcohol o aspirina.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 442 del PDF (pregunta 6, p. 440)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original E. Opción E completada con la imagen."
+ },
+ {
+  "k": "6e622d7da6",
+  "estado": "confirmada",
+  "stem": "El aminoácido más importante utilizado para la gluconeogénesis hepática es:",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Asparagina"
+  ],
+  "ans": 2,
+  "why": "La alanina es el aminoácido precursor más importante de la gluconeogénesis en el hígado; la glutamina se usa sobre todo en el riñón cuando el hígado agota la alanina. Serina, tirosina y asparagina no son sustratos de la gluconeogénesis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 444 del PDF (pregunta 12, p. 440)"
+  ],
+  "tema": "nutricion",
+  "nota": "Clave original C."
+ }
+]

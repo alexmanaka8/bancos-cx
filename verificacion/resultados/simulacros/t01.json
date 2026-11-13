@@ -1,0 +1,239 @@
+[
+ {
+  "k": "6527728fc6",
+  "estado": "nueva",
+  "tema": "eras",
+  "stem": "Paciente en preoperatorio por hernia inguinal, queda hospitalizado el día previo a la Cx. Según el protocolo ERAS, ¿qué se le debe indicar?",
+  "opts": [
+   "NPO desde la medianoche previa a la Cx",
+   "NPO después de la cena",
+   "Solo puede tomar líquidos hasta 2 horas antes de la Cx",
+   "Solo bebidas azucaradas hasta 2 horas antes de la Cx"
+  ],
+  "ans": 2,
+  "why": "Sabiston explica que la orden clásica de 'nada por boca desde la medianoche' ya no es necesaria: las guías de la ASA (2017) permiten líquidos claros, con o sin hidratos de carbono, hasta 2 h antes de una cirugía programada con anestesia general. Por eso C es correcta. A y B mantienen el ayuno largo antiguo. D es demasiado restrictiva: dice 'solo bebidas azucaradas', pero se permiten todos los líquidos claros (agua, jugo sin pulpa, café, etc.).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF (ayuno preoperatorio, ASA 2017)",
+   "Sabiston 21.ª ed., p. 356 del PDF (tabla 14.7: líquidos puros 2 h, sólidos 6 h)"
+  ],
+  "nota": "Sin clave original en el banco. El libro no usa el nombre 'ERAS' en este párrafo; la regla de 2 h viene de la guía ASA que ERAS adopta. Dato del libro sobre D: la carga de hidratos de carbono es opcional ('con o sin'), no obligatoria."
+ },
+ {
+  "k": "f839ae6bbd",
+  "estado": "nueva",
+  "tema": "eras",
+  "stem": "Según el protocolo ERAS en cirugía abdominal electiva, ¿cuál es el momento recomendado para el retiro de hipoglucemiantes orales en pacientes diabéticos?",
+  "opts": [
+   "Continuar hasta el día de la cirugía.",
+   "Suspender la mañana de la intervención.",
+   "Suspender 48 horas antes.",
+   "No suspender nunca.",
+   "Solo si hay hipoglucemia preoperatoria."
+  ],
+  "ans": 1,
+  "why": "Sabiston dice que en la diabetes tipo 2 la mayoría de los autores sugieren suspender los antidiabéticos orales el día de la cirugía; por ejemplo, las sulfonilureas no se dan ese día. Eso coincide con B. No hay base para suspender 48 h antes de forma general (C), ni para no suspender nunca (D) ni para decidir solo por hipoglucemia (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 356 del PDF (diabetes: suspender orales el día de la cirugía)",
+   "Sabiston 21.ª ed., p. 228 del PDF (sulfonilureas no se dan el día de la cirugía; metformina controvertida)"
+  ],
+  "nota": "Respaldo parcialmente indirecto: el libro habla de 'el día de la cirugía', no cita el texto ERAS. Ojo: en el Sabiston la metformina el día de la cirugía es controvertida (p. 228), y la lámina del aula muestra que algunos fármacos (SGLT2i) se suspenden 2-3 días antes; la pregunta es general y B es la opción mejor respaldada."
+ },
+ {
+  "k": "b25d04170d",
+  "estado": "nueva",
+  "tema": "eras",
+  "stem": "En la evaluación preoperatoria según el protocolo ERAS, respecto al manejo de anticoagulantes, ¿cuál de las siguientes afirmaciones es la más adecuada?",
+  "opts": [
+   "Todos los anticoagulantes deben suspenderse 7 días antes de cualquier procedimiento quirúrgico, independientemente del riesgo trombótico.",
+   "La suspensión de anticoagulantes depende del tipo de fármaco, del riesgo hemorrágico de la cirugía y del riesgo trombótico del paciente.",
+   "Los anticoagulantes orales directos no requieren suspensión antes de la cirugía.",
+   "Siempre se debe realizar terapia puente con heparina de bajo peso molecular en todos los pacientes anticoagulados.",
+   "Los anticoagulantes deben continuar hasta el día de la cirugía en procedimientos de bajo riesgo sin evaluación adicional."
+  ],
+  "ans": 1,
+  "why": "Sabiston da tiempos distintos según el fármaco: warfarina 5 días; dabigatrán 1-2 días (o 3-5 si la función renal es mala), y el tiempo cambia según el riesgo de sangrado de la cirugía. La terapia puente solo se plantea en riesgo trombótico muy alto (ACV reciente, válvula mecánica, etc.), y el estudio BRIDGE no mostró beneficio en fibrilación auricular. Por eso B es la correcta; A, C, D y E son absolutas ('todos', 'siempre', 'no requieren').",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 226 del PDF (warfarina 5 días; terapia puente solo en riesgo muy alto; anticoagulantes orales directos con interrupción más corta)",
+   "Sabiston 21.ª ed., p. 263 del PDF (tabla 12.1: momento de suspender la anticoagulación según fármaco, función renal y riesgo de sangrado)"
+  ],
+  "nota": "Sin clave original en el banco."
+ },
+ {
+  "k": "1489a878f0",
+  "estado": "nueva",
+  "tema": "quemados",
+  "stem": "Hombre de 35 años de edad sufre una quemadura eléctrica de alto voltaje (3000 voltios) por contacto directo con cable en su mano izquierda. Al ingreso presenta contractura en flexión de la mano, rigidez de los dedos y ausencia de pulso radial y cubital a la palpación. ¿Cuál es la medida invasiva de urgencia a realizar?",
+  "opts": [
+   "Fasciotomía de la extremidad",
+   "Escarotomía descompresiva",
+   "Monitorización de presión intracompartimental",
+   "Escarectomía"
+  ],
+  "ans": 0,
+  "why": "En la lesión eléctrica el daño mayor está en el tejido profundo (músculo); el edema comprime los vasos y se pierde el pulso. Sabiston indica revisar la circulación distal porque puede hacer falta escarotomía y fasciotomía, y dice que las fasciotomías deben ser completas (incluso liberar túnel del carpo y canal de Guyon). La escarotomía libera solo la escara de la piel, así que no descomprime el músculo; por eso la medida de urgencia es la fasciotomía. C no es la 'medida de urgencia' con pulsos ya ausentes y D (escarectomía) es retirar tejido quemado, no descomprimir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF (quemaduras eléctricas: escarotomía y fasciotomía, fasciotomías completas)",
+   "Sabiston 21.ª ed., p. 516 del PDF (escarotomía: libera solo la escara de la quemadura)"
+  ],
+  "nota": "Sin clave original. En el original dice 'mano validez de los dedos' (error de escritura; se corrigió a 'rigidez'). Ojo: el algoritmo de la lámina del aula (síndrome compartimental -> escarotomía) difiere del libro; el Sabiston respalda fasciotomía cuando hay lesión profunda. Respaldo algo indirecto: el libro no trae este caso exacto."
+ },
+ {
+  "k": "28fb2dfdef",
+  "estado": "nueva",
+  "tema": "quemados",
+  "stem": "Paciente varón ha sufrido una quemadura en cabeza, cara anterior de brazo derecho y miembro inferior derecho. Tendrá una superficie corporal quemada de:",
+  "opts": [
+   "36%",
+   "32%",
+   "31.5%",
+   "29.25%",
+   "NA"
+  ],
+  "ans": 2,
+  "why": "Con la regla de los nueves del adulto (Sabiston): cabeza y cuello 9%, cada brazo 9% (la cara anterior es la mitad, 4.5%) y cada miembro inferior 18%. Suma: 9 + 4.5 + 18 = 31.5%.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves en adultos)"
+  ],
+  "nota": "Sin clave original. Respaldo algo indirecto: el libro da 9% por brazo completo; se asume que la cara anterior es la mitad (4.5%), como se usa habitualmente."
+ },
+ {
+  "k": "0b85041f49",
+  "estado": "dudosa",
+  "tema": "nutricion",
+  "stem": "Referente al soporte nutricional artificial, dada las siguientes premisas, no es correcto:",
+  "opts": [
+   "En postoperatorio, se reiniciará el soporte nutricional artificial inmediatamente sin importar la estabilidad hemodinámica del paciente",
+   "La NPT o NE se debe prolongar el tiempo suficiente para que el paciente esté capacitado para ingerir al menos el 75% de necesidades calóricas",
+   "El síndrome de realimentación puede conducir a alteraciones hidroelectrolíticas y metabólicas graves",
+   "Pacientes con malnutrición severa tienen indicado el uso de soporte nutricional antes de la cirugía, mínimo siete días"
+  ],
+  "ans": null,
+  "why": "A es claramente falsa: Sabiston dice que en inestabilidad hemodinámica o al empezar/aumentar vasopresores la nutrición enteral debe interrumpirse por riesgo de isquemia intestinal. Pero B también choca con el libro: la NE o NPT se mantiene hasta aportar al menos el 60% de las necesidades por vía oral, no 75%. C es correcta (la realimentación causa hipofosfatemia, arritmias, etc.) y D coincide con el libro (≥7 días de soporte preoperatorio en desnutrición grave). Hay dos premisas defendibles como 'no correcta' (A y B), así que la clave no se puede fijar con certeza.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 131 del PDF (inestabilidad hemodinámica: interrumpir NE; mantener hasta 60% por vía oral; soporte ≥7 días antes de cirugía)",
+   "Sabiston 21.ª ed., p. 133 del PDF (síndrome de realimentación)"
+  ],
+  "nota": "Sin clave original. Lo más probable es que el examen esperara A, pero B (75% frente a 60% del libro) también contradice al Sabiston; por eso se deja dudosa."
+ },
+ {
+  "k": "35fd56f2e5",
+  "estado": "dudosa",
+  "tema": "shock",
+  "stem": "¿Cuál es el tipo más común de falla orgánica en sepsis?",
+  "opts": [
+   "Pulmonar",
+   "Hepático",
+   "Hematológico",
+   "Cardiovascular",
+   "Renal"
+  ],
+  "ans": null,
+  "why": "Los libros de la carpeta (Sabiston, ABSITE) no dan cuál es el órgano que falla con más frecuencia en sepsis. En la literatura revisada aparecen respuestas distintas según la serie: algunos trabajos dicen insuficiencia respiratoria, otros lesión renal aguda, otros encefalopatía. Sin una fuente que decida, no se elige una opción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 64 del PDF (insuficiencia multiorgánica; no indica el órgano más frecuente)",
+   "Europe PMC: revisiones de 2023-2025 sobre sepsis (PMID 37401137: lesión renal aguda 'la disfunción más frecuente'; otros trabajos señalan pulmón o cerebro)"
+  ],
+  "nota": "Sin clave original. Las fuentes consultadas se contradicen según la población estudiada."
+ },
+ {
+  "k": "15a6bb5f35",
+  "estado": "nueva",
+  "tema": "shock",
+  "stem": "Criterios SOFA:",
+  "opts": [
+   "PaO2/FiO2 mmHg, plaquetas, transaminasas, PAM, Glasgow, creatinina, diuresis",
+   "PaO2/FiO2 mmHg, INR, bilirrubinas, PAM, Glasgow, creatinina, diuresis",
+   "PaO2/FiO2 mmHg, plaquetas, bilirrubinas, PAM, Glasgow, creatinina, diuresis",
+   "SatO2, plaquetas, bilirrubinas, PAM, Glasgow, urea, diuresis",
+   "PaO2/FiO2 mmHg, plaquetas, bilirrubinas, PS<100 mmHg, Glasgow, creatinina, diuresis"
+  ],
+  "ans": 2,
+  "why": "La tabla SOFA mide seis sistemas: respiratorio (PaO2/FiO2), coagulación (plaquetas), hígado (bilirrubina), cardiovascular (presión arterial media y vasopresores), sistema nervioso (Glasgow) y riñón (creatinina o diuresis). Eso es C. A usa transaminasas (no es parte de SOFA), B usa INR, D usa SatO2 y urea, y E usa PAS<100, que es del qSOFA.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 87 del PDF (tabla 4.6, SOFA)",
+   "ABSITE (de Virgilio) 3.ª ed., p. 433 del PDF (SOFA: respiración, cardiovascular, coagulación, hígado, SNC, riñón; qSOFA con PAS)"
+  ],
+  "nota": "Sin clave original. La lámina del propio banco también muestra SOFA con PaO2/FiO2, plaquetas, bilirrubina, PAM, Glasgow, creatinina/diuresis."
+ },
+ {
+  "k": "85268a7a16",
+  "estado": "nueva",
+  "tema": "shock",
+  "stem": "Entre las medidas adicionales en pacientes con sepsis y shock séptico, se recomienda:",
+  "opts": [
+   "Uso de insulina en casos de glucosa > 180 mg/dl",
+   "Profilaxis de las úlceras de estrés",
+   "Profilaxis de tromboembolismo venoso con heparina de bajo peso molecular",
+   "NA",
+   "Todas"
+  ],
+  "ans": 4,
+  "why": "Las guías Surviving Sepsis Campaign 2021 recomiendan: iniciar insulina con glucosa ≥180 mg/dL (rec. 69, fuerte); profilaxis de úlceras de estrés en pacientes con riesgo de sangrado digestivo (rec. 63, débil); y profilaxis farmacológica de TEV, con preferencia por heparina de bajo peso molecular sobre la no fraccionada (rec. 64-65, fuertes). Como las tres son recomendadas, la respuesta es 'Todas'.",
+  "fuentes": [
+   "Surviving Sepsis Campaign 2021, Intensive Care Med 2021 (PMID 34599691; texto completo PMC8486643), recomendaciones 63, 64, 65 y 69",
+   "Sabiston 21.ª ed., p. 289 y p. 565 del PDF (úlceras de estrés y profilaxis de TVP en el paciente crítico)"
+  ],
+  "nota": "Sin clave original. El texto del original estaba mezclado con residuos de otra pregunta (SOFA); se reparó con la imagen. La profilaxis de úlceras de estrés es solo para pacientes con factores de riesgo de sangrado."
+ },
+ {
+  "k": "622959ccc2",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "stem": "¿Cuál de estas medidas NO estaría indicada en el tratamiento de urgencia en un paciente de 80 kg que presenta una quemadura por llama de segundo grado profundo con el 50% de superficie corporal quemada?",
+  "opts": [
+   "Dieta absoluta.",
+   "Administración de ringer lactato según la fórmula de Parkland.",
+   "Administración profiláctica de antibióticos vía intravenosa.",
+   "Administración de heparina para profilaxis antitrombótica",
+   "Todas"
+  ],
+  "ans": null,
+  "why": "Parkland con Ringer lactato sí está indicado (B) y el libro advierte riesgo de trombosis venosa profunda en el gran quemado (D). Pero dos opciones pueden ser 'no indicadas': Sabiston dice que la nutrición enteral temprana se da de inmediato por sonda nasogástrica (así que 'dieta absoluta', A, no corresponde), y ABSITE dice que los antibióticos IV profilácticos en el quemado se desaconsejan (C). Sabiston además dice que los antibióticos perioperatorios son beneficiosos en quemaduras >30% de ASCT. Con dos opciones defendibles y 'Todas' ambigua, no se puede fijar una clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF (nutrición enteral inmediata por SNG; antibióticos perioperatorios beneficiosos en >30% ASCT)",
+   "ABSITE (de Virgilio) 3.ª ed., p. 262 del PDF (antibióticos IV profilácticos desaconsejados en quemados)",
+   "Sabiston 21.ª ed., p. 515 del PDF (tabla 20.2: Parkland 4 ml/kg/%ASCT) y p. 524 (riesgo de trombosis en quemados graves)"
+  ],
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "2b02c3c0eb",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "stem": "Mujer de 35 años, sufre quemadura por vapor de agua en ambas nalgas, genitales y cara posterior de miembro inferior derecho. El diagnóstico es:",
+  "opts": [
+   "Gran quemado, SCQ: 15%",
+   "Gran quemado, SCQ: 23%",
+   "SCQ: 15%",
+   "SCQ: 12%",
+   "SCQ: 25%"
+  ],
+  "ans": null,
+  "why": "Cálculo con Sabiston: cada nalga 2.5% (5% las dos) + genitales 1% + cara posterior de un miembro inferior = la mitad del 18% de la regla de los nueves, o sea 9%. Total 15%. Además, la afectación de genitales/periné es criterio de derivación a centro de quemados, y la tabla de 'gran quemado' del propio banco incluye quemaduras graves en genitales o periné; por eso A.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 512 del PDF (tabla 20.1, Berkow: nalga 2.5%, genitales 1%)",
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves: miembro inferior 18%, genitales y periné 1%)",
+   "Sabiston 21.ª ed., p. 509 del PDF (criterios de derivación a unidad de quemados: genitales y periné)"
+  ],
+  "nota": "Sin clave original. Respaldo algo indirecto: mezcla la tabla de Berkow (nalgas) con la regla de los nueves (pierna); solo con Berkow completo saldría 16%, que no está entre las opciones. 'Gran quemado' se apoya en la tabla del propio banco (genitales). Supervisión: el 15 % solo sale mezclando dos métodos de cálculo distintos; con uno solo no coincide ninguna opción. Queda dudosa."
+ },
+ {
+  "k": "841cbd0252",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "stem": "Respecto al caso anterior, considerando que el paciente pesa 65 kg, la fluidoterapia indicada, según Parkland, es:",
+  "opts": [
+   "5980 ml",
+   "2860 ml",
+   "3900 ml",
+   "3120 ml",
+   "N.A."
+  ],
+  "ans": null,
+  "why": "Parkland: 4 ml x kg x %SCQ de Ringer lactato en las primeras 24 h. Con 65 kg y 15% de SCQ (caso anterior): 4 x 65 x 15 = 3900 ml (la mitad en las primeras 8 h). Las otras cifras corresponden a otros porcentajes (23% = 5980; 11% = 2860; 12% = 3120).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 515 del PDF (tabla 20.2: Parkland 4 cc/kg/% ASCT quemada)"
+  ],
+  "nota": "Sin clave original. Depende de que el caso anterior sea 15% (ver pregunta anterior); si ese cálculo fuera otro, esta clave cambia. Supervisión: depende del porcentaje de la pregunta anterior, que quedó dudosa. Queda dudosa."
+ }
+]

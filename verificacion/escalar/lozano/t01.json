@@ -1,0 +1,226 @@
+[
+ {
+  "k": "0f1574cb32",
+  "stem": "Intervalos QT prolongados se asocian co",
+  "opts": [
+   "Hipomagnesemia",
+   "Hipercalcemia",
+   "Hiperfosfatemia",
+   "Hipercalemia",
+   "Hipocalemia"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "63ddd0d8a2",
+  "stem": "Los síntomas agudos de hipermagnesem tratan con:",
+  "opts": [
+   "Hidratación con solución salina normal",
+   "Insulina IV",
+   "Cloruro de calcio",
+   "Dextrosa",
+   "Diálisis"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "9fc36757c8",
+  "stem": "¿Cuál de los siguientes microorganismos asocia con mayor frecuencia a infección bacteriana transmitida por transfusión?",
+  "opts": [
+   "Staphylococcus aureus",
+   "Staphylococcus epidermidis",
+   "Estreptococo β-hemolítico",
+   "Bacillus fragilis",
+   "Bacilos gramnegativos"
+  ],
+  "clave_original": "E",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "c829c9603f",
+  "stem": "En la lesión renal aguda, ¿cuál es la amenaza más inmediata para el paciente?",
+  "opts": [
+   "Acidosis",
+   "Hipercalemia",
+   "Disfunción plaquetaria",
+   "Sobrecarga de líquidos",
+   "Malnutrición"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "9e859b0745",
+  "stem": "Un hombre de 19 años se presenta tras accidente automovilístico. Está alerta pero no puede mover brazos ni piernas. FAST, radiografía de tórax y pelvis negativas. PA: 80/60 mmHg, FC: 70 lpm. Pies calientes y con priapismo. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Fenilefrina",
+   "Administración de líquidos IV",
+   "Dobutamina",
+   "Epinefrina",
+   "Noradrenalina"
+  ],
+  "clave_original": "B",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "49942906e4",
+  "stem": "La presión de oclusión de la arteria pulmonar (PAOP) refleja cuál de las siguientes variables fisiológicas:",
+  "opts": [
+   "Gasto cardíaco",
+   "Presión arterial pulmonar",
+   "Presión auricular izquierda",
+   "Distensibilidad pulmonar",
+   "Resistencia vascular sistémica (RVS)"
+  ],
+  "clave_original": "C",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "ad06e785d8",
+  "stem": "¿Cuál de las siguientes anomalías electrolíticas es más probable que se produzca con una transfusión sanguínea masiva?",
+  "opts": [
+   "Hipocalcemia, hipocalemia y acidosis metabólica",
+   "Hipercalcemia, hipercalemia y alcalosis metabólica",
+   "Hipocalcemia, hipercalemia y alcalosis metabólica",
+   "Hiponatremia, hipercalemia y alcalosis metabólica",
+   "Hiponatremia, hipercalemia y acidosis metabólica"
+  ],
+  "clave_original": "C",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "fc078654ff",
+  "stem": "La causa más frecuente de muerte relacionada con la transfusión es:",
+  "opts": [
+   "Infección",
+   "Incompatibilidad ABO",
+   "Lesión pulmonar aguda",
+   "Reacción transfusional tardía",
+   "Reacción de injerto contra"
+  ],
+  "clave_original": "C",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "f0d34127e0",
+  "stem": "Una mujer de 35 años presenta una hemorragia posparto y requiere una transfusión de concentrados de glóbulos rojos y plaquetas. Doce horas después de la transfusión, la paciente presenta de repente escalofríos y rigidez. Su temperatura aumenta a 39 °C, su presión arterial baja de 110/70 a 70/40 mm Hg y su frecuencia cardíaca aumenta de 80 a 120 lpm. La producción de orina disminuye, aunque la orina es clara. A pesar de los intentos de reanimación, la paciente muere en 24 horas. La muerte probablemente se deba a:",
+  "opts": [
+   "Sepsis por grampositivos",
+   "Incompatibilidad ABO",
+   "Lesión pulmonar aguda",
+   "Anafilaxia",
+   "Sepsis por gramnegativos"
+  ],
+  "clave_original": "B",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "80f0010066",
+  "stem": "Un hombre de 50 años se somete a una resección de un gran leiomiosarcoma retroperitoneal. Hay una pérdida de sangre estimada de 750 cc. Al día siguiente, se descubre que el paciente está anémico y se le administran 2 unidades de sangre. A la mitad de la primera unidad, el paciente presenta escalofríos y su temperatura aumenta de 37° a 39°C. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la condición de este paciente?",
+  "opts": [
+   "No es necesario detener la transfusión.",
+   "Esto ocurre con mayor frecuencia cuando se administran glóbulos rojos concentrados en lugar de plaquetas.",
+   "La filtración es más eficaz que el lavado de leucocitos para prevenir esta afección.",
+   "La aspirina es más eficaz que el paracetamol para tratar esta afección.",
+   "La administración de paracetamol y difenhidramina antes de la transfusión es la prevención más eficaz."
+  ],
+  "clave_original": "C",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "1f71c43d6c",
+  "stem": "Todas las siguientes afirmaciones son verdaderas sobre la hipocalcemia posterior a una transfusión masiva, EXCEPTO:",
+  "opts": [
+   "Usualmente no se corrige espontáneamente",
+   "Es más común en niños",
+   "Es más común en pacientes con enfermedad hepática",
+   "Se debe a toxicidad por citrato",
+   "Es más común en pacientes con hipotensión severa"
+  ],
+  "clave_original": "A",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "1eee382ff5",
+  "stem": "La causa más común de muerte relacion transfusión es:",
+  "opts": [
+   "Infección",
+   "Incompatibilidad ABO",
+   "Lesión pulmonar aguda (TRALI)",
+   "Reacción transfusional tardía",
+   "Enfermedad injerto contra huésped"
+  ],
+  "clave_original": "B",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "39f9b2a78e",
+  "stem": "La causa más probable de muerte por enfermedad infecciosa relacionada a transfusión es:",
+  "opts": [
+   "Virus de inmunodeficiencia humana (VIH)",
+   "Hepatitis B",
+   "Hepatitis C",
+   "Citomegalovirus",
+   "Contaminación bacteriana de la sangre"
+  ],
+  "clave_original": "E",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "1467548269",
+  "stem": "Las indicaciones para transfusión de glóbulos rojos incluyen todas las siguientes, EXCEPTO:",
+  "opts": [
+   "Disponibilidad de sangre autóloga pre-donada",
+   "Hemoglobina < 10 g/dL, frecuencia cardíaca de 110 lpm, paciente con antecedente de infarto de miocardio",
+   "Hemoglobina < 8 g/dL en paciente con disnea y oliguria",
+   "Hemoglobina < 8 g/dL, presión diastólica de 55 mmHg, frecuencia cardíaca de 110 lpm",
+   "Hemoglobina < 10 g/dL en paciente con EPOC y confusión"
+  ],
+  "clave_original": "A",
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "1039acafb5",
+  "stem": "Varón de 72 años post colectomía subtotal, 3 semanas de NPT, luego diarrea, pérdida de gusto, alopecia y erupción perioral. ¿Déficit más probable?",
+  "opts": [
+   "Vitamina C",
+   "Selenio",
+   "Zinc",
+   "Tiamina",
+   "Cromo"
+  ],
+  "clave_original": "C",
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "6d85bee1a8",
+  "stem": "¿qué nutriente se absorbe normalmente sin afectación clínica?",
+  "opts": [
+   "Hierro",
+   "Vitamina B12",
+   "Calcio",
+   "Magnesio",
+   "Ácido fólico"
+  ],
+  "clave_original": "B",
+  "tema": "nutricion",
+  "alto_valor": false
+ }
+]

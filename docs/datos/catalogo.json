@@ -9,17 +9,17 @@
    "conClave": 179,
    "secciones": 4,
    "verificadas": 179,
-   "altoValor": 74
+   "altoValor": 75
   },
   {
    "id": "pretest-2024",
    "nombre": "Pretest Cx Generales 2024-2",
    "tipo": "preguntas",
    "url": "banco.html?id=pretest-2024",
-   "n": 22,
-   "conClave": 22,
+   "n": 23,
+   "conClave": 23,
    "secciones": 6,
-   "verificadas": 22,
+   "verificadas": 23,
    "altoValor": 6
   },
   {
@@ -49,10 +49,10 @@
    "nombre": "Banco traducido Cx 1",
    "tipo": "preguntas",
    "url": "banco.html?id=banco-traducido",
-   "n": 63,
-   "conClave": 63,
+   "n": 67,
+   "conClave": 67,
    "secciones": 7,
-   "verificadas": 63,
+   "verificadas": 67,
    "altoValor": 62
   },
   {
@@ -60,10 +60,10 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 162,
-   "conClave": 162,
-   "secciones": 17,
-   "verificadas": 162,
+   "n": 189,
+   "conClave": 189,
+   "secciones": 18,
+   "verificadas": 189,
    "altoValor": 127
   },
   {
@@ -71,10 +71,10 @@
    "nombre": "Simulacros TeamMedic",
    "tipo": "preguntas",
    "url": "banco.html?id=simulacros",
-   "n": 1,
-   "conClave": 1,
-   "secciones": 1,
-   "verificadas": 1,
+   "n": 13,
+   "conClave": 13,
+   "secciones": 2,
+   "verificadas": 13,
    "altoValor": 1
   },
   {
@@ -232,7 +232,7 @@
    "nombre": "ERAS y cuidados perioperatorios",
    "clase": "12",
    "semana": 3,
-   "n": 27,
+   "n": 32,
    "alto": 8
   },
   {
@@ -240,7 +240,7 @@
    "nombre": "Balance hidroelectrolítico y ácido-base",
    "clase": "13",
    "semana": 3,
-   "n": 45,
+   "n": 49,
    "alto": 17
   },
   {
@@ -248,7 +248,7 @@
    "nombre": "Soporte nutricional en el paciente quirúrgico",
    "clase": "14",
    "semana": 3,
-   "n": 23,
+   "n": 41,
    "alto": 6
   },
   {
@@ -256,7 +256,7 @@
    "nombre": "Manejo de quemados",
    "clase": "15",
    "semana": 3,
-   "n": 24,
+   "n": 28,
    "alto": 9
   },
   {
@@ -264,7 +264,7 @@
    "nombre": "Shock",
    "clase": "16",
    "semana": 3,
-   "n": 23,
+   "n": 35,
    "alto": 6
   },
   {
@@ -281,7 +281,7 @@
    "clase": "18",
    "semana": 4,
    "n": 7,
-   "alto": 2
+   "alto": 3
   },
   {
    "id": "abdomen-agudo",
@@ -315,7 +315,7 @@
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
    "semana": 5,
-   "n": 36,
+   "n": 37,
    "alto": 22
   },
   {

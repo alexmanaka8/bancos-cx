@@ -1,0 +1,58 @@
+[
+ {
+  "k": "2083d71b1d",
+  "stem": "Un hombre de 74 años acude a consulta porque desea que se repare su hernia umbilical reducible, que le produce dolor y molestias cada vez más frecuentes, aunque intermitentes. Dos días antes fue dado de alta del hospital tras ser tratado por angina inestable mediante angioplastia con balón e implantación de un stent coronario metálico convencional (BMS). ¿Cuándo debe programarse la cirugía de la hernia?",
+  "opts": [
+   "En 2 semanas.",
+   "En 1 mes.",
+   "En 2 meses.",
+   "En 6 meses.",
+   "En 1 año."
+  ],
+  "clave_original": "B",
+  "tema": "eras",
+  "alto_valor": false
+ },
+ {
+  "k": "8432c4c9c4",
+  "stem": "Un hombre de 55 años presenta dolor epigástrico, náuseas y vómitos desde hace 12 horas. Tiene sensibilidad abdominal difusa leve. Los análisis muestran amilasa sérica de 800 U/L, glucosa de 130 mg/dL, cloro de 104 mEq/L, leucocitos de 12 000/µL, sodio de 125 mEq/L y triglicéridos de 1800 mg/dL. ¿Cuál es la explicación más probable de la hiponatremia?",
+  "opts": [
+   "Pérdida excesiva de líquidos.",
+   "Respuesta inadecuada de la hormona antidiurética.",
+   "Reposición excesiva de agua libre.",
+   "Pseudohiponatremia.",
+   "Insuficiencia suprarrenal."
+  ],
+  "clave_original": null,
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "bd3881a6c4",
+  "stem": "Un hombre de 39 años acude para conversar sobre su tratamiento antes de iniciar quimiorradioterapia neoadyuvante por cáncer de esófago. Su albúmina es de 2,4 g/dL. ¿Cuál de las siguientes afirmaciones sobre la optimización nutricional de este paciente es verdadera?",
+  "opts": [
+   "Debe comenzar nutrición parenteral.",
+   "No debe ofrecerse una gastrostomía percutánea.",
+   "Se ha demostrado consistentemente que la colocación de un stent esofágico mejora el estado nutricional.",
+   "Se ha demostrado que la colocación de una sonda nasogástrica mejora el estado nutricional.",
+   "La migración del stent y el dolor torácico son complicaciones poco frecuentes en pacientes con stents esofágicos."
+  ],
+  "clave_original": null,
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "31ba20adf8",
+  "stem": "Una mujer de 45 años con pancolitis ulcerosa desde hace 15 años se somete a colonoscopia de vigilancia. No se detectan pólipos, pero las biopsias aleatorias muestran displasia de alto grado en el colon sigmoide. ¿Cuál es el tratamiento recomendado?",
+  "opts": [
+   "Repetir la colonoscopia en seis meses con más biopsias aleatorias.",
+   "Sigmoidectomía.",
+   "Colectomía total con anastomosis ileorrectal.",
+   "Proctocolectomía total con ileostomía.",
+   "Proctocolectomía restauradora con anastomosis de reservorio ileal al ano."
+  ],
+  "clave_original": null,
+  "tema": "shock",
+  "alto_valor": false
+ }
+]

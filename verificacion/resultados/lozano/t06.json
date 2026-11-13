@@ -1,0 +1,293 @@
+[
+ {
+  "k": "7d9b2ff81c",
+  "estado": "confirmada",
+  "stem": "Una medico esta atendiendo un paciente en diálisis clínica. El medico entiendeque, en la nefrona, la mayoría de los electrolitos son reabsorbidos en:",
+  "opts": [
+   "Tubulo proximal",
+   "Glomérulo",
+   "Asa de Henle",
+   "Túbulo distal",
+   "N.A"
+  ],
+  "ans": 0,
+  "why": "En el túbulo proximal se reabsorbe cerca del 65% del sodio filtrado, y la mayor parte del potasio se reabsorbe ahí junto con el sodio y el agua; solo el 10% del potasio llega al túbulo distal. Por eso la mayoría de los electrolitos se reabsorben en el túbulo proximal. El glomérulo solo filtra; el asa de Henle y el túbulo distal reabsorben una parte menor (el magnesio es la excepción: se reabsorbe sobre todo en el asa ascendente).",
+  "fuentes": [
+   "Revisión de fisiología tubular renal, Pathophysiology 2025 (PMC12285995, Europe PMC)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original A. Ningún libro de la carpeta trata este punto de fisiología renal; el respaldo es una revisión arbitrada reciente."
+ },
+ {
+  "k": "55c6effd3a",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes desordenes causan hiponatremia isovolemica?",
+  "opts": [
+   "Hipertiroidismo",
+   "SIADH",
+   "Falla cardiaca",
+   "Demencia",
+   "N.A"
+  ],
+  "ans": 1,
+  "why": "El SIADH causa hiponatremia con volumen normal (euvolemia): Sabiston dice que el diagnóstico de SIADH solo se aplica a pacientes euvolémicos, y el ABSITE lo lista como hiponatremia euvolémica. La insuficiencia cardíaca produce hiponatremia hipervolémica. El hipertiroidismo y la demencia no figuran como causas de hiponatremia isovolémica en las fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108-109 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 407-408 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original B. Las fuentes citan el hipotiroidismo (no el hipertiroidismo) como causa euvolémica."
+ },
+ {
+  "k": "0e2c685b29",
+  "estado": "dudosa",
+  "stem": "Qué examen de laboratorio adicional debe ser visto en un paciente que se sospecha de hipomagnesemia?",
+  "opts": [
+   "plaquetas",
+   "albúmina",
+   "hemoglobina/ hto",
+   "urocultivo y antibiograma",
+   "N.A"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la hipomagnesemia se asocia con frecuencia a hipopotasemia (40%), hipocalcemia, hiponatremia e hipofosfatemia, y que el 30% del magnesio sérico va unido a albúmina. Pero ninguna fuente dice que haya que pedir albúmina (ni plaquetas, hemoglobina o urocultivo) en la sospecha de hipomagnesemia; los exámenes que sí cita (potasio, calcio, fósforo) no están entre las opciones. Por eso no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 114-115 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original B (albúmina): solo hay respaldo indirecto (el magnesio va en parte unido a albúmina), no una recomendación directa."
+ },
+ {
+  "k": "5fd8a608f0",
+  "estado": "confirmada",
+  "stem": "Una niña de 15 años desarrolla síndrome de intestino corto tras resección intestinal por leiomiosarcoma en la pared del intestino delgado. Posteriormente se le administra nutrición parenteral total (NPT) a largo plazo y se recupera bien. Un mes después, desarrolla parches rojos e inflamados de piel seca y escamosa alrededor de la boca y los ojos. Su cabello también empieza a afinarse, y nota un sabor desagradable al usar su spray de cloraseptic sabor cereza. ¿Cuál es la etiología más probable de sus lesiones cutáneas y caída de cabello?",
+  "opts": [
+   "Deficiencia de zinc",
+   "Deficiencia de cobre",
+   "Penfigo vulgar",
+   "Deficiencia de cromo",
+   "Psoriasis"
+  ],
+  "ans": 0,
+  "why": "En nutrición parenteral prolongada y síndrome de intestino corto aparece deficiencia de oligoelementos. El ABSITE dice que la erupción por zinc se ubica sobre todo alrededor de la boca, y que la alteración del gusto se relaciona más con la deficiencia de zinc; la alopecia se ve en la deficiencia de zinc y de ácidos grasos. Aquí hay lesiones alrededor de boca y ojos, caída del cabello y mal sabor, lo que encaja con zinc. El cobre da anemia, leucopenia y problemas neurológicos; el cromo, mal control de la glucosa; el pénfigo y la psoriasis no explican el cuadro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 497 del PDF (respuesta 6)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 438 del PDF (zinc: dermatitis y caída del cabello)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 444 del PDF (cobre)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original A. La pregunta del libro tiene otro caso (piel escamosa difusa, que apunta a ácido linoleico); aquí la ubicación periorificial y el mal sabor señalan zinc."
+ },
+ {
+  "k": "66c0b41dfb",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años con hemorragia intracraneal masiva tras la ruptura de un aneurisma en baya se encuentra actualmente en la unidad de cuidados intensivos neuroquirúrgicos (UCI). Hace dos días se sometió a una embolización intravascular de la lesión. Debido al aumento de la diuresis en las últimas 24 horas, se midió el sodio urinario y se encontró en 35 mEq/L. Los exámenes actuales incluyen sodio sérico de 128 mEq/L y hemoglobina de 18 g/dL. La presión venosa central es de 2 mm Hg. ¿Cuál de los siguientes es el tratamiento inicial más apropiado?",
+  "opts": [
+   "Solución salina normal",
+   "Restricción de agua libre",
+   "Desmopresina",
+   "Demeclociclina",
+   "Tolvaptán"
+  ],
+  "ans": 0,
+  "why": "Hiponatremia con sodio urinario alto, presión venosa central baja (2 mm Hg) y hemoglobina alta (hemoconcentración) tras hemorragia subaracnoidea indica síndrome pierde-sal cerebral: hay hipovolemia y se repone con solución salina normal. Restringir agua podría empeorar la isquemia cerebral; la desmopresina es para diabetes insípida central; demeclociclina y tolvaptán son para SIADH.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 412 y 417 del PDF (pregunta 16)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "000102b051",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años se encuentra en la UCI por sepsis 5 días después de una colectomía por diverticulitis perforada. Mientras la enfermera toma su presión arterial, su mano presenta un espasmo. ¿Cuál de las siguientes es la etiología más probable?",
+  "opts": [
+   "Hipercalcemia",
+   "Hipermagnesemia",
+   "Hipomagnesemia",
+   "Hiponatremia",
+   "Hipercalemia"
+  ],
+  "ans": 2,
+  "why": "La hipomagnesemia es frecuente en el paciente crítico y produce irritabilidad neuromuscular, como el signo de Trousseau (espasmo de la mano al ocluir la arteria braquial con el manguito). La hipercalcemia, hipermagnesemia, hiponatremia e hipercalemia no producen irritabilidad neuromuscular.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 412 y 417 del PDF (pregunta 17)",
+   "Sabiston 21.ª ed., p. 115 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Nota: el ABSITE menciona hipocalcemia entre causas de Trousseau, pero la opción correcta del libro es hipomagnesemia."
+ },
+ {
+  "k": "c37f8c7471",
+  "estado": "confirmada",
+  "stem": "El método más eficaz para la prevención de nefropatía inducida por contraste (CIN) en una tomografía computarizada con contraste intravenoso es:",
+  "opts": [
+   "N-acetilcisteína intravenosa",
+   "Bolo de solución salina normal inmediatamente antes del estudio seguido de 6 horas de bicarbonato de sodio y solución salina normal",
+   "12 horas de solución salina intravenosa antes y después del estudio",
+   "Fluidos intravenosos con bicarbonato de sodio 2 horas antes del estudio y 12 horas después, además de N-acetilcisteína",
+   "6 horas de solución salina hipotónica antes y después del estudio"
+  ],
+  "ans": 2,
+  "why": "El ABSITE dice que solo la hidratación intravenosa ha mostrado beneficio clínico consistente para prevenir la nefropatía por contraste; la N-acetilcisteína y la alcalinización con bicarbonato solo tienen beneficio teórico. La opción con 12 horas de solución salina isotónica antes y después es la hidratación intravenosa; la solución hipotónica no corresponde.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 459 y 463 del PDF (pregunta 19)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original C. Respaldo algo indirecto: el libro apoya la hidratación intravenosa con solución salina, pero no menciona el esquema exacto de 12 horas ni compara con el bolo más bicarbonato por 6 horas. Si el aula virtual marcó otra, revisar."
+ },
+ {
+  "k": "24625f23de",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes causas de acidosis en la unidad de cuidados intensivos se trata mejor con administración de bicarbonato de sodio?",
+  "opts": [
+   "Acidosis láctica",
+   "Cetoacidosis diabética",
+   "Acidosis respiratoria por síndrome de dificultad respiratoria aguda (SDRA)",
+   "Paro cardíaco",
+   "Acidosis tubular renal (ATR)"
+  ],
+  "ans": 4,
+  "why": "Sabiston indica que el bicarbonato se reserva para la acidosis metabólica de brecha aniónica normal, y que esta se debe a diarrea o acidosis tubular renal. En la acidosis láctica y la cetoacidosis se trata la causa; en el paro y la acidosis respiratoria no se corrige con bicarbonato (este aumenta el CO2).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 562 del PDF",
+   "Sabiston 21.ª ed., p. 77 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 402 del PDF (no se recomienda bicarbonato en acidosis láctica)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ },
+ {
+  "k": "f07762eb02",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la deshidratación y/o hipovolemia en niños?",
+  "opts": [
+   "Los niños solo necesitan perder el 5% del agua corporal total para producir síntomas significativos de hipovolemia.",
+   "Hipovolemia se refiere a una reducción del agua libre.",
+   "La deshidratación provocará principalmente pérdidas de líquido extracelular.",
+   "La hipovolemia hipernatrémica profunda debe corregirse inicialmente con líquidos hipotónicos.",
+   "La reposición oral de líquidos es adecuada en la mayoría de niños con pérdidas insensibles."
+  ],
+  "ans": 4,
+  "why": "El ABSITE dice que la reposición oral es adecuada y es la estrategia preferida por la Academia Americana de Pediatría, salvo alteración mental o compromiso vascular. Es falso que baste con perder 5% del agua (se necesita casi 10%), que hipovolemia sea falta de agua libre (eso es deshidratación), que la deshidratación pierda sobre todo líquido extracelular (pierde intracelular) o que la hipernatremia profunda se corrija con líquidos hipotónicos (primero isotónicos).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 415 del PDF (pregunta 10)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ },
+ {
+  "k": "16e63cc0e4",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes se considera un cambio fisiológico normal en el embarazo?",
+  "opts": [
+   "Disminución del pH sanguíneo",
+   "Disminución de la ventilación por minuto",
+   "Aumento de la capacidad vital",
+   "Desplazamiento hacia la derecha de la curva de disociación de la oxihemoglobina",
+   "Leucopenia relativa"
+  ],
+  "ans": 3,
+  "why": "En el embarazo la curva de disociación de la oxihemoglobina se desvía a la derecha, lo que facilita entregar oxígeno al feto. La ventilación por minuto aumenta, el pH sube (alcalosis respiratoria), la capacidad vital casi no cambia y hay leucocitosis, no leucopenia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 414-415 del PDF (pregunta 9)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original D."
+ },
+ {
+  "k": "af9395f46c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al mantenimiento del sodio y agua en pacientes geriátricos?",
+  "opts": [
+   "Existe un aumento en la proporción de agua intracelular a extracelular.",
+   "Una respuesta sedienta hiperactiva predispone a los pacientes geriátricos a hiponatremia.",
+   "Los niveles elevados de hormona antidiurética predisponen a la retención de sodio.",
+   "Los niveles de péptido natriurético auricular aumentan con la edad.",
+   "Existe un aumento relativo en la actividad del sistema renina-angiotensina-aldosterona."
+  ],
+  "ans": 3,
+  "why": "En el anciano los niveles del péptido natriurético auricular aumentan, lo que favorece la pérdida de sal y agua. Disminuye la relación agua intracelular/extracelular, la sed está disminuida, hay menor respuesta a la ADH y el sistema renina-angiotensina-aldosterona está suprimido.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 410 y 414 del PDF (pregunta 6)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original D."
+ },
+ {
+  "k": "34bed9a56e",
+  "estado": "confirmada",
+  "stem": "Un paciente anciano se presenta al departamento de emergencias (ED) con aumento de la sed y diuresis. ¿Cuál de los siguientes hallazgos sería más útil para sugerir diabetes insípida (DI) como etiología probable en este paciente?",
+  "opts": [
+   "Hipernatremia",
+   "Hiperglucemia",
+   "Hiponatremia",
+   "Osmolalidad urinaria baja",
+   "Relación elevada entre osmolalidad sérica y urinaria"
+  ],
+  "ans": 4,
+  "why": "Una relación suero/orina de osmolalidad alta (orina diluida con suero concentrado) es lo que sugiere diabetes insípida. La hiperglucemia apunta a diuresis osmótica. La hipernatremia puede faltar porque el paciente compensa tomando agua, y la osmolalidad urinaria baja se ve también en la polidipsia primaria, así que no distingue.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 416 del PDF (pregunta 13)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ },
+ {
+  "k": "3adaaf60f6",
+  "estado": "confirmada",
+  "stem": "Un hombre alcohólico de 58 años se presenta al departamento de emergencias quejándose de aumento del perímetro abdominal en las últimas semanas. Hace un año se le realizó una ecografía diagnóstica que mostró evidencia de cirrosis. El examen físico revela edema con fóvea en las extremidades inferiores y una onda ascítica positiva en el abdomen. Además de la abstinencia alcohólica, ¿cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Restricción de agua libre",
+   "Derivación portosistémica intrahepática",
+   "Furosemida intravenosa con transición a vía oral una vez resuelta la ascitis",
+   "Restricción estricta de sodio (<1 g por día)",
+   "Combinación de furosemida y espironolactona por vía oral"
+  ],
+  "ans": 4,
+  "why": "Para movilizar la ascitis del cirrótico se necesita balance negativo de sodio: se inicia espironolactona y furosemida orales juntas, que se potencian y limitan el desbalance de potasio. No se indica restringir agua salvo hiponatremia menor de 125; la furosemida intravenosa suele evitarse en ascitis nueva porque produce azotemia; la restricción necesaria es de sodio menor de 2 g/día, no de 1 g; el TIPS es para ascitis refractaria.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 416 del PDF (pregunta 14)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original E. Reclasificada al tema de cirrosis."
+ },
+ {
+  "k": "fa4b839925",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la solución de Ringer lactato cuando se usa como fluido intravenoso?",
+  "opts": [
+   "Es igualmente adecuada como fluido de mantenimiento o de resucitación.",
+   "Es útil en la acidosis debido al contenido de bicarbonato de la solución.",
+   "Es una solución acuosa compuesta únicamente por cloruro de sodio, lactato de sodio, cloruro de calcio y cloruro de potasio.",
+   "El pH de la solución es 7.5.",
+   "El contenido de sodio es equivalente al del suero normal."
+  ],
+  "ans": 2,
+  "why": "El Ringer lactato aporta sodio 130, potasio 4, calcio 3, cloro 109 y lactato 28 mEq/l, es decir, solo esos iones (cloruro de sodio, lactato de sodio, cloruro de calcio y cloruro de potasio). No es útil por un 'contenido de bicarbonato' (lleva lactato), su pH es 6,5 (no 7,5) y su sodio es 130 (el suero normal tiene 154).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 96 del PDF (tabla 4.13)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 407 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original C. Texto reparado con la imagen del original (opciones B y C estaban cortadas). Respaldo algo indirecto: los libros dan la composición en iones, no en sales."
+ },
+ {
+  "k": "e4b10fc1b7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la osmolaridad y osmolalidad séricas?",
+  "opts": [
+   "Las proteínas grandes, como la albúmina, son los contribuyentes más importantes a la osmolalidad sérica.",
+   "La presencia de una brecha osmolar indica la presencia de una molécula extraña que se distribuye fácilmente a través de las membranas celulares.",
+   "La diferencia entre osmolaridad y osmolalidad séricas es altamente variable dependiendo del estado fisiológico.",
+   "El sodio se multiplica por dos en el cálculo de la osmolaridad sérica debido a su mayor actividad osmótica.",
+   "El número de moléculas, y no el tamaño, es el contribuyente más importante a la osmolaridad sérica."
+  ],
+  "ans": 4,
+  "why": "La osmolalidad depende del número de partículas, no de su tamaño; por eso las proteínas grandes como la albúmina aportan poco. Una brecha osmolar indica una molécula extraña que no atraviesa fácilmente las membranas. En condiciones normales osmolaridad y osmolalidad son casi iguales, y el sodio se multiplica por dos para incluir sus aniones (cloro y bicarbonato).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 411 y 415 del PDF (pregunta 12)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original E."
+ }
+]

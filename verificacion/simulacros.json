@@ -18,5 +18,519 @@
   ],
   "nota": "Sin clave en el original (simulacro Team Medic).",
   "tema": "anorrectal"
+ },
+ "6527728fc6": {
+  "k": "6527728fc6",
+  "estado": "nueva",
+  "tema": "eras",
+  "stem": "Paciente en preoperatorio por hernia inguinal, queda hospitalizado el día previo a la Cx. Según el protocolo ERAS, ¿qué se le debe indicar?",
+  "opts": [
+   "NPO desde la medianoche previa a la Cx",
+   "NPO después de la cena",
+   "Solo puede tomar líquidos hasta 2 horas antes de la Cx",
+   "Solo bebidas azucaradas hasta 2 horas antes de la Cx"
+  ],
+  "ans": 2,
+  "why": "Sabiston explica que la orden clásica de 'nada por boca desde la medianoche' ya no es necesaria: las guías de la ASA (2017) permiten líquidos claros, con o sin hidratos de carbono, hasta 2 h antes de una cirugía programada con anestesia general. Por eso C es correcta. A y B mantienen el ayuno largo antiguo. D es demasiado restrictiva: dice 'solo bebidas azucaradas', pero se permiten todos los líquidos claros (agua, jugo sin pulpa, café, etc.).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 232 del PDF (ayuno preoperatorio, ASA 2017)",
+   "Sabiston 21.ª ed., p. 356 del PDF (tabla 14.7: líquidos puros 2 h, sólidos 6 h)"
+  ],
+  "nota": "Sin clave original en el banco. El libro no usa el nombre 'ERAS' en este párrafo; la regla de 2 h viene de la guía ASA que ERAS adopta. Dato del libro sobre D: la carga de hidratos de carbono es opcional ('con o sin'), no obligatoria."
+ },
+ "f839ae6bbd": {
+  "k": "f839ae6bbd",
+  "estado": "nueva",
+  "tema": "eras",
+  "stem": "Según el protocolo ERAS en cirugía abdominal electiva, ¿cuál es el momento recomendado para el retiro de hipoglucemiantes orales en pacientes diabéticos?",
+  "opts": [
+   "Continuar hasta el día de la cirugía.",
+   "Suspender la mañana de la intervención.",
+   "Suspender 48 horas antes.",
+   "No suspender nunca.",
+   "Solo si hay hipoglucemia preoperatoria."
+  ],
+  "ans": 1,
+  "why": "Sabiston dice que en la diabetes tipo 2 la mayoría de los autores sugieren suspender los antidiabéticos orales el día de la cirugía; por ejemplo, las sulfonilureas no se dan ese día. Eso coincide con B. No hay base para suspender 48 h antes de forma general (C), ni para no suspender nunca (D) ni para decidir solo por hipoglucemia (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 356 del PDF (diabetes: suspender orales el día de la cirugía)",
+   "Sabiston 21.ª ed., p. 228 del PDF (sulfonilureas no se dan el día de la cirugía; metformina controvertida)"
+  ],
+  "nota": "Respaldo parcialmente indirecto: el libro habla de 'el día de la cirugía', no cita el texto ERAS. Ojo: en el Sabiston la metformina el día de la cirugía es controvertida (p. 228), y la lámina del aula muestra que algunos fármacos (SGLT2i) se suspenden 2-3 días antes; la pregunta es general y B es la opción mejor respaldada."
+ },
+ "b25d04170d": {
+  "k": "b25d04170d",
+  "estado": "nueva",
+  "tema": "eras",
+  "stem": "En la evaluación preoperatoria según el protocolo ERAS, respecto al manejo de anticoagulantes, ¿cuál de las siguientes afirmaciones es la más adecuada?",
+  "opts": [
+   "Todos los anticoagulantes deben suspenderse 7 días antes de cualquier procedimiento quirúrgico, independientemente del riesgo trombótico.",
+   "La suspensión de anticoagulantes depende del tipo de fármaco, del riesgo hemorrágico de la cirugía y del riesgo trombótico del paciente.",
+   "Los anticoagulantes orales directos no requieren suspensión antes de la cirugía.",
+   "Siempre se debe realizar terapia puente con heparina de bajo peso molecular en todos los pacientes anticoagulados.",
+   "Los anticoagulantes deben continuar hasta el día de la cirugía en procedimientos de bajo riesgo sin evaluación adicional."
+  ],
+  "ans": 1,
+  "why": "Sabiston da tiempos distintos según el fármaco: warfarina 5 días; dabigatrán 1-2 días (o 3-5 si la función renal es mala), y el tiempo cambia según el riesgo de sangrado de la cirugía. La terapia puente solo se plantea en riesgo trombótico muy alto (ACV reciente, válvula mecánica, etc.), y el estudio BRIDGE no mostró beneficio en fibrilación auricular. Por eso B es la correcta; A, C, D y E son absolutas ('todos', 'siempre', 'no requieren').",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 226 del PDF (warfarina 5 días; terapia puente solo en riesgo muy alto; anticoagulantes orales directos con interrupción más corta)",
+   "Sabiston 21.ª ed., p. 263 del PDF (tabla 12.1: momento de suspender la anticoagulación según fármaco, función renal y riesgo de sangrado)"
+  ],
+  "nota": "Sin clave original en el banco."
+ },
+ "1489a878f0": {
+  "k": "1489a878f0",
+  "estado": "nueva",
+  "tema": "quemados",
+  "stem": "Hombre de 35 años de edad sufre una quemadura eléctrica de alto voltaje (3000 voltios) por contacto directo con cable en su mano izquierda. Al ingreso presenta contractura en flexión de la mano, rigidez de los dedos y ausencia de pulso radial y cubital a la palpación. ¿Cuál es la medida invasiva de urgencia a realizar?",
+  "opts": [
+   "Fasciotomía de la extremidad",
+   "Escarotomía descompresiva",
+   "Monitorización de presión intracompartimental",
+   "Escarectomía"
+  ],
+  "ans": 0,
+  "why": "En la lesión eléctrica el daño mayor está en el tejido profundo (músculo); el edema comprime los vasos y se pierde el pulso. Sabiston indica revisar la circulación distal porque puede hacer falta escarotomía y fasciotomía, y dice que las fasciotomías deben ser completas (incluso liberar túnel del carpo y canal de Guyon). La escarotomía libera solo la escara de la piel, así que no descomprime el músculo; por eso la medida de urgencia es la fasciotomía. C no es la 'medida de urgencia' con pulsos ya ausentes y D (escarectomía) es retirar tejido quemado, no descomprimir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF (quemaduras eléctricas: escarotomía y fasciotomía, fasciotomías completas)",
+   "Sabiston 21.ª ed., p. 516 del PDF (escarotomía: libera solo la escara de la quemadura)"
+  ],
+  "nota": "Sin clave original. En el original dice 'mano validez de los dedos' (error de escritura; se corrigió a 'rigidez'). Ojo: el algoritmo de la lámina del aula (síndrome compartimental -> escarotomía) difiere del libro; el Sabiston respalda fasciotomía cuando hay lesión profunda. Respaldo algo indirecto: el libro no trae este caso exacto."
+ },
+ "28fb2dfdef": {
+  "k": "28fb2dfdef",
+  "estado": "nueva",
+  "tema": "quemados",
+  "stem": "Paciente varón ha sufrido una quemadura en cabeza, cara anterior de brazo derecho y miembro inferior derecho. Tendrá una superficie corporal quemada de:",
+  "opts": [
+   "36%",
+   "32%",
+   "31.5%",
+   "29.25%",
+   "NA"
+  ],
+  "ans": 2,
+  "why": "Con la regla de los nueves del adulto (Sabiston): cabeza y cuello 9%, cada brazo 9% (la cara anterior es la mitad, 4.5%) y cada miembro inferior 18%. Suma: 9 + 4.5 + 18 = 31.5%.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves en adultos)"
+  ],
+  "nota": "Sin clave original. Respaldo algo indirecto: el libro da 9% por brazo completo; se asume que la cara anterior es la mitad (4.5%), como se usa habitualmente."
+ },
+ "0b85041f49": {
+  "k": "0b85041f49",
+  "estado": "dudosa",
+  "tema": "nutricion",
+  "stem": "Referente al soporte nutricional artificial, dada las siguientes premisas, no es correcto:",
+  "opts": [
+   "En postoperatorio, se reiniciará el soporte nutricional artificial inmediatamente sin importar la estabilidad hemodinámica del paciente",
+   "La NPT o NE se debe prolongar el tiempo suficiente para que el paciente esté capacitado para ingerir al menos el 75% de necesidades calóricas",
+   "El síndrome de realimentación puede conducir a alteraciones hidroelectrolíticas y metabólicas graves",
+   "Pacientes con malnutrición severa tienen indicado el uso de soporte nutricional antes de la cirugía, mínimo siete días"
+  ],
+  "ans": null,
+  "why": "A es claramente falsa: Sabiston dice que en inestabilidad hemodinámica o al empezar/aumentar vasopresores la nutrición enteral debe interrumpirse por riesgo de isquemia intestinal. Pero B también choca con el libro: la NE o NPT se mantiene hasta aportar al menos el 60% de las necesidades por vía oral, no 75%. C es correcta (la realimentación causa hipofosfatemia, arritmias, etc.) y D coincide con el libro (≥7 días de soporte preoperatorio en desnutrición grave). Hay dos premisas defendibles como 'no correcta' (A y B), así que la clave no se puede fijar con certeza.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 131 del PDF (inestabilidad hemodinámica: interrumpir NE; mantener hasta 60% por vía oral; soporte ≥7 días antes de cirugía)",
+   "Sabiston 21.ª ed., p. 133 del PDF (síndrome de realimentación)"
+  ],
+  "nota": "Sin clave original. Lo más probable es que el examen esperara A, pero B (75% frente a 60% del libro) también contradice al Sabiston; por eso se deja dudosa."
+ },
+ "35fd56f2e5": {
+  "k": "35fd56f2e5",
+  "estado": "dudosa",
+  "tema": "shock",
+  "stem": "¿Cuál es el tipo más común de falla orgánica en sepsis?",
+  "opts": [
+   "Pulmonar",
+   "Hepático",
+   "Hematológico",
+   "Cardiovascular",
+   "Renal"
+  ],
+  "ans": null,
+  "why": "Los libros de la carpeta (Sabiston, ABSITE) no dan cuál es el órgano que falla con más frecuencia en sepsis. En la literatura revisada aparecen respuestas distintas según la serie: algunos trabajos dicen insuficiencia respiratoria, otros lesión renal aguda, otros encefalopatía. Sin una fuente que decida, no se elige una opción.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 64 del PDF (insuficiencia multiorgánica; no indica el órgano más frecuente)",
+   "Europe PMC: revisiones de 2023-2025 sobre sepsis (PMID 37401137: lesión renal aguda 'la disfunción más frecuente'; otros trabajos señalan pulmón o cerebro)"
+  ],
+  "nota": "Sin clave original. Las fuentes consultadas se contradicen según la población estudiada."
+ },
+ "15a6bb5f35": {
+  "k": "15a6bb5f35",
+  "estado": "nueva",
+  "tema": "shock",
+  "stem": "Criterios SOFA:",
+  "opts": [
+   "PaO2/FiO2 mmHg, plaquetas, transaminasas, PAM, Glasgow, creatinina, diuresis",
+   "PaO2/FiO2 mmHg, INR, bilirrubinas, PAM, Glasgow, creatinina, diuresis",
+   "PaO2/FiO2 mmHg, plaquetas, bilirrubinas, PAM, Glasgow, creatinina, diuresis",
+   "SatO2, plaquetas, bilirrubinas, PAM, Glasgow, urea, diuresis",
+   "PaO2/FiO2 mmHg, plaquetas, bilirrubinas, PS<100 mmHg, Glasgow, creatinina, diuresis"
+  ],
+  "ans": 2,
+  "why": "La tabla SOFA mide seis sistemas: respiratorio (PaO2/FiO2), coagulación (plaquetas), hígado (bilirrubina), cardiovascular (presión arterial media y vasopresores), sistema nervioso (Glasgow) y riñón (creatinina o diuresis). Eso es C. A usa transaminasas (no es parte de SOFA), B usa INR, D usa SatO2 y urea, y E usa PAS<100, que es del qSOFA.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 87 del PDF (tabla 4.6, SOFA)",
+   "ABSITE (de Virgilio) 3.ª ed., p. 433 del PDF (SOFA: respiración, cardiovascular, coagulación, hígado, SNC, riñón; qSOFA con PAS)"
+  ],
+  "nota": "Sin clave original. La lámina del propio banco también muestra SOFA con PaO2/FiO2, plaquetas, bilirrubina, PAM, Glasgow, creatinina/diuresis."
+ },
+ "85268a7a16": {
+  "k": "85268a7a16",
+  "estado": "nueva",
+  "tema": "shock",
+  "stem": "Entre las medidas adicionales en pacientes con sepsis y shock séptico, se recomienda:",
+  "opts": [
+   "Uso de insulina en casos de glucosa > 180 mg/dl",
+   "Profilaxis de las úlceras de estrés",
+   "Profilaxis de tromboembolismo venoso con heparina de bajo peso molecular",
+   "NA",
+   "Todas"
+  ],
+  "ans": 4,
+  "why": "Las guías Surviving Sepsis Campaign 2021 recomiendan: iniciar insulina con glucosa ≥180 mg/dL (rec. 69, fuerte); profilaxis de úlceras de estrés en pacientes con riesgo de sangrado digestivo (rec. 63, débil); y profilaxis farmacológica de TEV, con preferencia por heparina de bajo peso molecular sobre la no fraccionada (rec. 64-65, fuertes). Como las tres son recomendadas, la respuesta es 'Todas'.",
+  "fuentes": [
+   "Surviving Sepsis Campaign 2021, Intensive Care Med 2021 (PMID 34599691; texto completo PMC8486643), recomendaciones 63, 64, 65 y 69",
+   "Sabiston 21.ª ed., p. 289 y p. 565 del PDF (úlceras de estrés y profilaxis de TVP en el paciente crítico)"
+  ],
+  "nota": "Sin clave original. El texto del original estaba mezclado con residuos de otra pregunta (SOFA); se reparó con la imagen. La profilaxis de úlceras de estrés es solo para pacientes con factores de riesgo de sangrado."
+ },
+ "622959ccc2": {
+  "k": "622959ccc2",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "stem": "¿Cuál de estas medidas NO estaría indicada en el tratamiento de urgencia en un paciente de 80 kg que presenta una quemadura por llama de segundo grado profundo con el 50% de superficie corporal quemada?",
+  "opts": [
+   "Dieta absoluta.",
+   "Administración de ringer lactato según la fórmula de Parkland.",
+   "Administración profiláctica de antibióticos vía intravenosa.",
+   "Administración de heparina para profilaxis antitrombótica",
+   "Todas"
+  ],
+  "ans": null,
+  "why": "Parkland con Ringer lactato sí está indicado (B) y el libro advierte riesgo de trombosis venosa profunda en el gran quemado (D). Pero dos opciones pueden ser 'no indicadas': Sabiston dice que la nutrición enteral temprana se da de inmediato por sonda nasogástrica (así que 'dieta absoluta', A, no corresponde), y ABSITE dice que los antibióticos IV profilácticos en el quemado se desaconsejan (C). Sabiston además dice que los antibióticos perioperatorios son beneficiosos en quemaduras >30% de ASCT. Con dos opciones defendibles y 'Todas' ambigua, no se puede fijar una clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF (nutrición enteral inmediata por SNG; antibióticos perioperatorios beneficiosos en >30% ASCT)",
+   "ABSITE (de Virgilio) 3.ª ed., p. 262 del PDF (antibióticos IV profilácticos desaconsejados en quemados)",
+   "Sabiston 21.ª ed., p. 515 del PDF (tabla 20.2: Parkland 4 ml/kg/%ASCT) y p. 524 (riesgo de trombosis en quemados graves)"
+  ],
+  "nota": "Sin clave original."
+ },
+ "2b02c3c0eb": {
+  "k": "2b02c3c0eb",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "stem": "Mujer de 35 años, sufre quemadura por vapor de agua en ambas nalgas, genitales y cara posterior de miembro inferior derecho. El diagnóstico es:",
+  "opts": [
+   "Gran quemado, SCQ: 15%",
+   "Gran quemado, SCQ: 23%",
+   "SCQ: 15%",
+   "SCQ: 12%",
+   "SCQ: 25%"
+  ],
+  "ans": null,
+  "why": "Cálculo con Sabiston: cada nalga 2.5% (5% las dos) + genitales 1% + cara posterior de un miembro inferior = la mitad del 18% de la regla de los nueves, o sea 9%. Total 15%. Además, la afectación de genitales/periné es criterio de derivación a centro de quemados, y la tabla de 'gran quemado' del propio banco incluye quemaduras graves en genitales o periné; por eso A.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 512 del PDF (tabla 20.1, Berkow: nalga 2.5%, genitales 1%)",
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves: miembro inferior 18%, genitales y periné 1%)",
+   "Sabiston 21.ª ed., p. 509 del PDF (criterios de derivación a unidad de quemados: genitales y periné)"
+  ],
+  "nota": "Sin clave original. Respaldo algo indirecto: mezcla la tabla de Berkow (nalgas) con la regla de los nueves (pierna); solo con Berkow completo saldría 16%, que no está entre las opciones. 'Gran quemado' se apoya en la tabla del propio banco (genitales). Supervisión: el 15 % solo sale mezclando dos métodos de cálculo distintos; con uno solo no coincide ninguna opción. Queda dudosa."
+ },
+ "841cbd0252": {
+  "k": "841cbd0252",
+  "estado": "dudosa",
+  "tema": "quemados",
+  "stem": "Respecto al caso anterior, considerando que el paciente pesa 65 kg, la fluidoterapia indicada, según Parkland, es:",
+  "opts": [
+   "5980 ml",
+   "2860 ml",
+   "3900 ml",
+   "3120 ml",
+   "N.A."
+  ],
+  "ans": null,
+  "why": "Parkland: 4 ml x kg x %SCQ de Ringer lactato en las primeras 24 h. Con 65 kg y 15% de SCQ (caso anterior): 4 x 65 x 15 = 3900 ml (la mitad en las primeras 8 h). Las otras cifras corresponden a otros porcentajes (23% = 5980; 11% = 2860; 12% = 3120).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 515 del PDF (tabla 20.2: Parkland 4 cc/kg/% ASCT quemada)"
+  ],
+  "nota": "Sin clave original. Depende de que el caso anterior sea 15% (ver pregunta anterior); si ese cálculo fuera otro, esta clave cambia. Supervisión: depende del porcentaje de la pregunta anterior, que quedó dudosa. Queda dudosa."
+ },
+ "42f976ab9f": {
+  "k": "42f976ab9f",
+  "estado": "dudosa",
+  "stem": "¿Cuál de los siguientes pacientes requiere hospitalización?",
+  "opts": [
+   "Mujer 18 años, SCQ 11%, II grado superficial, con dolor 9/10 y edema +/+++",
+   "Varón 34 años, SCQ 11%, que presenta lesiones blanquecinas indoloras en zona de quemadura",
+   "Mujer 23 años, con lesiones ampollosas, en dedo medio de mano derecha, color salmón dolor ++/+++",
+   "A + c",
+   "NA"
+  ],
+  "ans": null,
+  "tema": "quemados",
+  "why": "Según Sabiston, se debe derivar a un centro de quemados al paciente con quemadura de espesor parcial de más del 10 % de la superficie, con quemaduras en manos, o con cualquier quemadura de espesor total. La opción A (18 años, 11 %, segundo grado superficial) cumple el criterio de más del 10 %. La opción B (lesiones blanquecinas e indoloras, que sugieren espesor total) cumple el criterio de cualquier espesor total. La opción C (ampollas en un dedo de la mano) cumple el criterio de manos. Las tres cumplen algún criterio y ninguna opción (A + C, NA) recoge la combinación correcta, así que la pregunta no tiene una sola respuesta defendible. Además, el libro habla de 'derivación', no exactamente de 'hospitalización'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 509 del PDF (criterios de derivación a centro de quemados)"
+  ],
+  "nota": "La clave original no existe en el banco. Si el examen esperaba 'B', el libro lo respalda, pero también respalda A y C."
+ },
+ "da98e36445": {
+  "k": "da98e36445",
+  "estado": "dudosa",
+  "stem": "¿Para cual de los siguientes pacientes hipotensos es improbable que un ECG de 12 derivaciones y una radiografía de tórax sean útiles para identificar la causa?:",
+  "opts": [
+   "Varón de 38 años con tumefacción facial y urticaria tras picadura de abeja",
+   "Hombre de 42 años implicado en un accidente automovilístico frontal con crepitación subcutánea en el cuello, múltiples fracturas costales bilaterales y disminución de los ruidos respiratorios bilaterales",
+   "Mujer de 78 años que se sometió a una laparotomía de emergencia por obstrucción del intestino delgado estrangulada con varios episodios de hipotensión durante la operación y cambios en el segmento de ST en su trazado de EKG intraoperatorio",
+   "Varón de 42 años con una Sol herida de arma blanca en el tórax lateral izquierdo en el cuarto espacio intercostal",
+   "Hombre de 51 años con antecedentes de neumotórax espontáneo en el pasado qué colapsó en su casa con inicio repentino de dificultad respiratoria y dolor torácico. Sus sonidos respiratorios están disminuidos a la derecha"
+  ],
+  "ans": null,
+  "tema": "shock",
+  "why": "La pregunta pide el paciente hipotenso en quien el ECG y la radiografía de tórax NO ayudan a hallar la causa. La opción A (picadura de abeja con urticaria y edema facial) sugiere shock anafiláctico, que Sabiston describe como shock distributivo cuyo tratamiento de primera línea es la adrenalina (p. 551). Pero en el libro no encontré ninguna frase que diga que el ECG y la radiografía son inútiles en ese caso, ni que sí sirvan en las otras opciones (neumotórax, taponamiento, isquemia miocárdica). Sin una fuente que lo diga directamente, no se puede confirmar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 551 del PDF (shock anafiláctico como shock distributivo)"
+  ],
+  "nota": "Posible respuesta esperada: A, pero no la pude respaldar con una fuente."
+ },
+ "125a8728e7": {
+  "k": "125a8728e7",
+  "estado": "dudosa",
+  "stem": "¿Cuál de los siguientes pacientes puede clasificarse como clase 5 de la Sociedad Estadounidense de Anestesiólogos (ASA)?",
+  "opts": [
+   "Hombre de 53 años con enfermedad coronaria y dos infartos previos complicados con insuficiencia cardiaca congestiva",
+   "Hombre de 55 años con hipertensión y diabetes tipo 2 bien controladas con medicamentos y dieta",
+   "Hombre de 43 años con hipertensión, taquicardia y peritonitis difusa por úlcera gástrica perforada",
+   "Hombre de 22 años con diabetes tipo 1 bien controlada con bomba de insulina, activo y con buen estado funcional",
+   "Triatleta de 19 años con fractura abierta conminuta aislada de húmero izquierdo tras un accidente de bicicleta"
+  ],
+  "ans": null,
+  "tema": "eras",
+  "why": "La definición de ASA 5 que traen las fuentes es: paciente moribundo que no se espera que sobreviva sin la operación (de Virgilio) o con supervivencia no mayor a 24 horas (tabla del propio banco). Ninguno de los cinco casos describe claramente a un moribundo: el C tiene peritonitis difusa con taquicardia, pero sin shock ni falla orgánica descritos. Los libros de la carpeta no traen ejemplos de ASA por caso, así que no hay fuente que decida entre A y C.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 393 del PDF (definición ASA PS)"
+  ],
+  "nota": "Posiblemente la clave esperada sea C, pero no hay fuente que lo respalde.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "tema": "eras",
+    "stem": "Hombre de 66 años con hernia inguinal izquierda reducible sintomática, en evaluación para reparación electiva. Tiene hipertensión y colesterol total elevado con relación LDL/HDL desfavorable. Niega dolor torácico o disnea de esfuerzo. Presión arterial en consultorio 150/90 mmHg. ¿Cuál es el mejor plan de manejo?",
+    "opts": [
+     "Remitirlo al cardiólogo para cateterismo cardíaco y revascularización percutánea",
+     "Derivarlo para una prueba de esfuerzo con ejercicio",
+     "Indicar un betabloqueador una semana antes y programar la cirugía bajo anestesia local",
+     "Conversar con el paciente sobre el control de la presión arterial y la reducción del riesgo cardiovascular a largo plazo, y coordinar con su médico de atención primaria para optimizar su estado",
+     "Indicar betabloqueador y estatina una semana antes y proceder con la cirugía bajo anestesia local"
+    ],
+    "ans": null,
+    "why": "Sabiston dice que si el riesgo de evento cardíaco mayor es bajo (menos de 1 %) no se requieren más estudios y se puede operar, y que en pacientes que nunca recibieron betabloqueantes se inicien con prudencia; la estatina solo se considera en cirugía vascular o de alto riesgo. Eso descarta el cateterismo, la prueba de esfuerzo y el inicio rutinario de betabloqueador y estatina. Pero la opción D no dice 'proceder con la cirugía', y ninguna fuente habla de derivar al médico de atención primaria para optimizar la presión con una presión de 150/90. No hay respaldo directo para D, y no se confirma por descarte.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 351 del PDF (pasos 3-4 de evaluación cardíaca preoperatoria)",
+     "Sabiston 21.ª ed., p. 352 del PDF (betabloqueantes y estatinas)"
+    ],
+    "nota": "Probable clave esperada: D, pero sin respaldo directo en las fuentes."
+   }
+  ]
+ },
+ "bd4694a5ee": {
+  "k": "bd4694a5ee",
+  "estado": "dudosa",
+  "stem": "Varón de 70 kg, postoperado de sigmoidectomía ABIERTA de 4 horas de duración. Se evalúan las primeras 24 horas (incluidas las horas de SOP). INGRESOS: Ringer lactato 2 500 mL, ClNa 0,9 % 500 mL y 200 mL de medicación diluida; nada por vía oral. EGRESOS: diuresis 1 200 mL, sonda nasogástrica 700 mL, dren abdominal 300 mL; no ha presentado deposiciones. Temperatura sostenida 38 °C; FR 18/min. ¿Cuál es el balance hídrico de las 24 horas?",
+  "opts": [
+   "− 1 108 mL",
+   "− 1 408 mL",
+   "− 940 mL",
+   "+ 292 mL",
+   "+ 152 mL"
+  ],
+  "ans": null,
+  "tema": "liquidos",
+  "why": "Ingresos = 2 500 + 500 + 200 = 3 200 mL. Egresos medidos = 1 200 + 700 + 300 = 2 200 mL. El balance sin pérdidas insensibles es +1 000 mL. Las opciones dependen de la fórmula de pérdidas insensibles (peso, fiebre) que usa el curso, y esa fórmula no aparece en ninguno de los libros de la carpeta, así que no se puede saber cuál opción corresponde.",
+  "fuentes": [
+   "Búsqueda sin resultado: pérdidas insensibles/fiebre en Sabiston, Giménez y de Virgilio ABSITE"
+  ],
+  "nota": "Falta la fórmula de pérdidas insensibles del curso."
+ },
+ "5b3fb5b6bf": {
+  "k": "5b3fb5b6bf",
+  "estado": "dudosa",
+  "stem": "Mujer de 60 kg en UCI por fístula enterocutánea de alto gasto; no fue intervenida en el periodo evaluado. INGRESOS de las últimas 24 h: NPT a 85 mL/h durante las primeras 12 h y a 65 mL/h durante las siguientes 12 h; nutrición enteral trófica por sonda nasoyeyunal a 20 mL/h durante 18 h; un bolo de ClNa 0,9 % de 500 mL y tres dosis de antibiótico diluidas en 100 mL cada una. EGRESOS: diuresis promedio 0,9 mL/kg/h durante las 24 h; fístula 1 400 mL; sonda nasogástrica 350 mL; dos deposiciones líquidas de 150 mL cada una. Temperatura sostenida 40 °C y FR 30/min. ¿Cuál es el balance hídrico de las 24 horas?",
+  "opts": [
+   "− 1 438 mL",
+   "− 1 738 mL",
+   "− 1 238 mL",
+   "− 1 006 mL",
+   "− 790 mL"
+  ],
+  "ans": null,
+  "tema": "liquidos",
+  "why": "Ingresos = NPT 85×12 + 65×12 = 1 800 mL; enteral 20×18 = 360 mL; bolo 500 mL; antibióticos 300 mL; total 2 960 mL. Egresos medidos = diuresis 0,9×60×24 = 1 296 mL; fístula 1 400; sonda nasogástrica 350; deposiciones 300; total 3 346 mL. El balance sin pérdidas insensibles es −386 mL. La opción correcta depende de la fórmula de pérdidas insensibles con fiebre y taquipnea que use el curso, y esa fórmula no está en los libros de la carpeta.",
+  "fuentes": [
+   "Búsqueda sin resultado: pérdidas insensibles/fiebre en Sabiston, Giménez y de Virgilio ABSITE"
+  ],
+  "nota": "Falta la fórmula de pérdidas insensibles del curso."
+ },
+ "d02a1d7acc": {
+  "k": "d02a1d7acc",
+  "estado": "dudosa",
+  "stem": "Referente al soporte nutricional artificial en el paciente quirúrgico, señale lo que NO es correcto:",
+  "opts": [
+   "En pacientes con malnutrición severa se indica soporte nutricional preoperatorio durante un mínimo de 7 días",
+   "La nutrición enteral o parenteral postoperatoria debe prolongarse hasta que el paciente sea capaz de ingerir al menos el 70 % de sus necesidades calóricas",
+   "En el postoperatorio se inicia el soporte nutricional artificial de inmediato, sin importar la estabilidad hemodinámica del paciente",
+   "El síndrome de realimentación puede conducir a alteraciones hidroelectrolíticas y metabólicas graves",
+   "Cuando el tubo digestivo es funcionante, la vía enteral es de elección frente a la parenteral"
+  ],
+  "ans": null,
+  "tema": "nutricion",
+  "why": "Sabiston contradice dos opciones. La C es falsa: en inestabilidad hemodinámica o al subir los vasopresores la nutrición enteral debe interrumpirse por riesgo de isquemia intestinal. La B también difiere del libro: dice que el soporte se mantiene hasta cubrir al menos el 60 % de las necesidades por vía oral, no 70 %. Como hay dos afirmaciones que no coinciden con la fuente y no hay forma de saber cuál buscaba el examen, la pregunta queda dudosa. Las opciones A (beneficio con 7 días de nutrición parenteral antes de la cirugía) y D (realimentación con hipofosfatemia, hipopotasemia, hipomagnesemia) sí coinciden con las fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 131 del PDF (60 % de necesidades; inestabilidad hemodinámica; 7 días preoperatorios)",
+   "Sabiston 21.ª ed., p. 558 del PDF (contraindicaciones de nutrición enteral)",
+   "Sabiston 21.ª ed., p. 559 del PDF (síndrome de realimentación)"
+  ],
+  "nota": "Probable clave esperada: C (por inestabilidad hemodinámica), pero B también difiere del libro (60 % vs 70 %).",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "tema": "nutricion",
+    "stem": "Hombre de 72 años sometido a colectomía subtotal por vólvulo cecal. Su recuperación es lenta y requiere nutrición parenteral total durante tres semanas. Tras restablecerse la función intestinal comienza con diarrea significativa, pérdida de apetito, caída del cabello y una erupción pustulosa perioral. ¿Cuál es la deficiencia más probable?",
+    "opts": [
+     "Deficiencia de vitamina C",
+     "Deficiencia de selenio",
+     "Deficiencia de zinc",
+     "Deficiencia de tiamina",
+     "Deficiencia de cromo"
+    ],
+    "ans": 2,
+    "why": "El de Virgilio explica que el déficit de zinc (frecuente con nutrición parenteral total) causa retraso de cicatrización, diarrea y una erupción localizada alrededor de la boca y en pliegues de dedos, además de pérdida del apetito. La vitamina C produce escorbuto (encías sangrantes), el selenio una miocardiopatía, y el cobre anemia que no responde al hierro; la tiamina y el cromo no encajan con la erupción perioral.",
+    "fuentes": [
+     "de Virgilio ABSITE 3.ª ed., p. 497 del PDF (zinc: erupción perioral, diarrea, pérdida de apetito)"
+    ],
+    "nota": "El banco no traía clave original."
+   }
+  ]
+ },
+ "1f01227c49": {
+  "k": "1f01227c49",
+  "estado": "nueva",
+  "stem": "Paciente con desnutrición grave en quien se instala nutrición parenteral total. A las 72 horas desarrolla el llamado síndrome de realimentación. Este se deberá principalmente a:",
+  "opts": [
+   "Sobrehidratación",
+   "Hiperpotasemia",
+   "Hipofosfatemia",
+   "Hipermagnesemia",
+   "Hipernatremia"
+  ],
+  "ans": 2,
+  "tema": "nutricion",
+  "why": "En el síndrome de realimentación, el aporte de carbohidratos eleva la insulina y el fosfato pasa al interior de las células, por lo que aparece hipofosfatemia (junto con hipopotasemia, hipomagnesemia e hipocalcemia). Por eso la hipofosfatemia es la alteración principal; hiperpotasemia, hipermagnesemia e hipernatremia no son las que se describen.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 408 del PDF (mecanismo de realimentación)",
+   "Sabiston 21.ª ed., p. 559 del PDF (hipopotasemia, hipofosfatemia e hipomagnesemia)"
+  ],
+  "nota": "El banco no traía clave original."
+ },
+ "47ea3ec28a": {
+  "k": "47ea3ec28a",
+  "estado": "nueva",
+  "stem": "Paciente de 60 años acude a emergencia con quemaduras de segundo grado en la región anterior del tronco, los genitales y el dorso de la mano derecha. Según la regla de los nueve de Wallace, ¿qué porcentaje de superficie corporal quemada presenta?",
+  "opts": [
+   "11 %",
+   "18 %",
+   "20 %",
+   "36 %",
+   "38 %"
+  ],
+  "ans": 2,
+  "tema": "quemados",
+  "why": "Sabiston da la regla de los nueves en adultos: tronco anterior 18 %, genitales y periné 1 %, y la mano abierta (palma y dedos) aproximadamente 1 %. Suma: 18 + 1 + cerca de 1 (dorso de la mano) = alrededor de 20 %. Las demás opciones no coinciden con esa suma (18 % sería solo el tronco; 11 %, 36 % y 38 % están lejos).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves y regla de la mano)"
+  ],
+  "nota": "Respaldo en parte indirecto: el libro da 1 % para la mano completa, no solo el dorso; por eso el total es aproximado (19 a 20 %). El banco no traía clave original."
+ },
+ "1a7c777728": {
+  "k": "1a7c777728",
+  "estado": "nueva",
+  "stem": "Paciente de 69 años sometida a duodenopancreatectomía por cáncer de cabeza de páncreas. Se le coloca una sonda de yeyunostomía para facilitar la reposición nutricional. ¿Cuál de las siguientes constituye una contraindicación para el uso de la sonda?",
+  "opts": [
+   "Íleo",
+   "Fístula pancreática",
+   "Delirio",
+   "Vaciamiento gástrico retardado",
+   "Pancreatitis aguda"
+  ],
+  "ans": 0,
+  "tema": "nutricion",
+  "why": "Sabiston enumera entre las contraindicaciones absolutas de la nutrición enteral el íleo, la falta de continuidad intestinal, la obstrucción, las hemorragias intestinales activas y la inestabilidad hemodinámica. De las opciones, solo el íleo está en esa lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 558 del PDF (contraindicaciones absolutas de la nutrición enteral)"
+  ],
+  "nota": "Respaldo directo para íleo; las demás opciones no aparecen como contraindicación en esa página. El banco no traía clave original."
+ },
+ "ad6b04a853": {
+  "k": "ad6b04a853",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta respecto a la lesión por inhalación en el paciente quemado?",
+  "opts": [
+   "La radiografía de tórax al ingreso es útil para descartar la lesión por inhalación en ese momento",
+   "Una lesión por inhalación supraglótica puede requerir intubación, incluso si el intercambio gaseoso no está comprometido inicialmente",
+   "La broncoscopia diaria es obligatoria para controlar la evolución de la lesión por inhalación",
+   "Con una higiene pulmonar adecuada, la neumonía es una complicación inusual de la inhalación de humo",
+   "La inhalación de humo es, en esencia, un subtipo del síndrome de dificultad respiratoria aguda"
+  ],
+  "ans": 1,
+  "tema": "quemados",
+  "why": "Sabiston explica que la lesión de la vía aérea superior produce edema localizado que, sumado al edema generalizado del quemado grave, puede obstruir la vía aérea durante horas (no minutos), por lo que ante sospecha se vigila de forma continua y se valora intervenir la vía aérea. El diagnóstico definitivo se hace con broncoscopia y se repite según la evolución, no hay una regla de hacerla diario. Esto respalda la opción B.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514 del PDF (edema de vía aérea superior)",
+   "Sabiston 21.ª ed., p. 516 del PDF (diagnóstico por broncoscopia)"
+  ],
+  "nota": "La opción B está apoyada por el libro (edema que obstruye en horas); no encontré en las páginas leídas texto sobre la radiografía ni sobre la neumonía. El banco no traía clave original."
+ },
+ "30e12e8a83": {
+  "k": "30e12e8a83",
+  "estado": "nueva",
+  "stem": "Varón de 41 años que cae desde 4 metros de altura. Presenta paraplejía, anestesia por debajo de T4 y pérdida de reflejos osteotendinosos. PA 82/44 mmHg, FC 48/min, piel tibia y seca. No hay sangrado externo, FAST negativo y radiografía de pelvis sin fractura. Lactato 2,1 mmol/L. ¿Cuál es la interpretación y el manejo inicial más adecuados?",
+  "opts": [
+   "Shock hemorrágico clase IV; iniciar transfusión masiva inmediata aunque no haya evidencia de sangrado",
+   "Shock neurogénico por lesión medular alta; fluidos prudentes y vasopresor para restaurar el tono vascular, además del manejo causal neurológico",
+   "Shock séptico temprano; iniciar antibióticos y esperar respuesta antes de usar vasopresores",
+   "Shock anafiláctico; administrar epinefrina intramuscular por la hipotensión",
+   "Shock cardiogénico; iniciar diuréticos porque la piel caliente descarta hipovolemia"
+  ],
+  "ans": 1,
+  "tema": "shock",
+  "why": "Hipotensión con bradicardia relativa, piel tibia y lesión medular alta es shock neurogénico (de Virgilio). El manejo es restaurar el volumen y, si no responde y ya se descartó hemorragia, usar vasoconstrictores para recuperar el tono vascular. Sabiston también indica tratar la bradicardia por lesión medular alta con atropina y vasopresor. El resto de opciones no encajan: no hay sangrado (FAST y pelvis negativos), ni fiebre, ni exposición alérgica, ni falla cardíaca.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 246 del PDF (shock neurogénico: fluidos y luego vasoconstrictor)",
+   "Sabiston 21.ª ed., p. 550 del PDF (bradicardia por lesión medular alta: atropina y vasopresor)"
+  ],
+  "nota": "El banco no traía clave original. El texto original mezclaba esta pregunta con la 27, que va en 'dividir'.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "tema": "eventraciones",
+    "stem": "Paciente con eventración de gran tamaño (> 10 cm) y pérdida de domicilio, candidato a reparación quirúrgica programada. ¿Cuál de las siguientes estrategias preoperatorias podría considerarse para facilitar el cierre de la pared abdominal y reducir la tensión?",
+    "opts": [
+     "Restricción hídrica severa para disminuir el volumen abdominal",
+     "Inducción de neumoperitoneo progresivo preoperatorio",
+     "Administración de relajantes musculares de acción prolongada",
+     "Realización de una colostomía de descarga profiláctica",
+     "Dieta hipercalórica para aumentar el tejido adiposo abdominal"
+    ],
+    "ans": null,
+    "why": "El capítulo de eventraciones de Giménez incluye 'neumoperitoneo progresivo preoperatorio' como técnica y, en la página de pérdida de domicilio, menciona la insuflación periódica de aire que aumenta la capacidad abdominal. Sabiston también menciona la pérdida del derecho a domicilio abdominal como problema de la reparación. Las otras opciones no aparecen como estrategias en esas fuentes.",
+    "fuentes": [
+     "Giménez, Cirugía 2.ª ed., p. 142 del PDF (eventraciones, pérdida de domicilio, insuflación de aire)",
+     "Giménez, Cirugía 2.ª ed., p. 960 del PDF (índice: neumoperitoneo progresivo preoperatorio)",
+     "Sabiston 21.ª ed., p. 1146 del PDF (pérdida del derecho a domicilio abdominal)"
+    ],
+    "nota": "Respaldo parcialmente indirecto: el texto del Giménez salió con OCR deficiente en esa página y se apoya en el índice del libro. El banco no traía clave original. Supervisión: respaldo indirecto (texto del libro mal escaneado). Queda dudosa."
+   }
+  ]
  }
 }

@@ -1,0 +1,156 @@
+[
+ {
+  "k": "42f976ab9f",
+  "stem": "¿Cuál de los siguientes pacientes requiere hospitalización?",
+  "opts": [
+   "Mujer 18 años, SCQ 11%, II grado superficial, con dolor 9/10 y edema +/+++",
+   "Varón 34 años, SCQ 11%, que presenta lesiones blanquecinas indoloras en zona de quemadura",
+   "Mujer 23 años, con lesiones ampollosas, en dedo medio de mano derecha, color salmón dolor ++/+++",
+   "A + c",
+   "NA"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "da98e36445",
+  "stem": "¿Para cual de los siguientes pacientes hipotensos es improbable que un ECG de 12 derivaciones y una radiografía de tórax sean útiles para identificar la causa?:",
+  "opts": [
+   "Varón de 38 años con tumefacción facial y urticaria tras picadura de abeja",
+   "Hombre de 42 años implicado en un accidente automovilístico frontal con crepitación subcutánea en el cuello, múltiples fracturas costales bilaterales y disminución de los ruidos respiratorios bilaterales",
+   "Mujer de 78 años que se sometió a una laparotomía de emergencia por obstrucción del intestino delgado estrangulada con varios episodios de hipotensión durante la operación y cambios en el segmento de ST en su trazado de EKG intraoperatorio",
+   "Varón de 42 años con una Sol herida de arma blanca en el tórax lateral izquierdo en el cuarto espacio intercostal",
+   "Hombre de 51 años con antecedentes de neumotórax espontáneo en el pasado qué colapsó en su casa con inicio repentino de dificultad respiratoria y dolor torácico. Sus sonidos respiratorios están disminuidos a la derecha"
+  ],
+  "clave_original": null,
+  "tema": "shock",
+  "alto_valor": false
+ },
+ {
+  "k": "125a8728e7",
+  "stem": "¿Cuál de los siguientes pacientes puede clasificarse como clase 5 de la Sociedad Estadounidense de Anestesiólogos (ASA)? a. Hombre de 53 años con enfermedad coronaria y dos infartos previos complicados con insuficiencia cardiaca congestiva b. Hombre de 55 años con hipertensión y diabetes tipo 2 bien controladas con medicamentos y dieta c. Hombre de 43 años con hipertensión, taquicardia y peritonitis difusa por úlcera gástrica perforada d. Hombre de 22 años con diabetes tipo 1 bien controlada con bomba de insulina, activo y con buen estado funcional e. Triatleta de 19 años con fractura abierta conminuta aislada de húmero izquierdo tras un accidente de bicicleta 11. Hombre de 66 años con hernia inguinal izquierda reducible sintomática, en evaluación para reparación electiva. Tiene hipertensión y colesterol total elevado con relación LDL/HDL desfavorable. Niega dolor torácico o disnea de esfuerzo. Presión arterial en consultorio 150/90 mmHg. ¿Cuál es el mejor plan de manejo?",
+  "opts": [
+   "Remitirlo al cardiólogo para cateterismo cardíaco y revascularización percutánea",
+   "Derivarlo para una prueba de esfuerzo con ejercicio",
+   "Indicar un betabloqueador una semana antes y programar l cirugía bajo anestesia local",
+   "Conversar con el paciente sobre el control de la presión arterial y la reducción del riesgo cardiovascular a largo plazo, y coordinar con su médico de atención primaria para optimizar su estado",
+   "Indicar betabloqueador y estatina una semana antes y proceder con la cirugía bajo anestesia local"
+  ],
+  "clave_original": null,
+  "tema": "eras",
+  "alto_valor": false
+ },
+ {
+  "k": "bd4694a5ee",
+  "stem": "Varón de 70 kg, postoperado de sigmoidectomía ABIERTA de 4 horas de duración. Se evalúan las primeras 24 horas (incluidas las horas de SOP). INGRESOS: Ringer lactato 2 500 mL, ClNa 0,9 % 500 mL y 200 mL de medicación diluida; nada por vía oral. EGRESOS: diuresis 1 200 mL, sonda nasogástrica 700 mL, dren abdominal 300 mL; no ha presentado deposiciones. Temperatura sostenida 38 °C; FR 18/min. ¿Cuál es el balance hídrico de las 24 horas?",
+  "opts": [
+   "− 1 108 mL",
+   "− 1 408 mL",
+   "− 940 mL",
+   "+ 292 mL",
+   "+ 152 mL"
+  ],
+  "clave_original": null,
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "5b3fb5b6bf",
+  "stem": "Mujer de 60 kg en UCI por fístula enterocutánea de alto gasto; no fue intervenida en el periodo evaluado. INGRESOS de las últimas 24 h: NPT a 85 mL/h durante las primeras 12 h y a 65 mL/h durante las siguientes 12 h; nutrición enteral trófica por sonda nasoyeyunal a 20 mL/h durante 18 h; un bolo de ClNa 0,9 % de 500 mL y tres dosis de antibiótico diluidas en 100 mL cada una. EGRESOS: diuresis promedio 0,9 mL/kg/h durante las 24 h; fístula 1 400 mL; sonda nasogástrica 350 mL; dos deposiciones líquidas de 150 mL cada una. Temperatura sostenida 40 °C y FR 30/min. ¿Cuál es el balance hídrico de las 24 horas?",
+  "opts": [
+   "− 1 438 mL",
+   "− 1 738 mL",
+   "− 1 238 mL",
+   "− 1 006 mL",
+   "− 790 mL"
+  ],
+  "clave_original": null,
+  "tema": "liquidos",
+  "alto_valor": false
+ },
+ {
+  "k": "d02a1d7acc",
+  "stem": "Referente al soporte nutricional artificial en el paciente quirúrgico, señale lo que NO es correcto: a. En pacientes con malnutrición severa se indica soporte nutricional preoperatorio durante un mínimo de 7 días b. La nutrición enteral o parenteral postoperatoria debe prolongarse hasta que el paciente sea capaz de ingerir al menos el 70 % de sus necesidades calóricas c. En el postoperatorio se inicia el soporte nutricional artificial de inmediato, sin importar la estabilidad hemodinámica del paciente d. El síndrome de realimentación puede conducir a alteraciones hidroelectrolíticas y metabólicas graves e. Cuando el tubo digestivo es funcionante, la vía enteral es de elección frente a la parenteral 18. Hombre de 72 años sometido a colectom Su recuperación es lenta y requiere nut tres semanas. Tras restablecerse la fun diarrea significativa, pérdida de apetito erupción pustulosa perioral. ¿Cuál es la",
+  "opts": [
+   "Deficiencia de vitamina C",
+   "Deficiencia de selenio",
+   "Deficiencia de zinc",
+   "Deficiencia de tiamina",
+   "Deficiencia de cromo"
+  ],
+  "clave_original": null,
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "1f01227c49",
+  "stem": "Paciente con desnutrición grave en quien se parenteral total. A las 72 horas desarrolla síndrome de realimentación. Este se deberá",
+  "opts": [
+   "Sobrehidratación",
+   "Hiperpotasemia",
+   "Hipofosfatemia",
+   "Hipermagnesemia",
+   "Hipernatremia"
+  ],
+  "clave_original": null,
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "47ea3ec28a",
+  "stem": "Paciente de 60 años acude a emergencia con quemaduras de segundo grado en la región anterior del tronco, los genitales y el dorso de la mano derecha. Según la regla de los nueve de Wallace, ¿qué porcentaje de superficie corporal quemada presenta?",
+  "opts": [
+   "11 %",
+   "18 %",
+   "20 %",
+   "36 %",
+   "38 %"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "1a7c777728",
+  "stem": "Paciente de 69 años sometida a duodenopancreatectomía por cáncer de cabeza de páncreas. Se le coloca una sonda de yeyunostomía para facilitar la reposición nutricional. ¿Cuál de las siguientes constituye una contraindicación para el uso de la sonda?",
+  "opts": [
+   "Íleo",
+   "Fístula pancreática",
+   "Delirio",
+   "Vaciamiento gástrico retardado",
+   "Pancreatitis aguda"
+  ],
+  "clave_original": null,
+  "tema": "nutricion",
+  "alto_valor": false
+ },
+ {
+  "k": "ad6b04a853",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta respec lesión por inhalación en el paciente quemado?",
+  "opts": [
+   "La radiografía de tórax al ingreso es útil para descar lesión por inhalación en ese momento",
+   "Una lesión por inhalación supraglótica puede requerir intubación, incluso si el intercambio gaseoso no está comprometido inicialmente",
+   "La broncoscopia diaria es obligatoria para controlar l evolución de la lesión por inhalación",
+   "Con una higiene pulmonar adecuada, la neumonía es u complicación inusual de la inhalación de humo",
+   "La inhalación de humo es, en esencia, un subtipo del síndrome de dificultad respiratoria aguda"
+  ],
+  "clave_original": null,
+  "tema": "quemados",
+  "alto_valor": false
+ },
+ {
+  "k": "30e12e8a83",
+  "stem": "Varón de 41 años que cae desde 4 metros de altura. Presenta paraplejía, anestesia por debajo de T4 y pérdida de reflejos osteotendinosos. PA 82/44 mmHg, FC 48/min, piel tibia y seca. No hay sangrado externo, FAST negativo y radiografía de pelvis sin fractura. Lactato 2,1 mmol/L. ¿Cuál es la interpretación y el manejo inicial más adecuados? a. Shock hemorrágico clase IV; iniciar transfusión masiva inmediata aunque no haya evidencia de sangrado b. Shock neurogénico por lesión medular alta; fluidos prudentes y vasopresor para restaurar el tono vascular, además del manejo causal neurológico c. Shock séptico temprano; iniciar antibióticos y esperar respuesta antes de usar vasopresores d. Shock anafiláctico; administrar epinefrina intramuscular por la hipotensión e. Shock cardiogénico; iniciar diuréticos porque la piel caliente descarta hipovolemia 27.Paciente con eventración de gran tamaño (> 10 cm) y pérdida de domicilio, candidato a reparación quirúrgica programada. ¿Cuál de las siguientes estrategias preoperatorias podría considerarse para facilitar el cierre de la pared abdominal y reducir la tensión?",
+  "opts": [
+   "Restricción hídrica severa para disminuir el volumen abdominal",
+   "Inducción de neumoperitoneo progresivo preoperatorio",
+   "Administración de relajantes musculares de acción prolongada",
+   "Realización de una colostomía de descarga profiláctica",
+   "Dieta hipercalórica para aumentar el tejido adiposo abdominal"
+  ],
+  "clave_original": null,
+  "tema": "shock",
+  "alto_valor": false
+ }
+]

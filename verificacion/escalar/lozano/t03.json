@@ -1,0 +1,196 @@
+[
+ {
+  "k": "53da65b801",
+  "stem": "Un hombre de 65 años con un tumor maligno tiene un nivel sérico elevado de factor de necrosis tumoral alfa (TNF-α) y un nivel urinario elevado de factor inductor de proteólisis (PIF). ¿Cuál de los siguientes cánceres tiene con mayor probabilidad este paciente?",
+  "opts": [
+   "Colon",
+   "Próstata",
+   "Páncreas",
+   "Mama",
+   "Hígado"
+  ],
+  "clave_original": "C",
+  "tema": "nutricion"
+ },
+ {
+  "k": "bfbc8ce82e",
+  "stem": "El mal control glucémico es una manifestación de deficiencia de:",
+  "opts": [
+   "Zinc",
+   "Cobre",
+   "Cromo",
+   "Molibdeno",
+   "Selenio"
+  ],
+  "clave_original": "C",
+  "tema": "nutricion"
+ },
+ {
+  "k": "06d7a2685e",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la NPT a largo plazo?",
+  "opts": [
+   "La grasa es considerada la base nutricional de la NPT.",
+   "Puede conducir a una matriz de gel mucinoso con cristales de colesterol y bilirrubinato de calcio en la vesícula biliar.",
+   "La disfunción hepática relacionada con la NPT es menos probable que sea letal en lactantes que en adultos.",
+   "No se ha demostrado que conduzca a fibrosis hepática.",
+   "Se ha demostrado que la suplementación con carnitina revierte el daño hepático relacionado con la NPT."
+  ],
+  "clave_original": "B",
+  "tema": "nutricion"
+ },
+ {
+  "k": "cd7f043642",
+  "stem": "¿Cuál de los siguientes aminoácidos ha demostrado potencial para aumentar la capacidad absortiva del intestino en pacientes que se han sometido a resección de un segmento largo del intestino delgado?",
+  "opts": [
+   "Glutamina",
+   "Serina",
+   "Alanina",
+   "Tirosina",
+   "Arginina"
+  ],
+  "clave_original": "A",
+  "tema": "nutricion"
+ },
+ {
+  "k": "e221310b19",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las deficiencias nutricionales después de una gastrectomía parcial con una reconstrucción de Billroth II?",
+  "opts": [
+   "absorción de calcio puede ser mínimamente afectado",
+   "la anemia por deficiencia de hierro es más común con un Billroth I que con un Billroth II",
+   "la deficiencia de vitamina B12 se presentará con un volumen corpuscular medio bajo",
+   "el estómago no tiene capacidad de absorción intrínseca",
+   "la absorción de carbohidratos no se ve afectada después de la cirugía"
+  ],
+  "clave_original": "E",
+  "tema": "nutricion"
+ },
+ {
+  "k": "567da1f2f2",
+  "stem": "Paciente varón de 80 años diabetico, PO5 de laparotomía exploratoria. entratamiento para diabetes con insulina de acción lenta (glargina). no baja la glucosade220mg/ dl a pesar de tratamiento. el pobre control de glucosa es una manifestación de deficiencia de:",
+  "opts": [
+   "zinc",
+   "cobre",
+   "cromo",
+   "molibdeno",
+   "selenio"
+  ],
+  "clave_original": "C",
+  "tema": "nutricion"
+ },
+ {
+  "k": "eabe67862a",
+  "stem": "Mientras admiten a un nuevo paciente por hipernatremia, la enfermera nota que la medicación del paciente empeora la condición del paciente, ¿cuál sería el medicamento?",
+  "opts": [
+   "Antiácidos",
+   "Diuréticos",
+   "Antipsicóticos",
+   "Antidepresivos",
+   "N.A"
+  ],
+  "clave_original": "A",
+  "tema": "liquidos"
+ },
+ {
+  "k": "d2a52527e6",
+  "stem": "¿Qué paciente tiene mayor riesgo de toxicidad con digoxina?",
+  "opts": [
+   "Un paciente con resultados de laboratorio incluyendo Ca 8.9 mg/dl",
+   "Un paciente con enfermedad de Cushing recibiendo Laxis ev para la diuresis",
+   "Un paciente con resultados de laboratorio incluyendo K 3.8 mEq/L",
+   "Un paciente con perdida de peso y disminución del apetito."
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "08f762546b",
+  "stem": "Un hombre de 22 años es llevado al departamento de emergencias por sus amigos tras sufrir una herida punzocortante en su muslo izquierdo. El hombre no puede responder preguntas adecuadamente. Su ropa está empapada de sangre. Su presión arterial es de 80/44 mmHg y su pulso es de 130 latidos por minuto. Sus extremidades están frías y húmedas. Sus amigos dicen que pesa 154 libras (aproximadamente 70 kg). ¿Aproximadamente cuánto de su peso corporal total está compuesto por el volumen de líquido intravascular?",
+  "opts": [
+   "5 kg",
+   "16 kg",
+   "30 kg",
+   "42 kg",
+   "55 kg"
+  ],
+  "clave_original": "A",
+  "tema": "shock"
+ },
+ {
+  "k": "4b3cf76e8a",
+  "stem": "Un hombre de 45 años y 70 kg está hospitalizado luego de una reparación de hernia inguinal directa. La cirugía transcurrió sin complicaciones. Su presión arterial es de 132/80 mmHg y el pulso es de 76 latidos por minuto. ¿Cuánto líquido intravenoso debería estar recibiendo por hora?",
+  "opts": [
+   "50 mL/h",
+   "75 mL/h",
+   "110 mL/h",
+   "125 mL/h",
+   "150 mL/h"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ },
+ {
+  "k": "851a28f203",
+  "stem": "Una mujer de 27 años se presenta al departamento de emergencias con 6 horas de dolor abdominal y vómitos. El dolor comenzó alrededor de su ombligo con una intensidad de 4/10 pero ahora está localizado en el cuadrante inferior derecho y es de 8/10. Su presión arterial es de 130/82 mmHg, el pulso es de 90, la frecuencia respiratoria es de 18 y la temperatura es de 38.5 °C. Se le realiza una apendicectomía de emergencia sin complicaciones. Su sodio preoperatorio era de 145 mEq/L y ahora es de 152 mEq/L. Su excreción fraccional de sodio (FENa) es < 1%. ¿Cuál de las siguientes es la causa más probable de su hipernatremia?",
+  "opts": [
+   "Necrosis tubular aguda (NTA)",
+   "Dieta alta en sal",
+   "Iatrogénica",
+   "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+   "Vómitos"
+  ],
+  "clave_original": "E",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5f5a75e13e",
+  "stem": "Un hombre de 65 años que fue sometido a cirugía por una úlcera gástrica perforada y tiene colocada una sonda nasogástrica. Se encuentra que su potasio sérico es de 2.8 mEq/L. ¿Cuántos mEq de potasio se requerirán aproximadamente para elevar su nivel sérico de potasio a 3.5 mEq/L?",
+  "opts": [
+   "20 mEq",
+   "35 mEq",
+   "50 mEq",
+   "70 mEq",
+   "105 mEq"
+  ],
+  "clave_original": "D",
+  "tema": "liquidos"
+ },
+ {
+  "k": "dd12b54220",
+  "stem": "Un hombre de 45 años es llevado a cirugía por una herida por arma blanca en el abdomen. Se encuentra hipotenso con taquicardia y alteración del estado mental. Tiene una hemoglobina de 6 g/dL. Se realiza una laparotomía de emergencia. ¿Cuál de los siguientes es el mediador más importante en la respuesta fisiológica inicial de este paciente?",
+  "opts": [
+   "Hormona antidiurética (ADH)",
+   "Cortisol",
+   "Aldosterona",
+   "Renina",
+   "Catecolaminas"
+  ],
+  "clave_original": "E",
+  "tema": "shock"
+ },
+ {
+  "k": "dc14e11491",
+  "stem": "Un hombre de 62 años con antecedentes de insuficiencia cardíaca congestiva es admitido para cirugía electiva. Está tomando furosemida. Su potasio sérico es de 3.1 mEq/L. ¿Cuál de los siguientes hallazgos se espera observar en su electrocardiograma (ECG)?",
+  "opts": [
+   "Elevación del segmento ST",
+   "Ondas U prominentes",
+   "Ondas T picudas",
+   "Ensanchamiento del complejo QRS",
+   "Ausencia de ondas P"
+  ],
+  "clave_original": "B",
+  "tema": "liquidos"
+ },
+ {
+  "k": "31fee44f2b",
+  "stem": "Un paciente de 54 años con dx de dm2 no controlada presenta colecistitis aguda y una glucemia de 800 mg/ dl, 120 mEq/L un anion gap de 22 y cetonas en orina positivo. Él ha iniciado fluidos endovenosos, insulina en goteo y antibióticos. qué es cierto en relación al sodio:",
+  "opts": [
+   "el sodio correcto es 127 mEq/l",
+   "el sodio no debe ser corregido más rápido de 5 meq/l en 24 h",
+   "el sodio corregido es 134 meq/l",
+   "es imposible de corregir el sodio en el contexto de presencia de cetonas",
+   "su hiponatremia se debe a la diuresis inducida por glucosa"
+  ],
+  "clave_original": "C",
+  "tema": "liquidos"
+ }
+]
