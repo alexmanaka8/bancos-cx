@@ -1,0 +1,131 @@
+[
+ {
+  "k": "a216e3563e",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el microorganismo que se aísla con mayor frecuencia en el líquido peritoneal infectado de un paciente con un catéter de diálisis peritoneal?",
+  "opts": [
+   "Estreptococo betahemolítico.",
+   "Enterococcus.",
+   "Escherichia coli.",
+   "Estafilococo coagulasa negativo.",
+   "Estafilococo coagulasa positivo."
+  ],
+  "ans": 3,
+  "why": "El ABSITE dice que el estafilococo coagulasa negativo (S. epidermidis) es, por mucho, la causa más frecuente de infección relacionada con el catéter de diálisis peritoneal. S. aureus es coagulasa positivo y menos frecuente.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 25 del PDF (pregunta 5)"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "da39d8910b",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la causa más frecuente de un absceso retroperitoneal?",
+  "opts": [
+   "Diverticulitis.",
+   "Apendicitis.",
+   "Infección renal.",
+   "Tuberculosis vertebral.",
+   "Diseminación hematógena desde un foco distante."
+  ],
+  "ans": 2,
+  "why": "El ABSITE: la fuente más frecuente de abscesos retroperitoneales es secundaria, y las infecciones renales son casi el 50% de los casos. Otras causas (apendicitis retrocecal, úlcera duodenal perforada, pancreatitis, diverticulitis) son menos frecuentes; la diseminación hematógena no es un factor importante en los secundarios.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 25 del PDF (pregunta 7)"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "867768e345",
+  "estado": "confirmada",
+  "stem": "Un hombre de 50 años con ascitis cirrótica secundaria a hepatitis C presenta fiebre, elevación del recuento de leucocitos y dolor abdominal. Tiene antecedentes de várices esofágicas y lleva seis meses en lista de espera para un trasplante hepático. Se realiza una paracentesis y se envía el líquido para cultivo. En el cultivo crece un único microorganismo. ¿Cuál de las siguientes afirmaciones sobre esta afección es verdadera?",
+  "opts": [
+   "Lo más probable es que se deba a una apendicitis.",
+   "El uso profiláctico de fluoroquinolonas puede prevenir esta afección.",
+   "En adultos, el síndrome nefrótico es el factor de riesgo más frecuente.",
+   "En niños, E. coli es el microorganismo aislado con mayor frecuencia.",
+   "Probablemente necesitará una laparotomía exploratoria."
+  ],
+  "ans": 1,
+  "why": "Es una peritonitis bacteriana espontánea (un solo germen, cirrosis, ascitis). El ABSITE indica que se puede dar profilaxis con fluoroquinolonas en cirróticos de alto riesgo. La causa no es apendicitis, el tratamiento es con antibióticos solos (no cirugía) y el factor de riesgo es la cirrosis, no el síndrome nefrótico (ese es de niños).",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 25 del PDF (pregunta 8)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Texto reparado con el original: las opciones D y E estaban mezcladas. El libro respalda la opción B; las otras se descartan por lo que dice la respuesta del libro (apendicitis, tratamiento con antibióticos y factor de riesgo cirrótico)."
+ },
+ {
+  "k": "8a62784ee9",
+  "estado": "confirmada",
+  "stem": "Una mujer de 32 años, con 24 semanas de gestación, acude a Emergencias por dolor abdominal de inicio agudo, fiebre y vómitos. Refiere que el dolor la despertó en mitad de la noche; inicialmente era epigástrico y posteriormente se volvió difuso. No presenta sangrado vaginal y la monitorización fetal muestra parámetros normales. En la exploración física tiene dolor difuso a la palpación y defensa abdominal, más intensos en el epigastrio. La exploración pélvica es normal. El recuento de leucocitos es de 15 000 células/µL. La radiografía abdominal muestra algunas asas intestinales dilatadas, sin otros hallazgos. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Realizar una ecografía abdominal.",
+   "Realizar una tomografía computarizada de abdomen y pelvis con contraste.",
+   "Ingresar a la paciente y observarla con exploraciones abdominales seriadas.",
+   "Realizar una laparotomía exploratoria.",
+   "Realizar una laparoscopia diagnóstica."
+  ],
+  "ans": 1,
+  "why": "Hay signos de peritonitis (defensa, leucocitosis, asas dilatadas) y posible víscera perforada u obstrucción en asa cerrada. El ABSITE dice que en la gestante el diagnóstico rápido y exacto pesa más que el riesgo de la radiación: pasadas las 15 semanas no hay efectos deterministas en el feto, y la perforación es mucho más peligrosa para él. Por eso el siguiente paso es la TC de abdomen y pelvis con contraste.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 33 del PDF (respuesta 12)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "El libro menciona la RM y la ecografía como alternativas, pero la TC es la respuesta del libro en este caso urgente."
+ },
+ {
+  "k": "d14a0c3908",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años, diagnosticada recientemente de fibrilación auricular y tratada con un anticoagulante, presenta dolor abdominal de inicio súbito, no relacionado con la ingesta de alimentos. Como antecedente quirúrgico, tiene una artroplastia total de cadera realizada hace tres años. En la exploración física se palpa una masa dolorosa en la pared abdominal, por encima del ombligo, que persiste cuando contrae los músculos abdominales. ¿Cuál de las siguientes opciones explica más probablemente el hallazgo?",
+  "opts": [
+   "Una neoplasia maligna.",
+   "Hemorragia de la arteria epigástrica superior.",
+   "Traumatismo oculto.",
+   "Una infección intraabdominal.",
+   "Hemorragia de la arteria epigástrica inferior."
+  ],
+  "ans": 1,
+  "why": "Masa dolorosa en la pared sobre el ombligo que persiste al contraer los músculos (signo de Fothergill) en una paciente anticoagulada es un hematoma de la vaina de los rectos. Por encima de la línea arqueada suele ser lesión de la arteria epigástrica superior; por debajo, la inferior.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 35 del PDF (hematoma de la vaina del recto)"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "609ff608f8",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con diabetes mellitus y un índice de masa corporal (IMC) de 35 kg/m² acude a consulta por un abultamiento doloroso e intermitente en la región media del abdomen, sobre una antigua cicatriz de laparotomía en la línea media. En la exploración se observa un abultamiento reducible en la línea media y un defecto fascial de 7 × 3 cm. La paciente desea someterse a cirugía. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Derivarla a fisioterapia para fortalecer la pared abdominal.",
+   "Reparación abierta de la hernia con malla supraaponeurótica (onlay).",
+   "Reparación abierta de la hernia con malla subaponeurótica (sublay).",
+   "Reparación laparoscópica de la hernia con malla.",
+   "Separación de componentes y reparación primaria."
+  ],
+  "ans": 3,
+  "why": "Según el ABSITE, en una paciente con diabetes y obesidad (riesgo de infección) la mejor opción es la reparación laparoscópica con malla, porque tiene menos infección de herida que la abierta y recidiva igual que la abierta con malla. La fisioterapia no corrige el defecto y la separación de componentes con cierre primario no es lo recomendado.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 41 del PDF (pregunta 1, hernia incisional)"
+  ],
+  "tema": "hernias",
+  "nota": "El libro es una referencia de examen (ABSITE) basada en riesgo de infección; no se contrastó con Sabiston."
+ },
+ {
+  "k": "c68111a588",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años con antecedentes de resección abdominoperineal por cáncer rectal hace dos años presenta dolor y sensación intermitente de plenitud junto a su colostomía, a veces acompañados de náuseas y vómitos. En la exploración, la colostomía tiene un aspecto normal y no se palpa ningún abultamiento. La tomografía computarizada muestra un asa intestinal superficial a la fascia, adyacente al estoma. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Reparación primaria de la hernia paraestomal.",
+   "Reubicación de la colostomía.",
+   "Reparación con malla protésica.",
+   "Reparación con malla biológica.",
+   "Tranquilizar al paciente e indicarle signos de alarma por los que debe regresar."
+  ],
+  "ans": 2,
+  "why": "El paciente tiene una hernia paraestomal sintomática (obstrucción intermitente) y ya no se puede cerrar el estoma por la resección abdominoperineal. El ABSITE indica reparar con malla sintética (técnica de Sugarbaker): la reparación primaria tiene hasta 70% de recidiva, la malla biológica recidiva más y la reubicación del estoma crea otra hernia posible.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 43 del PDF (hernia paraestomal)"
+  ],
+  "tema": "hernias"
+ }
+]

@@ -1,0 +1,236 @@
+[
+ {
+  "k": "1a3917f4ce",
+  "sec": "Abdomen hernia",
+  "stem": "Una mujer de 60 años con enfermedad renal crónica va a someterse a la colocación electiva de un catéter de diálisis peritoneal. Durante la evaluación preoperatoria se identifica una pequeña hernia inguinal reducible e indolora. La paciente refiere que la tiene desde hace años y que no le causa molestias. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Colocar únicamente el catéter de diálisis peritoneal.",
+   "Reparar la hernia inguinal con malla y colocar el catéter de diálisis peritoneal seis semanas después.",
+   "Reparar la hernia inguinal sin malla y colocar el catéter de diálisis peritoneal seis semanas después.",
+   "Reparar simultáneamente la hernia inguinal con malla y colocar el catéter de diálisis peritoneal.",
+   "Reparar simultáneamente la hernia inguinal sin malla y colocar el catéter de diálisis peritoneal."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 5,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "59ea0cdbea",
+  "sec": "Abdomen hernia",
+  "stem": "Cuál de las siguientes afirmaciones sobre la anatomía de las hernias es correcta?",
+  "opts": [
+   "El ligamento de Poupart se forma a partir de la porción anteroinferior de la aponeurosis del músculo oblicuo externo.",
+   "El músculo cremáster se origina en el músculo transverso del abdomen.",
+   "La rama genital del nervio genitofemoral atraviesa el anillo inguinal superficial.",
+   "La rama femoral del nervio genitofemoral inerva el músculo cremáster.",
+   "Las hernias indirectas aparecen con mayor frecuencia dentro de los límites del músculo recto, el ligamento inguinal inferior y la arteria epigástrica inferior."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 6,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "9eb84b56ed",
+  "sec": "Abdomen hernia",
+  "stem": "Línea arcuata lis. insuind d. Imt ✗ prot . Hesselbach 7. - ¿Cuál de las siguientes afirmaciones sobre la línea arcuata es correcta?",
+  "opts": [
+   "Generalmente se localiza unos centímetros por encima del ombligo.",
+   "Por debajo de esta línea, la aponeurosis del músculo oblicuo interno se divide en dos hojas.",
+   "Por debajo de esta línea, el músculo recto del abdomen descansa sobre la fascia transversalis.",
+   "Por debajo de esta línea, la vaina posterior del recto es más delgada.",
+   "Por debajo de esta línea, el músculo oblicuo externo no contribuye a la formación de la vaina anterior del recto."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 6,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "14796f4aa2",
+  "sec": "Abdomen hernia",
+  "stem": "Un hombre de 55 años presenta un abultamiento doloroso en la región inguinal izquierda, que apareció por primera vez hace varios meses. Tiene antecedentes de reparación abierta de una hernia inguinal derecha. En la exploración también se observa un abultamiento en la región inguinal derecha, sobre la cicatriz de la cirugía previa. Ambas masas son reducibles. ¿Cuál de las siguientes afirmaciones sobre este paciente es correcta?",
+  "opts": [
+   "Se prefiere la reparación abierta.",
+   "En la reparación laparoscópica, no fijar la malla lateralmente a los vasos epigástricos inferiores puede provocar una recurrencia a través del anillo inguinal profundo.",
+   "La lesión del peritoneo durante una reparación totalmente extraperitoneal (TEP) obliga a convertir el procedimiento en una cirugía abierta o en una reparación preperitoneal transabdominal (TAPP).",
+   "El entumecimiento o dolor persistente en la cara lateral del muslo es más frecuente después de la reparación abierta que después de la laparoscópica.",
+   "La reparación laparoscópica evitará que desarrolle una hernia femoral en el futuro."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 6,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "1f30997fcf",
+  "sec": "Abdomen hernia",
+  "stem": "Una hora después de una reparación laparoscópica de una hernia inguinal izquierda, el paciente refiere dolor intenso y urente en la región inguinal. ¿Cuál es la recomendación más adecuada?",
+  "opts": [
+   "Regresar inmediatamente al quirófano para realizar una laparoscopia.",
+   "Administrar antiinflamatorios no esteroideos (AINE).",
+   "Administrar gabapentina (Neurontin).",
+   "Administrar analgésicos opioides.",
+   "Infiltrar la región inguinal con un anestésico local."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 6,
+  "motivo": "sin clave original",
+  "tema": "hernias"
+ },
+ {
+  "k": "1ae3a057bb",
+  "sec": "Abdomen hernia",
+  "stem": "Un hombre de 45 años presenta una hernia inguinal derecha asintomática. La hernia se reduce fácilmente mediante una presión suave. ¿Cuál de las siguientes afirmaciones sobre esta afección es correcta?",
+  "opts": [
+   "La probabilidad de desarrollar estrangulación es alta si no se realiza cirugía.",
+   "Sin cirugía, lo más probable es que aparezca dolor intratable.",
+   "Esperar hasta que aparezcan síntomas es una alternativa razonable a la cirugía.",
+   "La reparación laparoscópica es la mejor opción.",
+   "Si la hernia es pequeña, existe una menor probabilidad de incarceración."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 7,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "ae02e25ced",
+  "sec": "Abdomen hernia",
+  "stem": "Un lactante varón de cinco meses, nacido a término y previamente sano, presenta una masa dolorosa en la región inguinal izquierda desde hace varias horas. La piel que la recubre presenta un ligero eritema. Está afebril y los análisis de laboratorio son normales. ¿Cuál es el siguiente paso más adecuado?",
+  "opts": [
+   "Intentar la reducción manual y, si tiene éxito, programar la reparación quirúrgica cuando el niño cumpla un año.",
+   "Intentar la reducción manual y, si tiene éxito, llevarlo inmediatamente al quirófano para la reparación.",
+   "Intentar la reducción manual y, si tiene éxito, programar la reparación en dos días.",
+   "Intentar la reducción manual y, si tiene éxito, programar la reparación izquierda con exploración de la región inguinal contralateral en dos días.",
+   "Llevarlo inmediatamente al quirófano para la reparación quirúrgica."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 7,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "25f4e3fa96",
+  "sec": "Abdomen hernia",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las hernias umbilicales en adultos es correcta?",
+  "opts": [
+   "La mayoría son congénitas.",
+   "La reparación está contraindicada en pacientes con cirrosis.",
+   "La estrangulación es menos frecuente que en los niños.",
+   "Las hernias pequeñas y asintomáticas pueden vigilarse clínicamente.",
+   "La sutura primaria presenta tasas de recurrencia similares a las de la reparación con malla."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 8,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "974fdd5703",
+  "sec": "Abdomen hernia",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las hernias femorales es correcta?",
+  "opts": [
+   "Son las hernias más frecuentes en las mujeres.",
+   "El ligamento de Cooper constituye el límite anterior del canal femoral.",
+   "Se localizan lateralmente a la vena femoral.",
+   "La reparación consiste en aproximar el tracto iliopúbico al ligamento de Cooper.",
+   "La operación de Bassini es una opción quirúrgica adecuada."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 8,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "98d862b976",
+  "sec": "Abdomen hernia",
+  "stem": "Una mujer de 55 años presenta un abultamiento indoloro en la pared abdominal. Refiere que ha seguido un programa exitoso de dieta y ejercicio y que ha perdido casi 40 kg en los últimos dos años. Sin embargo, está preocupada porque el día anterior, al incorporarse en la cama, notó un abultamiento en la línea media superior del abdomen, con aspecto de una cresta prominente entre la caja torácica y el ombligo. En la exploración física, el abultamiento se hace visible cuando levanta la cabeza estando acostada. ¿Cuál de las siguientes afirmaciones sobre su afección es correcta?",
+  "opts": [
+   "La reparación quirúrgica debe realizarse inmediatamente, antes de que aparezcan signos de incarceración.",
+   "Existen causas tanto congénitas como adquiridas.",
+   "Un programa estricto de ejercicios de la pared abdominal suele resolverla por completo.",
+   "El defecto se limita a la fascia transversalis.",
+   "Estos defectos contienen habitualmente únicamente grasa preperitone"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 8,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "1a2f7a63eb",
+  "sec": "Biliar",
+  "stem": "Una mujer de 75 años acude a emergencias por un cuadro de dos días de náuseas, vómitos fecaloideos y ausencia de deposiciones y gases. Al ingreso, su presión arterial es de 80/60 mmHg y su frecuencia cardíaca es de 120 latidos por minuto; ambos parámetros se normalizan después de administrar líquidos. Las radiografías simples muestran asas de intestino delgado distendidas con niveles hidroaéreos y aire en el árbol biliar. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Enterotomía del intestino delgado para extraer el cálculo biliar, además de colecistectomía y cierre de la fístula.",
+   "Enterotomía del intestino delgado con extracción del cálculo biliar.",
+   "Enterotomía del intestino delgado para extraer el cálculo y, ocho semanas después, colecistectomía y cierre de la fístula.",
+   "Resección del intestino delgado que incluya el área donde está impactado el cálculo.",
+   "Resección del intestino delgado que incluya el área de impactación, además de colecistectomía y cierre de la fístula."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 10,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "d711bf5459",
+  "sec": "Hígado",
+  "stem": "Un hombre de 51 años con cirrosis hepática presenta una hernia umbilical de tamaño moderado, reducible y ocasionalmente dolorosa. La piel está intacta y no hay secreción. Tiene ascitis importante. La bilirrubina sérica, la albúmina y el INR son normales. No presenta encefalopatía ni dolor en la zona de la hernia. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Colocación de TIPS.",
+   "Paracentesis de seis litros seguida de reposición intravenosa de albúmina.",
+   "Proceder a la reparación quirúrgica de la hernia.",
+   "Furosemida, espironolactona y restricción de sodio.",
+   "Observación."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 18,
+  "motivo": "sin clave original",
+  "tema": "hernias"
+ },
+ {
+  "k": "a59159a896",
+  "sec": "Estómago",
+  "stem": "Intestino delgado 1. Una mujer de 55 años con antecedente de colectomía abdominal total e ileostomía terminal por enfermedad de Crohn refractaria presenta un abultamiento junto a la ileostomía. Está presente desde hace meses y siempre ha sido fácilmente reducible. Sin embargo, con frecuencia desarrolla distensión abdominal, obstipación y disminución del débito de la ostomía, por lo que necesita reducir manualmente el abultamiento. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Reparación primaria de la hernia paraestomal.",
+   "Reubicación de la ileostomía y cierre con malla del defecto anterior.",
+   "Reparación de la hernia paraestomal con malla.",
+   "Anastomosis ileoanal con reservorio.",
+   "Observación."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 44,
+  "motivo": "sin clave original",
+  "tema": "hernias"
+ }
+]

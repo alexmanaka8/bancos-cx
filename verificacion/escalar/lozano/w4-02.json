@@ -1,0 +1,305 @@
+[
+ {
+  "k": "a1ec70d66b",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones NO verdadera sobre la circulación mesentérica ida suele grado es n va para mún es: es ?",
+  "opts": [
+   "La AMS irriga el tubo digestivo desde la tercera porción del duodeno hasta el colon transverso medio",
+   "Cuando la AMS está ocluida, las colaterales desde la arteria gastroduodenal mantienen el flujo al yeyuno proximal",
+   "La arteria mesentérica meándrica viaja por el borde mesentérico del colon",
+   "La arteria ilíaca interna irriga el recto a través de las arterias hemorroidales media e inferior",
+   "La arteria cólica izquierda es la rama principal de la arteria mesentérica inferior (AMI)"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 69,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "31ab684cda",
+  "sec": "Abdomen general",
+  "stem": "Las características hemostáticas intrínsecas del epiplón se deben a su:",
+  "opts": [
+   "Capacidad para reclutar plaquetas",
+   "Mayor concentración de factor de von Willebrand",
+   "Mayor concentración de factor tisular",
+   "Capacidad para inducir vasoconstricción local",
+   "Capacidad para activar la vía intrínseca de coagulación"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 70,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a048fe29f6",
+  "sec": "Abdomen general",
+  "stem": "El organismo más com linfadenitis mesentérica a",
+  "opts": [
+   "Campylobacter jejuni",
+   "Escherichia coli",
+   "Enterococo",
+   "Yersinia enterocolitica",
+   "Oxiuro"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 70,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "e59815028f",
+  "sec": "Abdomen general",
+  "stem": "Todas las siguientes afirmaciones son verdaderas sobre la peritonitis bacteriana espontánea, EXCEPTO:",
+  "opts": [
+   "Deben iniciarse antibióticos de amplio espectro inmediatamente",
+   "En adultos, la cirrosis es el factor de riesgo más común",
+   "En niños, el síndrome nefrótico es el factor de riesgo más común",
+   "En niños,",
+   "coli es el organismo más comúnmente aislado"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 71,
+  "motivo": "sin clave original",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "8435962b22",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 74 años acude a tu consulta con la esperanza de que le reparen su hernia umbilical reducible debido a dolor y malestar crecientes pero intermitentes. Dos días antes de su visita a la clínica, fue dado de alta del hospital por angina inestable, por la cual se sometió a una angioplastia con balón con colocación de un stent de arteria coronaria de metal desnudo (BMS). ¿Cuándo debe programarse su cirugía?",
+  "opts": [
+   "2 semanas",
+   "1 mes",
+   "2 meses",
+   "6 meses",
+   "1 año"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 71,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "8a97a880be",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 32 años con 24 semanas de embarazo se presenta al servicio de urgencias con dolor abdominal agudo, fiebre y vómitos. Refiere que el dolor la despertó en la noche con un inicio súbito de dolor epigástrico que ahora es difuso. No tiene sangrado vaginal y el monitoreo fetal muestra signos vitales normales para el feto. En el examen físico, presenta sensibilidad difusa con defensa en todo el abdomen, peor en la región epigástrica. El examen pélvico es normal. Tiene una leucocitosis de 15,000 células/L. La serie de radiografías abdominales muestra algunas asas intestinales dilatadas pero sin otros hallazgos. ¿Cuál es el siguiente paso en el manejo de esta paciente?",
+  "opts": [
+   "Ecografía abdominal",
+   "Tomografía computarizada de abdomen/pelvis con contraste",
+   "Admitir y observar con exámenes abdominales seriados",
+   "Laparotomía exploratoria",
+   "Laparoscopía diagnóstica"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 71,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "677239f533",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 50 años con ascitis cirrótica secundaria a hepatitis C se presenta con fiebre, leucocitosis y dolor abdominal. Tiene antecedentes de várices esofágicas. Está en lista de espera para trasplante hepático desde hace 6 meses. Se realizó una paracentesis y se enviaron cultivos. Se aísla un solo organismo del cultivo. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Actualmente es elegible para trasplante hepático.",
+   "El uso profiláctico de fluoroquinolonas puede prevenir esta condición.",
+   "En adultos, el síndrome nefrótico es el factor de riesgo más común.",
+   "En niños,",
+   "coli es el aislado más común. E. Probablemente requerirá una laparotomía exploratoria."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 72,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a3e0300e96",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 75 años con diagnóstico reciente de fibrilación auricular, por la cual recibió un anticoagulante, se presenta con dolor abdominal de inicio súbito. No está relacionado con la ingesta oral. Tiene antecedente quirúrgico de artroplastia total de cadera hace 3 años. Su examen físico revela una masa palpable y dolorosa en la pared abdominal por encima del ombligo que persiste durante la flexión de los músculos abdominales. ¿Con cuál de las siguientes está más probablemente relacionada esta masa?",
+  "opts": [
+   "Trombocitopenia",
+   "Sangrado de la arteria epigástrica superior"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 72,
+  "motivo": "menos de 3 opciones",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "f120e5b357",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera al comparar la reparación de hernia inguinal primaria con malla abierta versus laparoscópica?",
+  "opts": [
+   "La reparación laparoscópica tiene una menor tasa de recurrencia.",
+   "No hay diferencia en el tiempo de retorno al trabajo.",
+   "La reparación abierta es superior.",
+   "No hay diferencia en el dolor postoperatorio.",
+   "La reparación laparoscópica tiene una menor tasa de complicaciones."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "172a4d122d",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes es la mejor opción para reparar una hernia inguinal indirecta unilateral en un lactante varón de 4 meses?",
+  "opts": [
+   "Ligadura alta del saco solamente.",
+   "Obliteración del anillo profundo.",
+   "Reparación libre de tensión con malla.",
+   "Reparación del ligamento de Cooper (McVay).",
+   "Reparación laparoscópica de la hernia."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "f997965c95",
+  "sec": "Abdomen general",
+  "stem": "Todas las siguientes son buenas opciones para reparar una hernia femoral unilateral EXCEPTO:",
+  "opts": [
+   "Abordaje inguinal: reparación del ligamento de Cooper (McVay).",
+   "Abordaje inguinal: aproximación de la fascia transversa al ligamento inguinal (operación de Bassini).",
+   "Abordaje inguinal: reparación estándar libre de tensión con malla (Lichtenstein).",
+   "Abordaje infrainguinal: tapón de malla de polipropileno.",
+   "Abordaje preperitoneal abierto."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "d8312c7158",
+  "sec": "Abdomen general",
+  "stem": "¿Con qué tipo de hernia se asocia el signo de Howship-Romberg?",
+  "opts": [
+   "Hernia de Spiegel.",
+   "Hernia de Richter.",
+   "Hernia pantaloon.",
+   "Hernia lumbar.",
+   "Hernia obturatriz."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "0fae1b259b",
+  "sec": "Abdomen general",
+  "stem": "¿Cuá hernias a) b) c) d) e) 6. ¿Cuá verdade en adult a) b) c) d) e) 7. La he la cresta conoce a) b) c) d) e) 8. La or hernia in a) b) c) d) e) l de las siguientes describe mejor las umbilicales en niños? Son más comunes en niños blancos que en aquellos de ascendencia africana. Se indica reparación una vez diagnosticada la hernia. Se debe reparar si persiste más allá de los 6 meses de edad. La mayoría se cierra espontáneamente. Solo se debe reparar si el niño presenta síntomas. l de las siguientes afirmaciones es ra con respecto a las hernias umbilicales os? La mayoría son congénitas. La reparación está contraindicada en pacientes con cirrosis. La estrangulación es menos común que en los niños. Las hernias pequeñas y asintomáticas pueden ser observadas clínicamente. El cierre primario tiene tasas de recurrencia similares a las de la reparación con malla. rnia limitada por el músculo dorsal ancho, ilíaca y el músculo oblicuo externo se como: Hernia de Grynfeltt. Hernia de Richter. Hernia de Petit. Hernia de Littre. Hernia obturatriz. quitis isquémica tras la reparación de una guinal se debe con mayor frecuencia a: Reconstrucción del anillo inguinal demasiado apretada. Patología testicular preexistente. Ligadura inadvertida de la arteria testicular. Escisión completa de un gran saco escrotal. Irrigación sanguínea anómala del testículo. 9. L 10. her per sitio sign sigu con 11. ver EX a rama genital del nervio genitofemoral:",
+  "opts": [
+   "Se encuentra típicamente en la parte anterior, sobre el cordón espermático.",
+   "Proporciona sensibilidad a la base del pene y al muslo interno.",
+   "Se encuentra típicamente en la superficie anterior del músculo oblicuo interno.",
+   "Proporciona sensibilidad al lado del escroto e inervación motora al músculo cremáster.",
+   "A menudo se mezcla con el nervio iliohipogástrico."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "5506e2823b",
+  "sec": "Abdomen general",
+  "stem": "Cuatro meses después de una reparación de nia inguinal, un paciente presenta dolor sistente moderadamente severo y urente en el de la incisión que se irradia a la ingle. No hay os de hernia recurrente. ¿Cuál de las ientes afirmaciones es verdadera sobre esta dición?",
+  "opts": [
+   "La identificación cuidadosa de los tres nervios sensoriales previene esta complicación.",
+   "El manejo inicial implica reexploración de la herida.",
+   "Los bloqueos nerviosos con anestésico local son útiles para identificar el nervio afectado.",
+   "El dolor crónico tras la reparación de hernia es poco común.",
+   "La reoperación por neuralgia genitofemoral se realiza mejor vía inguinal."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "f49f13f70f",
+  "sec": "Abdomen general",
+  "stem": "Todas las siguientes afirmaciones son daderas sobre las hernias inguinales en niños CEPTO:",
+  "opts": [
+   "Se deben a la permeabilidad del proceso vaginal.",
+   "La incidencia es mayor en bebés prematuros.",
+   "El riesgo de incarceración es mayor en menores de 6 meses.",
+   "Los pacientes con hernias incarceradas deben ir directamente a quirófano.",
+   "Las hernias del lado derecho son más comunes que las del lado izquierdo."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 73,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "a7822907cc",
+  "sec": "Abdomen general",
+  "stem": "Todas las siguientes afirmaciones sobre la anatomía de la hernia son verdaderas EXCEPT",
+  "opts": [
+   "El ligamento de Poupart se forma a pa del borde inferior de la aponeurosis de oblicuo externo.",
+   "El músculo cremáster se origina del músculo transverso.",
+   "La rama genital del nervio genitofemor pasa por el anillo profundo.",
+   "Los vasos cremastéricos acompañan a rama genital del nervio genitofemoral.",
+   "Las hernias indirectas surgen lateralmente a los vasos epigástricos inferiores."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "799c9673ba",
+  "sec": "Abdomen general",
+  "stem": "Una hernia femoral pasa:",
+  "opts": [
+   "Anterior al ligamento inguinal.",
+   "Lateral a la arteria femoral.",
+   "Posterior al ligamento de Cooper.",
+   "Medial a la vena femoral.",
+   "Anterior al tracto iliopúbico."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ }
+]

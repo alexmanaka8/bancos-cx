@@ -1355,5 +1355,627 @@
    "de Virgilio ABSITE 3.ª ed., p. 162 del PDF (respuesta a la pregunta 6)"
   ],
   "nota": "La clave original venía vacía. El tema del lote decía 'shock' y se cambió a 'colon'."
+ },
+ "a216e3563e": {
+  "k": "a216e3563e",
+  "estado": "confirmada",
+  "stem": "¿Cuál es el microorganismo que se aísla con mayor frecuencia en el líquido peritoneal infectado de un paciente con un catéter de diálisis peritoneal?",
+  "opts": [
+   "Estreptococo betahemolítico.",
+   "Enterococcus.",
+   "Escherichia coli.",
+   "Estafilococo coagulasa negativo.",
+   "Estafilococo coagulasa positivo."
+  ],
+  "ans": 3,
+  "why": "El ABSITE dice que el estafilococo coagulasa negativo (S. epidermidis) es, por mucho, la causa más frecuente de infección relacionada con el catéter de diálisis peritoneal. S. aureus es coagulasa positivo y menos frecuente.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 25 del PDF (pregunta 5)"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "da39d8910b": {
+  "k": "da39d8910b",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la causa más frecuente de un absceso retroperitoneal?",
+  "opts": [
+   "Diverticulitis.",
+   "Apendicitis.",
+   "Infección renal.",
+   "Tuberculosis vertebral.",
+   "Diseminación hematógena desde un foco distante."
+  ],
+  "ans": 2,
+  "why": "El ABSITE: la fuente más frecuente de abscesos retroperitoneales es secundaria, y las infecciones renales son casi el 50% de los casos. Otras causas (apendicitis retrocecal, úlcera duodenal perforada, pancreatitis, diverticulitis) son menos frecuentes; la diseminación hematógena no es un factor importante en los secundarios.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 25 del PDF (pregunta 7)"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "867768e345": {
+  "k": "867768e345",
+  "estado": "confirmada",
+  "stem": "Un hombre de 50 años con ascitis cirrótica secundaria a hepatitis C presenta fiebre, elevación del recuento de leucocitos y dolor abdominal. Tiene antecedentes de várices esofágicas y lleva seis meses en lista de espera para un trasplante hepático. Se realiza una paracentesis y se envía el líquido para cultivo. En el cultivo crece un único microorganismo. ¿Cuál de las siguientes afirmaciones sobre esta afección es verdadera?",
+  "opts": [
+   "Lo más probable es que se deba a una apendicitis.",
+   "El uso profiláctico de fluoroquinolonas puede prevenir esta afección.",
+   "En adultos, el síndrome nefrótico es el factor de riesgo más frecuente.",
+   "En niños, E. coli es el microorganismo aislado con mayor frecuencia.",
+   "Probablemente necesitará una laparotomía exploratoria."
+  ],
+  "ans": 1,
+  "why": "Es una peritonitis bacteriana espontánea (un solo germen, cirrosis, ascitis). El ABSITE indica que se puede dar profilaxis con fluoroquinolonas en cirróticos de alto riesgo. La causa no es apendicitis, el tratamiento es con antibióticos solos (no cirugía) y el factor de riesgo es la cirrosis, no el síndrome nefrótico (ese es de niños).",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 25 del PDF (pregunta 8)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Texto reparado con el original: las opciones D y E estaban mezcladas. El libro respalda la opción B; las otras se descartan por lo que dice la respuesta del libro (apendicitis, tratamiento con antibióticos y factor de riesgo cirrótico)."
+ },
+ "8a62784ee9": {
+  "k": "8a62784ee9",
+  "estado": "confirmada",
+  "stem": "Una mujer de 32 años, con 24 semanas de gestación, acude a Emergencias por dolor abdominal de inicio agudo, fiebre y vómitos. Refiere que el dolor la despertó en mitad de la noche; inicialmente era epigástrico y posteriormente se volvió difuso. No presenta sangrado vaginal y la monitorización fetal muestra parámetros normales. En la exploración física tiene dolor difuso a la palpación y defensa abdominal, más intensos en el epigastrio. La exploración pélvica es normal. El recuento de leucocitos es de 15 000 células/µL. La radiografía abdominal muestra algunas asas intestinales dilatadas, sin otros hallazgos. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Realizar una ecografía abdominal.",
+   "Realizar una tomografía computarizada de abdomen y pelvis con contraste.",
+   "Ingresar a la paciente y observarla con exploraciones abdominales seriadas.",
+   "Realizar una laparotomía exploratoria.",
+   "Realizar una laparoscopia diagnóstica."
+  ],
+  "ans": 1,
+  "why": "Hay signos de peritonitis (defensa, leucocitosis, asas dilatadas) y posible víscera perforada u obstrucción en asa cerrada. El ABSITE dice que en la gestante el diagnóstico rápido y exacto pesa más que el riesgo de la radiación: pasadas las 15 semanas no hay efectos deterministas en el feto, y la perforación es mucho más peligrosa para él. Por eso el siguiente paso es la TC de abdomen y pelvis con contraste.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 33 del PDF (respuesta 12)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "El libro menciona la RM y la ecografía como alternativas, pero la TC es la respuesta del libro en este caso urgente."
+ },
+ "d14a0c3908": {
+  "k": "d14a0c3908",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años, diagnosticada recientemente de fibrilación auricular y tratada con un anticoagulante, presenta dolor abdominal de inicio súbito, no relacionado con la ingesta de alimentos. Como antecedente quirúrgico, tiene una artroplastia total de cadera realizada hace tres años. En la exploración física se palpa una masa dolorosa en la pared abdominal, por encima del ombligo, que persiste cuando contrae los músculos abdominales. ¿Cuál de las siguientes opciones explica más probablemente el hallazgo?",
+  "opts": [
+   "Una neoplasia maligna.",
+   "Hemorragia de la arteria epigástrica superior.",
+   "Traumatismo oculto.",
+   "Una infección intraabdominal.",
+   "Hemorragia de la arteria epigástrica inferior."
+  ],
+  "ans": 1,
+  "why": "Masa dolorosa en la pared sobre el ombligo que persiste al contraer los músculos (signo de Fothergill) en una paciente anticoagulada es un hematoma de la vaina de los rectos. Por encima de la línea arqueada suele ser lesión de la arteria epigástrica superior; por debajo, la inferior.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 35 del PDF (hematoma de la vaina del recto)"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ "609ff608f8": {
+  "k": "609ff608f8",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años con diabetes mellitus y un índice de masa corporal (IMC) de 35 kg/m² acude a consulta por un abultamiento doloroso e intermitente en la región media del abdomen, sobre una antigua cicatriz de laparotomía en la línea media. En la exploración se observa un abultamiento reducible en la línea media y un defecto fascial de 7 × 3 cm. La paciente desea someterse a cirugía. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Derivarla a fisioterapia para fortalecer la pared abdominal.",
+   "Reparación abierta de la hernia con malla supraaponeurótica (onlay).",
+   "Reparación abierta de la hernia con malla subaponeurótica (sublay).",
+   "Reparación laparoscópica de la hernia con malla.",
+   "Separación de componentes y reparación primaria."
+  ],
+  "ans": 3,
+  "why": "Según el ABSITE, en una paciente con diabetes y obesidad (riesgo de infección) la mejor opción es la reparación laparoscópica con malla, porque tiene menos infección de herida que la abierta y recidiva igual que la abierta con malla. La fisioterapia no corrige el defecto y la separación de componentes con cierre primario no es lo recomendado.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 41 del PDF (pregunta 1, hernia incisional)"
+  ],
+  "tema": "hernias",
+  "nota": "El libro es una referencia de examen (ABSITE) basada en riesgo de infección; no se contrastó con Sabiston."
+ },
+ "c68111a588": {
+  "k": "c68111a588",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años con antecedentes de resección abdominoperineal por cáncer rectal hace dos años presenta dolor y sensación intermitente de plenitud junto a su colostomía, a veces acompañados de náuseas y vómitos. En la exploración, la colostomía tiene un aspecto normal y no se palpa ningún abultamiento. La tomografía computarizada muestra un asa intestinal superficial a la fascia, adyacente al estoma. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Reparación primaria de la hernia paraestomal.",
+   "Reubicación de la colostomía.",
+   "Reparación con malla protésica.",
+   "Reparación con malla biológica.",
+   "Tranquilizar al paciente e indicarle signos de alarma por los que debe regresar."
+  ],
+  "ans": 2,
+  "why": "El paciente tiene una hernia paraestomal sintomática (obstrucción intermitente) y ya no se puede cerrar el estoma por la resección abdominoperineal. El ABSITE indica reparar con malla sintética (técnica de Sugarbaker): la reparación primaria tiene hasta 70% de recidiva, la malla biológica recidiva más y la reubicación del estoma crea otra hernia posible.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 43 del PDF (hernia paraestomal)"
+  ],
+  "tema": "hernias"
+ },
+ "1a3917f4ce": {
+  "k": "1a3917f4ce",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años con enfermedad renal crónica va a someterse a la colocación electiva de un catéter de diálisis peritoneal. Durante la evaluación preoperatoria se identifica una pequeña hernia inguinal reducible e indolora. La paciente refiere que la tiene desde hace años y que no le causa molestias. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Colocar únicamente el catéter de diálisis peritoneal.",
+   "Reparar la hernia inguinal con malla y colocar el catéter de diálisis peritoneal seis semanas después.",
+   "Reparar la hernia inguinal sin malla y colocar el catéter de diálisis peritoneal seis semanas después.",
+   "Reparar simultáneamente la hernia inguinal con malla y colocar el catéter de diálisis peritoneal.",
+   "Reparar simultáneamente la hernia inguinal sin malla y colocar el catéter de diálisis peritoneal."
+  ],
+  "ans": 3,
+  "why": "En quien va a iniciar diálisis peritoneal, una hernia pequeña y asintomática puede crecer y dar síntomas durante la diálisis, por lo que se repara en el mismo acto de colocar el catéter. La reparación se hace con malla, que baja la recurrencia y es segura en diálisis peritoneal. Por eso la correcta es la reparación simultánea con malla (D); solo poner el catéter, o esperar seis semanas, o reparar sin malla, no son lo indicado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF (respuesta 4; pregunta en p. 42)"
+  ],
+  "tema": "hernias"
+ },
+ "59ea0cdbea": {
+  "k": "59ea0cdbea",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la anatomía de las hernias es correcta?",
+  "opts": [
+   "El ligamento de Poupart se forma a partir de la porción anteroinferior de la aponeurosis del músculo oblicuo externo.",
+   "El músculo cremáster se origina en el músculo transverso del abdomen.",
+   "La rama genital del nervio genitofemoral atraviesa el anillo inguinal superficial.",
+   "La rama femoral del nervio genitofemoral inerva el músculo cremáster.",
+   "Las hernias indirectas aparecen con mayor frecuencia dentro de los límites del músculo recto, el ligamento inguinal inferior y la arteria epigástrica inferior."
+  ],
+  "ans": 0,
+  "why": "El ligamento de Poupart es otro nombre del ligamento inguinal y se forma de la porción anteroinferior de la aponeurosis del oblicuo externo, que se pliega sobre sí misma. El cremáster viene del oblicuo interno (no del transverso); la rama genital del genitofemoral atraviesa el anillo profundo (el ilioinguinal pasa por el superficial) y es ella, no la femoral, la que inerva el cremáster; las hernias indirectas nacen lateral a los vasos epigástricos inferiores, y el borde descrito en E corresponde al triángulo de Hesselbach (hernia directa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF (respuesta 6)"
+  ],
+  "tema": "hernias"
+ },
+ "9eb84b56ed": {
+  "k": "9eb84b56ed",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la línea arcuata es correcta?",
+  "opts": [
+   "Generalmente se localiza unos centímetros por encima del ombligo.",
+   "Por debajo de esta línea, la aponeurosis del músculo oblicuo interno se divide en dos hojas.",
+   "Por debajo de esta línea, el músculo recto del abdomen descansa sobre la fascia transversalis.",
+   "Por debajo de esta línea, la vaina posterior del recto es más delgada.",
+   "Por debajo de esta línea, el músculo oblicuo externo no contribuye a la formación de la vaina anterior del recto."
+  ],
+  "ans": 2,
+  "why": "La línea arcuata está por debajo del ombligo (a un tercio de la distancia hacia el pubis). Por debajo de ella no hay vaina posterior del recto, de modo que el recto descansa sobre la fascia transversalis. Las demás son falsas: la aponeurosis del oblicuo interno se divide por encima de la línea (no por debajo); la vaina posterior no es 'más delgada', no existe; y por debajo todas las aponeurosis pasan por delante, incluido el oblicuo externo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43 del PDF (respuesta 7)"
+  ],
+  "tema": "hernias",
+  "nota": "Se quitó del enunciado el texto basura de la conversión ('Línea arcuata lis. insuind d. Imt…')."
+ },
+ "14796f4aa2": {
+  "k": "14796f4aa2",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años presenta un abultamiento doloroso en la región inguinal izquierda, que apareció por primera vez hace varios meses. Tiene antecedentes de reparación abierta de una hernia inguinal derecha. En la exploración también se observa un abultamiento en la región inguinal derecha, sobre la cicatriz de la cirugía previa. Ambas masas son reducibles. ¿Cuál de las siguientes afirmaciones sobre este paciente es correcta?",
+  "opts": [
+   "Se prefiere la reparación abierta.",
+   "En la reparación laparoscópica, no fijar la malla lateralmente a los vasos epigástricos inferiores puede provocar una recurrencia a través del anillo inguinal profundo.",
+   "La lesión del peritoneo durante una reparación totalmente extraperitoneal (TEP) obliga a convertir el procedimiento en una cirugía abierta o en una reparación preperitoneal transabdominal (TAPP).",
+   "El entumecimiento o dolor persistente en la cara lateral del muslo es más frecuente después de la reparación abierta que después de la laparoscópica.",
+   "La reparación laparoscópica evitará que desarrolle una hernia femoral en el futuro."
+  ],
+  "ans": 4,
+  "why": "Paciente con hernias inguinales bilaterales, una recurrente: se le debe ofrecer reparación laparoscópica, que además cubre el canal femoral y evita una hernia femoral posterior. No se prefiere la reparación abierta; la malla se debe evitar fijar con grapas lateral a los vasos epigástricos y por debajo del tracto iliopúbico (triángulos de la muerte y del dolor); violar el peritoneo en TEP no obliga a convertir; y el dolor/entumecimiento del muslo lateral es más específico de la reparación laparoscópica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 43-44 del PDF (respuesta 8)"
+  ],
+  "tema": "hernias"
+ },
+ "1f30997fcf": {
+  "k": "1f30997fcf",
+  "estado": "nueva",
+  "stem": "Una hora después de una reparación laparoscópica de una hernia inguinal izquierda, el paciente refiere dolor intenso y urente en la región inguinal. ¿Cuál es la recomendación más adecuada?",
+  "opts": [
+   "Regresar inmediatamente al quirófano para realizar una laparoscopia.",
+   "Administrar antiinflamatorios no esteroideos (AINE).",
+   "Administrar gabapentina (Neurontin).",
+   "Administrar analgésicos opioides.",
+   "Infiltrar la región inguinal con un anestésico local."
+  ],
+  "ans": 0,
+  "why": "El dolor urente intenso en la recuperación tras reparación laparoscópica se debe más probablemente a una lesión nerviosa por grapa o tachuela; si se sospecha, se debe volver al quirófano para retirar la tachuela. La infiltración con anestésico solo da alivio temporal si funciona, y el tratamiento médico (AINE, gabapentina, opioides) no es apropiado si la causa es irritación por la grapa.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF (respuesta 10)"
+  ],
+  "tema": "hernias",
+  "nota": "La pregunta no traía clave original; se asigna A según el ABSITE."
+ },
+ "1ae3a057bb": {
+  "k": "1ae3a057bb",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años presenta una hernia inguinal derecha asintomática. La hernia se reduce fácilmente mediante una presión suave. ¿Cuál de las siguientes afirmaciones sobre esta afección es correcta?",
+  "opts": [
+   "La probabilidad de desarrollar estrangulación es alta si no se realiza cirugía.",
+   "Sin cirugía, lo más probable es que aparezca dolor intratable.",
+   "Esperar hasta que aparezcan síntomas es una alternativa razonable a la cirugía.",
+   "La reparación laparoscópica es la mejor opción.",
+   "Si la hernia es pequeña, existe una menor probabilidad de incarceración."
+  ],
+  "ans": 2,
+  "why": "En un estudio aleatorizado grande en hombres con hernia inguinal asintomática o mínimamente sintomática, la espera vigilada fue una alternativa aceptable a la cirugía (seguimiento hasta 9 años; la incarceración fue rara y cerca de una cuarta parte se operó por dolor). La estrangulación no es probable, el dolor intratable no es lo más probable, la laparoscopia no es 'la mejor' opción, y las hernias pequeñas tienen cuello pequeño y mayor riesgo de incarceración, no menor.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 44 del PDF (respuesta 12; Fitzgibbons, JAMA 2006)"
+  ],
+  "tema": "hernias"
+ },
+ "ae02e25ced": {
+  "k": "ae02e25ced",
+  "estado": "corregida",
+  "stem": "Un lactante varón de cinco meses, nacido a término y previamente sano, presenta una masa dolorosa en la región inguinal izquierda desde hace varias horas. La piel que la recubre presenta un ligero eritema. Está afebril y los análisis de laboratorio son normales. ¿Cuál es el siguiente paso más adecuado?",
+  "opts": [
+   "Intentar la reducción manual y, si tiene éxito, programar la reparación quirúrgica cuando el niño cumpla un año.",
+   "Intentar la reducción manual y, si tiene éxito, llevarlo inmediatamente al quirófano para la reparación.",
+   "Intentar la reducción manual y, si tiene éxito, programar la reparación en dos días.",
+   "Intentar la reducción manual y, si tiene éxito, programar la reparación izquierda con exploración de la región inguinal contralateral en dos días.",
+   "Llevarlo inmediatamente al quirófano para la reparación quirúrgica."
+  ],
+  "ans": 2,
+  "why": "En un lactante con hernia inguinal incarcerada sin signos de toxicidad sistémica, lo preferible es intentar la reducción (exitosa en 75-80 %), dejar que ceda la inflamación unos días y luego reparar de forma semielectiva; por eso la correcta es reducir y programar la reparación en dos días (C). Operar de inmediato solo se hace si hay signos de estrangulación (leucocitosis, fiebre, lactato alto); la exploración contralateral de rutina no está respaldada; esperar a un año no es adecuado porque la reducción sin cirugía posterior no corresponde.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF (respuesta 13; enunciado en p. 41)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: B (resaltado). El ABSITE da C como correcta."
+ },
+ "25f4e3fa96": {
+  "k": "25f4e3fa96",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las hernias umbilicales en adultos es correcta?",
+  "opts": [
+   "La mayoría son congénitas.",
+   "La reparación está contraindicada en pacientes con cirrosis.",
+   "La estrangulación es menos frecuente que en los niños.",
+   "Las hernias pequeñas y asintomáticas pueden vigilarse clínicamente.",
+   "La sutura primaria presenta tasas de recurrencia similares a las de la reparación con malla."
+  ],
+  "ans": 3,
+  "why": "En adultos las hernias umbilicales pequeñas, apenas palpables y asintomáticas pueden vigilarse clínicamente; las grandes o sintomáticas se reparan. Las demás son falsas: en adultos suelen ser adquiridas; en cirrosis con ascitis se repara si la piel está adelgazada (tras manejar la ascitis); la estrangulación es poco común pero más frecuente que en niños; y la recurrencia tras sutura primaria (11 %) es mayor que con malla (1 %).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF (respuesta 15)"
+  ],
+  "tema": "hernias"
+ },
+ "974fdd5703": {
+  "k": "974fdd5703",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las hernias femorales es correcta?",
+  "opts": [
+   "Son las hernias más frecuentes en las mujeres.",
+   "El ligamento de Cooper constituye el límite anterior del canal femoral.",
+   "Se localizan lateralmente a la vena femoral.",
+   "La reparación consiste en aproximar el tracto iliopúbico al ligamento de Cooper.",
+   "La operación de Bassini es una opción quirúrgica adecuada."
+  ],
+  "ans": 3,
+  "why": "La reparación de la hernia femoral incluye resecar el saco y cerrar el defecto del canal femoral, ya sea aproximando el tracto iliopúbico al ligamento de Cooper o con malla. Las demás son falsas: la hernia más frecuente en la mujer es la inguinal indirecta; el ligamento de Cooper es el límite posterior (el ligamento inguinal es el anterior); la hernia es medial a la vena femoral; y Bassini repara el ligamento inguinal y no cierra el defecto femoral, que pasa por detrás.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45 del PDF (respuesta 16)"
+  ],
+  "tema": "hernias"
+ },
+ "98d862b976": {
+  "k": "98d862b976",
+  "estado": "confirmada",
+  "stem": "Una mujer de 55 años presenta un abultamiento indoloro en la pared abdominal. Refiere que ha seguido un programa exitoso de dieta y ejercicio y que ha perdido casi 40 kg en los últimos dos años. Sin embargo, está preocupada porque el día anterior, al incorporarse en la cama, notó un abultamiento en la línea media superior del abdomen, con aspecto de una cresta prominente entre la caja torácica y el ombligo. En la exploración física, el abultamiento se hace visible cuando levanta la cabeza estando acostada. ¿Cuál de las siguientes afirmaciones sobre su afección es correcta?",
+  "opts": [
+   "La reparación quirúrgica debe realizarse inmediatamente, antes de que aparezcan signos de incarceración.",
+   "Existen causas tanto congénitas como adquiridas.",
+   "Un programa estricto de ejercicios de la pared abdominal suele resolverla por completo.",
+   "El defecto se limita a la fascia transversalis.",
+   "Estos defectos contienen habitualmente únicamente grasa preperitoneal."
+  ],
+  "ans": 1,
+  "why": "El cuadro es una diastasis de los rectos, que puede ser congénita (inserción más lateral de los rectos) o adquirida (por ejemplo, multíparas), y se hace visible tras bajar mucho de peso. No tiene riesgo de estrangulación ni requiere cirugía urgente (la reparación es sobre todo estética); el ejercicio ayuda, pero la resolución completa en adultos es poco probable; y es la hernia epigástrica (no la diastasis) la que es un defecto verdadero de la línea alba y contiene grasa preperitoneal o ligamento falciforme.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 45-46 del PDF (respuesta 17)"
+  ],
+  "tema": "hernias",
+  "nota": "La opción E aparece cortada en el original ('preperitone'); se completó como 'preperitoneal' según el ABSITE (p. 46)."
+ },
+ "1a2f7a63eb": {
+  "k": "1a2f7a63eb",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años acude a emergencias por un cuadro de dos días de náuseas, vómitos fecaloideos y ausencia de deposiciones y gases. Al ingreso, su presión arterial es de 80/60 mmHg y su frecuencia cardíaca es de 120 latidos por minuto; ambos parámetros se normalizan después de administrar líquidos. Las radiografías simples muestran asas de intestino delgado distendidas con niveles hidroaéreos y aire en el árbol biliar. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Enterotomía del intestino delgado para extraer el cálculo biliar, además de colecistectomía y cierre de la fístula.",
+   "Enterotomía del intestino delgado con extracción del cálculo biliar.",
+   "Enterotomía del intestino delgado para extraer el cálculo y, ocho semanas después, colecistectomía y cierre de la fístula.",
+   "Resección del intestino delgado que incluya el área donde está impactado el cálculo.",
+   "Resección del intestino delgado que incluya el área de impactación, además de colecistectomía y cierre de la fístula."
+  ],
+  "ans": 1,
+  "why": "Es un íleo biliar: obstrucción mecánica del intestino delgado por un cálculo grande que pasó por una fístula colecistoduodenal. En pacientes ancianos, deshidratados y con comorbilidades, el manejo inicial debe aliviar la obstrucción con una enterotomía transversa proximal al cálculo y extracción del mismo, revisando todo el intestino por otros cálculos. No se recomienda volver después a cerrar la fístula, y la resección intestinal suele ser innecesaria.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 55 del PDF (respuesta 7)",
+   "Sabiston 21.ª ed., p. 1526 del PDF (íleo biliar)"
+  ],
+  "tema": "vesicula"
+ },
+ "d711bf5459": {
+  "k": "d711bf5459",
+  "estado": "nueva",
+  "stem": "Un hombre de 51 años con cirrosis hepática presenta una hernia umbilical de tamaño moderado, reducible y ocasionalmente dolorosa. La piel está intacta y no hay secreción. Tiene ascitis importante. La bilirrubina sérica, la albúmina y el INR son normales. No presenta encefalopatía ni dolor en la zona de la hernia. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Colocación de TIPS.",
+   "Paracentesis de seis litros seguida de reposición intravenosa de albúmina.",
+   "Proceder a la reparación quirúrgica de la hernia.",
+   "Furosemida, espironolactona y restricción de sodio.",
+   "Observación."
+  ],
+  "ans": 3,
+  "why": "En un cirrótico con ascitis importante, el primer paso es el tratamiento médico de la ascitis (dieta baja en sodio con furosemida y espironolactona); reparar la hernia sin controlar la ascitis aumenta el fracaso de la reparación. La paracentesis de volumen se usa si la ascitis es refractaria, y el TIPS se reserva para ascitis refractaria con buena función hepática; la piel está intacta y no hay síntomas que justifiquen operar de inmediato.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 71 del PDF (respuesta 17; enunciado en p. 66)"
+  ],
+  "tema": "hernias",
+  "nota": "La pregunta no traía clave original; se asigna D según el ABSITE."
+ },
+ "a59159a896": {
+  "k": "a59159a896",
+  "estado": "nueva",
+  "stem": "Una mujer de 55 años con antecedente de colectomía abdominal total e ileostomía terminal por enfermedad de Crohn refractaria presenta un abultamiento junto a la ileostomía. Está presente desde hace meses y siempre ha sido fácilmente reducible. Sin embargo, con frecuencia desarrolla distensión abdominal, obstipación y disminución del débito de la ostomía, por lo que necesita reducir manualmente el abultamiento. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Reparación primaria de la hernia paraestomal.",
+   "Reubicación de la ileostomía y cierre con malla del defecto anterior.",
+   "Reparación de la hernia paraestomal con malla.",
+   "Anastomosis ileoanal con reservorio.",
+   "Observación."
+  ],
+  "ans": 2,
+  "why": "Es una hernia paraestomal sintomática (distensión, obstipación y bajo débito por obstrucción intermitente), por lo que no basta observar. En ostomías que no pueden revertirse (aquí por enfermedad de Crohn, donde la anastomosis ileoanal con reservorio está contraindicada), el tratamiento más efectivo es la reparación con malla (Sugarbaker o ojal). La reparación primaria recurre mucho, y la reubicación de la ostomía ya no se aconseja porque crea nuevo riesgo de hernia paraestomal.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 141 del PDF (respuesta 1)"
+  ],
+  "tema": "hernias",
+  "nota": "La pregunta no traía clave original; se asigna C según el ABSITE. El prefijo 'Intestino delgado 1.' del enunciado era basura de la conversión y se quitó."
+ },
+ "5359493198": {
+  "k": "5359493198",
+  "estado": "nueva",
+  "stem": "Dos semanas después de una reparación abierta de un aneurisma aórtico, un paciente presenta marcada distensión abdominal sin náuseas ni vómitos. No hay dolor a la palpación y las radiografías simples no muestran alteraciones. La tomografía evidencia abundante ascitis, sin otros hallazgos relevantes. La paracentesis obtiene líquido turbio con cultivo negativo, triglicéridos de 400 mg/dL y 600 leucocitos/μL, predominantemente linfocitos. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Debe indicarse nutrición parenteral total (NPT) y ayuno.",
+   "El octreótido no es útil.",
+   "El paciente debe ser reintervenido inmediatamente.",
+   "La embolización por radiología intervencionista es el tratamiento de primera línea.",
+   "La mayoría de los pacientes responde a una dieta rica en proteínas, baja en grasas y con triglicéridos de cadena media."
+  ],
+  "ans": 4,
+  "why": "Es una ascitis quilosa posoperatoria (tras reparación de aneurisma aórtico): líquido turbio, triglicéridos >200 mg/dL, leucocitos >500 con predominio linfocitario y cultivo negativo. El tratamiento inicial es una dieta rica en proteínas, baja en grasas y con triglicéridos de cadena media, que no forman quilomicrones. La NPT con ayuno y el octreótido se reservan si la dieta falla (por eso el octreótido sí es útil, B es falsa); la reintervención se considera si la fuga persiste más de 2 semanas y la embolización percutánea se intenta tras fallar la dieta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 141-142 del PDF (respuesta 4)",
+   "Sabiston 21.ª ed., p. 1864 del PDF (quiloperitoneo)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original en el banco; la clave sale del libro (mismo caso clínico)."
+ },
+ "80cbd22072": {
+  "k": "80cbd22072",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el tratamiento intestino corto es verdadera?",
+  "opts": [
+   "Debe evitarse la glutamina.",
+   "El octreótido es la piedra angular del tratamiento.",
+   "La codeína está contraindicada.",
+   "Está indicada la alimentación enteral temprana.",
+   "Los pacientes que necesitan NPT después de seis meses permanente."
+  ],
+  "ans": 3,
+  "why": "En el síndrome de intestino corto, tras la fase aguda debe iniciarse la alimentación enteral lo antes posible (cuando se resuelve el íleo), porque favorece la adaptación intestinal y evita la atrofia vellositaria. La glutamina es útil (A falsa); el octreótido es controvertido y no es la piedra angular (B falsa); la codeína y la loperamida se usan para frenar el tránsito (C falsa); la dependencia permanente de NPT depende de la longitud, localización y salud del intestino restante, no de un plazo fijo de 6 meses (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 142 del PDF (respuesta 6)",
+   "Sabiston 21.ª ed., p. 1320-1321 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original; la opción E del banco está cortada en la conversión ('requerirán' falta), pero no cambia la respuesta."
+ },
+ "84c0a63f5f": {
+  "k": "84c0a63f5f",
+  "estado": "nueva",
+  "stem": "Una mujer de 68 años presenta exacerbación de insuficiencia cardíaca congestiva y dolor abdominal agudo. El examen abdominal revela sensibilidad difusa leve, sin rebote ni defensa. La angiotomografía muestra estrechamiento difuso de la arteria mesentérica superior (AMS) y sus ramas, sin oclusión vascular, neumatosis, aire libre ni gas venoso portal. ¿Cuál es una opción de tratamiento apropiada?",
+  "opts": [
+   "Infusión intravenosa de heparina.",
+   "Laparotomía exploratoria.",
+   "Reposición agresiva de líquidos.",
+   "Papaverina intraarterial.",
+   "Aumento del gasto cardíaco."
+  ],
+  "ans": 4,
+  "why": "Es isquemia mesentérica no oclusiva (estrechamiento difuso de la AMS sin oclusión, en el contexto de insuficiencia cardíaca). El objetivo es restaurar el flujo intestinal corrigiendo la causa de fondo, es decir, mejorar el gasto cardíaco (p. ej. con inotrópicos). La papaverina intraarterial en la AMS puede ayudar pero no es de primera línea mientras el manejo cardíaco pueda tener éxito; la reposición agresiva de líquidos debe hacerse con cautela porque empeora la insuficiencia cardíaca; la heparina es el tratamiento de la trombosis venosa y la laparotomía no está indicada sin peritonitis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 143 del PDF (respuesta 9)",
+   "de Virgilio ABSITE, p. 283 del PDF (isquemia no oclusiva)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Sin clave original. Ojo: la papaverina (D) es una terapia adyuvante válida según el libro, pero el libro marca E como la mejor opción."
+ },
+ "abd3d301c5": {
+  "k": "abd3d301c5",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la obstrucción del intestino delgado es verdadera?",
+  "opts": [
+   "La causa más frecuente en todo el mundo son las adherencias de cirugías previas.",
+   "Es más frecuente después de cirugía intestinal alta que después de cirugía intestinal baja.",
+   "En una obstrucción completa en asa cerrada, el lactato sérico puede ser normal.",
+   "Los síntomas de una obstrucción parcial suelen mejorar en 24 horas con tratamiento conservador.",
+   "El dolor abdominal desproporcionado respecto al examen físico aparece tempranamente en la obstrucción."
+  ],
+  "ans": 2,
+  "why": "En una obstrucción completa en asa cerrada el lactato sérico puede ser normal, porque la obstrucción del drenaje venoso impide que el ácido láctico de los enterocitos llegue a la circulación. Falsas: la causa mundial más frecuente es la hernia (adherencias lo son en EE. UU.); es más frecuente tras cirugía baja que alta; la mayoría de las obstrucciones parciales se resuelve en unas 48 horas; y el dolor desproporcionado al examen no es un hallazgo temprano.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 144 del PDF (respuesta 12)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original en el texto; en la imagen del original hay una marca roja en C, que coincide con el libro."
+ },
+ "9b4f1f8f61": {
+  "k": "9b4f1f8f61",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más frecuente de hemorragia digestiva oculta en adultos?",
+  "opts": [
+   "Angiodisplasia del intestino delgado.",
+   "Divertículo de Meckel.",
+   "Enfermedad de Crohn.",
+   "Enteritis infecciosa.",
+   "Vasculitis."
+  ],
+  "ans": 0,
+  "why": "La mayoría de las lesiones que sangran se ven con endoscopia alta o colonoscopia; la hemorragia 'oscura' (obscure) es la persistente o recurrente sin fuente identificada, y casi siempre proviene del intestino delgado. Las angiodisplasias del intestino delgado explican cerca del 75 % de los casos en adultos. Crohn, enteritis infecciosa, neoplasias y vasculitis son causas menos frecuentes; el divertículo de Meckel es la causa más común en niños.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 144-145 del PDF (respuesta 14)"
+  ],
+  "tema": "intestino",
+  "nota": "Texto reparado desde la imagen del original (estaba cortado; dice 'hemorragia digestiva oculta en adultos'). Marca roja en A en el original, coincide. El libro habla de hemorragia 'obscura' (obscure)."
+ },
+ "0c3a99d3ec": {
+  "k": "0c3a99d3ec",
+  "estado": "nueva",
+  "stem": "Una hernia cuyo saco contiene un divertículo de Meckel se denomina:",
+  "opts": [
+   "Hernia de Petit.",
+   "Hernia de Littre.",
+   "Hernia de Spiegel.",
+   "Hernia de Richter.",
+   "Hernia de Grynfeltt."
+  ],
+  "ans": 1,
+  "why": "Una hernia cuyo saco contiene un divertículo de Meckel se llama hernia de Littré. Petit y Grynfeltt son hernias lumbares (triángulo lumbar inferior y superior) y Spiegel es la que pasa por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 145 del PDF (respuesta 16)",
+   "de Virgilio ABSITE, p. 170 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Texto reparado desde la imagen del original (estaba cortado). Marca roja en B en el original, coincide."
+ },
+ "d52e6b58ec": {
+  "k": "d52e6b58ec",
+  "estado": "nueva",
+  "stem": "Un hombre de 75 años con enfermedad pulmonar obstructiva crónica (EPOC) acude a emergencias por un día de distensión abdominal y náuseas. Niega dolor abdominal. El examen es benigno y los análisis son normales. La tomografía muestra aire libre bajo el diafragma y quistes de paredes delgadas llenos de aire dentro de la pared intestinal. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Está indicada la laparotomía.",
+   "La forma primaria es más frecuente que la secundaria.",
+   "Es poco probable que esté relacionada con la EPOC del paciente.",
+   "Se observa con mayor frecuencia en el íleon.",
+   "Se asocia con el uso de corticoides."
+  ],
+  "ans": 4,
+  "why": "Es neumatosis intestinal (quistes de paredes delgadas con aire en la pared intestinal) en un paciente con EPOC. En adultos la forma secundaria se asocia sobre todo a EPOC y también a uso de corticoides, enfermedad de Crohn, colagenopatías e inmunodeficiencia; por eso se asocia a corticoides (E). Las demás son falsas: la forma primaria (cística) es la menos frecuente, puede aparecer en cualquier parte del tubo digestivo (sobre todo el colon, no el íleon) y no requiere tratamiento específico, así que no se indica laparotomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 146 del PDF (respuesta 19)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original; marca roja en E en el original, coincide con el libro."
+ },
+ "3a51e87f9b": {
+  "k": "3a51e87f9b",
+  "estado": "nueva",
+  "stem": "Una mujer de 70 años presenta dolor abdominal inespecífico, diarrea, esteatorrea y anemia macrocítica. No tiene antecedentes médicos ni quirúrgicos relevantes. La tomografía de abdomen y pelvis es negativa. La serie gastrointestinal superior y el tránsito intestinal muestran un divertículo yeyunal grande como único hallazgo. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Habitualmente se debe a una etiología autoinmunitaria.",
+   "Una dieta con triglicéridos de cadena larga puede ser beneficiosa.",
+   "El divertículo debe resecarse.",
+   "Los antibióticos de amplio espectro solo están indicados si la paciente presenta fiebre y leucocitosis.",
+   "Está indicada la vitamina B12."
+  ],
+  "ans": 4,
+  "why": "Es un síndrome de asa ciega por sobrecrecimiento bacteriano, con el divertículo yeyunal grande como causa probable (diarrea, esteatorrea, anemia megaloblástica por consumo de vitamina B12 por las bacterias). El tratamiento inicial son antibióticos de amplio espectro junto con vitamina B12 parenteral. No es de origen autoinmunitario (A falsa), y el libro no apoya los antibióticos solo si hay fiebre o leucocitosis (D falsa); la B (triglicéridos de cadena larga) y la resección (C) no figuran como tratamiento inicial.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 147 del PDF (respuesta 24)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. El texto del libro sobre el tratamiento queda cortado al final de la página, pero la clave E del libro es explícita."
+ },
+ "371102d16e": {
+  "k": "371102d16e",
+  "estado": "nueva",
+  "stem": "Un hombre de 57 años sin antecedentes de cirugía presenta dos días de dolor abdominal, náuseas y vómitos. Está distendido y timpánico, con sensibilidad leve, pero sin rebote ni defensa. No tiene hernias inguinales. La tomografía muestra múltiples asas del intestino delgado dilatadas y un punto de transición en el intestino distal, con cierta inflamación de la grasa mesentérica. Presenta leucocitosis leve, no evacúa desde hace un día y no elimina gases desde hace más de un día. Se coloca una sonda nasogástrica, se administran líquidos intravenosos y se mantiene al paciente en ayuno. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Prueba de 24 horas con aspiración por sonda nasogástrica y laparotomía si persiste un débito elevado.",
+   "Laparotomía exploratoria.",
+   "Prueba con contraste oral hidrosoluble.",
+   "Prueba con contraste hidrosoluble oral y rectal.",
+   "Laparoscopia diagnóstica."
+  ],
+  "ans": 2,
+  "why": "En una obstrucción de intestino delgado sin cirugía previa que se maneja de forma no operatoria (SNG, líquidos, ayuno), el paso siguiente es la prueba con contraste hidrosoluble por vía oral: se descomprime con SNG y se administra el contraste, con radiografía a las 8 horas. Si el contraste llega al colon es poco probable necesitar cirugía; si no, es más probable que fracase el manejo conservador. El contraste rectal no se usa de rutina en la obstrucción adhesiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 148 del PDF (respuesta 25)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original; marca roja en C en el original, coincide con el libro. El libro también señala que cerca del 40 % de estas obstrucciones sin cirugía previa se resuelven sin operar."
+ },
+ "5e60aca059": {
+  "k": "5e60aca059",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la mejor opción terapéutica para la enfermedad de Crohn activa leve?",
+  "opts": [
+   "Sulfasalazina.",
+   "Prednisona.",
+   "Budesonida.",
+   "Metronidazol.",
+   "Infliximab."
+  ],
+  "ans": null,
+  "why": "El texto completo (imagen del original) es: 'mejor opción terapéutica para la enfermedad de Crohn activa leve'. De Virgilio (ABSITE) marca sulfasalazina como el fármaco más usado en la enfermedad activa leve, útil sobre todo en colitis e ileocolitis. Pero Sabiston 21.ª ed. dice que la sulfasalazina tiene beneficio claro en el colon y que en el intestino delgado es polémica, y recomienda budesonida (o mesalamina) para Crohn leve a moderado con enfermedad ileal localizada. La pregunta no indica la localización, así que dos libros respaldan opciones distintas.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 149 del PDF (respuesta 29)",
+   "Sabiston 21.ª ed., p. 1289-1290 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave marcada en el original (círculo rojo): A, sulfasalazina, que coincide con el ABSITE; pero Sabiston respalda budesonida si la enfermedad es ileal. Sin localización en el enunciado no se puede decidir."
+ },
+ "4666cf603b": {
+  "k": "4666cf603b",
+  "estado": "nueva",
+  "stem": "Una mujer de 38 años presenta un día de náuseas, vómitos, distensión abdominal y obstipación. El examen muestra una masa timpánica en el cuadrante superior izquierdo y sensibilidad abdominal leve. Está hemodinámicamente estable, sin leucocitosis ni acidosis láctica. La radiografía muestra un asa intestinal muy dilatada, con forma de riñón y haustras, que se extiende desde el cuadrante inferior derecho hasta el superior izquierdo. La tomografía confirma el diagnóstico sin signos de hipoperfusión intestinal. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Colocación de una sonda de cecostomía.",
+   "Destorsión quirúrgica con cecopexia.",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa.",
+   "Destorsión endoscópica inicial seguida de hemicolectomía derecha.",
+   "Colectomía derecha con anastomosis primaria."
+  ],
+  "ans": 4,
+  "why": "Es un vólvulo cecal (asa en forma de riñón con haustras desde el cuadrante inferior derecho al superior izquierdo). No se destuerce por endoscopia con facilidad y tiene alta recurrencia tras destorsión con cecopexia; el tratamiento de elección es la colectomía derecha con anastomosis primaria, factible incluso sin preparación intestinal. La hemicolectomía con ileostomía y fístula mucosa se reserva para colon derecho gangrenoso (leucocitosis, acidosis, peritonitis), lo que esta paciente no tiene.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 164 del PDF (respuesta 14)",
+   "de Virgilio ABSITE, p. 153 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. La cecostomía (A) no se menciona en el libro; se descarta porque la clave del libro es explícita."
+ },
+ "7bb76e73a3": {
+  "k": "7bb76e73a3",
+  "estado": "nueva",
+  "stem": "Una hernia que contiene el apéndice se denomina:",
+  "opts": [
+   "Hernia de Petit.",
+   "Hernia de Amyand.",
+   "Hernia de Littre.",
+   "Hernia de Spiegel.",
+   "Hernia de Grynfeltt."
+  ],
+  "ans": 1,
+  "why": "Una hernia que contiene el apéndice es la hernia de Amyand; su importancia es que puede confundirse con una hernia estrangulada común y se trata con apendicectomía sin malla. Littré contiene un divertículo de Meckel; Petit y Grynfeltt son lumbares; Spiegel es por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 169 del PDF (respuesta 39)",
+   "de Virgilio ABSITE, p. 160 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ "c7f16b4a48": {
+  "k": "c7f16b4a48",
+  "estado": "nueva",
+  "stem": "Un hombre de 35 años presenta un día de anorexia, dolor y sensibilidad en el cuadrante inferior derecho del abdomen, además de febrícula. Durante la cirugía, el apéndice parece normal; sin embargo, el ciego y el íleon terminal están enrojecidos e inflamados. ¿Cuál debe ser la conducta?",
+  "opts": [
+   "Hemicolectomía derecha.",
+   "Apendicectomía.",
+   "Cierre de la herida sin ninguna otra intervención.",
+   "Biopsia de la pared cecal.",
+   "Biopsia del íleon terminal."
+  ],
+  "ans": 2,
+  "why": "Con ciego e íleon terminal inflamados y apéndice normal, se sospecha enfermedad de Crohn. Si el ciego está inflamado no se debe hacer apendicectomía por mayor riesgo de fístula enterocutánea, y tampoco biopsias (también aumentan ese riesgo). Por eso la conducta es cerrar sin más intervención y luego estudiar con colonoscopia y biopsias aleatorias. Solo si el ciego no está inflamado se retira el apéndice. La resección está indicada solo ante perforación libre, fístula o estenosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 170 del PDF (respuesta 40)"
+  ],
+  "tema": "intestino"
  }
 }

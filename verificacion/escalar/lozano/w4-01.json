@@ -1,0 +1,308 @@
+[
+ {
+  "k": "f2dd9b774f",
+  "sec": "Pre - post qx",
+  "stem": "¿Cuál es la conducta más adecuada ante dolor inguinal severo tras herniorrafia laparoscópica?",
+  "opts": [
+   "Reoperar inmediatamente con laparoscopía",
+   "Administrar AINEs",
+   "Iniciar gabapentina",
+   "Usar opiáceos",
+   "Infiltrar anestesia local."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 6,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "e6421f0624",
+  "sec": "Quirúrgicas",
+  "stem": "Cinco años después de una colostomía permanente, un paciente desarrolla una protuberancia adyacente al estoma. El paciente no presenta síntomas. El manejo consistiría en:",
+  "opts": [
+   "Observación",
+   "Reparación primaria del defecto fascial",
+   "Reubicación del estoma en nuevo sitio y cierre primario del defecto fascial",
+   "Reparación con malla del defecto fascial",
+   "Reubicación del estoma y cierre del defecto fascial con malla"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 15,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "2c7b75d6c6",
+  "sec": "Quirúrgicas",
+  "stem": "Dos días después de una colectomía derecha electiva por cáncer de colon, se observa una gran cantidad de líquido claro con tinte rosado saliendo de la herida media entre los puntos. El abdomen está tensamente distendido. El manejo consiste en:",
+  "opts": [
+   "Exploración quirúrgica inmediata",
+   "Retiro de todas las grapas para inspeccionar la herida",
+   "Aspiración de la herida",
+   "Antibióticos intravenosos",
+   "Ecografía"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 17,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "cfaacaa4dd",
+  "sec": "Quirúrgicas",
+  "stem": "Una hernia de Richter:",
+  "opts": [
+   "Contiene con mayor frecuencia colon o vejiga en la parte posterior del saco",
+   "Tiene bajo riesgo de incarceración",
+   "Se presenta más comúnmente como una obstrucción intestinal",
+   "Puede confundir al clínico ya que el asa estrangulada puede pasar desapercibida",
+   "Debe reducirse manualmente en emergencias si no hay signos de obstrucción intestinal"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 22,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "da4f89c301",
+  "sec": "Quirúrgicas",
+  "stem": "Una madre preocupada se presenta con su hijo de 6 meses que tiene una gran protrusión en el ombligo que empeora al llorar pero desaparece al dormir. Al examen se palpa un defecto fascial de 1 cm en el ombligo. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se recomienda reparación electiva",
+   "Está asociada a anomalías cardíacas",
+   "El tamaño del defecto predice que no se cerrará por sí solo",
+   "El riesgo de incarceración es significativo",
+   "La reparación debe retrasarse hasta que el niño tenga 4 años"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 22,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "aed6fbe724",
+  "sec": "Quirúrgicas",
+  "stem": "Tras una herniorrafia inguinal abierta, un hombre de 50 años se queja de adormecimiento y dolor urente en el escroto. Esto representa con mayor probabilidad una lesión de:",
+  "opts": [
+   "Rama genital del nervio genitofemoral",
+   "Rama femoral del nervio genitofemoral",
+   "Nervio ilioinguinal",
+   "Nervio cutáneo femoral lateral",
+   "Nervio iliohipogástrico"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 22,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "037440abe7",
+  "sec": "Quirúrgicas",
+  "stem": "Un hombre de 65 años acude a urgencias con náuseas, vómitos y dolor abdominal severo. Tiene antecedentes de colectomía sigmoidea por diverticulitis hace 10 años. TA 110/80 mmHg, FC 110/min, T° 100.9 °F. Abdomen con cicatriz media, distendido, ruidos intestinales hiperactivos. Dolor en hipocondrio derecho con defensa. Radiografía: una asa de intestino delgado marcadamente distendida con nivel hidroaéreo en cuadrante superior derecho. Sin gas en colon ni recto. Laboratorio: leucocitos 18 ×10³/μL con 15 % bandas, lactato sérico 5 mmol/L, BUN 30 mg/dL, creatinina 1.2 mg/dL. Amilasa, lipasa y pruebas hepáticas normales. Se colocan sonda NG y líquidos IV. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Internamiento para observación estrecha",
+   "Tránsito intestinal con bario",
+   "Tránsito intestinal con Gastrografin",
+   "Ecografía de hipocondrio derecho"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 22,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "061d489152",
+  "sec": "Antibioticoterapia",
+  "stem": "El organismo más comúnmente asociado con linfadenitis mesentérica aguda es:",
+  "opts": [
+   "Campylobacter jejuni.",
+   "Escherichia coli.",
+   "Enterococcus.",
+   "Yersinia enterocolitica.",
+   "Oxiuriasis."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 38,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a15acc1104",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 62 años es admitido con un abdomen agudo secundario a isquemia mesentérica. Su lactato sérico está elevado y presenta confusión. Se le administra líquidos intravenosos agresivos, pero la acidosis metabólica persiste. ¿Cuál de los siguientes es el siguiente paso más adecuado?",
+  "opts": [
+   "Administrar bicarbonato de sodio",
+   "Iniciar noradrenalina",
+   "Transfusión de sangre",
+   "Repetir lactato sérico",
+   "Llevar al paciente a cirugía urgente"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 42,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "ce9fc95bc2",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 54 años se presenta al servicio de emergencias con dolor abdominal y vómitos. Tiene antecedentes de múltiples cirugías abdominales, incluyendo una resección de intestino delgado por enfermedad de Crohn. Su abdomen está distendido, con ruidos intestinales aumentados. Las radiografías de abdomen muestran niveles hidroaéreos múltiples y asas dilatadas de intestino delgado. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis",
+   "Íleo adinámico",
+   "Obstrucción intestinal por bridas",
+   "Vólvulo",
+   "Colitis ulcerosa"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "915ef335d2",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 37 años se presenta con dolor abdominal agudo y amenorrea de 7 semanas. Tiene sangrado vaginal leve. Su TA es de 90/60 mmHg y el pulso de 112/min. El examen muestra sensibilidad a la palpación y rebote en el cuadrante inferior derecho. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis aguda",
+   "Embarazo ectópico roto",
+   "Torsión ovárica",
+   "Quiste ovárico hemorrágico",
+   "Infección pélvica"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "96a79beb0a",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 35 años acude con vómitos, distensión abdominal y no ha expulsado gases desde hace 48 horas. Tiene una cicatriz quirúrgica media. El abdomen está timpánico y doloroso a la palpación, con ruidos aumentados. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pancreatitis aguda",
+   "Íleo paralítico",
+   "Obstrucción intestinal",
+   "Vólvulo de sigmoides",
+   "Diverticulitis"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "8999bc233f",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 70 años acude por dolor abdominal tipo cólico, vómitos fecaloides y distensión. Tiene antecedentes de hernia inguinal. Se palpa una masa dolorosa en la ingle derecha. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Radiografía de abdomen",
+   "TAC con contraste oral",
+   "Reducción manual de la hernia",
+   "Cirugía urgente",
+   "Enema terapéutico"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "001d64ed4b",
+  "sec": "Abdomen general",
+  "stem": "Un paciente de 60 años acude con vómitos fecaloides, dolor abdominal y distensión. Tiene historia de colelitiasis no operada. La radiografía muestra niveles hidroaéreos y aire en vía biliar. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Vólvulo",
+   "Obstrucción intestinal por bridas",
+   "Íleo biliar",
+   "Obstrucción por cáncer de colon",
+   "Megacolon tóxico"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "a2b4ef5b36",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 70 años es llevada por dolor intenso y repentino en abdomen medio. Tiene FA crónica y TA 90/55 mmHg. Está ansiosa, con abdomen blando pero dolor desproporcionado al examen físico. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pancreatitis aguda",
+   "Isquemia mesentérica aguda",
+   "Infarto esplénico",
+   "Úlcera perforada",
+   "Hematoma retroperitoneal"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "33b7c6b301",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 26 años consulta por dolor abdominal bajo intermitente, asociado a diarrea is se e y pérdida de peso. La colonoscopía muestra ulceraciones segmentarias y estenosis en el íleon terminal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Colitis ulcerosa",
+   "Síndrome de intestino irritable",
+   "Enfermedad de Crohn",
+   "Colitis infecciosa",
+   "Diverticulitis"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "ffb4c0133b",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 35 años se presenta con náuseas y vómitos. Refiere una pérdida de 45 kg debido a dieta y ejercicio durante 1 año, y ahora pesa 54 kg. La endoscopia digestiva alta demuestra compresión extrínseca de la porción transversa del duodeno. El diagnóstico más probable es:",
+  "opts": [
+   "Síndrome de compresión por la arteria mesentérica superior",
+   "Estenosis por úlcera péptica",
+   "Enfermedad de Crohn",
+   "Síndrome del ligamento arcuato mediano",
+   "Adenocarcinoma duodenal"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 69,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ }
+]

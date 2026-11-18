@@ -1,0 +1,183 @@
+[
+ {
+  "k": "0e1155fffe",
+  "stem": "En la enfermedad de Crohn, no se encuentra :",
+  "opts": [
+   "Granulomas",
+   "Pseudopólipos",
+   "Afectación transmural",
+   "Afectación segmentaruia",
+   "Aspecto de empedrado de la mucuosa"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "d6344627b5",
+  "stem": "En relación con la enfermedad de Crohn. ¿ cuál de las siguientes",
+  "opts": [
+   "La inflamación es un proceso transmural",
+   "Las fístulas, fisuras y abscesos perineales son frecue",
+   "La lesión aftoide es la manifestación más temprana",
+   "Son frecuentes los síntomas sistémicos",
+   "Se inicia siempre en el recto y se extiende a todo el c"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "955df6fae0",
+  "stem": "En el 85 % de los pacientes con enteritis tuberculosa el sitio de afe",
+  "opts": [
+   "Duodeno",
+   "Yeyuno",
+   "Región ileocecal",
+   "Yeyuno-ileon",
+   "Ciego"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "68f94799b6",
+  "stem": "La manifestación clínica más común de un divertículo de MecKel e",
+  "opts": [
+   "Diverticulitis",
+   "Hemorragia gastrointestinal",
+   "Obstrucción intestinal",
+   "Perforación y peritonitis",
+   "Vólvulo del intestino delgado"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "9febfd07c3",
+  "stem": "Los bacilos en la TBC intestinal se asientan más a menudo en : afirmaciones es incorrecta : ntes olon gra por el : la presencia de actividad en la cción es : s :",
+  "opts": [
+   "yeyuno",
+   "lleon",
+   "Colon ascendente",
+   "Todos las anteriores",
+   "Solo A y B"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "1062c07b78",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el sindrome de intestino cort",
+  "opts": [
+   "Es más común en el colon",
+   "La pérdida de más de 75% del intestino delgado usualmente intestinal",
+   "La resección ileal es menos problemático que la resección y",
+   "Los pacientes siempre requieren nutrición parenteral de por",
+   "Es importante preservar yeyuno porque absorbe vit B12"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "96117eb9e9",
+  "stem": "¿Cuál es la causa más común de obstrucción del intestino delgado en a",
+  "opts": [
+   "Volvulus",
+   "Hernias",
+   "Adherencias",
+   "Neoplasias",
+   "Parasitosis"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "df90a6445f",
+  "stem": "¿Cuál es la manifestación clínica más frecuente de un tumor carcinoide",
+  "opts": [
+   "Sangrado gastrointestinal",
+   "Dolor abdominal intermitente",
+   "Obstrucción intestinal",
+   "Pérdida de peso",
+   "Hematoquesia"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "56fb106e43",
+  "stem": "¿Qué técnica quirúrgica se utiliza con mayor frecuencia para el tratamie intestinal mecánica causada por adherencias?",
+  "opts": [
+   "Resección segmentaria del intestino delgado",
+   "Enterostomía de alivio",
+   "Adhesiolisis",
+   "Anastomosis en puente",
+   "Intubación de yeyuno"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "dd1cc73c47",
+  "stem": "En pacientes con enfermedad celíaca, ¿cuál es el hallazgo histopatológi intestino delgado?",
+  "opts": [
+   "Hiperplasia de las criptas",
+   "Atrofía de las vellosidades",
+   "Infiltración eosinofílica",
+   "Granulomas no caseificantes",
+   "Patrón histopatológico"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "ee2458d64e",
+  "stem": "¿Qué hallazgo histopatológico es característico de la enfermedad de Crohn",
+  "opts": [
+   "Atrofia de las vellosidades",
+   "Células en anillo de sello",
+   "Úlceras lineales",
+   "Infiltración eosinofílica",
+   "Granuloma no caseificantes"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "9bcd6b32cd",
+  "stem": "Varón de 76 años, hace 3 días presenta dolor abdominal en hipogastrio, falta de apetito. Deposiciones líquidas 2 cámaras/días y dificultad para caminar. Examen: PA: 100/70 mmHg, T°: 37°C, FC:95X' . FR:25X'; abdomen doloroso a la palpación profunda en hemiabdomen inferior, signo de McBurney dudoso, Blumberg (*+), Laboratorio: leucocitos: 8500 por mm3 con 10 abastonados. Ecografía: líquido libre aprox. 300ml en Douglas. ¿Qué solicitaría para llegar al diagnóstico?",
+  "opts": [
+   "Colonoscopía",
+   "Rx. colon con enema",
+   "Hemograma control",
+   "Ecografia control",
+   "TAC contrastada"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "c5fe1fbb34",
+  "stem": "Una mujer de 80 años es traída al servicio de urgencias por un cuadro de dolor abdominal agudo que se acompaña de hipotensión, taquicardia y fiebre de 38 °C. Entre sus antecedentes destaca una resección de colon izquierdo por carcinoma siete días antes. Tras la reanimación inicial se realiza una radiografía simple de tórax que resulta diagnóstica de",
+  "opts": [
+   "Neumoperitoneo",
+   "Obstrucción intestinal:",
+   "Hernia crural estrangulada",
+   "Neumotórax izquierdo.",
+   "Isquemia mesentérica."
+  ],
+  "clave_original": "A",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "ad5f72037b",
+  "stem": "Paciente con obstrucción intestinal por tumor de colon izquierdo perforado + peritonitis generalizada + sepsis. La conducta más adecuada seria:",
+  "opts": [
+   "Laparotomía + resección de tumor + anastomosis término terminal + lavado de cavidad peritoneal.",
+   "Laparotomía + resección de tumor + colostomía + lavado de cavidad peritoneal",
+   "Laparotomía + rafia de perforación + lavado de cavidad peritoneal",
+   "Laparotomía + colectomía total + ileostomía + lavado de cavidad peritoneal."
+  ],
+  "clave_original": "B",
+  "tema": "intestino"
+ }
+]

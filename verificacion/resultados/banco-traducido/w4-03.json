@@ -1,0 +1,254 @@
+[
+ {
+  "k": "5359493198",
+  "estado": "nueva",
+  "stem": "Dos semanas después de una reparación abierta de un aneurisma aórtico, un paciente presenta marcada distensión abdominal sin náuseas ni vómitos. No hay dolor a la palpación y las radiografías simples no muestran alteraciones. La tomografía evidencia abundante ascitis, sin otros hallazgos relevantes. La paracentesis obtiene líquido turbio con cultivo negativo, triglicéridos de 400 mg/dL y 600 leucocitos/μL, predominantemente linfocitos. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Debe indicarse nutrición parenteral total (NPT) y ayuno.",
+   "El octreótido no es útil.",
+   "El paciente debe ser reintervenido inmediatamente.",
+   "La embolización por radiología intervencionista es el tratamiento de primera línea.",
+   "La mayoría de los pacientes responde a una dieta rica en proteínas, baja en grasas y con triglicéridos de cadena media."
+  ],
+  "ans": 4,
+  "why": "Es una ascitis quilosa posoperatoria (tras reparación de aneurisma aórtico): líquido turbio, triglicéridos >200 mg/dL, leucocitos >500 con predominio linfocitario y cultivo negativo. El tratamiento inicial es una dieta rica en proteínas, baja en grasas y con triglicéridos de cadena media, que no forman quilomicrones. La NPT con ayuno y el octreótido se reservan si la dieta falla (por eso el octreótido sí es útil, B es falsa); la reintervención se considera si la fuga persiste más de 2 semanas y la embolización percutánea se intenta tras fallar la dieta.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 141-142 del PDF (respuesta 4)",
+   "Sabiston 21.ª ed., p. 1864 del PDF (quiloperitoneo)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original en el banco; la clave sale del libro (mismo caso clínico)."
+ },
+ {
+  "k": "80cbd22072",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el tratamiento intestino corto es verdadera?",
+  "opts": [
+   "Debe evitarse la glutamina.",
+   "El octreótido es la piedra angular del tratamiento.",
+   "La codeína está contraindicada.",
+   "Está indicada la alimentación enteral temprana.",
+   "Los pacientes que necesitan NPT después de seis meses permanente."
+  ],
+  "ans": 3,
+  "why": "En el síndrome de intestino corto, tras la fase aguda debe iniciarse la alimentación enteral lo antes posible (cuando se resuelve el íleo), porque favorece la adaptación intestinal y evita la atrofia vellositaria. La glutamina es útil (A falsa); el octreótido es controvertido y no es la piedra angular (B falsa); la codeína y la loperamida se usan para frenar el tránsito (C falsa); la dependencia permanente de NPT depende de la longitud, localización y salud del intestino restante, no de un plazo fijo de 6 meses (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 142 del PDF (respuesta 6)",
+   "Sabiston 21.ª ed., p. 1320-1321 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original; la opción E del banco está cortada en la conversión ('requerirán' falta), pero no cambia la respuesta."
+ },
+ {
+  "k": "84c0a63f5f",
+  "estado": "nueva",
+  "stem": "Una mujer de 68 años presenta exacerbación de insuficiencia cardíaca congestiva y dolor abdominal agudo. El examen abdominal revela sensibilidad difusa leve, sin rebote ni defensa. La angiotomografía muestra estrechamiento difuso de la arteria mesentérica superior (AMS) y sus ramas, sin oclusión vascular, neumatosis, aire libre ni gas venoso portal. ¿Cuál es una opción de tratamiento apropiada?",
+  "opts": [
+   "Infusión intravenosa de heparina.",
+   "Laparotomía exploratoria.",
+   "Reposición agresiva de líquidos.",
+   "Papaverina intraarterial.",
+   "Aumento del gasto cardíaco."
+  ],
+  "ans": 4,
+  "why": "Es isquemia mesentérica no oclusiva (estrechamiento difuso de la AMS sin oclusión, en el contexto de insuficiencia cardíaca). El objetivo es restaurar el flujo intestinal corrigiendo la causa de fondo, es decir, mejorar el gasto cardíaco (p. ej. con inotrópicos). La papaverina intraarterial en la AMS puede ayudar pero no es de primera línea mientras el manejo cardíaco pueda tener éxito; la reposición agresiva de líquidos debe hacerse con cautela porque empeora la insuficiencia cardíaca; la heparina es el tratamiento de la trombosis venosa y la laparotomía no está indicada sin peritonitis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 143 del PDF (respuesta 9)",
+   "de Virgilio ABSITE, p. 283 del PDF (isquemia no oclusiva)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Sin clave original. Ojo: la papaverina (D) es una terapia adyuvante válida según el libro, pero el libro marca E como la mejor opción."
+ },
+ {
+  "k": "abd3d301c5",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la obstrucción del intestino delgado es verdadera?",
+  "opts": [
+   "La causa más frecuente en todo el mundo son las adherencias de cirugías previas.",
+   "Es más frecuente después de cirugía intestinal alta que después de cirugía intestinal baja.",
+   "En una obstrucción completa en asa cerrada, el lactato sérico puede ser normal.",
+   "Los síntomas de una obstrucción parcial suelen mejorar en 24 horas con tratamiento conservador.",
+   "El dolor abdominal desproporcionado respecto al examen físico aparece tempranamente en la obstrucción."
+  ],
+  "ans": 2,
+  "why": "En una obstrucción completa en asa cerrada el lactato sérico puede ser normal, porque la obstrucción del drenaje venoso impide que el ácido láctico de los enterocitos llegue a la circulación. Falsas: la causa mundial más frecuente es la hernia (adherencias lo son en EE. UU.); es más frecuente tras cirugía baja que alta; la mayoría de las obstrucciones parciales se resuelve en unas 48 horas; y el dolor desproporcionado al examen no es un hallazgo temprano.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 144 del PDF (respuesta 12)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original en el texto; en la imagen del original hay una marca roja en C, que coincide con el libro."
+ },
+ {
+  "k": "9b4f1f8f61",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más frecuente de hemorragia digestiva oculta en adultos?",
+  "opts": [
+   "Angiodisplasia del intestino delgado.",
+   "Divertículo de Meckel.",
+   "Enfermedad de Crohn.",
+   "Enteritis infecciosa.",
+   "Vasculitis."
+  ],
+  "ans": 0,
+  "why": "La mayoría de las lesiones que sangran se ven con endoscopia alta o colonoscopia; la hemorragia 'oscura' (obscure) es la persistente o recurrente sin fuente identificada, y casi siempre proviene del intestino delgado. Las angiodisplasias del intestino delgado explican cerca del 75 % de los casos en adultos. Crohn, enteritis infecciosa, neoplasias y vasculitis son causas menos frecuentes; el divertículo de Meckel es la causa más común en niños.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 144-145 del PDF (respuesta 14)"
+  ],
+  "tema": "intestino",
+  "nota": "Texto reparado desde la imagen del original (estaba cortado; dice 'hemorragia digestiva oculta en adultos'). Marca roja en A en el original, coincide. El libro habla de hemorragia 'obscura' (obscure)."
+ },
+ {
+  "k": "0c3a99d3ec",
+  "estado": "nueva",
+  "stem": "Una hernia cuyo saco contiene un divertículo de Meckel se denomina:",
+  "opts": [
+   "Hernia de Petit.",
+   "Hernia de Littre.",
+   "Hernia de Spiegel.",
+   "Hernia de Richter.",
+   "Hernia de Grynfeltt."
+  ],
+  "ans": 1,
+  "why": "Una hernia cuyo saco contiene un divertículo de Meckel se llama hernia de Littré. Petit y Grynfeltt son hernias lumbares (triángulo lumbar inferior y superior) y Spiegel es la que pasa por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 145 del PDF (respuesta 16)",
+   "de Virgilio ABSITE, p. 170 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Texto reparado desde la imagen del original (estaba cortado). Marca roja en B en el original, coincide."
+ },
+ {
+  "k": "d52e6b58ec",
+  "estado": "nueva",
+  "stem": "Un hombre de 75 años con enfermedad pulmonar obstructiva crónica (EPOC) acude a emergencias por un día de distensión abdominal y náuseas. Niega dolor abdominal. El examen es benigno y los análisis son normales. La tomografía muestra aire libre bajo el diafragma y quistes de paredes delgadas llenos de aire dentro de la pared intestinal. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Está indicada la laparotomía.",
+   "La forma primaria es más frecuente que la secundaria.",
+   "Es poco probable que esté relacionada con la EPOC del paciente.",
+   "Se observa con mayor frecuencia en el íleon.",
+   "Se asocia con el uso de corticoides."
+  ],
+  "ans": 4,
+  "why": "Es neumatosis intestinal (quistes de paredes delgadas con aire en la pared intestinal) en un paciente con EPOC. En adultos la forma secundaria se asocia sobre todo a EPOC y también a uso de corticoides, enfermedad de Crohn, colagenopatías e inmunodeficiencia; por eso se asocia a corticoides (E). Las demás son falsas: la forma primaria (cística) es la menos frecuente, puede aparecer en cualquier parte del tubo digestivo (sobre todo el colon, no el íleon) y no requiere tratamiento específico, así que no se indica laparotomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 146 del PDF (respuesta 19)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original; marca roja en E en el original, coincide con el libro."
+ },
+ {
+  "k": "3a51e87f9b",
+  "estado": "nueva",
+  "stem": "Una mujer de 70 años presenta dolor abdominal inespecífico, diarrea, esteatorrea y anemia macrocítica. No tiene antecedentes médicos ni quirúrgicos relevantes. La tomografía de abdomen y pelvis es negativa. La serie gastrointestinal superior y el tránsito intestinal muestran un divertículo yeyunal grande como único hallazgo. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Habitualmente se debe a una etiología autoinmunitaria.",
+   "Una dieta con triglicéridos de cadena larga puede ser beneficiosa.",
+   "El divertículo debe resecarse.",
+   "Los antibióticos de amplio espectro solo están indicados si la paciente presenta fiebre y leucocitosis.",
+   "Está indicada la vitamina B12."
+  ],
+  "ans": 4,
+  "why": "Es un síndrome de asa ciega por sobrecrecimiento bacteriano, con el divertículo yeyunal grande como causa probable (diarrea, esteatorrea, anemia megaloblástica por consumo de vitamina B12 por las bacterias). El tratamiento inicial son antibióticos de amplio espectro junto con vitamina B12 parenteral. No es de origen autoinmunitario (A falsa), y el libro no apoya los antibióticos solo si hay fiebre o leucocitosis (D falsa); la B (triglicéridos de cadena larga) y la resección (C) no figuran como tratamiento inicial.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 147 del PDF (respuesta 24)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. El texto del libro sobre el tratamiento queda cortado al final de la página, pero la clave E del libro es explícita."
+ },
+ {
+  "k": "371102d16e",
+  "estado": "nueva",
+  "stem": "Un hombre de 57 años sin antecedentes de cirugía presenta dos días de dolor abdominal, náuseas y vómitos. Está distendido y timpánico, con sensibilidad leve, pero sin rebote ni defensa. No tiene hernias inguinales. La tomografía muestra múltiples asas del intestino delgado dilatadas y un punto de transición en el intestino distal, con cierta inflamación de la grasa mesentérica. Presenta leucocitosis leve, no evacúa desde hace un día y no elimina gases desde hace más de un día. Se coloca una sonda nasogástrica, se administran líquidos intravenosos y se mantiene al paciente en ayuno. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Prueba de 24 horas con aspiración por sonda nasogástrica y laparotomía si persiste un débito elevado.",
+   "Laparotomía exploratoria.",
+   "Prueba con contraste oral hidrosoluble.",
+   "Prueba con contraste hidrosoluble oral y rectal.",
+   "Laparoscopia diagnóstica."
+  ],
+  "ans": 2,
+  "why": "En una obstrucción de intestino delgado sin cirugía previa que se maneja de forma no operatoria (SNG, líquidos, ayuno), el paso siguiente es la prueba con contraste hidrosoluble por vía oral: se descomprime con SNG y se administra el contraste, con radiografía a las 8 horas. Si el contraste llega al colon es poco probable necesitar cirugía; si no, es más probable que fracase el manejo conservador. El contraste rectal no se usa de rutina en la obstrucción adhesiva.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 148 del PDF (respuesta 25)"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original; marca roja en C en el original, coincide con el libro. El libro también señala que cerca del 40 % de estas obstrucciones sin cirugía previa se resuelven sin operar."
+ },
+ {
+  "k": "5e60aca059",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la mejor opción terapéutica para la enfermedad de Crohn activa leve?",
+  "opts": [
+   "Sulfasalazina.",
+   "Prednisona.",
+   "Budesonida.",
+   "Metronidazol.",
+   "Infliximab."
+  ],
+  "ans": null,
+  "why": "El texto completo (imagen del original) es: 'mejor opción terapéutica para la enfermedad de Crohn activa leve'. De Virgilio (ABSITE) marca sulfasalazina como el fármaco más usado en la enfermedad activa leve, útil sobre todo en colitis e ileocolitis. Pero Sabiston 21.ª ed. dice que la sulfasalazina tiene beneficio claro en el colon y que en el intestino delgado es polémica, y recomienda budesonida (o mesalamina) para Crohn leve a moderado con enfermedad ileal localizada. La pregunta no indica la localización, así que dos libros respaldan opciones distintas.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 149 del PDF (respuesta 29)",
+   "Sabiston 21.ª ed., p. 1289-1290 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave marcada en el original (círculo rojo): A, sulfasalazina, que coincide con el ABSITE; pero Sabiston respalda budesonida si la enfermedad es ileal. Sin localización en el enunciado no se puede decidir."
+ },
+ {
+  "k": "4666cf603b",
+  "estado": "nueva",
+  "stem": "Una mujer de 38 años presenta un día de náuseas, vómitos, distensión abdominal y obstipación. El examen muestra una masa timpánica en el cuadrante superior izquierdo y sensibilidad abdominal leve. Está hemodinámicamente estable, sin leucocitosis ni acidosis láctica. La radiografía muestra un asa intestinal muy dilatada, con forma de riñón y haustras, que se extiende desde el cuadrante inferior derecho hasta el superior izquierdo. La tomografía confirma el diagnóstico sin signos de hipoperfusión intestinal. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Colocación de una sonda de cecostomía.",
+   "Destorsión quirúrgica con cecopexia.",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa.",
+   "Destorsión endoscópica inicial seguida de hemicolectomía derecha.",
+   "Colectomía derecha con anastomosis primaria."
+  ],
+  "ans": 4,
+  "why": "Es un vólvulo cecal (asa en forma de riñón con haustras desde el cuadrante inferior derecho al superior izquierdo). No se destuerce por endoscopia con facilidad y tiene alta recurrencia tras destorsión con cecopexia; el tratamiento de elección es la colectomía derecha con anastomosis primaria, factible incluso sin preparación intestinal. La hemicolectomía con ileostomía y fístula mucosa se reserva para colon derecho gangrenoso (leucocitosis, acidosis, peritonitis), lo que esta paciente no tiene.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 164 del PDF (respuesta 14)",
+   "de Virgilio ABSITE, p. 153 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. La cecostomía (A) no se menciona en el libro; se descarta porque la clave del libro es explícita."
+ },
+ {
+  "k": "7bb76e73a3",
+  "estado": "nueva",
+  "stem": "Una hernia que contiene el apéndice se denomina:",
+  "opts": [
+   "Hernia de Petit.",
+   "Hernia de Amyand.",
+   "Hernia de Littre.",
+   "Hernia de Spiegel.",
+   "Hernia de Grynfeltt."
+  ],
+  "ans": 1,
+  "why": "Una hernia que contiene el apéndice es la hernia de Amyand; su importancia es que puede confundirse con una hernia estrangulada común y se trata con apendicectomía sin malla. Littré contiene un divertículo de Meckel; Petit y Grynfeltt son lumbares; Spiegel es por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 169 del PDF (respuesta 39)",
+   "de Virgilio ABSITE, p. 160 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "c7f16b4a48",
+  "estado": "nueva",
+  "stem": "Un hombre de 35 años presenta un día de anorexia, dolor y sensibilidad en el cuadrante inferior derecho del abdomen, además de febrícula. Durante la cirugía, el apéndice parece normal; sin embargo, el ciego y el íleon terminal están enrojecidos e inflamados. ¿Cuál debe ser la conducta?",
+  "opts": [
+   "Hemicolectomía derecha.",
+   "Apendicectomía.",
+   "Cierre de la herida sin ninguna otra intervención.",
+   "Biopsia de la pared cecal.",
+   "Biopsia del íleon terminal."
+  ],
+  "ans": 2,
+  "why": "Con ciego e íleon terminal inflamados y apéndice normal, se sospecha enfermedad de Crohn. Si el ciego está inflamado no se debe hacer apendicectomía por mayor riesgo de fístula enterocutánea, y tampoco biopsias (también aumentan ese riesgo). Por eso la conducta es cerrar sin más intervención y luego estudiar con colonoscopia y biopsias aleatorias. Solo si el ciego no está inflamado se retira el apéndice. La resección está indicada solo ante perforación libre, fístula o estenosis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards 3.ª ed., p. 170 del PDF (respuesta 40)"
+  ],
+  "tema": "intestino"
+ }
+]

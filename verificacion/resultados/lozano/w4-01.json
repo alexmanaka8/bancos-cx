@@ -1,0 +1,325 @@
+[
+ {
+  "k": "f2dd9b774f",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la conducta más adecuada ante dolor inguinal severo tras herniorrafia laparoscópica?",
+  "opts": [
+   "Reoperar inmediatamente con laparoscopía",
+   "Administrar AINEs",
+   "Iniciar gabapentina",
+   "Usar opiáceos",
+   "Infiltrar anestesia local."
+  ],
+  "ans": 0,
+  "why": "Dolor inguinal intenso que aparece justo después de una hernioplastia laparoscópica se debe sobre todo a una lesión nerviosa por grapa o tacker. Si se sospecha, se vuelve al quirófano a retirar el elemento causante. Los AINE, la infiltración local o el tratamiento médico no son apropiados si la causa es la irritación del nervio por la grapa, y la infiltración solo alivia de forma temporal.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF (pregunta 10)"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "e6421f0624",
+  "estado": "confirmada",
+  "stem": "Cinco años después de una colostomía permanente, un paciente desarrolla una protuberancia adyacente al estoma. El paciente no presenta síntomas. El manejo consistiría en:",
+  "opts": [
+   "Observación",
+   "Reparación primaria del defecto fascial",
+   "Reubicación del estoma en nuevo sitio y cierre primario del defecto fascial",
+   "Reparación con malla del defecto fascial",
+   "Reubicación del estoma y cierre del defecto fascial con malla"
+  ],
+  "ans": 0,
+  "why": "La mayoría de las hernias parastomales son asintomáticas y no requieren intervención; con una hernia parastomal asintomática se indica cinturón de soporte y control de peso. La reparación (primaria, con malla o con reubicación) se reserva para los casos sintomáticos (dolor, obstrucción intermitente, dificultad para el aparato colector).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 43 y p. 165 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: A (resaltado), respaldada por el libro."
+ },
+ {
+  "k": "2c7b75d6c6",
+  "estado": "confirmada",
+  "stem": "Dos días después de una colectomía derecha electiva por cáncer de colon, se observa una gran cantidad de líquido claro con tinte rosado saliendo de la herida media entre los puntos. El abdomen está tensamente distendido. El manejo consiste en:",
+  "opts": [
+   "Exploración quirúrgica inmediata",
+   "Retiro de todas las grapas para inspeccionar la herida",
+   "Aspiración de la herida",
+   "Antibióticos intravenosos",
+   "Ecografía"
+  ],
+  "ans": 0,
+  "why": "Salida súbita de gran cantidad de líquido claro, rosado o seroso por la herida de laparotomía en los primeros días indica dehiscencia fascial aguda. Sabiston la describe como drenaje serosanguinolento por la herida y manifestación temprana de un problema intraabdominal, y su tratamiento es quirúrgico según la causa. Por eso corresponde la exploración quirúrgica, no aspirar, retirar grapas, dar solo antibióticos ni pedir ecografía.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 265 y p. 454 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 472 del PDF (dehiscencia: drenaje abundante de líquido claro color salmón)"
+  ],
+  "tema": "eventraciones",
+  "nota": "INDIRECTA: ningún libro trae esta viñeta exacta; la conducta quirúrgica se deduce del texto de Sabiston sobre dehiscencia fascial aguda."
+ },
+ {
+  "k": "cfaacaa4dd",
+  "estado": "confirmada",
+  "stem": "Una hernia de Richter:",
+  "opts": [
+   "Contiene con mayor frecuencia colon o vejiga en la parte posterior del saco",
+   "Tiene bajo riesgo de incarceración",
+   "Se presenta más comúnmente como una obstrucción intestinal",
+   "Puede confundir al clínico ya que el asa estrangulada puede pasar desapercibida",
+   "Debe reducirse manualmente en emergencias si no hay signos de obstrucción intestinal"
+  ],
+  "ans": 3,
+  "why": "En la hernia de Richter solo el borde antimesentérico del intestino queda atrapado, por lo que puede haber incarceración y estrangulación sin signos de obstrucción intestinal; por eso el asa estrangulada puede pasar desapercibida. No suele presentarse como obstrucción y tiene alto riesgo de estrangulación, y no se debe reducir manualmente sin más.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF (pregunta 16)",
+   "Sabiston 21.ª ed., p. 1129 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "da4f89c301",
+  "estado": "confirmada",
+  "stem": "Una madre preocupada se presenta con su hijo de 6 meses que tiene una gran protrusión en el ombligo que empeora al llorar pero desaparece al dormir. Al examen se palpa un defecto fascial de 1 cm en el ombligo. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se recomienda reparación electiva",
+   "Está asociada a anomalías cardíacas",
+   "El tamaño del defecto predice que no se cerrará por sí solo",
+   "El riesgo de incarceración es significativo",
+   "La reparación debe retrasarse hasta que el niño tenga 4 años"
+  ],
+  "ans": 4,
+  "why": "La hernia umbilical del niño suele cerrarse sola (cerca del 80 %, sobre todo si el defecto es menor de 1 cm), la incarceración es muy rara y la reparación electiva se difiere hasta los 4 o 5 años si no cierra. Por eso no se repara de forma electiva al diagnóstico, un defecto pequeño predice cierre espontáneo y el riesgo de incarceración es bajo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 45 del PDF (pregunta 14)",
+   "Sabiston 21.ª ed., p. 1893 del PDF"
+  ],
+  "tema": "pediatria",
+  "nota": "La opción de cardiopatías no se trata en las fuentes leídas. Sabiston dice diferir hasta cerca de los 5 años; de Virgilio, 4 o 5 años."
+ },
+ {
+  "k": "aed6fbe724",
+  "estado": "dudosa",
+  "stem": "Tras una herniorrafia inguinal abierta, un hombre de 50 años se queja de adormecimiento y dolor urente en el escroto. Esto representa con mayor probabilidad una lesión de:",
+  "opts": [
+   "Rama genital del nervio genitofemoral",
+   "Rama femoral del nervio genitofemoral",
+   "Nervio ilioinguinal",
+   "Nervio cutáneo femoral lateral",
+   "Nervio iliohipogástrico"
+  ],
+  "ans": null,
+  "why": "Las fuentes no deciden entre la rama genital del genitofemoral y el ilioinguinal. De Virgilio asigna al genital la sensibilidad del lado del escroto y al ilioinguinal la cara interna del muslo. Sabiston p. 1107 dice que los ramos terminales del ilioinguinal dan sensibilidad a la región inguinal y al escroto, y p. 1133 que el genital inerva la cara lateral del escroto. Ambas opciones son defendibles y ninguna fuente atribuye la lesión tras herniorrafia abierta a uno solo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 43 del PDF (pregunta 5)",
+   "Sabiston 21.ª ed., p. 1107 y p. 1133 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: A, rama genital (resaltado). Queda dudosa porque el ilioinguinal también inerva el escroto según Sabiston."
+ },
+ {
+  "k": "037440abe7",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años acude a urgencias con náuseas, vómitos y dolor abdominal severo. Tiene antecedentes de colectomía sigmoidea por diverticulitis hace 10 años. TA 110/80 mmHg, FC 110/min, T° 100.9 °F. Abdomen con cicatriz media, distendido, ruidos intestinales hiperactivos. Dolor en hipocondrio derecho con defensa. Radiografía: una asa de intestino delgado marcadamente distendida con nivel hidroaéreo en cuadrante superior derecho. Sin gas en colon ni recto. Laboratorio: leucocitos 18 ×10³/μL con 15 % bandas, lactato sérico 5 mmol/L, BUN 30 mg/dL, creatinina 1.2 mg/dL. Amilasa, lipasa y pruebas hepáticas normales. Se colocan sonda NG y líquidos IV. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Internamiento para observación estrecha",
+   "Tránsito intestinal con bario",
+   "Tránsito intestinal con Gastrografin",
+   "Ecografía de hipocondrio derecho"
+  ],
+  "ans": 0,
+  "why": "Paciente con obstrucción de intestino delgado y datos de estrangulación (fiebre, taquicardia, leucocitosis con bandas, lactato 5, dolor localizado con defensa) que no mejora con sonda y líquidos. Sabiston indica cirugía inmediata ante obstrucción con fiebre, taquicardia, leucocitosis creciente, peritonitis o estrangulamiento. Observación o estudios con contraste retrasarían el tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 287 y p. 1279-1280 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "061d489152",
+  "estado": "confirmada",
+  "stem": "El organismo más comúnmente asociado con linfadenitis mesentérica aguda es:",
+  "opts": [
+   "Campylobacter jejuni.",
+   "Escherichia coli.",
+   "Enterococcus.",
+   "Yersinia enterocolitica.",
+   "Oxiuriasis."
+  ],
+  "ans": 3,
+  "why": "La linfadenitis mesentérica aguda se asocia en particular con Yersinia enterocolitica y simula una apendicitis. Las otras opciones no son el germen típicamente asociado según las fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1120 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a15acc1104",
+  "estado": "dudosa",
+  "stem": "Un hombre de 62 años es admitido con un abdomen agudo secundario a isquemia mesentérica. Su lactato sérico está elevado y presenta confusión. Se le administra líquidos intravenosos agresivos, pero la acidosis metabólica persiste. ¿Cuál de los siguientes es el siguiente paso más adecuado?",
+  "opts": [
+   "Administrar bicarbonato de sodio",
+   "Iniciar noradrenalina",
+   "Transfusión de sangre",
+   "Repetir lactato sérico",
+   "Llevar al paciente a cirugía urgente"
+  ],
+  "ans": null,
+  "why": "No hay fuente que decida. De Virgilio dice que el manejo inicial de la isquemia mesentérica incluye reanimación con líquidos, heparina y corregir la acidosis metabólica significativa con bicarbonato (p. 284), y que ante peritonitis se opera. Sabiston solo señala que la acidosis láctica sugiere hipoperfusión mesentérica. Ningún texto leído dice que la acidosis persistente tras líquidos obligue a cirugía en la isquemia mesentérica; la viñeta no menciona peritonitis ni el tipo de isquemia, y bicarbonato es defendible según de Virgilio.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283-285 del PDF",
+   "Sabiston 21.ª ed., p. 1163 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: E, cirugía urgente (resaltado); es plausible clínicamente pero no hay una fuente de la carpeta que lo respalde de forma directa."
+ },
+ {
+  "k": "ce9fc95bc2",
+  "estado": "confirmada",
+  "stem": "Un hombre de 54 años se presenta al servicio de emergencias con dolor abdominal y vómitos. Tiene antecedentes de múltiples cirugías abdominales, incluyendo una resección de intestino delgado por enfermedad de Crohn. Su abdomen está distendido, con ruidos intestinales aumentados. Las radiografías de abdomen muestran niveles hidroaéreos múltiples y asas dilatadas de intestino delgado. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis",
+   "Íleo adinámico",
+   "Obstrucción intestinal por bridas",
+   "Vólvulo",
+   "Colitis ulcerosa"
+  ],
+  "ans": 2,
+  "why": "Con antecedente de múltiples cirugías abdominales, vómitos, distensión, ruidos aumentados y niveles hidroaéreos con asas delgadas dilatadas, lo más probable es obstrucción por bridas (adherencias). Las adherencias causan la mayoría de las obstrucciones intestinales posquirúrgicas. La apendicitis, el íleo adinámico (ruidos ausentes), el vólvulo y la colitis ulcerosa no explican el cuadro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 125 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "915ef335d2",
+  "estado": "confirmada",
+  "stem": "Una mujer de 37 años se presenta con dolor abdominal agudo y amenorrea de 7 semanas. Tiene sangrado vaginal leve. Su TA es de 90/60 mmHg y el pulso de 112/min. El examen muestra sensibilidad a la palpación y rebote en el cuadrante inferior derecho. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis aguda",
+   "Embarazo ectópico roto",
+   "Torsión ovárica",
+   "Quiste ovárico hemorrágico",
+   "Infección pélvica"
+  ],
+  "ans": 1,
+  "why": "Amenorrea, sangrado vaginal y dolor abdominal con hipotensión y taquicardia en una mujer en edad fértil indican embarazo ectópico roto con shock hipovolémico. La apendicitis no explica la amenorrea ni el shock.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 2042 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 367 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "96a79beb0a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 35 años acude con vómitos, distensión abdominal y no ha expulsado gases desde hace 48 horas. Tiene una cicatriz quirúrgica media. El abdomen está timpánico y doloroso a la palpación, con ruidos aumentados. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pancreatitis aguda",
+   "Íleo paralítico",
+   "Obstrucción intestinal",
+   "Vólvulo de sigmoides",
+   "Diverticulitis"
+  ],
+  "ans": 2,
+  "why": "Vómitos, distensión, ausencia de gases, cicatriz media previa y ruidos aumentados corresponden a obstrucción intestinal mecánica, cuya causa más frecuente son las adherencias. Íleo paralítico llevaría ruidos disminuidos o ausentes; el vólvulo de sigmoides no se sostiene por los datos dados.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 125 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: elección por el cuadro clásico de obstrucción con cicatriz previa; las fuentes tratan adherencias, no esta viñeta."
+ },
+ {
+  "k": "8999bc233f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años acude por dolor abdominal tipo cólico, vómitos fecaloides y distensión. Tiene antecedentes de hernia inguinal. Se palpa una masa dolorosa en la ingle derecha. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Radiografía de abdomen",
+   "TAC con contraste oral",
+   "Reducción manual de la hernia",
+   "Cirugía urgente",
+   "Enema terapéutico"
+  ],
+  "ans": 3,
+  "why": "Dolor cólico, vómitos fecaloides y masa dolorosa en la ingle indican hernia incarcerada con obstrucción. Sabiston indica cirugía inmediata ante obstrucción con signos de estrangulamiento o hernia estrangulada. Pedir estudios, reducir o hacer enemas retrasaría el tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 287 y p. 1129 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: ninguna fuente leída trae esta conducta exacta para el adulto; se deduce de Sabiston p. 287."
+ },
+ {
+  "k": "001d64ed4b",
+  "estado": "confirmada",
+  "stem": "Un paciente de 60 años acude con vómitos fecaloides, dolor abdominal y distensión. Tiene historia de colelitiasis no operada. La radiografía muestra niveles hidroaéreos y aire en vía biliar. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Vólvulo",
+   "Obstrucción intestinal por bridas",
+   "Íleo biliar",
+   "Obstrucción por cáncer de colon",
+   "Megacolon tóxico"
+  ],
+  "ans": 2,
+  "why": "Vómitos fecaloides, niveles hidroaéreos y aire en la vía biliar con colelitiasis previa forman el cuadro de íleo biliar: una fístula colecistoduodenal introduce un cálculo que se impacta en el íleon distal. Las otras causas no explican el aire en la vía biliar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 55 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "a2b4ef5b36",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años es llevada por dolor intenso y repentino en abdomen medio. Tiene FA crónica y TA 90/55 mmHg. Está ansiosa, con abdomen blando pero dolor desproporcionado al examen físico. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pancreatitis aguda",
+   "Isquemia mesentérica aguda",
+   "Infarto esplénico",
+   "Úlcera perforada",
+   "Hematoma retroperitoneal"
+  ],
+  "ans": 1,
+  "why": "Dolor súbito intenso desproporcionado al examen físico (abdomen blando) en una paciente con fibrilación auricular indica isquemia mesentérica aguda por embolia, que es la causa más frecuente (30-50 %).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 283 del PDF"
+  ],
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "33b7c6b301",
+  "estado": "confirmada",
+  "stem": "Una mujer de 26 años consulta por dolor abdominal bajo intermitente, asociado a diarrea y pérdida de peso. La colonoscopía muestra ulceraciones segmentarias y estenosis en el íleon terminal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Colitis ulcerosa",
+   "Síndrome de intestino irritable",
+   "Enfermedad de Crohn",
+   "Colitis infecciosa",
+   "Diverticulitis"
+  ],
+  "ans": 2,
+  "why": "Dolor abdominal bajo, diarrea y pérdida de peso con ulceraciones segmentarias y estenosis del íleon terminal corresponden a enfermedad de Crohn, que se diagnostica con ileocolonoscopia y se caracteriza por estenosis del íleon terminal y patrones segmentarios. Colitis ulcerosa y diverticulitis no producen lesiones salteadas de íleon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1287 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Texto reparado con la imagen original: faltaba \"intermitente, asociado a diarrea y pérdida de peso\" (el texto decía \"diarrea is se e y\"), ver p. 68 de JIJAS LOZANO.pdf."
+ },
+ {
+  "k": "ffb4c0133b",
+  "estado": "confirmada",
+  "stem": "Una mujer de 35 años se presenta con náuseas y vómitos. Refiere una pérdida de 45 kg debido a dieta y ejercicio durante 1 año, y ahora pesa 54 kg. La endoscopia digestiva alta demuestra compresión extrínseca de la porción transversa del duodeno. El diagnóstico más probable es:",
+  "opts": [
+   "Síndrome de compresión por la arteria mesentérica superior",
+   "Estenosis por úlcera péptica",
+   "Enfermedad de Crohn",
+   "Síndrome del ligamento arcuato mediano",
+   "Adenocarcinoma duodenal"
+  ],
+  "ans": 0,
+  "why": "El síndrome de la arteria mesentérica superior (Wilkie) es la compresión de la tercera porción del duodeno por la AMS, típico de pérdida de peso profunda, con náuseas y vómitos. La endoscopia con compresión extrínseca de la porción transversa del duodeno lo confirma.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF (pregunta 17)"
+  ],
+  "tema": "intestino"
+ }
+]

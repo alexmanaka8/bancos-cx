@@ -532,5 +532,237 @@
     "nota": "Respaldo parcialmente indirecto: el texto del Giménez salió con OCR deficiente en esa página y se apoya en el índice del libro. El banco no traía clave original. Supervisión: respaldo indirecto (texto del libro mal escaneado). Queda dudosa."
    }
   ]
+ },
+ "10f67dd7db": {
+  "k": "10f67dd7db",
+  "estado": "nueva",
+  "stem": "Un hombre de 35 años acude a consulta refiriendo la aparición de un bulto en la región inguinal derecha que no produce ninguna sintomatología. A la exploración clínica sugiere una hernia inguinal. Todas las siguientes afirmaciones son correctas, EXCEPTO:",
+  "opts": [
+   "Debe realizarse una ecografía para confirmar el diagnóstico",
+   "La exploración física debe realizarse tanto en decúbito supino como en bipedestación",
+   "Es altamente probable que se trate de una hernia inguinal indirecta",
+   "En caso de tratamiento quirúrgico, la técnica de elección sería una reparación sin tensión con una malla protésica",
+   "Todas son correctas"
+  ],
+  "ans": 0,
+  "why": "Según Sabiston, el dato principal de la hernia inguinal es el abultamiento en la ingle y la exploración se hace en decúbito supino y de pie; la ecografía solo ayuda en hernias ocultas o dudosas, no es obligatoria cuando la hernia ya se ve y se palpa. Las demás afirmaciones sí están en el libro: la hernia indirecta es la más común y la reparación actual es sin tensión (con malla). Por eso la incorrecta es la que dice que 'debe' hacerse ecografía.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1133-1134 del PDF (diagnóstico y exploración)",
+   "Sabiston 21.ª ed., p. 1131 del PDF (la indirecta es la más común)",
+   "Sabiston 21.ª ed., p. 1135 del PDF (reparación sin tensión)"
+  ],
+  "tema": "hernias",
+  "nota": "La clave estaba vacía. El respaldo de 'A es la excepción' es indirecto: el libro no dice con esas palabras que la ecografía no sea obligatoria, solo que ayuda en hernias ocultas; las otras tres afirmaciones sí tienen respaldo directo."
+ },
+ "be4cf054e9": {
+  "k": "be4cf054e9",
+  "estado": "nueva",
+  "stem": "Mujer de 34 años de edad, acude a emergencia por dolor abdominal de inicio súbito ruego de haber realizado esfuerzo. Examen: dolor abdominal difuso, leve reacción peritoneal, y en región inguinocrural izquierda se encuentra tumoración dolorosa irreducible. Se indica cirugía y en el procedimiento se encuentra una hernia crural donde la porción anti mesentérica del intestino estaba atrapada dentro del saco herniario. Este tipo de hernias se denomina:",
+  "opts": [
+   "Littre",
+   "Ritcher",
+   "Spiegel",
+   "Nyhus",
+   "Petit"
+  ],
+  "ans": 1,
+  "why": "Sabiston define la hernia de Richter como aquella en que solo una pequeña porción de la pared antimesentérica del intestino queda atrapada en la hernia, con estrangulación sin obstrucción intestinal. Eso es lo que describe el caso (hernia crural con la porción antimesentérica atrapada). Littré lleva un divertículo de Meckel; las otras opciones no corresponden.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF (hernia de Richter)"
+  ],
+  "tema": "hernias",
+  "nota": "La clave estaba vacía. Texto: 'Ritcher' está mal escrito en el banco (es Richter); se dejó tal cual en las opciones. La afirmación de Littré (Meckel) no se buscó en el libro; la elección se basa en la definición de Richter."
+ },
+ "a993e2d88e": {
+  "k": "a993e2d88e",
+  "estado": "nueva",
+  "stem": "Un hombre de 21 años desarrolló una hernia después de levantar cajas pesadas al mudarse a su nueva casa. Durante la reparación de la hernia, el cirujano recuerda que el nervio genitofemoral:",
+  "opts": [
+   "Discurre dentro del cordón espermático acompañando al conducto deferente durante todo su trayecto",
+   "Pasa a través del anillo inguinal profundo",
+   "Nace de las raíces L3-L4",
+   "Se divide en los nervios genital e inguinal"
+  ],
+  "ans": 1,
+  "why": "Sabiston: el ramo genital del nervio genitofemoral penetra en el conducto inguinal a través del anillo inguinal profundo (por eso corre riesgo al reparar la hernia). Las otras no cuadran: el nervio nace de L1-L2 (no L3-L4), se divide en ramos genital y femoral (no 'inguinal') sobre el psoas, y no acompaña al deferente en todo su trayecto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1133 del PDF (nervio genitofemoral, anillo profundo)"
+  ],
+  "tema": "hernias",
+  "nota": "La clave estaba vacía. Texto reparado con el original. Estrictamente, el que pasa por el anillo profundo es el ramo genital; la figura del propio examen marca esa opción."
+ },
+ "5818991655": {
+  "k": "5818991655",
+  "estado": "nueva",
+  "stem": "Un paciente de 68 años consulta por dolor y abultamiento a nivel del pliegue inguinal derecho, aparecidos tras la realización de esfuerzo físico. En la exploración en bipedestación, el pliegue inguinal ha quedado sustituido por una tumoración oblicua, blanda, depresible que aumenta con la tos, llegando a la base escrotal. En relación con este cuadro, cuál de las siguientes afirmaciones es correcta:",
+  "opts": [
+   "Se trata de una hernia crural, debe ser intervenido mediante herniorrafia con el músculo pectíneo.",
+   "El diagnóstico es hernia inguinal indirecta, debe ser intervenido mediante hernioplastía de Lichtenstein.",
+   "El enfermo padece de hernia inguinal oblicuo interna (directa), debe ser tratado mediante herniorrafia de Mc Vay.",
+   "El diagnóstico es varicocele y por el momento no sugiere intervención quirúrgica."
+  ],
+  "ans": 1,
+  "why": "Una tumoración oblicua que baja hasta el escroto y aumenta con la tos es una hernia inguinal indirecta: Sabiston dice que su saco cruza oblicuamente el anillo interno hacia el externo y llega al escroto. La reparación actual es sin tensión con malla (Lichtenstein). No es crural (esa va por debajo del ligamento inguinal) ni directa (esta sobresale hacia delante, sin llegar típicamente al escroto) ni varicocele.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1130 del PDF (saco indirecto hasta el escroto)",
+   "Sabiston 21.ª ed., p. 1135 del PDF (reparación sin tensión)",
+   "de Virgilio ABSITE, p. 37 del PDF (Lichtenstein: sin tensión, con malla)"
+  ],
+  "tema": "hernias",
+  "nota": "La clave estaba vacía."
+ },
+ "4b833aecac": {
+  "k": "4b833aecac",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es la fístula intestinal más frecuente en pacientes con enfermedad de Crohn?",
+  "opts": [
+   "Ileosigmoide.",
+   "Ileovesical.",
+   "Ileocutánea.",
+   "Ileovaginal intestinal"
+  ],
+  "ans": null,
+  "why": "En el Crohn con obstrucción ileal, el absceso del íleon terminal puede perforar el sigma o la vejiga; Sabiston dice que el sigmoides es con mucho el sitio más habitual y que la fístula ileosigmoidea es bastante frecuente. En Giménez, las fístulas enteroentéricas (24%) superan a las enterocutáneas (6%) y enterovesicales (3%).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1378 del PDF (fístula ileosigmoidea)",
+   "Giménez 2.ª ed., p. 662 del PDF (Fig. 67-2, distribución de fístulas en la EC)"
+  ],
+  "tema": "intestino",
+  "nota": "La clave estaba vacía. Texto reparado con el original. Respaldo parcialmente indirecto: ningún libro compara literalmente estas cuatro fístulas; el Giménez agrupa como enteroentérica (24%) y no nombra 'ileovaginal'. Supervisión: ningún libro compara las cuatro opciones. Queda dudosa."
+ },
+ "967ec2235c": {
+  "k": "967ec2235c",
+  "estado": "nueva",
+  "stem": "Paciente de 72 años, sin comorbilidades, que acude a emergencia por hematoquecia. Durante la evaluación presenta hipotensión y shock hipovolémico que no responde al tratamiento médico. Se coloca sonda nasogástrica no evidenciándose sangrado. Por frecuencia, ¿cuál sería su primera posibilidad diagnóstica?",
+  "opts": [
+   "Colitis ulcerativa hemorrágica",
+   "Cáncer de colon derecho",
+   "Hemorragia diverticular del colon",
+   "Malformación arteriovenosa",
+   "Hemorroides"
+  ],
+  "ans": 2,
+  "why": "En Sabiston, los divertículos son la causa más frecuente de hemorragia digestiva baja importante. En la tabla del propio examen, la enfermedad diverticular del colon es 48,7%. El sangrado no vino del estómago (sonda nasogástrica sin sangre), lo que orienta a fuente baja. Cáncer de colon derecho, colitis ulcerosa, angiodisplasia y hemorroides son menos frecuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1186 del PDF (divertículos, causa más frecuente de HDB)"
+  ],
+  "tema": "colon",
+  "nota": "Clave vacía. El ítem original traía pegadas tres preguntas: esta (hematoquecia), una de obstrucción intestinal y otra de úlcera perforada, ambas separadas en 'dividir'. La pregunta 4 (signo de Klein) del mismo recorte no estaba en este lote.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "En relación al diagnóstico de obstrucción intestinal:",
+    "opts": [
+     "Se puede confiar en las características clínicas para excluir obstrucción intestinal.",
+     "Se puede confiar en las características clínicas para determinar la presencia de complicaciones",
+     "La tomografía de abdomen puede proporcionar información sobre la ubicación, gravedad y etiología de la obstrucción intestinal",
+     "La tomografía puede predecir la falla del manejo no operatorio"
+    ],
+    "ans": null,
+    "why": "Sabiston dice que la TC señala la localización y la causa de la obstrucción y que ningún dato clínico ni de laboratorio descarta o identifica con fiabilidad la estrangulación (así que la opción B es falsa). La opción C tiene respaldo; pero la D (la TC predice la falla del manejo no operatorio) no se encontró ni confirmó ni refutó en los libros, y no se puede asegurar que solo una sea correcta.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1277-1280 del PDF (diagnóstico de la obstrucción, TC)"
+    ],
+    "tema": "intestino",
+    "nota": "Clave vacía. Probable C, pero D no se pudo descartar con las fuentes de la carpeta."
+   },
+   {
+    "estado": "nueva",
+    "stem": "Cuando se realiza o se sospecha del diagnóstico de úlcera perforada, señale el enunciado incorrecto:",
+    "opts": [
+     "No se deben administrar antibióticos porque la peritonitis es química en cuanto a etiología",
+     "El tratamiento es conservador en casos muy seleccionados de perforación",
+     "Hay que colocar una sonda nasogástrica y otra vesical",
+     "Se debe aliviar el dolor con opiáceos",
+     "Resulta deseable un periodo de reanimación con reposición de líquidos, electrolitos y, si es necesario, de sangre"
+    ],
+    "ans": 0,
+    "why": "Sabiston indica que en la úlcera perforada se da antibiótico empírico desde el inicio (cubre gramnegativos, anaerobios y flora oral) y que el manejo conservador solo se plantea en pacientes bien seleccionados, con dieta absoluta, antibióticos i.v. e IBP. Por eso es falso que 'no se deban dar antibióticos'. La nota del propio banco dice lo mismo.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1236 del PDF (perforación: antibióticos, tratamiento conservador seleccionado)"
+    ],
+    "tema": "esofago-estomago",
+    "nota": "Clave vacía. Las demás opciones (opiáceos, sonda vesical) no se buscaron una por una en el libro; la opción A queda contradicha directamente por Sabiston."
+   }
+  ]
+ },
+ "9e6af59180": {
+  "k": "9e6af59180",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más frecuente de obstrucción intestinal de intestino grueso en adultos?",
+  "opts": [
+   "Neoplasias",
+   "Intususpección",
+   "Adherencias",
+   "Vólvulo de Sigmoides"
+  ],
+  "ans": 0,
+  "why": "Sabiston: la causa más frecuente de obstrucción mecánica del intestino grueso en EE. UU. es el cáncer colorrectal (neoplasia); el vólvulo es más frecuente en otras regiones (Rusia, Europa del Este, África, Oriente Medio, India). Intususpección y adherencias no son las causas típicas en el adulto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1364 del PDF (obstrucción del intestino grueso)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave vacía. Texto reparado con el original. El libro aclara que la frecuencia del vólvulo cambia según la región; el cáncer es lo más frecuente en EE. UU."
+ },
+ "cb54c1b29d": {
+  "k": "cb54c1b29d",
+  "estado": "nueva",
+  "stem": "Paciente varón de 45 años intervenido por hernioplastia inguinal laparoscópica. Respecto a la anatomía del espacio preperitoneal, es correcto que:",
+  "opts": [
+   "El ligamento iliopectíneo es un engrosamiento de la aponeurosis del oblicuo mayor",
+   "El tracto iliopúbico (ligamento de Thompson) constituye el límite superior de los triángulos de la muerte y del dolor",
+   "El ligamento iliopectíneo es sinónimo del ligamento inguinal",
+   "El ligamento de Henle se identifica con facilidad en este abordaje",
+   "Para exponer el orificio miopectíneo es necesario disecar el músculo oblicuo menor"
+  ],
+  "ans": 1,
+  "why": "El ABSITE indica no fijar la malla por debajo del tracto iliopúbico (ni lateral a los vasos epigástricos) para no caer en el 'triángulo de la muerte' ni en el del dolor: el tracto queda como límite superior de ambos. Latarjet identifica el tracto iliopúbico como la cintilla de Thompson. El ligamento de Cooper es periostio de la rama del pubis (no aponeurosis del oblicuo mayor), y no es sinónimo del inguinal.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 44 del PDF (triángulos de la muerte y del dolor, bajo el tracto iliopúbico)",
+   "Latarjet tomo 2, p. 411 y 415 del PDF (tracto iliopúbico = cintilla de Thompson)",
+   "Sabiston 21.ª ed., p. 1133 del PDF (ligamento pectíneo de Cooper)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave vacía. Sabiston usa 'triángulo de la fatalidad' (p. 1139). No se buscó el ligamento de Henle; la elección se apoya en las fuentes de B."
+ },
+ "4d81d12a4f": {
+  "k": "4d81d12a4f",
+  "estado": "dudosa",
+  "stem": "Varón de 57 años, etilista, con ingesta crónica de corticoides y AINEs. Refiere dolor epigástrico de inicio súbito hace 2 horas, continuo, de intensidad creciente, que se exacerba con los movimientos. Examen: PA 130/90 mmHg, FC 104/min, FR 22/min; abdomen tenso, que no excursiona con la respiración, con contractura difusa en «vientre en tabla»; pérdida de la matidez hepática y ruidos hidroaéreos disminuidos. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pancreatitis aguda",
+   "Colecistitis aguda complicada",
+   "Úlcera péptica perforada",
+   "Infarto agudo de miocardio de cara inferior",
+   "Isquemia mesentérica aguda"
+  ],
+  "ans": null,
+  "why": "El cuadro (dolor epigástrico súbito e intenso, abdomen en tabla, pérdida de matidez hepática por aire libre, factores de riesgo AINE y corticoides) es el de una úlcera péptica perforada. Sabiston describe la perforación como dolor epigástrico intenso de inicio repentino, con aire libre y peritonitis; la pancreatitis, el infarto inferior o la isquemia no producen aire libre.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1236 del PDF (perforación de la úlcera)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave vacía. Respaldo parcialmente indirecto: el libro describe el dolor súbito, el aire libre y la peritonitis; el abdomen en tabla y la pérdida de matidez hepática no se leyeron textualmente allí. La pancreatitis y las otras opciones no se refutaron una por una. Supervisión: parte de la opción elegida no se leyó en ninguna fuente. Queda dudosa."
+ },
+ "477632512f": {
+  "k": "477632512f",
+  "estado": "nueva",
+  "stem": "¿Cuál es el territorio de isquemia intestinal que produce una oclusión aguda de la arteria mesentérica superior?",
+  "opts": [
+   "Desde el yeyuno hasta el colon ascendente y el transverso proximal",
+   "Todo el yeyuno y el íleon, respetando el colon",
+   "Todo el marco cólico",
+   "Duodeno, yeyuno e íleon",
+   "Íleon, colon derecho y la totalidad del transverso"
+  ],
+  "ans": 0,
+  "why": "La arteria mesentérica superior irriga el yeyuno-íleon y el duodeno distal (Sabiston) y, por la cólica derecha, la ileocólica y la cólica media, el colon derecho y la mitad proximal del transverso; la rama izquierda de la cólica media irriga la parte distal del transverso. Latarjet también dice que su territorio incluye el colon derecho. Por eso su oclusión aguda produce isquemia desde el yeyuno hasta el colon ascendente y el transverso proximal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1266 del PDF (irrigación del intestino delgado)",
+   "Sabiston 21.ª ed., p. 1350 del PDF (cólica media y transverso)",
+   "Latarjet tomo 2, p. 539 del PDF (territorio de la arteria mesentérica superior)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave vacía. Respaldo indirecto: se basa en la anatomía de irrigación, no en un texto de isquemia aguda. Clínicamente, una embolia suele respetar el yeyuno proximal (ABSITE p. 283), lo que no cambia la opción elegida."
  }
 }

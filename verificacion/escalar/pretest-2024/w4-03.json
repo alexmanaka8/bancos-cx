@@ -1,0 +1,171 @@
+[
+ {
+  "k": "5bf59f57b2",
+  "stem": "Obstrucción con un suministro de sangre comprometido.",
+  "opts": [
+   "Obstrucción completa o de alto grado.",
+   "Obstrucción incompleta, parcial o de bajo grado.",
+   "Obstrucción en asa cerrada.",
+   "Obstrucción estrangulada •",
+   "Gracias"
+  ],
+  "clave_original": "D",
+  "tema": "intestino"
+ },
+ {
+  "k": "943c1a01fa",
+  "stem": "Varón 64 años, desde hace 30 días, distensión abdominal superior, e intolerancia p sólidos y fuego a líquidos, distensión cede después de vómitos. ¿Qué diagnóstico más probable?",
+  "opts": [
+   "Adherencias",
+   "Ileo biliar",
+   "Absceso",
+   "Carcinoma"
+  ],
+  "clave_original": "D",
+  "tema": "intestino"
+ },
+ {
+  "k": "f805002ae7",
+  "stem": "Paciente con obstrucción intestinal en asa cerrada:",
+  "opts": [
+   "Está bloqueada solo la parte distal del segmento afectado",
+   "Habitualmente en casos de adherencias",
+   "Habitualmente en casos de hernia estrangulada",
+   "Se identifica por dolor localizado en mesogastrio"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "83245946aa",
+  "stem": "En un paciente con obstrucción intestinal por cáncer de colon, que presenta una válvula ileocecal competente:",
+  "opts": [
+   "La válvula permite el reflujo del contenido intestinal hacia el intestino delgado",
+   "Hay dilatación del colon y del intestino delgado",
+   "Hay dilatación del colon, pero no del intestino delgado",
+   "Presentan un cuadro obstructivo de una manera menos aguda que en caso de una válvula ileocecal incompetente"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "dfa9b2f7bd",
+  "stem": "En un paciente con obstrucción intestinal del colon por cáncer, la necrosis y perforación suele aparecer en:",
+  "opts": [
+   "El ciego",
+   "El colon sigmoides",
+   "El colon transverso",
+   "En el ángulo esplénico del colon"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "c151433383",
+  "stem": "La causa más frecuente de obstrucción intestinal de intestino delgado en adultos:",
+  "opts": [
+   "Hernias",
+   "Enfermedad de Crohn",
+   "Intususcepción",
+   "Vólvulo"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "b78d82a0a7",
+  "stem": "Paciente con distensión abdominal y ausencia de deposiciones, ¿que podríamos encontrar en la radiografía de abdomen simple de pie, que sustente el diagnóstico de obstrucción intestinal?",
+  "opts": [
+   "Dilatación de asas delgadas sin dilatación del colon",
+   "Ausencia de gas en el recto",
+   "Múltiples niveles hidroaéreos",
+   "Signo del denario"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "654a596da6",
+  "stem": "Paciente varón 60 años, con taquicardia, fiebre, leucocitosis y dolor abdominal constante, no espasmódico. ¿Cuál análisis sérico sería el más adecuado para detectar isquemia y estrangulación?",
+  "opts": [
+   "Lactato deshidrogenasa",
+   "Amilasa",
+   "Fosfatasa alcalina",
+   "Ninguno de los anteriores"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a618bf7e70",
+  "stem": "Son causas de íleo:",
+  "opts": [
+   "Hipopotasemia, hiponatremía, uremia, opiáceos, psicotrópicos.",
+   "Hiperpotasemia, hipernatremia, uremia, opiáceos, psicotrópicos.",
+   "Hipopotasemia, hiponatremia, corticoides, loperamida",
+   "Hiperpotasemia, hipernatremia, corticoldes, loperamida"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "e83a294929",
+  "stem": "Paciente hipertenso, con antecedente de isquemia cerebral hace 6 meses, con trombosis de arteria mesentérica superior en su origen. ¿Qué área intestinal estará comprometida?",
+  "opts": [
+   "Solo colon derecho",
+   "Solo colon izquierdo",
+   "Duodeno y yeyuno",
+   "Yeyuno e ileon"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "ef47b5fb22",
+  "stem": "¿Cuál es el subtipo de isquemia mesentérica más frecuente?",
+  "opts": [
+   "Trombótica",
+   "Embólica",
+   "Veno oclusiva",
+   "No oclusiva"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "ea344f7cde",
+  "stem": "Paciente varón 60 años, con taquicardia, fiebre, leucocitosis y dolor abdominal con espasmódico. Presenta valor sérico de citrulina normal. El diagnóstico de isquemia mesentérica",
+  "opts": [
+   "Se confirma",
+   "Se descarta",
+   "Es no contributorio",
+   "Debe ser repetido"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "069a6f0d85",
+  "stem": "Son causas de ileo:",
+  "opts": [
+   "Hipopotasemia, hiponatremia, uremia, opiáceos, psicotrópicos.",
+   "Hiperpotasemia, hipernatremia, uremia, opiáceos, psicotrópicos.",
+   "Hipopotasemia, hiponatremia, corticoides, loperamida",
+   "Hiperpotasemia, hipernatremia, corticoides, loperamida"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "40a17a15f2",
+  "stem": "Con respecto a la hernia inguinal indirecta en niños. ¿ Cuál de los siguientes factores no se consideran que estén asociados a bilateralidad, de los siguientes:",
+  "opts": [
+   "Fibrosis quística",
+   "Derivaciones ventrículo - peritoneales por hidrocefalia",
+   "Ascitis",
+   "Sexo masculino"
+  ],
+  "clave_original": "D",
+  "tema": "hernias"
+ }
+]

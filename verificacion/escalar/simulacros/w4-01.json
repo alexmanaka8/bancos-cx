@@ -1,0 +1,128 @@
+[
+ {
+  "k": "10f67dd7db",
+  "stem": "Un hombre de 35 años acude a consulta refiriendo la aparición de un bulto en la región inguinal derecha que no produce ninguna sintomatología. A la exploración clínica sugiere una hernia inguinal. Todas las siguientes afirmaciones son correctas, EXCEPTO:",
+  "opts": [
+   "Debe realizarse una ecografía para confirmar el diagnóstico",
+   "La exploración física debe realizarse tanto en decúbito supino como en bipedestación",
+   "Es altamente probable que se trate de una hernia inguinal indirecta",
+   "En caso de tratamiento quirúrgico, la técnica de elección sería una reparación sin tensión con una malla protésica",
+   "Todas son correctas"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "be4cf054e9",
+  "stem": "Mujer de 34 años de edad, acude a emergencia por dolor abdominal de inicio súbito ruego de haber realizado esfuerzo. Examen: dolor abdominal difuso, leve reacción peritoneal, y en región inguinocrural izquierda se encuentra tumoración dolorosa irreducible. Se indica cirugía y en el procedimiento se encuentra una hernia crural donde la porción anti mesentérica del intestino estaba atrapada dentro del saco herniario. Este tipo de hernias se denomina:",
+  "opts": [
+   "Littre",
+   "Ritcher",
+   "Spiegel",
+   "Nyhus",
+   "Petit"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "a993e2d88e",
+  "stem": "Un hombre de 21 años de edad desarrolló una hernia de levantar cajas pesadas al mudarse a su nuev Durante la reparación de la hernia, el cirujano recue el nervio genitofemoral:",
+  "opts": [
+   "Discurre dentro del cordón espermático acompa conducto deferente durante todo su trayecto",
+   "Pasa a través del anillo inguinal profundo",
+   "Nace de las raíces L3-L4",
+   "Se divide en los nervios genital e inguinal"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "5818991655",
+  "stem": "Un paciente de 68 años consulta por dolor y abultamiento a nivel del pliegue inguinal derecho, aparecidos tras la realización de esfuerzo físico. En la exploración en bipedestación, el pliegue inguinal ha quedado sustituido por una tumoración oblicua, blanda, depresible que aumenta con la tos, llegando a la base escrotal. En relación con este cuadro, cuál de las siguientes afirmaciones es correcta:",
+  "opts": [
+   "Se trata de una hernia crural, debe ser intervenido mediante herniorrafia con el músculo pectíneo.",
+   "El diagnóstico es hernia inguinal indirecta, debe ser intervenido mediante hernioplastía de Lichtenstein.",
+   "El enfermo padece de hernia inguinal oblicuo interna (directa), debe ser tratado mediante herniorrafia de Mc Vay.",
+   "El diagnóstico es varicocele y por el momento no sugiere intervención quirúrgica."
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "4b833aecac",
+  "stem": "¿Cuál de las siguientes en pacientes con enferme",
+  "opts": [
+   "Ileosigmoide.",
+   "Ileovesical.",
+   "lleocutánea.",
+   "Ileovaginal intestinal"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "967ec2235c",
+  "stem": "En a. b. c. d. relación al diagnóstico de obstrucción intestinal: Se puede confiar en las características clínicas para excluir obstrucción intestinal. Se puede confiar en las características clínicas para determinar la presencia de complicaciones La tomografía de abdomen puede proporcionar información sobre la ubicación, gravedad y etiología de la obstrucción intestinal La tomografía puede predecir la falla del manejo no operatorio La peritonitis por úlcera perforada SIEMPRE requiere antibióticos (evolucionará de química a bacteriana). 2. Paciente de 72 años, sin comorbilidades, qu emergencia por hematoquecia. Durante la e presenta hipotensión y shock hipovolémico que no al tratamiento médico. Se coloca sonda nasogá evidenciándose sangrado. Por frecuencia, ¿Cuál primera posibilidad diagnóstica?:",
+  "opts": [
+   "Colitis ulcerativa hemorrágica",
+   "Cáncer de colon derecho",
+   "Hemorragia diverticular del colon",
+   "Malformación arteriovenosa",
+   "Hemorroides"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "9e6af59180",
+  "stem": "Cuál es la causa más frecu de intestino grueso en adultos:",
+  "opts": [
+   "Neoplasias",
+   "Intususpección",
+   "Adherencias",
+   "Vólvulo de Sigmoides"
+  ],
+  "clave_original": null,
+  "tema": "intestino"
+ },
+ {
+  "k": "cb54c1b29d",
+  "stem": "Paciente varón de 45 años intervenido por hernioplastia inguinal laparoscópica. Respecto a la anatomía del espacio preperitoneal, es correcto que:",
+  "opts": [
+   "El ligamento iliopectíneo es un engrosamiento de la aponeurosis del oblicuo mayor",
+   "El tracto iliopúbico (ligamento de Thompson) constituye el límite superior de los triángulos de la muerte y del dolor",
+   "El ligamento iliopectíneo es sinónimo del ligamento inguinal",
+   "El ligamento de Henle se identifica con facilidad en este abordaje",
+   "Para exponer el orificio miopectíneo es necesario disecar el músculo oblicuo menor"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "4d81d12a4f",
+  "stem": "Varón de 57 años, etilista, con ingesta crónica de corticoides y AINEs. Refiere dolor epigástrico de inicio súbito hace 2 horas, continuo, de intensidad creciente, que se exacerba con los movimientos. Examen: PA 130/90 mmHg, FC 104/min, FR 22/min; abdomen tenso, que no excursiona con la respiración, con contractura difusa en «vientre en tabla»; pérdida de la matidez hepática y ruidos hidroaéreos disminuidos. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pancreatitis aguda",
+   "Colecistitis aguda complicada",
+   "Úlcera péptica perforada",
+   "Infarto agudo de miocardio de cara inferior",
+   "Isquemia mesentérica aguda"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "477632512f",
+  "stem": "¿Cuál es el territorio de isquemia intestinal que produce una oclusión aguda de la arteria mesentérica superior?",
+  "opts": [
+   "Desde el yeyuno hasta el colon ascendente y el transverso proximal",
+   "Todo el yeyuno y el íleon, respetando el colon",
+   "Todo el marco cólico",
+   "Duodeno, yeyuno e íleon",
+   "Íleon, colon derecho y la totalidad del transverso"
+  ],
+  "clave_original": null,
+  "tema": "abdomen-agudo"
+ }
+]

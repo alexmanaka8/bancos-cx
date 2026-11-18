@@ -1,0 +1,343 @@
+[
+ {
+  "k": "a1ec70d66b",
+  "estado": "dudosa",
+  "tema": "intestino",
+  "stem": "¿Cuál de las siguientes afirmaciones NO es verdadera sobre la circulación mesentérica?",
+  "opts": [
+   "La AMS irriga el tubo digestivo desde la tercera porción del duodeno hasta el colon transverso medio",
+   "Cuando la AMS está ocluida, las colaterales desde la arteria gastroduodenal mantienen el flujo al yeyuno proximal",
+   "La arteria mesentérica meándrica viaja por el borde mesentérico del colon",
+   "La arteria ilíaca interna irriga el recto a través de las arterias hemorroidales media e inferior",
+   "La arteria cólica izquierda es la rama principal de la arteria mesentérica inferior (AMI)"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 1349-1350 contradice la C, pero la extensión de la AMS de la opción A no está textual en los libros; no se puede excluir otra opción falsa. Clave que proponía el revisor: C. La arteria mesentérica sinuosa o meándrica (arco de Riolano) es un vaso colateral tortuoso cerca de la base del mesenterio que une la AMS (o cólica media) con la AMI (o cólica izquierda). Lo que corre por el borde mesentérico del colon es la arteria marginal de Drummond, no la meándrica; por eso C es la falsa. La E es cierta: la AMI da la cólica izquierda, las sigmoideas y la rectal superior. En D, la rectal media sale de la ilíaca interna y la inferior de la pudenda (rama de la ilíaca interna). En B, el duodeno recibe irrigación del eje celíaco por la gastroduodenal y de la AMS por las pancreatoduodenales (colateral entre ambos ejes).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1349-1350 del PDF (irrigación del colon, arteria marginal de Drummond, arteria mesentérica sinuosa/arco de Riolano)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 182 del PDF (arterias rectales)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 133 del PDF (irrigación del duodeno: gastroduodenal y pancreatoduodenales)"
+  ],
+  "nota": "Clave original: C (resaltado), la respalda el Sabiston. INDIRECTA parcial: la opción A (extensión exacta del territorio de la AMS) no se encontró textual en los libros; no cambia la respuesta porque C es contradicha de forma directa."
+ },
+ {
+  "k": "31ab684cda",
+  "estado": "dudosa",
+  "tema": "abdomen-agudo",
+  "stem": "Las características hemostáticas intrínsecas del epiplón se deben a su:",
+  "opts": [
+   "Capacidad para reclutar plaquetas",
+   "Mayor concentración de factor de von Willebrand",
+   "Mayor concentración de factor tisular",
+   "Capacidad para inducir vasoconstricción local",
+   "Capacidad para activar la vía intrínseca de coagulación"
+  ],
+  "ans": null,
+  "why": "Los libros de la carpeta describen del epiplón solo su riqueza de vasos, los macrófagos que eliminan bacterias, su adherencia a focos de inflamación (parche de Graham) y su uso como colgajo; ninguno explica un mecanismo hemostático ni menciona factor tisular, factor de von Willebrand ni activación plaquetaria. Una búsqueda en Europe PMC tampoco devolvió una fuente que establezca cuál de las cinco opciones es el mecanismo. Sin fuente, no se confirma la clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1119-1120 del PDF (fisiología e injertos del epiplón; no menciona hemostasia)",
+   "Latarjet, Anatomía humana t. 2, p. 532 del PDF (irrigación del omento mayor)"
+  ],
+  "nota": "Clave original: C (factor tisular, resaltado). No hay fuente en los libros que la respalde ni la contradiga."
+ },
+ {
+  "k": "a048fe29f6",
+  "estado": "confirmada",
+  "tema": "abdomen-agudo",
+  "stem": "El organismo más comúnmente asociado a la linfadenitis mesentérica aguda es:",
+  "opts": [
+   "Campylobacter jejuni",
+   "Escherichia coli",
+   "Enterococo",
+   "Yersinia enterocolitica",
+   "Oxiuro"
+  ],
+  "ans": 3,
+  "why": "Aunque otros microorganismos pueden causar linfadenitis mesentérica, Y. enterocolitica es el organismo más comúnmente asociado en niños. Es un cuadro que simula apendicitis y que afecta sobre todo a niños y adultos jóvenes. Las otras opciones (Campylobacter, E. coli, enterococo, oxiuros) no son el agente más asociado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 432 del PDF (respuesta 9: Y. enterocolitica es el organismo más comúnmente asociado)",
+   "Sabiston 21.ª ed., p. 1120 del PDF (linfoadenitis mesentérica aguda asociada en particular a Yersinia enterocolitica en la infancia)"
+  ],
+  "nota": "Clave original: D (resaltado). Se reparó el enunciado cortado según el texto del libro (pregunta equivalente)."
+ },
+ {
+  "k": "e59815028f",
+  "estado": "dudosa",
+  "tema": "abdomen-agudo",
+  "stem": "Todas las siguientes afirmaciones son verdaderas sobre la peritonitis bacteriana espontánea, EXCEPTO:",
+  "opts": [
+   "Deben iniciarse antibióticos de amplio espectro inmediatamente",
+   "En adultos, la cirrosis es el factor de riesgo más común",
+   "En niños, el síndrome nefrótico es el factor de riesgo más común",
+   "En niños, E. coli es el organismo más comúnmente aislado",
+   "La paracentesis es el estudio diagnóstico más útil"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Los libros contradicen la D (en niños no predomina E. coli), pero no respaldan la C (síndrome nefrótico como factor de riesgo más común); en una pregunta EXCEPTO quedan dos candidatas. Clave que proponía el revisor: D. En adultos los patógenos más frecuentes de la PBE son E. coli y Klebsiella; en niños con ascitis nefrógena o hepatógena se aíslan con frecuencia estreptococo del grupo A, S. aureus y S. pneumoniae, así que la D es la falsa. El tratamiento es con antibióticos (previa toma de líquido) y el diagnóstico se hace con paracentesis (>250 neutrófilos/mm3). La PBE se asocia habitualmente a cirrosis y también afecta a pacientes con síndrome nefrótico.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 25 del PDF (respuesta 8: organismos en adultos y en niños, diagnóstico por paracentesis, tratamiento con antibióticos)",
+   "Sabiston 21.ª ed., p. 1116 del PDF (peritonitis bacteriana espontánea: cirrosis, síndrome nefrótico, patógenos en adultos y niños)"
+  ],
+  "nota": "El banco no traía clave (la extracción la perdió); en la imagen original el resaltado marca D. INDIRECTA: los libros no dicen explícitamente que el síndrome nefrótico sea 'el factor de riesgo más común' en niños (opción C), solo que la PBE también afecta a nefróticos; lo que sí se puede afirmar es que D contradice la lista de gérmenes pediátricos del libro."
+ },
+ {
+  "k": "8435962b22",
+  "estado": "confirmada",
+  "tema": "otros",
+  "stem": "Un hombre de 74 años acude a tu consulta con la esperanza de que le reparen su hernia umbilical reducible debido a dolor y malestar crecientes pero intermitentes. Dos días antes de su visita a la clínica, fue dado de alta del hospital por angina inestable, por la cual se sometió a una angioplastia con balón con colocación de un stent de arteria coronaria de metal desnudo (BMS). ¿Cuándo debe programarse su cirugía?",
+  "opts": [
+   "2 semanas",
+   "1 mes",
+   "2 meses",
+   "6 meses",
+   "1 año"
+  ],
+  "ans": 1,
+  "why": "Tras un stent metálico convencional (BMS) se debe esperar 1 mes antes de la cirugía; como la hernia es sintomática, la operación es 'sensible al tiempo' (2-6 semanas). Las 2 semanas corresponden a la angioplastia con balón sola; los 6 meses, al stent liberador de fármacos (DES).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 33 del PDF (respuesta 9: BMS 1 mes, balón 2 semanas, DES 6 meses)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 465 del PDF (resumen: evitar cirugía 1 mes tras BMS)"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "8a97a880be",
+  "estado": "confirmada",
+  "tema": "abdomen-agudo",
+  "stem": "Una mujer de 32 años con 24 semanas de embarazo se presenta al servicio de urgencias con dolor abdominal agudo, fiebre y vómitos. Refiere que el dolor la despertó en la noche con un inicio súbito de dolor epigástrico que ahora es difuso. No tiene sangrado vaginal y el monitoreo fetal muestra signos vitales normales para el feto. En el examen físico, presenta sensibilidad difusa con defensa en todo el abdomen, peor en la región epigástrica. El examen pélvico es normal. Tiene una leucocitosis de 15,000 células/L. La serie de radiografías abdominales muestra algunas asas intestinales dilatadas pero sin otros hallazgos. ¿Cuál es el siguiente paso en el manejo de esta paciente?",
+  "opts": [
+   "Ecografía abdominal",
+   "Tomografía computarizada de abdomen/pelvis con contraste",
+   "Admitir y observar con exámenes abdominales seriados",
+   "Laparotomía exploratoria",
+   "Laparoscopía diagnóstica"
+  ],
+  "ans": 1,
+  "why": "Hay un cuadro de peritonitis (posible víscera perforada u obstrucción en asa cerrada). El temor a la radiación no debe retrasar el diagnóstico: pasadas las 15 semanas no hay efectos deterministas en el feto, y el riesgo de pérdida fetal es mayor con una perforación que con la TC. Por eso el siguiente paso es la TC con contraste. La ecografía es más útil si el dolor fuera biliar o en fosa ilíaca derecha; observar o ir directo a cirugía sin diagnóstico no es lo indicado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 33 del PDF (respuesta 12)"
+  ],
+  "nota": "Clave original: B (resaltado)."
+ },
+ {
+  "k": "677239f533",
+  "estado": "confirmada",
+  "tema": "abdomen-agudo",
+  "stem": "Un hombre de 50 años con ascitis cirrótica secundaria a hepatitis C se presenta con fiebre, leucocitosis y dolor abdominal. Tiene antecedentes de várices esofágicas. Está en lista de espera para trasplante hepático desde hace 6 meses. Se realizó una paracentesis y se enviaron cultivos. Se aísla un solo organismo del cultivo. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Actualmente es elegible para trasplante hepático.",
+   "El uso profiláctico de fluoroquinolonas puede prevenir esta condición.",
+   "En adultos, el síndrome nefrótico es el factor de riesgo más común.",
+   "En niños, E. coli es el aislado más común.",
+   "Probablemente requerirá una laparotomía exploratoria."
+  ],
+  "ans": 1,
+  "why": "Es una peritonitis bacteriana espontánea (un solo organismo en el líquido ascítico). La profilaxis con fluoroquinolonas debe considerarse en cirróticos de alto riesgo con ascitis y antecedente de sangrado digestivo, como este paciente. La infección activa contraindica el trasplante; el factor de riesgo en adultos es la cirrosis; en niños los aislados comunes son estreptococo A, S. aureus y neumococo; el tratamiento es con antibióticos, sin laparotomía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 25 del PDF (respuesta 8)"
+  ],
+  "nota": "Clave original: B (resaltado). Opciones C, D y E estaban pegadas en la extracción; se separaron según la imagen original."
+ },
+ {
+  "k": "a3e0300e96",
+  "estado": "confirmada",
+  "tema": "abdomen-agudo",
+  "stem": "Una mujer de 75 años con diagnóstico reciente de fibrilación auricular, por la cual recibió un anticoagulante, se presenta con dolor abdominal de inicio súbito. No está relacionado con la ingesta oral. Tiene antecedente quirúrgico de artroplastia total de cadera hace 3 años. Su examen físico revela una masa palpable y dolorosa en la pared abdominal por encima del ombligo que persiste durante la flexión de los músculos abdominales. ¿Con cuál de las siguientes está más probablemente relacionada esta masa?",
+  "opts": [
+   "Trombocitopenia",
+   "Sangrado de la arteria epigástrica superior",
+   "Trauma oculto",
+   "Absceso intraabdominal",
+   "Sangrado de la arteria epigástrica inferior"
+  ],
+  "ans": 1,
+  "why": "Es un hematoma de la vaina de los rectos en una paciente anticoagulada: masa en la pared abdominal que persiste al flexionar los músculos (signo de Fothergill, que lo diferencia de un proceso intraabdominal). Por encima de la línea arcuata la causa suele ser una lesión de la arteria epigástrica superior dentro de la vaina; la inferior corresponde a hematomas bajo el ombligo. Habitualmente no hay trauma claro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 35 del PDF (respuesta 16)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 30 del PDF (opciones de la pregunta)"
+  ],
+  "nota": "Clave original: B (resaltado). Faltaban las opciones C, D y E; se completaron según la imagen original y el libro."
+ },
+ {
+  "k": "f120e5b357",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera al comparar la reparación de hernia inguinal primaria con malla abierta versus laparoscópica?",
+  "opts": [
+   "La reparación laparoscópica tiene una menor tasa de recurrencia.",
+   "No hay diferencia en el tiempo de retorno al trabajo.",
+   "La reparación abierta es superior.",
+   "No hay diferencia en el dolor postoperatorio.",
+   "La reparación laparoscópica tiene una menor tasa de complicaciones."
+  ],
+  "ans": 2,
+  "why": "En el ensayo aleatorizado de la VA (NEJM 2004) hubo más recidivas con la vía laparoscópica (10,1 % vs 4,9 %; en hernias primarias 10,1 % vs 4,0 %) y más complicaciones (39,0 % vs 33,4 %); la conclusión fue que la técnica abierta es superior para la reparación con malla de hernias primarias. La laparoscópica dio menos dolor inicial y volvió a la actividad un día antes, por lo que A, B, D y E son falsas. El Sabiston recoge el mismo resultado (recidiva del 10 % vs 5 %).",
+  "fuentes": [
+   "Neumayer L et al., N Engl J Med 2004;350:1819-27, resumen (PMID 15107485, vía Europe PMC): 'The open technique is superior to the laparoscopic technique for mesh repair of primary hernias'",
+   "Sabiston 21.ª ed., p. 1141 del PDF (ensayo VA: recidiva 2 veces mayor tras reparación laparoscópica)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 44 del PDF (respuesta 9)"
+  ],
+  "nota": "Clave original: C (resaltado). El estudio LEVEL (TEP vs Lichtenstein) mostró recidiva equivalente y menos dolor y retorno más temprano al trabajo con TEP; no contradice la clave, porque la afirmación se refiere a la comparación global en hernias primarias."
+ },
+ {
+  "k": "172a4d122d",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "¿Cuál de las siguientes es la mejor opción para reparar una hernia inguinal indirecta unilateral en un lactante varón de 4 meses?",
+  "opts": [
+   "Ligadura alta del saco solamente.",
+   "Obliteración del anillo profundo.",
+   "Reparación libre de tensión con malla.",
+   "Reparación del ligamento de Cooper (McVay).",
+   "Reparación laparoscópica de la hernia."
+  ],
+  "ans": 0,
+  "why": "La hernia inguinal pediátrica se debe a la falta de cierre del proceso vaginal, y solo requiere ligadura alta del saco (a nivel del anillo interno). Casi nunca se necesita malla en niños, por lo que la malla y las reparaciones de pared del adulto (McVay) no corresponden.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 37 del PDF (hernias inguinales pediátricas: solo ligadura alta del saco)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 347 del PDF (inguinal hernias in children only require high ligation of the sac; Ashcraft)"
+  ],
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "f997965c95",
+  "estado": "dudosa",
+  "tema": "hernias",
+  "stem": "Todas las siguientes son buenas opciones para reparar una hernia femoral unilateral EXCEPTO:",
+  "opts": [
+   "Abordaje inguinal: reparación del ligamento de Cooper (McVay).",
+   "Abordaje inguinal: aproximación de la fascia transversa al ligamento inguinal (operación de Bassini).",
+   "Abordaje inguinal: reparación estándar libre de tensión con malla (Lichtenstein).",
+   "Abordaje infrainguinal: tapón de malla de polipropileno.",
+   "Abordaje preperitoneal abierto."
+  ],
+  "ans": null,
+  "why": "El ABSITE dice que la hernia femoral pasa por debajo del ligamento inguinal, de modo que las reparaciones al ligamento inguinal, como la de Bassini y la reparación estándar con malla, no obliteran el defecto. Así, tanto la B (Bassini) como la C (Lichtenstein estándar) serían malas opciones, y la pregunta pide una sola excepción. Las opciones McVay/Cooper, tapón de malla por vía infrainguinal y abordaje preperitoneal sí son aceptables según los libros. Con dos opciones defendibles como 'la excepción', la clave no queda decidida.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF (respuesta 16: Bassini y reparación estándar con malla no obliteran el defecto femoral; Cooper/tracto iliopúbico o malla sí)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 37 del PDF (McVay repara hernias inguinales y femorales)",
+   "Sabiston 21.ª ed., p. 1141 del PDF (reparación femoral: ligamento de Cooper, preperitoneal, laparoscópica, malla protésica)"
+  ],
+  "nota": "Clave original: B (Bassini, resaltado). Es correcta como excepción, pero la C también lo es según el ABSITE; quizá la versión original de la pregunta no incluía Lichtenstein."
+ },
+ {
+  "k": "d8312c7158",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "¿Con qué tipo de hernia se asocia el signo de Howship-Romberg?",
+  "opts": [
+   "Hernia de Spiegel.",
+   "Hernia de Richter.",
+   "Hernia pantaloon.",
+   "Hernia lumbar.",
+   "Hernia obturatriz."
+  ],
+  "ans": 4,
+  "why": "El signo de Howship-Romberg es dolor en la cara interna del muslo con la rotación externa, y es característico de la hernia obturatriz. Las hernias de Spiegel, lumbares, de Richter y pantaloon no cursan con este signo.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 38 del PDF (hernias misceláneas: obturator hernia, Howship-Romberg sign is internal thigh pain with external rotation)"
+  ],
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "0fae1b259b",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "La rama genital del nervio genitofemoral:",
+  "opts": [
+   "Se encuentra típicamente en la parte anterior, sobre el cordón espermático.",
+   "Proporciona sensibilidad a la base del pene y al muslo interno.",
+   "Se encuentra típicamente en la superficie anterior del músculo oblicuo interno.",
+   "Proporciona sensibilidad al lado del escroto e inervación motora al músculo cremáster.",
+   "A menudo se mezcla con el nervio iliohipogástrico."
+  ],
+  "ans": 3,
+  "why": "La rama genital del genitofemoral da inervación motora al cremáster y sensibilidad al escroto (y a los labios mayores en la mujer); es la responsable del reflejo cremastérico. Va dentro del cordón sobre el tracto iliopúbico, acompañando los vasos cremastéricos. Lo que está sobre el cordón es el ilioinguinal, y el iliohipogástrico es el que se sitúa sobre el oblicuo interno y se mezcla con el ilioinguinal, no con el genitofemoral.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 36 del PDF (rama genital: motora al cremáster y sensitiva al escroto)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 43 del PDF (respuesta 5)"
+  ],
+  "nota": "Clave original: D (resaltado). El enunciado estaba contaminado con otras preguntas de la página; se dejó solo la pregunta correspondiente."
+ },
+ {
+  "k": "5506e2823b",
+  "estado": "dudosa",
+  "tema": "hernias",
+  "stem": "Cuatro meses después de una reparación de hernia inguinal, un paciente presenta dolor persistente moderadamente severo y urente en el sitio de la incisión que se irradia a la ingle. No hay signos de hernia recurrente. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "La identificación cuidadosa de los tres nervios sensoriales previene esta complicación.",
+   "El manejo inicial implica reexploración de la herida.",
+   "Los bloqueos nerviosos con anestésico local son útiles para identificar el nervio afectado.",
+   "El dolor crónico tras la reparación de hernia es poco común.",
+   "La reoperación por neuralgia genitofemoral se realiza mejor vía inguinal."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston p. 1143 respalda los bloqueos nerviosos en el manejo, pero no dice que sirvan para identificar el nervio; la clave se apoya en descartar las demás. Clave que proponía el revisor: C. Para la neuralgia persistente tras una hernioplastia, los síntomas iniciales se tratan con antiinflamatorios, analgésicos y bloqueo nervioso con anestésico local, y el abordaje quirúrgico (neurectomía) se reserva para después. La identificación y preservación de los tres nervios reduce, pero no previene, el dolor crónico (A es absoluta); el dolor crónico es frecuente (cerca del 10 % en el Sabiston, 15-20 % en el ABSITE), no raro (D); el manejo inicial no es reexplorar (B); y tras reparación abierta se prefiere la neurectomía triple retroperitoneal laparoscópica, no la vía inguinal (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1143 del PDF (lesiones nerviosas y dolor crónico: bloqueo nervioso con anestésico local en el tratamiento inicial, medidas para reducir el dolor, frecuencia)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 37 del PDF (dolor inguinal crónico 15-20 %)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 44 del PDF (respuesta 10: neurectomía triple laparoscópica retroperitoneal tras reparación abierta)"
+  ],
+  "nota": "Clave original: C (resaltado). INDIRECTA: los libros respaldan el bloqueo nervioso en el manejo de la neuralgia, pero no dicen textualmente que sirva 'para identificar el nervio afectado'; las demás opciones sí quedan contradichas o exageradas por las fuentes. Enunciado reparado según la imagen original."
+ },
+ {
+  "k": "f49f13f70f",
+  "estado": "dudosa",
+  "tema": "hernias",
+  "stem": "Todas las siguientes afirmaciones son verdaderas sobre las hernias inguinales en niños EXCEPTO:",
+  "opts": [
+   "Se deben a la permeabilidad del proceso vaginal.",
+   "La incidencia es mayor en bebés prematuros.",
+   "El riesgo de incarceración es mayor en menores de 6 meses.",
+   "Los pacientes con hernias incarceradas deben ir directamente a quirófano.",
+   "Las hernias del lado derecho son más comunes que las del lado izquierdo."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): ABSITE p. 45 respalda la D, pero la afirmación sobre mayor riesgo de incarceración en menores de 6 meses no está en los libros; en una pregunta EXCEPTO no se puede excluir otra. Clave que proponía el revisor: D. En niños con hernia incarcerada sin signos de estrangulación (leucocitosis, fiebre, lactato elevado) lo preferible es intentar la reducción manual, dejar que baje la inflamación y reparar de forma semielectiva; solo con signos de estrangulación se va de inmediato a quirófano. La hernia pediátrica es casi siempre indirecta por proceso vaginal persistente, la incidencia aumenta en prematuros y las del lado derecho son más frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF (respuesta 13: reducción manual primero, cirugía inmediata solo si hay estrangulación)"
+  ],
+  "nota": "Clave original: D (resaltado). La afirmación C (mayor riesgo de incarceración en menores de 6 meses) no se encontró textual en los libros; el ABSITE solo dice que la incarceración es un problema más serio en niños. Enunciado reparado según la imagen original."
+ },
+ {
+  "k": "a7822907cc",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "Todas las siguientes afirmaciones sobre la anatomía de la hernia son verdaderas EXCEPTO:",
+  "opts": [
+   "El ligamento de Poupart se forma a partir del borde inferior de la aponeurosis del oblicuo externo.",
+   "El músculo cremáster se origina del músculo transverso.",
+   "La rama genital del nervio genitofemoral pasa por el anillo profundo.",
+   "Los vasos cremastéricos acompañan a la rama genital del nervio genitofemoral.",
+   "Las hernias indirectas surgen lateralmente a los vasos epigástricos inferiores."
+  ],
+  "ans": 1,
+  "why": "Las fibras del cremáster provienen del músculo oblicuo interno, no del transverso, por lo que B es la falsa. El ligamento de Poupart (inguinal) se forma del borde anteroinferior de la aponeurosis del oblicuo externo; la rama genital pasa por el anillo profundo y acompaña a los vasos cremastéricos; las hernias indirectas salen lateral a los vasos epigástricos inferiores.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 43 del PDF (respuesta 6 y respuesta 5)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 36 del PDF (cremáster desde el oblicuo interno; rama genital sale por el anillo profundo)"
+  ],
+  "nota": "Clave original: B (resaltado). Enunciado reparado (EXCEPTO)."
+ },
+ {
+  "k": "799c9673ba",
+  "estado": "confirmada",
+  "tema": "hernias",
+  "stem": "Una hernia femoral pasa:",
+  "opts": [
+   "Anterior al ligamento inguinal.",
+   "Lateral a la arteria femoral.",
+   "Posterior al ligamento de Cooper.",
+   "Medial a la vena femoral.",
+   "Anterior al tracto iliopúbico."
+  ],
+  "ans": 3,
+  "why": "La hernia femoral sale por el conducto femoral, lateral a los linfáticos y medial a la vena femoral, y pasa por debajo (posterior) del ligamento inguinal. El ligamento de Cooper forma el borde posterior del conducto, de modo que no pasa por detrás de él, y el tracto iliopúbico forma su borde superior, no se sitúa por delante del conducto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 45 del PDF (respuesta 16: medial a la vena femoral, posterior al ligamento inguinal, Cooper posterior)",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 38 del PDF (femoral hernia: inferior al ligamento inguinal, medial a la vena femoral)",
+   "Sabiston 21.ª ed., p. 1141 del PDF (límites del conducto femoral)"
+  ],
+  "nota": "Clave original: D (resaltado)."
+ }
+]

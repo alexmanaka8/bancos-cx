@@ -16,10 +16,10 @@
    "nombre": "Pretest Cx Generales 2024-2",
    "tipo": "preguntas",
    "url": "banco.html?id=pretest-2024",
-   "n": 23,
-   "conClave": 23,
-   "secciones": 6,
-   "verificadas": 23,
+   "n": 46,
+   "conClave": 46,
+   "secciones": 10,
+   "verificadas": 46,
    "altoValor": 6
   },
   {
@@ -49,10 +49,10 @@
    "nombre": "Banco traducido Cx 1",
    "tipo": "preguntas",
    "url": "banco.html?id=banco-traducido",
-   "n": 67,
-   "conClave": 67,
+   "n": 99,
+   "conClave": 99,
    "secciones": 7,
-   "verificadas": 67,
+   "verificadas": 99,
    "altoValor": 62
   },
   {
@@ -60,22 +60,22 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 232,
-   "conClave": 232,
+   "n": 256,
+   "conClave": 256,
    "secciones": 19,
-   "verificadas": 232,
-   "altoValor": 127
+   "verificadas": 256,
+   "altoValor": 128
   },
   {
    "id": "simulacros",
    "nombre": "Simulacros TeamMedic",
    "tipo": "preguntas",
    "url": "banco.html?id=simulacros",
-   "n": 13,
-   "conClave": 13,
-   "secciones": 2,
-   "verificadas": 13,
-   "altoValor": 1
+   "n": 22,
+   "conClave": 22,
+   "secciones": 4,
+   "verificadas": 22,
+   "altoValor": 3
   },
   {
    "id": "cicatrizacion",
@@ -272,7 +272,7 @@
    "nombre": "Hernias de la pared abdominal",
    "clase": "17",
    "semana": 4,
-   "n": 29,
+   "n": 64,
    "alto": 19
   },
   {
@@ -280,7 +280,7 @@
    "nombre": "Eventraciones, evisceraciones y diástasis de rectos",
    "clase": "18",
    "semana": 4,
-   "n": 7,
+   "n": 8,
    "alto": 3
   },
   {
@@ -288,16 +288,16 @@
    "nombre": "Abdomen agudo",
    "clase": "19-20",
    "semana": 4,
-   "n": 19,
-   "alto": 7
+   "n": 35,
+   "alto": 8
   },
   {
    "id": "esofago-estomago",
    "nombre": "Patología esófago-gástrica benigna",
    "clase": "22",
    "semana": 5,
-   "n": 32,
-   "alto": 16
+   "n": 33,
+   "alto": 17
   },
   {
    "id": "intestino",
@@ -307,15 +307,15 @@
     4,
     5
    ],
-   "n": 49,
-   "alto": 37
+   "n": 80,
+   "alto": 38
   },
   {
    "id": "colon",
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
    "semana": 5,
-   "n": 37,
+   "n": 38,
    "alto": 22
   },
   {
@@ -347,7 +347,7 @@
    "nombre": "Colelitiasis, colecistitis y coledocolitiasis",
    "clase": "28",
    "semana": 6,
-   "n": 39,
+   "n": 40,
    "alto": 14
   },
   {
@@ -454,7 +454,7 @@
    "nombre": "Cirugía pediátrica",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 5,
+   "n": 6,
    "alto": 3
   },
   {
@@ -462,7 +462,7 @@
    "nombre": "Otros temas",
    "clase": "",
    "semana": null,
-   "n": 8,
+   "n": 9,
    "alto": 6
   }
  ],

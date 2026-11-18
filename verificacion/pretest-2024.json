@@ -694,5 +694,834 @@
    "Tabla 1 (riesgo quirúrgico ESC/ESA) reproducida en Europe PMC, PMC10925572 (PMID 38462583)"
   ],
   "nota": "Clave original: A (resaltado); coincide con la fuente. Texto reparado con la imagen: faltaba parte de la frase en la conversión."
+ },
+ "fea763cf45": {
+  "k": "fea763cf45",
+  "estado": "dudosa",
+  "stem": "Paciente mujer con un tiempo de enfermedad de 36 horas, dolor abdominal en hipogastrio, disuria leve, UPM hace 15 días. Al examen: dolor a la palpación en cuadrante inferior derecho e hipogastrio, resistencia voluntaria a este nivel, RHA disminuidos. Ecografía: líquido libre en fosa pélvica. ¿Qué conducta sería lo más aconsejable?",
+  "opts": [
+   "Laparotomía exploratoria",
+   "Observación y tratamiento médico",
+   "Laparoscopía DX y TX",
+   "Lavado peritoneal guiado con ecografía",
+   "Tratamiento antibiótico para ITU"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la laparoscopia diagnóstica sirve como complemento final cuando las otras pruebas dejan dudas y que además puede ser terapéutica (diagnóstico y tratamiento en el mismo acto). En mujeres en edad fértil el diagnóstico diferencial del abdomen agudo es más amplio (ginecológico). Laparotomía, lavado guiado o solo antibióticos/observación no resuelven un abdomen agudo con signos peritoneales y dudas diagnósticas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1165 del PDF (Laparoscopia diagnóstica)",
+   "Sabiston 21.ª ed., p. 1161 del PDF (abdomen agudo en mujeres)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Respaldo indirecto: el libro respalda la laparoscopia diagnóstica y terapéutica en casos seleccionados, no describe este caso exacto. Clave original C (resaltada). Supervisión: el libro respalda la laparoscopia en casos seleccionados, pero no este caso. Queda dudosa."
+ },
+ "83c225cbd9": {
+  "k": "83c225cbd9",
+  "estado": "dudosa",
+  "stem": "Respecto de la pared abdominal, es cierto: 1) La fascia de Scarpa se encuentra en el tejido celular subcutáneo de toda la pared abdominal. 2) La fascia de Camper solo se encuentra en el hemiabdomen superior. 3) Entre la región pubiana y el arco aponeurótico de Douglas solo se encuentran: peritoneo, grasa preperitoneal y fascia transversalis, por debajo de la capa muscular. 4) La irrigación de la pared abdominal se da fundamentalmente por las arterias epigástricas superiores e inferiores. 5) Las fibras colágenas y elásticas contribuyen a dar la resistencia de la línea alba.",
+  "opts": [
+   "1,2,3",
+   "2,3,4",
+   "1,3,5",
+   "1,2,5",
+   "3,4,5"
+  ],
+  "ans": null,
+  "why": "Sabiston respalda el 3 (por debajo de la línea arqueada la hoja posterior del recto es solo fascia transversal y peritoneo, con grasa preperitoneal) y el 1 (el tejido subcutáneo se compone de las fascias de Camper y Scarpa). El 2 es falso (Camper es la capa superficial con la grasa subcutánea). Pero el 5 (fibras colágenas y elásticas) no aparece en los libros: la línea alba se describe como fibras densas entrecruzadas de las aponeurosis. Y el 4 es cierto solo para el recto (los músculos laterales se irrigan por intercostales, circunfleja ilíaca profunda y lumbares). No se puede decidir entre las combinaciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1104 del PDF (tejido subcutáneo, línea alba, espacio preperitoneal)",
+   "Sabiston 21.ª ed., p. 1145 del PDF (línea arqueada, irrigación)",
+   "Latarjet, Anatomía humana t. 2, p. 419 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C (1,3,5, resaltada en el aula virtual). Se respalda 1 y 3, pero el 5 no se puede comprobar en las fuentes."
+ },
+ "57c3eb5672": {
+  "k": "57c3eb5672",
+  "estado": "nueva",
+  "stem": "En la clasificación de Nyhus para hernias inguinales, la hernia cuyo saco herniario protruye medialmente a los vasos epigástricos, es de tipo:",
+  "opts": [
+   "I",
+   "II",
+   "III a",
+   "II b",
+   "III c"
+  ],
+  "ans": 2,
+  "why": "En la clasificación de Nyhus el tipo III es defecto de la pared posterior: IIIA es la hernia inguinal directa (medial a los vasos epigástricos). El tipo I y II son indirectas; IIIC es femoral; II b no existe en la clasificación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1135 del PDF (cuadro 45.3 Clasificación de Nyhus)",
+   "Sabiston 21.ª ed., p. 1134 del PDF (hernia directa por el suelo inguinal)"
+  ],
+  "tema": "hernias",
+  "nota": "Sin clave en el banco; en el documento original el resaltado marca c) III a."
+ },
+ "511f4d55dc": {
+  "k": "511f4d55dc",
+  "estado": "dudosa",
+  "stem": "En la clasificación de Nyhus, en el tipo IV, es cierto:",
+  "opts": [
+   "El saco herniario puede protruir por el anillo inguinal profundo",
+   "Puede estar afectada la pared posterior del conducto inguinal",
+   "Ocurre por falla de la técnica operatoria en los primeros dos años",
+   "A+B+C",
+   "Ninguna"
+  ],
+  "ans": null,
+  "why": "Sabiston define el tipo IV como hernia recurrente (A directa, B indirecta, C femoral, D combinada), así que A y B son plausibles. Pero ningún libro consultado dice que ocurra 'por falla de la técnica en los primeros dos años' (C); sin eso no se puede confirmar A+B+C.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1135 del PDF (cuadro 45.3 Clasificación de Nyhus)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original D (A+B+C, resaltada en el aula virtual). No se encontró respaldo para la opción C."
+ },
+ "cdab18abb9": {
+  "k": "cdab18abb9",
+  "estado": "anulada",
+  "stem": "Diga si es verdadero (V) o falso (F): a) La hernia incoercible es aquella en la que el contenido herniario se puede reducir con facilidad. b) En la hernia de Littré el borde antimesentérico de la pared intestinal se encarcela dentro de un saco herniario causando estrangulación. c) La mayoría de las hernias epigástricas se encuentran cerca al apéndice xifoides. d) Las hernias deben ser operadas, sin excepción. e) Las hernias umbilicales pueden ser superiores, inferiores o directas.",
+  "opts": [
+   "La hernia incoercible, es aquella en la que el contenido herniario se puede reducir con facilidad",
+   "En la hernia de Littré el borde antimesentérico de la pared intestinal se encarcela dentro de un saco herniario causando estrangulación",
+   "La mayoría de las hernias epigástricas se encuentran cerca al apéndice xifoides",
+   "Las hernias deben ser operadas, sin excepción",
+   "Las hernias umbilicales pueden ser superiores, inferiores o directas"
+  ],
+  "ans": null,
+  "why": "No es una pregunta de una sola respuesta: son cinco afirmaciones de verdadero/falso sin letras de clave. Además la afirmación b mezcla dos hernias: según Sabiston, la hernia de Richter es la que atrapa solo la pared antimesentérica del intestino (la de Littré contiene un divertículo de Meckel). Por eso no se puede dar una clave única.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF (hernia de Richter)",
+   "de Virgilio ABSITE, p. 170 del PDF (hernia de Littré: contiene divertículo de Meckel)"
+  ],
+  "tema": "hernias",
+  "nota": "El original trae una clave escrita F,V,V,F,V que no se pudo comprobar completa; la b parece incorrecta según Sabiston/ABSITE."
+ },
+ "aee61d16ee": {
+  "k": "aee61d16ee",
+  "estado": "dudosa",
+  "stem": "Mujer de 80 años, funcionalmente activa, con cuadro de hernia crural derecha, no reductible, con distensión abdominal y ausencia de deposiciones varios días. Goldman III/V - ASA IV. ¿Cuál es su conducta?",
+  "opts": [
+   "Hernioplastia convencional",
+   "No operación",
+   "Hernioplastía laparoscópica",
+   "Laparotomía",
+   "Reducción manual"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que todas las hernias femorales deben repararse por su alta tasa de estrangulación, y que en las incarceradas se debe examinar la viabilidad del contenido; si hay compromiso intestinal se elige la reparación del ligamento de Cooper (sin malla). Eso descarta no operar y reducir a ciegas, pero no dice si el abordaje debe ser 'laparotomía' o una herniorrafia por vía femoral/preperitoneal, por eso dos opciones (A y D) son defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1142 del PDF (hernias femorales)",
+   "Sabiston 21.ª ed., p. 1131 del PDF (estrangulación en hernias femorales 15-20%)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original D (Laparotomía, resaltada; el aula virtual la justifica por abordaje abierto para rápida resolución). El libro no la respalda de forma directa."
+ },
+ "237c3fede2": {
+  "k": "237c3fede2",
+  "estado": "confirmada",
+  "stem": "El ligamento lacunar o de Gimbernat es una derivación de una de las siguientes estructuras:",
+  "opts": [
+   "Aponeurosis del oblicuo externo",
+   "Músculo oblicuo interno",
+   "Músculo transverso del abdomen",
+   "Fascia transversalis",
+   "Espacio de Bogros"
+  ],
+  "ans": 0,
+  "why": "Latarjet describe el ligamento lacunar (de Gimbernat) como un pliegue fibroso en el extremo medial del ligamento inguinal, y como la reflexión del pilar lateral del oblicuo externo hacia la cresta pectínea y el pubis. Las otras estructuras no lo originan.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t. 2, p. 415 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original A."
+ },
+ "394ce91861": {
+  "k": "394ce91861",
+  "estado": "confirmada",
+  "stem": "La hernioplastía de la hernia inguinal directa que aproxima el ligamento inguinal con el tendón conjunto, haciendo uso de prótesis, se denomina:",
+  "opts": [
+   "Bassini",
+   "Ferguson",
+   "Liechtenstein",
+   "Mac Vay",
+   "Shouldice"
+  ],
+  "ans": 2,
+  "why": "En la técnica de Lichtenstein se amolda una malla protésica no absorbible al conducto: su borde inferior se sutura al ligamento inguinal y su cara superointerna al tendón conjunto. Bassini sutura el tendón conjunto al ligamento inguinal pero sin malla; McVay usa el ligamento de Cooper y Shouldice es reparación con tejido propio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1136 del PDF (Bassini, McVay, Lichtenstein)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C. Se escribe 'Lichtenstein' (en el original 'Liechtenstein')."
+ },
+ "0f1eb6b85c": {
+  "k": "0f1eb6b85c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes hernias no corresponde a la clasificación de Nyhus?",
+  "opts": [
+   "Femoral recurrente",
+   "Combinada",
+   "Directa primaria",
+   "Indirecta recurrente",
+   "Umbilical"
+  ],
+  "ans": 4,
+  "why": "La clasificación de Nyhus es solo para hernias inguinales: I y II indirectas, IIIA directa, IIIB indirecta, IIIC femoral, y IV recurrentes (A directa, B indirecta, C femoral, D combinada). Femoral recurrente (IVC), combinada (IVD), directa primaria (IIIA) e indirecta recurrente (IVB) sí están; la umbilical no.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1135 del PDF (cuadro 45.3 Clasificación de Nyhus)"
+  ],
+  "tema": "hernias",
+  "nota": "Sin clave en el banco; el documento original resalta Umbilical."
+ },
+ "783f8000d8": {
+  "k": "783f8000d8",
+  "estado": "dudosa",
+  "stem": "Las hernias inguinales se clasifican, según su ubicación respecto a los vasos epigástricos inferiores, en:",
+  "opts": [
+   "Ventral y Abdominal",
+   "Lateral y Medial",
+   "Directa e Indirecta",
+   "Estrangulada e Incarcerada",
+   "Anterior y Posterior"
+  ],
+  "ans": null,
+  "why": "Sabiston describe la hernia indirecta como la que va de lateral a medial por el conducto y la directa como la que sale por el suelo inguinal, y la clasificación europea (EHS) las califica según estén externas o internas a los vasos epigástricos. Es decir, 'Directa e Indirecta' y 'Lateral y Medial' describen lo mismo y las fuentes no deciden cuál es la respuesta esperada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1134 del PDF (exploración y clasificación)",
+   "Sabiston 21.ª ed., p. 1131 del PDF (vasos epigástricos inferiores)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C (Directa e Indirecta, resaltada), que es la terminología habitual, pero B es igualmente defendible por la redacción 'ubicación respecto a los vasos'."
+ },
+ "ef5d9cc47b": {
+  "k": "ef5d9cc47b",
+  "estado": "dudosa",
+  "stem": "Respecto a las ventajas del abordaje laparoscópico en hernioplastía inguinal, es CORRECTO:",
+  "opts": [
+   "Menor dolor postoperatorio",
+   "Retorno precoz a las actividades laborales",
+   "Curva de aprendizaje más larga que la técnica abierta",
+   "Visión amplia del orificio miopectíneo"
+  ],
+  "ans": null,
+  "why": "Sabiston cita como ventajas del abordaje laparoscópico la recuperación más rápida, menos dolor, mejor visualización de la anatomía y cubrir el orificio miopectíneo. La curva de aprendizaje larga es una desventaja, no una ventaja. Así, A, B y D son respaldadas por el libro y la pregunta no tiene una sola correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1139 del PDF (ventajas y críticas de la vía laparoscópica)",
+   "Sabiston 21.ª ed., p. 1140 del PDF (curva de aprendizaje, retorno más rápido)"
+  ],
+  "tema": "hernias",
+  "nota": "Sin clave en el banco; el original dice que todas son ventajas. Hay varias opciones correctas."
+ },
+ "e486be6095": {
+  "k": "e486be6095",
+  "estado": "confirmada",
+  "stem": "Cuáles de las siguientes técnicas quirúrgicas se utilizan para reparar hernias inguinales:",
+  "opts": [
+   "Bassini",
+   "Mc Vay",
+   "Shouldice",
+   "Todas",
+   "Ninguna"
+  ],
+  "ans": 3,
+  "why": "Sabiston lista como opciones de reparación inguinal la de Shouldice, la de Bassini y la de McVay (ligamento de Cooper), además de las reparaciones con malla. Las tres se usan, así que 'Todas' es correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1136 del PDF (reparaciones tisulares de la hernia inguinal)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original D."
+ },
+ "b5d9fb51fb": {
+  "k": "b5d9fb51fb",
+  "estado": "dudosa",
+  "stem": "Una mujer de 65 años acude al médico debido a una hinchazón en la ingle durante las últimas 4 semanas. La hinchazón causa malestar, pero no dolor. Los signos vitales están dentro de los límites normales. El examen muestra un abdomen blando e indoloro. Los pulsos femorales son normales. Hay una masa debajo del ligamento inguinal, no pulsátil, blanda e indolora en el lado izquierdo, que aumenta de tamaño cuando se le pide al paciente que tosa, pero no desaparece. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?",
+  "opts": [
+   "Linfadenomegalias inguinales",
+   "Absceso de psoas ilíaco",
+   "Debilidad de la fascia transversalis",
+   "Pseudoaneurisma de arteria femoral",
+   "Hernia crural incarcerada"
+  ],
+  "ans": null,
+  "why": "Según Sabiston, la hernia femoral (crural) produce una masa bajo el ligamento inguinal, y es más frecuente en mujeres; 'incarcerada' significa irreducible. Una masa no pulsátil que crece con la tos y no se reduce encaja. La debilidad de la fascia transversalis causa hernia directa (por encima del ligamento inguinal) y el pseudoaneurisma sería pulsátil.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1141-1142 del PDF (hernias femorales)",
+   "Sabiston 21.ª ed., p. 1129 del PDF (reducible/incarcerada)",
+   "Sabiston 21.ª ed., p. 1134 del PDF (abultamiento bajo el ligamento inguinal = femoral)"
+  ],
+  "tema": "hernias",
+  "nota": "Respaldo parcialmente indirecto (descarte clínico apoyado en las definiciones del libro). Clave original E. Supervisión: la elección entre opciones es clínica y ninguna fuente la respalda directamente. Queda dudosa."
+ },
+ "4ff470e539": {
+  "k": "4ff470e539",
+  "estado": "dudosa",
+  "stem": "Un hombre de 79 años es llevado al servicio de urgencias debido a un historial de 1 hora de dolor intenso en la ingle, náuseas y vómitos. Informa que ha tenido una hinchazón en la ingle durante los últimos 3 meses. El examen muestra una masa abultada no reductible en la ingle izquierda que se proyecta a la región escrotal, que es muy sensible a la palpación; la piel suprayacente es eritematosa. ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Hernia inguinal complicada",
+   "Hernia crural estrangulada",
+   "Hernia inguino-escrotal estrangulada",
+   "Hernia de Richter",
+   "Hernia inguinal incarcerada"
+  ],
+  "ans": null,
+  "why": "Sabiston define incarcerada (irreducible) y estrangulada (sin perfusión suficiente, grave), pero no da los signos clínicos (dolor intenso, eritema de la piel) que separan una de otra. Por eso las opciones A, C y E no se pueden diferenciar solo con las fuentes; B y D no encajan con la masa inguinoescrotal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF (definiciones)",
+   "Sabiston 21.ª ed., p. 1131 del PDF (estrangulación)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C (resaltada). Es clínicamente razonable pero las fuentes no la respaldan de forma directa."
+ },
+ "b51aa8c93a": {
+  "k": "b51aa8c93a",
+  "estado": "confirmada",
+  "stem": "La técnica de Shouldice en la reparación de la hernia inguinal consiste en:",
+  "opts": [
+   "Aplicar un tapón cónico al orificio inguinal interno",
+   "Fijación del tendón conjunto al ligamento de Cooper",
+   "Amoldar una malla al conducto inguinal",
+   "Reparación y reforzamiento de la pared posterior del conducto inguinal",
+   "Fijación del tendón conjunto al ligamento inguinal"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la técnica de Shouldice reconstruye la pared posterior del conducto inguinal con una reparación imbricada y multiestratificada con sutura continua. El tapón es de tapón y parche, el tendón conjunto al ligamento de Cooper es McVay, la malla es Lichtenstein y el tendón conjunto al ligamento inguinal es Bassini.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1136 del PDF (Shouldice, Bassini, McVay, Lichtenstein)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original D."
+ },
+ "0e1155fffe": {
+  "k": "0e1155fffe",
+  "estado": "dudosa",
+  "stem": "En la enfermedad de Crohn, no se encuentra:",
+  "opts": [
+   "Granulomas",
+   "Pseudopólipos",
+   "Afectación transmural",
+   "Afectación segmentaria",
+   "Aspecto de empedrado de la mucosa"
+  ],
+  "ans": null,
+  "why": "Sabiston describe en el Crohn los granulomas no caseosos, la inflamación transmural, el proceso discontinuo y segmentario y el aspecto en adoquinado. Giménez dice que en el Crohn 'también pueden aparecer pólipos inflamatorios', aunque su cuadro de diferencias los pone como rasgo de la colitis ulcerosa. Como una fuente dice que pueden aparecer en el Crohn, ninguna opción queda claramente como 'no se encuentra'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 664 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. Lo esperado por el examen probablemente es 'Pseudopólipos' (típicos de colitis ulcerosa), pero el libro no lo respalda de forma directa; por eso queda dudosa."
+ },
+ "d6344627b5": {
+  "k": "d6344627b5",
+  "estado": "nueva",
+  "stem": "En relación con la enfermedad de Crohn, ¿cuál de las siguientes afirmaciones es incorrecta?",
+  "opts": [
+   "La inflamación es un proceso transmural",
+   "Las fístulas, fisuras y abscesos perineales son frecuentes",
+   "La lesión aftoide es la manifestación más temprana",
+   "Son frecuentes los síntomas sistémicos",
+   "Se inicia siempre en el recto y se extiende a todo el colon"
+  ],
+  "ans": 4,
+  "why": "Sabiston dice que en el Crohn la falta de lesión rectal es característica del Crohn del colon y que el proceso es discontinuo y segmentario; por eso 'se inicia siempre en el recto' es falso (eso es de la colitis ulcerosa). Las demás son ciertas: la inflamación es transmural, un tercio tiene daño perianal y perirrectal, la lesión macroscópica más precoz es la úlcera aftosa y hay febrícula, adelgazamiento y malestar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Sabiston 21.ª ed., p. 1285 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "955df6fae0": {
+  "k": "955df6fae0",
+  "estado": "nueva",
+  "stem": "En el 85 % de los pacientes con enteritis tuberculosa el sitio de afección es:",
+  "opts": [
+   "Duodeno",
+   "Yeyuno",
+   "Región ileocecal",
+   "Yeyuno-ileon",
+   "Ciego"
+  ],
+  "ans": 2,
+  "why": "Sabiston: el foco más frecuente de lesión intestinal por M. tuberculosis es el íleon distal y el ciego, es decir la región ileocecal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1296 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sabiston da aproximadamente 90% y no 85%; el sitio coincide con la opción C."
+ },
+ "68f94799b6": {
+  "k": "68f94799b6",
+  "estado": "dudosa",
+  "stem": "La manifestación clínica más común de un divertículo de Meckel es:",
+  "opts": [
+   "Diverticulitis",
+   "Hemorragia gastrointestinal",
+   "Obstrucción intestinal",
+   "Perforación y peritonitis",
+   "Vólvulo del intestino delgado"
+  ],
+  "ans": null,
+  "why": "Sabiston: la presentación clínica habitual del divertículo de Meckel es la hemorragia digestiva, y en otro capítulo dice que el síntoma de presentación más frecuente es la hemorragia digestiva baja indolora y masiva en niños pequeños. La obstrucción es 'otro síntoma frecuente' y la diverticulitis es 10-20% de los casos sintomáticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El respaldo es el libro; la pregunta no dice edad. En adultos la obstrucción también es muy frecuente, pero el libro nombra la hemorragia como la habitual. Supervisión: la complicación más frecuente cambia entre niños y adultos, y la pregunta no dice la edad. Queda dudosa."
+ },
+ "9febfd07c3": {
+  "k": "9febfd07c3",
+  "estado": "nueva",
+  "stem": "Los bacilos en la TBC intestinal se asientan más a menudo en:",
+  "opts": [
+   "Yeyuno",
+   "Íleon",
+   "Colon ascendente",
+   "Todas las anteriores",
+   "Solo A y B"
+  ],
+  "ans": 1,
+  "why": "Sabiston: el foco más frecuente de la tuberculosis intestinal es el íleon distal y el ciego (cerca del 90% en esa región). La opción que lo nombra es el íleon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1296 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Respaldo algo indirecto: el libro dice 'íleon distal y ciego'; el ciego no es exactamente 'colon ascendente'. El enunciado estaba mezclado y se reparó con el original."
+ },
+ "1062c07b78": {
+  "k": "1062c07b78",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el síndrome de intestino corto es correcta?",
+  "opts": [
+   "Es más común en el colon",
+   "La pérdida de más de 75% del intestino delgado usualmente causa insuficiencia intestinal",
+   "La resección ileal es menos problemática que la resección yeyunal",
+   "Los pacientes siempre requieren nutrición parenteral de por vida",
+   "Es importante preservar el yeyuno porque absorbe vit B12"
+  ],
+  "ans": 1,
+  "why": "Sabiston: como regla empírica, el síndrome de intestino corto y la falta de autonomía enteral se esperan tras resecar más del 75% del intestino. Las otras son falsas: el síndrome se da en el intestino delgado, la resección proximal se tolera mejor que la distal (el íleon absorbe sales biliares y B12, y se adapta mejor), y la dependencia de NPT depende de la longitud y la salud del intestino restante.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 668 del PDF",
+   "Sabiston 21.ª ed., p. 1320 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "96117eb9e9": {
+  "k": "96117eb9e9",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más común de obstrucción del intestino delgado en adultos?",
+  "opts": [
+   "Vólvulo",
+   "Hernias",
+   "Adherencias",
+   "Neoplasias",
+   "Parasitosis"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la causa más frecuente de obstrucción intestinal en los países occidentales es el síndrome adherencial; en el cuadro de causas de obstrucción del delgado en adultos, las adherencias (casi siempre postoperatorias) encabezan la lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274 del PDF",
+   "Sabiston 21.ª ed., p. 1276 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "df90a6445f": {
+  "k": "df90a6445f",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la manifestación clínica más frecuente de un tumor carcinoide del intestino delgado?",
+  "opts": [
+   "Sangrado gastrointestinal",
+   "Dolor abdominal intermitente",
+   "Obstrucción intestinal",
+   "Pérdida de peso",
+   "Hematoquesia"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que sin síndrome carcinoide los síntomas más habituales son 'dolor abdominal asociado, en grado variable, con una obstrucción intestinal parcial o completa'. Con eso, tanto 'dolor abdominal intermitente' como 'obstrucción intestinal' son defendibles y el libro no elige una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1302 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. Probablemente el examen espera dolor abdominal, pero el libro junta dolor y obstrucción."
+ },
+ "56fb106e43": {
+  "k": "56fb106e43",
+  "estado": "nueva",
+  "stem": "¿Qué técnica quirúrgica se utiliza con mayor frecuencia para el tratamiento de una obstrucción intestinal mecánica causada por adherencias?",
+  "opts": [
+   "Resección segmentaria del intestino delgado",
+   "Enterostomía de alivio",
+   "Adhesiólisis",
+   "Anastomosis en puente",
+   "Intubación de yeyuno"
+  ],
+  "ans": 2,
+  "why": "Sabiston: los pacientes con obstrucción por una brida adherida se tratan mediante disolución (liberación) de la adherencia correspondiente, con cuidado para no lesionar la serosa ni hacer enterotomías.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Respaldo algo indirecto: el libro describe la liberación de la brida como el manejo de la obstrucción adherencial, pero no usa la frase 'con mayor frecuencia'."
+ },
+ "dd1cc73c47": {
+  "k": "dd1cc73c47",
+  "estado": "dudosa",
+  "stem": "En pacientes con enfermedad celíaca, ¿cuál es el hallazgo histopatológico más común en el intestino delgado?",
+  "opts": [
+   "Hiperplasia de las criptas",
+   "Atrofia de las vellosidades",
+   "Infiltración eosinofílica",
+   "Granulomas no caseificantes",
+   "Patrón histopatológico"
+  ],
+  "ans": null,
+  "why": "Una revisión de la enfermedad celíaca dice que la lesión típica muestra atrofia de las vellosidades con cambio en la relación vellosidad/cripta y aumento de linfocitos intraepiteliales. Los granulomas son del Crohn y la infiltración eosinofílica no es el hallazgo de la celíaca.",
+  "fuentes": [
+   "Caio G et al. Celiac disease: a comprehensive current review. BMC Med 2019 (PMC6647104, https://europepmc.org/article/PMC/PMC6647104)"
+  ],
+  "tema": "intestino",
+  "nota": "Fuente externa (revisión revisada por pares). La hiperplasia de criptas también forma parte de la lesión, pero la atrofia vellositaria es la que la revisión nombra como lesión típica. La opción E está cortada también en el original. Supervisión: los libros no lo respaldan y hay dos opciones defendibles. Queda dudosa."
+ },
+ "ee2458d64e": {
+  "k": "ee2458d64e",
+  "estado": "nueva",
+  "stem": "¿Qué hallazgo histopatológico es característico de la enfermedad de Crohn?",
+  "opts": [
+   "Atrofia de las vellosidades",
+   "Células en anillo de sello",
+   "Úlceras lineales",
+   "Infiltración eosinofílica",
+   "Granuloma no caseificante"
+  ],
+  "ans": 4,
+  "why": "Sabiston: las lesiones histológicas características del Crohn son los granulomas no caseosos con células gigantes de Langerhans. Giménez los llama el dato histológico patognomónico. Las úlceras lineales son un hallazgo macroscópico, no histológico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Sabiston 21.ª ed., p. 1285 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 664 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "9bcd6b32cd": {
+  "k": "9bcd6b32cd",
+  "estado": "nueva",
+  "stem": "Varón de 76 años, hace 3 días presenta dolor abdominal en hipogastrio, falta de apetito. Deposiciones líquidas 2 cámaras/día y dificultad para caminar. Examen: PA: 100/70 mmHg, T°: 37°C, FC: 95 x', FR: 25 x'; abdomen doloroso a la palpación profunda en hemiabdomen inferior, signo de McBurney dudoso, Blumberg (+), Laboratorio: leucocitos: 8500 por mm3 con 10 abastonados. Ecografía: líquido libre aprox. 300 ml en Douglas. ¿Qué solicitaría para llegar al diagnóstico?",
+  "opts": [
+   "Colonoscopía",
+   "Rx. colon con enema",
+   "Hemograma control",
+   "Ecografía control",
+   "TAC contrastada"
+  ],
+  "ans": 4,
+  "why": "Sabiston recomienda la TC en el anciano con sospecha de apendicitis por su presentación atípica y su diagnóstico diferencial amplio, y Giménez la llama el estudio de elección (gold standard) en la diverticulitis aguda. Con signos peritoneales, la colonoscopía y el colon por enema no son adecuados, y repetir hemograma o ecografía no da el diagnóstico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 328 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 683 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Respaldo indirecto: el caso no dice si es apendicitis o diverticulitis, pero para ambas el libro recomienda la TC. Ver la lista completa del caso en el original (opciones D y E en la página siguiente)."
+ },
+ "c5fe1fbb34": {
+  "k": "c5fe1fbb34",
+  "estado": "dudosa",
+  "stem": "Una mujer de 80 años es traída al servicio de urgencias por un cuadro de dolor abdominal agudo que se acompaña de hipotensión, taquicardia y fiebre de 38 °C. Entre sus antecedentes destaca una resección de colon izquierdo por carcinoma siete días antes. Tras la reanimación inicial se realiza una radiografía simple de tórax que resulta diagnóstica de",
+  "opts": [
+   "Neumoperitoneo",
+   "Obstrucción intestinal",
+   "Hernia crural estrangulada",
+   "Neumotórax izquierdo",
+   "Isquemia mesentérica"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que las fugas de anastomosis de colon aparecen entre el día 5 y el 7 y que se estudian con TC o contraste hidrosoluble; no dice que la radiografía de tórax sea diagnóstica. No encontré en los libros una fuente que respalde directamente 'neumoperitoneo en la radiografía de tórax' como diagnóstico aquí.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 295 del PDF",
+   "Sabiston 21.ª ed., p. 1410 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: A (neumoperitoneo). Es plausible como respuesta del examen, pero sin fuente que la respalde de forma directa queda dudosa."
+ },
+ "ad5f72037b": {
+  "k": "ad5f72037b",
+  "estado": "confirmada",
+  "stem": "Paciente con obstrucción intestinal por tumor de colon izquierdo perforado + peritonitis generalizada + sepsis. La conducta más adecuada sería:",
+  "opts": [
+   "Laparotomía + resección de tumor + anastomosis término terminal + lavado de cavidad peritoneal",
+   "Laparotomía + resección de tumor + colostomía + lavado de cavidad peritoneal",
+   "Laparotomía + rafia de perforación + lavado de cavidad peritoneal",
+   "Laparotomía + colectomía total + ileostomía + lavado de cavidad peritoneal"
+  ],
+  "ans": 1,
+  "why": "Sabiston: en la obstrucción del colon izquierdo se hace resección segmentaria del tumor primario; históricamente se evita la anastomosis primaria, dejando el muñón distal cerrado y un estoma proximal (operación de Hartmann). La colectomía subtotal se reserva si el colon proximal está perforado o isquémico. Giménez indica Hartmann ante peritonitis fecal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1401 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 684 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Respaldo algo indirecto: Sabiston no trata este caso séptico con las mismas palabras, y Giménez cita Hartmann en la peritonitis de la diverticulitis (Hinchey IV)."
+ },
+ "5bf59f57b2": {
+  "k": "5bf59f57b2",
+  "estado": "confirmada",
+  "stem": "Obstrucción con un suministro de sangre comprometido.",
+  "opts": [
+   "Obstrucción completa o de alto grado.",
+   "Obstrucción incompleta, parcial o de bajo grado.",
+   "Obstrucción en asa cerrada.",
+   "Obstrucción estrangulada",
+   "Gracias"
+  ],
+  "ans": 3,
+  "why": "Sabiston explica que la obstrucción con estrangulación afecta a la vascularización de un segmento intestinal y puede seguirse de infarto. Por eso la obstrucción con el riego sanguíneo comprometido es la estrangulada. Completa/alto grado y parcial/bajo grado solo describen cuánto se tapa la luz, y la de asa cerrada describe que ambos extremos están bloqueados; ninguna habla del riego.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1279 del PDF",
+   "Sabiston 21.ª ed., p. 286 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). En el original la opción e dice 'Gracias' (opción sin sentido); se dejó tal cual. Se quitó un punto suelto del texto de la opción D.",
+  "tema": "intestino"
+ },
+ "943c1a01fa": {
+  "k": "943c1a01fa",
+  "estado": "dudosa",
+  "stem": "Varón de 64 años, desde hace 30 días con distensión abdominal superior e intolerancia progresiva a sólidos y luego a líquidos; la distensión cede después de vómitos. ¿Qué diagnóstico considerarías más probable?",
+  "opts": [
+   "Adherencias",
+   "Íleo biliar",
+   "Absceso",
+   "Carcinoma"
+  ],
+  "ans": null,
+  "why": "El cuadro (distensión de abdomen alto, intolerancia progresiva a sólidos y luego líquidos, alivio con vómitos) es el de una obstrucción de la salida gástrica. Sabiston dice que las náuseas y vómitos son más marcados en las obstrucciones altas y que el cáncer gástrico es la causa más frecuente de la obstrucción pilórica. Adherencias, íleo biliar y absceso no explican una evolución progresiva de 30 días en un adulto mayor con obstrucción alta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1237 del PDF",
+   "Sabiston 21.ª ed., p. 1277 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). Respaldo indirecto: el libro no describe este caso; se apoya en que la obstrucción alta cursa con vómitos y en que el cáncer gástrico es la causa más frecuente de obstrucción pilórica. En el original dice 'fuego a líquidos' (error de escritura de 'luego'); se corrigió. Supervisión: el libro no describe este caso; el respaldo es indirecto. Queda dudosa.",
+  "tema": "intestino"
+ },
+ "f805002ae7": {
+  "k": "f805002ae7",
+  "estado": "dudosa",
+  "stem": "Paciente con obstrucción intestinal en asa cerrada:",
+  "opts": [
+   "Está bloqueada solo la parte distal del segmento afectado",
+   "Habitualmente en casos de adherencias",
+   "Habitualmente en casos de hernia estrangulada",
+   "Se identifica por dolor localizado en mesogastrio"
+  ],
+  "ans": null,
+  "why": "Sabiston define la obstrucción de asa cerrada como la que tiene ambos extremos de un segmento bloqueados, por una brida o por una hernia interna; por eso la opción A (solo la parte distal) es falsa. Pero las opciones B (adherencias) y C (hernia estrangulada) son ambas defendibles: el libro menciona bridas y también hernias incarceradas y vólvulo como causas. Ninguna fuente dice cuál es la 'habitual', así que no se puede elegir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1279 del PDF",
+   "Sabiston 21.ª ed., p. 1365 del PDF"
+  ],
+  "nota": "Sin clave original en el banco.",
+  "tema": "intestino"
+ },
+ "83245946aa": {
+  "k": "83245946aa",
+  "estado": "nueva",
+  "stem": "En un paciente con obstrucción intestinal por cáncer de colon, que presenta una válvula ileocecal competente:",
+  "opts": [
+   "La válvula permite el reflujo del contenido intestinal hacia el intestino delgado",
+   "Hay dilatación del colon y del intestino delgado",
+   "Hay dilatación del colon, pero no del intestino delgado",
+   "Presentan un cuadro obstructivo de una manera menos aguda que en caso de una válvula ileocecal incompetente"
+  ],
+  "ans": 2,
+  "why": "Con válvula ileocecal competente no hay reflujo hacia el intestino delgado, así que se forma un asa cerrada: el colon se distiende y el intestino delgado queda descomprimido (el libro de repaso lo usa como prueba de que la válvula es competente). A es falsa porque el reflujo ocurre con válvula incompetente. D es falsa: la incompetente es la que se presenta de forma menos aguda. B describe la válvula incompetente.",
+  "fuentes": [
+   "de Virgilio (ABSITE) 3.ª ed., p. 179 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 161 del PDF",
+   "Sabiston 21.ª ed., p. 1364 del PDF",
+   "Sabiston 21.ª ed., p. 1346 del PDF"
+  ],
+  "nota": "Sabiston aclara que, con el tiempo, también se distiende la porción proximal del asa cerrada, pero la distensión inicial es del colon y la diferencia con la válvula incompetente (dilatación del delgado) es lo que respaldan ABSITE y Sabiston.",
+  "tema": "intestino"
+ },
+ "dfa9b2f7bd": {
+  "k": "dfa9b2f7bd",
+  "estado": "nueva",
+  "stem": "En un paciente con obstrucción intestinal del colon por cáncer, la necrosis y perforación suele aparecer en:",
+  "opts": [
+   "El ciego",
+   "El colon sigmoides",
+   "El colon transverso",
+   "En el ángulo esplénico del colon"
+  ],
+  "ans": 0,
+  "why": "Sabiston: aunque la mayoría de las obstrucciones malignas están en el colon distal, la necrosis y perforación suelen aparecer en el ciego, porque tiene el diámetro más grande y, por la ley de Laplace, se distiende más con presiones bajas y tiene mayor tensión en la pared.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1365 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "c151433383": {
+  "k": "c151433383",
+  "estado": "dudosa",
+  "stem": "La causa más frecuente de obstrucción intestinal de intestino delgado en adultos:",
+  "opts": [
+   "Hernias",
+   "Enfermedad de Crohn",
+   "Intususcepción",
+   "Vólvulo"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la causa más frecuente de obstrucción del intestino delgado en países occidentales son las adherencias (más del 60%); las hernias son la tercera causa (cerca del 10%) y el Crohn la cuarta (cerca del 5%). Las adherencias no están entre las opciones. El libro de repaso ABSITE dice 'adherencias en el primer mundo; hernia en otros lugares'. Como la pregunta no dice el contexto y la causa más frecuente no figura, no se puede dar una clave sin elegir por descarte.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274-1275 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 134 del PDF"
+  ],
+  "nota": "Sin clave original. Entre las opciones listadas, hernias es la más frecuente según Sabiston (tercera causa), pero la respuesta correcta general (adherencias) no está.",
+  "tema": "intestino"
+ },
+ "b78d82a0a7": {
+  "k": "b78d82a0a7",
+  "estado": "nueva",
+  "stem": "Paciente con distensión abdominal y ausencia de deposiciones, ¿qué podríamos encontrar en la radiografía de abdomen simple de pie, que sustente el diagnóstico de obstrucción intestinal?",
+  "opts": [
+   "Dilatación de asas delgadas sin dilatación del colon",
+   "Ausencia de gas en el recto",
+   "Múltiples niveles hidroaéreos",
+   "Signo del denario"
+  ],
+  "ans": 2,
+  "why": "Sabiston: en la radiografía en bipedestación de la obstrucción intestinal se ven múltiples niveles hidroaéreos, en patrón escalonado. La dilatación de delgado sin dilatación del colon y la ausencia de aire rectal son hallazgos de la radiografía en decúbito supino (cuadro 50.2), no de pie. 'Signo del denario' no aparece en la fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1277 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ "654a596da6": {
+  "k": "654a596da6",
+  "estado": "nueva",
+  "stem": "Paciente varón de 60 años, con taquicardia, fiebre, leucocitosis y dolor abdominal constante, no espasmódico. ¿Cuál análisis sérico sería el más adecuado para detectar isquemia y estrangulación?",
+  "opts": [
+   "Lactato deshidrogenasa",
+   "Amilasa",
+   "Fosfatasa alcalina",
+   "Ninguno de los anteriores"
+  ],
+  "ans": 3,
+  "why": "Sabiston: se han propuesto análisis séricos como la lactato deshidrogenasa, la amilasa, la fosfatasa alcalina y el amoníaco, sin ningún beneficio real para detectar estrangulación. Por eso ninguna de las tres primeras es el análisis adecuado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1279 del PDF"
+  ],
+  "nota": "Sin clave original. Texto reparado: 'no espasmódico' viene del enunciado paralelo y de Sabiston (taquicardia, fiebre, leucocitosis y dolor constante, no espasmódico).",
+  "tema": "abdomen-agudo"
+ },
+ "a618bf7e70": {
+  "k": "a618bf7e70",
+  "estado": "nueva",
+  "stem": "Son causas de íleo:",
+  "opts": [
+   "Hipopotasemia, hiponatremia, uremia, opiáceos, psicotrópicos.",
+   "Hiperpotasemia, hipernatremia, uremia, opiáceos, psicotrópicos.",
+   "Hipopotasemia, hiponatremia, corticoides, loperamida",
+   "Hiperpotasemia, hipernatremia, corticoides, loperamida"
+  ],
+  "ans": 0,
+  "why": "El cuadro 50.3 de Sabiston lista como causas de íleo la hipopotasemia, la hiponatremia, la uremia, los opiáceos y los psicótropos. Las opciones B y D hablan de hiperpotasemia/hipernatremia, que el libro no menciona; C y D incluyen corticoides y loperamida, que tampoco figuran en la lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1282 del PDF"
+  ],
+  "nota": "Sin clave original. Pregunta repetida en el banco.",
+  "tema": "intestino"
+ },
+ "e83a294929": {
+  "k": "e83a294929",
+  "estado": "dudosa",
+  "stem": "Paciente hipertenso, con antecedente de isquemia cerebral hace 6 meses, con trombosis de la arteria mesentérica superior en su origen. ¿Qué área intestinal estará comprometida?",
+  "opts": [
+   "Solo colon derecho",
+   "Solo colon izquierdo",
+   "Duodeno y yeyuno",
+   "Yeyuno e íleon"
+  ],
+  "ans": null,
+  "why": "El libro de repaso explica que la trombosis de la mesentérica superior ocurre en su origen (sobre aterosclerosis) y por eso no respeta el yeyuno proximal, a diferencia de la embolia. Latarjet describe que la mesentérica superior da las ramas yeyunales e ileales. Así queda comprometido el yeyuno y el íleon; el colon izquierdo depende de la mesentérica inferior.",
+  "fuentes": [
+   "de Virgilio (ABSITE) 3.ª ed., p. 284 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 555 del PDF"
+  ],
+  "nota": "Respaldo indirecto: ninguna fuente enumera el territorio completo de la mesentérica superior en una frase; la opción elegida surge de la trombosis en el origen (sin respeto del yeyuno) más las ramas yeyunales e ileales. Sin clave original. Supervisión: ninguna fuente enumera el territorio afectado tal como lo dice la opción. Queda dudosa.",
+  "tema": "abdomen-agudo"
+ },
+ "ef47b5fb22": {
+  "k": "ef47b5fb22",
+  "estado": "nueva",
+  "stem": "¿Cuál es el subtipo de isquemia mesentérica más frecuente?",
+  "opts": [
+   "Trombótica",
+   "Embólica",
+   "Veno oclusiva",
+   "No oclusiva"
+  ],
+  "ans": 1,
+  "why": "El libro de repaso de cirugía (ABSITE) indica que la embolia desde un origen cardíaco es la causa más frecuente de isquemia mesentérica aguda (30-50% de los casos), sobre todo en fibrilación auricular, y que se localiza más a menudo en la mesentérica superior. Trombosis, venosa y no oclusiva son menos frecuentes.",
+  "fuentes": [
+   "de Virgilio (ABSITE) 3.ª ed., p. 283 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 275 del PDF"
+  ],
+  "nota": "Sin clave original. Sabiston (p. 1187) dice que la forma más frecuente de isquemia mesentérica es la isquemia aguda del colon (colitis isquémica), pero esta pregunta compara los subtipos de isquemia mesentérica aguda de origen vascular, que es lo que respalda ABSITE.",
+  "tema": "abdomen-agudo"
+ },
+ "ea344f7cde": {
+  "k": "ea344f7cde",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 60 años, con taquicardia, fiebre, leucocitosis y dolor abdominal constante, no espasmódico. Presenta valor sérico de citrulina normal. El diagnóstico de isquemia mesentérica:",
+  "opts": [
+   "Se confirma",
+   "Se descarta",
+   "Es no contributorio",
+   "Debe ser repetido"
+  ],
+  "ans": null,
+  "why": "Sabiston no da ninguna indicación sobre cómo interpretar la citrulina en isquemia mesentérica: solo dice que la citrulina de suero no se usa habitualmente como marcador (trasplante intestinal) y que podría servir para insuficiencia intestinal en intestino corto. Tampoco dice que un valor normal descarte o confirme isquemia. Sin fuente que lo respalde, no se elige ninguna.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 673 del PDF",
+   "Sabiston 21.ª ed., p. 1320 del PDF",
+   "Sabiston 21.ª ed., p. 1279 del PDF"
+  ],
+  "nota": "Sin clave original. Texto reparado con el original: 'no espasmódico' (el banco decía 'con espasmódico').",
+  "tema": "abdomen-agudo"
+ },
+ "069a6f0d85": {
+  "k": "069a6f0d85",
+  "estado": "nueva",
+  "stem": "Son causas de íleo:",
+  "opts": [
+   "Hipopotasemia, hiponatremia, uremia, opiáceos, psicotrópicos.",
+   "Hiperpotasemia, hipernatremia, uremia, opiáceos, psicotrópicos.",
+   "Hipopotasemia, hiponatremia, corticoides, loperamida",
+   "Hiperpotasemia, hipernatremia, corticoides, loperamida"
+  ],
+  "ans": 0,
+  "why": "El cuadro 50.3 de Sabiston lista como causas de íleo la hipopotasemia, la hiponatremia, la uremia, los opiáceos y los psicótropos. Las opciones B y D hablan de hiperpotasemia/hipernatremia, que el libro no menciona; C y D incluyen corticoides y loperamida, que tampoco figuran en la lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1282 del PDF"
+  ],
+  "nota": "Sin clave original. Pregunta repetida en el banco.",
+  "tema": "intestino"
+ },
+ "40a17a15f2": {
+  "k": "40a17a15f2",
+  "estado": "dudosa",
+  "stem": "Con respecto a la hernia inguinal indirecta en niños, ¿cuál de los siguientes factores no se considera asociado a bilateralidad?",
+  "opts": [
+   "Fibrosis quística",
+   "Derivaciones ventrículo-peritoneales por hidrocefalia",
+   "Ascitis",
+   "Sexo masculino"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la hernia inguinal pediátrica es unas 6 veces más frecuente en niños que en niñas y que el 10% es bilateral, y el libro de repaso ABSITE asocia fibrosis quística y derivaciones ventrículo-peritoneales con mayor riesgo de hernia inguinal. Ninguna fuente consultada relaciona estos factores (ni el sexo) con la bilateralidad en particular, así que no se puede decidir cuál 'no se asocia'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1892 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 43 del PDF"
+  ],
+  "nota": "Clave original: D (sexo masculino). No hay fuente que respalde ni contradiga esa clave; podría venir de la clase.",
+  "tema": "hernias"
  }
 }

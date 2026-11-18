@@ -1,0 +1,196 @@
+[
+ {
+  "k": "fea763cf45",
+  "stem": "Paciente mujer con un tiempo de enfermedad de 36 horas, dolor Abdominal en hipogastrio, Disuria leve, UPM hace 15 días. Al examen: Dolor a la palpación en cuadrante inferior derecho e hipogastrio. resistencia voluntaria a este nivel. RHA disminuidos. Ecografía: Líquido libre en fosa pélvica. ¿Qué conducta sería lo más aconsejable?",
+  "opts": [
+   "Laparotomía exploratoria",
+   "Observación y tratamiento médico",
+   "Laparoscopía DX y TX",
+   "Lavado peritoneal guiado con ecografía",
+   "Tratamiento antibiótico para ITU"
+  ],
+  "clave_original": "C",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "83c225cbd9",
+  "stem": "Respecto de la pared abdominal, es cierto: 1) La fascia de Scarpa se encuentra en el tejido celular subcutáneo abdominal 2) La fascia de Camper solo se encuentra en el hemiabdomen superi 3) Entre la región pubiana y el arco aponeurótico de Douglas solo peritoneo, grasa preperitoneal y fascia transversalis, por debajo de la 4) La irrigación de la pared abdominal se da fundamentalmente epigástricas superiores e inferiores 5) Las fibras colágenas y elásticas contribuyen a dar la resistencia de",
+  "opts": [
+   "1,2,3",
+   "2,3,4",
+   "1,3,5",
+   "1,2,5",
+   "3,4,5"
+  ],
+  "clave_original": "C",
+  "tema": "hernias"
+ },
+ {
+  "k": "57c3eb5672",
+  "stem": "En la clasificación de Nyhus para hernias inguinales, la hernia cuyo protruye medialmente a los vasos epigástricos, es de tipo:",
+  "opts": [
+   "I",
+   "II",
+   "Ill a",
+   "II b",
+   "III c"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "511f4d55dc",
+  "stem": "En la clasificación de Nyhus, en el tipo IV, es cierto:",
+  "opts": [
+   "El saco herniario puede protruir por el anillo inguinal profundo",
+   "Puede estar afectada la pared posterior del conducto inguinal",
+   "Ocurre por falla de la técnica operatoria en los primeros dos años",
+   "A+B+C",
+   "Ninguna"
+  ],
+  "clave_original": "D",
+  "tema": "hernias"
+ },
+ {
+  "k": "cdab18abb9",
+  "stem": "Diga si es verdadero (V) o falso (F): de toda la pared or. se encuentran: capa muscular por las arterias la línea alba os epigástricos r el triángulo de y crural saco herniario",
+  "opts": [
+   "La hernia incoercible, es aquella en la que el contenido herniario se puede reducir con facilidad....(F )",
+   "En la hernia de Littré el borde antimesentérico de la pared intestinal se encarcela dentro de un saco herniario causando estrangulación..( )",
+   "La mayoría de las hernias epigástricas se encuentran cerca al apéndice xifoides",
+   "Las hernias deben ser operadas, sin excepción …( )",
+   "Las hernias umbilicales pueden ser superiores, inferiores o directas…( )"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "aee61d16ee",
+  "stem": "Mujer de 80 años, funcionalmente activa, con cuadro de hernia crural derecha, no reductible, con distensión abdominal y ausencia de deposiciones varios días. Goldman III/V - ASA IV. ¿Cuál es su conducta?",
+  "opts": [
+   "Hernioplastia convencional",
+   "No operación",
+   "Hernioplastía laparoscópica",
+   "Laparotomía",
+   "Reducción manual"
+  ],
+  "clave_original": "D",
+  "tema": "hernias"
+ },
+ {
+  "k": "237c3fede2",
+  "stem": "El ligamento lacunar o de Gimbernat es una derivación de una de las siguientes estructuras:",
+  "opts": [
+   "Aponeurosis del oblicuo externo, Es una expansión del ligamento inguinal (que es una prolongación de la aponeurosis del oblicuo externo).",
+   "Músculo oblicuo interno",
+   "Músculo transverso del abdomen",
+   "Fascia transversalis",
+   "Espacio de Bogros"
+  ],
+  "clave_original": "A",
+  "tema": "hernias"
+ },
+ {
+  "k": "394ce91861",
+  "stem": "La hernioplastía de la hernia inguinal directa que aproxima el ligamento inguinal con el tendón conjunto, haciendo uso de prótesis, se denomina: :",
+  "opts": [
+   "Bassini",
+   "Ferguson",
+   "Liechtenstein, Es una expansión del ligamento inguinal (que es una prolongación de la aponeurosis del oblicuo externo).",
+   "Mac Vay",
+   "Shouldice"
+  ],
+  "clave_original": "C",
+  "tema": "hernias"
+ },
+ {
+  "k": "0f1eb6b85c",
+  "stem": "¿Cuál de las siguientes hernias no corresponde a la clasificación de Nyhus?",
+  "opts": [
+   "Femoral recurrente",
+   "Combinada",
+   "Directa primaria",
+   "Indirecta recurrente",
+   "Umbilical, La clasificación de Nyhus es exclusiva"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "783f8000d8",
+  "stem": "Las Hernias inguinales se clasifican, según su ubicación epigástricos inferiores en:",
+  "opts": [
+   "Ventral y Abdominal",
+   "Lateral y Medial",
+   "Directa e Indirecta",
+   "Estrangulada e Incarcerada",
+   "Anterior y Posterior"
+  ],
+  "clave_original": "C",
+  "tema": "hernias"
+ },
+ {
+  "k": "ef5d9cc47b",
+  "stem": "Respecto a las ventajas del abordaje Laparoscópico en hernioplastía inguinal, CORRECTO:",
+  "opts": [
+   "Menor dolor postoperatorio",
+   "Retorno precoz a las actividades laborales",
+   "Curva de aprendizaje más larga que la técnica abierta",
+   "Visión amplia del orificio miopectío"
+  ],
+  "clave_original": null,
+  "tema": "hernias"
+ },
+ {
+  "k": "e486be6095",
+  "stem": "Cuáles de las siguientes Técnicas Quirúrgicas, se utilizan para reparar hernias inguinales:",
+  "opts": [
+   "Bassini",
+   "Mc Vay",
+   "Shouldice",
+   "Todas",
+   "Ninguna"
+  ],
+  "clave_original": "D",
+  "tema": "hernias"
+ },
+ {
+  "k": "b5d9fb51fb",
+  "stem": "Una mujer de 65 años acude al médico debido a una hinchazón en la ingle durante las últimas 4 semanas. La hinchazón causa malestar, pero no dolor. Los signos vitales están dentro de los límites normales. El exámen muestra un abdomen blando e indoloro. Los pulsos femorales son normales. Hay una masa debajo del ligamento inguinal no pulsátil, blanda e indolora en el lado izquierdo y aumenta de tamaño cuando se le pide al paciente que tosa. Pero no desaparece. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?",
+  "opts": [
+   "Linfadenomegalias inguinales.",
+   "Absceso de psoas ilíaco",
+   "Debilidad de la fascia transversalis",
+   "Pseudoaneurisma de arteria femoral.",
+   "Hernia crural incarcerada.: Masa debajo del ligamento inguinal, indolora pero no reductible → probable hernia crural incarcerada."
+  ],
+  "clave_original": "E",
+  "tema": "hernias"
+ },
+ {
+  "k": "4ff470e539",
+  "stem": "Un hombre de 79 años es llevado al servicio de urgencias debido a un historial de 1 hora de dolor intenso en la ingle, náuseas y vómitos. Informa que ha tenido una hinchazón en la ingle durante los últimos 3 meses, El examen muestra una masa abultada no reductible en la ingle izquierda que se proyecta a la región escrotal, que es muy sensible a la palpación; la piel suprayacente es eritematosa. ¿Cuál de los siguientes es el Diagnóstico más probable E",
+  "opts": [
+   "Hernia Inguinal complicada",
+   "Hernia crural estrangulada",
+   "Hernia Inguino - escrotal estrangulada.",
+   "Hernia de Richter",
+   "Hernia Inguinal incarcerada"
+  ],
+  "clave_original": "C",
+  "tema": "hernias"
+ },
+ {
+  "k": "b51aa8c93a",
+  "stem": "La técnica de Shouldice en la reparación de la hernia inguinal consiste en:",
+  "opts": [
+   "Aplicar un tapón cónico al orificio inguinal interno",
+   "Fijación del tendón conjunto al ligamento de Cooper",
+   "Amoldar una malla al conducto inguinal",
+   "Reparación y reforzamiento de la pared posterior del conducto inguinal",
+   "Fijación del tendón conjunto al ligamento inguinal"
+  ],
+  "clave_original": "D",
+  "tema": "hernias"
+ }
+]

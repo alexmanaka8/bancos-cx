@@ -1,0 +1,273 @@
+[
+ {
+  "k": "0e1155fffe",
+  "estado": "dudosa",
+  "stem": "En la enfermedad de Crohn, no se encuentra:",
+  "opts": [
+   "Granulomas",
+   "Pseudopólipos",
+   "Afectación transmural",
+   "Afectación segmentaria",
+   "Aspecto de empedrado de la mucosa"
+  ],
+  "ans": null,
+  "why": "Sabiston describe en el Crohn los granulomas no caseosos, la inflamación transmural, el proceso discontinuo y segmentario y el aspecto en adoquinado. Giménez dice que en el Crohn 'también pueden aparecer pólipos inflamatorios', aunque su cuadro de diferencias los pone como rasgo de la colitis ulcerosa. Como una fuente dice que pueden aparecer en el Crohn, ninguna opción queda claramente como 'no se encuentra'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 664 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. Lo esperado por el examen probablemente es 'Pseudopólipos' (típicos de colitis ulcerosa), pero el libro no lo respalda de forma directa; por eso queda dudosa."
+ },
+ {
+  "k": "d6344627b5",
+  "estado": "nueva",
+  "stem": "En relación con la enfermedad de Crohn, ¿cuál de las siguientes afirmaciones es incorrecta?",
+  "opts": [
+   "La inflamación es un proceso transmural",
+   "Las fístulas, fisuras y abscesos perineales son frecuentes",
+   "La lesión aftoide es la manifestación más temprana",
+   "Son frecuentes los síntomas sistémicos",
+   "Se inicia siempre en el recto y se extiende a todo el colon"
+  ],
+  "ans": 4,
+  "why": "Sabiston dice que en el Crohn la falta de lesión rectal es característica del Crohn del colon y que el proceso es discontinuo y segmentario; por eso 'se inicia siempre en el recto' es falso (eso es de la colitis ulcerosa). Las demás son ciertas: la inflamación es transmural, un tercio tiene daño perianal y perirrectal, la lesión macroscópica más precoz es la úlcera aftosa y hay febrícula, adelgazamiento y malestar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Sabiston 21.ª ed., p. 1285 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "955df6fae0",
+  "estado": "nueva",
+  "stem": "En el 85 % de los pacientes con enteritis tuberculosa el sitio de afección es:",
+  "opts": [
+   "Duodeno",
+   "Yeyuno",
+   "Región ileocecal",
+   "Yeyuno-ileon",
+   "Ciego"
+  ],
+  "ans": 2,
+  "why": "Sabiston: el foco más frecuente de lesión intestinal por M. tuberculosis es el íleon distal y el ciego, es decir la región ileocecal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1296 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sabiston da aproximadamente 90% y no 85%; el sitio coincide con la opción C."
+ },
+ {
+  "k": "68f94799b6",
+  "estado": "dudosa",
+  "stem": "La manifestación clínica más común de un divertículo de Meckel es:",
+  "opts": [
+   "Diverticulitis",
+   "Hemorragia gastrointestinal",
+   "Obstrucción intestinal",
+   "Perforación y peritonitis",
+   "Vólvulo del intestino delgado"
+  ],
+  "ans": null,
+  "why": "Sabiston: la presentación clínica habitual del divertículo de Meckel es la hemorragia digestiva, y en otro capítulo dice que el síntoma de presentación más frecuente es la hemorragia digestiva baja indolora y masiva en niños pequeños. La obstrucción es 'otro síntoma frecuente' y la diverticulitis es 10-20% de los casos sintomáticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El respaldo es el libro; la pregunta no dice edad. En adultos la obstrucción también es muy frecuente, pero el libro nombra la hemorragia como la habitual. Supervisión: la complicación más frecuente cambia entre niños y adultos, y la pregunta no dice la edad. Queda dudosa."
+ },
+ {
+  "k": "9febfd07c3",
+  "estado": "nueva",
+  "stem": "Los bacilos en la TBC intestinal se asientan más a menudo en:",
+  "opts": [
+   "Yeyuno",
+   "Íleon",
+   "Colon ascendente",
+   "Todas las anteriores",
+   "Solo A y B"
+  ],
+  "ans": 1,
+  "why": "Sabiston: el foco más frecuente de la tuberculosis intestinal es el íleon distal y el ciego (cerca del 90% en esa región). La opción que lo nombra es el íleon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1296 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Respaldo algo indirecto: el libro dice 'íleon distal y ciego'; el ciego no es exactamente 'colon ascendente'. El enunciado estaba mezclado y se reparó con el original."
+ },
+ {
+  "k": "1062c07b78",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre el síndrome de intestino corto es correcta?",
+  "opts": [
+   "Es más común en el colon",
+   "La pérdida de más de 75% del intestino delgado usualmente causa insuficiencia intestinal",
+   "La resección ileal es menos problemática que la resección yeyunal",
+   "Los pacientes siempre requieren nutrición parenteral de por vida",
+   "Es importante preservar el yeyuno porque absorbe vit B12"
+  ],
+  "ans": 1,
+  "why": "Sabiston: como regla empírica, el síndrome de intestino corto y la falta de autonomía enteral se esperan tras resecar más del 75% del intestino. Las otras son falsas: el síndrome se da en el intestino delgado, la resección proximal se tolera mejor que la distal (el íleon absorbe sales biliares y B12, y se adapta mejor), y la dependencia de NPT depende de la longitud y la salud del intestino restante.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 668 del PDF",
+   "Sabiston 21.ª ed., p. 1320 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "96117eb9e9",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más común de obstrucción del intestino delgado en adultos?",
+  "opts": [
+   "Vólvulo",
+   "Hernias",
+   "Adherencias",
+   "Neoplasias",
+   "Parasitosis"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la causa más frecuente de obstrucción intestinal en los países occidentales es el síndrome adherencial; en el cuadro de causas de obstrucción del delgado en adultos, las adherencias (casi siempre postoperatorias) encabezan la lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274 del PDF",
+   "Sabiston 21.ª ed., p. 1276 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "df90a6445f",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la manifestación clínica más frecuente de un tumor carcinoide del intestino delgado?",
+  "opts": [
+   "Sangrado gastrointestinal",
+   "Dolor abdominal intermitente",
+   "Obstrucción intestinal",
+   "Pérdida de peso",
+   "Hematoquesia"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que sin síndrome carcinoide los síntomas más habituales son 'dolor abdominal asociado, en grado variable, con una obstrucción intestinal parcial o completa'. Con eso, tanto 'dolor abdominal intermitente' como 'obstrucción intestinal' son defendibles y el libro no elige una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1302 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sin clave original. Probablemente el examen espera dolor abdominal, pero el libro junta dolor y obstrucción."
+ },
+ {
+  "k": "56fb106e43",
+  "estado": "nueva",
+  "stem": "¿Qué técnica quirúrgica se utiliza con mayor frecuencia para el tratamiento de una obstrucción intestinal mecánica causada por adherencias?",
+  "opts": [
+   "Resección segmentaria del intestino delgado",
+   "Enterostomía de alivio",
+   "Adhesiólisis",
+   "Anastomosis en puente",
+   "Intubación de yeyuno"
+  ],
+  "ans": 2,
+  "why": "Sabiston: los pacientes con obstrucción por una brida adherida se tratan mediante disolución (liberación) de la adherencia correspondiente, con cuidado para no lesionar la serosa ni hacer enterotomías.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Respaldo algo indirecto: el libro describe la liberación de la brida como el manejo de la obstrucción adherencial, pero no usa la frase 'con mayor frecuencia'."
+ },
+ {
+  "k": "dd1cc73c47",
+  "estado": "dudosa",
+  "stem": "En pacientes con enfermedad celíaca, ¿cuál es el hallazgo histopatológico más común en el intestino delgado?",
+  "opts": [
+   "Hiperplasia de las criptas",
+   "Atrofia de las vellosidades",
+   "Infiltración eosinofílica",
+   "Granulomas no caseificantes",
+   "Patrón histopatológico"
+  ],
+  "ans": null,
+  "why": "Una revisión de la enfermedad celíaca dice que la lesión típica muestra atrofia de las vellosidades con cambio en la relación vellosidad/cripta y aumento de linfocitos intraepiteliales. Los granulomas son del Crohn y la infiltración eosinofílica no es el hallazgo de la celíaca.",
+  "fuentes": [
+   "Caio G et al. Celiac disease: a comprehensive current review. BMC Med 2019 (PMC6647104, https://europepmc.org/article/PMC/PMC6647104)"
+  ],
+  "tema": "intestino",
+  "nota": "Fuente externa (revisión revisada por pares). La hiperplasia de criptas también forma parte de la lesión, pero la atrofia vellositaria es la que la revisión nombra como lesión típica. La opción E está cortada también en el original. Supervisión: los libros no lo respaldan y hay dos opciones defendibles. Queda dudosa."
+ },
+ {
+  "k": "ee2458d64e",
+  "estado": "nueva",
+  "stem": "¿Qué hallazgo histopatológico es característico de la enfermedad de Crohn?",
+  "opts": [
+   "Atrofia de las vellosidades",
+   "Células en anillo de sello",
+   "Úlceras lineales",
+   "Infiltración eosinofílica",
+   "Granuloma no caseificante"
+  ],
+  "ans": 4,
+  "why": "Sabiston: las lesiones histológicas características del Crohn son los granulomas no caseosos con células gigantes de Langerhans. Giménez los llama el dato histológico patognomónico. Las úlceras lineales son un hallazgo macroscópico, no histológico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Sabiston 21.ª ed., p. 1285 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 664 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "9bcd6b32cd",
+  "estado": "nueva",
+  "stem": "Varón de 76 años, hace 3 días presenta dolor abdominal en hipogastrio, falta de apetito. Deposiciones líquidas 2 cámaras/día y dificultad para caminar. Examen: PA: 100/70 mmHg, T°: 37°C, FC: 95 x', FR: 25 x'; abdomen doloroso a la palpación profunda en hemiabdomen inferior, signo de McBurney dudoso, Blumberg (+), Laboratorio: leucocitos: 8500 por mm3 con 10 abastonados. Ecografía: líquido libre aprox. 300 ml en Douglas. ¿Qué solicitaría para llegar al diagnóstico?",
+  "opts": [
+   "Colonoscopía",
+   "Rx. colon con enema",
+   "Hemograma control",
+   "Ecografía control",
+   "TAC contrastada"
+  ],
+  "ans": 4,
+  "why": "Sabiston recomienda la TC en el anciano con sospecha de apendicitis por su presentación atípica y su diagnóstico diferencial amplio, y Giménez la llama el estudio de elección (gold standard) en la diverticulitis aguda. Con signos peritoneales, la colonoscopía y el colon por enema no son adecuados, y repetir hemograma o ecografía no da el diagnóstico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 328 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 683 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Respaldo indirecto: el caso no dice si es apendicitis o diverticulitis, pero para ambas el libro recomienda la TC. Ver la lista completa del caso en el original (opciones D y E en la página siguiente)."
+ },
+ {
+  "k": "c5fe1fbb34",
+  "estado": "dudosa",
+  "stem": "Una mujer de 80 años es traída al servicio de urgencias por un cuadro de dolor abdominal agudo que se acompaña de hipotensión, taquicardia y fiebre de 38 °C. Entre sus antecedentes destaca una resección de colon izquierdo por carcinoma siete días antes. Tras la reanimación inicial se realiza una radiografía simple de tórax que resulta diagnóstica de",
+  "opts": [
+   "Neumoperitoneo",
+   "Obstrucción intestinal",
+   "Hernia crural estrangulada",
+   "Neumotórax izquierdo",
+   "Isquemia mesentérica"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que las fugas de anastomosis de colon aparecen entre el día 5 y el 7 y que se estudian con TC o contraste hidrosoluble; no dice que la radiografía de tórax sea diagnóstica. No encontré en los libros una fuente que respalde directamente 'neumoperitoneo en la radiografía de tórax' como diagnóstico aquí.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 295 del PDF",
+   "Sabiston 21.ª ed., p. 1410 del PDF"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: A (neumoperitoneo). Es plausible como respuesta del examen, pero sin fuente que la respalde de forma directa queda dudosa."
+ },
+ {
+  "k": "ad5f72037b",
+  "estado": "confirmada",
+  "stem": "Paciente con obstrucción intestinal por tumor de colon izquierdo perforado + peritonitis generalizada + sepsis. La conducta más adecuada sería:",
+  "opts": [
+   "Laparotomía + resección de tumor + anastomosis término terminal + lavado de cavidad peritoneal",
+   "Laparotomía + resección de tumor + colostomía + lavado de cavidad peritoneal",
+   "Laparotomía + rafia de perforación + lavado de cavidad peritoneal",
+   "Laparotomía + colectomía total + ileostomía + lavado de cavidad peritoneal"
+  ],
+  "ans": 1,
+  "why": "Sabiston: en la obstrucción del colon izquierdo se hace resección segmentaria del tumor primario; históricamente se evita la anastomosis primaria, dejando el muñón distal cerrado y un estoma proximal (operación de Hartmann). La colectomía subtotal se reserva si el colon proximal está perforado o isquémico. Giménez indica Hartmann ante peritonitis fecal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1401 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 684 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Respaldo algo indirecto: Sabiston no trata este caso séptico con las mismas palabras, y Giménez cita Hartmann en la peritonitis de la diverticulitis (Hinchey IV)."
+ }
+]

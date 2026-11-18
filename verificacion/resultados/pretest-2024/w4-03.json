@@ -1,0 +1,265 @@
+[
+ {
+  "k": "5bf59f57b2",
+  "estado": "confirmada",
+  "stem": "Obstrucción con un suministro de sangre comprometido.",
+  "opts": [
+   "Obstrucción completa o de alto grado.",
+   "Obstrucción incompleta, parcial o de bajo grado.",
+   "Obstrucción en asa cerrada.",
+   "Obstrucción estrangulada",
+   "Gracias"
+  ],
+  "ans": 3,
+  "why": "Sabiston explica que la obstrucción con estrangulación afecta a la vascularización de un segmento intestinal y puede seguirse de infarto. Por eso la obstrucción con el riego sanguíneo comprometido es la estrangulada. Completa/alto grado y parcial/bajo grado solo describen cuánto se tapa la luz, y la de asa cerrada describe que ambos extremos están bloqueados; ninguna habla del riego.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1279 del PDF",
+   "Sabiston 21.ª ed., p. 286 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). En el original la opción e dice 'Gracias' (opción sin sentido); se dejó tal cual. Se quitó un punto suelto del texto de la opción D.",
+  "tema": "intestino"
+ },
+ {
+  "k": "943c1a01fa",
+  "estado": "dudosa",
+  "stem": "Varón de 64 años, desde hace 30 días con distensión abdominal superior e intolerancia progresiva a sólidos y luego a líquidos; la distensión cede después de vómitos. ¿Qué diagnóstico considerarías más probable?",
+  "opts": [
+   "Adherencias",
+   "Íleo biliar",
+   "Absceso",
+   "Carcinoma"
+  ],
+  "ans": null,
+  "why": "El cuadro (distensión de abdomen alto, intolerancia progresiva a sólidos y luego líquidos, alivio con vómitos) es el de una obstrucción de la salida gástrica. Sabiston dice que las náuseas y vómitos son más marcados en las obstrucciones altas y que el cáncer gástrico es la causa más frecuente de la obstrucción pilórica. Adherencias, íleo biliar y absceso no explican una evolución progresiva de 30 días en un adulto mayor con obstrucción alta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1237 del PDF",
+   "Sabiston 21.ª ed., p. 1277 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). Respaldo indirecto: el libro no describe este caso; se apoya en que la obstrucción alta cursa con vómitos y en que el cáncer gástrico es la causa más frecuente de obstrucción pilórica. En el original dice 'fuego a líquidos' (error de escritura de 'luego'); se corrigió. Supervisión: el libro no describe este caso; el respaldo es indirecto. Queda dudosa.",
+  "tema": "intestino"
+ },
+ {
+  "k": "f805002ae7",
+  "estado": "dudosa",
+  "stem": "Paciente con obstrucción intestinal en asa cerrada:",
+  "opts": [
+   "Está bloqueada solo la parte distal del segmento afectado",
+   "Habitualmente en casos de adherencias",
+   "Habitualmente en casos de hernia estrangulada",
+   "Se identifica por dolor localizado en mesogastrio"
+  ],
+  "ans": null,
+  "why": "Sabiston define la obstrucción de asa cerrada como la que tiene ambos extremos de un segmento bloqueados, por una brida o por una hernia interna; por eso la opción A (solo la parte distal) es falsa. Pero las opciones B (adherencias) y C (hernia estrangulada) son ambas defendibles: el libro menciona bridas y también hernias incarceradas y vólvulo como causas. Ninguna fuente dice cuál es la 'habitual', así que no se puede elegir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1279 del PDF",
+   "Sabiston 21.ª ed., p. 1365 del PDF"
+  ],
+  "nota": "Sin clave original en el banco.",
+  "tema": "intestino"
+ },
+ {
+  "k": "83245946aa",
+  "estado": "nueva",
+  "stem": "En un paciente con obstrucción intestinal por cáncer de colon, que presenta una válvula ileocecal competente:",
+  "opts": [
+   "La válvula permite el reflujo del contenido intestinal hacia el intestino delgado",
+   "Hay dilatación del colon y del intestino delgado",
+   "Hay dilatación del colon, pero no del intestino delgado",
+   "Presentan un cuadro obstructivo de una manera menos aguda que en caso de una válvula ileocecal incompetente"
+  ],
+  "ans": 2,
+  "why": "Con válvula ileocecal competente no hay reflujo hacia el intestino delgado, así que se forma un asa cerrada: el colon se distiende y el intestino delgado queda descomprimido (el libro de repaso lo usa como prueba de que la válvula es competente). A es falsa porque el reflujo ocurre con válvula incompetente. D es falsa: la incompetente es la que se presenta de forma menos aguda. B describe la válvula incompetente.",
+  "fuentes": [
+   "de Virgilio (ABSITE) 3.ª ed., p. 179 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 161 del PDF",
+   "Sabiston 21.ª ed., p. 1364 del PDF",
+   "Sabiston 21.ª ed., p. 1346 del PDF"
+  ],
+  "nota": "Sabiston aclara que, con el tiempo, también se distiende la porción proximal del asa cerrada, pero la distensión inicial es del colon y la diferencia con la válvula incompetente (dilatación del delgado) es lo que respaldan ABSITE y Sabiston.",
+  "tema": "intestino"
+ },
+ {
+  "k": "dfa9b2f7bd",
+  "estado": "nueva",
+  "stem": "En un paciente con obstrucción intestinal del colon por cáncer, la necrosis y perforación suele aparecer en:",
+  "opts": [
+   "El ciego",
+   "El colon sigmoides",
+   "El colon transverso",
+   "En el ángulo esplénico del colon"
+  ],
+  "ans": 0,
+  "why": "Sabiston: aunque la mayoría de las obstrucciones malignas están en el colon distal, la necrosis y perforación suelen aparecer en el ciego, porque tiene el diámetro más grande y, por la ley de Laplace, se distiende más con presiones bajas y tiene mayor tensión en la pared.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1365 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "c151433383",
+  "estado": "dudosa",
+  "stem": "La causa más frecuente de obstrucción intestinal de intestino delgado en adultos:",
+  "opts": [
+   "Hernias",
+   "Enfermedad de Crohn",
+   "Intususcepción",
+   "Vólvulo"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la causa más frecuente de obstrucción del intestino delgado en países occidentales son las adherencias (más del 60%); las hernias son la tercera causa (cerca del 10%) y el Crohn la cuarta (cerca del 5%). Las adherencias no están entre las opciones. El libro de repaso ABSITE dice 'adherencias en el primer mundo; hernia en otros lugares'. Como la pregunta no dice el contexto y la causa más frecuente no figura, no se puede dar una clave sin elegir por descarte.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1274-1275 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 134 del PDF"
+  ],
+  "nota": "Sin clave original. Entre las opciones listadas, hernias es la más frecuente según Sabiston (tercera causa), pero la respuesta correcta general (adherencias) no está.",
+  "tema": "intestino"
+ },
+ {
+  "k": "b78d82a0a7",
+  "estado": "nueva",
+  "stem": "Paciente con distensión abdominal y ausencia de deposiciones, ¿qué podríamos encontrar en la radiografía de abdomen simple de pie, que sustente el diagnóstico de obstrucción intestinal?",
+  "opts": [
+   "Dilatación de asas delgadas sin dilatación del colon",
+   "Ausencia de gas en el recto",
+   "Múltiples niveles hidroaéreos",
+   "Signo del denario"
+  ],
+  "ans": 2,
+  "why": "Sabiston: en la radiografía en bipedestación de la obstrucción intestinal se ven múltiples niveles hidroaéreos, en patrón escalonado. La dilatación de delgado sin dilatación del colon y la ausencia de aire rectal son hallazgos de la radiografía en decúbito supino (cuadro 50.2), no de pie. 'Signo del denario' no aparece en la fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1277 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "654a596da6",
+  "estado": "nueva",
+  "stem": "Paciente varón de 60 años, con taquicardia, fiebre, leucocitosis y dolor abdominal constante, no espasmódico. ¿Cuál análisis sérico sería el más adecuado para detectar isquemia y estrangulación?",
+  "opts": [
+   "Lactato deshidrogenasa",
+   "Amilasa",
+   "Fosfatasa alcalina",
+   "Ninguno de los anteriores"
+  ],
+  "ans": 3,
+  "why": "Sabiston: se han propuesto análisis séricos como la lactato deshidrogenasa, la amilasa, la fosfatasa alcalina y el amoníaco, sin ningún beneficio real para detectar estrangulación. Por eso ninguna de las tres primeras es el análisis adecuado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1279 del PDF"
+  ],
+  "nota": "Sin clave original. Texto reparado: 'no espasmódico' viene del enunciado paralelo y de Sabiston (taquicardia, fiebre, leucocitosis y dolor constante, no espasmódico).",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a618bf7e70",
+  "estado": "nueva",
+  "stem": "Son causas de íleo:",
+  "opts": [
+   "Hipopotasemia, hiponatremia, uremia, opiáceos, psicotrópicos.",
+   "Hiperpotasemia, hipernatremia, uremia, opiáceos, psicotrópicos.",
+   "Hipopotasemia, hiponatremia, corticoides, loperamida",
+   "Hiperpotasemia, hipernatremia, corticoides, loperamida"
+  ],
+  "ans": 0,
+  "why": "El cuadro 50.3 de Sabiston lista como causas de íleo la hipopotasemia, la hiponatremia, la uremia, los opiáceos y los psicótropos. Las opciones B y D hablan de hiperpotasemia/hipernatremia, que el libro no menciona; C y D incluyen corticoides y loperamida, que tampoco figuran en la lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1282 del PDF"
+  ],
+  "nota": "Sin clave original. Pregunta repetida en el banco.",
+  "tema": "intestino"
+ },
+ {
+  "k": "e83a294929",
+  "estado": "dudosa",
+  "stem": "Paciente hipertenso, con antecedente de isquemia cerebral hace 6 meses, con trombosis de la arteria mesentérica superior en su origen. ¿Qué área intestinal estará comprometida?",
+  "opts": [
+   "Solo colon derecho",
+   "Solo colon izquierdo",
+   "Duodeno y yeyuno",
+   "Yeyuno e íleon"
+  ],
+  "ans": null,
+  "why": "El libro de repaso explica que la trombosis de la mesentérica superior ocurre en su origen (sobre aterosclerosis) y por eso no respeta el yeyuno proximal, a diferencia de la embolia. Latarjet describe que la mesentérica superior da las ramas yeyunales e ileales. Así queda comprometido el yeyuno y el íleon; el colon izquierdo depende de la mesentérica inferior.",
+  "fuentes": [
+   "de Virgilio (ABSITE) 3.ª ed., p. 284 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 555 del PDF"
+  ],
+  "nota": "Respaldo indirecto: ninguna fuente enumera el territorio completo de la mesentérica superior en una frase; la opción elegida surge de la trombosis en el origen (sin respeto del yeyuno) más las ramas yeyunales e ileales. Sin clave original. Supervisión: ninguna fuente enumera el territorio afectado tal como lo dice la opción. Queda dudosa.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "ef47b5fb22",
+  "estado": "nueva",
+  "stem": "¿Cuál es el subtipo de isquemia mesentérica más frecuente?",
+  "opts": [
+   "Trombótica",
+   "Embólica",
+   "Veno oclusiva",
+   "No oclusiva"
+  ],
+  "ans": 1,
+  "why": "El libro de repaso de cirugía (ABSITE) indica que la embolia desde un origen cardíaco es la causa más frecuente de isquemia mesentérica aguda (30-50% de los casos), sobre todo en fibrilación auricular, y que se localiza más a menudo en la mesentérica superior. Trombosis, venosa y no oclusiva son menos frecuentes.",
+  "fuentes": [
+   "de Virgilio (ABSITE) 3.ª ed., p. 283 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 275 del PDF"
+  ],
+  "nota": "Sin clave original. Sabiston (p. 1187) dice que la forma más frecuente de isquemia mesentérica es la isquemia aguda del colon (colitis isquémica), pero esta pregunta compara los subtipos de isquemia mesentérica aguda de origen vascular, que es lo que respalda ABSITE.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "ea344f7cde",
+  "estado": "dudosa",
+  "stem": "Paciente varón de 60 años, con taquicardia, fiebre, leucocitosis y dolor abdominal constante, no espasmódico. Presenta valor sérico de citrulina normal. El diagnóstico de isquemia mesentérica:",
+  "opts": [
+   "Se confirma",
+   "Se descarta",
+   "Es no contributorio",
+   "Debe ser repetido"
+  ],
+  "ans": null,
+  "why": "Sabiston no da ninguna indicación sobre cómo interpretar la citrulina en isquemia mesentérica: solo dice que la citrulina de suero no se usa habitualmente como marcador (trasplante intestinal) y que podría servir para insuficiencia intestinal en intestino corto. Tampoco dice que un valor normal descarte o confirme isquemia. Sin fuente que lo respalde, no se elige ninguna.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 673 del PDF",
+   "Sabiston 21.ª ed., p. 1320 del PDF",
+   "Sabiston 21.ª ed., p. 1279 del PDF"
+  ],
+  "nota": "Sin clave original. Texto reparado con el original: 'no espasmódico' (el banco decía 'con espasmódico').",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "069a6f0d85",
+  "estado": "nueva",
+  "stem": "Son causas de íleo:",
+  "opts": [
+   "Hipopotasemia, hiponatremia, uremia, opiáceos, psicotrópicos.",
+   "Hiperpotasemia, hipernatremia, uremia, opiáceos, psicotrópicos.",
+   "Hipopotasemia, hiponatremia, corticoides, loperamida",
+   "Hiperpotasemia, hipernatremia, corticoides, loperamida"
+  ],
+  "ans": 0,
+  "why": "El cuadro 50.3 de Sabiston lista como causas de íleo la hipopotasemia, la hiponatremia, la uremia, los opiáceos y los psicótropos. Las opciones B y D hablan de hiperpotasemia/hipernatremia, que el libro no menciona; C y D incluyen corticoides y loperamida, que tampoco figuran en la lista.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1282 del PDF"
+  ],
+  "nota": "Sin clave original. Pregunta repetida en el banco.",
+  "tema": "intestino"
+ },
+ {
+  "k": "40a17a15f2",
+  "estado": "dudosa",
+  "stem": "Con respecto a la hernia inguinal indirecta en niños, ¿cuál de los siguientes factores no se considera asociado a bilateralidad?",
+  "opts": [
+   "Fibrosis quística",
+   "Derivaciones ventrículo-peritoneales por hidrocefalia",
+   "Ascitis",
+   "Sexo masculino"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la hernia inguinal pediátrica es unas 6 veces más frecuente en niños que en niñas y que el 10% es bilateral, y el libro de repaso ABSITE asocia fibrosis quística y derivaciones ventrículo-peritoneales con mayor riesgo de hernia inguinal. Ninguna fuente consultada relaciona estos factores (ni el sexo) con la bilateralidad en particular, así que no se puede decidir cuál 'no se asocia'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1892 del PDF",
+   "de Virgilio (ABSITE) 3.ª ed., p. 43 del PDF"
+  ],
+  "nota": "Clave original: D (sexo masculino). No hay fuente que respalde ni contradiga esa clave; podría venir de la clase.",
+  "tema": "hernias"
+ }
+]
