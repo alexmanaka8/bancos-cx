@@ -1,0 +1,290 @@
+[
+ {
+  "k": "6e9e9c9506",
+  "sec": "Politraumatizados",
+  "stem": "Un hombre de 45 años se presenta con quemaduras de segundo y tercer grado en la cara anterior de ambos brazos y toda la pierna derecha. También tiene quemaduras superficiales en ambas manos. ¿Cuál es su área de superficie corporal total (TBSA) quemada estimada?",
+  "opts": [
+   "25%",
+   "27%",
+   "29%",
+   "36%",
+   "38%"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 61,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "980476c4b2",
+  "sec": "Politraumatizados",
+  "stem": "Un hombre de 45 años es llevado al ED después de una GSW en la pierna derecha. Está hipotenso, con gran pérdida de sangre en la escena. Se inicia un protocolo de transfusión masiva. Luego de un injerto venoso interpuesto por transección de la arteria femoral superficial, es ingresado en UCI para observación. A la mañana siguiente, se encuentra oligúrico, con presión pico en vías respiratorias elevada y abdomen distendido. ¿Cuál de los siguientes hallazgos se esperaría en este paciente?",
+  "opts": [
+   "Aumento de la complianza pulmonar",
+   "Aumento de la capacidad funcional residual (FRC)",
+   "Disminución de la resistencia vascular pulmonar",
+   "Aumento de la presión capilar pulmonar en cuña",
+   "Aumento del retorno venoso"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 61,
+  "motivo": "semana 4",
+  "tema": "shock"
+ },
+ {
+  "k": "12d019d1df",
+  "sec": "Politraumatizados",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las quemaduras?",
+  "opts": [
+   "Las quemaduras superficiales de espesor parcial no forman ampollas",
+   "Las quemaduras de espesor total (tercer grado) pueden afectar la fascia subyacente",
+   "Las quemaduras profundas de espesor parcial",
+   "Las quemaduras profundas de espesor parcial a menudo sanan espontáneamente",
+   "Las quemaduras superficiales de espesor parcial no son dolorosas"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 61,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "fe1d172c77",
+  "sec": "Politraumatizados",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta sobre antimicrobianos tópicos comunes en el manejo de quemaduras?",
+  "opts": [
+   "El acetato de mafenida causa alcalosis respiratoria al aumentar la ventilación alveolar",
+   "La sulfadiazina de plata tiene amplia cobertura contra Pseudomonas",
+   "La bacitracina tiene cobertura contra bacterias gramnegativas",
+   "El nitrato de plata puede usarse en pacientes alérgicos a las sulfas",
+   "La sulfadiazina de plata puede causar alteraciones electrolíticas"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 62,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "d461e44962",
+  "sec": "Politraumatizados",
+  "stem": "¿Cuál de las siguientes es una indicación para transferir un paciente a un centro especializado en quemaduras?",
+  "opts": [
+   "Mujer de 45 años con quemaduras de primer grado en 30% de TBSA",
+   "Niña de 10 años con quemaduras de tercer grado en 4% de TBSA",
+   "Hombre de 21 años con quemadura química en la mano derecha",
+   "Mujer de 30 años con quemaduras de segundo grado en 18% de TBSA",
+   "Mujer de 71 años con quemaduras de segundo grado en 8% de TBSA"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 62,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "1422f7ae90",
+  "sec": "Politraumatizados",
+  "stem": "Un hombre de 28 años con obesidad mórbida llega al ED tras sufrir una descarga eléctrica mientras trabajaba en su automóvil. Tiene una marca de quemadura en la mano y el antebrazo está hinchado. ¿Cuál de las siguientes afirmaciones es verdadera sobre este paciente?",
+  "opts": [
+   "La fuente del choque fue probablemente corriente directa",
+   "La falla renal es la principal causa de muerte en quienes sobreviven la lesión inicial",
+   "Probablemente tuvo contracciones musculares tetánicas repetitivas al momento de la electrocución",
+   "Su contextura corporal probablemente lo protege de lesiones térmicas profundas",
+   "Orina roja al ingreso sugiere lesión vesical"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 62,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "aeb8b01b23",
+  "sec": "Politraumatizados",
+  "stem": "Una mujer alcohólica de 36 años llega al servicio de emergencias durante una tormenta de invierno con congelación en el brazo y la mano derechos. Se desmayó en un parque con el brazo expuesto sobre una banca metálica helada. Su mano derecha presenta varias áreas con bullas hemorrágicas. Han pasado 7 horas desde que fue llevada al hospital. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "Probablemente tiene una congelación de segundo grado",
+   "Debe recibir desbridamiento precoz del tejido necrótico evidente",
+   "Probablemente responderá bien al tratamiento con activador tisular del plasminógeno (tPA)",
+   "La lesión por reperfusión es un contribuyente importante del daño en su lesión",
+   "El recalentamiento en agua tibia debe realizarse de manera gradual"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 62,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "4661470533",
+  "sec": "Politraumatizados",
+  "stem": "¿Cuál de las siguientes es la anormalidad electrolítica más común en el paciente quemado?",
+  "opts": [
+   "Hipernatremia",
+   "Hiponatremia",
+   "Hipercalcemia",
+   "Hipoglucemia",
+   "Hipermagnesemia"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 62,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "fe013881ef",
+  "sec": "Politraumatizados",
+  "stem": "Un adulto de 70 kg es atropellado y presenta fracturas femorales bilaterales con pérdida sanguínea estimada en 2 L. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "El paciente se encuentra en shock hemorrágico clase II",
+   "La taquicardia y taquipnea son poco comunes",
+   "La diuresis no debería verse afectada",
+   "La presión de pulso permanecerá sin cambios",
+   "La pérdida sanguínea estimada corresponde al 30–40% de su volumen"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 64,
+  "motivo": "semana 4",
+  "tema": "shock"
+ },
+ {
+  "k": "3760edf651",
+  "sec": "Abdomen general",
+  "stem": "¿Cuándo debe programarse una herniorrafia umbilical en paciente con angioplastia reciente con stent metálico?",
+  "opts": [
+   "1 semana",
+   "2 semanas",
+   "4 semanas",
+   "8 semanas",
+   "6 meses"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "eras"
+ },
+ {
+  "k": "bb6486cc39",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 85 años con hernia umbilical reducible y dolor intermitente es dado de alta recientemente tras colocación de un stent metálico por angina inestable. ¿Cuándo debería programarse su cirugía?",
+  "opts": [
+   "2 semanas",
+   "1 semana",
+   "8 semanas",
+   "6 meses",
+   "4 semanas"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "eras"
+ },
+ {
+  "k": "4f3b8fc380",
+  "sec": "Vías biliares",
+  "stem": "Mujer de 33 años programada colecistectomía. Tiene hipotiro moderado. ¿Qué hacer?",
+  "opts": [
+   "Proceder con la cirugía si no se pre síntomas clínicos graves",
+   "Proceder con cirugía e iniciar levotiroxina",
+   "Proceder con cirugía asumiendo complic menores",
+   "Posponer la cirugía hasta lograr eutiroidis",
+   "Proceder e iniciar tratamiento con tioamid"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 84,
+  "motivo": "semana 4",
+  "tema": "eras"
+ },
+ {
+  "k": "1bc04cc376",
+  "sec": "Esofago",
+  "stem": "Un hombre de 39 años se presenta a consulta para discutir su manejo antes de iniciar quimiorradiación neoadyuvante por cáncer de esófago. Su albúmina es de 2.4 mg/dL. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la optimización nutricional para este paciente?",
+  "opts": [
+   "Debe iniciar nutrición parenteral.",
+   "No debe ofrecerse una gastrostomía percutánea.",
+   "Se ha demostrado consistentemente que la colocación de stent esofágico mejora el estado nutricional.",
+   "La inserción de sonda nasogástrica ha demostrado mejorar el estado nutricional.",
+   "La migración del stent y el dolor torácico se reportan raramente en pacientes con stents esofágicos."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 116,
+  "motivo": "semana 4",
+  "tema": "nutricion"
+ },
+ {
+  "k": "5aed1c7d7c",
+  "sec": "Intestino delgado",
+  "stem": "¿Cuál de los siguientes es el principal combustible utilizado por el intestino delgado?",
+  "opts": [
+   "Arginina",
+   "Alanina",
+   "Glutamina",
+   "Tirosina",
+   "Carnitina"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 129,
+  "motivo": "semana 4",
+  "tema": "nutricion"
+ },
+ {
+  "k": "779faba381",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre diabetico tipo 1 de 48 años, ingresa al hospital para la evaluacióndeundolor abdominal vago y malestar general. Los antecedentes médicos influyenlaproctocolectomía total con ileostomía por colitis ulcerosa. sus exámenes de laboratorioson: ph 7,26 ; PCO2 24, PO 100 mmhg, NA 129, K 2,9, CL 110 y HCO3 12. cual essudiagnóstico más probable:",
+  "opts": [
+   "falla renal",
+   "cetoacidosis diabética",
+   "acidosis láctica",
+   "ileostomía de gasto alto",
+   "intoxicación con metanol"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "4fcec685cd",
+  "sec": "Trauma vascular",
+  "stem": "Todos los siguientes son principios del manejo la congelación severa (frostbite) EXCEPTO:",
+  "opts": [
+   "Recalentamiento rápido",
+   "Evitar el desbridamiento",
+   "Elevación del miembro",
+   "Amputación temprana en caso de gangrena franca",
+   "Antibióticos"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 162,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ }
+]

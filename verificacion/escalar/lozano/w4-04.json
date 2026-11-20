@@ -1,0 +1,272 @@
+[
+ {
+  "k": "caf10046f3",
+  "sec": "Abdomen general",
+  "stem": "Un paciente desarrolla dolor testicular y atrofia meses después de una hernioplastia abierta con malla. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Lesión del nervio ilioinguinal",
+   "Torsión testicular",
+   "Infección de la malla",
+   "Orquitis isquémica",
+   "Hidrocele"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "065c591905",
+  "sec": "Abdomen general",
+  "stem": "Durante la exploración quirúrgica de una hernia femoral complicada, se observa una masa blanda que contiene mucosa intestinal y presenta signos de necrosis. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia de Richter",
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia obturatriz",
+   "Hernia inguinal indirecta"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "24df6ca0bf",
+  "sec": "Abdomen general",
+  "stem": "Durante la exploración quirúrgica de una hernia inguinal derecha encarcelada, se encuentra un divertículo de Meckel dentro del saco herniario. ¿Cómo se denomina esta entidad?",
+  "opts": [
+   "Hernia de Littre",
+   "Hernia de Richter",
+   "Hernia de Amyand",
+   "Hernia femoral",
+   "Hernia espigeliana"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "48b717ab4d",
+  "sec": "Abdomen general",
+  "stem": "Durante la reparación de una hernia inguinal, el cirujano nota que el apéndice vermiforme se encuentra dentro del saco herniario. ¿Cómo se denomina esta condición?",
+  "opts": [
+   "Hernia de Richter",
+   "Hernia de Littre",
+   "Hernia espigeliana",
+   "Hernia de Amyand",
+   "Hernia de Garengeot"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "ea48e001fa",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 74 años presenta una hernia crural incarcerada que contiene un apéndice inflamado dentro del saco. ¿Cuál es el nombre de esta condición?",
+  "opts": [
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia de Garengeot",
+   "Hernia espigeliana",
+   "Hernia de Richter"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "c25f54594c",
+  "sec": "Abdomen general",
+  "stem": "Un paciente con hernia incisional grande en la línea media abdominal se queja de disnea al estar de pie. La TAC muestra hernia con contenido intestinal y desplazamiento de vísceras. ¿Cuál es el principal riesgo quirúrgico en este caso?",
+  "opts": [
+   "Infección de la herida",
+   "Falla de la malla",
+   "Síndrome compartimental abdominal",
+   "Lesión intestinal",
+   "Hematoma postoperatorio"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "63ac21fa6e",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 40 años con hernia ventral grande es sometida a reparación con colocación de malla sintética. Se presenta fiebre, enrojecimiento y drenaje purulento por la herida 10 días después. ¿Cuál es la mejor conducta?",
+  "opts": [
+   "Antibióticos por vía oral",
+   "Reapertura parcial y curaciones locales",
+   "Aspiración con aguja guiada por imagen",
+   "Retiro de la malla",
+   "Drenaje quirúrgico sin retirar malla"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "fdc0b773f2",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 68 años se somete a reparación laparoscópica de hernia inguinal bilateral. Posteriormente desarrolla disestesias y dolor crónico en la región inguinal derecha que se exacerban al caminar. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Reacción alérgica a la malla",
+   "Lesión del nervio genitofemoral",
+   "Infección crónica de la malla",
+   "Recurrencia de la hernia",
+   "Lesión del conducto deferente"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "22b9a5059d",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 60 años se presenta con dolor abdominal crónico y una masa en el borde lateral del músculo recto anterior del abdomen. La ecografía revela un defecto de la pared abdominal lateral con protrusión de contenido intestinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia de Spiegel",
+   "Hernia incisional",
+   "Hernia lumbar",
+   "Hernia de Littre",
+   "Hernia umbilical"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "a8edbc47ad",
+  "sec": "Abdomen general",
+  "stem": "Un paciente con enfermedad hepática terminal presenta gran ascitis y hernia umbilical con adelgazamiento progresivo de la piel suprayacente. ¿Cuál es el mayor riesgo si no se realiza tratamiento?",
+  "opts": [
+   "Recurrencia de la hernia",
+   "Infección del líquido ascítico",
+   "Isquemia de la piel con ruptura",
+   "Obstrucción intestinal",
+   "Fístula entero-cutánea"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "fc09753ca6",
+  "sec": "Abdomen general",
+  "stem": "Un paciente con antecedentes de múltiples reparaciones de hernia ventral se presenta con recurrencia de la hernia. ¿Cuál de los siguientes factores se asocia más fuertemente con la recurrencia?",
+  "opts": [
+   "Diabetes mellitus",
+   "Obesidad",
+   "Tabaquismo",
+   "Infección previa del sitio quirúrgico",
+   "Hernia incarcerada previa"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "c90207b95d",
+  "sec": "Abdomen general",
+  "stem": "Un cirujano elige colocar una malla en el espacio preperitoneal durante una reparación de hernia ventral por vía laparoscópica. ¿Cuál es la principal ventaja de esta técnica?",
+  "opts": [
+   "Disminuye el dolor postoperatorio",
+   "Reduce el riesgo de recurrencia",
+   "Evita la necesidad de anestesia general",
+   "Facilita la disección anatómica",
+   "Permite el uso de cualquier tipo de malla"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "d89fcc9c0e",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 42 años acude a urgencias con dolor abdominal vago durante el último mes, que ha empeorado súbitamente en las últimas horas. Una tomografía computarizada abdominal demuestra acumulación de grasa mesentérica entre el músculo recto abdominal y la línea semilunar. ¿Cuál de las siguientes afirmaciones es cierta respecto a esta condición?",
+  "opts": [
+   "Normalmente los pacientes presentan una masa palpable",
+   "Exige una reparación abierta con incisión sobre el área afectada",
+   "Los pacientes con esta afección suelen recibir anticoagulación",
+   "Existe un alto riesgo de sepsis",
+   "Se considera un diagnóstico clínico y normalmente no se requieren imágenes"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "5d371bc67f",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de las hernias umbilicales en adultos?",
+  "opts": [
+   "La mayoría son congénitas",
+   "La reparación está contraindicada en pacientes con cirrosis",
+   "La estrangulación es menos común que en l niños",
+   "Las hernias pequeñas pueden observarse clínicamente sin intervención",
+   "El cierre primario tiene tasas de recurrencia similares a la reparación con malla"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 76,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "4d77d336cb",
+  "sec": "Abdomen general",
+  "stem": "Cuatro meses después de la reparaci abierta de una hernia inguinal con malla, paciente informa dolor ardoroso persistente en os n rte y ie y vio ón un el sitio de la incisión que se irradia hacia la ingle. No hay evidencia de recurrencia herniaria. El paciente mejora parcialmente tras un bloqueo nervioso guiado por ecografía, lateral al cordón espermático cerca del tubérculo púbico. ¿Cuál de las siguientes afirmaciones es cierta acerca de esta condición?",
+  "opts": [
+   "La identificación cuidadosa de los tres nervios sensoriales durante la cirugía previene esta complicación",
+   "El tratamiento inicial implica reexploración",
+   "La reintervención por el fracaso del del",
+   "El dolor crónico después de la reparación de una hernia es poco común",
+   "La sección intencional de los nervios"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 77,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ }
+]

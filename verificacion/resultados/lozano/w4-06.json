@@ -1,0 +1,292 @@
+[
+ {
+  "k": "cf02b83807",
+  "estado": "confirmada",
+  "stem": "Hernia que contiene vejiga urinaria:",
+  "opts": [
+   "Amyand",
+   "Littré",
+   "Deslizante",
+   "Inguinoescrotal",
+   "De Richter"
+  ],
+  "ans": 2,
+  "why": "En la hernia por deslizamiento una parte de la pared del saco la forma una víscera retroperitoneal; las más frecuentes son el colon y la vejiga urinaria. Amyand contiene el apéndice, Littré un divertículo de Meckel y Richter solo el borde antimesentérico del intestino. Inguinoescrotal describe la localización, no un contenido.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1142 del PDF",
+   "Sabiston 21.ª ed., p. 1136 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 145 y 170 (Littré, Richter, Amyand)"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "d60c5aaf83",
+  "estado": "confirmada",
+  "stem": "¿Qué estructura se hernia en la hernia de Littré?",
+  "opts": [
+   "Ciego",
+   "Apéndice",
+   "Ovario",
+   "Divertículo de Meckel",
+   "Uréter"
+  ],
+  "ans": 3,
+  "why": "La hernia de Littré es la que contiene un divertículo de Meckel. El apéndice corresponde a la hernia de Amyand; ciego, ovario y uréter no definen una hernia con nombre propio.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 145 y 170"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "8eb44b002d",
+  "estado": "confirmada",
+  "stem": "Hernia que protruye por el borde externo de los rectos:",
+  "opts": [
+   "Spiegel",
+   "Amyand",
+   "Crural",
+   "Obturatriz",
+   "Umbilical"
+  ],
+  "ans": 0,
+  "why": "La hernia de Spiegel sale por la fascia de Spiegel, entre el borde lateral del músculo recto y la línea semilunar. Amyand (apéndice), crural (femoral), obturatriz (agujero obturador) y umbilical (ombligo) no están en el borde externo del recto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 38"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "f0837803dc",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la característica de la hernia de Spiegel?",
+  "opts": [
+   "Es una hernia mixta en pantalón",
+   "Es una hernia directa que atraviesa el anillo inguinal",
+   "Es una hernia deslizada cuyo contenido es colon",
+   "Su presentación por lo general es supraumbilical",
+   "Se produce en el borde lateral de la vaina de los rectos"
+  ],
+  "ans": 4,
+  "why": "La hernia de Spiegel ocurre en la capa aponeurótica entre el recto (medial) y la línea semilunar (lateral), casi siempre en o por debajo de la línea arqueada, es decir, no es supraumbilical. Es una hernia interparietal pequeña; no es una hernia en pantalón, ni directa inguinal, ni deslizada de colon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 38"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "5f013d86fa",
+  "estado": "dudosa",
+  "stem": "Hombre de 75 años con hernia femoral incarcerada, INR 3.1 por warfarina. ¿Qué hacer?",
+  "opts": [
+   "Reparación laparoscópica de emergencia",
+   "Reparación abierta de emergencia",
+   "Uso de malla",
+   "Corregir INR y operar por la mañana",
+   "Intentar reducción en emergencia con sedación"
+  ],
+  "ans": null,
+  "why": "Las fuentes respaldan que una hernia femoral incarcerada es una urgencia: tiene alto riesgo de estrangulación (15-20%) y debe repararse, y si hay compromiso intestinal la malla está contraindicada (Cooper). Eso descarta corregir el INR y esperar a la mañana y apunta contra usar malla. Pero ninguna fuente consultada decide entre reparación abierta y laparoscópica de emergencia con INR 3.1, ni cómo manejar la warfarina; por eso no se puede confirmar B sin adivinar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1141 y 1142 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 37"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: B (resaltado). Es plausible pero no hay fuente que la decida frente a A."
+ },
+ {
+  "k": "a47002ede3",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las hernias femorales?",
+  "opts": [
+   "Son la hernia más común en mujeres.",
+   "El ligamento de Cooper se considera el límite anterior del canal femoral.",
+   "Se ubican lateralmente a la vena femoral.",
+   "La reparación implica aproximar el tracto iliopúbico al ligamento de Cooper.",
+   "La operación de Bassini se considera una opción quirúrgica adecuada."
+  ],
+  "ans": 3,
+  "why": "La reparación de la hernia femoral consiste en quitar el saco y cerrar el defecto del conducto femoral, aproximando el tracto iliopúbico al ligamento de Cooper o con malla. No es la más común en mujeres (lo es la inguinal indirecta), el ligamento de Cooper es el límite posterior (no anterior), la hernia es medial a la vena femoral, y Bassini repara el ligamento inguinal, que no obliterra el defecto femoral.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 45 (respuesta 16)",
+   "Sabiston 21.ª ed., p. 1141 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "457f3d5e7b",
+  "estado": "dudosa",
+  "stem": "Un hombre de 42 años se presenta al servicio de urgencias con dolor abdominal vago desde hace un mes que ha empeorado repentinamente en las últimas horas. Se realiza una tomografía computarizada (TC) del abdomen y muestra infiltración de la grasa mesentérica entre el músculo recto abdominal y la línea semilunar. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Típicamente los pacientes se presentan con una masa palpable.",
+   "Requiere reparación abierta con incisión directamente sobre el área afectada.",
+   "Los pacientes con esta condición suelen estar anticoagulados.",
+   "Existe un alto riesgo de sepsis.",
+   "Se considera un diagnóstico clínico y típicamente no se necesita imagenología."
+  ],
+  "ans": null,
+  "why": "El cuadro (grasa infiltrada entre el recto y la línea semilunar) corresponde a una hernia de Spiegel. Sabiston dice que suele dar dolor localizado sin protrusión (descarta A), que la ecografía o TC ayudan al diagnóstico (descarta E), que puede repararse por vía laparoscópica (B no es obligatoria) y que debe repararse por el riesgo de incarceración por su cuello estrecho. Ninguna fuente menciona riesgo alto de sepsis (D, clave marcada) ni una asociación con anticoagulación (C). Ninguna opción queda respaldada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 38"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: D (resaltado, aula virtual). Probablemente el original hablaba de riesgo de incarceración/estrangulación y la traducción cambió el sentido; no verificable."
+ },
+ {
+  "k": "279f68ba62",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a las hernias umbilicales en adultos?",
+  "opts": [
+   "La mayoría son congénitas.",
+   "La reparación está contraindicada en pacientes con cirrosis.",
+   "El estrangulamiento es menos común que en los niños.",
+   "Las hernias pequeñas y asintomáticas pueden observarse clínicamente.",
+   "El cierre primario tiene tasas de recurrencia similares a la reparación con malla."
+  ],
+  "ans": 3,
+  "why": "En adultos, las hernias umbilicales pequeñas y asintomáticas pueden observarse. La mayoría son adquiridas (no congénitas), la reparación no está contraindicada en cirrosis (se hace tras optimizar la ascitis), el estrangulamiento es más frecuente que en niños, y el cierre primario recurre más (11% vs 1% con malla).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 45 (respuesta 15)",
+   "Sabiston 21.ª ed., p. 1146 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "34d86315ea",
+  "estado": "confirmada",
+  "stem": "La orquitis isquémica después de la reparación de hernia inguinal se debe más frecuentemente a:",
+  "opts": [
+   "Reconstrucción demasiado apretada del anillo inguinal",
+   "Patología testicular preexistente",
+   "Ligadura inadvertida de la arteria testicular",
+   "Excisión completa de un saco herniario escrotal grande",
+   "Irrigación anómala del testículo"
+  ],
+  "ans": 3,
+  "why": "El factor más identificado es la disección extensa del cordón, sobre todo al extirpar todo el saco distal de una hernia grande; se recomienda dividir el saco y dejar el distal. La ligadura de la arteria testicular no suele causarla por las colaterales ricas; la patología previa o la irrigación anómala no se consideran causa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 44 (respuesta 11)",
+   "Sabiston 21.ª ed., p. 1143 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Sabiston también menciona la ligadura de la arteria testicular como causa posible, pero la causa típica es la trombosis venosa tras disección del saco distal grande."
+ },
+ {
+  "k": "7959995917",
+  "estado": "confirmada",
+  "stem": "Cuatro meses después de una reparación de hernia inguinal abierta con malla, un paciente informa dolor ardoroso persistente en el sitio de la incisión que se irradia hacia la ingle. En el examen, no hay evidencia de recurrencia de la hernia. El paciente experimentó mejoría moderada después de un bloqueo nervioso guiado por ecografía inmediatamente lateral al cordón espermático, cerca del tubérculo púbico. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "La identificación cuidadosa de los tres nervios sensoriales evitará esta complicación.",
+   "El manejo inicial implica reexploración de la herida.",
+   "La reoperación por falla del tratamiento conservador se logra mejor mediante un abordaje laparoscópico retroperitoneal.",
+   "El dolor crónico después de reparación de hernia es poco común.",
+   "La división intencionada de nervios sensoriales en la ingle durante la operación inicial habría evitado efectivamente esta complicación."
+  ],
+  "ans": 2,
+  "why": "En dolor crónico tras reparación abierta, si fracasa el manejo conservador, el abordaje ideal es entrar por un plano no violado: neurectomía triple retroperitoneal laparoscópica. El dolor crónico es frecuente (10-25%), no raro; Sabiston dice que la sección rutinaria de nervios no reduce el dolor crónico (E) y que el manejo inicial es analgésico, antiinflamatorio y bloqueo nervioso, no reexploración (B). Conservar los tres nervios ayuda a reducir el dolor pero no lo evita con seguridad (A).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 44 (respuesta 10)",
+   "Sabiston 21.ª ed., p. 1143 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "5ec00949fb",
+  "estado": "confirmada",
+  "stem": "Un lactante masculino de 5 meses previamente a término se presenta con una masa dolorosa en la ingle izquierda que ha estado presente durante varias horas. Hay un leve eritema sobre la piel. No tiene fiebre y sus análisis de laboratorio son normales. ¿Cuál de los siguientes es el mejor siguiente paso?",
+  "opts": [
+   "Intentar reducción manual, y si es exitosa, programar reparación quirúrgica cuando el infante cumpla 1 año.",
+   "Intentar reducción manual, y si es exitosa, llevar inmediatamente al quirófano para reparación quirúrgica.",
+   "Intentar reducción manual, y si es exitosa, programar reparación en 2 días.",
+   "Intentar reducción manual, y si es exitosa, programar reparación quirúrgica del lado izquierdo con exploración inguinal contralateral en 2 días.",
+   "Llevar inmediatamente al quirófano para reparación quirúrgica."
+  ],
+  "ans": 2,
+  "why": "Sin signos de estrangulación ni toxicidad sistémica, se intenta la reducción y la reparación se hace en unos días, cuando baja la inflamación. Esperar a 1 año es inapropiado; operar de inmediato solo si hay signos de estrangulación; la exploración contralateral de rutina no tiene apoyo.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 45 (respuesta 13)",
+   "Sabiston 21.ª ed., p. 1893 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "bdf598c412",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía de las hernias?",
+  "opts": [
+   "El ligamento de Poupart está formado por la porción anteroinferior de la aponeurosis del oblicuo externo.",
+   "El músculo cremáster se origina del músculo transverso del abdomen.",
+   "La rama genital del nervio genitofemoral pasa por el anillo superficial.",
+   "La rama femoral del nervio genitofemoral inerva el músculo cremáster.",
+   "Las hernias indirectas surgen con mayor frecuencia dentro de los bordes del músculo recto, el ligamento inguinal inferior y la arteria epigástrica inferior."
+  ],
+  "ans": 0,
+  "why": "El ligamento de Poupart (inguinal) se forma por el borde anteroinferior de la aponeurosis del oblicuo externo, plegada sobre sí misma. El cremáster viene del oblicuo interno, la rama genital del genitofemoral pasa por el anillo profundo y la rama femoral da sensibilidad al muslo, no al cremáster. Los bordes citados en E son los del triángulo de Hesselbach (hernia directa).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 43 (respuesta 6)",
+   "de Virgilio ABSITE 3.ª ed., p. 37"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "78ff338fe0",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años se presenta con una protuberancia dolorosa en la ingle izquierda que apareció hace varios meses. Su historia quirúrgica incluye una reparación de hernia inguinal derecha abierta. Al examinarlo, también se nota una protuberancia en la ingle derecha sobre su incisión previa. Ambas masas son reducibles. ¿Cuál de las siguientes afirmaciones es verdadera respecto a su condición?",
+  "opts": [
+   "Se prefiere la reparación abierta.",
+   "En la reparación laparoscópica, no fijar la malla lateralmente a los vasos epigástricos inferiores puede llevar a recurrencia a través del anillo interno.",
+   "Violar el peritoneo durante una reparación totalmente extraperitoneal (TEP) requiere conversión a un abordaje abierto o transabdominal preperitoneal (TAPP).",
+   "La parestesia o dolor persistente en el muslo lateral es más común con la reparación abierta que con la laparoscópica.",
+   "La reparación laparoscópica evitará que desarrolle una hernia femoral en el futuro."
+  ],
+  "ans": 4,
+  "why": "Es una hernia bilateral con una recidivante: la mejor opción es laparoscópica (A falsa), que además cubre el conducto femoral y previene una hernia femoral futura. Fijar la malla lateral a los vasos epigástricos se evita (triángulo del dolor), no se exige (B). Violar el peritoneo en TEP se repara, no obliga a convertir (C). La lesión del nervio cutáneo femoral lateral es propia de la vía laparoscópica (D).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 43 (respuesta 8)",
+   "de Virgilio ABSITE 3.ª ed., p. 44",
+   "de Virgilio ABSITE 3.ª ed., p. 37"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "f03c61924c",
+  "estado": "confirmada",
+  "stem": "Un paciente varón de 28 años solicita consejo sobre si optar por una reparación con malla abierta o una reparación TEP para una hernia inguinal derecha reducible recientemente diagnosticada. ¿Qué se le puede decir al paciente sobre estos dos métodos de reparación?",
+  "opts": [
+   "El dolor crónico se reduce con la reparación con malla abierta.",
+   "El tiempo operatorio no difiere significativamente entre ambos.",
+   "La reparación TEP se asocia con un retorno más rápido al trabajo y a las actividades normales.",
+   "La reparación con malla abierta se asocia con un mayor número de complicaciones intraoperatorias.",
+   "La recurrencia es relativamente común (>25%) sin importar el método elegido."
+  ],
+  "ans": 2,
+  "why": "TEP frente a Lichtenstein: menos dolor inmediato y regreso más rápido al trabajo, pero más tiempo en quirófano y más complicaciones intraoperatorias; el dolor crónico y la recidiva son equivalentes. Sabiston coincide con que la laparoscopia permite reanudar antes la actividad normal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 44 (respuesta 9)",
+   "Sabiston 21.ª ed., p. 1141 y 1142 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "26c851c8cf",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años se presenta con una hernia incisional reducible pero dolorosa de manera intermitente, ubicada aproximadamente 5 cm por encima de su ombligo. Tuvo una laparotomía previa por una herida de bala hace unos 10 años, complicada por una infección del sitio quirúrgico. El examen físico revela un defecto de aproximadamente 6 cm de tamaño. ¿Cuál de las siguientes afirmaciones es verdadera respecto a su condición?",
+  "opts": [
+   "La hernia incisional ocurre en aproximadamente el 1% de todas las laparotomías.",
+   "El costo total de una reparación laparoscópica es mayor que el de una reparación abierta.",
+   "La reparación de defectos mayores de 10 cm no debe intentarse por vía laparoscópica.",
+   "La infección del sitio quirúrgico probablemente contribuyó a esta complicación.",
+   "El uso de malla de interposición reduce las tasas de recurrencia en comparación con otros métodos de reparación."
+  ],
+  "ans": 3,
+  "why": "La infección del sitio quirúrgico es factor de riesgo de eventración: duplica el riesgo de hernia tras la laparotomía. Incidencia real de 10-20% (no 1%). Los demás enunciados (costo, límite de 10 cm, malla de interposición) no tienen respaldo en las fuentes.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 36",
+   "Sabiston 21.ª ed., p. 1144 y 1146 del PDF"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original D con respaldo directo; las opciones B, C y E no se pudieron contrastar con fuente, por lo que solo A está refutada de forma directa."
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "k": "2f3ace7d1b",
+  "sec": "Quemados",
+  "stem": "Quemaduras de segundo grado que comprometen toda la cabeza y cuello, y quemaduras de tercer grado que comprometen toda la espalda y la mitad del tórax, se considerarían:",
+  "opts": [
+   "12% de SCT",
+   "18% de SCT",
+   "27% de SCT",
+   "36% de SCT",
+   "45% de SCT"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "71f300ac91",
+  "sec": "Quemados",
+  "stem": "El porcentaje de superficie corporal quemada asociado con una tasa de mortalidad del 50% es:",
+  "opts": [
+   "40%",
+   "50%",
+   "60%",
+   "70%",
+   "80%"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "bc66e4a8ca",
+  "sec": "Quemados",
+  "stem": "Los requerimientos de líquidos en niños con quemaduras son:",
+  "opts": [
+   "2 mL/kg por % de SCT",
+   "3 mL/kg por % de SCT",
+   "4 mL/kg por % de SCT",
+   "5 mL/kg por % de SCT",
+   "6 mL/kg por % de SCT"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "5f1e242c73",
+  "sec": "Quemados",
+  "stem": "En pacientes con quemaduras extensas, ¿cuál de las siguientes infusiones intravenosas ha demostrado reducir el volumen de resucitación y el edema?",
+  "opts": [
+   "Vitamina C",
+   "Albúmina al 5%",
+   "Vitamina A",
+   "Corticoides",
+   "Vitamina B6"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "c89fc46553",
+  "sec": "Quemados",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la resucitación con líquidos en víctimas de quemaduras?",
+  "opts": [
+   "Debe evitarse el uso de solución salina normal.",
+   "Debe usarse solución salina hipertónica en quemaduras graves para reducir edema.",
+   "El dextrano es útil para prevenir la pérdida de proteínas del tejido quemado.",
+   "El uso de albúmina se asocia con mayor mortalidad.",
+   "El síndrome compartimental abdominal por sobre-resucitación no parece ocurrir."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "06f7082125",
+  "sec": "Quemados",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto al envenenamiento por monóxido de carbono (CO)?",
+  "opts": [
+   "El CO desplaza la curva de disociación de oxígeno-hemoglobina hacia la derecha.",
+   "El CO se une irreversiblemente a la",
+   "La oximetría de pulso es una medida precisa de la saturación de oxígeno tras una intoxicación por CO.",
+   "El CO tiene 200 veces más afinidad por la hemoglobina que el oxígeno.",
+   "La oxigenoterapia hiperbárica debe iniciarse inmediatamente al diagnosticar envenenamiento por CO en pacientes quemados."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 50,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "d29420b78a",
+  "sec": "Quemados",
+  "stem": "Según la fórmula de Parkland, la cantidad de líquidos cristaloides que se deben administrar en las primeras 8 horas a un hombre de 70 kg con quemadura de segundo grado del 50% de SCT y quemadura de tercer grado del 20% de SCT es:",
+  "opts": [
+   "4900 mL",
+   "5600 mL",
+   "6300 mL",
+   "7350 mL",
+   "9800 mL"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 50,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "38e8c9cffe",
+  "sec": "Quemados",
+  "stem": "La principal desventaja del uso tópico acetato de mafenida en el tratamiento quemaduras es:",
+  "opts": [
+   "Incapacidad de penetrar el esfacelo",
+   "Asociado a hiponatremia",
+   "Asociado a metahemoglobinemia",
+   "Asociado a acidosis metabólica",
+   "Ineficaz contra organismos gramnegativos"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 50,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "11ccb97e05",
+  "sec": "Politraumatizados",
+  "stem": "Un bombero de 30 años es traído al hospital después de quedar atrapado en un edificio en llamas. Tiene quemaduras en la cara y está tosiendo con esputo carbonáceo. Su saturación de oxígeno es 99% en aire ambiente. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Administrar esteroides intravenosos",
+   "Intubación inmediata",
+   "Escanografía de tórax",
+   "Nebulización con salbutamol",
+   "Oxigenoterapia en alto flujo"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 51,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "e8b3e1f833",
+  "sec": "Politraumatizados",
+  "stem": "Una mujer de 30 años fue rescatada de un incendio en su casa. Presenta quemaduras en cara, cuello y parte superior del tórax. Habla con voz ronca, tose y tiene esputo carbonáceo. ¿Cuál es el principal motivo para asegurar su vía aérea ahora?",
+  "opts": [
+   "Prevención de neumonía por aspiración",
+   "Sospecha de lesión esofágica",
+   "Prevención de obstrucción progresiva de la vía aérea",
+   "Inhalación de monóxido de carbono",
+   "Necesidad de sedación prolongada"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 51,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "6ec2cd2001",
+  "sec": "Politraumatizados",
+  "stem": "Una mujer de 60 años con enfermedad pulmonar obstructiva crónica (EPOC) sufre quemaduras en cara, cuello y tórax. En el hospital está alerta pero presenta disfonía, estridor y dificultad respiratoria progresiva. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Broncodilatadores inhalados",
+   "Oxígeno al 100%",
+   "Intubación endotraqueal",
+   "Broncoscopia diagnóstica",
+   "Observación en UCI"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 52,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "309d81365a",
+  "sec": "Politraumatizados",
+  "stem": "Un policía de 40 años es traído al servicio de urgencias tras sufrir quemaduras al rescatar a una mujer de un almacén en llamas. Su temperatura es de 99.8 °F, presión arterial de 100/70 mmHg, pulso de 95/min y frecuencia respiratoria de 24/min. En el examen físico, presenta quemaduras de espesor parcial profundo y total en el 40 % de la superficie corporal, incluyendo cara, brazos y espalda, así como una quemadura circunferencial en el cuello. Tiene vellos nasales chamuscados y esputo carbonáceo. Los pulmones están claros en la auscultación bilateral. El ECG muestra contracciones ventriculares prematuras. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Antibióticos de amplio espectro",
+   "Intubación endotraqueal",
+   "Reanimación con líquidos intravenosos",
+   "Enzimas cardíacas y ECG seriado",
+   "Broncoscopia"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 57,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "feeb95d832",
+  "sec": "Politraumatizados",
+  "stem": "Los pacientes quemados están en riesgo de múltiples infecciones. ¿Cuál es el microorganismo más común en causar infecciones en pacientes con quemaduras?",
+  "opts": [
+   "Staphylococcus aureus",
+   "Streptococcus pyogenes",
+   "Streptococcus agalactiae",
+   "Pseudomonas aeruginosa",
+   "Candida albicans"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 58,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "62e00aa1d8",
+  "sec": "Politraumatizados",
+  "stem": "Un alcohólico de 40 años se presenta a urgencias con un antebrazo derecho visiblemente hinchado y muy doloroso. Refiere que, tras una borrachera con heroína y alcohol, se quedó dormido sobre su brazo durante 12 horas. Al despertar, encontró su mano completamente entumecida e inmóvil. El examen físico revela pulsos braquial y radial normales. Tiene ritmo cardíaco regular. No puede extender la muñeca con la mano en pronación. El ECG muestra ondas T picudas, y los niveles de CPK son de 20,000 UI/L (normal: 60–400 UI/L). ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Propranolol",
+   "Insulina + dextrosa",
+   "Gluconato de calcio",
+   "Kayexalato (poliestireno sódico)",
+   "Furosemida"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 58,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "9535b89b18",
+  "sec": "Politraumatizados",
+  "stem": "Un hombre de 60 años está en recuperación en la UCI después de ser rescatado de un incendio en una cocina de restaurante. Estuvo atrapado por un tiempo prolongado. Presenta quemaduras de espesor parcial profundo y total en más del 30 % de su cuerpo. Tiene antecedentes de psoriasis controlada con esteroides tópicos. Al séptimo día postoperatorio, se muestra confundido. Su temperatura es 96.1 °F, presión arterial 98/72 mmHg y pulso 122/min. Las heridas por quemadura muestran áreas focales de color marrón. En laboratorio, su recuento de leucocitos es 14,700/μL (normal: 4,100–10,900/μL) y su glucosa sérica es de 250 mg/dL. ¿Cuál es la causa más probable de su condición aguda?",
+  "opts": [
+   "Desplazamiento de líquido intercompartimental",
+   "Insuficiencia suprarrenal",
+   "Abstinencia alcohólica",
+   "Carboxihemoglobinemia",
+   "Inflamación"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 59,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "6a7bd46a46",
+  "sec": "Politraumatizados",
+  "stem": "¿Cuál de los siguientes parámetros sería más consistente con intoxicación aguda por monóxido de carbono?",
+  "opts": [
+   "Disminución de la hemoglobina",
+   "Disminución de la PaO₂",
+   "Disminución del contenido de oxígeno en sangre",
+   "Aumento de la hemoglobina oxidada",
+   "Aumento de la ventilación alveolar"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 61,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ }
+]

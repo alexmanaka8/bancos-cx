@@ -1,0 +1,260 @@
+[
+ {
+  "k": "34e415bbbd",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años se encuentra en la UCI recuperándose de una reparación abierta de un aneurisma de aorta abdominal roto. En el día postoperatorio 1, se queja de dolor abdominal y sensibilidad en el cuadrante inferior izquierdo, sin rebote ni defensa. En el día postoperatorio 2, desarrolla diarrea con sangre. El examen físico revela presión arterial de 129/79 mmHg, pulso de 100/min, temperatura de 99.9 °F (37.7 °C), y frecuencia respiratoria de 16/min. ¿Cuál es la etiología más probable del dolor abdominal y la diarrea sanguinolenta?",
+  "opts": [
+   "Isquemia colónica",
+   "Colitis por Clostridium difficile",
+   "Diverticulitis",
+   "Enfermedad inflamatoria intestinal",
+   "Cáncer de colon"
+  ],
+  "ans": 0,
+  "why": "La isquemia colónica es una complicación reconocida de la reparación de AAA (1%-3%), por ligadura de la arteria mesentérica inferior o exclusión de las ilíacas internas; se presenta con diarrea (a veces sanguinolenta), dolor en el cuadrante inferior izquierdo y distensión. C. difficile, diverticulitis, enfermedad inflamatoria y cáncer no explican este cuadro tan temprano tras la cirugía aórtica.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 289 del PDF (pregunta 28, explicación)",
+   "de Virgilio ABSITE 3.ª ed., p. 275 del PDF (resumen: colitis isquémica tras AAA)",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF (colitis isquémica)"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: A (resaltado). El libro respalda la isquemia colónica como diagnóstico; el ABSITE la presenta con diarrea acuosa y dolor en cuadrante inferior izquierdo. Las demás opciones no están explícitamente descartadas en el libro (INDIRECTA solo en ese punto)."
+ },
+ {
+  "k": "d0c52405c4",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años se presenta con dolor abdominal agudo de inicio súbito. Al examen, se retuerce de dolor intenso, pero el abdomen es solo levemente doloroso, sin defensa ni rebote. El examen cardíaco revela ritmo irregularmente irregular. Niega antecedentes de dolor abdominal. El lactato sérico está elevado. La amilasa sérica está ligeramente elevada. Las radiografías simples son negativas. La tomografía computarizada revela edema difuso de la pared del intestino delgado. El siguiente paso es:",
+  "opts": [
+   "Terapia trombolítica",
+   "Arteriografía",
+   "Heparina intravenosa",
+   "Laparotomía exploradora",
+   "Ecografía dúplex"
+  ],
+  "ans": 2,
+  "why": "Dolor abdominal súbito desproporcionado al examen, fibrilación auricular (ritmo irregularmente irregular) y lactato elevado indican isquemia mesentérica aguda por émbolo a la AMS. El primer paso del manejo es heparina IV; luego, si hay émbolo, embolectomía quirúrgica. Trombolisis solo en casos seleccionados, no es el estándar ni el mejor paso con lactato alto; la arteriografía se reserva para sospecha de trombosis aterosclerótica; la laparotomía es después de la heparina; el dúplex no es útil aquí.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 283 del PDF (pregunta 5, explicación)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: C (resaltado). Coincide con el ABSITE: 'The first step in the management is the administration of IV heparin'. La TC con edema de pared ya fue hecha en el enunciado."
+ },
+ {
+  "k": "cd5f65b6e0",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años se presenta con 2 semanas de dolor abdominal vago y distensión. Refiere que su madre y abuela tuvieron coágulos en las piernas. Al examen presenta dolor leve y difuso sin defensa ni rebote. La tomografía muestra asas de intestino delgado engrosadas y ausencia de opacificación de la vena mesentérica superior. ¿Cuál es el mejor enfoque de manejo?",
+  "opts": [
+   "Terapia trombolítica dirigida por catéter",
+   "Heparina IV seguida de 3 meses de warfarina",
+   "Heparina IV seguida de warfarina de por vida",
+   "Arteriografía con infusión de papaverina",
+   "Exploración quirúrgica inmediata"
+  ],
+  "ans": 2,
+  "why": "Dolor vago de semanas, TC con falta de opacificación de la vena mesentérica superior y sin peritonitis: trombosis venosa mesentérica. El tratamiento es heparina y luego warfarina o un anticoagulante oral directo. Se da 3 a 6 meses si la hipercoagulabilidad es provocada o temporal, y de por vida si es no provocada o permanente; los antecedentes familiares de trombosis (madre y abuela) sugieren una trombofilia hereditaria, por lo que se indica anticoagulación de por vida. Sin peritonitis no hace falta cirugía, y la trombolisis no es el tratamiento estándar.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 283 del PDF (pregunta 6, explicación)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: C (resaltado). Coincide con el ABSITE, que cita textualmente el antecedente familiar como razón de anticoagulación de por vida."
+ },
+ {
+  "k": "c3bf884fdf",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es la más apropiada en el manejo quirúrgico de la isquemia intestinal por émbolo a la arteria mesentérica superior (AMS)?",
+  "opts": [
+   "Angiografía intraoperatoria",
+   "Laparotomía de segunda mirada planificada",
+   "Dopamina",
+   "Arteriotomía longitudinal de la AMS",
+   "Resección de intestino con viabilidad dudosa"
+  ],
+  "ans": 1,
+  "why": "En el émbolo a la AMS se restaura primero el flujo (embolectomía de Fogarty por arteriotomía transversal) y no se reseca intestino hasta recuperar la perfusión. Como la resección puede ser extensa y causar síndrome de intestino corto, el intestino de viabilidad dudosa se deja y se planea una segunda mirada a las 24-48 h. La resección inmediata de intestino dudoso, la angiografía intraoperatoria, la arteriotomía longitudinal (causa estenosis) y la dopamina (beneficio incierto) no son lo apropiado.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 284 del PDF (pregunta 10, explicación)",
+   "de Virgilio ABSITE 3.ª ed., p. 278 del PDF (enunciado)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado). Coincide con el ABSITE."
+ },
+ {
+  "k": "a928c88d0c",
+  "estado": "confirmada",
+  "stem": "En una cirugía por sospecha de isquemia mesentérica aguda, se observa que casi todo el intestino delgado y el colon derecho están isquémicos. Sin embargo, el yeyuno proximal, duodeno y colon izquierdo se ven sanos. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Trombosis de la AMS",
+   "Émbolo a la AMS",
+   "Trombosis de la vena mesentérica superior",
+   "Trombosis de la vena porta",
+   "Isquemia mesentérica no oclusiva"
+  ],
+  "ans": 1,
+  "why": "El émbolo cardíaco a la AMS suele alojarse justo distal a su origen, por lo que respeta el yeyuno proximal y el colon transverso por la arteria cólica media permeable. La trombosis de la AMS ocurre en el origen y no respeta el yeyuno proximal. La trombosis venosa mesentérica y la isquemia no oclusiva dan áreas parcheadas.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 284 del PDF (pregunta 11, explicación)",
+   "de Virgilio ABSITE 3.ª ed., p. 283 del PDF (pregunta 5)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: B (resaltado). Coincide con el ABSITE. La opción D (trombosis de la vena porta) no se menciona explícitamente en el libro."
+ },
+ {
+  "k": "39ed742496",
+  "estado": "confirmada",
+  "stem": "Un neonato de 1 día de vida tiene una masa que protruye por el ombligo. La exploración física revela una hernia umbilical. La TC muestra que parte de otro órgano está unida a la superficie interna de la hernia. ¿Qué porción del tracto gastrointestinal está muy probablemente unida a la superficie interna de la hernia umbilical?",
+  "opts": [
+   "Conducto anal.",
+   "Apéndice.",
+   "Ciego.",
+   "Íleon.",
+   "Estómago."
+  ],
+  "ans": 3,
+  "why": "El divertículo de Meckel es la persistencia del extremo intestinal del conducto onfalomesentérico (vitelino); se ubica en el borde antimesentérico del íleon, 45-60 cm por encima de la válvula ileocecal, y puede unirse al ombligo por un cordón fibroso. Por eso el íleon es la porción que se une a la cara interna de la hernia umbilical.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1109 del PDF (anomalías por persistencia del conducto onfalomesentérico)",
+   "Sabiston 21.ª ed., p. 1312 del PDF (divertículo de Meckel)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: D (resaltado). El texto original venía pegado con la frase 'El vólvulo de intestino medio es una posible complicación...' (explicación de la pregunta anterior) y con la explicación de esta pregunta; se limpió comparando con la imagen. Las opciones no elegidas (conducto anal, apéndice, ciego, estómago) no están descartadas una a una en el libro (INDIRECTA)."
+ },
+ {
+  "k": "91639a932c",
+  "estado": "dudosa",
+  "stem": "Una mujer de 23 años ingresa con dolor abdominal intenso, náuseas y vómitos. La historia clínica muestra que el dolor es agudo y ha sido constante durante 4 días. El dolor empezó en el epigastrio e irradiado bilateralmente alrededor del tórax hasta justo debajo de las escápulas. Actualmente el dolor se localiza en el hipocondrio derecho. La TC revela cálculos calcificados en la vesícula biliar. ¿Cuáles de los siguientes nervios llevan las fibras aferentes del dolor referido?",
+  "opts": [
+   "Nervios esplácnicos torácicos mayores",
+   "Ramos primarios dorsales de los nervios intercostales",
+   "Nervios frénicos",
+   "Nervios vagos"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Ningún libro dice que las aferentes de la vesícula vayan por el esplácnico mayor; se deduce de Latarjet t. 1 p. 391 y Sabiston p. 1458, sin cita directa. Clave que proponía el revisor: A. Los nervios esplácnicos mayores (T5-T9) terminan en el ganglio celíaco y llevan fibras aferentes simpáticas; la vesícula y las vías biliares reciben su inervación simpática (D7-D10) a través del ganglio celíaco. El dolor visceral biliar se siente en epigastrio e hipocondrio derecho. El dolor del hombro por irritación diafragmática sería por el frénico (peritoneo diafragmático), no el cuadro descrito.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, t. 1, p. 391 del PDF (nervio esplácnico mayor: T5-T9, termina en ganglio celíaco, contiene fibras aferentes simpáticas)",
+   "Sabiston 21.ª ed., p. 1458 del PDF (inervación simpática D7-D10 de vía biliar vía ganglios celíacos)",
+   "Sabiston 21.ª ed., p. 1523 del PDF (fibras de dolor visceral en epigastrio/hipocondrio derecho)"
+  ],
+  "tema": "vesicula",
+  "nota": "INDIRECTA: ningún libro dice textualmente 'la vesícula envía sus aferentes por el esplácnico mayor'; se deduce de las dos fuentes anatómicas. En el original la opción a) 'esplácnicos torácicos mayores' está resaltada. El texto venía mezclado con la explicación del Meckel y con otra pregunta (embarazo ectópico: 'Trompas uterinas') que no tiene opciones en el original; esa pregunta no se incluyó. Hay una línea extra '3) Nervios esplácnicos' en el original, repetición de la opción a)."
+ },
+ {
+  "k": "9ef196e97b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 35 años ingresa en el hospital con una hernia inguinal indirecta. Durante una hernioplastia abierta (a diferencia del procedimiento laparoscópico), se identifican el cordón espermático y los músculos oblicuos internos del abdomen. ¿Qué componente del cordón espermático deriva del músculo oblicuo interno del abdomen?",
+  "opts": [
+   "Fascia espermática externa.",
+   "Músculo cremáster.",
+   "Túnica vaginal.",
+   "Fascia espermática interna.",
+   "Fascia dartos."
+  ],
+  "ans": 1,
+  "why": "El músculo cremáster nace de las fibras inferiores del oblicuo interno y rodea el cordón espermático. La fascia espermática externa se continúa con la aponeurosis del oblicuo externo, la fascia espermática interna prolonga la fascia transversalis, y la túnica vaginal es un resto del peritoneo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1133 del PDF (el cremáster nace del oblicuo interno)",
+   "Latarjet, Anatomía humana, t. 2, p. 660 del PDF (fascículo lateral del cremáster en el oblicuo interno; fascia espermática externa y interna)",
+   "de Virgilio ABSITE 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: B (resaltado). La dartos no deriva de ninguna capa muscular abdominal (no se cita explícitamente su origen)."
+ },
+ {
+  "k": "dff469fe1d",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años ingresa en el hospital con síntomas de obstrucción intestinal superior. En la TC se encuentra que la tercera porción (transversa) del duodeno está comprimida por un gran vaso. ¿Cuál de los siguientes vasos causará muy probablemente la obstrucción?",
+  "opts": [
+   "Arteria mesentérica inferior.",
+   "Arteria mesentérica superior.",
+   "Vena mesentérica inferior.",
+   "Vena porta.",
+   "Vena esplénica."
+  ],
+  "ans": 1,
+  "why": "La arteria mesentérica superior cruza por delante de la tercera porción (transversa) del duodeno y puede comprimirla (síndrome de la AMS o de Wilkie), con náuseas, vómitos y distensión. Las demás estructuras no cruzan por delante de la tercera porción del duodeno.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1321 del PDF (compresión vascular del duodeno)",
+   "Sabiston 21.ª ed., p. 1266 del PDF (la AMS cursa por delante de la tercera porción del duodeno)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: B (resaltado). Las otras opciones no están descartadas una a una en el libro; la clave se apoya en la descripción positiva del síndrome (INDIRECTA parcial)."
+ },
+ {
+  "k": "01f4de8258",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años ingresa en el hospital con una hernia masiva que pasa por el triángulo inguinal (de Hesselbach). ¿Cuál de las siguientes estructuras se usa para distinguir entre hernia inguinal directa e indirecta?",
+  "opts": [
+   "Vasos epigástricos inferiores.",
+   "Conducto femoral.",
+   "Ligamento inguinal.",
+   "Músculo recto abdominal (borde externo).",
+   "Ligamento pectíneo."
+  ],
+  "ans": 0,
+  "why": "Los vasos epigástricos inferiores son el límite: la hernia indirecta nace lateral a ellos (por el anillo inguinal profundo) y la directa, medial, por el triángulo de Hesselbach, cuyo borde lateral son esos vasos.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 43 del PDF (hernias indirectas laterales y directas mediales a los vasos epigástricos inferiores)",
+   "Sabiston 21.ª ed., p. 1130 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 38 del PDF (triángulo de Hesselbach)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "dd4f77f04e",
+  "estado": "confirmada",
+  "stem": "Una niña de 1 año ingresa en el hospital con una masa palpable en los labios mayores. La exploración radiológica revela que un asa intestinal se ha herniado en el labio mayor visiblemente dilatado. Este trastorno se debe al fallo del cierre del proceso vaginal. ¿De cuál de las siguientes capas tisulares deriva el proceso?",
+  "opts": [
+   "Peritoneo parietal",
+   "Tejido extraperitoneal",
+   "Fascia transversa",
+   "Fascia dartos"
+  ],
+  "ans": 0,
+  "why": "El proceso vaginal es un divertículo alargado del peritoneo (parietal) que acompaña al testículo en su descenso. Si no se oblitera, origina la hernia inguinal indirecta congénita. Las demás opciones no se describen como origen del proceso en la fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1892 del PDF (el proceso vaginal es un divertículo del peritoneo)",
+   "de Virgilio ABSITE 3.ª ed., p. 37 del PDF (hernia pediátrica por falla del cierre del proceso vaginal)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: A (resaltado). El libro dice 'peritoneo', no específicamente 'peritoneo parietal'; las otras opciones no se citan una a una (INDIRECTA parcial)."
+ },
+ {
+  "k": "56ff9be053",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años entró en urgencias aquejado de dolor abdominal intenso. Durante la exploración física se observó una ausencia del reflejo cremastérico. ¿Cuál de los siguientes nervios es responsable de la rama eferente del reflejo cremastérico?",
+  "opts": [
+   "Ilioinguinal.",
+   "Iliohipogástrico.",
+   "Genitofemoral.",
+   "Pudendo."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Los libros no coinciden: el ABSITE (pp. 36 y 43) atribuye la rama eferente al genitofemoral, pero Latarjet t. 2 p. 660 dice que el cremáster lo inerva el ilioinguinal. Clave que proponía el revisor: C. La rama genital del nervio genitofemoral inerva motoramente el cremáster y es la rama eferente del reflejo cremastérico. El ilioinguinal inerva el oblicuo interno y da sensibilidad sobre el cordón.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 43 del PDF (el ramo genital inerva el cremáster y es responsable del reflejo cremastérico)",
+   "de Virgilio ABSITE 3.ª ed., p. 36 del PDF (en el hombre aporta motor al cremáster)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: C (resaltado). Latarjet t.2 p. 660 dice que el cremáster está inervado por el ilioinguinal, lo que contradice al ABSITE y a la anatomía estándar; se sigue el ABSITE (banco de preguntas ABSITE traducidas). Iliohipogástrico y pudendo no están descartados explícitamente en el libro."
+ },
+ {
+  "k": "9cbc4c49ed",
+  "estado": "confirmada",
+  "stem": "Un hombre de 56 años es diagnosticado de vólvulo de intestino medio e isquemia intestinal. Se realiza una laparotomía para liberar la obstrucción intestinal. ¿Cuál de las siguientes estructuras se usa como punto de referencia para determinar la posición de la unión duodenoyeyunal?",
+  "opts": [
+   "Arteria mesentérica superior.",
+   "Arteria mesentérica inferior.",
+   "Vasos rectos.",
+   "Ligamento suspensorio del duodeno (ligamento de Treitz)."
+  ],
+  "ans": 3,
+  "why": "El ligamento suspensorio del duodeno (de Treitz) marca la unión duodenoyeyunal: el duodeno ascendente (4.º segmento) termina en el ligamento de Treitz y el yeyuno empieza allí; por eso se identifica para localizar la unión.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 133 del PDF (el duodeno ascendente termina en el ligamento de Treitz; el yeyuno comienza en él)",
+   "Sabiston 21.ª ed., p. 1881 del PDF (segmento duodenoyeyunal fijado en el ligamento de Treitz)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: D (resaltado). Las arterias mesentéricas y los vasos rectos no se descartan explícitamente en el libro (INDIRECTA parcial)."
+ }
+]

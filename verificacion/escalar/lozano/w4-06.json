@@ -1,0 +1,272 @@
+[
+ {
+  "k": "cf02b83807",
+  "sec": "Abdomen general",
+  "stem": "Hernia que contiene vejiga urinaria:",
+  "opts": [
+   "Amyand",
+   "Littré",
+   "Deslizante",
+   "Inguinoescrotal",
+   "De Richter"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "d60c5aaf83",
+  "sec": "Abdomen general",
+  "stem": "¿Qué estructura se hernia en la hernia de Littré?",
+  "opts": [
+   "Ciego",
+   "Apéndice",
+   "Ovario",
+   "Divertículo de Meckel",
+   "Uréter"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "8eb44b002d",
+  "sec": "Abdomen general",
+  "stem": "Hernia que protruye por el borde externo de los rectos:",
+  "opts": [
+   "Spiegel",
+   "Amyand",
+   "Crural",
+   "Obturatriz",
+   "Umbilical"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "f0837803dc",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál es la característica de la hernia de Spiegel?",
+  "opts": [
+   "Es una hernia mixta en pantalón",
+   "Es una hernia directa que atraviesa el anillo inguinal",
+   "Es una hernia deslizada cuyo contenido es colon",
+   "Su presentación por lo general es supraumbilical",
+   "Se produce en el borde lateral de la vaina de los recto"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "5f013d86fa",
+  "sec": "Abdomen general",
+  "stem": "Hombre de 75 años con hernia femoral incarcerada, INR 3.1 por warfarina. ¿Qué hacer?",
+  "opts": [
+   "Reparación laparoscópica de emergencia",
+   "Reparación abierta de emergencia",
+   "Uso de malla",
+   "Corregir INR y operar por la mañana",
+   "Intentar reducción en emergencia con sedació"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "a47002ede3",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las hernias femorales?",
+  "opts": [
+   "Son la hernia más común en mujeres.",
+   "El ligamento de Cooper se considera el límite anterior del canal femoral.",
+   "Se ubican lateralmente a la vena femoral.",
+   "La reparación implica aproximar el tracto",
+   "La operación de Bassini se considera una opción quirúrgica adecuada."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 81,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "457f3d5e7b",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 42 años se presenta al servicio de urgencias con dolor abdominal vago desde hace un mes que ha empeorado repentinamente en las últimas horas. Se realiza una tomografía computarizada (TC) del abdomen y muestra infiltración de la grasa mesentérica entre el músculo recto abdominal y la línea semilunar. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Típicamente los pacientes se presentan con una masa palpable.",
+   "Requiere reparación abierta con incisión",
+   "Los pacientes con esta condición suelen estar anticoagulados.",
+   "Existe un alto riesgo de sepsis.",
+   "Se considera un diagnóstico clínico y"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 81,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "279f68ba62",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a las hernias umbilicales en adultos?",
+  "opts": [
+   "La mayoría son congénitas.",
+   "La reparación está contraindicada en",
+   "El estrangulamiento es menos común que en los niños.",
+   "Las hernias pequeñas y asintomáticas pueden observarse clínicamente.",
+   "El cierre primario tiene tasas de recurrencia similares a la reparación con malla."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 81,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "34d86315ea",
+  "sec": "Abdomen general",
+  "stem": "La orquitis isquémica después de la reparación de hernia inguinal se debe más frecuentemente a:",
+  "opts": [
+   "Reconstrucción demasiado apretada del anillo inguinal",
+   "Patología testicular preexistente",
+   "Ligadura inadvertida de la arteria testicular",
+   "Excisión completa de un saco herniario",
+   "Irrigación anómala del testículo"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 81,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "7959995917",
+  "sec": "Abdomen general",
+  "stem": "Cuatro meses después de una reparación de hernia inguinal abierta con malla, un paciente informa dolor ardoroso persistente en el sitio de la incisión que se irradia hacia la ingle. En el examen, no hay evidencia de recurrencia de la hernia. El paciente experimentó mejoría moderada después de un bloqueo nervioso guiado por ecografía inmediatamente lateral al cordón espermático, cerca del tubérculo púbico. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "La identificación cuidadosa de los tres nervios sensoriales evitará esta complicación.",
+   "El manejo inicial implica reexploración de la herida.",
+   "La reoperación por falla del tratamiento",
+   "El dolor crónico después de reparación de hernia es poco común.",
+   "La división intencionada de nervios sensoriales en la ingle durante la operación inicial habría evitado efectivamente esta complicación."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 81,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "5ec00949fb",
+  "sec": "Abdomen general",
+  "stem": "Un lactante masculino de 5 meses previamente a término se presenta con una masa dolorosa en la ingle izquierda que ha estado presente durante varias horas. Hay un leve eritema sobre la piel. No tiene fiebre y sus análisis de laboratorio son normales. ¿Cuál de los siguientes es el mejor siguiente paso?",
+  "opts": [
+   "Intentar reducción manual, y si es exitosa, programar reparación quirúrgica cuando el infante cumpla 1 año.",
+   "Intentar reducción manual, y si es exitosa, llevar inmediatamente al quirófano para reparación quirúrgica.",
+   "Intentar reducción manual, y si es exitosa, programar reparación en 2 días.",
+   "Intentar reducción manual, y si es exitosa, programar reparación quirúrgica del lado izquierdo con exploración inguinal contralateral en 2 días.",
+   "Llevar inmediatamente al quirófano para"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 82,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "bdf598c412",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía de las hernias?",
+  "opts": [
+   "El ligamento de Poupart está formado por la porción anteroinferior de la aponeurosis del oblicuo externo.",
+   "El músculo cremáster se origina del músculo transverso del abdomen.",
+   "La rama genital del nervio genitofemoral pasa por el anillo superficial.",
+   "La rama femoral del nervio genitofemoral",
+   "Las hernias indirectas surgen con mayor"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 82,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "78ff338fe0",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 55 años se presenta con una protuberancia dolorosa en la ingle izquierda que apareció hace varios meses. Su historia quirúrgica incluye una reparación de hernia inguinal derecha abierta. Al examinarlo, también se nota una protuberancia en la ingle derecha sobre su incisión previa. Ambas masas son reducibles. ¿Cuál de las siguientes afirmaciones es verdadera respecto a su condición?",
+  "opts": [
+   "Se prefiere la reparación abierta.",
+   "En la reparación laparoscópica, no fijar la malla lateralmente a los vasos epigástricos inferiores puede llevar a recurrencia a través del anillo interno.",
+   "Violar el peritoneo durante una reparación totalmente extraperitoneal (TEP) requiere conversión a un abordaje abierto o",
+   "La parestesia o dolor persistente en el muslo lateral es más común con la reparación abierta que con la laparoscópica.",
+   "La reparación laparoscópica evitará que"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 82,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "f03c61924c",
+  "sec": "Abdomen general",
+  "stem": "Un paciente varón de 28 años solicita consejo sobre si optar por una reparación con malla abierta o una reparación TEP para una hernia inguinal derecha reducible recientemente diagnosticada. ¿Qué se le puede decir al paciente sobre estos dos métodos de reparación?",
+  "opts": [
+   "El dolor crónico se reduce con la reparación con malla abierta.",
+   "El tiempo operatorio no difiere",
+   "La reparación TEP se asocia con un retorno más rápido al trabajo y a las actividades normales.",
+   "La reparación con malla abierta se asocia con un mayor número de complicaciones intraoperatorias.",
+   "La recurrencia es relativamente común (>25%) sin importar el método elegido."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 82,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "26c851c8cf",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 45 años se presenta con una hernia incisional reducible pero dolorosa de manera intermitente, ubicada aproximadamente 5 cm por encima de su ombligo. Tuvo una laparotomía previa por una herida de bala hace unos 10 años, complicada por una infección del sitio quirúrgico. El examen físico revela un defecto de aproximadamente 6 cm de tamaño. ¿Cuál de las siguientes afirmaciones es verdadera respecto a su condición?",
+  "opts": [
+   "La hernia incisional ocurre en",
+   "El costo total de una reparación laparoscópica es mayor que el de una reparación abierta.",
+   "La reparación de defectos mayores de 10 cm no debe intentarse por vía laparoscópica.",
+   "La infección del sitio quirúrgico probablemente contribuyó a esta complicación.",
+   "El uso de malla de interposición reduce las"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 82,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ }
+]

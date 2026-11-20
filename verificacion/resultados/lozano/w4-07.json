@@ -1,0 +1,297 @@
+[
+ {
+  "k": "05e48ba640",
+  "estado": "confirmada",
+  "stem": "Una mujer de 78 años se presenta con un historial de 6 horas de vómitos biliosos. Al examen, tiene una masa firme y dolorosa justo inferior al ligamento inguinal en el lado izquierdo. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la condición más probable?",
+  "opts": [
+   "El ligamento de Gimbernat (lacunar) está lateral a la masa.",
+   "Si se descubre en un paciente asintomático, aún debe repararse.",
+   "El músculo aductor largo frecuentemente marca el borde lateral de la masa.",
+   "La reparación por una incisión infrainguinal directamente sobre la masa no está recomendada.",
+   "El riesgo de esta condición es similar en mujeres multíparas y nulíparas."
+  ],
+  "ans": 1,
+  "why": "Es una hernia femoral incarcerada (masa bajo el ligamento inguinal, vómitos biliosos). Las hernias femorales tienen la tasa de estrangulación más alta (15-20%), por eso se recomienda repararlas todas en cuanto se diagnostican, aunque no den síntomas. A es falsa: el ligamento lagunar es el límite medial del conducto femoral (la vena femoral es el lateral). D es falsa: la hernia femoral puede repararse por vía inguinal o por una incisión infrainguinal directamente sobre el abultamiento. C: el aductor largo es el borde medial del triángulo femoral, no el borde lateral de la masa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1131 del PDF",
+   "Sabiston 21.ª ed., p. 1141 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 37 y 45 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado). INDIRECTA para C y E: no encontré texto que descarte directamente que el aductor largo marque el borde lateral de la masa ni que el riesgo sea igual en multíparas y nulíparas; B sí está respaldada por dos libros.",
+  "tema": "hernias"
+ },
+ {
+  "k": "765b8b0bf5",
+  "estado": "confirmada",
+  "stem": "Una mujer de 55 años se presenta con una protuberancia indolora en la pared abdominal. Informa que ha tenido éxito con un programa de dieta y ejercicio y ha perdido casi 40 kg en los últimos 2 años. Sin embargo, está preocupada porque ayer, al incorporarse en la cama, notó una protuberancia que parece una cresta grande entre su caja torácica y el ombligo. En el examen físico, la protuberancia se hace visible cuando levanta la cabeza de la cama. ¿Cuál de las siguientes afirmaciones es verdadera respecto a su condición?",
+  "opts": [
+   "La reparación quirúrgica debe realizarse inmediatamente antes de que aparezcan signos de incarceración.",
+   "Existen etiologías tanto congénitas como adquiridas.",
+   "Un régimen estricto de ejercicios para la pared abdominal generalmente resulta en la resolución completa.",
+   "El defecto está limitado a la fascia transversalis.",
+   "Típicamente, estos defectos contienen solo grasa preperitoneal."
+  ],
+  "ans": 1,
+  "why": "Es una diástasis de rectos (separación de los rectos con adelgazamiento de la línea alba, visible al contraer el abdomen tras bajar de peso). Puede ser adquirida (p. ej., multíparas, por estiramiento repetido) o congénita (inserción más lateral de los rectos). A es falsa: no hay riesgo de estrangulación porque todas las capas fasciales están intactas. C es falsa: los ejercicios ayudan, pero la resolución completa en adultos es poco probable. D y E describen otra cosa: la hernia epigástrica, que sí es un defecto real de la línea alba con grasa preperitoneal o ligamento falciforme.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 45-46 del PDF (respuesta 17)"
+  ],
+  "nota": "Clave original: B (resaltado). Es la misma pregunta que la 17 del libro ABSITE, con respuesta B.",
+  "tema": "hernias"
+ },
+ {
+  "k": "e47302b99c",
+  "estado": "dudosa",
+  "stem": "Una mujer de 20 años se presenta a urgencias con una historia de 4 horas de dolor intenso en el cuadrante inferior izquierdo, una semana después de una apendicectomía laparoscópica sin complicaciones. Refiere náuseas y anorexia, pero niega vómitos o dificultad para defecar. Tiene sensibilidad a la palpación en el sitio previo de un trocar de 12 mm, con algo de eritema y abultamiento suprayacente, pero la incisión está intacta y sin drenaje. La tomografía computarizada muestra una asociación estrecha del íleon con la pared abdominal en este sitio y una colección aire-líquido dentro de la pared abdominal que parece estar en continuidad con el íleon. El intestino delgado parece estar moderadamente dilatado sin un punto de transición. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se debe intentar una compresión suave del sitio del trocar bajo sedación consciente.",
+   "El sitio del trocar debe ser incindido y drenado en el quirófano.",
+   "El sitio del trocar debe abrirse en urgencias.",
+   "Esta condición puede tratarse por vía laparoscópica.",
+   "Existe poco riesgo de desarrollar intestino necrótico."
+  ],
+  "ans": null,
+  "why": "Es una hernia precoz del sitio de trocar con íleon en la pared abdominal (tipo Richter). La clave original (D, tratamiento laparoscópico) es plausible, pero en los libros de la carpeta (Sabiston, ABSITE, Giménez) no hay texto sobre el manejo de la hernia del sitio de trocar con intestino incarcerado, y en la búsqueda en Europe PMC solo aparecieron reportes de casos y revisiones de prevención, que no deciden entre las cinco opciones. Sin una fuente que respalde D y descarte las otras, no se puede confirmar.",
+  "fuentes": [
+   "Búsqueda en Sabiston 21.ª ed., ABSITE 3.ª ed. y Giménez sin resultados sobre este tema",
+   "Europe PMC: solo reportes de caso y revisiones de prevención (sin guía que decida)"
+  ],
+  "nota": "Clave original: D (resaltado). Es probablemente la respuesta del ABSITE, pero no la pude respaldar con una fuente de la carpeta.",
+  "tema": "hernias"
+ },
+ {
+  "k": "8c38e49ca4",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años se presenta a urgencias con un historial de 4 horas de dolor abdominal y náuseas. Afirma que ha tenido una pequeña protuberancia inguinal derecha durante varios años que intermitentemente sobresale y se vuelve dolorosa, pero siempre ha podido reducirla manualmente. Lo mismo ocurrió hoy temprano, pero ahora tiene dolor abdominal constante. En el examen, su abdomen está blando y no doloroso. No tiene leucocitosis. El examen inguinal no revela evidencia de hernia en ningún lado, y no presenta sensibilidad testicular ni epididimaria. No hay sensibilidad a la palpación del canal inguinal. Sin embargo, sus náuseas persisten. ¿Cuál de las siguientes es el siguiente paso más apropiado?",
+  "opts": [
+   "Reparación urgente de hernia inguinal derecha",
+   "Reparación de hernia inguinal derecha dentro de los próximos 2 días",
+   "Tomografía computarizada de abdomen y pelvis",
+   "Ecografía escrotal",
+   "Ingreso para observación"
+  ],
+  "ans": null,
+  "why": "La clave original (C, tomografía) sería lógica si se sospecha una reducción de la hernia con el contenido aún atrapado (reducción en masa) o una complicación intraabdominal. Pero ni Sabiston ni ABSITE (ni Giménez) tratan este escenario: la búsqueda de 'reducción en masa' no dio ningún texto que lo respalde, y no hay fuente que descarte la observación o la reparación urgente. Sin evidencia de libro o guía, no se puede decidir.",
+  "fuentes": [
+   "Búsqueda en Sabiston 21.ª ed., ABSITE 3.ª ed. y Giménez sin resultados sobre este escenario"
+  ],
+  "nota": "Clave original: C (resaltado). No la pude respaldar con una fuente.",
+  "tema": "hernias"
+ },
+ {
+  "k": "30ea58b784",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes reparaciones de hernia está INCORRECTAMENTE emparejada con un paso clave en su realización?",
+  "opts": [
+   "Reparación de Bassini: incisión de la fascia transversalis para entrar al espacio preperitoneal",
+   "Reparación de McVay: incisión de la vaina anterior del recto",
+   "Reparación de Shouldice: sutura de la fascia transversalis al ligamento de Cooper",
+   "Reparación de Lichtenstein: recreación del anillo interno con malla protésica",
+   "Reparación de Laroque: extracción del contenido herniario a través de una incisión superior al anillo interno"
+  ],
+  "ans": null,
+  "why": "C es claramente incorrecta: en Shouldice la fascia transversalis se incide y se reaproxima en capas con sutura continua, y la primera línea fija el arco del transverso a la cintilla iliopúbica; suturar al ligamento de Cooper es la reparación de McVay. B es correcta (McVay lleva incisión de relajación en la vaina anterior del recto) y D también (las colas de la malla de Lichtenstein crean un nuevo anillo interno). Pero no encontré fuente para A (Bassini con apertura de la fascia transversalis hacia el espacio preperitoneal) ni para E (Laroque no aparece en ningún libro de la carpeta), así que no puedo asegurar que C sea la única incorrecta.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 37 del PDF",
+   "Sabiston 21.ª ed., p. 1136 y 1138 del PDF"
+  ],
+  "nota": "Clave original: C (resaltado). C es casi seguro la respuesta, pero las opciones A y E no tienen respaldo en las fuentes disponibles; según las reglas, queda dudosa.",
+  "tema": "hernias"
+ },
+ {
+  "k": "082d0b1372",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la separación de componentes (component separation)?",
+  "opts": [
+   "Se recomienda liberar el músculo oblicuo interno si no se puede cerrar después de incidir la aponeurosis del oblicuo externo.",
+   "La ligadura de los perforantes de la pared abdominal es esencial al levantar los colgajos laterales.",
+   "Las tasas de recurrencia son mucho más altas en comparación con el uso de malla protésica.",
+   "Incidir la vaina posterior del recto por encima del nivel de la línea arqueada puede aumentar la longitud disponible para la reparación.",
+   "Al liberar el oblicuo externo, la incisión se extiende desde el margen costal hasta la línea arqueada."
+  ],
+  "ans": null,
+  "why": "D tiene respaldo: Sabiston dice que se logra más liberación incidiendo la vaina posterior del recto, y la vaina posterior solo existe por encima de la línea arqueada. B es falsa: los perforantes grandes se preservan. E es falsa: la incisión sobre el oblicuo externo va desde varios cm por encima del borde costal hasta el pubis. A es poco recomendable: incisiones en el oblicuo interno o transverso dan abultamientos o hernias laterales. El problema es C: Sabiston reconoce 'altas tasas de recidiva' con la separación de componentes sola, por lo que C es defendible según el enunciado; hay dos opciones sostenibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1150 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 43 y 352 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). Probable respuesta del ABSITE, pero C también tiene respaldo parcial en Sabiston.",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "8597e454ea",
+  "estado": "confirmada",
+  "stem": "Un hombre de 51 años con cirrosis hepática presenta una hernia umbilical moderada, reducible, que ocasionalmente causa dolor. La piel está intacta y no hay drenaje. Tiene una cantidad significativa de ascitis. Bilirrubina, albúmina y tiempo de protrombina son normales. No tiene encefalopatía ni dolor en el sitio de la hernia. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Colocación de derivación portosistémica intrahepática transyugular (TIPS)",
+   "Paracentesis de seis litros seguida de albúmina intravenosa",
+   "Reparación quirúrgica de la hernia",
+   "Furosemida, espironolactona y restricción de sodio",
+   "Observación"
+  ],
+  "ans": 3,
+  "why": "Antes de operar hay que controlar la ascitis; reparar la hernia sin tratarla aumenta la falla de la reparación. El tratamiento inicial de la ascitis en cirrosis es dieta baja en sodio más espironolactona y furosemida, y funciona en la mayoría. La paracentesis de gran volumen con albúmina es el paso siguiente si es refractaria, y el TIPS se reserva para buena función hepática si no responde. La cirugía inmediata (C) o solo observar (E) no tratan la causa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 71 del PDF (respuesta 17)",
+   "de Virgilio ABSITE 3.ª ed., p. 45 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "hernias"
+ },
+ {
+  "k": "31fb947449",
+  "estado": "dudosa",
+  "stem": "Un hombre con GEA post-COVID y aire libre subdiafragmático en Rx, líquido libre en TAC y dolor abdominal. ¿Mejor diagnóstico?",
+  "opts": [
+   "Obstrucción con perforación",
+   "Colecistitis con peritonitis",
+   "Pancreatitis necrosada",
+   "Úlcera gástrica perforada",
+   "Apendicitis complicada"
+  ],
+  "ans": null,
+  "why": "El aire libre bajo el diafragma indica perforación de víscera hueca (Sabiston lo describe como signo de víscera hueca perforada), y la úlcera péptica perforada es la causa clásica. Pero el enunciado está abreviado y incompleto: 'GEA' no está definido, no dice dónde duele ni si hay antecedente ulceroso, y la opción A (obstrucción con perforación) también produciría aire libre. Además la perforación péptica puede ser duodenal, y 'gástrica' no se puede decidir con estos datos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1164 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). Pregunta propia del aula (no es ABSITE), sin libro que la respalde.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "80a509db5b",
+  "estado": "confirmada",
+  "stem": "La obstrucción intestinal delgado en el postoperatorio temprano:",
+  "opts": [
+   "Se maneja mejor sin cirugía en la mayoría de los pacientes",
+   "Es más frecuente en cirugías del intestino superior que del inferior",
+   "No parece ocurrir después de una cirugía aórtica transperitoneal abierta",
+   "Tiene una tasa de estrangulación mayor que la obstrucción intestinal tardía",
+   "Se asocia con altas tasas de morbilidad y mortalidad"
+  ],
+  "ans": 0,
+  "why": "Más del 90% de las obstrucciones postoperatorias son parciales y se resuelven con reposo intestinal, líquidos y nutrición parenteral si hace falta; la mayoría se maneja sin cirugía (65-81% de éxito con descompresión). D y E son falsas: la incidencia de estrangulación no es mayor que en la obstrucción tardía y la morbimortalidad de la obstrucción precoz es muy baja. B es falsa: el riesgo de readmisión por adherencias es mayor tras cirugía abdominal inferior.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1282 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 144 del PDF"
+  ],
+  "nota": "Clave original: A (resaltado). INDIRECTA para C: no hay fuente que respalde ni descarte directamente que ocurra tras cirugía aórtica; A sí está respaldada por dos libros.",
+  "tema": "intestino"
+ },
+ {
+  "k": "0981c9ce6c",
+  "estado": "confirmada",
+  "stem": "Un hallazgo intraoperatorio virtualmente patognomónico de la enfermedad de Crohn es:",
+  "opts": [
+   "Estrechamiento extenso del intestino delgado",
+   "Múltiples abscesos entre asas del intestino delgado",
+   "Múltiples fístulas enterocutáneas",
+   "Ileítis terminal",
+   "Envoltura mesentérica extensa (fat wrapping)"
+  ],
+  "ans": 4,
+  "why": "La grasa mesentérica que envuelve el intestino ('creeping fat' o fat wrapping) es un hallazgo macroscópico considerado patognomónico de Crohn y se correlaciona con inflamación subyacente. La ileítis terminal no es patognomónica: tiene muchas causas infecciosas (Yersinia, Salmonella, Campylobacter, etc.) y solo una minoría progresa a Crohn.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 146-147 del PDF"
+  ],
+  "nota": "Clave original: E (resaltado). INDIRECTA para A, B y C: el libro no las descarta una por una, solo da a la envoltura mesentérica como la patognomónica.",
+  "tema": "intestino"
+ },
+ {
+  "k": "b7dc43a1e3",
+  "estado": "nueva",
+  "stem": "La presentación más común del divertículo de Meckel en niños es:",
+  "opts": [
+   "Intususcepción",
+   "Hemorragia gastrointestinal",
+   "Encarnación en un saco herniario",
+   "Diverticulitis",
+   "Obstrucción causada por vólvulo"
+  ],
+  "ans": 1,
+  "why": "En niños, la hemorragia digestiva baja indolora, a veces masiva, es el síntoma de presentación más frecuente del divertículo de Meckel (por úlcera ileal adyacente a mucosa gástrica ectópica). La obstrucción (vólvulo, invaginación) es otra presentación frecuente pero menos; la incarceración en hernia (Littre) es rara y la diverticulitis es más común en adultos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "nota": "Sin clave original en el banco (en el original estaba resaltada B con un tono más claro, coincide).",
+  "tema": "intestino"
+ },
+ {
+  "k": "73a3963eab",
+  "estado": "confirmada",
+  "stem": "El tratamiento del síndrome de intestino corto incluye todo lo siguiente, EXCEPTO:",
+  "opts": [
+   "Colestiramina",
+   "Omeprazol",
+   "Codeína",
+   "Evitar la alimentación enteral",
+   "Antagonistas H2"
+  ],
+  "ans": 3,
+  "why": "La alimentación enteral se debe iniciar en cuanto se resuelve el íleo, porque favorece la adaptación intestinal y evita la atrofia vellositaria. Las otras sí se usan: la codeína y otros antimotilidad enlentecen el tránsito; omeprazol y antagonistas H2 controlan la hipersecreción ácida tras resección masiva; la colestiramina controla la diarrea por sales biliares no absorbidas.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 142 del PDF (respuesta 6)"
+  ],
+  "nota": "Clave original: D (resaltado).",
+  "tema": "intestino"
+ },
+ {
+  "k": "58205b8062",
+  "estado": "nueva",
+  "stem": "Un niño de 6 años tiene síndrome de intestino corto causado por vólvulo de intestino medio que ocurrió en la infancia y ha estado en NPT desde entonces, con buena tolerancia. Le quedan aproximadamente 28 cm de intestino delgado con colon intacto. El intestino delgado está muy dilatado, sin evidencia de obstrucción. ¿Cuál es la mejor opción?",
+  "opts": [
+   "Procedimiento de enteroplastia transversal seriada (STEP)",
+   "Continuar con NPT",
+   "Trasplante de intestino delgado",
+   "Procedimiento de reducción del calibre intestinal",
+   "Procedimiento de reducción y alargamiento intestinal (Bianchi)"
+  ],
+  "ans": 0,
+  "why": "Con un remanente corto (<30 cm en niños) y muy dilatado, sin obstrucción, la mejor opción es un procedimiento de alargamiento: la enteroplastia transversal seriada (STEP), con grapas transversales alternando borde mesentérico y antimesentérico. Bianchi es otra opción pero es más difícil, con más riesgo de isquemia y fugas. El solo reducir el calibre es para remanentes más largos (>60 cm en niños). El trasplante se reserva para quien depende de NPT y tiene complicaciones de la NPT, y aquí la tolera bien.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 142 del PDF (respuesta 7)"
+  ],
+  "nota": "Sin clave original en el banco; en el original estaba resaltada A (STEP) y coincide. Texto reparado: la opción A estaba cortada.",
+  "tema": "intestino"
+ },
+ {
+  "k": "41a594afae",
+  "estado": "dudosa",
+  "stem": "Una mujer de 68 años presenta una exacerbación de insuficiencia cardíaca congestiva y dolor abdominal agudo. El examen físico abdominal muestra dolor difuso leve sin rebote ni rigidez. La arteriografía por TC muestra estrechamiento difuso de la arteria mesentérica superior (AMS) y sus ramas. ¿Cuál es la mejor opción de tratamiento?",
+  "opts": [
+   "Heparina intravenosa en infusión continua",
+   "Laparotomía exploradora",
+   "Observación",
+   "Papaverina intraarterial",
+   "Terapia trombolítica"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): La respuesta del ABSITE para esta pregunta es aumentar el gasto cardíaco, opción que esta versión traducida no trae; el libro considera la papaverina útil pero no de primera línea. Clave que proponía el revisor: D. Es isquemia mesentérica no oclusiva (espasmo difuso sin oclusión, en bajo gasto cardíaco). El objetivo es restaurar el flujo, y la infusión selectiva de papaverina en la AMS revierte la vasoconstricción esplácnica. La heparina sola es para trombosis venosa mesentérica; la laparotomía es para peritonitis o infarto; la trombólisis es para émbolos y no es el estándar; observar no trata una condición con ~50% de mortalidad.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 143 del PDF (respuesta 9)",
+   "de Virgilio ABSITE 3.ª ed., p. 283 del PDF"
+  ],
+  "nota": "Clave original: D (resaltado). INDIRECTA: en la 3.ª edición del ABSITE la pregunta trae una opción más ('aumentar el gasto cardíaco') que es la primera línea, y dice que la papaverina es útil pero no primera línea. Esa opción no está en este banco, y entre las cinco dadas la papaverina es la única respaldada.",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "7bc9485b4b",
+  "estado": "confirmada",
+  "stem": "Un saco herniario que contiene un divertículo de Meckel se conoce como:",
+  "opts": [
+   "Hernia de Petit",
+   "Hernia de Littre",
+   "Hernia de Spiegel",
+   "Hernia de Richter",
+   "Hernia de Grynfeltt"
+  ],
+  "ans": 1,
+  "why": "Un saco herniario con divertículo de Meckel es la hernia de Littre. Petit y Grynfeltt son hernias lumbares (triángulo inferior y superior); Spiegel es por la fascia de Spiegel; Richter es cuando solo se hernia el borde antimesentérico del intestino.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 145 del PDF (respuesta 16)",
+   "Sabiston 21.ª ed., p. 1313 del PDF"
+  ],
+  "nota": "Clave original: B (resaltado).",
+  "tema": "hernias"
+ }
+]

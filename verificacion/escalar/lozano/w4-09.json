@@ -1,0 +1,272 @@
+[
+ {
+  "k": "b882972c9e",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 62 años con antecedentes de enfermedad coronaria se presenta con pérdida de peso, náuseas, vómitos y dolor abdominal que inicia después de comer. Refiere que los síntomas le han generado mucho estrés y últimamente tiene miedo de comer por el dolor. Al examen abdominal no hay rebote ni defensa. La angiografía esplácnica revela estrechamiento de la arteria mesentérica superior. ¿Cuál de los siguientes es el mejor tratamiento para esta condición?",
+  "opts": [
+   "Resección intestinal",
+   "Comer pequeñas porciones con bajo contenido graso",
+   "Terapia prolongada con warfarina",
+   "Observación, ejercicio regular y cambios de estilo de vida",
+   "Endarterectomía transaórtica"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "8772ebc615",
+  "sec": "Intestino delgado",
+  "stem": "Un neonato de 2 semanas es llevado a urgencias por vómitos biliosos e irritabilidad. Nacido a las 39 semanas por parto vaginal sin complicaciones. Afebril, signos vitales normales. Abdomen distendido y doloroso, timpanismo a la percusión. La serie gastrointestinal alta (Figuras 6-2 A-C) muestra una imagen compatible. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Atresia duodenal",
+   "Intususcepción",
+   "Íleo necrotizante",
+   "Obstrucción del intestino delgado",
+   "Vólvulo"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "37058a5559",
+  "sec": "Intestino delgado",
+  "stem": "Una niña de 4 años se presenta con hematoquecia. Niega dolor, fiebre, vómitos u otros síntomas. Está activa, feliz y ligeramente pálida. Hemoglobina: 8.5 g/dL. ¿Qué examen confirmará con mayor probabilidad el diagnóstico?",
+  "opts": [
+   "Tomografía abdominal",
+   "Arteriografía",
+   "Estudio con bario",
+   "Radiografía simple",
+   "Gammagrafía con tecnecio-99m pertecnetato"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "4954e077b6",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 33 años con artritis psoriásica presenta dolor abdominal, diarrea, fiebre y pérdida de peso en los últimos 6 meses. El dolor mejora con la defecación. Presenta úlceras orales. ¿Cuál de los siguientes NO es característico de su enfermedad?",
+  "opts": [
+   "Granulomas caseificantes en biopsia",
+   "Apariencia empedrada (cobblestoning)",
+   "Afectación del colon ascendente",
+   "Afectación del intestino delgado",
+   "Inflamación transmural en biopsia"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "f7f0e0c6c6",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 82 años, residente en una casa de reposo, se presenta con distensión y dolor abdominal tipo cólico. Antecedentes: enfermedad de Alzheimer, histerectomía, colecistectomía y apendicectomía. Se diagnostica obstrucción intestinal. ¿Cuál de los siguientes NO es una causa mecánica de obstrucción intestinal?",
+  "opts": [
+   "Adherencias abdominales",
+   "Cáncer",
+   "Hernia",
+   "Enfermedad inflamatoria intestinal",
+   "Medicamentos narcóticos"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "89cb3366e9",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 45 años con enfermedad de Crohn severa es sometido a resección del intestino delgado. Se reseca un segmento distal muy comprometido. ¿Cuál de las siguientes NO es una complicación de la resección del intestino delgado distal?",
+  "opts": [
+   "Reciclaje de sales biliares",
+   "Disminución de reabsorción de agua y",
+   "Mala absorción de grasas",
+   "Deficiencias de vitaminas hidrosolubles",
+   "Deficiencia de vitamina B12"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "37b19bbd91",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 35 años con Crohn se somete a resección de 3 cm de íleon. El cirujano envía el espécimen para histología. ¿Cuál es la secuencia correcta de capas del intestino delgado de adentro hacia afuera?",
+  "opts": [
+   "Mucosa, capa muscular circular, submucosa, muscularis mucosae, muscular longitudinal, serosa",
+   "Mucosa, muscularis mucosae, submucosa, capa muscular circular, capa muscular longitudinal, serosa",
+   "Mucosa, muscularis mucosae, submucosa, capa muscular longitudinal, capa muscular circular, serosa",
+   "Mucosa, submucosa, muscularis mucosae, capa muscular circular, capa muscular longitudinal, serosa",
+   "Mucosa, submucosa, muscularis mucosae, capa muscular longitudinal, capa muscular circular, serosa"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "30424adbf4",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 23 años con episodios de dolor abdominal inexplicable presenta múltiples pecas marrones en la piel dentro y alrededor de la boca. Tras evaluación se encuentra intususcepción. ¿Cuál de las siguientes NO es característica de su enfermedad subyacente?",
+  "opts": [
+   "Herencia autosómica dominante",
+   "Mayor riesgo de malignidad intestinal",
+   "Hiperplasia linfoide",
+   "Múltiples hamartomas gastrointestinales",
+   "Mutación STK11/LKB1"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "586a34c302",
+  "sec": "Intestino delgado",
+  "stem": "Una niña de 13 años presenta náuseas, vómitos, diarrea y fiebre luego de comer ensalada de papas que estuvo horas fuera del refrigerador. Está moderadamente enferma pero tolera hidratación oral. Diagnóstico: gastritis bacteriana. ¿Cuál de los siguientes NO es un mecanismo de defensa importante en intestino delgado contra bacterias?",
+  "opts": [
+   "Tejido linfoide asociado al intestino",
+   "Producción de moco",
+   "Bacterias nativas",
+   "Células de Paneth",
+   "Uniones estrechas"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "88cc398cae",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 34 años con artralgias migratorias, diarrea, pérdida de peso, fiebre ocasional y dolor abdominal. Tiene linfadenopatías y áreas de hiperpigmentación. Biopsia intestinal: atrofia de vellosidades, macrófagos con PAS positivo. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Angina abdominal",
+   "Enfermedad celíaca",
+   "Enfermedad de Crohn",
+   "Enfermedad de Hartnup",
+   "Enfermedad de Whipple"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "f6d115e897",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 33 años con náuseas, vómitos, diarrea crónica y dolor abdominal tras comer. Ha visitado muchos médicos. Anticuerpos antiendomisio positivos. ¿Cuál de las siguientes NO es una complicación frecuente de su enfermedad?",
+  "opts": [
+   "Anemia",
+   "Mayor riesgo de aborto espontáneo",
+   "Linfoma intestinal",
+   "Sarcoma intestinal",
+   "Subfertilidad"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "3f1690af3f",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 24 años con 8 meses de diarrea, malestar, dolor abdominal, fiebre ocasional y úlceras orales. Serie gastrointestinal: estenosis de 10 cm en íleon. Albúmina: 2.5 g/dL, PCR elevada, Hb 12.1, leucocitosis. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Adenocarcinoma intestinal",
+   "Enfermedad celíaca",
+   "Enfermedad de Crohn",
+   "Gastritis",
+   "Colitis ulcerosa"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "56777383d5",
+  "sec": "Intestino delgado",
+  "stem": "Un neonato de 3 días que se alimentaba bien comienza con vómitos biliosos, distensión e irritabilidad. Masa palpable en CSD. Enema con bario muestra estrechamiento agudo (“pico de ave”) y dilatación proximal. En cirugía, segmento intestinal de 2 cm con flujo dudoso. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Cierre del paciente y monitoreo clínico",
+   "Cierre más aspiración nasogástrica, antibióticos y soporte IV",
+   "Cierre, soporte y reexploración quirúrgica en 12 a 36 h",
+   "Resección de todo el intestino delgado",
+   "Resección inmediata del segmento comprometido"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "cf9df81aef",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 57 años sin antecedentes quirúrgicos se presenta con 2 días de dolor abdominal, náuseas y vómitos. Al examen se encuentra distendido y timpánico, con leve sensibilidad sin rebote ni defensa. La tomografía computarizada (TC) muestra múltiples asas dilatadas de intestino delgado con un punto de transición en el intestino delgado distal, con algo de estriación grasa mesentérica adyacente. Tiene leucocitosis leve. Su última evacuación fue hace 1 día y no ha eliminado flatos desde entonces. Nunca ha tenido síntomas similares. Se le coloca una sonda nasogástrica, se administran líquidos intravenosos (IV) y se le indica dieta absoluta (NPO). ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Ingreso, observación, esteroides",
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Ingreso, observación",
+   "Ingreso, observación, antibióticos IV"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "fdb01c90f1",
+  "sec": "Intestino delgado",
+  "stem": "La etiología responsable de la presentación más común de un divertículo de Meckel en niños es:",
+  "opts": [
+   "Punto guía",
+   "Mucosa gástrica ectópica",
+   "Mucosa pancreática ectópica",
+   "Infección bacteriana",
+   "Banda adhesiva al ombligo"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 134,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ }
+]

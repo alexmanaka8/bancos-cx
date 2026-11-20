@@ -1,0 +1,299 @@
+[
+ {
+  "k": "5a3dc53085",
+  "estado": "confirmada",
+  "stem": "Un lactante varón de 5 meses, previamente sano, presenta masa dolorosa en la ingle izquierda con leve eritema cutáneo. Está afebril y los laboratorios son normales. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Intentar reducción manual y, si es exitosa, programar la reparación quirúrgica al cumplir 1 año de edad",
+   "Intentar reducción manual y, si es exitosa, llevar inmediatamente a cirugía para reparar",
+   "Intentar reducción manual y, si es exitosa, programar reparación en 2 días",
+   "Intentar reducción manual y, si es exitosa, reparar quirúrgicamente el lado izquierdo y el contralateral",
+   "Llevar inmediatamente al quirófano para reparación quirúrgica"
+  ],
+  "ans": 2,
+  "why": "Una hernia inguinal incarcerada en un lactante sin signos de toxicidad sistémica (afebril, laboratorios normales) se intenta reducir; si se logra, se deja que baje la inflamación unos días y se repara de forma semielectiva (por eso C: reparar en 2 días). Reparar al año (A) deja al niño expuesto a reincarcerarse, y operar de inmediato (B, E) es difícil en tejido inflamado y solo se hace si hay signos de estrangulación (fiebre, leucocitosis, lactato alto). La exploración rutinaria del lado contrario (D) no tiene respaldo amplio.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 41 del PDF (pregunta 13) y p. 45 del PDF (explicación)"
+  ],
+  "tema": "pediatria",
+  "nota": "Clave original C (resaltado); la fuente la respalda."
+ },
+ {
+  "k": "0b45b12a0c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de la anatomía relacionada con la hernia?",
+  "opts": [
+   "El ligamento de Poupart se forma a partir de la porción anteroinferior de la aponeurosis del oblicuo externo",
+   "El musculo cremastier surge del musculo transverso del abdomen",
+   "La rama genital del nervio genitofemoral pasa a través del anillo inguinal superficial",
+   "La rama femoral del nervio genitofemoral inerva el músculo cremáster",
+   "Las hernias indirectas surgen dentro de los límites del músculo recto, el ligamento inguinal y la arteria epigástrica inferior"
+  ],
+  "ans": 0,
+  "why": "El ligamento de Poupart es otro nombre del ligamento inguinal y se forma del borde anteroinferior de la aponeurosis del oblicuo externo que se dobla sobre sí misma (A). El cremáster viene del oblicuo interno (B). La rama genital del genitofemoral pasa por el anillo profundo (C) y es la que inerva el cremáster; la rama femoral da sensibilidad al muslo superolateral (D). Los bordes recto, ligamento inguinal y vasos epigástricos inferiores son los del triángulo de Hesselbach, donde ocurren las hernias directas, no las indirectas (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 40 del PDF (pregunta 6) y p. 43 del PDF (explicación)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original A (resaltado); la fuente la respalda. Texto reparado con el original: la opción D completa es 'La rama femoral del nervio genitofemoral inerva el músculo cremáster'."
+ },
+ {
+  "k": "b70b9cfcaa",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años presenta un bulto doloroso en la ingle izquierda, con antecedentes de reparación abierta previa en la ingle derecha. Actualmente tiene masas reducibles bilaterales. ¿Cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "Se prefiere la reparación abierta bilateral",
+   "En TEP, si la malla no se fija lateralmente a los vasos epigástricos, puede recurrir por el anillo interno",
+   "Si se viola el peritoneo durante TEP, se debe convertir a abordaje abierto preperitoneal",
+   "El dolor o entumecimiento en el muslo lateral es más común con cirugía laparoscópica",
+   "La reparación laparoscópica previene hernias femorales futuras"
+  ],
+  "ans": 4,
+  "why": "Con hernias bilaterales y una de ellas recidivada tras reparación abierta, se ofrece reparación laparoscópica: permite ver ambos lados y la malla cubre también el conducto femoral, por lo que previene una hernia femoral futura (E). La TEP evita las adherencias intraabdominales pero, si se abre el peritoneo, basta repararlo sin convertir (C). La malla no debe fijarse lateral a los vasos epigástricos ni bajo el tracto iliopúbico, por el riesgo de lesionar nervios (B, la opción habla de lo contrario). El dolor o entumecimiento del muslo lateral es más propio de la cirugía laparoscópica (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 40 del PDF (pregunta 8) y p. 43-44 del PDF (explicación)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original E (resaltado); la fuente la respalda."
+ },
+ {
+  "k": "0acb135cce",
+  "estado": "confirmada",
+  "stem": "Un paciente varón de 28 años con hernia inguinal derecha reducible desea comparar reparación abierta con malla vs. reparación TEP. ¿Cuál de las siguientes afirmaciones es correcta?",
+  "opts": [
+   "El dolor crónico es menor con la reparación abierta con malla",
+   "El tiempo operatorio es igual en ambos enfoques",
+   "La reparación TEP permite un regreso más rápido al trabajo y actividad",
+   "La reparación abierta se asocia con más complicaciones intraoperatorias",
+   "Las tasas de recurrencia son altas (>25%) con ambos métodos"
+  ],
+  "ans": 2,
+  "why": "El ensayo LEVEL comparó TEP con reparación abierta con malla: menos dolor temprano y regreso más rápido al trabajo con TEP (C), a costa de más tiempo operatorio y más complicaciones intraoperatorias (B, D). La recurrencia fue equivalente (3,0% vs 3,8%), no >25% (E), y el dolor crónico también fue equivalente (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 41 del PDF (pregunta 9) y p. 44 del PDF (explicación)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C (resaltado); la fuente la respalda."
+ },
+ {
+  "k": "ac94d2b2a6",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años presenta una hernia incisional reducible y dolorosa 5 cm por encima del ombligo, tras laparotomía por herida de bala hace 10 años. Se detecta un defecto de 6 cm. ¿Cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "Las hernias incisionales ocurren en aproximadamente el 1% de las laparotomías",
+   "El costo total de una reparación laparoscópica supera al de una abierta",
+   "No deben intentarse reparaciones laparoscópicas en defectos >10 cm",
+   "La infección del sitio quirúrgico contribuyó a la formación de esta hernia",
+   "La malla de interposición aumenta la tasa de recurrencia comparada con otros métodos"
+  ],
+  "ans": null,
+  "why": "Dos opciones quedan respaldadas por Sabiston. D: la hernia incisional aparece en el 3-20% de laparotomías de línea media y esa cifra se duplica si hubo infección del sitio quirúrgico; el ABSITE dice que la infección de la herida duplica el riesgo. E: Sabiston indica que las reparaciones protésicas de interposición (puente) dan una tasa previsiblemente alta de recidiva. A es falsa (la cifra es 3-20%, no 1%). No hay fuente que decida entre D y E, ni que respalde B y C, así que no se puede fijar una única respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1144 del PDF (incidencia, se duplica con infección del sitio quirúrgico)",
+   "Sabiston 21.ª ed., p. 1149 del PDF (reparación de interposición, recidiva alta)",
+   "Sabiston 21.ª ed., p. 458 del PDF (reparación puente, predictor de recidiva)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 36 del PDF (infección de herida duplica riesgo de hernia)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original D (resaltado); D es cierta, pero E también lo es según Sabiston. Texto reparado con el original: la opción C completa es 'No deben intentarse reparaciones laparoscópicas en defectos >10 cm' (sin fuente consultada)."
+ },
+ {
+  "k": "c7c7cec6a8",
+  "estado": "confirmada",
+  "stem": "Una mujer de 78 años presenta vómitos biliosos de 6 horas de evolución. En el examen se encuentra una masa firme y dolorosa justo por debajo del ligamento inguinal izquierdo. ¿Cuál de las siguientes afirmaciones es cierta respecto de la condición más probable?",
+  "opts": [
+   "El ligamento lagunar está lateral a la masa",
+   "Si se descubre esta hernia en un paciente asintomático, aún así debe repararse",
+   "El músculo aductor largo usualmente marca el borde lateral de la masa",
+   "No se recomienda la reparación mediante una incisión infrainguinal directamente sobre la masa",
+   "El riesgo de esta afección es similar en mujeres multíparas y nulíparas"
+  ],
+  "ans": 1,
+  "why": "Una masa firme y dolorosa bajo el ligamento inguinal con vómitos biliosos es una hernia femoral incarcerada. Todas las hernias femorales deben repararse, aunque sean asintomáticas, por su alto riesgo de estrangulación (B). El ligamento lagunar es el borde medial del conducto femoral, no lateral (A). El aductor largo es el borde medial del triángulo femoral (C). La reparación puede hacerse por una incisión infrainguinal directamente sobre el bulto (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1141 del PDF (todas las hernias femorales deben repararse)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37 del PDF (adductor largo medial; todas las femorales se reparan) y p. 45 del PDF (incisión infrainguinal)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original B (resaltado); la fuente la respalda. Texto reparado con el original: la opción E completa es 'El riesgo de esta afección es similar en mujeres multíparas y nulíparas' (no hallé fuente que la respalde ni la descarte, pero B está respaldada de forma directa)."
+ },
+ {
+  "k": "e32ac7a235",
+  "estado": "confirmada",
+  "stem": "Mujer de 55 años presenta un bulto indoloro en la línea media de la pared abdominal. Refiere pérdida de peso de 40 kg en los últimos 2 años. Observa una cresta entre el esternón y el ombligo al incorporarse. El bulto se hace evidente al levantar la cabeza. ¿Cuál de las siguientes afirmaciones es cierta respecto a su condición?",
+  "opts": [
+   "La reparación quirúrgica debe realizarse de inmediato para prevenir encarcelamiento",
+   "La etiología puede ser tanto congénita como adquirida",
+   "Un régimen estricto de ejercicios de la pared abdominal suele resolverlo completamente",
+   "El defecto se limita exclusivamente a la fascia transversalis",
+   "Estos defectos normalmente contienen solo grasa preperitoneal"
+  ],
+  "ans": 1,
+  "why": "El cuadro es una diástasis de los rectos (cresta en la línea media al levantar la cabeza tras bajar mucho de peso). Puede ser adquirida (multíparas) o congénita (inserción más lateral de los rectos) (B). No hay riesgo de estrangulación porque las capas fasciales están íntegras (A, D) y los ejercicios de la pared dan poca resolución completa en adultos (C). El contenido de grasa preperitoneal es de la hernia epigástrica, no de la diástasis (E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 41 del PDF (pregunta 17) y p. 46 del PDF (explicación)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original B (resaltado); la fuente la respalda."
+ },
+ {
+  "k": "fde2a799f4",
+  "estado": "dudosa",
+  "stem": "Mujer de 20 años con dolor intenso en el cuadrante inferior izquierdo 1 semana después de una apendicectomía laparoscópica. Se encuentra sensibilidad, eritema y plenitud en sitio de trócar de 12 mm. La TC muestra estrecha relación del íleon con la pared abdominal y colección de aire/líquido en continuidad con el íleon. Dilatación del intestino delgado sin punto claro de transición. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Se debe intentar comprimir suavemente el sitio del trócar bajo sedación",
+   "Debe realizarse incisión y drenaje del sitio del trócar en quirófano",
+   "El sitio del trócar debe abrirse en el servicio de urgencias",
+   "La afección puede tratarse por vía laparoscópica",
+   "Hay poco riesgo de desarrollo de intestino necrótico"
+  ],
+  "ans": null,
+  "why": "Ni el ABSITE ni Sabiston ni Giménez tratan la hernia por sitio de trócar de 12 mm con íleon atrapado y asa dilatada. Solo hay descripciones de que el riesgo de estrangulación existe en hernias con cuello pequeño y que la hernia de Richter estrangula sin obstrucción, lo que contradice la opción E, pero no hay una fuente que decida entre abrir en quirófano y abordar por laparoscopia. Los artículos de Europe PMC hallados son series o protocolos de prevención y no resuelven la pregunta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1129 del PDF (hernia de Richter estrangula sin obstrucción)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF (Richter)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original D (resaltado: 'puede tratarse por vía laparoscópica'); sin fuente que la confirme."
+ },
+ {
+  "k": "aea22b783b",
+  "estado": "dudosa",
+  "stem": "Hombre de 45 años con dolor abdominal y náuseas de 4 horas de evolución. Tiene antecedentes de bulto inguinal derecho intermitente, ahora irreductible, con dolor constante. Abdomen blando, sin dolor ni leucocitosis. No hay hernia palpable en el examen, ni dolor testicular. Náuseas persisten. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Reparación urgente de la hernia inguinal derecha",
+   "Reparación de la hernia inguinal derecha dentro de 48 horas",
+   "Tomografía computarizada de abdomen y pelvis",
+   "Ultrasonido escrotal",
+   "Observación hospitalaria"
+  ],
+  "ans": null,
+  "why": "El enunciado es contradictorio (hernia irreducible con dolor constante, pero 'no hay hernia palpable'), y no hallé en el ABSITE, Sabiston ni Giménez una fuente sobre este escenario (hernia que deja de palparse con náuseas persistentes). Sin fuente, no se puede decidir entre TC, reparación urgente u otra opción.",
+  "fuentes": [
+   "Búsquedas en absite y sabiston sin resultado específico"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C (TC de abdomen y pelvis, resaltado); no verificable."
+ },
+ {
+  "k": "1a9986195f",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes combinaciones entre reparación de hernia y su paso clave está INCORRECTAMENTE emparejada?",
+  "opts": [
+   "Reparación de Bassini: incisión de la fascia transversalis para ingresar al espacio preperitoneal",
+   "Reparación de McVay: incisión de la vaina del recto anterior",
+   "Reparación de Shouldice: sutura de la fascia transversalis al ligamento de Cooper",
+   "Reparación de Lichtenstein: recreación del anillo interno con malla protésica",
+   "Reparación de Laroque: extracción del contenido de la hernia a través de una incisión superior al anillo interno"
+  ],
+  "ans": null,
+  "why": "Shouldice no sutura la fascia transversal al ligamento de Cooper: reconstruye la pared posterior en capas con sutura continua (fija el arco del transverso a la cintilla iliopúbica y luego oblicuo interno y transverso al ligamento inguinal); suturar a Cooper es la reparación de McVay. Por eso C es incorrecta. Pero no hay fuente para descartar las demás: Sabiston/ABSITE no dicen que Bassini incise la fascia transversal para entrar al espacio preperitoneal (el ABSITE atribuye eso a McVay), y no hallé ninguna fuente sobre la técnica de Laroque. Por la regla de las preguntas 'incorrecta', cada opción no elegida necesita respaldo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1136 del PDF (Shouldice, Bassini, McVay, Lichtenstein)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37 del PDF (Bassini, McVay, Shouldice)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original C (resaltado): es incorrecta según Sabiston y ABSITE, pero A y E no se pudieron respaldar. Es probable que C sea la respuesta esperada."
+ },
+ {
+  "k": "c9ffb8b447",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la separación de componentes (component separation) en la reparación de hernias complejas?",
+  "opts": [
+   "Se recomienda la liberación del músculo oblicuo interno si no se puede cerrar después de incidir la aponeurosis del oblicuo externo",
+   "La ligadura de las perforantes de la pared abdominal es esencial al levantar los colgajos laterales",
+   "Las tasas de recurrencia son mucho más altas en comparación con la colocación de malla protésica",
+   "Hacer una incisión en la vaina posterior del recto por encima del nivel de la línea arqueada puede aumentar la longitud disponible para la reparación",
+   "Al liberar el oblicuo externo, la incisión se extiende desde el margen costal hasta el arco inguinal"
+  ],
+  "ans": 3,
+  "why": "Sabiston describe la separación anterior de componentes y señala que se puede ganar más longitud seccionando la vaina posterior del recto por encima de la línea arcuata (D). Los grandes vasos perforantes se preservan, no se ligan (B). Las incisiones del oblicuo interno o transverso dan abultamientos laterales y no son la regla (A). La incisión del oblicuo externo es 2 cm lateral a la línea semilunar, desde varios cm sobre el borde costal hasta el pubis (E es parecida pero no igual).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1150-1151 del PDF (separación de componentes, figura 45.12 E)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original D (resaltado); la fuente la respalda directamente. La opción E es cercana a lo que dice Sabiston (termina en el pubis, no en el arco inguinal); C no tiene cifra comparativa en la fuente."
+ },
+ {
+  "k": "f4c617d4c5",
+  "estado": "confirmada",
+  "stem": "Una hernia de Richter:",
+  "opts": [
+   "Contiene con mayor frecuencia colon o vejiga en el aspecto posterior del saco",
+   "Tiene bajo riesgo de incarceración",
+   "Se presenta más comúnmente como una obstrucción del intestino delgado",
+   "Puede engañar al clínico ya que el intestino estrangulado puede pasarse por alto fácilmente",
+   "Debe ser reducida manualmente en el departamento de emergencias siempre que no haya evidencia de obstrucción intestinal"
+  ],
+  "ans": 3,
+  "why": "En la hernia de Richter solo se atrapa el borde antimesentérico del intestino, por lo que la incarceración y la estrangulación pueden ocurrir sin ningún dato de obstrucción intestinal; por eso el intestino estrangulado puede pasar inadvertido (D). Por lo mismo no tiene bajo riesgo de incarceración (B) ni suele presentarse como obstrucción de intestino delgado (C). Colon o vejiga en la pared posterior del saco describe la hernia por deslizamiento (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF (explicación de la pregunta 16)",
+   "Sabiston 21.ª ed., p. 1129 del PDF (hernia de Richter)",
+   "Sabiston 21.ª ed., p. 1142 del PDF (hernia por deslizamiento: colon y vejiga)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original D (resaltado); la fuente la respalda. La opción E (reducción manual en urgencias) no tiene una fuente directa que la descarte."
+ },
+ {
+  "k": "129bd539b2",
+  "estado": "confirmada",
+  "stem": "Una madre preocupada acude a consulta por temor de que su hijo de 6 meses tenga una gran protrusión en su ombligo que empeora al llorar pero se reduce mientras duerme. Al examen se palpa un defecto fascial de 1 cm en su ombligo. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se recomienda reparación electiva",
+   "La condición está asociada a anomalías cardíacas",
+   "El tamaño del defecto predice que probablemente no se cerrará por sí solo",
+   "El riesgo de incarceración es significativo",
+   "La reparación debe retrasarse hasta que el niño tenga 4 años"
+  ],
+  "ans": 4,
+  "why": "En lactantes la hernia umbilical es congénita y la gran mayoría se cierra sola antes de los 2 años; la reparación programada se difiere hasta cerca de los 4-5 años si no se cierra (E). Por eso no se recomienda reparar de forma electiva a los 6 meses (A), la incarceración es extremadamente rara (D), y un defecto de 1 cm tiene buena probabilidad de cerrar (C).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1893 del PDF (se cierra en ~80%, reparar a los ~5 años, incarceración rara)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 45 del PDF (explicación de la pregunta 14: cierre antes de 2 años, reparar si no cierra a los 4-5 años)"
+  ],
+  "tema": "pediatria",
+  "nota": "Clave original E (resaltado). INDIRECTA parcial: la fuente dice 4 o 5 años; la asociación con anomalías cardíacas (B) no aparece en las fuentes consultadas, pero no se respalda."
+ },
+ {
+  "k": "c42ff979d3",
+  "estado": "dudosa",
+  "stem": "Luego de una reparación abierta de hernia inguinal, un hombre de 50 años se queja de entumecimiento y dolor urente en el escroto. Esto probablemente representa una lesión de:",
+  "opts": [
+   "Rama genital del nervio genitofemoral",
+   "Rama femoral del nervio genitofemoral",
+   "Nervio ilioinguinal",
+   "Nervio cutáneo femoral lateral",
+   "Nervio iliohipogástrico"
+  ],
+  "ans": null,
+  "why": "El ABSITE y Sabiston asignan la piel del escroto (lateral) a la rama genital del genitofemoral, y el ilioinguinal a ingle, base del pene y muslo medial superior. Pero Latarjet atribuye al ramo genital del ilioinguinal/iliohipogástrico la piel del pubis, escroto y labios mayores. Sabiston lista el ilioinguinal, el iliohipogástrico y la rama genital como nervios en riesgo en la reparación abierta. Con dos opciones defendibles (A y C) y un enunciado sin más datos, no se puede decidir.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 36 y p. 43 del PDF (rama genital: escroto)",
+   "Sabiston 21.ª ed., p. 1133 y p. 1143 del PDF",
+   "Latarjet, Anatomía humana, tomo 1, p. 371 del PDF (ramo genital: pubis, escroto)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original A (rama genital, resaltado): coincide con ABSITE/Sabiston, pero Latarjet respalda también el ilioinguinal."
+ },
+ {
+  "k": "316c0a8809",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años se presenta a urgencias con náuseas, vómitos y dolor abdominal severo. Su historia clínica incluye una sigmoidectomía por diverticulitis hace 10 años. Al examen físico, su temperatura es de 38.3 °C, presión arterial de 110/80 mmHg, y frecuencia cardíaca de 110/min. Tiene una cicatriz media bien cicatrizada, abdomen distendido, ruidos intestinales hiperactivos con borborigmos y tintineos. Dolor marcado a la palpación en el cuadrante superior derecho con defensa. El resto del examen abdominal es normal. Serie abdominal demuestra un asa de intestino delgado marcadamente distendida en el cuadrante superior derecho con un nivel hidroaéreo. No se observa gas en el colon ni recto. Laboratorio: leucocitos 18 × 10³ /μL (normal 4.1–10.9), con 15% de bandas, lactato 5 mmol/L (normal 0.5–1.6), BUN 30 mg/dL (7–21), creatinina 1.2 mg/dL (0.5–1.4). Amilasa, lipasa y pruebas hepáticas normales. Se coloca sonda nasogástrica y se inicia líquidos IV. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Internar para observación estrecha",
+   "Tránsito gastrointestinal con bario",
+   "Tránsito gastrointestinal con Gastrografin",
+   "Ecografía del cuadrante superior derecho"
+  ],
+  "ans": 0,
+  "why": "Paciente con antecedente de cirugía abdominal, obstrucción de intestino delgado con asa fija distendida, fiebre, taquicardia, defensa localizada, leucocitosis con bandas y lactato de 5: hay signos de isquemia/estrangulación (probable brida). Cualquier signo de isquemia intestinal es indicación de intervención operatoria urgente (laparotomía exploradora), no de observar (B) ni de estudios con contraste (C, D) ni ecografía (E). La conducta no operatoria queda para pacientes sin esos signos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 144 del PDF (explicación de la pregunta 12)",
+   "Sabiston 21.ª ed., p. 1280 del PDF (cirugía si hay estrangulación o compromiso vascular)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original A (resaltado); la fuente la respalda."
+ }
+]

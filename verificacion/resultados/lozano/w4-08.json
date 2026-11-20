@@ -1,0 +1,295 @@
+[
+ {
+  "k": "e8aabc6676",
+  "estado": "confirmada",
+  "stem": "El síndrome de la AMS (síndrome de Wilkie):",
+  "opts": [
+   "Involucra la segunda porción del duodeno",
+   "Es más común en hombres",
+   "Se diagnostica mejor con arteriografía",
+   "Se asocia con el uso de corsés ortopédicos (body casting)",
+   "Se trata mejor con una gastro-yeyunostomía"
+  ],
+  "ans": 3,
+  "why": "El síndrome de la AMS comprime la TERCERA porción del duodeno, y entre los factores predisponentes el ABSITE cita la colocación de un yeso corporal (body cast), la inmovilización en supino, la escoliosis y los trastornos alimentarios. A no: es la tercera porción, no la segunda. B no: el libro dice que se cree más frecuente en mujeres (un estudio en niños con discapacidad mostró predominio masculino). C no: se diagnostica con TC o serie con bario. E no: el tratamiento quirúrgico es la duodenoyeyunostomía, no la gastroyeyunostomía.",
+  "fuentes": [
+   "Absite, p. 145 del PDF (respuesta 17); enunciado en p. 139"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "7469877ebf",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es la mejor opción de primera línea para una exacerbación aguda de la enfermedad de Crohn?",
+  "opts": [
+   "Sulfasalazina",
+   "Mesalazina",
+   "Natalizumab",
+   "Prednisona",
+   "Infliximab"
+  ],
+  "ans": 3,
+  "why": "Para las exacerbaciones agudas de Crohn el tratamiento de elección sigue siendo un corticoide, en particular la prednisona (induce remisión en cerca de tres cuartos de los pacientes). Sulfasalazina y mesalamina se usan en enfermedad leve; el infliximab se reserva para cuando los corticoides no inducen remisión; el natalizumab no aparece como primera línea.",
+  "fuentes": [
+   "Absite, p. 149 del PDF (respuesta 29)"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "60176e6bab",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la ileítis aguda?",
+  "opts": [
+   "Usualmente es una manifestación de la enfermedad de Crohn",
+   "Se trata mejor con resección segmentaria del intestino delgado",
+   "Si se descubre en cirugía, debe retirarse el apéndice incluso si el ciego está inflamado",
+   "Si hay ganglios linfáticos agrandados, debe realizarse biopsia",
+   "Está asociada con infecciones por Campylobacter"
+  ],
+  "ans": 4,
+  "why": "La ileítis (terminal) aguda se asocia con infecciones: Yersinia, Mycobacterium, CMV, Salmonella, Campylobacter y Shigella. A no: solo una minoría (10%) progresa a Crohn. B no: la ileítis terminal no amerita resección. C no: si el ciego está inflamado no se debe retirar el apéndice (riesgo de fístula enterocutánea). D no: se debe evitar la biopsia por riesgo de fístula.",
+  "fuentes": [
+   "Absite, p. 147 del PDF (ileítis terminal e infecciones)",
+   "Absite, p. 170 del PDF (respuesta 40: apendicectomía y biopsia)"
+  ],
+  "tema": "intestino",
+  "nota": "El texto de la conversión estaba cortado; las opciones A y E se completaron con el original: A 'enfermedad de Crohn', E 'Campylobacter'. Enunciado original dice 'ileítis aguda'; el libro habla de 'ileítis terminal'."
+ },
+ {
+  "k": "6fdb7f7ca6",
+  "estado": "confirmada",
+  "stem": "Un niño de 12 años se presenta con gran cantidad de sangre roja brillante por el recto combinada con melenas. Está hemodinámicamente estable. La endoscopía superior e inferior son negativas. Una gammagrafía con tecnecio-99m pertecnetato muestra captación en la región del cuadrante inferior derecho. El manejo consiste en:",
+  "opts": [
+   "Arteriografía",
+   "Diverticulectomía de Meckel",
+   "Tránsito intestinal con contraste",
+   "Resección segmentaria del íleon que incluya el divertículo de Meckel",
+   "Tomografía abdominal con contraste oral"
+  ],
+  "ans": 3,
+  "why": "Un niño con sangrado rectal, endoscopias negativas y captación con Tc-99m en cuadrante inferior derecho tiene un divertículo de Meckel con mucosa gástrica ectópica. Cuando hay hemorragia se necesita resección segmentaria del íleon que incluya el divertículo, porque la úlcera está en el íleo adyacente. La diverticulectomía sola es adecuada si no hay sangrado. El diagnóstico ya está hecho, así que arteriografía, tránsito con contraste o TC no son el paso a seguir.",
+  "fuentes": [
+   "Absite, p. 24 del PDF (respuesta 2)",
+   "Sabiston 21.ª ed., p. 1314 del PDF (tratamiento de Meckel con hemorragia)",
+   "Sabiston 21.ª ed., p. 1313 del PDF (gammagrafía con Tc-99m)"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "b7cf5c2310",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años presenta dolor abdominal vago, diarrea, esteatorrea y anemia con un volumen corpuscular medio elevado. Sus antecedentes médicos y quirúrgicos no son relevantes. La TC de abdomen y pelvis es negativa. Una serie gastrointestinal alta con tránsito intestinal revela un gran divertículo yeyunal. Todas las siguientes afirmaciones sobre esta condición son verdaderas, EXCEPTO:",
+  "opts": [
+   "La prueba de D-xilosa ayuda a establecer el diagnóstico",
+   "Una dieta con triglicéridos de cadena media puede ser útil",
+   "El divertículo debe resecarse",
+   "Se indican antibióticos de amplio espectro",
+   "Está indicado el uso de vitamina B12"
+  ],
+  "ans": 2,
+  "why": "Es un síndrome del asa ciega por sobrecrecimiento bacteriano en un divertículo yeyunal. El ABSITE indica que la resección del divertículo NO se recomienda inicialmente (solo si fallan manejos médicos repetidos), por eso C es la falsa. A: la prueba de D-xilosa aparece como método diagnóstico. B: los triglicéridos de cadena media se absorben mejor. D: el tratamiento inicial son antibióticos de amplio espectro. E: se indica vitamina B12 parenteral a todos.",
+  "fuentes": [
+   "Absite, p. 147 del PDF (respuesta 24)",
+   "Sabiston 21.ª ed., p. 1318 del PDF (síndrome del asa ciega)"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "6adaed504e",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre el síndrome de Peutz-Jeghers son verdaderas, EXCEPTO:",
+  "opts": [
+   "La lesión típica en el intestino delgado es un pólipo adenomatoso",
+   "Es autosómico dominante",
+   "La obstrucción intestinal es la presentación más común",
+   "Hay un mayor riesgo de cáncer del intestino delgado",
+   "Hay un mayor riesgo de cáncer de mama"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): ABSITE p. 146 y Sabiston p. 1300 contradicen la A, pero la C (\"la obstrucción es la presentación más común\") solo tiene respaldo parcial; en una pregunta EXCEPTO no se puede excluir otra opción falsa. Clave que proponía el revisor: A. El síndrome de Peutz-Jeghers produce pólipos HAMARTOMATOSOS (no adenomatosos), por lo que A es la falsa. B: es autosómico dominante. D y E: mayor riesgo de cáncer de intestino delgado y de mama (también cuello uterino, ovario, testículo). C: el síntoma más frecuente es el dolor cólico recidivante, casi siempre por invaginación intermitente, y hasta 50% presenta síntomas de obstrucción.",
+  "fuentes": [
+   "Absite, p. 146 del PDF (respuesta 20)",
+   "Sabiston 21.ª ed., p. 1300 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA parcial en la opción C: los libros dicen que el síntoma más común es el dolor cólico por invaginación (obstrucción intermitente), no la palabra 'presentación más común' literal. A es claramente falsa en ambos libros."
+ },
+ {
+  "k": "05c8cccc0b",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes afirmaciones sobre la neumatosis intestinal son verdaderas, EXCEPTO:",
+  "opts": [
+   "En neonatos, se asocia con mayor frecuencia a enterocolitis necrosante",
+   "Puede producir neumoperitoneo no quirúrgico",
+   "En adultos, se asocia comúnmente con enfermedad pulmonar obstructiva crónica",
+   "La neumatosis primaria usualmente requiere intervención quirúrgica",
+   "El diagnóstico se hace fácilmente con radiografía simple"
+  ],
+  "ans": 3,
+  "why": "La neumatosis intestinal es un hallazgo radiográfico, no una enfermedad; la forma primaria (cística) es un hallazgo incidental sin tratamiento específico, por eso D (requiere cirugía) es la falsa. A: en neonatos se asocia a enterocolitis necrosante. B: puede causar neumoperitoneo benigno. C: en adultos se asocia a EPOC. E: se diagnostica fácilmente en radiografía simple o TC.",
+  "fuentes": [
+   "Absite, p. 146 del PDF (respuesta 19)",
+   "Sabiston 21.ª ed., p. 1318 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "El texto estaba cortado; en el original: C 'enfermedad pulmonar obstructiva crónica' y E 'radiografía simple'."
+ },
+ {
+  "k": "2951d7c4f0",
+  "estado": "dudosa",
+  "stem": "La presentación más común del divertículo de Meckel en adultos es:",
+  "opts": [
+   "Sangrado oculto",
+   "Hemorragia gastrointestinal baja masiva",
+   "Diverticulitis con absceso localizado",
+   "Diverticulitis con peritonitis difusa",
+   "Obstrucción"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la presentación clínica habitual del divertículo de Meckel es la hemorragia digestiva (25-50% de los complicados) y que la obstrucción es 'otro síntoma inicial frecuente'; la diverticulitis es más común en adultos (10-20%). Ningún libro de la carpeta afirma cuál es la presentación más frecuente específicamente en adultos, y los casos publicados solo dicen que sangrado y obstrucción son las más comunes. Por eso no se puede confirmar la clave (obstrucción).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E (obstrucción), resaltada. No hay fuente que la respalde de forma definitiva para adultos."
+ },
+ {
+  "k": "cb6d84a2dc",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años con antecedentes recientes de cirugía intestinal se presenta con dolor abdominal, náuseas, vómitos y ausencia de evacuaciones en los últimos días. Describe el dolor como intermitente. Al inicio tuvo diarrea, pero ahora se queja de estreñimiento. Está afebril. Su pulso es de 95 latidos/min y respiraciones 17/min. Los estudios de laboratorio muestran una leve leucocitosis con desviación a la izquierda y nitrógeno ureico elevado. El resto del laboratorio es normal. La radiografía simple se muestra en la Figura 6-1. ¿Cuál es el siguiente mejor paso en el manejo?",
+  "opts": [
+   "Tomografía abdominal",
+   "Hidratación IV, sonda nasogástrica y antibióticos",
+   "Laparoscopía inmediata",
+   "Sulfato de morfina",
+   "Prometazina"
+  ],
+  "ans": null,
+  "why": "La pregunta depende de la radiografía de la Figura 6-1, que no aparece en el banco, así que no se puede saber si hay obstrucción parcial o completa. El Sabiston respalda sonda nasogástrica y reposición de líquidos IV, pero sobre los antibióticos dice que algunos cirujanos los dan profilácticamente y en otro pasaje que deben darse solo preoperatoriamente. Sin la imagen ni una fuente clara sobre los antibióticos no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF (líquidos, antibióticos y descompresión)",
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: B (hidratación IV, sonda nasogástrica y antibióticos), resaltada. Falta la figura."
+ },
+ {
+  "k": "28abb0e0f0",
+  "estado": "dudosa",
+  "stem": "Un niño de 1 año se presenta con diarrea crónica, falla para crecer, crecimiento deficiente y dificultad para alimentarse. Se sospecha enfermedad celíaca junto con otros diagnósticos diferenciales. ¿Qué anticuerpos se asocian con enfermedad celíaca?",
+  "opts": [
+   "Anti-dsDNA",
+   "Antiendomisio y antigliadina",
+   "Antimitocondriales y antigliadina",
+   "Anti-SRP y antitransglutaminasa",
+   "Antitopoisomerasa"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Los libros no tratan los anticuerpos de la celiaquía; la clave se apoya en revisiones de Europe PMC, pero los otros distractores no tienen fuente que los descarte. Clave que proponía el revisor: B. La enfermedad celíaca se estudia con anticuerpos antiendomisio (EMA), antitransglutaminasa tisular y antigliadina/gliadina desaminada; la revisión citada menciona EMA y 'tTG + antigliadina' como pruebas diagnósticas. Opción B es la única donde ambos anticuerpos son de celíaca. Los anti-SRP se asocian a miopatía necrotizante inmunomediada (por eso D es falsa aunque incluya antitransglutaminasa); anti-dsDNA, antimitocondriales y antitopoisomerasa son de otras enfermedades.",
+  "fuentes": [
+   "Celiac disease in children: a review (World J Gastroenterol 2021, PMC8290992)",
+   "Anti-SRP y miopatía necrotizante (Arthritis Rheum 2010, PMC3026777)"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: ni el Sabiston ni el ABSITE tratan los anticuerpos de la celiaquía; la asociación de los demás anticuerpos (dsDNA/LES, AMA/CBP, topoisomerasa/esclerodermia) no se verificó con fuente."
+ },
+ {
+  "k": "9bb9255ec1",
+  "estado": "confirmada",
+  "stem": "Un niño de 2 años se presenta con dolor abdominal intermitente y llanto. La madre refiere heces rojizas con moco y vómitos ocasionales. Está afebril. En el examen se palpa una masa en forma de salchicha en cuadrante inferior derecho. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Tomografía abdominal",
+   "Radiografía abdominal",
+   "Apendicectomía",
+   "Enema con contraste",
+   "Laparotomía"
+  ],
+  "ans": 3,
+  "why": "Niño de 2 años con dolor cólico intermitente, heces en jalea de grosella y masa en 'salchicha' tiene invaginación ileocólica. En un paciente estable sin peritonitis, la reducción hidrostática con enema (contraste o aire) es la intervención terapéutica de elección y logra éxito en más del 80%. La cirugía se reserva para peritonitis, obstrucción, fracaso del enema o recurrencias múltiples; TC y apendicectomía no están indicadas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1887 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "pediatria"
+ },
+ {
+  "k": "6b3f63804e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 68 años con diabetes y enfermedad coronaria se presenta con pérdida de peso, estreñimiento y náuseas en los últimos 6 meses. Tiene abdomen distendido y timpánico. Colonoscopía sin hallazgos. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Endoscopía con cápsula",
+   "Disminuir dosis de aspirina",
+   "Disminuir metformina",
+   "Suspender nitroglicerina",
+   "Serie gastrointestinal alta con seguimiento del intestino delgado"
+  ],
+  "ans": null,
+  "why": "El cuadro (diabético con enfermedad coronaria, pérdida de peso, estreñimiento, náuseas, abdomen distendido y timpánico, colonoscopia normal) no define un diagnóstico y ninguno de los libros de la carpeta trata esta situación. El Sabiston solo indica que la cápsula endoscópica tiene riesgo de retención si hay estenosis, sin una recomendación para este caso. No hay fuente que decida entre la serie gastrointestinal alta con seguimiento y las demás opciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1176 del PDF (riesgo de la cápsula endoscópica)",
+   "Sabiston 21.ª ed., p. 1288 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E (serie gastrointestinal alta con seguimiento de intestino delgado)."
+ },
+ {
+  "k": "6fa2082206",
+  "estado": "confirmada",
+  "stem": "Un hombre de 33 años refiere distensión, diarrea acuosa, heces flotantes, anorexia y fatiga. Tiene anemia macrocítica con folato normal. Prueba de aliento con ascenso precoz de hidrógeno tras 14C glicocolato. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Sobrecrecimiento bacteriano",
+   "Enfermedad celíaca",
+   "Fibrosis quística",
+   "Síndrome de intestino irritable",
+   "Síndrome de intestino corto"
+  ],
+  "ans": 0,
+  "why": "Distensión, diarrea acuosa, esteatorrea y anemia macrocítica son el cuadro del síndrome del asa ciega por sobrecrecimiento bacteriano, que compite por la vitamina B12; se diagnostica con pruebas del aliento con 14C (14C-xilosa o 14C-coliglicina = glicocolato). La enfermedad celíaca, la fibrosis quística, el intestino irritable y el intestino corto no se diagnostican con esta prueba de aliento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1318 del PDF (síndrome del asa ciega)",
+   "Absite, p. 147 del PDF (respuesta 24)"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA parcial: el libro no menciona explícitamente por qué se descartan celíaca/fibrosis quística; se apoya en que la prueba de aliento con 14C-coliglicina diagnostica sobrecrecimiento bacteriano."
+ },
+ {
+  "k": "5539df1a7e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 65 años con enfermedad de Crohn y múltiples cirugías presenta fatiga, náuseas, diarrea y calambres. Albúmina 2.1 g/dL, anemia ferropénica, sin elevación de PCR ni VSG. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Enfermedad de Crohn activa",
+   "Anorexia nerviosa",
+   "Enfermedad celíaca",
+   "Síndrome de intestino corto",
+   "Neoplasia de intestino delgado"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): ABSITE pp. 133 y 142 respaldan el Crohn como causa de intestino corto, pero no hay fuente para los demás datos del caso ni para descartar las otras opciones. Clave que proponía el revisor: D. El síndrome de intestino corto es una malabsorción por pérdida de longitud intestinal, y la enfermedad de Crohn es una de las causas más frecuentes en adultos (por resecciones repetidas). Un paciente con Crohn y múltiples cirugías con diarrea, hipoalbuminemia y anemia ferropénica, sin elevación de PCR/VSG (no hay inflamación activa), encaja con intestino corto.",
+  "fuentes": [
+   "Absite, p. 142 del PDF (respuesta 5)",
+   "Absite, p. 133 del PDF (síndrome de intestino corto)"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: el enunciado no da la longitud del intestino residual y los libros no tratan el significado de PCR/VSG normales; el descarte de las otras opciones no tiene fuente directa."
+ },
+ {
+  "k": "51662cd449",
+  "estado": "dudosa",
+  "stem": "Una mujer de 31 años tiene dolor abdominal, diarrea y estreñimiento alternantes por un año. Tiene historia de depresión. Diagnóstico: síndrome de intestino irritable. ¿Cuál de los siguientes síntomas es menos típico?",
+  "opts": [
+   "Dolor de espalda",
+   "Distensión",
+   "Cefalea",
+   "Sensación de evacuación incompleta",
+   "Pérdida de peso"
+  ],
+  "ans": null,
+  "why": "La clave (pérdida de peso es lo menos típico en SII) es la lógica habitual, pero ninguno de los libros de la carpeta describe los síntomas del síndrome de intestino irritable y las fuentes en línea consultadas (revisión clínica de SII, World J Gastroenterol 2014) no se pudieron leer en texto completo. Sin fuente que respalde cada opción (dolor de espalda, cefalea, distensión, evacuación incompleta) no se confirma.",
+  "fuentes": [
+   "Búsqueda en Sabiston y ABSITE sin contenido sobre síntomas del SII"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E (pérdida de peso), resaltada."
+ }
+]

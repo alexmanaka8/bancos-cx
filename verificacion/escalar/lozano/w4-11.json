@@ -1,0 +1,232 @@
+[
+ {
+  "k": "34e415bbbd",
+  "sec": "Trauma vascular",
+  "stem": "Un hombre de 75 años se encuentra en la UCI recuperándose de una reparación abierta de un aneurisma de aorta abdominal roto. En el día postoperatorio 1, se queja de dolor abdominal y sensibilidad en el cuadrante inferior izquierdo, sin rebote ni defensa. En el día postoperatorio 2, desarrolla diarrea con sangre. El examen físico revela presión arterial de 129/79 mmHg, pulso de 100/min, temperatura de 99.9 °F (37.7 °C), y frecuencia respiratoria de 16/min. ¿Cuál es la etiología más probable del dolor abdominal y la diarrea sanguinolenta?",
+  "opts": [
+   "Isquemia colónica",
+   "Colitis por Clostridium difficile",
+   "Diverticulitis",
+   "Enfermedad inflamatoria intestinal",
+   "Cáncer de colon"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 164,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "d0c52405c4",
+  "sec": "Trauma vascular",
+  "stem": "Una mujer de 60 años se presenta con dolor abdominal agudo de inicio súbito. Al examen, se retuerce de dolor intenso, pero el abdomen es solo levemente doloroso, sin defensa ni rebote. El examen cardíaco revela ritmo irregularmente irregular. Niega antecedentes de dolor abdominal. El lactato sérico está elevado. La amilasa sérica está ligeramente elevada. Las radiografías simples son negativas. La tomografía computarizada revela edema difuso de la pared del intestino delgado. El siguiente paso es:",
+  "opts": [
+   "Terapia trombolítica",
+   "Arteriografía",
+   "Heparina intravenosa",
+   "Laparotomía exploradora",
+   "Ecografía dúplex"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 170,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "cd5f65b6e0",
+  "sec": "Trauma vascular",
+  "stem": "Un hombre de 45 años se presenta con 2 semanas de dolor abdominal vago y distensión. Refiere que su madre y abuela tuvieron coágulos en las piernas. Al examen presenta dolor leve y difuso sin defensa ni rebote. La tomografía muestra asas de intestino delgado engrosadas y ausencia de opacificación de la vena mesentérica superior. ¿Cuál es el mejor enfoque de manejo?",
+  "opts": [
+   "Terapia trombolítica dirigida por catéter",
+   "Heparina IV seguida de 3 meses de warfarina",
+   "Heparina IV seguida de warfarina de por vida",
+   "Arteriografía con infusión de papaverina",
+   "Exploración quirúrgica inmediata"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 170,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "c3bf884fdf",
+  "sec": "Trauma vascular",
+  "stem": "¿Cuál de las siguientes es la más apropiada en el manejo quirúrgico de la isquemia intestinal por émbolo a la arteria mesentérica superior (AMS)?",
+  "opts": [
+   "Angiografía intraoperatoria",
+   "Laparotomía de segunda mirada planificada",
+   "Dopamina",
+   "Arteriotomía longitudinal de la AMS",
+   "Resección de intestino con viabilidad dudosa"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 170,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "a928c88d0c",
+  "sec": "Trauma vascular",
+  "stem": "En una cirugía por sospecha de isquemia mesentérica aguda, se observa que casi todo el intestino delgado y el colon derecho están isquémicos. Sin embargo, el yeyuno proximal, duodeno y colon izquierdo se ven sanos. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Trombosis de la AMS",
+   "Émbolo a la AMS",
+   "Trombosis de la vena mesentérica superior",
+   "Trombosis de la vena porta",
+   "Isquemia mesentérica no oclusiva"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 171,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "39ed742496",
+  "sec": "Anatomía",
+  "stem": "El vólvulo de intestino medio es una posible complicación de la malrotación del asa de intestino medio sin mesenterio fijo Un neonato de 1 día de vida tiene una masa que protruye por el ombligo. La exploración física revela una hernia umbilical. La TC muestra que parte de otro órgano está unida a la superficie interna de la hernia. ¿Qué Porción del tracto gastrointestinal está muy probablemente unida a la superficie interna de la hernia umbilical?",
+  "opts": [
+   "Conducto anal.",
+   "Apéndice.",
+   "Ciego.",
+   "Íleon.",
+   "Estómago."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 176,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "91639a932c",
+  "sec": "Anatomía",
+  "stem": "El íleon es la mejor respuesta aquí porque es donde se encuentra con mayor frecuencia el divertículo de Meckel. Esta evaginación es una persistencia del conducto vitelino y puede unirse al ombligo. Una embarazada de 38 años ingresa en urgencias con hemorragia vaginal grave. El examen ecográfico confirma el diagnóstico inicial de embarazo ectópico. ¿En cuál de las siguientes localizaciones se encuentra con mayor frecuencia el embarazo ectópico? Trompas uterinas. Una mujer de 23 años ingresa con dolor abdominal intenso, náuseas y vómitos. La historia clínica muestra que el dolor es agudo y ha sido constante durante 4 días. El dolor empezó en el epigastrio e irradiado bilateralmente alrededor del tórax hasta justo debajo de las escápulas. Actualmente el dolor se localiza en el hipocondrio derecho. La TC revela cálculos calcificados en la vesícula biliar. ¿Cuáles de los siguientes nervios llevan las fibras aferentes del dolor referido?",
+  "opts": [
+   "Nervios esplácnicos torácicos mayores",
+   "Ramos primarios dorsales de los nervios intercostales",
+   "Nervios frénicos",
+   "Nervios vagos"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 176,
+  "motivo": "sin clave original",
+  "tema": "intestino"
+ },
+ {
+  "k": "9ef196e97b",
+  "sec": "Anatomía",
+  "stem": "Un hombre de 35 años ingresa en el hospital con una hernia inguinal indirecta. Durante una hernioplastia abierta (a diferencia del procedimiento laparoscópico), se identifican el cordón espermático y los músculos oblicuos internos del abdomen. ¿Qué componente del cordón espermático deriva del músculo oblicuo interno del abdomen?",
+  "opts": [
+   "Fascia espermática externa.",
+   "Músculo cremáster.",
+   "Túnica vaginal.",
+   "Fascia espermática interna.",
+   "Fascia dartos."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 177,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "dff469fe1d",
+  "sec": "Anatomía",
+  "stem": "Una mujer de 45 años ingresa en el hospital con síntomas de obstrucción intestinal superior. En la TC se encuentra que la tercera porción (transversa) del duodeno está comprimida por un gran vaso. ¿Cuál de los siguientes vasos causará muy probablemente la obstrucción?",
+  "opts": [
+   "Arteria mesentérica inferior.",
+   "Arteria mesentérica superior.",
+   "Vena mesentérica inferior.",
+   "Vena porta.",
+   "Vena esplénica."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 178,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "01f4de8258",
+  "sec": "Anatomía",
+  "stem": "Un hombre de 45 años ingresa en el hospital con una hernia masiva que pasa por el triángulo inguinal (de Hesselbach). ¿Cuál de las siguientes estructuras se usa para distinguir entre hernia inguinal directa e indirecta?",
+  "opts": [
+   "Vasos epigástricos inferiores.",
+   "Conducto femoral.",
+   "Ligamento inguinal.",
+   "Músculo recto abdominal (borde externo).",
+   "Ligamento pectíneo."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 178,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "dd4f77f04e",
+  "sec": "Anatomía",
+  "stem": "Una niña de 1 año ingresa en el hospital con una masa palpable en los labios mayores. La exploración radiológica revela que un asa intestinal se ha herniado en el labio mayor visiblemente dilatado. Este trastorno se debe al fallo del cierre del proceso vaginal. ¿De cuál de las siguientes capas tisulares deriva el proceso?",
+  "opts": [
+   "Peritoneo parietal",
+   "Tejido extraperitoneal",
+   "Fascia transversa",
+   "Fascia dartos"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 179,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "56ff9be053",
+  "sec": "Anatomía",
+  "stem": "Un hombre de 45 años entró en urgencias aquejado de dolor abdominal intenso. Durante la exploración física se observó una ausencia del reflejo cremastérico. ¿Cuál de los siguientes nervios es responsable de la rama eferente del reflejo cremastérico?",
+  "opts": [
+   "Ilioinguinal.",
+   "Iliohipogástrico.",
+   "Genitofemoral.",
+   "Pudendo."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 179,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "9cbc4c49ed",
+  "sec": "Anatomía",
+  "stem": "Un hombre de 56 años es diagnosticado de vólvulo de intestino medio e isquemia intestinal. Se realiza una laparotomía para liberar la obstrucción intestinal. ¿Cuál de las siguientes estructuras se usa como punto de referencia para determinar la posición de la unión duodenoyeyunal?",
+  "opts": [
+   "Arteria mesentérica superior.",
+   "Arteria mesentérica inferior.",
+   "Vasos rectos.",
+   "Ligamento suspensorio del duodeno (ligamento de Treitz)."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 180,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ }
+]

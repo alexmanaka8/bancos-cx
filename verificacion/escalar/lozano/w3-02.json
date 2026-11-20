@@ -1,0 +1,290 @@
+[
+ {
+  "k": "ba005d077b",
+  "sec": "Quemados",
+  "stem": "Un paciente quemado tiene 30% de superficie corporal total quemada y orina <0.3 mL/kg/h a pesar de líquidos adecuados. La TA está estable. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Agregar dopamina a dosis baja",
+   "Aumentar la tasa de líquidos IV",
+   "Administrar furosemida",
+   "Colocar catéter de Swan-Ganz",
+   "Medir osmolaridad urinaria"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "1e186f27cc",
+  "sec": "Quemados",
+  "stem": "¿Cuál es el antibiótico de elección inicial?",
+  "opts": [
+   "Vancomicina",
+   "Linezolid",
+   "Cefepime",
+   "Piperacilina-tazobactam",
+   "Aztreonam"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "34ccf2544f",
+  "sec": "Quemados",
+  "stem": "Un paciente quemado presenta hiponatremia, hiperkalemia, náuseas, debilidad y presión baja persistente pese a líquidos. ¿Qué condición subyacente se debe sospechar?",
+  "opts": [
+   "Insuficiencia renal aguda",
+   "Síndrome de secreción inadecuada de ADH (SIADH)",
+   "Síndrome de Cushing",
+   "Insuficiencia suprarrenal",
+   "Síndrome compartimental"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "df3f6d2da6",
+  "sec": "Quemados",
+  "stem": "Un paciente con quemaduras en 40% de la superficie corporal está en el día 10 de hospitalización. De repente presenta taquicardia, fiebre, confusión y disminución del gasto urinario. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Deshidratación",
+   "Sepsis",
+   "Necrosis tubular aguda",
+   "Hiperglucemia hiperosmolar",
+   "Hiponatremia aguda"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "94594697fe",
+  "sec": "Quemados",
+  "stem": "¿Cuál es la velocidad adecuada de líquidos para un paciente de 80 kg con 60% SCQ según Brooke modificada (primeras 8 h)?",
+  "opts": [
+   "100 ml/h",
+   "500 ml/h",
+   "600 ml/h",
+   "1200 ml/h",
+   "9600 ml/h"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "0ca216a601",
+  "sec": "Quemados",
+  "stem": "Varón de 18 años con contacto con electricidad de alto voltaje. ¿Qué patrón de lesión esperas?",
+  "opts": [
+   "Hollín en cara",
+   "Salpicadura en tórax",
+   "Quemaduras en mano izquierda y talones bilaterales",
+   "Patrón en medias bilateral",
+   "NA"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "25ccfd8368",
+  "sec": "Quemados",
+  "stem": "Hombre de 22 años con lesión por corriente eléctrica, herida en región temporal, extremidad firme, dedos del pie ausentes. ¿Cuál afirmación es correcta?",
+  "opts": [
+   "Mantener gasto urinario de 0.5 mL/kg/h en adultos",
+   "Signos de síndrome compartimental requieren escarotomía urgente",
+   "Déficits neurológicos tardíos tienen mejor pronóstico",
+   "La orina rojiza se estudia con TAC abdominal",
+   "La descompresión fascial temprana preserva función."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "23e75fb5cf",
+  "sec": "Quemados",
+  "stem": "Varón de 80 kg con 30% de SCQ. ¿Cuántas kcal necesita por día?",
+  "opts": [
+   "3825 kcal",
+   "N.A",
+   "3200 kcal",
+   "2400 kcal",
+   "2675 kcal"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "3d7244a227",
+  "sec": "Quemados",
+  "stem": "¿Cuál de los siguientes es correcto sobre la lesión por inhalación en quemaduras?",
+  "opts": [
+   "Comienza en tráquea distal",
+   "Siempre se acompaña de quemaduras faciales",
+   "Solo se diagnostica por broncoscopia",
+   "Puede causar obstrucción por edema en vía aérea superior",
+   "El tratamiento siempre incluye traqueotomía"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "21f8de1fcd",
+  "sec": "Quemados",
+  "stem": "Paciente quemado llevado a curación bajo anestesia. ¿Qué relajante debe evitarse por hiperpotasemia?",
+  "opts": [
+   "Succinilcolina",
+   "Ketamina",
+   "Vecuronio",
+   "N.A",
+   "Propofol"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "9392e6051a",
+  "sec": "Quemados",
+  "stem": "¿Cuál es el microorganismo que se encuentra con mayor frecuencia en las infecciones de heridas por quemaduras?",
+  "opts": [
+   "Estreptococos hemolíticos",
+   "Clostridium tetani",
+   "Escherichia coli",
+   "Pseudomonas aeruginosa",
+   "Clostridium perfringens"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "91bda1e02a",
+  "sec": "Quemados",
+  "stem": "El tipo de quemadura más común es:",
+  "opts": [
+   "Quemadura por contacto",
+   "Quemadura por llama",
+   "Quemadura por destello",
+   "Quemadura escaldada accidental",
+   "Quemadura escaldada deliberada"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "808125ca48",
+  "sec": "Quemados",
+  "stem": "Todas las siguientes lesiones por quemadura requieren derivación a un centro especializado en quemados, EXCEPTO:",
+  "opts": [
+   "Quemadura de segundo grado del 15% de la superficie corporal total (SCT) en el tórax de un hombre de 30 años",
+   "Quemadura de segundo grado del 5% de SCT en la cara de un hombre de 40 años",
+   "Quemadura de segundo grado del 3% de SCT en la mano de una mujer de 25 años",
+   "Quemadura de espesor total (tercer grado) del 8% en la espalda de un hombre de 50 años",
+   "Quemadura de espesor total del 4% de SCT en la rodilla de una mujer de 30 años"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "5fe4d61020",
+  "sec": "Quemados",
+  "stem": "En un paciente con quemadura y sospecha de inhalación de humo, un umbral útil para la intubación endotraqueal es una relación PaO₂/FiO₂ menor de:",
+  "opts": [
+   "400",
+   "350",
+   "300",
+   "250",
+   "150"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "b2f23062e4",
+  "sec": "Quemados",
+  "stem": "El porcentaje de superficie corporal quemada a partir del cual se liberan citocinas proinflamatorias que desencadenan una respuesta inflamatoria sistémica es:",
+  "opts": [
+   "5%",
+   "10%",
+   "20%",
+   "30%",
+   "40%"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "86f54238a6",
+  "sec": "Quemados",
+  "stem": "¿Cuál de las siguientes opciones es apropiada en el manejo de las quemaduras?",
+  "opts": [
+   "Agua helada para una quemadura en la mano",
+   "Colocación rutinaria de línea central para una quemadura del 20% de SCT",
+   "Vía intravenosa en la ingle en paciente con quemaduras de espesor total en ambos brazos",
+   "Colocar líneas en fosa antecubital a través del esfacelo en paciente con quemaduras de espesor total del 40% en piernas y brazos",
+   "Morfina intramuscular para control del dolor"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 49,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ }
+]

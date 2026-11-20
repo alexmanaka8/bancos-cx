@@ -1,0 +1,302 @@
+[
+ {
+  "k": "36dbf9c45b",
+  "estado": "dudosa",
+  "stem": "Una mujer de 68 años se presenta con exacerbación de insuficiencia cardíaca congestiva y dolor abdominal agudo. El examen físico muestra sensibilidad abdominal difusa leve, sin rebote ni defensa. La arteriografía por TC del abdomen demuestra estrechamiento difuso de la arteria mesentérica superior (AMS) y sus ramas. ¿Cuál de las siguientes es una opción de manejo apropiada?",
+  "opts": [
+   "Goteo IV de heparina",
+   "Laparotomía exploradora",
+   "Reanimación agresiva con líquidos",
+   "Papaverina intraarterial",
+   "Terapia trombolítica"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): La respuesta del ABSITE para esta pregunta es aumentar el gasto cardíaco, opción que esta versión traducida no trae; el libro considera la papaverina útil pero no de primera línea. Clave que proponía el revisor: D. El cuadro (insuficiencia cardíaca descompensada, dolor con examen abdominal pobre, estrechamiento difuso de la AMS y ramas sin oclusión) corresponde a isquemia mesentérica no oclusiva. El de Virgilio indica que la infusión intraarterial selectiva de un vasodilatador como la papaverina en la AMS puede ser útil, y que lo central es corregir la causa (gasto cardíaco). La heparina es el tratamiento de la trombosis venosa mesentérica, la laparotomía no está indicada sin datos de necrosis, la reanimación agresiva con líquidos debe usarse con cautela en insuficiencia cardíaca descompensada y la trombólisis solo se menciona en émbolos de la AMS.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 143 del PDF (respuesta comentada de la pregunta 9)",
+   "de Virgilio ABSITE 3.ª ed., p. 283 del PDF (papaverina dirigida por catéter en isquemia no oclusiva)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: D (resaltado). En el ABSITE la respuesta oficial es 'aumentar el gasto cardíaco', opción que esta versión traducida no incluye. Entre las opciones presentadas, solo la papaverina intraarterial es apropiada según el libro, aunque el libro la considera no de primera línea."
+ },
+ {
+  "k": "bea91731fd",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la obstrucción intestinal?",
+  "opts": [
+   "La causa más común a nivel mundial son adherencias por cirugía previa.",
+   "Es más frecuente con cirugías del intestino superior que inferior.",
+   "En obstrucción en asa cerrada completa, lactato puede ser normal.",
+   "Los síntomas de obstrucción parcial generalmente mejoran en 24 h con manejo conservador.",
+   "El dolor abdominal desproporcionado al examen físico aparece temprano en la obstrucción."
+  ],
+  "ans": 2,
+  "why": "En una obstrucción completa en asa cerrada el lactato puede ser normal, porque la obstrucción del drenaje venoso impide que el lactato producido por los enterocitos llegue a la circulación sistémica. Las otras opciones son falsas según el libro: a nivel mundial la causa más común es la hernia (las adherencias lo son en EE. UU.), el riesgo de readmisión por adherencias es mayor tras cirugía abdominal baja, la mejoría de la obstrucción parcial suele darse en 48 h, y el dolor desproporcionado al examen no es un hallazgo precoz.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 144 del PDF (respuesta comentada de la pregunta 12)",
+   "de Virgilio ABSITE 3.ª ed., p. 138 del PDF (enunciado)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: C. Coincide con el libro."
+ },
+ {
+  "k": "0f49a31580",
+  "estado": "confirmada",
+  "stem": "Un niño de 12 años se presenta con gran cantidad de sangre roja brillante por recto, combinada con melena. Está hemodinámicamente estable. Los estudios incluyen endoscopía alta y baja, ambas negativas. Se realiza un escáner nuclear con pertecnetato-Tc99m, que muestra captación en el cuadrante inferior derecho. El manejo posterior consiste en:",
+  "opts": [
+   "Arteriografía",
+   "Diverticulectomía de Meckel",
+   "Serie gastrointestinal con seguimiento del intestino delgado",
+   "Resección segmentaria del íleon incluyendo el divertículo de Meckel",
+   "TC de abdomen con contraste oral"
+  ],
+  "ans": 3,
+  "why": "Un niño con sangrado rectal y melena, endoscopias negras y gammagrafía con pertecnetato positiva en cuadrante inferior derecho tiene un divertículo de Meckel con mucosa gástrica. El tejido ectópico secreta ácido y ulcera el íleon adyacente, por eso en casos de sangrado se hace resección intestinal segmentaria que incluya el divertículo; la diverticulectomía simple se reserva para otros casos. La arteriografía, el tránsito con bario o la TC no son el siguiente paso una vez localizado el Meckel con la gammagrafía.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 24 del PDF (respuesta comentada de la pregunta 2)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: D. Coincide con el libro. La exclusión de arteriografía, bario y TC se basa en que la gammagrafía ya localizó la lesión (inferencia clínica)."
+ },
+ {
+  "k": "b9a77bdc64",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal vago, diarrea, esteatorrea y anemia con un volumen corpuscular medio elevado. No tiene antecedentes médicos o quirúrgicos relevantes. La TC de abdomen y pelvis es negativa. La serie gastrointestinal y seguimiento del intestino delgado revelan un gran divertículo yeyunal. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "Es típicamente causado por una etiología autoinmune.",
+   "Una dieta con triglicéridos de cadena larga puede ser útil.",
+   "Debe resecarse el divertículo.",
+   "Antibióticos de amplio espectro están indicados solo si el paciente presenta fiebre y leucocitosis.",
+   "Se indica vitamina B12."
+  ],
+  "ans": 4,
+  "why": "La paciente tiene síndrome de asa ciega por sobrecrecimiento bacteriano en un divertículo yeyunal (esteatorrea, anemia macrocítica). Sabiston explica que las bacterias captan la vitamina B12 y producen anemia megaloblástica, y de Virgilio indica dar vitamina B12 parenteral a todos los pacientes con este síndrome. Las otras son falsas: la causa es estasis, no autoinmune; la dieta útil es con triglicéridos de cadena media, no larga; la resección no se recomienda inicialmente; y los antibióticos de amplio espectro son el tratamiento inicial, no solo si hay fiebre.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1312 del PDF (divertículos yeyunoileales: B12, anemia megaloblástica, respuesta a antibióticos)",
+   "Sabiston 21.ª ed., p. 1318 del PDF (síndrome del asa ciega)",
+   "de Virgilio ABSITE 3.ª ed., p. 147 del PDF (tratamiento del asa ciega: antibióticos, B12, TCM, no resecar al inicio)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E. Coincide con las fuentes."
+ },
+ {
+  "k": "0ba1bee68b",
+  "estado": "confirmada",
+  "stem": "Respecto a la embriología del intestino, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opts": [
+   "El ciego es una parte del intestino posterior",
+   "La unión de los intestinos medio y posterior se encuentra en la segunda parte del duodeno",
+   "La arteria mesentérica inferior irriga el intestino anterior",
+   "El vólvulo del intestino posterior es una causa común de obstrucción intestinal neonatal",
+   "La arteria mesentérica superior irriga el intestino medio"
+  ],
+  "ans": 4,
+  "why": "El intestino medio primitivo incluye duodeno distal, intestino delgado, colon ascendente y los dos tercios proximales del colon transverso, y es irrigado por la arteria mesentérica superior. Por tanto: el ciego (parte del colon derecho) no es intestino posterior; la unión medio-posterior está en el tercio distal del colon transverso, no en el duodeno; la AMI irriga el intestino posterior, no el anterior; y el vólvulo causante de obstrucción neonatal es del intestino medio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1345 del PDF (embriología del colon y recto)",
+   "Sabiston 21.ª ed., p. 1881 del PDF (vólvulo de intestino medio en malrotación)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: E. La opción E estaba cortada en el texto; en el original dice 'La arteria mesentérica superior irriga el intestino medio'."
+ },
+ {
+  "k": "4d68d289a1",
+  "estado": "dudosa",
+  "stem": "Una mujer de 35 años con múltiples hamartomas gastrointestinales y manchas pigmentadas en manos y labios tiene mayor riesgo de:",
+  "opts": [
+   "Cáncer cerebral",
+   "Cáncer de mama",
+   "Cáncer de piel",
+   "Cáncer de tiroides",
+   "Cáncer uterino"
+  ],
+  "ans": null,
+  "why": "El cuadro es de síndrome de Peutz-Jeghers. Sabiston y de Virgilio listan entre sus cánceres extraintestinales tanto mama como útero (además de ovario, testículo, etc.), sin ordenar cuál es mayor. Como las opciones B (mama) y E (uterino) son ambas riesgos aumentados según las fuentes y ninguna fuente de la carpeta los jerarquiza, no se puede decidir una sola respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1396 del PDF (SPJ: riesgo de cáncer mamario, uterino, ovárico, etc.)",
+   "de Virgilio ABSITE 3.ª ed., p. 128 y 146 del PDF (SPJ: riesgo de mama, útero, ovario)"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: B, cáncer de mama (resaltado). Es plausible, pero el cáncer uterino también figura como riesgo aumentado; sin dato de magnitud, queda dudosa."
+ },
+ {
+  "k": "4865fa309e",
+  "estado": "dudosa",
+  "stem": "Una mujer de 41 años con enfermedad de Crohn y múltiples cirugías tiene una ileostomía y enfermedad yeyunal distal. Usa prednisona y ácido aminosalicílico. ¿Cuál es un efecto de los glucocorticoides prolongados?",
+  "opts": [
+   "Producción de anticuerpos",
+   "Formación de colágeno",
+   "Disfunción de fibroblastos",
+   "Migración de células inflamatorias",
+   "Cicatrización de heridas"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que los glucocorticoides alteran la proliferación de fibroblastos y la síntesis de colágeno, con menos tejido de granulación, y que reducen la fuerza de la herida y la migración de queratinocitos. Eso respalda la clave C (disfunción de fibroblastos), pero también hace que la formación de colágeno, la migración inflamatoria y la cicatrización estén afectadas. Como las opciones no indican la dirección del efecto (aumento o disminución), el enunciado traducido es ambiguo y no se puede fijar una sola respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 160 del PDF (glucocorticoides alteran proliferación de fibroblastos y síntesis de colágeno)",
+   "Sabiston 21.ª ed., p. 161 del PDF (esteroides reducen la fuerza de la herida)"
+  ],
+  "tema": "cicatrizacion",
+  "nota": "Clave original: C. Es la opción mejor respaldada, pero las otras también describen procesos inhibidos por los esteroides y el texto no aclara la dirección."
+ },
+ {
+  "k": "df5d9cb3fd",
+  "estado": "confirmada",
+  "stem": "Una mujer de 39 años con enfermedad de Crohn de íleon y ciego se somete a resección intestinal con anastomosis extracorpórea. La muestra quirúrgica es enviada a patología. ¿Qué hallazgo histológico es más probable?",
+  "opts": [
+   "Afectación continua del intestino",
+   "Presencia de mucosa colónica ectópica",
+   "Inflamación limitada a la mucosa",
+   "Edema submucoso con elevación de la mucosa intacta",
+   "Adelgazamiento de la pared con dilatación del lumen"
+  ],
+  "ans": 3,
+  "why": "En la enfermedad de Crohn el edema de la mucosa y la submucosa aparece en el examen microscópico antes que cualquier cambio macroscópico, y las úlceras con islotes de mucosa normal dan el aspecto en adoquín. Las demás son falsas: la afectación es discontinua con áreas salteadas (no continua), no hay mucosa colónica ectópica, la inflamación es transmural (no limitada a la mucosa) y la pared se engruesa, no se adelgaza.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF (rasgos macroscópicos y microscópicos del Crohn)",
+   "Giménez 2.ª ed., p. 664 del PDF (edema submucoso, inflamación transmural)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: D. Las opciones D y E estaban cortadas; en el original dicen 'Edema submucoso con elevación de la mucosa intacta' y 'Adelgazamiento de la pared con dilatación del lumen'. El detalle 'elevación de la mucosa intacta' no aparece literal en el libro; se respalda con edema submucoso e islotes de mucosa normal."
+ },
+ {
+  "k": "66c9d4a864",
+  "estado": "confirmada",
+  "stem": "Una mujer de 72 años con fibrilación auricular acude a urgencias por dolor abdominal intenso de dos horas de evolución, más fuerte en los cuadrantes inferiores, especialmente el izquierdo. También presenta náuseas y vómitos. El examen revela poco dolor a la palpación, sin rebote, pero sangre en el tacto rectal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis aguda",
+   "Enfermedad de Crohn",
+   "Diverticulitis",
+   "Isquemia mesentérica",
+   "Colitis ulcerosa"
+  ],
+  "ans": 3,
+  "why": "Una mujer de 72 años con fibrilación auricular, dolor abdominal intenso de inicio brusco con examen abdominal pobre y sangre en el tacto rectal tiene isquemia mesentérica aguda por embolia. De Virgilio señala que la embolización cardíaca es la causa más común (30-50%), sobre todo con fibrilación auricular, y Sabiston describe el dolor desproporcionado a la exploración. Apendicitis, Crohn, diverticulitis y colitis ulcerosa no explican el dolor súbito desproporcionado con fibrilación auricular.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 283 del PDF (embolia de AMS desde fibrilación auricular)",
+   "Sabiston 21.ª ed., p. 1187 del PDF (dolor desproporcionado a la exploración en isquemia)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: D. Coincide con las fuentes; las otras opciones se descartan por el cuadro clínico."
+ },
+ {
+  "k": "71ac487711",
+  "estado": "confirmada",
+  "stem": "El sitio más comúnmente afectado por la enfermedad de Crohn es:",
+  "opts": [
+   "Recto",
+   "Colon",
+   "Yeyuno",
+   "Íleon terminal",
+   "Duodeno"
+  ],
+  "ans": 3,
+  "why": "En la enfermedad de Crohn puede afectarse cualquier segmento, pero el íleon terminal es el más frecuente. Giménez indica que el intestino delgado está afectado en el 90% de los casos, sobre todo el íleon terminal (70%); de Virgilio lo señala como el sitio más común.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF",
+   "Giménez 2.ª ed., p. 668 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: D. Coincide con las fuentes."
+ },
+ {
+  "k": "34a73975a5",
+  "estado": "dudosa",
+  "stem": "Paciente con signos de obstrucción intestinal. ¿Medida inicial más adecuada?",
+  "opts": [
+   "Hidratación parenteral",
+   "Cirugía inmediata",
+   "Sonda nasogástrica",
+   "Antibióticos",
+   "Observación únicamente"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston p. 1280 pone primero los líquidos y la sonda nasogástrica como complemento, pero la SNG (opción C) también es defendible como primer paso. Clave que proponía el revisor: A. Sabiston presenta la reposición intravenosa intensiva de líquidos como la primera medida del tratamiento de la obstrucción intestinal (los pacientes suelen estar deshidratados), y la sonda nasogástrica como 'otro complemento valioso' del tratamiento de apoyo. La cirugía inmediata solo se indica ante signos de isquemia o deterioro; los antibióticos no tienen evidencia sustancial en pacientes sin aspecto tóxico; la observación sola no es adecuada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF (reposición de líquidos y descompresión con sonda)"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA. Clave original: A. El libro ordena líquidos primero y SNG como complemento, pero ambas medidas se inician juntas en la práctica; la opción C (SNG) es también defendible."
+ },
+ {
+  "k": "5a79aa99a2",
+  "estado": "confirmada",
+  "stem": "¿Cuál es la causa más frecuente de obstrucción intestinal en adultos con antecedente quirúrgico?",
+  "opts": [
+   "Vólvulo de ciego",
+   "Íleo biliar",
+   "Bridas y adherencias",
+   "Cáncer de colon",
+   "Hernia estrangulada"
+  ],
+  "ans": 2,
+  "why": "En un adulto con cirugía abdominal previa, la causa más frecuente de obstrucción del intestino delgado son las adherencias (bridas) postoperatorias. De Virgilio señala que en EE. UU. la obstrucción es más comúnmente por adherencias de cirugía previa (a nivel mundial predomina la hernia, pero la pregunta se limita a pacientes con antecedente quirúrgico).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 144 del PDF (respuesta comentada de la pregunta 12)",
+   "de Virgilio ABSITE 3.ª ed., p. 134 del PDF (resumen: adherencias, hernia en el resto del mundo)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original: C. Coincide con las fuentes."
+ },
+ {
+  "k": "b28fd66ff9",
+  "estado": "dudosa",
+  "stem": "Primer paso en paciente con abdomen distendido y dolor en emergencia:",
+  "opts": [
+   "Colonoscopía",
+   "TAC",
+   "Ecografía",
+   "Rx abdomen simple de pie",
+   "Laparotomía"
+  ],
+  "ans": null,
+  "why": "Sabiston indica que la radiografía simple de abdomen aclara el diagnóstico de obstrucción en cerca del 86% de los casos, pero que la anamnesis y el examen físico son lo primero y que la TC se prefiere en pacientes sin cirugía previa, tras cirugía o con sospecha de neoplasia. El enunciado ('abdomen distendido y dolor') no dice si hay obstrucción, perforación ni antecedente quirúrgico, datos que cambian el primer estudio (radiografía vs TC). Por esa falta de contexto no se puede fijar una respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1277 del PDF (radiografía simple en obstrucción)",
+   "Sabiston 21.ª ed., p. 1279 del PDF (indicaciones de TC)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original: D (Rx de abdomen de pie). Es una respuesta clásica pero el enunciado es demasiado general."
+ },
+ {
+  "k": "e536802b2e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 38 años con síntomas de apendicitis aguda se somete a apendicectomía laparoscópica. En la cirugía, el íleon terminal y el ciego se ven rojos e inflamados. Se retira el apéndice sin problemas. La anatomía patológica no muestra apendicitis. Dos semanas después, regresa con salida de heces por la herida en el cuadrante inferior derecho. ¿Cuál es la causa más probable por la que el drenaje no cesa espontáneamente?",
+  "opts": [
+   "Obstrucción distal del colon",
+   "Inflamación crónica",
+   "Absceso intraabdominal oculto",
+   "Gasas retenidas",
+   "Neoplasia no diagnosticada"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston p. 1315 y de Virgilio dan varios factores que impiden el cierre de la fístula; escoger la inflamación crónica entre ellos se infiere del caso, no está escrito. Clave que proponía el revisor: B. El paciente tiene un íleon terminal y ciego inflamados, sugerente de Crohn, y una fístula enterocutánea tras apendicectomía. Entre los factores que impiden el cierre espontáneo de una fístula (cuerpo extraño, radiación, inflamación o infección como la enfermedad inflamatoria intestinal, epitelización, neoplasia, obstrucción distal), el dato del caso apunta a la inflamación crónica. De Virgilio añade que apendicectomizar con ciego activamente inflamado aumenta el riesgo de fístula enterocutánea. Las demás causas no tienen respaldo en el cuadro (no hay síntomas de absceso, gasa retenida, obstrucción ni masa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1315 del PDF (factores que impiden el cierre espontáneo de fístulas)",
+   "de Virgilio ABSITE 3.ª ed., p. 472 del PDF (mnemotecnia FRIEND)",
+   "de Virgilio ABSITE 3.ª ed., p. 170 del PDF (apendicectomía con ciego inflamado y fístula)"
+  ],
+  "tema": "complicaciones",
+  "nota": "INDIRECTA. Clave original: B. Las fuentes dan la lista de factores y el vínculo con Crohn, pero elegir inflamación entre los demás factores se infiere del cuadro clínico."
+ },
+ {
+  "k": "c7da59ec58",
+  "estado": "dudosa",
+  "stem": "Paciente con obstrucción intestinal post-apendicectomía. ¿Cuál es la conducta inicial más apropiada?",
+  "opts": [
+   "Tomografía abdominal",
+   "Laparotomía exploratoria",
+   "Nutrición parenteral total",
+   "Observación + SNG + hidratación",
+   "Laparotomía y liberación de adherencias"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El manejo conservador está respaldado (Sabiston p. 1280), pero el enunciado no dice si hay signos de estrangulación, lo que cambiaría la conducta. Clave que proponía el revisor: D. Sabiston indica que los pacientes con obstrucción parcial o sin signos de isquemia pueden recibir tratamiento conservador con reanimación y descompresión con sonda nasogástrica, con remisión en hasta el 85%, y que la cirugía inmediata se reserva para deterioro clínico o signos de isquemia. De Virgilio añade que la morbimortalidad de la obstrucción precoz postoperatoria es muy baja. La laparotomía, la TC o la nutrición parenteral no son la conducta inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1280 del PDF (tratamiento conservador, líquidos y SNG)",
+   "de Virgilio ABSITE 3.ª ed., p. 144 del PDF (obstrucción precoz postoperatoria)"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA. Clave original: D. El enunciado no dice si hay signos de estrangulación; se asume cuadro sin datos de isquemia, que es el escenario en que el libro recomienda observar con SNG e hidratación."
+ }
+]

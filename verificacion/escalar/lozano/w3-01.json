@@ -1,0 +1,308 @@
+[
+ {
+  "k": "7037764fcb",
+  "sec": "Bhe - fisiología",
+  "stem": "Una mujer de 62 años fue diagnosticada recientemente mediante endoscopía alta con un tumor gástrico distal casi obstructivo, pero posteriormente se perdió en el seguimiento. Ahora regresa al servicio de urgencias tras 24 horas de vómitos no biliosos y dolor abdominal. ¿Cuál es el factor más importante que contribuye a la hipocalemia en esta paciente?",
+  "opts": [
+   "Cambio intracelular",
+   "Aumento de la excreción urinaria",
+   "Pérdida de potasio con el vómito",
+   "Acidosis metabólica",
+   "Reposición de líquidos hipocalémica"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 45,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "23b324484f",
+  "sec": "Bhe - fisiología",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los líquidos comúnmente utilizados para resucitación o mantenimiento?",
+  "opts": [
+   "El suero fisiológico es preferido sobre Ringer lactato en pacientes quemados.",
+   "La solución de albúmina al 5% extrae líquido del espacio extravascular al aumentar la presión oncótica coloidal.",
+   "La dextrosa al 5% en agua es isoosmolar con el suero.",
+   "La solución de Ringer lactato empeorará una acidosis láctica existente.",
+   "Para reemplazar el volumen intravascular"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 45,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "600c3c0160",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 48 años con antecedentes de cirrosis alcohólica y ascitis refractaria es admitido a la UCI recuperándose de una peritonitis bacteriana espontánea (PBE). Actualmente ha completado los antibióticos y no hay evidencia de infección persistente. Durante su hospitalización, su creatinina aumentó de 1.0 a 1.6 mg/dL. El análisis de orina no muestra proteinuria ni microhematuria. ¿Cuál es el primer paso en el manejo?",
+  "opts": [
+   "Resucitación con solución salina normal",
+   "Suspensión de diuréticos",
+   "Terlipresina y albúmina",
+   "Inicio de terapia de reemplazo renal continua",
+   "Derivación portosistémica intrahepática"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 46,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "b56339ef43",
+  "sec": "Bhe - fisiología",
+  "stem": "Una mujer de 24 años fue sometida a resección yeyunal complicada por síndrome compartimental abdominal y abdomen abierto luego de un accidente automovilístico. Finalmente es dada de alta a casa, pero regresa una semana después con salida abundante de líquido amarillento desde su herida media. Ha notado disminución de la diuresis, está taquicárdica y presenta disminución del turgor cutáneo. ¿Qué combinación de alteraciones electrolíticas es más probable en esta paciente?",
+  "opts": [
+   "Hiponatremia, hipocalemia y acidosis metabólica",
+   "Hipocalemia, hipocloremia y alcalosis",
+   "Hiponatremia, hipercalemia y acidosis",
+   "Hipernatremia y acidosis metabólica",
+   "Hipercalemia y alcalosis metabólica"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 46,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "0f7f2d0182",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 55 años es admitido al hospital por alteración del estado mental. Los paramédicos informan que encontraron múltiples latas vacías de cerveza en su casa. Se le detecta una concentración de alcohol sérico de 255 mg/dL y una concentración de sodio sérico de 118 mEq/L. Se inicia fluidoterapia con solución salina normal y los niveles de sodio vuelven a la normalidad a la mañana siguiente. En el día 5 de hospitalización, desarrolla cuadriplejía espástica y no responde a estímulos externos. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Se podría haber prevenido con el uso de solución salina hipertónica.",
+   "La desmopresina puede usarse como",
+   "Las adaptaciones cerebrales a la hiponatremia tardan hasta una semana en desarrollarse.",
+   "La recuperación es imposible una vez que aparecen los síntomas neurológicos.",
+   "La lesión se restringe al puente de Varolio (protuberancia)."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 46,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "e94c53e343",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre diabético tipo I de 50 años es admitido al hospital para estudio de dolor abdominal vago y fiebre subjetiva. Sus antecedentes médicos incluyen proctocolectomía total con ileostomía por colitis ulcerosa. Los valores de laboratorio incluyen: pH 7.26, pCO₂ 24 mm Hg, pO₂ 100 mm Hg, sodio 129 mEq/L, potasio 2.9 mEq/L, cloro 110 mEq/L y bicarbonato 12 mEq/L. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pérdida excesiva por ileostomía",
+   "Insuficiencia renal",
+   "Cetoacidosis diabética",
+   "Acidosis láctica",
+   "Intoxicación por metanol"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 46,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5d4eb5c40d",
+  "sec": "Bhe - fisiología",
+  "stem": "Una adolescente de 16 años llega en ambulancia después de que su familia se preocupara por su comportamiento extraño. Parece desorientada y responde preguntas simples, pero es evasiva al responder sobre los eventos previos a su llegada. Los signos vitales son normales excepto por una frecuencia respiratoria de 7 respiraciones por minuto y un índice de masa corporal (IMC) de 16. La gasometría arterial y el panel metabólico básico son consistentes con una alcalosis metabólica. ¿Cuál de las siguientes pruebas será más útil para establecer un diagnóstico?",
+  "opts": [
+   "Examen toxicológico en orina",
+   "Tomografía computarizada cerebral",
+   "Concentración puntual de cloro urinario",
+   "Electrocardiograma (ECG)",
+   "Ecografía abdominal"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 46,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "096692b4d3",
+  "sec": "Bhe - fisiología",
+  "stem": "Una mujer de 57 años con enfermedad renal terminal en diálisis peritoneal se encuentra en el primer día postoperatorio tras una resección de intestino delgado. Un panel metabólico básico revela un nivel de potasio de 6.3 mEq/L. Se realiza un electrocardiograma que no muestra cambios significativos respecto a su línea base. El residente administra 1 g de gluconato de calcio, 50 mL de dextrosa al 50% en agua, y 10 unidades de insulina intravenosa, además de un tratamiento nebulizado con albuterol. Luego, la paciente se somete a hemodiálisis urgente. Seis horas después, el nivel de potasio es de 7.0 mEq/L. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Probablemente, la monoterapia con gluconato de calcio fue adecuada.",
+   "Debió haberse administrado sulfonato de",
+   "Se debió incluir bicarbonato de sodio en el régimen de tratamiento.",
+   "Gluconato de calcio, dextrosa, insulina y",
+   "La diálisis peritoneal habría proporcionado una mejor eliminación del potasio."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 46,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "cf8f6f87a4",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 60 años con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC) e hipertensión se presenta al servicio de urgencias con vómitos persistentes durante 2 días. En el examen físico está hipovolémico, taquicárdico y presenta signos de deshidratación. El laboratorio muestra: pH 7.48, bicarbonato 34 mEq/L, cloro 86 mEq/L, y potasio 2.8 mEq/L. ¿Cuál es la causa más probable de la alcalosis metabólica?",
+  "opts": [
+   "Pérdida gástrica de ácido clorhídrico",
+   "Hiperventilación por hipoxemia",
+   "Hipocalcemia",
+   "Uso de diuréticos de asa",
+   "Hiperaldosteronismo"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 47,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "16e3bf80ff",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 59 años se presenta con náuseas, debilidad muscular y letargo. Su potasio sérico es de 6.8 mEq/L. El electrocardiograma muestra ondas T picudas y ensanchamiento del complejo QRS. ¿Cuál de los siguientes es el paso inmediato más apropiado en el manejo?",
+  "opts": [
+   "Administrar resina de intercambio catiónico (Kayexalate)",
+   "Administrar bicarbonato de sodio intravenoso",
+   "Administrar gluconato de calcio",
+   "Administrar solución salina normal",
+   "Iniciar hemodiálisis urgente"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 47,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "c208edab39",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 72 años se presenta con hiponatremia sintomática (sodio sérico de 112 mEq/L) secundaria a síndrome de secreción inadecuada de ADH (SIADH). ¿Cuál de los siguientes es el tratamiento inicial más apropiado?",
+  "opts": [
+   "Solución salina hipertónica",
+   "Diurético de asa y restricción de líquidos",
+   "Demeclociclina",
+   "Tolvaptán",
+   "Bicarbonato de sodio"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 47,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "43aef94a50",
+  "sec": "Bhe - fisiología",
+  "stem": "Una mujer de 35 años, previamente sana, se presenta con debilidad, fatiga y pérdida de peso. El laboratorio muestra: sodio 126 mEq/L, potasio 5.9 mEq/L, glucosa 58 mg/dL y bicarbonato 18 mEq/L. La presión arterial está en 90/60 mm Hg y no responde adecuadamente a los líquidos intravenosos. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hipotiroidismo",
+   "Síndrome nefrótico",
+   "Insuficiencia suprarrenal primaria",
+   "Síndrome de secreción inadecuada de ADH",
+   "Insuficiencia cardíaca"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 47,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "b454b9d7cb",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 50 años se presenta tras una caída con un hematoma en el muslo derecho. Durante su evaluación, el potasio sérico es de 7.2 mEq/L y la creatinina de 1.8 mg/dL. ¿Cuál es la causa más probable de la hipercalemia?",
+  "opts": [
+   "Hipoperfusión renal",
+   "Acidosis metabólica",
+   "Rabdomiólisis",
+   "Insuficiencia adrenal",
+   "Medicamentos"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 47,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "d73c426b02",
+  "sec": "Bhe - fisiología",
+  "stem": "Un hombre de 61 años con antecedentes de diabetes e hipertensión se encuentra hospitalizado por pancreatitis aguda. Recibe abundante hidratación intravenosa. Tres días después, desarrolla hiponatremia con una osmolalidad plasmática de 270 mOsm/kg y osmolalidad urinaria de 500 mOsm/kg. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "El paciente tiene pseudohiponatremia.",
+   "La causa más probable es hipovolemia con pérdida renal de sodio.",
+   "La restricción de líquidos es el tratamiento más apropiado.",
+   "El uso de solución salina hipertónica es",
+   "La reposición con solución salina normal es el tratamiento de elección."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 47,
+  "motivo": "semana 4",
+  "tema": "liquidos"
+ },
+ {
+  "k": "5626504547",
+  "sec": "Quemados",
+  "stem": "Niño de 8 años rescatado de una casa en llamas. Tiene quemaduras de segundo y tercer grado en ambos brazos. Pesa 25 kg. Se asegura la vía aérea y se colocan dos vías IV. ¿Cuánto líquido debe administrarse en las primeras 8 horas?",
+  "opts": [
+   "800 mL",
+   "1,500 mL en 16 h",
+   "1,500 mL en 8 h",
+   "4,000 mL en 8 h",
+   "8,500 mL en 8 h"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "12c5ca3aac",
+  "sec": "Quemados",
+  "stem": "Un niño de 5 años sufrió quemaduras por escaldadura al volcar accidentalmente una olla de agua hirviendo. Tiene quemaduras de segundo grado en el tronco anterior y en la cara anterior del brazo derecho. ¿Cuál es la superficie corporal quemada estimada (SCQ)?",
+  "opts": [
+   "9%",
+   "13.5%",
+   "18%",
+   "22.5%",
+   "27%"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ },
+ {
+  "k": "fa1bd424b4",
+  "sec": "Quemados",
+  "stem": "Un paciente con quemaduras por incendio presenta náuseas, vómitos y confusión. Su nivel de carboxihemoglobina es del 35%. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Oxígeno a bajo flujo por cánula",
+   "Intubación y ventilación con aire ambiente",
+   "Oxígeno al 100% por mascarilla con reservorio",
+   "Corticoides sistémicos",
+   "Inhibidores de la bomba de protones"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 48,
+  "motivo": "semana 4",
+  "tema": "quemados"
+ }
+]

@@ -1,0 +1,305 @@
+[
+ {
+  "k": "b882972c9e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 62 años con antecedentes de enfermedad coronaria se presenta con pérdida de peso, náuseas, vómitos y dolor abdominal que inicia después de comer. Refiere que los síntomas le han generado mucho estrés y últimamente tiene miedo de comer por el dolor. Al examen abdominal no hay rebote ni defensa. La angiografía esplácnica revela estrechamiento de la arteria mesentérica superior. ¿Cuál de los siguientes es el mejor tratamiento para esta condición?",
+  "opts": [
+   "Resección intestinal",
+   "Comer pequeñas porciones con bajo contenido graso",
+   "Terapia prolongada con warfarina",
+   "Observación, ejercicio regular y cambios de estilo de vida",
+   "Endarterectomía transaórtica"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El ABSITE da como primera línea la angioplastia con stent, que no está entre las opciones; la endarterectomía se eligió por ser la única revascularización ofrecida. Clave que proponía el revisor: E. Es isquemia mesentérica crónica (angina intestinal): dolor posprandial, miedo a comer, pérdida de peso y estenosis de la AMS en la angiografía. El tratamiento es revascularizar; la cirugía abierta incluye la endarterectomía transaórtica. La resección intestinal es para intestino necrótico, y dieta, warfarina u observación no corrigen la estenosis.",
+  "fuentes": [
+   "ABSITE (de Virgilio) 3.ª ed., p. 275 del PDF",
+   "Chronic Mesenteric Ischemia: treatment strategies review, J Clin Med 2023 (PMC10672107, Europe PMC)"
+  ],
+  "tema": "abdomen-agudo",
+  "nota": "Clave original E (resaltado). El ABSITE dice que lo de primera línea hoy es angioplastia con stent, pero esa opción no está en la pregunta; entre las opciones dadas, la única revascularización es la endarterectomía transaórtica, descrita como técnica abierta aceptada."
+ },
+ {
+  "k": "8772ebc615",
+  "estado": "dudosa",
+  "stem": "Un neonato de 2 semanas es llevado a urgencias por vómitos biliosos e irritabilidad. Nacido a las 39 semanas por parto vaginal sin complicaciones. Afebril, signos vitales normales. Abdomen distendido y doloroso, timpanismo a la percusión. La serie gastrointestinal alta (Figuras 6-2 A-C) muestra una imagen compatible. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Atresia duodenal",
+   "Intususcepción",
+   "Íleo necrotizante",
+   "Obstrucción del intestino delgado",
+   "Vólvulo"
+  ],
+  "ans": null,
+  "why": "La pregunta depende de las Figuras 6-2 A-C (serie gastrointestinal alta), que no aparecen en el banco, así que el dato que decide no está. Con el texto solo, el vómito bilioso con distensión es compatible con vólvulo por malrotación (Sabiston describe el vómito bilioso agudo del neonato como signo de vólvulo de intestino medio), pero también con atresia/obstrucción intestinal, que el libro describe con vómitos biliosos y distensión. Sin la imagen no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1881 del PDF",
+   "Sabiston 21.ª ed., p. 1880 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 334 del PDF"
+  ],
+  "tema": "pediatria",
+  "nota": "Clave original E (vólvulo, resaltado). Plausible, pero sin la figura no se puede confirmar."
+ },
+ {
+  "k": "37058a5559",
+  "estado": "confirmada",
+  "stem": "Una niña de 4 años se presenta con hematoquecia. Niega dolor, fiebre, vómitos u otros síntomas. Está activa, feliz y ligeramente pálida. Hemoglobina: 8.5 g/dL. ¿Qué examen confirmará con mayor probabilidad el diagnóstico?",
+  "opts": [
+   "Tomografía abdominal",
+   "Arteriografía",
+   "Estudio con bario",
+   "Radiografía simple",
+   "Gammagrafía con tecnecio-99m pertecnetato"
+  ],
+  "ans": 4,
+  "why": "Hematoquecia indolora, masiva y con anemia en un niño pequeño sugiere divertículo de Meckel (el sangrado es lo más frecuente en menores de 5 años). La prueba diagnóstica más precisa en niños es la gammagrafía con 99mTc-pertecnetato, que capta la mucosa gástrica ectópica. TC, arteriografía, bario y radiografía simple rara vez dan el diagnóstico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "4954e077b6",
+  "estado": "confirmada",
+  "stem": "Un hombre de 33 años con artritis psoriásica presenta dolor abdominal, diarrea, fiebre y pérdida de peso en los últimos 6 meses. El dolor mejora con la defecación. Presenta úlceras orales. ¿Cuál de los siguientes NO es característico de su enfermedad?",
+  "opts": [
+   "Granulomas caseificantes en biopsia",
+   "Apariencia empedrada (cobblestoning)",
+   "Afectación del colon ascendente",
+   "Afectación del intestino delgado",
+   "Inflamación transmural en biopsia"
+  ],
+  "ans": 0,
+  "why": "Es enfermedad de Crohn (artritis, úlceras orales, dolor y diarrea). Sus rasgos son inflamación transmural, aspecto empedrado, lesiones salteadas y granulomas NO caseosos; puede afectar intestino delgado y colon (30% solo delgado, 15% solo colon, el resto ileocolónica). Los granulomas caseificantes son de tuberculosis, no de Crohn.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1284 del PDF",
+   "Sabiston 21.ª ed., p. 1285 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 148 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "f7f0e0c6c6",
+  "estado": "confirmada",
+  "stem": "Una mujer de 82 años, residente en una casa de reposo, se presenta con distensión y dolor abdominal tipo cólico. Antecedentes: enfermedad de Alzheimer, histerectomía, colecistectomía y apendicectomía. Se diagnostica obstrucción intestinal. ¿Cuál de los siguientes NO es una causa mecánica de obstrucción intestinal?",
+  "opts": [
+   "Adherencias abdominales",
+   "Cáncer",
+   "Hernia",
+   "Enfermedad inflamatoria intestinal",
+   "Medicamentos narcóticos"
+  ],
+  "ans": 4,
+  "why": "Las causas mecánicas de obstrucción del intestino delgado son adherencias, hernias, neoplasias y enfermedad inflamatoria (Crohn). Los opiáceos como morfina causan íleo iatrogénico, que es obstrucción funcional, no mecánica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1276 del PDF (cuadro 50.1)",
+   "Sabiston 21.ª ed., p. 1282 del PDF",
+   "Sabiston 21.ª ed., p. 286 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "89cb3366e9",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años con enfermedad de Crohn severa es sometido a resección del intestino delgado. Se reseca un segmento distal muy comprometido. ¿Cuál de las siguientes NO es una complicación de la resección del intestino delgado distal?",
+  "opts": [
+   "Reciclaje de sales biliares",
+   "Disminución de reabsorción de agua y electrolitos",
+   "Mala absorción de grasas",
+   "Deficiencias de vitaminas hidrosolubles",
+   "Deficiencia de vitamina B12"
+  ],
+  "ans": null,
+  "why": "La evidencia respalda que la resección del íleon distal causa pérdida de absorción de sales biliares y de vitamina B12 (diarrea y anemia), y que el colon pierde su capacidad de reabsorber agua y electrolitos. Pero la clave marcada (D, vitaminas hidrosolubles) choca con la opción E: la B12 es hidrosoluble, así que D y E se solapan. Además la opción A ('Reciclaje de sales biliares') está mal redactada: lo que se pierde es la reabsorción/reciclaje. Con opciones ambiguas y sin fuente que diga que las vitaminas hidrosolubles no se afectan, no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1320 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 142 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 133 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original D (resaltado). Texto reparado: la opción B continúa en la página siguiente ('electrolitos')."
+ },
+ {
+  "k": "37b19bbd91",
+  "estado": "confirmada",
+  "stem": "Un hombre de 35 años con Crohn se somete a resección de 3 cm de íleon. El cirujano envía el espécimen para histología. ¿Cuál es la secuencia correcta de capas del intestino delgado de adentro hacia afuera?",
+  "opts": [
+   "Mucosa, capa muscular circular, submucosa, muscularis mucosae, muscular longitudinal, serosa",
+   "Mucosa, muscularis mucosae, submucosa, capa muscular circular, capa muscular longitudinal, serosa",
+   "Mucosa, muscularis mucosae, submucosa, capa muscular longitudinal, capa muscular circular, serosa",
+   "Mucosa, submucosa, muscularis mucosae, capa muscular circular, capa muscular longitudinal, serosa",
+   "Mucosa, submucosa, muscularis mucosae, capa muscular longitudinal, capa muscular circular, serosa"
+  ],
+  "ans": 1,
+  "why": "De adentro hacia afuera: la mucosa (que incluye la muscularis mucosae), luego la submucosa, la muscular propia con capa circular interna y longitudinal externa, y por último la serosa. La opción B respeta ese orden; las demás invierten la submucosa con la muscularis mucosae o las capas musculares.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1267 del PDF",
+   "Latarjet, Anatomía humana t. 2, p. 535 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Sabiston define la muscularis mucosae como parte de la mucosa; la secuencia con circular interna y longitudinal externa coincide con Latarjet (circular profunda, longitudinal superficial)."
+ },
+ {
+  "k": "30424adbf4",
+  "estado": "confirmada",
+  "stem": "Un hombre de 23 años con episodios de dolor abdominal inexplicable presenta múltiples pecas marrones en la piel dentro y alrededor de la boca. Tras evaluación se encuentra intususcepción. ¿Cuál de las siguientes NO es característica de su enfermedad subyacente?",
+  "opts": [
+   "Herencia autosómica dominante",
+   "Mayor riesgo de malignidad intestinal",
+   "Hiperplasia linfoide",
+   "Múltiples hamartomas gastrointestinales",
+   "Mutación STK11/LKB1"
+  ],
+  "ans": 2,
+  "why": "Pecas peribucales con intususcepción indican síndrome de Peutz-Jeghers: herencia autosómica dominante, hamartomas gastrointestinales, mutación STK11 y mayor riesgo de cáncer (intestino, colon, páncreas, mama, entre otros). La hiperplasia linfoide no es parte del síndrome.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1300 del PDF",
+   "Sabiston 21.ª ed., p. 695 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 446 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 128 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: las otras cuatro opciones están respaldadas directamente; la hiperplasia linfoide se descarta porque las fuentes describen solo hamartomas, sin mencionarla."
+ },
+ {
+  "k": "586a34c302",
+  "estado": "dudosa",
+  "stem": "Una niña de 13 años presenta náuseas, vómitos, diarrea y fiebre luego de comer ensalada de papas que estuvo horas fuera del refrigerador. Está moderadamente enferma pero tolera hidratación oral. Diagnóstico: gastritis bacteriana. ¿Cuál de los siguientes NO es un mecanismo de defensa importante en intestino delgado contra bacterias?",
+  "opts": [
+   "Tejido linfoide asociado al intestino",
+   "Producción de moco",
+   "Bacterias nativas",
+   "Células de Paneth",
+   "Uniones estrechas"
+  ],
+  "ans": null,
+  "why": "Las fuentes confirman como defensas intestinales el epitelio como barrera, el moco (células caliciformes), las células de Paneth (lisozima, criptidinas) y el tejido linfoide. En cambio la microbiota nativa se describe como protectora (inhibe a C. difficile en el colon), y ningún libro dice que en el intestino delgado no sea una defensa importante. La clave marcada (bacterias nativas) no tiene respaldo directo y la pregunta puede tener todas las opciones como defensas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1267 del PDF",
+   "Sabiston 21.ª ed., p. 1272 del PDF",
+   "Sabiston 21.ª ed., p. 293 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 147 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original C (resaltado). Posible razonamiento del examen: el intestino delgado tiene pocas bacterias (10^3 a 10^5 UFC/ml, Sabiston p. 1276), pero eso no figura como respuesta en ninguna fuente."
+ },
+ {
+  "k": "88cc398cae",
+  "estado": "dudosa",
+  "stem": "Un hombre de 34 años con artralgias migratorias, diarrea, pérdida de peso, fiebre ocasional y dolor abdominal. Tiene linfadenopatías y áreas de hiperpigmentación. Biopsia intestinal: atrofia de vellosidades, macrófagos con PAS positivo. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Angina abdominal",
+   "Enfermedad celíaca",
+   "Enfermedad de Crohn",
+   "Enfermedad de Hartnup",
+   "Enfermedad de Whipple"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): La clave tiene respaldo (PMC8103404), pero no se buscó fuente para descartar cada una de las otras opciones. Clave que proponía el revisor: E. Artralgias migratorias, diarrea con pérdida de peso, fiebre, linfadenopatía, hiperpigmentación y biopsia con macrófagos PAS positivos y atrofia de vellosidades corresponden a enfermedad de Whipple (Tropheryma whipplei). Se diagnostica con biopsia duodenal con tinción PAS. Crohn, celíaca, angina abdominal y Hartnup no cursan con macrófagos PAS positivos.",
+  "fuentes": [
+   "Reumatologia 2021, Whipple's disease mimicking rheumatic disorders (PMC8103404, Europe PMC)"
+  ],
+  "tema": "intestino",
+  "nota": "Los libros de la carpeta no cubren la enfermedad de Whipple; se usó revisión revisada por pares. INDIRECTA para las otras opciones: no se buscó fuente para descartar cada una."
+ },
+ {
+  "k": "f6d115e897",
+  "estado": "dudosa",
+  "stem": "Una mujer de 33 años con náuseas, vómitos, diarrea crónica y dolor abdominal tras comer. Ha visitado muchos médicos. Anticuerpos antiendomisio positivos. ¿Cuál de las siguientes NO es una complicación frecuente de su enfermedad?",
+  "opts": [
+   "Anemia",
+   "Mayor riesgo de aborto espontáneo",
+   "Linfoma intestinal",
+   "Sarcoma intestinal",
+   "Subfertilidad"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): La fuente (PMC8793016) cita linfoma y adenocarcinoma; el sarcoma se descartó solo porque no aparece, no porque una fuente lo excluya. Clave que proponía el revisor: D. Anticuerpos antiendomisio positivos indican enfermedad celíaca. Sus complicaciones incluyen anemia ferropénica, linfoma y adenocarcinoma de intestino delgado, e infertilidad y abortos recurrentes. El sarcoma intestinal no figura entre ellas.",
+  "fuentes": [
+   "Celiac disease guidelines, World J Gastroenterol 2022 (PMC8793016, Europe PMC)"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: el sarcoma se descarta por no aparecer en la fuente (que cita linfoma y adenocarcinoma); los libros de la carpeta no cubren la enfermedad celíaca."
+ },
+ {
+  "k": "3f1690af3f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 24 años con 8 meses de diarrea, malestar, dolor abdominal, fiebre ocasional y úlceras orales. Serie gastrointestinal: estenosis de 10 cm en íleon. Albúmina: 2.5 g/dL, PCR elevada, Hb 12.1, leucocitosis. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Adenocarcinoma intestinal",
+   "Enfermedad celíaca",
+   "Enfermedad de Crohn",
+   "Gastritis",
+   "Colitis ulcerosa"
+  ],
+  "ans": 2,
+  "why": "Diarrea crónica, fiebre, úlceras orales, estenosis ileal, hipoalbuminemia y PCR alta corresponden a enfermedad de Crohn: afecta el íleon terminal, causa estenosis y tiene manifestaciones extraintestinales como estomatitis aftosa. La celíaca y la colitis ulcerosa no producen estenosis ileal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1285 del PDF",
+   "Sabiston 21.ª ed., p. 1284 del PDF"
+  ],
+  "tema": "intestino"
+ },
+ {
+  "k": "56777383d5",
+  "estado": "confirmada",
+  "stem": "Un neonato de 3 días que se alimentaba bien comienza con vómitos biliosos, distensión e irritabilidad. Masa palpable en CSD. Enema con bario muestra estrechamiento agudo (“pico de ave”) y dilatación proximal. En cirugía, segmento intestinal de 2 cm con flujo dudoso. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Cierre del paciente y monitoreo clínico",
+   "Cierre más aspiración nasogástrica, antibióticos y soporte IV",
+   "Cierre, soporte y reexploración quirúrgica en 12 a 36 h",
+   "Resección de todo el intestino delgado",
+   "Resección inmediata del segmento comprometido"
+  ],
+  "ans": 2,
+  "why": "Es un vólvulo de intestino medio neonatal. Tras desrotar y valorar la perfusión, se resecan los segmentos necróticos, pero los segmentos isquémicos límite pueden dejarse y hacer una laparotomía de segunda inspección a las 24-36 h. Por eso se cierra, se da soporte y se reexplora, no se resecan segmentos dudosos ni todo el intestino.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1881 del PDF",
+   "Sabiston 21.ª ed., p. 1281 del PDF"
+  ],
+  "tema": "pediatria",
+  "nota": "Clave original C (resaltado). Sabiston da 24-36 h; la opción dice 12-36 h, que lo contiene. INDIRECTA parcial: el enunciado habla de 'pico de ave' y masa en CSD, que no se cotejaron con una fuente."
+ },
+ {
+  "k": "cf9df81aef",
+  "estado": "dudosa",
+  "stem": "Un hombre de 57 años sin antecedentes quirúrgicos se presenta con 2 días de dolor abdominal, náuseas y vómitos. Al examen se encuentra distendido y timpánico, con leve sensibilidad sin rebote ni defensa. La tomografía computarizada (TC) muestra múltiples asas dilatadas de intestino delgado con un punto de transición en el intestino delgado distal, con algo de estriación grasa mesentérica adyacente. Tiene leucocitosis leve. Su última evacuación fue hace 1 día y no ha eliminado flatos desde entonces. Nunca ha tenido síntomas similares. Se le coloca una sonda nasogástrica, se administran líquidos intravenosos (IV) y se le indica dieta absoluta (NPO). ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Ingreso, observación, esteroides",
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Ingreso, observación",
+   "Ingreso, observación, antibióticos IV"
+  ],
+  "ans": null,
+  "why": "Obstrucción de delgado sin cirugía previa, con punto de transición y estriación grasa mesentérica, leucocitosis leve y sin peritonitis. Sabiston indica cirugía inmediata con fiebre, taquicardia, leucocitosis creciente, peritonitis o estrangulación, y también dice que ningún parámetro descarta con fiabilidad la isquemia. El ABSITE, en cambio, explica que la regla clásica (SBO sin cirugía previa se opera) fue cuestionada: hasta 40% se resuelve sin cirugía y se usa la prueba con contraste hidrosoluble. Hay dos manejos defendibles (laparotomía u observación) y ninguna fuente decide este caso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 287 del PDF",
+   "Sabiston 21.ª ed., p. 1280 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 148 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original C, laparotomía (resaltado); coincide con la regla clásica de abdomen sin cirugía previa, pero la evidencia actual del ABSITE no la hace segura."
+ },
+ {
+  "k": "fdb01c90f1",
+  "estado": "confirmada",
+  "stem": "La etiología responsable de la presentación más común de un divertículo de Meckel en niños es:",
+  "opts": [
+   "Punto guía",
+   "Mucosa gástrica ectópica",
+   "Mucosa pancreática ectópica",
+   "Infección bacteriana",
+   "Banda adhesiva al ombligo"
+  ],
+  "ans": 1,
+  "why": "La presentación más común del divertículo de Meckel en niños es el sangrado digestivo bajo indoloro, causado por úlcera ileal inducida por ácido de la mucosa gástrica ectópica. Es el tejido heterotópico más frecuente (más del 70% de los sintomáticos). Un punto guía de invaginación o una banda al ombligo son presentaciones menos comunes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1313 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF",
+   "ABSITE (de Virgilio) 3.ª ed., p. 24 del PDF"
+  ],
+  "tema": "intestino"
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "k": "e8aabc6676",
+  "sec": "Intestino delgado",
+  "stem": "El síndrome de la AMS (síndrome de Wilkie):",
+  "opts": [
+   "Involucra la segunda porción del duodeno",
+   "Es más común en hombres",
+   "Se diagnostica mejor con arteriografía",
+   "Se asocia con el uso de corsés ortopédicos (body casting)",
+   "Se trata mejor con una gastro-yeyunostomía"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "7469877ebf",
+  "sec": "Intestino delgado",
+  "stem": "¿Cuál de las siguientes es la mejor opción de primera línea para una exacerbación aguda de la enfermedad de Crohn?",
+  "opts": [
+   "Sulfasalazina",
+   "Mesalazina",
+   "Natalizumab",
+   "Prednisona",
+   "Infliximab"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "60176e6bab",
+  "sec": "Intestino delgado",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la ileítis aguda?",
+  "opts": [
+   "Usualmente es una manifestación de la",
+   "Se trata mejor con resección segmentaria del intestino delgado",
+   "Si se descubre en cirugía, debe retirarse el apéndice incluso si el ciego está inflamado",
+   "Si hay ganglios linfáticos agrandados, debe realizarse biopsia",
+   "Está asociada con infecciones por"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "6fdb7f7ca6",
+  "sec": "Intestino delgado",
+  "stem": "Un niño de 12 años se presenta con gran cantidad de sangre roja brillante por el recto combinada con melenas. Está hemodinámicamente estable. La endoscopía superior e inferior son negativas. Una gammagrafía con tecnecio-99m pertecnetato muestra captación en la región del cuadrante inferior derecho. El manejo consiste en:",
+  "opts": [
+   "Arteriografía",
+   "Diverticulectomía de Meckel",
+   "Tránsito intestinal con contraste",
+   "Resección segmentaria del íleon que incluya el divertículo de Meckel",
+   "Tomografía abdominal con contraste oral"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "b7cf5c2310",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 70 años presenta dolor abdominal vago, diarrea, esteatorrea y anemia con un volumen corpuscular medio elevado. Sus antecedentes médicos y quirúrgicos no son relevantes. La TC de abdomen y pelvis es negativa. Una serie gastrointestinal alta con tránsito intestinal revela un gran divertículo yeyunal. Todas las siguientes afirmaciones sobre esta condición son verdaderas, EXCEPTO:",
+  "opts": [
+   "La prueba de D-xilosa ayuda a establecer el diagnóstico",
+   "Una dieta con triglicéridos de cadena media puede ser útil",
+   "El divertículo debe resecarse",
+   "Se indican antibióticos de amplio espectro",
+   "Está indicado el uso de vitamina B12"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "6adaed504e",
+  "sec": "Intestino delgado",
+  "stem": "Todas las siguientes afirmaciones sobre el síndrome de Peutz-Jeghers son verdaderas, EXCEPTO:",
+  "opts": [
+   "La lesión típica en el intestino delgado es un pólipo adenomatoso",
+   "Es autosómico dominante",
+   "La obstrucción intestinal es la presentación más común",
+   "Hay un mayor riesgo de cáncer del intestino delgado",
+   "Hay un mayor riesgo de cáncer de mama"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "05c8cccc0b",
+  "sec": "Intestino delgado",
+  "stem": "Todas las siguientes afirmaciones sobre la neumatosis intestinal son verdaderas, EXCEPTO:",
+  "opts": [
+   "En neonatos, se asocia con mayor frecuencia a enterocolitis necrosante",
+   "Puede producir neumoperitoneo no quirúrgico",
+   "En adultos, se asocia comúnmente con",
+   "La neumatosis primaria usualmente requiere intervención quirúrgica",
+   "El diagnóstico se hace fácilmente con"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 130,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "2951d7c4f0",
+  "sec": "Intestino delgado",
+  "stem": "La presentación más común del divertículo de Meckel en adultos es:",
+  "opts": [
+   "Sangrado oculto",
+   "Hemorragia gastrointestinal baja masiva",
+   "Diverticulitis con absceso localizado",
+   "Diverticulitis con peritonitis difusa",
+   "Obstrucción"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 131,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "cb6d84a2dc",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 45 años con antecedentes recientes de cirugía intestinal se presenta con dolor abdominal, náuseas, vómitos y ausencia de evacuaciones en los últimos días. Describe el dolor como intermitente. Al inicio tuvo diarrea, pero ahora se queja de estreñimiento. Está afebril. Su pulso es de 95 latidos/min y respiraciones 17/min. Los estudios de laboratorio muestran una leve leucocitosis con desviación a la izquierda y nitrógeno ureico elevado. El resto del laboratorio es normal. La radiografía simple se muestra en la Figura 6-1. ¿Cuál es el siguiente mejor paso en el manejo?",
+  "opts": [
+   "Tomografía abdominal",
+   "Hidratación IV, sonda nasogástrica y antibióticos",
+   "Laparoscopía inmediata",
+   "Sulfato de morfina",
+   "Prometazina"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 131,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "28abb0e0f0",
+  "sec": "Intestino delgado",
+  "stem": "Un niño de 1 año se presenta con diarrea crónica, falla para crecer, crecimiento deficiente y dificultad para alimentarse. Se sospecha enfermedad celíaca junto con otros diagnósticos diferenciales. ¿Qué anticuerpos se asocian con enfermedad celíaca?",
+  "opts": [
+   "Anti-dsDNA",
+   "Antiendomisio y antigliadina",
+   "Antimitocondriales y antigliadina",
+   "Anti-SRP y antitransglutaminasa",
+   "Antitopoisomerasa"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 131,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "9bb9255ec1",
+  "sec": "Intestino delgado",
+  "stem": "Un niño de 2 años se presenta con dolor abdominal intermitente y llanto. La madre refiere heces rojizas con moco y vómitos ocasionales. Está afebril. En el examen se palpa una masa en forma de salchicha en cuadrante inferior derecho. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Tomografía abdominal",
+   "Radiografía abdominal",
+   "Apendicectomía",
+   "Enema con contraste",
+   "Laparotomía"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 131,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "6b3f63804e",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 68 años con diabetes y enfermedad coronaria se presenta con pérdida de peso, estreñimiento y náuseas en los últimos 6 meses. Tiene abdomen distendido y timpánico. Colonoscopía sin hallazgos. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Endoscopía con cápsula",
+   "Disminuir dosis de aspirina",
+   "Disminuir metformina",
+   "Suspender nitroglicerina",
+   "Serie gastrointestinal alta con seguimiento del intestino delgado"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "6fa2082206",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 33 años refiere distensión, diarrea acuosa, heces flotantes, anorexia y fatiga. Tiene anemia macrocítica con folato normal. Prueba de aliento con ascenso precoz de hidrógeno tras 14C glicocolato. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Sobrecrecimiento bacteriano",
+   "Enfermedad celíaca",
+   "Fibrosis quística",
+   "Síndrome de intestino irritable",
+   "Síndrome de intestino corto"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "5539df1a7e",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 65 años con enfermedad de Crohn y múltiples cirugías presenta fatiga, náuseas, diarrea y calambres. Albúmina 2.1 g/dL, anemia ferropénica, sin elevación de PCR ni VSG. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Enfermedad de Crohn activa",
+   "Anorexia nerviosa",
+   "Enfermedad celíaca",
+   "Síndrome de intestino corto",
+   "Neoplasia de intestino delgado"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "51662cd449",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 31 años tiene dolor abdominal, diarrea y estreñimiento alternantes por un año. Tiene historia de depresión. Diagnóstico: síndrome de intestino irritable. ¿Cuál de los siguientes síntomas es menos típico?",
+  "opts": [
+   "Dolor de espalda",
+   "Distensión",
+   "Cefalea",
+   "Sensación de evacuación incompleta",
+   "Pérdida de peso"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 132,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ }
+]

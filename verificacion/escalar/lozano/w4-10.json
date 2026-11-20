@@ -1,0 +1,272 @@
+[
+ {
+  "k": "36dbf9c45b",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 68 años se presenta con exacerbación de insuficiencia cardíaca congestiva y dolor abdominal agudo. El examen físico muestra sensibilidad abdominal difusa leve, sin rebote ni defensa. La arteriografía por TC del abdomen demuestra estrechamiento difuso de la arteria mesentérica superior (AMS) y sus ramas. ¿Cuál de las siguientes es una opción de manejo apropiada?",
+  "opts": [
+   "Goteo IV de heparina",
+   "Laparotomía exploradora",
+   "Reanimación agresiva con líquidos",
+   "Papaverina intraarterial",
+   "Terapia trombolítica"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 135,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "bea91731fd",
+  "sec": "Intestino delgado",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la obstrucción intestinal",
+  "opts": [
+   "La causa más común a nivel mundial son adherencias por cirugía previa.",
+   "Es más frecuente con cirugías del intestin superior que inferior.",
+   "En obstrucción en asa cerrada completa, lactato puede ser normal.",
+   "Los síntomas de obstrucción parcial generalmente mejoran en 24 h con manejo conservador.",
+   "El dolor abdominal desproporcionado al examen físico aparece temprano en la obstrucción."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 135,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "0f49a31580",
+  "sec": "Intestino delgado",
+  "stem": "Un niño de 12 años se presenta con gran cantidad de sangre roja brillante por recto, combinada con melena. Está hemodinámicamente estable. Los estudios incluyen endoscopía alta y baja, ambas negativas. Se realiza un escáner nuclear con pertecnetato-Tc99m, que muestra captación en el cuadrante inferior derecho. El manejo posterior consiste en:",
+  "opts": [
+   "Arteriografía",
+   "Diverticulectomía de Meckel",
+   "Serie gastrointestinal con seguimiento del intestino delgado",
+   "Resección segmentaria del íleon incluyendo el divertículo de Meckel",
+   "TC de abdomen con contraste oral"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 136,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "b9a77bdc64",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal vago, diarrea, esteatorrea y anemia con un volumen corpuscular medio elevado. No tiene antecedentes médicos o quirúrgicos relevantes. La TC de abdomen y pelvis es negativa. La serie gastrointestinal y seguimiento del intestino delgado revelan un gran divertículo yeyunal. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "Es típicamente causado por una etiología autoinmune.",
+   "Una dieta con triglicéridos de cadena larga puede ser útil.",
+   "Debe resecarse el divertículo.",
+   "Antibióticos de amplio espectro están indicados solo si el paciente presenta fiebre y leucocitosis.",
+   "Se indica vitamina B12."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 136,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "0ba1bee68b",
+  "sec": "Intestino delgado",
+  "stem": "Respecto a la embriología del intestino, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opts": [
+   "El ciego es una parte del intestino posterior",
+   "La unión de los intestinos medio y posterior se encuentra en la segunda parte del duodeno",
+   "La arteria mesentérica inferior irriga el intestino anterior",
+   "El vólvulo del intestino posterior es una causa común de obstrucción intestinal neonatal",
+   "La arteria mesentérica superior irriga el"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "4d68d289a1",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 35 años con múltiples hamartomas gastrointestinales y manchas pigmentadas en manos y labios tiene mayor riesgo de:",
+  "opts": [
+   "Cáncer cerebral",
+   "Cáncer de mama",
+   "Cáncer de piel",
+   "Cáncer de tiroides",
+   "Cáncer uterino"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "4865fa309e",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 41 años con enfermedad de Crohn y múltiples cirugías tiene una ileostomía y enfermedad yeyunal distal. Usa prednisona y ácido aminosalicílico. ¿Cuál es un efecto de los glucocorticoides prolongados?",
+  "opts": [
+   "Producción de anticuerpos",
+   "Formación de colágeno",
+   "Disfunción de fibroblastos",
+   "Migración de células inflamatorias",
+   "Cicatrización de heridas"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "df5d9cb3fd",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 39 años con enfermedad de Crohn de íleon y ciego se somete a resección intestinal con anastomosis extracorpórea. La muestra quirúrgica es enviada a patología. ¿Qué hallazgo histológico es más probable?",
+  "opts": [
+   "Afectación continua del intestino",
+   "Presencia de mucosa colónica ectópica",
+   "Inflamación limitada a la mucosa",
+   "Edema submucoso con elevación de la",
+   "Adelgazamiento de la pared con dilatación del lumen"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "66c9d4a864",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 72 años con fibrilación auricular acude a urgencias por dolor abdominal intenso de dos horas de evolución, más fuerte en los cuadrantes inferiores, especialmente el izquierdo. También presenta náuseas y vómitos. El examen revela poco dolor a la palpación, sin rebote, pero sangre en el tacto rectal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis aguda",
+   "Enfermedad de Crohn",
+   "Diverticulitis",
+   "Isquemia mesentérica",
+   "Colitis ulcerosa"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "71ac487711",
+  "sec": "Intestino delgado",
+  "stem": "El sitio más comúnmente afectado por la enfermedad de Crohn es:",
+  "opts": [
+   "Recto",
+   "Colon",
+   "Yeyuno",
+   "Íleon terminal",
+   "Duodeno"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 140,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "34a73975a5",
+  "sec": "Obstrucción intestinal",
+  "stem": "Paciente con signos de obstrucción intestinal. ¿Medida inicial más adecuada?",
+  "opts": [
+   "Hidratación parenteral",
+   "Cirugía inmediata",
+   "Sonda nasogástrica",
+   "Antibióticos",
+   "Observación únicamente"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "5a79aa99a2",
+  "sec": "Obstrucción intestinal",
+  "stem": "¿Cuál es la causa más frecuente de obstrucción intestinal en adultos con antecedente quirúrgico?",
+  "opts": [
+   "Vólvulo de ciego",
+   "Íleo biliar",
+   "Bridas y adherencias",
+   "Cáncer de colon",
+   "Hernia estrangulada"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "b28fd66ff9",
+  "sec": "Obstrucción intestinal",
+  "stem": "Primer paso en paciente con abdomen distendido y dolor en emergencia:",
+  "opts": [
+   "Colonoscopía",
+   "TAC",
+   "Ecografía",
+   "Rx abdomen simple de pie",
+   "Laparotomía"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 4",
+  "tema": "abdomen-agudo"
+ },
+ {
+  "k": "e536802b2e",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 38 años con síntomas de apendicitis aguda se somete a apendicectomía laparoscópica. En la cirugía, el íleon terminal y el ciego se ven rojos e inflamados. Se retira el apéndice sin problemas. La anatomía patológica no muestra apendicitis. Dos semanas después, regresa con salida de heces por la herida en el cuadrante inferior derecho. ¿Cuál es la causa más probable por la que el drenaje no cesa espontáneamente?",
+  "opts": [
+   "Obstrucción distal del colon",
+   "Inflamación crónica",
+   "Absceso intraabdominal oculto",
+   "Gasas retenidas",
+   "Neoplasia no diagnosticada"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ },
+ {
+  "k": "c7da59ec58",
+  "sec": "Apéndice",
+  "stem": "Paciente con obstrucción intestinal post-apendicectomía. ¿Cuál es la conducta inicial más apropiada?",
+  "opts": [
+   "Tomografía abdominal",
+   "Laparotomía exploratoria",
+   "Nutrición parenteral total",
+   "Observación + SNG + hidratación",
+   "Laparotomía y liberación de adherencias"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ }
+]

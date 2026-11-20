@@ -60,10 +60,10 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 256,
-   "conClave": 256,
-   "secciones": 19,
-   "verificadas": 256,
+   "n": 342,
+   "conClave": 342,
+   "secciones": 20,
+   "verificadas": 342,
    "altoValor": 128
   },
   {
@@ -272,7 +272,7 @@
    "nombre": "Hernias de la pared abdominal",
    "clase": "17",
    "semana": 4,
-   "n": 64,
+   "n": 105,
    "alto": 19
   },
   {
@@ -280,7 +280,7 @@
    "nombre": "Eventraciones, evisceraciones y diástasis de rectos",
    "clase": "18",
    "semana": 4,
-   "n": 8,
+   "n": 13,
    "alto": 3
   },
   {
@@ -288,7 +288,7 @@
    "nombre": "Abdomen agudo",
    "clase": "19-20",
    "semana": 4,
-   "n": 35,
+   "n": 40,
    "alto": 8
   },
   {
@@ -307,7 +307,7 @@
     4,
     5
    ],
-   "n": 80,
+   "n": 110,
    "alto": 38
   },
   {
@@ -315,7 +315,7 @@
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
    "semana": 5,
-   "n": 38,
+   "n": 39,
    "alto": 22
   },
   {
@@ -454,7 +454,7 @@
    "nombre": "Cirugía pediátrica",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 6,
+   "n": 10,
    "alto": 3
   },
   {

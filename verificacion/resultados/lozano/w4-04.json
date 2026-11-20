@@ -1,0 +1,300 @@
+[
+ {
+  "k": "caf10046f3",
+  "estado": "confirmada",
+  "stem": "Un paciente desarrolla dolor testicular y atrofia meses después de una hernioplastia abierta con malla. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Lesión del nervio ilioinguinal",
+   "Torsión testicular",
+   "Infección de la malla",
+   "Orquitis isquémica",
+   "Hidrocele"
+  ],
+  "ans": 3,
+  "why": "La orquitis isquémica aparece tras la reparación de una hernia inguinal por la trombosis de las venas del plexo pampiniforme (congestión venosa testicular) y puede evolucionar a atrofia testicular. El factor de riesgo más identificado es la disección extensa del cordón. La lesión del nervio ilioinguinal causa dolor, pero no atrofia; la torsión, la infección de la malla y el hidrocele no son la complicación descrita en el texto.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF (respuesta 11)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: D (resaltado). Coincide con el libro. Las otras opciones no se discuten una por una en la fuente para este caso, pero el libro describe explícitamente 'testicular atrophy' como evolución de la orquitis isquémica."
+ },
+ {
+  "k": "065c591905",
+  "estado": "dudosa",
+  "stem": "Durante la exploración quirúrgica de una hernia femoral complicada, se observa una masa blanda que contiene mucosa intestinal y presenta signos de necrosis. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia de Richter",
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia obturatriz",
+   "Hernia inguinal indirecta"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El enunciado es confuso (\"mucosa intestinal\") y ningún libro trata este caso; la clave se apoya solo en la definición de hernia de Richter. Clave que proponía el revisor: A. La hernia de Richter es aquella en la que solo el borde antimesentérico del intestino pasa por el defecto, por lo que puede haber incarceración y estrangulación sin obstrucción intestinal. El canal femoral es estrecho y su anillo rígido, así que la hernia femoral tiende a pellizcar el asa y a estrangularla. Littre (divertículo de Meckel), Amyand (apéndice), obturatriz e inguinal indirecta no describen una necrosis parcial de la pared intestinal en una hernia femoral.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF (definición de Richter)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 45 del PDF (cuello fijo de la hernia femoral)",
+   "Sabiston 21.ª ed., p. 1129 del PDF (Richter: estrangulación de la pared antimesentérica sin obstrucción)"
+  ],
+  "tema": "hernias",
+  "nota": "INDIRECTA: el texto de la pregunta es confuso ('mucosa intestinal'). La clave original A (resaltado) es la única opción que encaja con necrosis parcial de la pared en una hernia femoral; los libros no tratan este caso exacto."
+ },
+ {
+  "k": "24df6ca0bf",
+  "estado": "confirmada",
+  "stem": "Durante la exploración quirúrgica de una hernia inguinal derecha encarcelada, se encuentra un divertículo de Meckel dentro del saco herniario. ¿Cómo se denomina esta entidad?",
+  "opts": [
+   "Hernia de Littre",
+   "Hernia de Richter",
+   "Hernia de Amyand",
+   "Hernia femoral",
+   "Hernia espigeliana"
+  ],
+  "ans": 0,
+  "why": "Un saco herniario que contiene un divertículo de Meckel se llama hernia de Littre. Richter es la herniación de solo el borde antimesentérico del intestino; Amyand contiene el apéndice; la espigeliana es una hernia por la línea semilunar.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF (respuesta 16)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 170 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: A (resaltado). Coincide con el libro."
+ },
+ {
+  "k": "48b717ab4d",
+  "estado": "confirmada",
+  "stem": "Durante la reparación de una hernia inguinal, el cirujano nota que el apéndice vermiforme se encuentra dentro del saco herniario. ¿Cómo se denomina esta condición?",
+  "opts": [
+   "Hernia de Richter",
+   "Hernia de Littre",
+   "Hernia espigeliana",
+   "Hernia de Amyand",
+   "Hernia de Garengeot"
+  ],
+  "ans": 3,
+  "why": "Una hernia que contiene el apéndice es la hernia de Amyand; su importancia es que puede confundirse con una hernia estrangulada común, y se trata con apendicectomía sin malla. Littre contiene un divertículo de Meckel, Richter solo el borde antimesentérico del intestino y Garengeot es el apéndice dentro de una hernia femoral (no inguinal).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF (Amyand)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 160 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF",
+   "Europe PMC, PMID 32356219: De Garengeot = hernia femoral con apéndice vermiforme"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: D (resaltado). Coincide con el libro."
+ },
+ {
+  "k": "ea48e001fa",
+  "estado": "confirmada",
+  "stem": "Una mujer de 74 años presenta una hernia crural incarcerada que contiene un apéndice inflamado dentro del saco. ¿Cuál es el nombre de esta condición?",
+  "opts": [
+   "Hernia de Amyand",
+   "Hernia de Littre",
+   "Hernia de Garengeot",
+   "Hernia espigeliana",
+   "Hernia de Richter"
+  ],
+  "ans": 2,
+  "why": "Una hernia femoral (crural) que contiene el apéndice vermiforme se llama hernia de De Garengeot. Amyand es el apéndice dentro de una hernia inguinal, Littre el divertículo de Meckel y Richter solo el borde antimesentérico del intestino.",
+  "fuentes": [
+   "Europe PMC, PMID 32356219 (Ultrasound diagnosis of acute appendicitis complicating De Garengeot's hernia, 2021): hernia de Garengeot = herniación del apéndice vermiforme en un saco femoral",
+   "Europe PMC, PMID 41357729 (2025): hernia femoral que contiene el apéndice",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 del PDF (Amyand = hernia que contiene el apéndice; distinguida de Garengeot por ser inguinal)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: C (resaltado). Sabiston y ABSITE no mencionan 'Garengeot'; se confirma con artículos revisados por pares."
+ },
+ {
+  "k": "c25f54594c",
+  "estado": "confirmada",
+  "stem": "Un paciente con hernia incisional grande en la línea media abdominal se queja de disnea al estar de pie. La TAC muestra hernia con contenido intestinal y desplazamiento de vísceras. ¿Cuál es el principal riesgo quirúrgico en este caso?",
+  "opts": [
+   "Infección de la herida",
+   "Falla de la malla",
+   "Síndrome compartimental abdominal",
+   "Lesión intestinal",
+   "Hematoma postoperatorio"
+  ],
+  "ans": 2,
+  "why": "En eventraciones grandes con pérdida del dominio abdominal, devolver las vísceras desplazadas a la cavidad durante la reparación aumenta la presión intraabdominal y puede producir síndrome compartimental abdominal e insuficiencia respiratoria aguda. Es el riesgo quirúrgico característico de este escenario; infección, falla de malla, lesión intestinal y hematoma son riesgos de cualquier reparación, no del desplazamiento visceral.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1146 del PDF (hernias incisionales, pérdida del dominio abdominal)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original: C (resaltado). Coincide con Sabiston."
+ },
+ {
+  "k": "63ac21fa6e",
+  "estado": "dudosa",
+  "stem": "Una mujer de 40 años con hernia ventral grande es sometida a reparación con colocación de malla sintética. Se presenta fiebre, enrojecimiento y drenaje purulento por la herida 10 días después. ¿Cuál es la mejor conducta?",
+  "opts": [
+   "Antibióticos por vía oral",
+   "Reapertura parcial y curaciones locales",
+   "Aspiración con aguja guiada por imagen",
+   "Retiro de la malla",
+   "Drenaje quirúrgico sin retirar malla"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 457 y 1155 respaldan retirar la malla, pero en infecciones con polipropileno a veces se conserva y el enunciado no dice el tipo de malla. Clave que proponía el revisor: D. Para una infección de malla, Sabiston indica retirar el material protésico infectado, drenar los abscesos y desbridar la herida. En casos agudos con respuesta sistémica (aquí fiebre y pus a los 10 días) el tratamiento incluye desbridamiento y retirada tempranos de la malla. Antibióticos orales, aspiración o curaciones solas no erradican una malla infectada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 457 del PDF (infección de malla: es necesaria la retirada)",
+   "Sabiston 21.ª ed., p. 1155 del PDF (infección aguda con sepsis: desbridamiento y retirada tempranos)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original: D (resaltado). Matiz: Sabiston p. 1155 dice que en infecciones crónicas inactivas, sobre todo con polipropileno, la malla a veces se recupera, y en poliéster solo se retira parte. La pregunta no dice el tipo de malla, pero con fiebre y pus a los 10 días encaja con infección aguda y la opción E (drenar sin retirar) es la alternativa menos respaldada."
+ },
+ {
+  "k": "fdc0b773f2",
+  "estado": "dudosa",
+  "stem": "Un hombre de 68 años se somete a reparación laparoscópica de hernia inguinal bilateral. Posteriormente desarrolla disestesias y dolor crónico en la región inguinal derecha que se exacerban al caminar. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Reacción alérgica a la malla",
+   "Lesión del nervio genitofemoral",
+   "Infección crónica de la malla",
+   "Recurrencia de la hernia",
+   "Lesión del conducto deferente"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): ABSITE p. 44 ubica la rama femoral del genitofemoral en el triángulo del dolor, pero el nervio que más se lesiona por vía laparoscópica es el cutáneo femoral lateral; la evidencia es indirecta. Clave que proponía el revisor: B. El 'triángulo del dolor' (lateral a los vasos epigástricos, bajo el tracto iliopúbico) contiene la rama femoral del genitofemoral y el cutáneo femoral lateral; fijar la malla ahí lesiona esos nervios, y esta lesión es relativamente específica de las reparaciones laparoscópicas. De las opciones, solo el genitofemoral corresponde. La reacción alérgica, la infección de la malla, la recidiva y la lesión del deferente no producen disestesias neuropáticas inguinales.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF (respuesta 8, triángulo del dolor)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: B (resaltado). INDIRECTA parcial: el libro dice que el nervio más lesionado en la vía laparoscópica es el cutáneo femoral lateral (no ofrecido); entre las opciones dadas, el genitofemoral es la que el libro vincula con el triángulo del dolor."
+ },
+ {
+  "k": "22b9a5059d",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años se presenta con dolor abdominal crónico y una masa en el borde lateral del músculo recto anterior del abdomen. La ecografía revela un defecto de la pared abdominal lateral con protrusión de contenido intestinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia de Spiegel",
+   "Hernia incisional",
+   "Hernia lumbar",
+   "Hernia de Littre",
+   "Hernia umbilical"
+  ],
+  "ans": 0,
+  "why": "La hernia de Spiegel ocurre por la fascia de Spiegel, entre el borde lateral del recto y la línea semilunar; suele ser interparietal y se diagnostica con ecografía o TC. La incisional, la lumbar (pared posterior), Littre (Meckel) y la umbilical no se ubican en el borde lateral del recto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF (hernia de Spiegel)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 145 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: A (resaltado). Coincide con los libros."
+ },
+ {
+  "k": "a8edbc47ad",
+  "estado": "confirmada",
+  "stem": "Un paciente con enfermedad hepática terminal presenta gran ascitis y hernia umbilical con adelgazamiento progresivo de la piel suprayacente. ¿Cuál es el mayor riesgo si no se realiza tratamiento?",
+  "opts": [
+   "Recurrencia de la hernia",
+   "Infección del líquido ascítico",
+   "Isquemia de la piel con ruptura",
+   "Obstrucción intestinal",
+   "Fístula entero-cutánea"
+  ],
+  "ans": 2,
+  "why": "En cirrosis con ascitis, la presión elevada adelgaza la piel sobre la hernia umbilical hasta la isquemia; una de las complicaciones más graves es la rotura de la hernia por la piel isquémica, con peritonitis y muerte. Por eso se repara si la piel se adelgaza.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 45 del PDF (respuesta 15)",
+   "Sabiston 21.ª ed., p. 1146 del PDF (rotura espontánea de hernias umbilicales con ascitis)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: C (resaltado). Coincide con los libros."
+ },
+ {
+  "k": "fc09753ca6",
+  "estado": "dudosa",
+  "stem": "Un paciente con antecedentes de múltiples reparaciones de hernia ventral se presenta con recurrencia de la hernia. ¿Cuál de los siguientes factores se asocia más fuertemente con la recurrencia?",
+  "opts": [
+   "Diabetes mellitus",
+   "Obesidad",
+   "Tabaquismo",
+   "Infección previa del sitio quirúrgico",
+   "Hernia incarcerada previa"
+  ],
+  "ans": null,
+  "why": "Los libros consultados no comparan factores de riesgo de recidiva de hernia ventral. Sabiston dice que las infecciones del sitio quirúrgico, obesidad, diabetes, etc. favorecen la formación de la eventración, pero no indica cuál se asocia 'más fuertemente' con la recidiva. Una búsqueda en Europe PMC no halló una fuente que ordene estos cinco factores. Sin evidencia que decida, no se elige.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1146 del PDF (factores de eventración, no de recidiva)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original: D, infección previa del sitio quirúrgico (resaltado). Es plausible, pero no verificada con fuente."
+ },
+ {
+  "k": "c90207b95d",
+  "estado": "dudosa",
+  "stem": "Un cirujano elige colocar una malla en el espacio preperitoneal durante una reparación de hernia ventral por vía laparoscópica. ¿Cuál es la principal ventaja de esta técnica?",
+  "opts": [
+   "Disminuye el dolor postoperatorio",
+   "Reduce el riesgo de recurrencia",
+   "Evita la necesidad de anestesia general",
+   "Facilita la disección anatómica",
+   "Permite el uso de cualquier tipo de malla"
+  ],
+  "ans": null,
+  "why": "Sabiston habla de colocar la malla bajo la fascia (intra, pre o retrorrectal) y menciona tasas de recidiva de cada técnica, pero no establece que la posición preperitoneal por vía laparoscópica tenga como 'principal ventaja' reducir la recidiva. La pregunta además es ambigua (la vía laparoscópica suele colocar la malla intraperitoneal). No hay fuente que decida entre las opciones.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1148-1151 del PDF (posiciones de la malla)"
+  ],
+  "tema": "eventraciones",
+  "nota": "Clave original: B, reduce el riesgo de recidiva (resaltado). No verificada."
+ },
+ {
+  "k": "d89fcc9c0e",
+  "estado": "dudosa",
+  "stem": "Un hombre de 42 años acude a urgencias con dolor abdominal vago durante el último mes, que ha empeorado súbitamente en las últimas horas. Una tomografía computarizada abdominal demuestra acumulación de grasa mesentérica entre el músculo recto abdominal y la línea semilunar. ¿Cuál de las siguientes afirmaciones es cierta respecto a esta condición?",
+  "opts": [
+   "Normalmente los pacientes presentan una masa palpable",
+   "Exige una reparación abierta con incisión sobre el área afectada",
+   "Los pacientes con esta afección suelen recibir anticoagulación",
+   "Existe un alto riesgo de sepsis",
+   "Se considera un diagnóstico clínico y normalmente no se requieren imágenes"
+  ],
+  "ans": null,
+  "why": "El cuadro (grasa entre el recto y la línea semilunar) corresponde a una hernia de Spiegel. Sabiston dice que rara vez se palpa masa (A falsa), que la ecografía o TC ayudan al diagnóstico (E falsa), que puede repararse por vía laparoscópica (B falsa) y que se repara por el riesgo de incarceración. Ninguna fuente menciona un 'alto riesgo de sepsis' (D) y tampoco se halló respaldo para el resto, así que la clave no se puede confirmar sin hacerlo por descarte.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF (hernia de Spiegel)",
+   "Sabiston 21.ª ed., p. 1110 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: D, alto riesgo de sepsis (resaltado). El libro respalda 'riesgo de incarceración', no 'sepsis'."
+ },
+ {
+  "k": "5d371bc67f",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de las hernias umbilicales en adultos?",
+  "opts": [
+   "La mayoría son congénitas",
+   "La reparación está contraindicada en pacientes con cirrosis",
+   "La estrangulación es menos común que en l niños",
+   "Las hernias pequeñas pueden observarse clínicamente sin intervención",
+   "El cierre primario tiene tasas de recurrencia similares a la reparación con malla"
+  ],
+  "ans": 3,
+  "why": "En adultos las hernias umbilicales pequeñas, poco palpables y asintomáticas pueden seguirse clínicamente. A es falsa (en adultos son sobre todo adquiridas). B es falsa (con cirrosis y ascitis se repara si la piel se adelgaza, tras manejar la ascitis). C es falsa (la estrangulación en adultos es poco común pero más frecuente que en niños). E es falsa (recidiva 11% con cierre primario frente a 1% con malla).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 45 del PDF (respuesta 15)",
+   "Sabiston 21.ª ed., p. 1146 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: D (resaltado). Coincide con el libro; cada opción no elegida está refutada en la fuente."
+ },
+ {
+  "k": "4d77d336cb",
+  "estado": "dudosa",
+  "stem": "Cuatro meses después de la reparación abierta de una hernia inguinal con malla, un paciente informa dolor ardoroso persistente en el sitio de la incisión que se irradia hacia la ingle. No hay evidencia de recurrencia herniaria. El paciente mejora parcialmente tras un bloqueo nervioso guiado por ecografía, lateral al cordón espermático cerca del tubérculo púbico. ¿Cuál de las siguientes afirmaciones es cierta acerca de esta condición?",
+  "opts": [
+   "La identificación cuidadosa de los tres nervios sensoriales durante la cirugía previene esta complicación",
+   "El tratamiento inicial implica reexploración quirúrgica",
+   "La reintervención por el fracaso del tratamiento conservador se logra mejor mediante un abordaje retroperitoneal laparoscópico",
+   "El dolor crónico después de la reparación de una hernia es poco común",
+   "La sección intencional de los nervios sensoriales durante la cirugía primaria podría haber evitado esta complicación"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): ABSITE p. 44 respalda C y D, y A y E se descartaron solo porque el libro no las trata; la clave queda por descarte. Clave que proponía el revisor: C. El dolor inguinal crónico ocurre en 10 a 25% de los pacientes al año de la cirugía (D falsa); si el tratamiento conservador no lo resuelve, la exploración y sección del nervio dan resultados, y en la reintervención tras reparación abierta lo preferido es la triple neurectomía retroperitoneal laparoscópica (ilioinguinal, iliohipogástrico, genitofemoral). Por eso la reexploración no es el tratamiento inicial (B falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF (respuesta 10)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: C (resaltado). INDIRECTA para A y E: el libro no trata la prevención por identificación de los nervios ni la neurectomía profiláctica; se descartan por ser afirmaciones absolutas que la fuente no respalda. Texto y opciones reparados con la imagen del original (p. 77-78): el texto de la pregunta estaba cortado."
+ }
+]

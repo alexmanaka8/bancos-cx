@@ -1,0 +1,272 @@
+[
+ {
+  "k": "5a3dc53085",
+  "sec": "Abdomen general",
+  "stem": "Un lactante varón de 5 meses, previamente sano, presenta masa dolorosa en la ingle izquierda con leve eritema cutáneo. Está afebril y los laboratorios son normales. ¿Cuál es el siguiente mejor paso?",
+  "opts": [
+   "Intentar reducción manual y, si es exitosa, programar la reparación quirúrgica al cumplir 1 año de edad",
+   "Intentar reducción manual y, si es exitosa, llevar inmediatamente a cirugía para reparar",
+   "Intentar reducción manual y, si es exitosa, programar reparación en 2 días",
+   "Intentar reducción manual y, si es exitosa, reparar quirúrgicamente el lado izquierdo y el contralateral",
+   "Llevar inmediatamente al quirófano para reparación quirúrgica"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 77,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "0b45b12a0c",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de la anatomía relacionada con la hernia?",
+  "opts": [
+   "El ligamento de Poupart se forma a partir de la porción anteroinferior de la aponeurosis del oblicuo externo",
+   "El musculo cremastier surge del musculo transverso del abdomen",
+   "La rama genital del nervio genitofemoral pasa a través del anillo inguinal superficial",
+   "La rama femoral del nervio genitofemoral",
+   "Las hernias indirectas surgen dentro de los límites del músculo recto, el ligamento inguinal y la arteria epigástrica inferior"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 77,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "b70b9cfcaa",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 55 años presenta un bulto doloroso en la ingle izquierda, con antecedentes de reparación abierta previa en la ingle derecha. Actualmente tiene masas reducibles bilaterales. ¿Cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "Se prefiere la reparación abierta bilateral",
+   "En TEP, si la malla no se fija lateralmente a los vasos epigástricos, puede recurrir por el anillo interno",
+   "Si se viola el peritoneo durante TEP, se debe convertir a abordaje abierto preperitoneal",
+   "El dolor o entumecimiento en el muslo lateral es más común con cirugía laparoscópica",
+   "La reparación laparoscópica previene hernias femorales futuras"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 77,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "0acb135cce",
+  "sec": "Abdomen general",
+  "stem": "Un paciente varón de 28 años con hernia inguinal derecha reducible desea comparar reparación abierta con malla vs. reparación TEP. ¿Cuál de las siguientes afirmaciones es correcta?",
+  "opts": [
+   "El dolor crónico es menor con la reparación abierta con malla",
+   "El tiempo operatorio es igual en ambos enfoques",
+   "La reparación TEP permite un regreso más rápido al trabajo y actividad",
+   "La reparación abierta se asocia con más complicaciones intraoperatorias",
+   "Las tasas de recurrencia son altas (>25%) con ambos métodos"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "ac94d2b2a6",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 45 años presenta una hernia incisional reducible y dolorosa 5 cm por encima del ombligo, tras laparotomía por herida de bala hace 10 años. Se detecta un defecto de 6 cm. ¿Cuál de las siguientes afirmaciones es cierta?",
+  "opts": [
+   "Las hernias incisionales ocurren en aproximadamente el 1% de las laparotomías",
+   "El costo total de una reparación laparoscópica supera al de una abierta",
+   "No deben intentarse reparaciones",
+   "La infección del sitio quirúrgico contribuyó a la formación de esta hernia",
+   "La malla de interposición aumenta la tasa de recurrencia comparada con otros métodos"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "c7c7cec6a8",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 78 años presenta vómitos biliosos de 6 horas de evolución. En el examen se encuentra una masa firme y dolorosa justo por debajo del ligamento inguinal izquierdo. ¿Cuál de las siguientes afirmaciones es cierta respecto de la condición más probable?",
+  "opts": [
+   "El ligamento lagunar está lateral a la masa",
+   "Si se descubre esta hernia en un paciente asintomático, aún así debe repararse",
+   "El músculo aductor largo usualmente marca el borde lateral de la masa",
+   "No se recomienda la reparación mediante una incisión infrainguinal directamente sobre la masa",
+   "El riesgo de esta afección es similar en"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "e32ac7a235",
+  "sec": "Abdomen general",
+  "stem": "Mujer de 55 años presenta un bulto indoloro en la línea media de la pared abdominal. Refiere pérdida de peso de 40 kg en los últimos 2 años. Observa una cresta entre el esternón y el ombligo al incorporarse. El bulto se hace evidente al levantar la cabeza. ¿Cuál de las siguientes afirmaciones es cierta respecto a su condición?",
+  "opts": [
+   "La reparación quirúrgica debe realizarse de inmediato para prevenir encarcelamiento",
+   "La etiología puede ser tanto congénita como adquirida",
+   "Un régimen estricto de ejercicios de la pared abdominal suele resolverlo completamente",
+   "El defecto se limita exclusivamente a la fascia transversalis",
+   "Estos defectos normalmente contienen solo grasa preperitoneal"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "fde2a799f4",
+  "sec": "Abdomen general",
+  "stem": "Mujer de 20 años con dolor intenso en el cuadrante inferior izquierdo 1 semana después de una apendicectomía laparoscópica. Se encuentra sensibilidad, eritema y plenitud en sitio de trócar de 12 mm. La TC muestra estrecha relación del íleon con la pared abdominal y colección de aire/líquido en continuidad con el íleon. Dilatación del intestino delgado sin punto claro de transición. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Se debe intentar comprimir suavemente el sitio del trócar bajo sedación",
+   "Debe realizarse incisión y drenaje del sitio del trócar en quirófano",
+   "El sitio del trócar debe abrirse en el servicio de urgencias",
+   "La afección puede tratarse por vía laparoscópica",
+   "Hay poco riesgo de desarrollo de intestino necrótico"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "aea22b783b",
+  "sec": "Abdomen general",
+  "stem": "Hombre de 45 años con dolor abdominal y náuseas de 4 horas de evolución. Tiene antecedentes de bulto inguinal derecho intermitente, ahora irreductible, con dolor constante. Abdomen blando, sin dolor ni leucocitosis. No hay hernia palpable en el examen, ni dolor testicular. Náuseas persisten. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Reparación urgente de la hernia inguinal derecha",
+   "Reparación de la hernia inguinal derecha dentro de 48 horas",
+   "Tomografía computarizada de abdomen y pelvis",
+   "Ultrasonido escrotal",
+   "Observación hospitalaria"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "1a9986195f",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes combinaciones entre reparación de hernia y su paso clave está INCORRECTAMENTE emparejada?",
+  "opts": [
+   "Reparación de Bassini: incisión de la fascia transversalis para ingresar al espacio preperitoneal",
+   "Reparación de McVay: incisión de la vaina del recto anterior",
+   "Reparación de Shouldice: sutura de la fascia transversalis al ligamento de Cooper",
+   "Reparación de Lichtenstein: recreación del anillo interno con malla protésica",
+   "Reparación de Laroque: extracción del contenido de la hernia a través de una incisión superior al anillo interno"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "c9ffb8b447",
+  "sec": "Abdomen general",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a la separación de componentes (component separation) en la reparación de hernias complejas?",
+  "opts": [
+   "Se recomienda la liberación del músculo oblicuo interno si no se puede cerrar después de incidir la aponeurosis del oblicuo externo",
+   "La ligadura de las perforantes de la pared abdominal es esencial al levantar los colgajos laterales",
+   "Las tasas de recurrencia son mucho más altas en comparación con la colocación de malla protésica",
+   "Hacer una incisión en la vaina posterior del recto por encima del nivel de la línea arqueada puede aumentar la longitud disponible para la reparación",
+   "Al liberar el oblicuo externo, la incisión se extiende desde el margen costal hasta el arco inguinal"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 78,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "f4c617d4c5",
+  "sec": "Abdomen general",
+  "stem": "Una hernia de Richter:",
+  "opts": [
+   "Contiene con mayor frecuencia colon o vejiga en el aspecto posterior del saco",
+   "Tiene bajo riesgo de incarceración",
+   "Se presenta más comúnmente como una obstrucción del intestino delgado",
+   "Puede engañar al clínico ya que el intestino estrangulado puede pasarse por alto fácilmente",
+   "Debe ser reducida manualmente en el departamento de emergencias siempre que no haya evidencia de obstrucción intestinal"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 79,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "129bd539b2",
+  "sec": "Abdomen general",
+  "stem": "Una madre preocupada acude a consulta por temor de que su hijo de 6 meses tenga una gran protrusión en su ombligo que empeora al llorar pero se reduce mientras duerme. Al examen se palpa un defecto fascial de 1 cm en su ombligo. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Se recomienda reparación electiva",
+   "La condición está asociada a anomalías cardíacas",
+   "El tamaño del defecto predice que probablemente no se cerrará por sí solo",
+   "El riesgo de incarceración es significativo",
+   "La reparación debe retrasarse hasta que el niño tenga 4 años"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 79,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "c42ff979d3",
+  "sec": "Abdomen general",
+  "stem": "Luego de una reparación abierta de hernia inguinal, un hombre de 50 años se queja de entumecimiento y dolor urente en el escroto. Esto probablemente representa una lesión de:",
+  "opts": [
+   "Rama genital del nervio genitofemoral",
+   "Rama femoral del nervio genitofemoral",
+   "Nervio ilioinguinal",
+   "Nervio cutáneo femoral lateral",
+   "Nervio iliohipogástrico"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "316c0a8809",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 65 años se presenta a urgencias con náuseas, vómitos y dolor abdominal severo. Su historia clínica incluye una sigmoidectomía por diverticulitis hace 10 años. Al examen físico, su temperatura es de 38.3 °C, presión arterial de 110/80 mmHg, y frecuencia cardíaca de 110/min. Tiene una cicatriz media bien cicatrizada, abdomen distendido, ruidos intestinales hiperactivos con borborigmos y tintineos. Dolor marcado a la palpación en el cuadrante superior derecho con defensa. El resto del examen abdominal es normal. Serie abdominal demuestra un asa de intestino delgado marcadamente distendida en el cuadrante superior derecho con un nivel hidroaéreo. No se observa gas en el colon ni recto. Laboratorio: leucocitos 18 × 10³ /μL (normal 4.1–10.9), con 15% de bandas, lactato 5 mmol/L (normal 0.5–1.6), BUN 30 mg/dL (7–21), creatinina 1.2 mg/dL (0.5–1.4). Amilasa, lipasa y pruebas hepáticas normales. Se coloca sonda nasogástrica y se inicia líquidos IV. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Internar para observación estrecha",
+   "Tránsito gastrointestinal con bario",
+   "Tránsito gastrointestinal con Gastrografin",
+   "Ecografía del cuadrante superior derecho"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 80,
+  "motivo": "semana 4",
+  "tema": "intestino"
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "k": "afe305203f",
+  "sec": "Abdomen general",
+  "stem": "Todas las siguientes afirmaciones sobre hernias en adultos son verdaderas EXCEPTO:",
+  "opts": [
+   "En hombres, las hernias indirectas son las más comunes.",
+   "En mujeres, las hernias indirectas son más comunes.",
+   "Las hernias femorales son más comun en mujeres.",
+   "Las hernias umbilicales son más comunes en hombres.",
+   "El aneurisma aórtico es un factor de riesgo para hernias inguinales e incisionales."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "a6309fd384",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 45 años presenta una hernia inguinal derecha, pequeña, asintomática y reducible. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "La probabilidad de incarceración sin cirugía es alta.",
+   "Sin cirugía, es probable que desarrolle dolor intratable.",
+   "Esperar hasta que aparezcan síntomas es una alternativa razonable a la cirugía.",
+   "La reparación laparoscópica es la mejor opción.",
+   "Sin cirugía, probablemente quedará incapacitado."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "8da5d1d8c4",
+  "sec": "Abdomen general",
+  "stem": "Todas las siguientes afirmaciones sobre las hernias de Spiegel son verdaderas EXCEPTO:",
+  "opts": [
+   "Ocurren a través de la capa aponeurótica entre el músculo recto abdominal y la línea semilunar.",
+   "Tienden a ser pequeñas.",
+   "Es poco común encontrar una protuberancia palpable al examen físico.",
+   "El riesgo de incarceración es bajo.",
+   "La tomografía computarizada es útil para establecer el diagnóstico."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "98e21047bb",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 45 años consulta por una masa en la ingle derecha que aparece al toser o hacer esfuerzo y desaparece al recostarse. Refiere sensación de pesadez en la región inguinal. El examen físico revela una protrusión reducible sobre el ligamento inguinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia femoral",
+   "Hernia inguinal directa",
+   "Hernia inguinal indirecta",
+   "Adenopatía inguinal",
+   "Varicocele"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "76b0ab911e",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 70 años llega con dolor abdominal agudo y náuseas. Tiene una masa irreducible en la raíz del muslo derecho, debajo del ligamento inguinal. Está febril y taquicárdica. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia inguinal directa",
+   "Hernia inguinal indirecta",
+   "Hernia femoral estrangulada",
+   "Linfadenitis inguinal",
+   "Absceso del psoas"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "ec4c94f5b2",
+  "sec": "Abdomen general",
+  "stem": "Un paciente de 55 años refiere una masa en la región inguinal izquierda que no puede reducirse desde hace 12 horas. Tiene fiebre y dolor local. El examen muestra masa tensa, eritematosa, no reductible. ¿Cuál es el manejo inicial más adecuado?",
+  "opts": [
+   "Observación con antibióticos",
+   "Imagen por TAC",
+   "Reducción manual",
+   "Cirugía urgente",
+   "Ecografía inguinal"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "c138fcd013",
+  "sec": "Abdomen general",
+  "stem": "Un recién nacido presenta una masa inguinal derecha que aparece al llanto y desaparece en reposo. El examen físico revela testículo derecho en posición normal. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Observación",
+   "Ecografía testicular",
+   "Antibióticos",
+   "Cirugía electiva programada",
+   "Urgencia quirúrgica"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "e0acdaced5",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 32 años acude por una masa posquirúrgica en la línea media del abdomen inferior, 6 meses después de una laparotomía. La masa es reducible y aumenta al esfuerzo. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia incisional",
+   "Hernia umbilical",
+   "Absceso de pared abdominal",
+   "Lipoma",
+   "Hematoma"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 74,
+  "motivo": "semana 4",
+  "tema": "eventraciones"
+ },
+ {
+  "k": "4501508256",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 35 años consulta por una masa dolorosa en la región lumbar inferior izquierda. Aumenta con la tos y no se reduce espontáneamente. El examen muestra una masa entre la cresta ilíaca y el músculo dorsal ancho. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia femoral",
+   "Hernia de Spiegel",
+   "Hernia de Petit",
+   "Lipoma lumbar",
+   "Hernia obturatriz"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "419cece410",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 52 años se somete a reparación abierta de hernia inguinal derecha. Durante la disección del saco herniario, desarrolla hematoma escrotal extenso. ¿Cuál fue el error quirúrgico más probable?",
+  "opts": [
+   "Lesión de la vena epigástrica inferior",
+   "Lesión del conducto deferente",
+   "Lesión del nervio ilioinguinal",
+   "Disección excesiva del saco distal",
+   "Colocación incorrecta de la malla"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "bdc793ed34",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal bajo y vómitos. El examen muestra masa no dolorosa en cara interna del muslo derecho. La radiografía sugiere obstrucción intestinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia crural",
+   "Hernia inguinal indirecta",
+   "Hernia de Spiegel",
+   "Hernia obturatriz",
+   "Linfadenopatía"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "5779d22be3",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 58 años se presenta con dolor en la región inguinal. El examen revela una hernia medial a los vasos epigástricos, en el triángulo de Hesselbach. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia inguinal indirecta",
+   "Hernia femoral",
+   "Hernia de Spiegel",
+   "Hernia inguinal directa",
+   "Lipoma inguinal"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "2af0c5e0d9",
+  "sec": "Abdomen general",
+  "stem": "Durante una reparación laparoscópica de hernia inguinal, se observa una estructura tubular blanca que cruza el anillo inguinal interno en dirección al escroto. ¿Cuál es la estructura más probable?",
+  "opts": [
+   "Vasos epigástricos inferiores",
+   "Vas deferens (conducto deferente)",
+   "Cordón espermático",
+   "Arteria testicular",
+   "Ligamento redondo"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "31c39bbb1e",
+  "sec": "Abdomen general",
+  "stem": "Durante la reparación de una hernia inguinal derecha, el cirujano nota una estructura tubular blanca cruzando sobre la arteria ilíaca externa hacia el anillo inguinal interno. ¿Qué estructura está describiendo?",
+  "opts": [
+   "Vas deferens",
+   "Ligamento redondo",
+   "Nervio genitofemoral",
+   "Ureter",
+   "Arteria testicular"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ },
+ {
+  "k": "7272d29dfb",
+  "sec": "Abdomen general",
+  "stem": "Una mujer con hernia femoral bilateral se somete a reparación quirúrgica. Al acceder al espacio femoral, el cirujano debe identificar estructuras para evitar lesiones. ¿Cuál de las siguientes estructuras está ubicada lateralmente dentro del canal femoral?",
+  "opts": [
+   "Vasos femorales",
+   "Nervio femoral",
+   "Ligamento lacunar",
+   "Ganglio de Cloquet",
+   "Ligamento inguinal"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 75,
+  "motivo": "semana 4",
+  "tema": "hernias"
+ }
+]

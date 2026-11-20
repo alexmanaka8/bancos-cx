@@ -1,0 +1,299 @@
+[
+ {
+  "k": "afe305203f",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre hernias en adultos son verdaderas EXCEPTO:",
+  "opts": [
+   "En hombres, las hernias indirectas son las más comunes.",
+   "En mujeres, las hernias indirectas son más comunes.",
+   "Las hernias femorales son más comun en mujeres.",
+   "Las hernias umbilicales son más comunes en hombres.",
+   "El aneurisma aórtico es un factor de riesgo para hernias inguinales e incisionales."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston p. 1131 contradice la D, pero la opción E (aneurisma aórtico como factor de riesgo) solo tiene respaldo indirecto; en una pregunta EXCEPTO no se puede excluir otra opción falsa. Clave que proponía el revisor: D. La falsa es D: Sabiston indica predominio femenino en las hernias umbilicales (aprox. 2:1), y ABSITE dice que las mujeres tienen 3 veces más hernias umbilicales que los hombres (por el embarazo); lo que ocurre más en hombres es la incarceración. Son verdaderas A y B (la hernia indirecta es la más común en ambos sexos; en mujeres, con gran diferencia) y C (las femorales predominan en mujeres, aprox. 10:1). E es coherente con ABSITE: tras cirugía de aneurisma aórtico hay alta tasa de hernia incisional y la diástasis de rectos se asocia a aneurisma aórtico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1131 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 36 y 46 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 33 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "INDIRECTA solo para E: ningún libro dice textualmente que el aneurisma aórtico sea factor de riesgo de hernia inguinal; ABSITE lo respalda de forma indirecta (incisional tras cirugía aórtica; diástasis de rectos con aneurisma). La clave D está respaldada de forma directa."
+ },
+ {
+  "k": "a6309fd384",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años presenta una hernia inguinal derecha, pequeña, asintomática y reducible. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "La probabilidad de incarceración sin cirugía es alta.",
+   "Sin cirugía, es probable que desarrolle dolor intratable.",
+   "Esperar hasta que aparezcan síntomas es una alternativa razonable a la cirugía.",
+   "La reparación laparoscópica es la mejor opción.",
+   "Sin cirugía, probablemente quedará incapacitado."
+  ],
+  "ans": 2,
+  "why": "El ensayo de Fitzgibbons (hombres con hernia inguinal asintomática o mínimamente sintomática) mostró que la espera vigilante es una opción aceptable: la incarceración fue de solo 0,3% y cerca de una cuarta parte pasó a cirugía por dolor. Por eso A (riesgo alto de incarceración) y B/E (dolor intratable o incapacidad) son falsas. La laparoscopia (D) se reserva como mejor opción para hernias recurrentes, bilaterales u obesos, no es la mejor para toda hernia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1135 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF (resp. 12)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "8da5d1d8c4",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes afirmaciones sobre las hernias de Spiegel son verdaderas EXCEPTO:",
+  "opts": [
+   "Ocurren a través de la capa aponeurótica entre el músculo recto abdominal y la línea semilunar.",
+   "Tienden a ser pequeñas.",
+   "Es poco común encontrar una protuberancia palpable al examen físico.",
+   "El riesgo de incarceración es bajo.",
+   "La tomografía computarizada es útil para establecer el diagnóstico."
+  ],
+  "ans": 3,
+  "why": "Sabiston indica que la hernia de Spiegel debe repararse por el riesgo de incarceración asociado a su cuello relativamente estrecho; por eso D (riesgo bajo de incarceración) es la falsa. Son verdaderas: A (fascia de Spiegel entre el recto y la línea semilunar), B (casi todas son pequeñas, 1-2 cm), C (suele haber dolor localizado sin protrusión porque está bajo la aponeurosis intacta del oblicuo externo) y E (la ecografía o la TC ayudan al diagnóstico).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "98e21047bb",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años consulta por una masa en la ingle derecha que aparece al toser o hacer esfuerzo y desaparece al recostarse. Refiere sensación de pesadez en la región inguinal. El examen físico revela una protrusión reducible sobre el ligamento inguinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia femoral",
+   "Hernia inguinal directa",
+   "Hernia inguinal indirecta",
+   "Adenopatía inguinal",
+   "Varicocele"
+  ],
+  "ans": 2,
+  "why": "La hernia inguinal indirecta es la más común en hombres (Sabiston: dos tercios de las inguinales; predominan sobre las directas 2:1). La masa que aparece con esfuerzo, se reduce al acostarse y está en la ingle sobre el ligamento inguinal es inguinal (no femoral, que está bajo el ligamento). El enunciado no da datos para distinguir directa de indirecta, así que se elige la más frecuente. ",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1131 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "INDIRECTA: la pregunta no trae datos anatómicos que separen indirecta de directa; la clave se apoya en la frecuencia relativa (Sabiston p. 1131)."
+ },
+ {
+  "k": "76b0ab911e",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años llega con dolor abdominal agudo y náuseas. Tiene una masa irreducible en la raíz del muslo derecho, debajo del ligamento inguinal. Está febril y taquicárdica. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia inguinal directa",
+   "Hernia inguinal indirecta",
+   "Hernia femoral estrangulada",
+   "Linfadenitis inguinal",
+   "Absceso del psoas"
+  ],
+  "ans": 2,
+  "why": "La hernia femoral produce una masa bajo el ligamento inguinal, es más frecuente en mujeres y tiene la mayor tasa de estrangulación (15-20%) de todas las hernias. Masa irreducible dolorosa con fiebre, taquicardia y náuseas en una mujer de 70 años indica hernia femoral estrangulada. Las inguinales están por encima del ligamento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1131 del PDF",
+   "Sabiston 21.ª ed., p. 1141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37 y 45 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "ec4c94f5b2",
+  "estado": "confirmada",
+  "stem": "Un paciente de 55 años refiere una masa en la región inguinal izquierda que no puede reducirse desde hace 12 horas. Tiene fiebre y dolor local. El examen muestra masa tensa, eritematosa, no reductible. ¿Cuál es el manejo inicial más adecuado?",
+  "opts": [
+   "Observación con antibióticos",
+   "Imagen por TAC",
+   "Reducción manual",
+   "Cirugía urgente",
+   "Ecografía inguinal"
+  ],
+  "ans": 3,
+  "why": "Fiebre, dolor local, masa tensa, eritematosa e irreductible indican hernia incarcerada con signos de estrangulación. ABSITE indica que ante signos de estrangulación (fiebre, leucocitosis, lactato elevado) se debe evitar la reducción manual y llevar al paciente de inmediato al quirófano; Sabiston trata la hernia estrangulada con cirugía (abordaje preperitoneal, resección intestinal si hace falta). Observación, imágenes o ecografía retrasan el tratamiento; la reducción manual está contraindicada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 45 del PDF (resp. 13)",
+   "Sabiston 21.ª ed., p. 1142 del PDF",
+   "Sabiston 21.ª ed., p. 1131 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "INDIRECTA: el texto de ABSITE sobre signos de estrangulación es de un caso pediátrico; Sabiston respalda la cirugía de la hernia estrangulada en adultos."
+ },
+ {
+  "k": "c138fcd013",
+  "estado": "confirmada",
+  "stem": "Un recién nacido presenta una masa inguinal derecha que aparece al llanto y desaparece en reposo. El examen físico revela testículo derecho en posición normal. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Observación",
+   "Ecografía testicular",
+   "Antibióticos",
+   "Cirugía electiva programada",
+   "Urgencia quirúrgica"
+  ],
+  "ans": 3,
+  "why": "En un lactante la hernia inguinal es por persistencia del proceso vaginal, el diagnóstico es clínico (no requiere ecografía) y se repara con cirugía programada: si es reductible, se opera de forma electiva; la urgencia quirúrgica queda para la hernia incarcerada que no se reduce. Esperar (observación) aumenta el riesgo de incarceración, que es más alto en el primer año de vida.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1892 y 1893 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 346-347 del PDF (resp. 26 y 28)"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "e0acdaced5",
+  "estado": "confirmada",
+  "stem": "Un hombre de 32 años acude por una masa posquirúrgica en la línea media del abdomen inferior, 6 meses después de una laparotomía. La masa es reducible y aumenta al esfuerzo. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia incisional",
+   "Hernia umbilical",
+   "Absceso de pared abdominal",
+   "Lipoma",
+   "Hematoma"
+  ],
+  "ans": 0,
+  "why": "Las hernias adquiridas aparecen tras una incisión quirúrgica y se llaman incisionales (Sabiston). Una masa reducible en la línea media del abdomen inferior que aumenta con el esfuerzo, 6 meses después de laparotomía, es una hernia incisional. ABSITE: 10-15% de las incisiones desarrollan hernia incisional. La hernia umbilical se ubica en el ombligo; absceso, lipoma y hematoma no son reducibles ni aumentan con el esfuerzo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1144 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 36 del PDF"
+  ],
+  "tema": "eventraciones"
+ },
+ {
+  "k": "4501508256",
+  "estado": "confirmada",
+  "stem": "Una mujer de 35 años consulta por una masa dolorosa en la región lumbar inferior izquierda. Aumenta con la tos y no se reduce espontáneamente. El examen muestra una masa entre la cresta ilíaca y el músculo dorsal ancho. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia femoral",
+   "Hernia de Spiegel",
+   "Hernia de Petit",
+   "Lipoma lumbar",
+   "Hernia obturatriz"
+  ],
+  "ans": 2,
+  "why": "El triángulo lumbar inferior (de Petit) está limitado por la cresta ilíaca, el dorsal ancho y el oblicuo externo; la masa entre cresta ilíaca y dorsal ancho en la región lumbar es una hernia de Petit. La de Spiegel está en la pared anterior (línea semilunar), la femoral bajo el ligamento inguinal y la obturatriz en el muslo; el lipoma lumbar no tiene respaldo en las fuentes para este cuadro, pero el sitio descrito corresponde a Petit.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "419cece410",
+  "estado": "dudosa",
+  "stem": "Un hombre de 52 años se somete a reparación abierta de hernia inguinal derecha. Durante la disección del saco herniario, desarrolla hematoma escrotal extenso. ¿Cuál fue el error quirúrgico más probable?",
+  "opts": [
+   "Lesión de la vena epigástrica inferior",
+   "Lesión del conducto deferente",
+   "Lesión del nervio ilioinguinal",
+   "Disección excesiva del saco distal",
+   "Colocación incorrecta de la malla"
+  ],
+  "ans": null,
+  "why": "Ningún libro revisado relaciona un hematoma escrotal extenso con un error específico. Sabiston dice que no es necesario extirpar la porción distal del saco y que la disección del saco distal de una hernia grande aumenta la orquitis isquémica; ABSITE asocia la disección extensa del cordón/saco distal con orquitis isquémica (testículo edematoso y doloroso), no con hematoma. La clave original D (disección excesiva del saco distal) es plausible pero no está respaldada por las fuentes para hematoma; las otras opciones tampoco se pueden descartar con respaldo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1136 y 1143 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 44 del PDF (resp. 11)"
+  ],
+  "tema": "hernias",
+  "nota": "Clave original: D (resaltado). Es plausible, pero no hay fuente en los libros que vincule el hematoma escrotal con la disección del saco distal."
+ },
+ {
+  "k": "bdc793ed34",
+  "estado": "confirmada",
+  "stem": "Una mujer de 70 años se presenta con dolor abdominal bajo y vómitos. El examen muestra masa no dolorosa en cara interna del muslo derecho. La radiografía sugiere obstrucción intestinal. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia crural",
+   "Hernia inguinal indirecta",
+   "Hernia de Spiegel",
+   "Hernia obturatriz",
+   "Linfadenopatía"
+  ],
+  "ans": 3,
+  "why": "En la hernia obturatriz hay dolor en la cara anteromedial del muslo (signo de Howship-Romberg) y cerca del 50% presenta obstrucción intestinal completa o parcial (Sabiston). Dolor abdominal, vómitos y obstrucción con molestia en la cara interna del muslo en una mujer de 70 años orienta a hernia obturatriz. La femoral (crural) da masa bajo el ligamento inguinal; la inguinal indirecta y la de Spiegel no afectan el muslo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1153 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "INDIRECTA: los libros respaldan síntomas en cara interna del muslo y obstrucción; no mencionan el sexo ni la edad típicos, y la hernia femoral también puede obstruir."
+ },
+ {
+  "k": "5779d22be3",
+  "estado": "confirmada",
+  "stem": "Un hombre de 58 años se presenta con dolor en la región inguinal. El examen revela una hernia medial a los vasos epigástricos, en el triángulo de Hesselbach. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hernia inguinal indirecta",
+   "Hernia femoral",
+   "Hernia de Spiegel",
+   "Hernia inguinal directa",
+   "Lipoma inguinal"
+  ],
+  "ans": 3,
+  "why": "El triángulo de Hesselbach (borde lateral: vasos epigástricos inferiores; medial: vaina del recto; inferior: ligamentos inguinal y pectíneo) es donde ocurren las hernias directas; las indirectas son laterales a los vasos epigástricos y la femoral está bajo el ligamento inguinal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1133 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "2af0c5e0d9",
+  "estado": "confirmada",
+  "stem": "Durante una reparación laparoscópica de hernia inguinal, se observa una estructura tubular blanca que cruza el anillo inguinal interno en dirección al escroto. ¿Cuál es la estructura más probable?",
+  "opts": [
+   "Vasos epigástricos inferiores",
+   "Vas deferens (conducto deferente)",
+   "Cordón espermático",
+   "Arteria testicular",
+   "Ligamento redondo"
+  ],
+  "ans": 1,
+  "why": "El conducto deferente es la estructura tubular que se une al cordón espermático en el anillo inguinal profundo (Sabiston), y limita medialmente el triángulo de la fatalidad con los vasos espermáticos lateralmente (ABSITE). El cordón espermático es un conjunto de estructuras (no una sola estructura tubular blanca); la arteria testicular y los vasos epigástricos son vasos; el ligamento redondo es de la mujer.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1133 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37-38 del PDF"
+  ],
+  "tema": "hernias"
+ },
+ {
+  "k": "31c39bbb1e",
+  "estado": "dudosa",
+  "stem": "Durante la reparación de una hernia inguinal derecha, el cirujano nota una estructura tubular blanca cruzando sobre la arteria ilíaca externa hacia el anillo inguinal interno. ¿Qué estructura está describiendo?",
+  "opts": [
+   "Vas deferens",
+   "Ligamento redondo",
+   "Nervio genitofemoral",
+   "Ureter",
+   "Arteria testicular"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El enunciado no dice el sexo del paciente: en la mujer la estructura que cruza la arteria ilíaca externa es el ligamento redondo (Latarjet t. 2, p. 146). Clave que proponía el revisor: A. En el hombre el conducto deferente se encuentra en la encrucijada cercana a la terminación de la arteria ilíaca externa y se dirige hacia el anillo inguinal profundo, donde se une al cordón (Latarjet; Sabiston). El ligamento redondo del útero, que también cruza la arteria, es propio de la mujer. Uréter, nervio genitofemoral y arteria testicular no encajan con 'estructura tubular blanca' hacia el anillo.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t. 2, p. 146 del PDF",
+   "Sabiston 21.ª ed., p. 1133 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 38 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "INDIRECTA: el enunciado no indica el sexo del paciente; la clave asume hombre (estructura tubular blanca), pues el ligamento redondo es propio de la mujer."
+ },
+ {
+  "k": "7272d29dfb",
+  "estado": "confirmada",
+  "stem": "Una mujer con hernia femoral bilateral se somete a reparación quirúrgica. Al acceder al espacio femoral, el cirujano debe identificar estructuras para evitar lesiones. ¿Cuál de las siguientes estructuras está ubicada lateralmente dentro del canal femoral?",
+  "opts": [
+   "Vasos femorales",
+   "Nervio femoral",
+   "Ligamento lacunar",
+   "Ganglio de Cloquet",
+   "Ligamento inguinal"
+  ],
+  "ans": 0,
+  "why": "Los límites del conducto femoral son: la cintilla iliopúbica/ligamento inguinal por arriba, el ligamento de Cooper por abajo, el ligamento lagunar medialmente y la vena femoral lateralmente (Sabiston y ABSITE). Por eso la estructura lateral son los vasos femorales (la vena). El ligamento lagunar es medial, el ligamento inguinal es anterior, y el ganglio de Cloquet está medial a la vena; los límites del conducto listados por Sabiston no incluyen al nervio femoral.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1141 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 37 y 45 del PDF"
+  ],
+  "tema": "hernias",
+  "nota": "El ganglio de Cloquet (linfático) queda medial a la vena según ABSITE p. 45; no se verificó en una página citada la ubicación exacta del nervio femoral, pero no forma parte de los límites del conducto."
+ }
+]
