@@ -1,0 +1,323 @@
+[
+ {
+  "k": "ba005d077b",
+  "estado": "confirmada",
+  "stem": "Un paciente quemado tiene 30% de superficie corporal total quemada y orina <0.3 mL/kg/h a pesar de líquidos adecuados. La TA está estable. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Agregar dopamina a dosis baja",
+   "Aumentar la tasa de líquidos IV",
+   "Administrar furosemida",
+   "Colocar catéter de Swan-Ganz",
+   "Medir osmolaridad urinaria"
+  ],
+  "ans": 1,
+  "why": "En el quemado el objetivo de la reanimación es una diuresis adecuada (0,5 ml/kg/h en adultos) y la velocidad de líquidos se ajusta cada hora según esa respuesta. Con diuresis <0,3 ml/kg/h y TA estable, lo indicado es aumentar la tasa de líquidos IV. La oliguria del quemado se debe a la caída del volumen intravascular, no a falta de diurético o de inotrópico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF (ajuste horario de la infusión según diuresis; objetivo 0,5 ml/kg/h)",
+   "Sabiston 21.ª ed., p. 512 del PDF (la oliguria por hipovolemia y hormonas de estrés)",
+   "de Virgilio ABSITE 3.ª ed., p. 244 del PDF (primer paso en la oliguria: reto de líquidos)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: los libros respaldan directamente 'aumentar líquidos'; las otras opciones (dopamina, furosemida, Swan-Ganz, osmolaridad urinaria) no se citan en el libro para este escenario y se descartan por no ser el primer paso."
+ },
+ {
+  "k": "1e186f27cc",
+  "estado": "dudosa",
+  "stem": "Un hombre de 50 años con quemaduras extensas desarrolla confusión, fiebre, leucocitosis y secreciones purulentas en el sitio de las quemaduras. Cultivos positivos para Pseudomonas aeruginosa. ¿Cuál es el antibiótico de elección inicial?",
+  "opts": [
+   "Vancomicina",
+   "Linezolid",
+   "Cefepime",
+   "Piperacilina-tazobactam",
+   "Aztreonam"
+  ],
+  "ans": null,
+  "why": "El enunciado original venía cortado: se trata de un hombre de 50 años con quemaduras extensas, confusión, fiebre, leucocitosis, secreción purulenta y cultivo positivo para Pseudomonas aeruginosa. Cefepime, piperacilina-tazobactam y aztreonam tienen actividad antipseudomonas; vancomicina y linezolid no. Sabiston solo indica que S. aureus, Pseudomonas y Klebsiella prevalecen en las heridas por quemadura y no da un antibiótico de primera elección entre los tres betalactámicos, por lo que ninguna fuente decide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 520 del PDF (organismos prevalentes en quemaduras: S. aureus, Pseudomonas, Klebsiella)",
+   "Sabiston 21.ª ed., p. 518 del PDF (neumonía en quemados: cobertura de MRSA y gramnegativos, especialmente Pseudomonas)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (piperacilina-tazobactam, resaltado). Es defendible, pero cefepime y aztreonam también cubren Pseudomonas y ninguna fuente de la carpeta elige uno."
+ },
+ {
+  "k": "34ccf2544f",
+  "estado": "confirmada",
+  "stem": "Un paciente quemado presenta hiponatremia, hiperkalemia, náuseas, debilidad y presión baja persistente pese a líquidos. ¿Qué condición subyacente se debe sospechar?",
+  "opts": [
+   "Insuficiencia renal aguda",
+   "Síndrome de secreción inadecuada de ADH (SIADH)",
+   "Síndrome de Cushing",
+   "Insuficiencia suprarrenal",
+   "Síndrome compartimental"
+  ],
+  "ans": 3,
+  "why": "La hiponatremia con hiperkalemia, náuseas, debilidad e hipotensión persistente pese a líquidos es el cuadro de insuficiencia suprarrenal, que puede confundirse con shock séptico. Sabiston señala que en el paciente crítico (incluidas las quemaduras) la insuficiencia de corticoides produce hipotensión que no responde a líquidos ni vasopresores. SIADH no da hiperkalemia ni hipotensión; el Cushing cursa con hipokalemia y alcalosis; la insuficiencia renal o el síndrome compartimental no explican este patrón hormonal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 221-222 del PDF (insuficiencia suprarrenal: fiebre, náuseas, hipotensión, hiponatremia, hiperkalemia; se confunde con shock séptico)",
+   "de Virgilio ABSITE 3.ª ed., p. 418 del PDF (hiponatremia, hiperkalemia y acidosis leve en insuficiencia suprarrenal)",
+   "Sabiston 21.ª ed., p. 565 del PDF (insuficiencia suprarrenal del crítico por quemaduras: hipotensión que no responde a líquidos)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "df3f6d2da6",
+  "estado": "dudosa",
+  "stem": "Un paciente con quemaduras en 40% de la superficie corporal está en el día 10 de hospitalización. De repente presenta taquicardia, fiebre, confusión y disminución del gasto urinario. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Deshidratación",
+   "Sepsis",
+   "Necrosis tubular aguda",
+   "Hiperglucemia hiperosmolar",
+   "Hiponatremia aguda"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 522-523 respalda la sepsis como complicación dominante, pero no describe este cuadro; las otras opciones se descartaron por la clínica, sin fuente. Clave que proponía el revisor: B. Con quemaduras extensas, la sepsis (herida y árbol traqueobronquial como fuentes principales) pasó a ser la causa principal de muerte tardía. Fiebre, taquicardia, confusión y disminución de diuresis en el día 10 indican sepsis con disfunción orgánica. Sabiston añade que la trombocitopenia es uno de los signos más fiables de sepsis en el quemado. La deshidratación, la hiperglucemia hiperosmolar o la hiponatremia aguda no producen fiebre con confusión, y la necrosis tubular aguda no explica la fiebre.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 522-523 del PDF (sepsis y fallo multiorgánico como causa principal de muerte; fuentes: herida y tráquea)",
+   "Sabiston 21.ª ed., p. 523 del PDF (insuficiencia renal en los días 2-14; el síndrome inflamatorio sistémico puede evolucionar a insuficiencia orgánica)",
+   "Greenhalgh DG et al. ABA consensus conference to define sepsis and infection in burns. J Burn Care Res 2007 (PMID 17925660): los quemados ya tienen SIRS por definición"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: el libro respalda sepsis como complicación dominante a esta altura, pero no describe este escenario exacto; las demás opciones se descartan por la clínica."
+ },
+ {
+  "k": "94594697fe",
+  "estado": "corregida",
+  "stem": "¿Cuál es la velocidad adecuada de líquidos para un paciente de 80 kg con 60% SCQ según Brooke modificada (primeras 8 h)?",
+  "opts": [
+   "100 ml/h",
+   "500 ml/h",
+   "600 ml/h",
+   "1200 ml/h",
+   "9600 ml/h"
+  ],
+  "ans": 2,
+  "why": "La fórmula de Brooke da 2 ml/kg por cada % de superficie quemada en 24 h: 2 x 80 x 60 = 9600 ml. La mitad (4800 ml) va en las primeras 8 h, o sea 600 ml/h. El 1200 ml/h resulta de la fórmula de Parkland (4 ml/kg/%: 19200 ml en 24 h, 9600 ml en 8 h) y 9600 ml es el total de 24 h con Brooke, no la velocidad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF, tabla 20.2 (Brooke 2 cc/kg/% de ASCT; Parkland 4 cc/kg/%) y texto (la mitad en las primeras 8 h)",
+   "Sabiston 21.ª ed., p. 515 del PDF (velocidad inicial en adultos: %ASCT x 10 = 600 ml/h)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (1200 ml/h), que corresponde a Parkland y no a Brooke modificada. Con la regla rápida de Sabiston (60 x 10) también sale 600 ml/h."
+ },
+ {
+  "k": "0ca216a601",
+  "estado": "confirmada",
+  "stem": "Varón de 18 años con contacto con electricidad de alto voltaje. ¿Qué patrón de lesión esperas?",
+  "opts": [
+   "Hollín en cara",
+   "Salpicadura en tórax",
+   "Quemaduras en mano izquierda y talones bilaterales",
+   "Patrón en medias bilateral",
+   "NA"
+  ],
+  "ans": 2,
+  "why": "La lesión de alto voltaje tiene quemaduras cutáneas en los puntos de entrada y salida con destrucción profunda oculta. Mano izquierda (entrada) y talones bilaterales (salida a tierra) es el patrón de entrada y salida. El hollín en la cara indica inhalación de humo; el patrón en medias es de escaldadura por inmersión, y la salpicadura corresponde a otro mecanismo (arco o líquidos), no a conducción por la corriente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF (síndrome de alto voltaje: quemaduras en puntos de entrada y salida; la corriente sale por un área conectada a tierra)",
+   "Sabiston 21.ª ed., p. 517 del PDF (esputo carbonáceo y hollín en la inhalación de humo)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: el libro respalda el patrón entrada-salida (opción C); el patrón 'en medias' y la 'salpicadura' no se describen en las fuentes de la carpeta y se descartan por no corresponder a conducción eléctrica."
+ },
+ {
+  "k": "25ccfd8368",
+  "estado": "dudosa",
+  "stem": "Hombre de 22 años con lesión por corriente eléctrica, herida en región temporal, extremidad firme, dedos del pie ausentes. ¿Cuál afirmación es correcta?",
+  "opts": [
+   "Mantener gasto urinario de 0.5 mL/kg/h en adultos",
+   "Signos de síndrome compartimental requieren escarotomía urgente",
+   "Déficits neurológicos tardíos tienen mejor pronóstico",
+   "La orina rojiza se estudia con TAC abdominal",
+   "La descompresión fascial temprana preserva función."
+  ],
+  "ans": null,
+  "why": "Escenario de corriente de alto voltaje con extremidad firme (síndrome compartimental). Sabiston dice que en la lesión eléctrica puede estar indicada de inmediato la escarotomía y la fasciotomía (opción B), y que el compartimento muy necrótico puede requerir amputación. La opción E (descompresión fascial temprana preserva la función) es clínicamente razonable, pero ninguna fuente de la carpeta la afirma, y escarotomía sola libera la escara, no la fascia. A (0,5 ml/kg/h) es la meta del quemado común, y la orina rojiza (D) se evalúa con CK y mioglobina, no con TAC. C es falsa: Sabiston llama 'devastadores' a los déficits neurológicos tardíos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF (escarotomía y fasciotomía inmediatas ante compromiso vascular; amputación si el músculo está necrótico)",
+   "Sabiston 21.ª ed., p. 526 del PDF (hemocromógenos: bicarbonato, manitol, más líquidos; déficits neurológicos tardíos y cataratas)",
+   "de Virgilio ABSITE 3.ª ed., p. 263 del PDF (orina roja = rabdomiólisis, se pide CK; mantener diuresis alta)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: B (resaltado). B está respaldada por Sabiston, pero E también es defendible y las fuentes no permiten elegir entre ambas."
+ },
+ {
+  "k": "23e75fb5cf",
+  "estado": "confirmada",
+  "stem": "Varón de 80 kg con 30% de SCQ. ¿Cuántas kcal necesita por día?",
+  "opts": [
+   "3825 kcal",
+   "N.A",
+   "3200 kcal",
+   "2400 kcal",
+   "2675 kcal"
+  ],
+  "ans": 2,
+  "why": "Con la fórmula de Curreri (25 kcal/kg/día más 40 kcal por cada % de ASCT quemada): 25 x 80 + 40 x 30 = 2000 + 1200 = 3200 kcal/día. Las otras cifras no salen de esta fórmula; las alternativas (Harris-Benedict x 2) necesitan edad y talla, que el enunciado no da.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 524 del PDF (fórmula de Curreri: 25 kcal/kg/día + 40 kcal por % de ASCT quemada)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "3d7244a227",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es correcto sobre la lesión por inhalación en quemaduras?",
+  "opts": [
+   "Comienza en tráquea distal",
+   "Siempre se acompaña de quemaduras faciales",
+   "Solo se diagnostica por broncoscopia",
+   "Puede causar obstrucción por edema en vía aérea superior",
+   "El tratamiento siempre incluye traqueotomía"
+  ],
+  "ans": 3,
+  "why": "El edema de la vía aérea superior, que se suma al edema generalizado del quemado, puede obstruir la vía aérea durante horas; por eso se intuba temprano. Las otras opciones son falsas: el calor se disipa en la vía aérea superior y el daño es sobre todo químico en vías grandes, no empieza en la tráquea distal; los hallazgos como quemaduras faciales solo 'pueden asociarse' y tienen baja sensibilidad; el diagnóstico se apoya en la historia, los signos clínicos y la broncoscopia, no solo en esta; y la traqueostomía temprana no mostró ventajas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514 del PDF (el edema puede obstruir la vía aérea durante horas; intubar temprano)",
+   "Sabiston 21.ª ed., p. 517 del PDF (daño sobre todo químico; el calor se dispersa en vías altas; baja sensibilidad de hallazgos aislados)",
+   "Sabiston 21.ª ed., p. 524 del PDF (traqueostomía temprana sin ventajas)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "21f8de1fcd",
+  "estado": "confirmada",
+  "stem": "Paciente quemado llevado a curación bajo anestesia. ¿Qué relajante debe evitarse por hiperpotasemia?",
+  "opts": [
+   "Succinilcolina",
+   "Ketamina",
+   "Vecuronio",
+   "N.A",
+   "Propofol"
+  ],
+  "ans": 0,
+  "why": "La succinilcolina puede causar hiperpotasemia grave con riesgo vital en pacientes con quemaduras, paraplejía, cuadriplejía y traumatismo masivo. Por eso se evita en la curación bajo anestesia. Ketamina y propofol son inductores, y el vecuronio es un relajante no despolarizante que no provoca este efecto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 343 del PDF (efectos de la succinilcolina: hiperpotasemia grave en quemados)",
+   "de Virgilio ABSITE 3.ª ed., p. 394 del PDF (tabla de relajantes: succinilcolina despolarizante; vecuronio no despolarizante)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "9392e6051a",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el microorganismo que se encuentra con mayor frecuencia en las infecciones de heridas por quemaduras?",
+  "opts": [
+   "Estreptococos hemolíticos",
+   "Clostridium tetani",
+   "Escherichia coli",
+   "Pseudomonas aeruginosa",
+   "Clostridium perfringens"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 518 y 520 nombra a Pseudomonas entre los gérmenes prevalentes en quemados, junto con S. aureus y Klebsiella, pero no dice cuál es el más frecuente. Clave que proponía el revisor: D. Sabiston cita a S. aureus, Pseudomonas y Klebsiella como los organismos prevalentes en las heridas por quemadura, y a Pseudomonas y Klebsiella como los que dominan después de 5-7 días en la flora de la herida. De las opciones, solo Pseudomonas aeruginosa aparece en esa lista; Clostridium, E. coli y estreptococos hemolíticos no se mencionan como comunes en quemaduras.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 520 del PDF (organismos prevalentes en heridas por quemadura: S. aureus, Pseudomonas, Klebsiella)",
+   "Sabiston 21.ª ed., p. 518 del PDF (flora cambiante de la herida: Pseudomonas y Klebsiella)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: ningún libro de la carpeta dice textualmente 'el más frecuente'; la epidemiología varía según el centro (S. aureus también es muy frecuente, pero no está entre las opciones)."
+ },
+ {
+  "k": "91bda1e02a",
+  "estado": "corregida",
+  "stem": "El tipo de quemadura más común es:",
+  "opts": [
+   "Quemadura por contacto",
+   "Quemadura por llama",
+   "Quemadura por destello",
+   "Quemadura escaldada accidental",
+   "Quemadura escaldada deliberada"
+  ],
+  "ans": 1,
+  "why": "En EE. UU. alrededor del 41% de las quemaduras se deben a fuego y llamas, el 33% a escaldadura, el 9% a contacto, el 3% a químicas y el 3% a eléctricas. Por tanto, la más común es la quemadura por llama. La escaldadura predomina solo en niños pequeños (cerca del 60% en los que dan sus primeros pasos).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 508 del PDF (41% llama, 33% escaldadura, 9% contacto)",
+   "Sabiston 21.ª ed., p. 509 del PDF (niños pequeños: escaldadura en el 60%)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (escaldadura accidental, resaltado). Si el examen se refería a niños, la escaldadura sería la más común, pero el enunciado no lo dice; para la población general, Sabiston respalda llama."
+ },
+ {
+  "k": "808125ca48",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes lesiones por quemadura requieren derivación a un centro especializado en quemados, EXCEPTO:",
+  "opts": [
+   "Quemadura de segundo grado del 15% de la superficie corporal total (SCT) en el tórax de un hombre de 30 años",
+   "Quemadura de segundo grado del 5% de SCT en la cara de un hombre de 40 años",
+   "Quemadura de segundo grado del 3% de SCT en la mano de una mujer de 25 años",
+   "Quemadura de espesor total (tercer grado) del 8% en la espalda de un hombre de 50 años",
+   "Quemadura de espesor total del 4% de SCT en la rodilla de una mujer de 30 años"
+  ],
+  "ans": null,
+  "why": "Hay dos criterios distintos en los libros. De Virgilio (criterios antiguos ACS/ABA): derivar quemaduras de 2.º o 3.º grado >20% de ASCT entre 10 y 50 años; así la opción A (15%, 30 años) sería la excepción. Sabiston 21.ª ed. (ABA actual): derivar toda quemadura de espesor parcial >10% de ASCT, las de cara, manos, pies, genitales, periné o articulaciones, y cualquier espesor total; con este criterio A sí requiere derivación y todas las opciones (B cara, C mano, D y E espesor total) también, de modo que ninguna sería la excepción.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 262 del PDF (derivar: >20% ASCT entre 10 y 50 años; cualquier mano, cara, pie; >5% de 3.er grado)",
+   "Sabiston 21.ª ed., p. 509 del PDF (derivar: espesor parcial >10% ASCT; cara, manos, pies, articulaciones; cualquier espesor total)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: A (resaltado), válida solo con el criterio antiguo (>20%). Con el criterio vigente de Sabiston no hay ninguna opción excepción."
+ },
+ {
+  "k": "5fe4d61020",
+  "estado": "dudosa",
+  "stem": "En un paciente con quemadura y sospecha de inhalación de humo, un umbral útil para la intubación endotraqueal es una relación PaO₂/FiO₂ menor de:",
+  "opts": [
+   "400",
+   "350",
+   "300",
+   "250",
+   "150"
+  ],
+  "ans": null,
+  "why": "Ninguno de los libros de la carpeta da un umbral de PaO2/FiO2 para intubar en la inhalación de humo. Sabiston indica intubar ante saturación <92%, hipercapnia o taquipnea creciente. Una revisión de 2025 sitúa la ventilación mecánica ante PaO2/FiO2 <200, no <250. Sin fuente que respalde 250, no se puede confirmar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF (insuficiencia pulmonar: saturación <92%, aumento de frecuencia respiratoria e hipercapnia indican intubación)",
+   "Comprehensive review of airway burns. J Med Life 2025 (PMC12207697): ventilación mecánica con PaO2 <65, PaCO2 >50 o PaO2/FiO2 <200"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (250, resaltado). No se encontró respaldo en las fuentes permitidas."
+ },
+ {
+  "k": "b2f23062e4",
+  "estado": "dudosa",
+  "stem": "El porcentaje de superficie corporal quemada a partir del cual se liberan citocinas proinflamatorias que desencadenan una respuesta inflamatoria sistémica es:",
+  "opts": [
+   "5%",
+   "10%",
+   "20%",
+   "30%",
+   "40%"
+  ],
+  "ans": null,
+  "why": "Sabiston no fija un porcentaje de ASCT para el inicio de la respuesta inflamatoria sistémica; solo dice que con quemaduras >20% el deterioro inmunitario es proporcional al tamaño y que las quemaduras graves inducen inflamación masiva. Las revisiones recientes usan umbrales de gravedad que varían entre >20% y >40%. Ninguna fuente respalda 30% de forma específica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 512 del PDF (con quemaduras >20% el deterioro inmunitario es proporcional al tamaño)",
+   "Variation of pro- and anti-inflammatory factors in severe burns: systematic review. 2025 (PMC12562903): umbrales de quemadura grave entre >20% y >40%"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (30%, resaltado). Es el dato habitual de algunos textos, pero no se pudo confirmar con las fuentes permitidas."
+ },
+ {
+  "k": "86f54238a6",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes opciones es apropiada en el manejo de las quemaduras?",
+  "opts": [
+   "Agua helada para una quemadura en la mano",
+   "Colocación rutinaria de línea central para una quemadura del 20% de SCT",
+   "Vía intravenosa en la ingle en paciente con quemaduras de espesor total en ambos brazos",
+   "Colocar líneas en fosa antecubital a través del esfacelo en paciente con quemaduras de espesor total del 40% en piernas y brazos",
+   "Morfina intramuscular para control del dolor"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 515 y 523 respalda usar venas periféricas aun a través de tejido quemado, pero la opción de vía en la ingle se descartó sin fuente. Clave que proponía el revisor: D. Sabiston indica que el acceso venoso del quemado se logra mejor con catéteres periféricos cortos en piel no quemada, pero que se pueden usar venas en piel quemada y que cuando es posible se usen venas periféricas a través incluso de tejido quemado, mejor que no tener acceso. En un paciente con 40% de espesor total en piernas y brazos, colocar líneas en la fosa antecubital a través del esfacelo es aceptable. El agua helada no se recomienda (agua a temperatura ambiente las primeras 3 h y evitar más enfriamiento); la línea central no es rutinaria; y la morfina intramuscular está contraindicada por la absorción errática, se usa IV en dosis pequeñas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 515 del PDF (periféricos cortos, venas de piel quemada mejor que ausencia de acceso; morfina IV, nunca IM)",
+   "Sabiston 21.ª ed., p. 523 del PDF (usar venas periféricas incluso a través de tejido quemado; evitar safena)",
+   "Sabiston 21.ª ed., p. 514 del PDF (agua a temperatura ambiente en las primeras 3 h; evitar enfriar más)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: la opción C (vía en la ingle) no se menciona en los libros; se descarta porque Sabiston prefiere periféricos cortos y desaconseja la safena. El libro respalda D de forma explícita."
+ }
+]

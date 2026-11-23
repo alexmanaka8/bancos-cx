@@ -1,0 +1,338 @@
+[
+ {
+  "k": "7037764fcb",
+  "estado": "confirmada",
+  "stem": "Una mujer de 62 años fue diagnosticada recientemente mediante endoscopía alta con un tumor gástrico distal casi obstructivo, pero posteriormente se perdió en el seguimiento. Ahora regresa al servicio de urgencias tras 24 horas de vómitos no biliosos y dolor abdominal. ¿Cuál es el factor más importante que contribuye a la hipocalemia en esta paciente?",
+  "opts": [
+   "Cambio intracelular",
+   "Aumento de la excreción urinaria",
+   "Pérdida de potasio con el vómito",
+   "Acidosis metabólica",
+   "Reposición de líquidos hipocalémica"
+  ],
+  "ans": 1,
+  "why": "En la obstrucción de salida gástrica con vómitos, el jugo gástrico tiene poco potasio (unos 10 mEq/L), así que la pérdida directa por el vómito es poco importante. La hipocalemia se debe sobre todo a la pérdida renal: la hipovolemia activa la aldosterona, que retiene sodio y elimina potasio, y el riñón además intercambia K+ por H+ en la alcalosis. El cambio intracelular existe pero es variable y no explica la hipocalemia significativa. No hay acidosis (es alcalosis hipoclorémica) y reponer volumen reduce la pérdida urinaria de potasio.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (cap. 29, resp. 8)",
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "23b324484f",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los líquidos comúnmente utilizados para resucitación o mantenimiento?",
+  "opts": [
+   "El suero fisiológico es preferido sobre Ringer lactato en pacientes quemados.",
+   "La solución de albúmina al 5% extrae líquido del espacio extravascular al aumentar la presión oncótica coloidal.",
+   "La dextrosa al 5% en agua es isoosmolar con el suero.",
+   "La solución de Ringer lactato empeorará una acidosis láctica existente.",
+   "Para reemplazar el volumen intravascular perdido, debe infundirse el doble del volumen en cristaloides."
+  ],
+  "ans": null,
+  "why": "El libro no permite decidir. Lo que sí se respalda: A es falsa, porque en quemados el líquido de elección es el lactato de Ringer (Sabiston p. 515 del PDF). No encontré en Sabiston ni en el ABSITE datos sobre la osmolaridad de la dextrosa al 5%, sobre el efecto oncótico de la albúmina al 5% frente a la de 25%, ni sobre la regla del reemplazo de volumen con cristaloides. La opción C (dextrosa 5% isoosmolar) depende de la definición: en la bolsa es aproximadamente isoosmolar, pero al metabolizarse la glucosa actúa como agua libre. Sin fuente que fije cuál valida el examen, no se puede asegurar la clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 515 del PDF",
+   "Sabiston 21.ª ed., p. 96 del PDF (tabla 13, cristaloides)",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: C (resaltado). La opción E se completó con el original: 'Para reemplazar el volumen intravascular perdido, debe infundirse el doble del volumen en cristaloides'. Ninguna fuente de la carpeta confirma C ni otra opción."
+ },
+ {
+  "k": "600c3c0160",
+  "estado": "confirmada",
+  "stem": "Un hombre de 48 años con antecedentes de cirrosis alcohólica y ascitis refractaria es admitido a la UCI recuperándose de una peritonitis bacteriana espontánea (PBE). Actualmente ha completado los antibióticos y no hay evidencia de infección persistente. Durante su hospitalización, su creatinina aumentó de 1.0 a 1.6 mg/dL. El análisis de orina no muestra proteinuria ni microhematuria. ¿Cuál es el primer paso en el manejo?",
+  "opts": [
+   "Resucitación con solución salina normal",
+   "Suspensión de diuréticos",
+   "Terlipresina y albúmina",
+   "Inicio de terapia de reemplazo renal continua",
+   "Derivación portosistémica intrahepática"
+  ],
+  "ans": 1,
+  "why": "En un cirrótico con ascitis y creatinina que sube sin proteinuria ni hematuria, la causa más común de falla renal es prerrenal. El primer paso es suspender los diuréticos y expandir con albúmina (no con solución salina). Solo si no mejora tras 2 días se piensa en síndrome hepatorrenal, que se trata con terlipresina y albúmina. La diálisis es solo puente a trasplante y el TIPS no tiene un papel claro en este escenario.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 417 del PDF (cap. 29, resp. 18)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "El ABSITE usa la misma pregunta con la respuesta B (suspender diuréticos)."
+ },
+ {
+  "k": "b56339ef43",
+  "estado": "confirmada",
+  "stem": "Una mujer de 24 años fue sometida a resección yeyunal complicada por síndrome compartimental abdominal y abdomen abierto luego de un accidente automovilístico. Finalmente es dada de alta a casa, pero regresa una semana después con salida abundante de líquido amarillento desde su herida media. Ha notado disminución de la diuresis, está taquicárdica y presenta disminución del turgor cutáneo. ¿Qué combinación de alteraciones electrolíticas es más probable en esta paciente?",
+  "opts": [
+   "Hiponatremia, hipocalemia y acidosis metabólica",
+   "Hipocalemia, hipocloremia y alcalosis",
+   "Hiponatremia, hipercalemia y acidosis",
+   "Hipernatremia y acidosis metabólica",
+   "Hipercalemia y alcalosis metabólica"
+  ],
+  "ans": 0,
+  "why": "Las pérdidas de intestino delgado y páncreas son ricas en bicarbonato y potasio: producen hipocalemia y acidosis metabólica. Como el sodio del líquido es isotónico y el paciente repone con agua libre, lo habitual es la hiponatremia. La hipocloremia con alcalosis es del vómito gástrico, y la hipercalemia o hipernatremia no corresponden a estas pérdidas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 417-418 del PDF (cap. 29, resp. 19)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "0f7f2d0182",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años es admitido al hospital por alteración del estado mental. Los paramédicos informan que encontraron múltiples latas vacías de cerveza en su casa. Se le detecta una concentración de alcohol sérico de 255 mg/dL y una concentración de sodio sérico de 118 mEq/L. Se inicia fluidoterapia con solución salina normal y los niveles de sodio vuelven a la normalidad a la mañana siguiente. En el día 5 de hospitalización, desarrolla cuadriplejía espástica y no responde a estímulos externos. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Se podría haber prevenido con el uso de solución salina hipertónica.",
+   "La desmopresina puede usarse como adyuvante a la reposición de líquidos para prevenir esta complicación.",
+   "Las adaptaciones cerebrales a la hiponatremia tardan hasta una semana en desarrollarse.",
+   "La recuperación es imposible una vez que aparecen los síntomas neurológicos.",
+   "La lesión se restringe al puente de Varolio (protuberancia)."
+  ],
+  "ans": 1,
+  "why": "El cuadro es síndrome de desmielinización osmótica (cuadriplejía espástica tras corregir rápido la hiponatremia crónica). La desmopresina se ha propuesto como adyuvante para evitar la autocorrección rápida del sodio cuando el volumen repuesto apaga la ADH. La solución salina hipertónica no previene: solo se usa si la hiponatremia es claramente aguda con edema cerebral. La adaptación cerebral está completa hacia las 48 h, no en una semana. Hay recuperación parcial descrita y la lesión no se limita a la protuberancia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 418 del PDF (cap. 29, resp. 20)"
+  ],
+  "tema": "liquidos",
+  "nota": "Se completó la opción B con el original: 'La desmopresina puede usarse como adyuvante a la reposición de líquidos para prevenir esta complicación'."
+ },
+ {
+  "k": "e94c53e343",
+  "estado": "confirmada",
+  "stem": "Un hombre diabético tipo I de 50 años es admitido al hospital para estudio de dolor abdominal vago y fiebre subjetiva. Sus antecedentes médicos incluyen proctocolectomía total con ileostomía por colitis ulcerosa. Los valores de laboratorio incluyen: pH 7.26, pCO₂ 24 mm Hg, pO₂ 100 mm Hg, sodio 129 mEq/L, potasio 2.9 mEq/L, cloro 110 mEq/L y bicarbonato 12 mEq/L. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pérdida excesiva por ileostomía",
+   "Insuficiencia renal",
+   "Cetoacidosis diabética",
+   "Acidosis láctica",
+   "Intoxicación por metanol"
+  ],
+  "ans": 0,
+  "why": "Con pH 7.26, pCO2 bajo y bicarbonato 12 hay acidosis metabólica. La brecha aniónica es 129 - 110 - 12 = 7 (normal): acidosis sin brecha, compatible con pérdida de bicarbonato por la ileostomía. La insuficiencia renal, la cetoacidosis, la acidosis láctica y el metanol producen acidosis con brecha aniónica elevada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (cap. 29, resp. 7)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF (resumen: ostomía de alto gasto, acidosis sin brecha)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "5d4eb5c40d",
+  "estado": "confirmada",
+  "stem": "Una adolescente de 16 años llega en ambulancia después de que su familia se preocupara por su comportamiento extraño. Parece desorientada y responde preguntas simples, pero es evasiva al responder sobre los eventos previos a su llegada. Los signos vitales son normales excepto por una frecuencia respiratoria de 7 respiraciones por minuto y un índice de masa corporal (IMC) de 16. La gasometría arterial y el panel metabólico básico son consistentes con una alcalosis metabólica. ¿Cuál de las siguientes pruebas será más útil para establecer un diagnóstico?",
+  "opts": [
+   "Examen toxicológico en orina",
+   "Tomografía computarizada cerebral",
+   "Concentración puntual de cloro urinario",
+   "Electrocardiograma (ECG)",
+   "Ecografía abdominal"
+  ],
+  "ans": 2,
+  "why": "Con alcalosis metabólica y sospecha de vómito autoinducido o abuso de laxantes (IMC 16, desorientación), el cloro urinario puntual orienta: es bajo (<20 mEq/L) en la alcalosis sensible a cloro. Las drogas de abuso que alteran el estado mental suelen dar acidosis respiratoria, el ECG solo muestra la hipocalemia ya esperada, y la TC o la ecografía no resuelven el diagnóstico.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 413 del PDF (cap. 29, resp. 2)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "096692b4d3",
+  "estado": "dudosa",
+  "stem": "Una mujer de 57 años con enfermedad renal terminal en diálisis peritoneal se encuentra en el primer día postoperatorio tras una resección de intestino delgado. Un panel metabólico básico revela un nivel de potasio de 6.3 mEq/L. Se realiza un electrocardiograma que no muestra cambios significativos respecto a su línea base. El residente administra 1 g de gluconato de calcio, 50 mL de dextrosa al 50% en agua, y 10 unidades de insulina intravenosa, además de un tratamiento nebulizado con albuterol. Luego, la paciente se somete a hemodiálisis urgente. Seis horas después, el nivel de potasio es de 7.0 mEq/L. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Probablemente, la monoterapia con gluconato de calcio fue adecuada.",
+   "Debió haberse administrado sulfonato de poliestireno sódico (Kayexalate) en sorbitol.",
+   "Se debió incluir bicarbonato de sodio en el régimen de tratamiento.",
+   "Gluconato de calcio, dextrosa, insulina y albuterol no estaban indicados.",
+   "La diálisis peritoneal habría proporcionado una mejor eliminación del potasio."
+  ],
+  "ans": null,
+  "why": "Con potasio 6.3 y ECG sin cambios, el Sabiston indica tratamiento 'en horas' con resinas ligadoras de potasio con sorbitol y diurético de asa; el calcio se reserva para cambios electrocardiográficos de parada, y la insulina con glucosa para ondas T picudas. Además, insulina, dextrosa y albuterol son medidas temporales que desplazan K+ al interior de la célula, y el sulfonato de poliestireno elimina potasio pero tarda unas 24 h. Con esto B (debió darse resina) y D (calcio, insulina, dextrosa y albuterol no estaban indicados) son ambas defendibles según cómo se lea la pauta, y las otras opciones no tienen respaldo. Ninguna fuente de la carpeta explica el potasio de rebote tras la diálisis que plantea la viñeta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 111 del PDF (cuadro 4.5, hiperpotasemia)",
+   "Sabiston 21.ª ed., p. 563 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: D (resaltado). Se completaron B y D con el original: B 'Debió haberse administrado sulfonato de poliestireno sódico (Kayexalate) en sorbitol'; D 'Gluconato de calcio, dextrosa, insulina y albuterol no estaban indicados'."
+ },
+ {
+  "k": "cf8f6f87a4",
+  "estado": "confirmada",
+  "stem": "Un hombre de 60 años con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC) e hipertensión se presenta al servicio de urgencias con vómitos persistentes durante 2 días. En el examen físico está hipovolémico, taquicárdico y presenta signos de deshidratación. El laboratorio muestra: pH 7.48, bicarbonato 34 mEq/L, cloro 86 mEq/L, y potasio 2.8 mEq/L. ¿Cuál es la causa más probable de la alcalosis metabólica?",
+  "opts": [
+   "Pérdida gástrica de ácido clorhídrico",
+   "Hiperventilación por hipoxemia",
+   "Hipocalcemia",
+   "Uso de diuréticos de asa",
+   "Hiperaldosteronismo"
+  ],
+  "ans": 0,
+  "why": "Los vómitos persistentes hacen perder HCl y volumen, lo que produce alcalosis metabólica hipoclorémica e hipocalémica (cloro 86, bicarbonato 34, pH 7.48). La pérdida gástrica de ácido clorhídrico es la causa descrita. La hiperventilación daría alcalosis respiratoria, y el uso de diuréticos y el hiperaldosteronismo son otras causas de alcalosis pero la viñeta no los menciona.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 407 del PDF (vómitos: hipocloremia, hipocalemia, alcalosis)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (resp. 8)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 413 del PDF (causas de alcalosis sensible a cloro)"
+  ],
+  "tema": "liquidos",
+  "nota": "El ABSITE (p. 413) acepta los diuréticos como causa de alcalosis, pero aquí el dato dominante son 2 días de vómitos. La hipertensión del paciente podría sugerir diuréticos; la viñeta no lo dice."
+ },
+ {
+  "k": "16e3bf80ff",
+  "estado": "confirmada",
+  "stem": "Un hombre de 59 años se presenta con náuseas, debilidad muscular y letargo. Su potasio sérico es de 6.8 mEq/L. El electrocardiograma muestra ondas T picudas y ensanchamiento del complejo QRS. ¿Cuál de los siguientes es el paso inmediato más apropiado en el manejo?",
+  "opts": [
+   "Administrar resina de intercambio catiónico (Kayexalate)",
+   "Administrar bicarbonato de sodio intravenoso",
+   "Administrar gluconato de calcio",
+   "Administrar solución salina normal",
+   "Iniciar hemodiálisis urgente"
+  ],
+  "ans": 2,
+  "why": "Con ondas T picudas y QRS ancho por hipercalemia, lo primero es el calcio intravenoso, que antagoniza el efecto despolarizante del potasio y reduce de inmediato el riesgo de arritmia. El bicarbonato y la insulina con glucosa desplazan potasio dentro de la célula pero actúan después. La resina intercambiadora tarda unas 24 h, la solución salina no es el tratamiento de la arritmia y la hemodiálisis es definitiva, no inmediata.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 111 del PDF (calcio como primer tratamiento; cuadro 4.5)",
+   "Sabiston 21.ª ed., p. 563 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 409 del PDF (tabla de hipercalemia)"
+  ],
+  "tema": "liquidos"
+ },
+ {
+  "k": "c208edab39",
+  "estado": "confirmada",
+  "stem": "Un hombre de 72 años se presenta con hiponatremia sintomática (sodio sérico de 112 mEq/L) secundaria a síndrome de secreción inadecuada de ADH (SIADH). ¿Cuál de los siguientes es el tratamiento inicial más apropiado?",
+  "opts": [
+   "Solución salina hipertónica",
+   "Diurético de asa y restricción de líquidos",
+   "Demeclociclina",
+   "Tolvaptán",
+   "Bicarbonato de sodio"
+  ],
+  "ans": 0,
+  "why": "En la hiponatremia sintomática grave por SIADH el Sabiston indica solución salina hipertónica al 3% (la restricción de agua libre es para casos leves o moderados). Los antagonistas de vasopresina (tolvaptán) se reservan para SIADH grave y persistente. La demeclociclina es un adyuvante fuera de indicación si falla la restricción, y el bicarbonato no corrige el sodio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF (SIADH: restricción de agua, salina hipertónica, vaptanes)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 417 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Corrección máxima del sodio: 8 mEq/L en 24 h (Sabiston p. 286). El ABSITE enumera salina hipertónica y vaptanes para el SIADH; el Sabiston precisa que la hipertónica es para el caso sintomático grave."
+ },
+ {
+  "k": "43aef94a50",
+  "estado": "confirmada",
+  "stem": "Una mujer de 35 años, previamente sana, se presenta con debilidad, fatiga y pérdida de peso. El laboratorio muestra: sodio 126 mEq/L, potasio 5.9 mEq/L, glucosa 58 mg/dL y bicarbonato 18 mEq/L. La presión arterial está en 90/60 mm Hg y no responde adecuadamente a los líquidos intravenosos. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hipotiroidismo",
+   "Síndrome nefrótico",
+   "Insuficiencia suprarrenal primaria",
+   "Síndrome de secreción inadecuada de ADH",
+   "Insuficiencia cardíaca"
+  ],
+  "ans": 2,
+  "why": "Sodio bajo, potasio alto, glucosa baja, acidosis leve e hipotensión que no responde a líquidos corresponden a insuficiencia suprarrenal primaria: la falta de mineralocorticoides da hiponatremia, hipercalemia e hipovolemia, y la falta de glucocorticoides da hipoglucemia. En el SIADH el potasio es normal y el paciente está euvolémico, y el hipotiroidismo, el síndrome nefrótico y la insuficiencia cardíaca no dan hipotensión con hipercalemia e hipoglucemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 283 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 418 del PDF (insuficiencia suprarrenal: hiponatremia, hipercalemia, acidosis leve)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF"
+  ],
+  "tema": "endocrino",
+  "nota": "Evidencia indirecta para descartar las otras opciones: los libros respaldan C directamente, pero no describen una a una las alternativas."
+ },
+ {
+  "k": "b454b9d7cb",
+  "estado": "dudosa",
+  "stem": "Un hombre de 50 años se presenta tras una caída con un hematoma en el muslo derecho. Durante su evaluación, el potasio sérico es de 7.2 mEq/L y la creatinina de 1.8 mg/dL. ¿Cuál es la causa más probable de la hipercalemia?",
+  "opts": [
+   "Hipoperfusión renal",
+   "Acidosis metabólica",
+   "Rabdomiólisis",
+   "Insuficiencia adrenal",
+   "Medicamentos"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la causa más frecuente de hipercalemia en pacientes hospitalizados es la insuficiencia renal, y que la lesión celular y la rabdomiólisis liberan potasio. La viñeta da una caída con un hematoma en el muslo, creatinina 1.8 y potasio 7.2, pero no da CK, orina oscura ni medicamentos. Con esos datos la rabdomiólisis, la hipoperfusión renal (creatinina elevada) y los fármacos son todas posibles, y ninguna fuente permite elegir una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 409 del PDF (tabla: hipercalemia por insuficiencia renal, trauma tisular, acidosis)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: C (rabdomiólisis, resaltado). Es plausible, pero el enunciado omite datos que decidirían."
+ },
+ {
+  "k": "d73c426b02",
+  "estado": "dudosa",
+  "stem": "Un hombre de 61 años con antecedentes de diabetes e hipertensión se encuentra hospitalizado por pancreatitis aguda. Recibe abundante hidratación intravenosa. Tres días después, desarrolla hiponatremia con una osmolalidad plasmática de 270 mOsm/kg y osmolalidad urinaria de 500 mOsm/kg. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "El paciente tiene pseudohiponatremia.",
+   "La causa más probable es hipovolemia con pérdida renal de sodio.",
+   "La restricción de líquidos es el tratamiento más apropiado.",
+   "El uso de solución salina hipertónica es imperativo.",
+   "La reposición con solución salina normal es el tratamiento de elección."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El enunciado no dice el estado de volemia del paciente, y eso cambia la causa y el manejo de la hiponatremia (ABSITE p. 408, Sabiston p. 286); el revisor lo supuso. Clave que proponía el revisor: C. Con osmolalidad plasmática baja (270) y osmolalidad urinaria alta (500) hay hiponatremia hipotónica dependiente de ADH. Tras abundante hidratación, el paciente no está hipovolémico, así que el tratamiento es la restricción de líquidos. No es pseudohiponatremia (esa tiene osmolalidad normal). La solución salina normal es para el caso hipovolémico, y la hipertónica solo se usa si hay síntomas graves o hiponatremia aguda.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF (hiponatremia hipotónica con orina concentrada: según volemia)",
+   "Sabiston 21.ª ed., p. 286 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "INDIRECTA: la viñeta no declara el estado de volumen; se asume no hipovolémico por la hidratación abundante. Se completó la opción D con el original: 'El uso de solución salina hipertónica es imperativo'."
+ },
+ {
+  "k": "5626504547",
+  "estado": "dudosa",
+  "stem": "Niño de 8 años rescatado de una casa en llamas. Tiene quemaduras de segundo y tercer grado en ambos brazos. Pesa 25 kg. Se asegura la vía aérea y se colocan dos vías IV. ¿Cuánto líquido debe administrarse en las primeras 8 horas?",
+  "opts": [
+   "800 mL",
+   "1,500 mL en 16 h",
+   "1,500 mL en 8 h",
+   "4,000 mL en 8 h",
+   "8,500 mL en 8 h"
+  ],
+  "ans": null,
+  "why": "Parkland (Sabiston p. 516 y ABSITE p. 261) da 4 mL/kg por % de superficie quemada en 24 h, la mitad en las primeras 8 h. Con ambos brazos (18% por regla de los nueves, 19% por Berkow en 5-9 años) saldrían unos 900-950 mL en 8 h, que no coincide con ninguna opción. Para niños el Sabiston menciona la fórmula de Galveston, que exige el área corporal en m2 y no está en los datos. La clave original (1,500 mL en 8 h) no sale de ninguna fórmula del libro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF (tabla 20.2 y texto)",
+   "Sabiston 21.ª ed., p. 512 del PDF (tabla de Berkow)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 261 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: C (1,500 mL en 8 h, resaltado). No se pudo reproducir con las fórmulas de los libros."
+ },
+ {
+  "k": "12c5ca3aac",
+  "estado": "dudosa",
+  "stem": "Un niño de 5 años sufrió quemaduras por escaldadura al volcar accidentalmente una olla de agua hirviendo. Tiene quemaduras de segundo grado en el tronco anterior y en la cara anterior del brazo derecho. ¿Cuál es la superficie corporal quemada estimada (SCQ)?",
+  "opts": [
+   "9%",
+   "13.5%",
+   "18%",
+   "22.5%",
+   "27%"
+  ],
+  "ans": null,
+  "why": "Con la regla de los nueves del adulto (tronco anterior 18% + cara anterior del brazo 4.5%) sale 22.5%, que es la clave original. Pero el Sabiston dice que la regla de los nueves es para adultos y que en niños se usa la tabla de Berkow: para 5-9 años, tronco anterior 13% y brazo completo 9.5%, o sea cerca de 17.75% (unos 18%) con la cara anterior del brazo. Según el método salen dos valores distintos y el enunciado no dice cuál emplear.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves; niños)",
+   "Sabiston 21.ª ed., p. 512 del PDF (tabla de Berkow)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (22.5%, resaltado). El cálculo de 18% asume que la cara anterior del brazo es la mitad de 9.5%."
+ },
+ {
+  "k": "fa1bd424b4",
+  "estado": "confirmada",
+  "stem": "Un paciente con quemaduras por incendio presenta náuseas, vómitos y confusión. Su nivel de carboxihemoglobina es del 35%. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Oxígeno a bajo flujo por cánula",
+   "Intubación y ventilación con aire ambiente",
+   "Oxígeno al 100% por mascarilla con reservorio",
+   "Corticoides sistémicos",
+   "Inhibidores de la bomba de protones"
+  ],
+  "ans": 2,
+  "why": "En la intoxicación por monóxido de carbono el tratamiento inicial es oxígeno al 100%, que reduce la semivida de la carboxihemoglobina de unas 4 h (aire ambiente) a 1 h; con 35% hay síntomas neurológicos. Por eso no sirven el oxígeno a bajo flujo ni la ventilación con aire ambiente. Los corticoides y los inhibidores de bomba de protones no tratan la intoxicación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 518 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "El libro dice 'oxígeno al 100%'; la mascarilla con reservorio es la forma de entregarlo entre las opciones. Los corticoides y los IBP no aparecen en la fuente: se descartan por no ser tratamiento descrito (INDIRECTA para esas dos)."
+ }
+]

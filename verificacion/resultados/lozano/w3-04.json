@@ -1,0 +1,315 @@
+[
+ {
+  "k": "6e9e9c9506",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años se presenta con quemaduras de segundo y tercer grado en la cara anterior de ambos brazos y toda la pierna derecha. También tiene quemaduras superficiales en ambas manos. ¿Cuál es su área de superficie corporal total (TBSA) quemada estimada?",
+  "opts": [
+   "25%",
+   "27%",
+   "29%",
+   "36%",
+   "38%"
+  ],
+  "ans": 1,
+  "why": "Cada miembro superior es 9% (su cara anterior, 4.5%) y cada miembro inferior 18%. Los dos brazos anteriores suman 9% y la pierna completa 18%, total 27%. Las quemaduras superficiales (primer grado) de las manos no se cuentan. Las otras cifras no resultan de esta suma.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 261 del PDF (explicación 8)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "980476c4b2",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años es llevado al ED después de una GSW en la pierna derecha. Está hipotenso, con gran pérdida de sangre en la escena. Se inicia un protocolo de transfusión masiva. Luego de un injerto venoso interpuesto por transección de la arteria femoral superficial, es ingresado en UCI para observación. A la mañana siguiente, se encuentra oligúrico, con presión pico en vías respiratorias elevada y abdomen distendido. ¿Cuál de los siguientes hallazgos se esperaría en este paciente?",
+  "opts": [
+   "Aumento de la complianza pulmonar",
+   "Aumento de la capacidad funcional residual (FRC)",
+   "Disminución de la resistencia vascular pulmonar",
+   "Aumento de la presión capilar pulmonar en cuña",
+   "Aumento del retorno venoso"
+  ],
+  "ans": 3,
+  "why": "El cuadro es síndrome compartimental abdominal por la reanimación masiva (oliguria, presión pico alta, aumento de la presión intraabdominal). Al subir la presión abdominal sube la presión intratorácica: aumenta la presión capilar pulmonar en cuña. Disminuyen la complianza pulmonar y la FRC, baja el retorno venoso y aumenta (no disminuye) la resistencia vascular pulmonar.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 12)"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "12d019d1df",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las quemaduras?",
+  "opts": [
+   "Las quemaduras superficiales de espesor parcial no forman ampollas",
+   "Las quemaduras de espesor total (tercer grado) pueden afectar la fascia subyacente",
+   "Las quemaduras profundas de espesor parcial pierden los folículos pilosos",
+   "Las quemaduras profundas de espesor parcial a menudo sanan espontáneamente",
+   "Las quemaduras superficiales de espesor parcial no son dolorosas"
+  ],
+  "ans": 2,
+  "why": "Las quemaduras profundas de espesor parcial destruyen los folículos pilosos, que son la fuente de regeneración de la piel; por eso no suelen sanar solas y requieren injerto. Las superficiales de espesor parcial sí forman ampollas y sí duelen. Según el libro, la afectación de músculo, fascia o hueso corresponde al cuarto grado, no al tercero.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 13)"
+  ],
+  "nota": "El texto de la opción C estaba cortado entre páginas del original (\"...profundas de espesor parcial / pierden los folículos pilosos\"); se unió viendo la imagen. La opción B es la más discutible: el libro la da por falsa porque ubica la fascia en el cuarto grado.",
+  "tema": "quemados"
+ },
+ {
+  "k": "fe1d172c77",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta sobre antimicrobianos tópicos comunes en el manejo de quemaduras?",
+  "opts": [
+   "El acetato de mafenida causa alcalosis respiratoria al aumentar la ventilación alveolar",
+   "La sulfadiazina de plata tiene amplia cobertura contra Pseudomonas",
+   "La bacitracina tiene cobertura contra bacterias gramnegativas",
+   "El nitrato de plata puede usarse en pacientes alérgicos a las sulfas",
+   "La sulfadiazina de plata puede causar alteraciones electrolíticas"
+  ],
+  "ans": 3,
+  "why": "El nitrato de plata no es una sulfa, por lo que puede usarse en pacientes alérgicos a las sulfas. La mafenida, inhibidora de la anhidrasa carbónica, causa acidosis metabólica hiperclorémica (no alcalosis respiratoria). La sulfadiazina de plata cubre mal Pseudomonas y causa neutropenia y trombocitopenia; las alteraciones electrolíticas graves son del nitrato de plata. La bacitracina tiene mala cobertura gramnegativa.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 14)"
+  ],
+  "nota": "Las opciones de este banco difieren un poco del original (se agregó bacitracina), pero la lógica del libro cubre todas.",
+  "tema": "quemados"
+ },
+ {
+  "k": "d461e44962",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es una indicación para transferir un paciente a un centro especializado en quemaduras?",
+  "opts": [
+   "Mujer de 45 años con quemaduras de primer grado en 30% de TBSA",
+   "Niña de 10 años con quemaduras de tercer grado en 4% de TBSA",
+   "Hombre de 21 años con quemadura química en la mano derecha",
+   "Mujer de 30 años con quemaduras de segundo grado en 18% de TBSA",
+   "Mujer de 71 años con quemaduras de segundo grado en 8% de TBSA"
+  ],
+  "ans": 2,
+  "why": "Criterios de transferencia: segundo/tercer grado >20% TBSA (10-50 años) o >10% (<10 o >50 años); tercer grado >5% a cualquier edad; quemaduras de manos, pies, cara, genitales o articulaciones; cualquier quemadura eléctrica o química. El hombre de 21 años cumple dos (mano y química). Las demás no llegan a los umbrales (4% tercer grado, 18% y 8% de segundo grado) y el primer grado no cuenta.",
+  "fuentes": [
+   "absite, p. 254 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 15)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "1422f7ae90",
+  "estado": "confirmada",
+  "stem": "Un hombre de 28 años con obesidad mórbida llega al ED tras sufrir una descarga eléctrica mientras trabajaba en su automóvil. Tiene una marca de quemadura en la mano y el antebrazo está hinchado. ¿Cuál de las siguientes afirmaciones es verdadera sobre este paciente?",
+  "opts": [
+   "La fuente del choque fue probablemente corriente directa",
+   "La falla renal es la principal causa de muerte en quienes sobreviven la lesión inicial",
+   "Probablemente tuvo contracciones musculares tetánicas repetitivas al momento de la electrocución",
+   "Su contextura corporal probablemente lo protege de lesiones térmicas profundas",
+   "Orina roja al ingreso sugiere lesión vesical"
+  ],
+  "ans": 0,
+  "why": "Una batería de auto da corriente directa. Esta produce una sola contracción grande que lanza al paciente (la corriente alterna produce tetania repetitiva). La grasa tiene alta resistencia: aumenta las quemaduras térmicas profundas, no protege. La causa principal de muerte temprana son las arritmias, y la orina roja sugiere rabdomiólisis, no lesión vesical.",
+  "fuentes": [
+   "absite, p. 254 del PDF (pregunta)",
+   "absite, p. 263 del PDF (explicación 16)"
+  ],
+  "tema": "quemados"
+ },
+ {
+  "k": "aeb8b01b23",
+  "estado": "confirmada",
+  "stem": "Una mujer alcohólica de 36 años llega al servicio de emergencias durante una tormenta de invierno con congelación en el brazo y la mano derechos. Se desmayó en un parque con el brazo expuesto sobre una banca metálica helada. Su mano derecha presenta varias áreas con bullas hemorrágicas. Han pasado 7 horas desde que fue llevada al hospital. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "Probablemente tiene una congelación de segundo grado",
+   "Debe recibir desbridamiento precoz del tejido necrótico evidente",
+   "Probablemente responderá bien al tratamiento con activador tisular del plasminógeno (tPA)",
+   "La lesión por reperfusión es un contribuyente importante del daño en su lesión",
+   "El recalentamiento en agua tibia debe realizarse de manera gradual"
+  ],
+  "ans": 3,
+  "why": "En la congelación contribuyen al daño tanto el congelamiento del tejido como la reperfusión. Las bullas hemorrágicas indican tercer grado (no segundo). El desbridamiento y la amputación precoces deben evitarse porque la viabilidad tarda semanas en definirse. El recalentamiento debe ser rápido (agua a 40-42 °C). Con isquemia caliente mayor de 6 horas no es candidata a tPA.",
+  "fuentes": [
+   "absite, p. 254 del PDF (pregunta)",
+   "absite, p. 263 del PDF (explicación 17)"
+  ],
+  "tema": "trauma"
+ },
+ {
+  "k": "4661470533",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es la anormalidad electrolítica más común en el paciente quemado?",
+  "opts": [
+   "Hipernatremia",
+   "Hiponatremia",
+   "Hipercalcemia",
+   "Hipoglucemia",
+   "Hipermagnesemia"
+  ],
+  "ans": null,
+  "why": "No se halló en Sabiston ni en el ABSITE una afirmación sobre cuál es la alteración electrolítica más frecuente en el quemado; Sabiston solo menciona que la glucosa al 5% en agua puede causar hiponatremia en pérdidas como las quemaduras. Una búsqueda en Europe PMC tampoco dio una fuente que lo establezca. Sin fuente que decida, no se confirma la clave original (hiponatremia).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF (hiponatremia con glucosa 5% en pérdidas como quemaduras; no responde la pregunta)",
+   "Sabiston 21.ª ed., pp. 516-522 del PDF (capítulo de quemaduras, sin dato)"
+  ],
+  "nota": "Clave original: B (hiponatremia, resaltado). Es lo más plausible pero no hay evidencia citable en los libros del curso.",
+  "tema": "quemados"
+ },
+ {
+  "k": "fe013881ef",
+  "estado": "confirmada",
+  "stem": "Un adulto de 70 kg es atropellado y presenta fracturas femorales bilaterales con pérdida sanguínea estimada en 2 L. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "El paciente se encuentra en shock hemorrágico clase II",
+   "La taquicardia y taquipnea son poco comunes",
+   "La diuresis no debería verse afectada",
+   "La presión de pulso permanecerá sin cambios",
+   "La pérdida sanguínea estimada corresponde al 30–40% de su volumen"
+  ],
+  "ans": 4,
+  "why": "Según la clasificación ATLS, la clase III corresponde a una pérdida de 30-40% del volumen (1500-2000 mL): hay taquicardia y taquipnea, presión de pulso reducida y diuresis disminuida. Por eso A (clase II, 15-30%), B, C y D son falsas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 73 del PDF (tabla 4.1 ATLS)",
+   "absite, p. 245 del PDF (clases de shock: clase 3 = 1500-2000 cc o 30-40%)"
+  ],
+  "nota": "INDIRECTA: la pregunta no está en el ABSITE; se confirma con la tabla ATLS. Con 2 L el paciente está en el límite superior de la clase III (el libro pone la clase IV en más de 2000 mL).",
+  "tema": "shock"
+ },
+ {
+  "k": "3760edf651",
+  "estado": "confirmada",
+  "stem": "¿Cuándo debe programarse una herniorrafia umbilical en paciente con angioplastia reciente con stent metálico?",
+  "opts": [
+   "1 semana",
+   "2 semanas",
+   "4 semanas",
+   "8 semanas",
+   "6 meses"
+  ],
+  "ans": 2,
+  "why": "Tras un stent metálico convencional (no medicado) se debe esperar 1 mes antes de operar, porque la hernia sintomática es una cirugía con cierta urgencia pero electiva. Dos semanas corresponden a la angioplastia con balón solo y 6 meses al stent liberador de fármaco.",
+  "fuentes": [
+   "absite, p. 33 del PDF (explicación)",
+   "absite, p. 465 del PDF (resumen: BMS 1 mes, DES 6 meses, balón 2 semanas)"
+  ],
+  "nota": "El stem dice solo \"stent metálico\"; el caso original es un stent metálico convencional (bare metal).",
+  "tema": "eras"
+ },
+ {
+  "k": "bb6486cc39",
+  "estado": "corregida",
+  "stem": "Un hombre de 85 años con hernia umbilical reducible y dolor intermitente es dado de alta recientemente tras colocación de un stent metálico por angina inestable. ¿Cuándo debería programarse su cirugía?",
+  "opts": [
+   "2 semanas",
+   "1 semana",
+   "8 semanas",
+   "6 meses",
+   "4 semanas"
+  ],
+  "ans": 4,
+  "why": "Con un stent metálico convencional (BMS) se espera 1 mes (4 semanas) antes de la cirugía. Seis meses corresponden al stent liberador de fármaco (DES); 2 semanas a la angioplastia con balón sola.",
+  "fuentes": [
+   "absite, p. 33 del PDF (explicación: con BMS esperar 1 mes; con DES 6 meses)",
+   "absite, p. 465 del PDF (resumen)"
+  ],
+  "nota": "Clave original: D (6 meses, resaltado). Eso aplica al stent liberador de fármaco; \"stent metálico\" equivale al BMS del original, cuyo plazo es 4 semanas (la edad del paciente en este banco, 85 años, difiere del original de 74 años, sin efecto en la respuesta). Para el examen de la UPAO la clave marcada pudo ser distinta.",
+  "tema": "eras"
+ },
+ {
+  "k": "4f3b8fc380",
+  "estado": "dudosa",
+  "stem": "Mujer de 33 años programada para colecistectomía. Tiene hipotiroidismo moderado. ¿Qué hacer?",
+  "opts": [
+   "Proceder con la cirugía si no se presentan síntomas clínicos graves",
+   "Proceder con cirugía e iniciar levotiroxina",
+   "Proceder con cirugía asumiendo complicaciones menores",
+   "Posponer la cirugía hasta lograr eutiroidismo",
+   "Proceder e iniciar tratamiento con tioamidas"
+  ],
+  "ans": null,
+  "why": "Sabiston dice en un lugar que la cirugía programada debe retrasarse hasta alcanzar el estado eutiroideo, y en otro que el hipotiroidismo asintomático puede tratarse con hormona tiroidea en cualquier momento perioperatorio y que solo el sintomático obliga a diferir. El enunciado no dice si tiene síntomas, así que tanto la opción B como la D son defendibles. Las tioamidas (opción E) son para hipertiroidismo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 285 del PDF (cirugía programada se retrasa hasta eutiroidismo)",
+   "Sabiston 21.ª ed., p. 228 del PDF (asintomático: iniciar reposición en cualquier momento; sintomático: diferir)"
+  ],
+  "nota": "Clave original: D (posponer hasta eutiroidismo). Texto de las opciones completado según el original (estaban cortadas en la conversión).",
+  "tema": "eras"
+ },
+ {
+  "k": "1bc04cc376",
+  "estado": "confirmada",
+  "stem": "Un hombre de 39 años se presenta a consulta para discutir su manejo antes de iniciar quimiorradiación neoadyuvante por cáncer de esófago. Su albúmina es de 2.4 mg/dL. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la optimización nutricional para este paciente?",
+  "opts": [
+   "Debe iniciar nutrición parenteral.",
+   "No debe ofrecerse una gastrostomía percutánea.",
+   "Se ha demostrado consistentemente que la colocación de stent esofágico mejora el estado nutricional.",
+   "La inserción de sonda nasogástrica ha demostrado mejorar el estado nutricional.",
+   "La migración del stent y el dolor torácico se reportan raramente en pacientes con stents esofágicos."
+  ],
+  "ans": 1,
+  "why": "La gastrostomía percutánea debe desaconsejarse porque puede comprometer el estómago que se usará como conducto en la reconstrucción y retrasa la quimioterapia 2 a 4 semanas. La nutrición parenteral tiene un papel limitado por costo y complicaciones. Los stents dieron resultados inconsistentes en el estado nutricional y su migración y el malestar torácico son frecuentes. La sonda nasogástrica puede migrar y causar aspiración.",
+  "fuentes": [
+   "absite, p. 109 del PDF (pregunta 20)",
+   "absite, p. 114 del PDF (explicación 20)"
+  ],
+  "tema": "nutricion"
+ },
+ {
+  "k": "5aed1c7d7c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es el principal combustible utilizado por el intestino delgado?",
+  "opts": [
+   "Arginina",
+   "Alanina",
+   "Glutamina",
+   "Tirosina",
+   "Carnitina"
+  ],
+  "ans": 2,
+  "why": "La glutamina es el principal combustible del intestino delgado (y de los enterocitos) y actúa como factor trófico intestinal. La arginina es sustrato para producir óxido nítrico; las otras opciones no son el combustible principal del enterocito.",
+  "fuentes": [
+   "absite, p. 142 del PDF (glutamina, principal combustible del intestino delgado)",
+   "absite, p. 441 del PDF (glutamina, principal combustible metabólico de los enterocitos)"
+  ],
+  "nota": "INDIRECTA para las opciones B, D y E: el libro afirma la glutamina como combustible principal pero no refuta cada una por separado.",
+  "tema": "nutricion"
+ },
+ {
+  "k": "779faba381",
+  "estado": "confirmada",
+  "stem": "Un hombre diabético tipo 1 de 48 años ingresa al hospital para la evaluación de un dolor abdominal vago y malestar general. Los antecedentes médicos incluyen proctocolectomía total con ileostomía por colitis ulcerosa. Sus exámenes de laboratorio son: pH 7,26; PCO2 24; PO2 100 mmHg; Na 129; K 2,9; Cl 110 y HCO3 12. ¿Cuál es su diagnóstico más probable?",
+  "opts": [
+   "Falla renal",
+   "Cetoacidosis diabética",
+   "Acidosis láctica",
+   "Ileostomía de gasto alto",
+   "Intoxicación con metanol"
+  ],
+  "ans": 3,
+  "why": "El pH bajo con PCO2 y bicarbonato bajos es acidosis metabólica. La brecha aniónica (129 - 110 - 12) es 7, es decir sin brecha aumentada, compatible con pérdidas gastrointestinales por ileostomía de gasto alto. Falla renal, cetoacidosis, acidosis láctica y metanol producen acidosis con brecha aniónica aumentada.",
+  "fuentes": [
+   "absite, p. 411 del PDF (pregunta 7)",
+   "absite, p. 414 del PDF (explicación 7)"
+  ],
+  "nota": "Texto reparado desde el original (palabras pegadas). El libro original habla de un paciente de 50 años; el banco dice 48 y no cambia la respuesta.",
+  "tema": "liquidos"
+ },
+ {
+  "k": "4fcec685cd",
+  "estado": "dudosa",
+  "stem": "Todos los siguientes son principios del manejo de la congelación severa (frostbite) EXCEPTO:",
+  "opts": [
+   "Recalentamiento rápido",
+   "Evitar el desbridamiento",
+   "Elevación del miembro",
+   "Amputación temprana en caso de gangrena franca",
+   "Antibióticos"
+  ],
+  "ans": null,
+  "why": "El ABSITE respalda tres cosas: recalentar rápido en agua a 40-42 °C, evitar el desbridamiento y la amputación tempranos porque la viabilidad tarda semanas en definirse (opciones A, B y D como excepción). Pero no hay fuente en los libros del curso sobre la elevación del miembro ni sobre los antibióticos, y las opciones no elegidas también necesitan respaldo.",
+  "fuentes": [
+   "absite, p. 263 del PDF (explicación 17: recalentar rápido; evitar desbridamiento y amputación tempranos)"
+  ],
+  "nota": "Clave original: D (amputación temprana). Es coherente con el libro, pero no se pudo respaldar C ni E. Una búsqueda en Europe PMC (guías WMS) no dio texto sobre elevación ni antibióticos.",
+  "tema": "trauma"
+ }
+]

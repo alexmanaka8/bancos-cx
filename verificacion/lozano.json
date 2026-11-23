@@ -8673,5 +8673,1294 @@
   ],
   "tema": "intestino",
   "nota": "Clave original: D (resaltado). Las arterias mesentéricas y los vasos rectos no se descartan explícitamente en el libro (INDIRECTA parcial)."
+ },
+ "7037764fcb": {
+  "k": "7037764fcb",
+  "estado": "confirmada",
+  "stem": "Una mujer de 62 años fue diagnosticada recientemente mediante endoscopía alta con un tumor gástrico distal casi obstructivo, pero posteriormente se perdió en el seguimiento. Ahora regresa al servicio de urgencias tras 24 horas de vómitos no biliosos y dolor abdominal. ¿Cuál es el factor más importante que contribuye a la hipocalemia en esta paciente?",
+  "opts": [
+   "Cambio intracelular",
+   "Aumento de la excreción urinaria",
+   "Pérdida de potasio con el vómito",
+   "Acidosis metabólica",
+   "Reposición de líquidos hipocalémica"
+  ],
+  "ans": 1,
+  "why": "En la obstrucción de salida gástrica con vómitos, el jugo gástrico tiene poco potasio (unos 10 mEq/L), así que la pérdida directa por el vómito es poco importante. La hipocalemia se debe sobre todo a la pérdida renal: la hipovolemia activa la aldosterona, que retiene sodio y elimina potasio, y el riñón además intercambia K+ por H+ en la alcalosis. El cambio intracelular existe pero es variable y no explica la hipocalemia significativa. No hay acidosis (es alcalosis hipoclorémica) y reponer volumen reduce la pérdida urinaria de potasio.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (cap. 29, resp. 8)",
+   "Sabiston 21.ª ed., p. 110 del PDF"
+  ],
+  "tema": "liquidos"
+ },
+ "23b324484f": {
+  "k": "23b324484f",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a los líquidos comúnmente utilizados para resucitación o mantenimiento?",
+  "opts": [
+   "El suero fisiológico es preferido sobre Ringer lactato en pacientes quemados.",
+   "La solución de albúmina al 5% extrae líquido del espacio extravascular al aumentar la presión oncótica coloidal.",
+   "La dextrosa al 5% en agua es isoosmolar con el suero.",
+   "La solución de Ringer lactato empeorará una acidosis láctica existente.",
+   "Para reemplazar el volumen intravascular perdido, debe infundirse el doble del volumen en cristaloides."
+  ],
+  "ans": null,
+  "why": "El libro no permite decidir. Lo que sí se respalda: A es falsa, porque en quemados el líquido de elección es el lactato de Ringer (Sabiston p. 515 del PDF). No encontré en Sabiston ni en el ABSITE datos sobre la osmolaridad de la dextrosa al 5%, sobre el efecto oncótico de la albúmina al 5% frente a la de 25%, ni sobre la regla del reemplazo de volumen con cristaloides. La opción C (dextrosa 5% isoosmolar) depende de la definición: en la bolsa es aproximadamente isoosmolar, pero al metabolizarse la glucosa actúa como agua libre. Sin fuente que fije cuál valida el examen, no se puede asegurar la clave.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 515 del PDF",
+   "Sabiston 21.ª ed., p. 96 del PDF (tabla 13, cristaloides)",
+   "Sabiston 21.ª ed., p. 108 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: C (resaltado). La opción E se completó con el original: 'Para reemplazar el volumen intravascular perdido, debe infundirse el doble del volumen en cristaloides'. Ninguna fuente de la carpeta confirma C ni otra opción."
+ },
+ "600c3c0160": {
+  "k": "600c3c0160",
+  "estado": "confirmada",
+  "stem": "Un hombre de 48 años con antecedentes de cirrosis alcohólica y ascitis refractaria es admitido a la UCI recuperándose de una peritonitis bacteriana espontánea (PBE). Actualmente ha completado los antibióticos y no hay evidencia de infección persistente. Durante su hospitalización, su creatinina aumentó de 1.0 a 1.6 mg/dL. El análisis de orina no muestra proteinuria ni microhematuria. ¿Cuál es el primer paso en el manejo?",
+  "opts": [
+   "Resucitación con solución salina normal",
+   "Suspensión de diuréticos",
+   "Terlipresina y albúmina",
+   "Inicio de terapia de reemplazo renal continua",
+   "Derivación portosistémica intrahepática"
+  ],
+  "ans": 1,
+  "why": "En un cirrótico con ascitis y creatinina que sube sin proteinuria ni hematuria, la causa más común de falla renal es prerrenal. El primer paso es suspender los diuréticos y expandir con albúmina (no con solución salina). Solo si no mejora tras 2 días se piensa en síndrome hepatorrenal, que se trata con terlipresina y albúmina. La diálisis es solo puente a trasplante y el TIPS no tiene un papel claro en este escenario.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 417 del PDF (cap. 29, resp. 18)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "El ABSITE usa la misma pregunta con la respuesta B (suspender diuréticos)."
+ },
+ "b56339ef43": {
+  "k": "b56339ef43",
+  "estado": "confirmada",
+  "stem": "Una mujer de 24 años fue sometida a resección yeyunal complicada por síndrome compartimental abdominal y abdomen abierto luego de un accidente automovilístico. Finalmente es dada de alta a casa, pero regresa una semana después con salida abundante de líquido amarillento desde su herida media. Ha notado disminución de la diuresis, está taquicárdica y presenta disminución del turgor cutáneo. ¿Qué combinación de alteraciones electrolíticas es más probable en esta paciente?",
+  "opts": [
+   "Hiponatremia, hipocalemia y acidosis metabólica",
+   "Hipocalemia, hipocloremia y alcalosis",
+   "Hiponatremia, hipercalemia y acidosis",
+   "Hipernatremia y acidosis metabólica",
+   "Hipercalemia y alcalosis metabólica"
+  ],
+  "ans": 0,
+  "why": "Las pérdidas de intestino delgado y páncreas son ricas en bicarbonato y potasio: producen hipocalemia y acidosis metabólica. Como el sodio del líquido es isotónico y el paciente repone con agua libre, lo habitual es la hiponatremia. La hipocloremia con alcalosis es del vómito gástrico, y la hipercalemia o hipernatremia no corresponden a estas pérdidas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 417-418 del PDF (cap. 29, resp. 19)"
+  ],
+  "tema": "liquidos"
+ },
+ "0f7f2d0182": {
+  "k": "0f7f2d0182",
+  "estado": "confirmada",
+  "stem": "Un hombre de 55 años es admitido al hospital por alteración del estado mental. Los paramédicos informan que encontraron múltiples latas vacías de cerveza en su casa. Se le detecta una concentración de alcohol sérico de 255 mg/dL y una concentración de sodio sérico de 118 mEq/L. Se inicia fluidoterapia con solución salina normal y los niveles de sodio vuelven a la normalidad a la mañana siguiente. En el día 5 de hospitalización, desarrolla cuadriplejía espástica y no responde a estímulos externos. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Se podría haber prevenido con el uso de solución salina hipertónica.",
+   "La desmopresina puede usarse como adyuvante a la reposición de líquidos para prevenir esta complicación.",
+   "Las adaptaciones cerebrales a la hiponatremia tardan hasta una semana en desarrollarse.",
+   "La recuperación es imposible una vez que aparecen los síntomas neurológicos.",
+   "La lesión se restringe al puente de Varolio (protuberancia)."
+  ],
+  "ans": 1,
+  "why": "El cuadro es síndrome de desmielinización osmótica (cuadriplejía espástica tras corregir rápido la hiponatremia crónica). La desmopresina se ha propuesto como adyuvante para evitar la autocorrección rápida del sodio cuando el volumen repuesto apaga la ADH. La solución salina hipertónica no previene: solo se usa si la hiponatremia es claramente aguda con edema cerebral. La adaptación cerebral está completa hacia las 48 h, no en una semana. Hay recuperación parcial descrita y la lesión no se limita a la protuberancia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 418 del PDF (cap. 29, resp. 20)"
+  ],
+  "tema": "liquidos",
+  "nota": "Se completó la opción B con el original: 'La desmopresina puede usarse como adyuvante a la reposición de líquidos para prevenir esta complicación'."
+ },
+ "e94c53e343": {
+  "k": "e94c53e343",
+  "estado": "confirmada",
+  "stem": "Un hombre diabético tipo I de 50 años es admitido al hospital para estudio de dolor abdominal vago y fiebre subjetiva. Sus antecedentes médicos incluyen proctocolectomía total con ileostomía por colitis ulcerosa. Los valores de laboratorio incluyen: pH 7.26, pCO₂ 24 mm Hg, pO₂ 100 mm Hg, sodio 129 mEq/L, potasio 2.9 mEq/L, cloro 110 mEq/L y bicarbonato 12 mEq/L. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Pérdida excesiva por ileostomía",
+   "Insuficiencia renal",
+   "Cetoacidosis diabética",
+   "Acidosis láctica",
+   "Intoxicación por metanol"
+  ],
+  "ans": 0,
+  "why": "Con pH 7.26, pCO2 bajo y bicarbonato 12 hay acidosis metabólica. La brecha aniónica es 129 - 110 - 12 = 7 (normal): acidosis sin brecha, compatible con pérdida de bicarbonato por la ileostomía. La insuficiencia renal, la cetoacidosis, la acidosis láctica y el metanol producen acidosis con brecha aniónica elevada.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (cap. 29, resp. 7)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF (resumen: ostomía de alto gasto, acidosis sin brecha)"
+  ],
+  "tema": "liquidos"
+ },
+ "5d4eb5c40d": {
+  "k": "5d4eb5c40d",
+  "estado": "confirmada",
+  "stem": "Una adolescente de 16 años llega en ambulancia después de que su familia se preocupara por su comportamiento extraño. Parece desorientada y responde preguntas simples, pero es evasiva al responder sobre los eventos previos a su llegada. Los signos vitales son normales excepto por una frecuencia respiratoria de 7 respiraciones por minuto y un índice de masa corporal (IMC) de 16. La gasometría arterial y el panel metabólico básico son consistentes con una alcalosis metabólica. ¿Cuál de las siguientes pruebas será más útil para establecer un diagnóstico?",
+  "opts": [
+   "Examen toxicológico en orina",
+   "Tomografía computarizada cerebral",
+   "Concentración puntual de cloro urinario",
+   "Electrocardiograma (ECG)",
+   "Ecografía abdominal"
+  ],
+  "ans": 2,
+  "why": "Con alcalosis metabólica y sospecha de vómito autoinducido o abuso de laxantes (IMC 16, desorientación), el cloro urinario puntual orienta: es bajo (<20 mEq/L) en la alcalosis sensible a cloro. Las drogas de abuso que alteran el estado mental suelen dar acidosis respiratoria, el ECG solo muestra la hipocalemia ya esperada, y la TC o la ecografía no resuelven el diagnóstico.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 413 del PDF (cap. 29, resp. 2)"
+  ],
+  "tema": "liquidos"
+ },
+ "096692b4d3": {
+  "k": "096692b4d3",
+  "estado": "dudosa",
+  "stem": "Una mujer de 57 años con enfermedad renal terminal en diálisis peritoneal se encuentra en el primer día postoperatorio tras una resección de intestino delgado. Un panel metabólico básico revela un nivel de potasio de 6.3 mEq/L. Se realiza un electrocardiograma que no muestra cambios significativos respecto a su línea base. El residente administra 1 g de gluconato de calcio, 50 mL de dextrosa al 50% en agua, y 10 unidades de insulina intravenosa, además de un tratamiento nebulizado con albuterol. Luego, la paciente se somete a hemodiálisis urgente. Seis horas después, el nivel de potasio es de 7.0 mEq/L. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Probablemente, la monoterapia con gluconato de calcio fue adecuada.",
+   "Debió haberse administrado sulfonato de poliestireno sódico (Kayexalate) en sorbitol.",
+   "Se debió incluir bicarbonato de sodio en el régimen de tratamiento.",
+   "Gluconato de calcio, dextrosa, insulina y albuterol no estaban indicados.",
+   "La diálisis peritoneal habría proporcionado una mejor eliminación del potasio."
+  ],
+  "ans": null,
+  "why": "Con potasio 6.3 y ECG sin cambios, el Sabiston indica tratamiento 'en horas' con resinas ligadoras de potasio con sorbitol y diurético de asa; el calcio se reserva para cambios electrocardiográficos de parada, y la insulina con glucosa para ondas T picudas. Además, insulina, dextrosa y albuterol son medidas temporales que desplazan K+ al interior de la célula, y el sulfonato de poliestireno elimina potasio pero tarda unas 24 h. Con esto B (debió darse resina) y D (calcio, insulina, dextrosa y albuterol no estaban indicados) son ambas defendibles según cómo se lea la pauta, y las otras opciones no tienen respaldo. Ninguna fuente de la carpeta explica el potasio de rebote tras la diálisis que plantea la viñeta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 111 del PDF (cuadro 4.5, hiperpotasemia)",
+   "Sabiston 21.ª ed., p. 563 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: D (resaltado). Se completaron B y D con el original: B 'Debió haberse administrado sulfonato de poliestireno sódico (Kayexalate) en sorbitol'; D 'Gluconato de calcio, dextrosa, insulina y albuterol no estaban indicados'."
+ },
+ "cf8f6f87a4": {
+  "k": "cf8f6f87a4",
+  "estado": "confirmada",
+  "stem": "Un hombre de 60 años con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC) e hipertensión se presenta al servicio de urgencias con vómitos persistentes durante 2 días. En el examen físico está hipovolémico, taquicárdico y presenta signos de deshidratación. El laboratorio muestra: pH 7.48, bicarbonato 34 mEq/L, cloro 86 mEq/L, y potasio 2.8 mEq/L. ¿Cuál es la causa más probable de la alcalosis metabólica?",
+  "opts": [
+   "Pérdida gástrica de ácido clorhídrico",
+   "Hiperventilación por hipoxemia",
+   "Hipocalcemia",
+   "Uso de diuréticos de asa",
+   "Hiperaldosteronismo"
+  ],
+  "ans": 0,
+  "why": "Los vómitos persistentes hacen perder HCl y volumen, lo que produce alcalosis metabólica hipoclorémica e hipocalémica (cloro 86, bicarbonato 34, pH 7.48). La pérdida gástrica de ácido clorhídrico es la causa descrita. La hiperventilación daría alcalosis respiratoria, y el uso de diuréticos y el hiperaldosteronismo son otras causas de alcalosis pero la viñeta no los menciona.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 407 del PDF (vómitos: hipocloremia, hipocalemia, alcalosis)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 414 del PDF (resp. 8)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 413 del PDF (causas de alcalosis sensible a cloro)"
+  ],
+  "tema": "liquidos",
+  "nota": "El ABSITE (p. 413) acepta los diuréticos como causa de alcalosis, pero aquí el dato dominante son 2 días de vómitos. La hipertensión del paciente podría sugerir diuréticos; la viñeta no lo dice."
+ },
+ "16e3bf80ff": {
+  "k": "16e3bf80ff",
+  "estado": "confirmada",
+  "stem": "Un hombre de 59 años se presenta con náuseas, debilidad muscular y letargo. Su potasio sérico es de 6.8 mEq/L. El electrocardiograma muestra ondas T picudas y ensanchamiento del complejo QRS. ¿Cuál de los siguientes es el paso inmediato más apropiado en el manejo?",
+  "opts": [
+   "Administrar resina de intercambio catiónico (Kayexalate)",
+   "Administrar bicarbonato de sodio intravenoso",
+   "Administrar gluconato de calcio",
+   "Administrar solución salina normal",
+   "Iniciar hemodiálisis urgente"
+  ],
+  "ans": 2,
+  "why": "Con ondas T picudas y QRS ancho por hipercalemia, lo primero es el calcio intravenoso, que antagoniza el efecto despolarizante del potasio y reduce de inmediato el riesgo de arritmia. El bicarbonato y la insulina con glucosa desplazan potasio dentro de la célula pero actúan después. La resina intercambiadora tarda unas 24 h, la solución salina no es el tratamiento de la arritmia y la hemodiálisis es definitiva, no inmediata.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 111 del PDF (calcio como primer tratamiento; cuadro 4.5)",
+   "Sabiston 21.ª ed., p. 563 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 409 del PDF (tabla de hipercalemia)"
+  ],
+  "tema": "liquidos"
+ },
+ "c208edab39": {
+  "k": "c208edab39",
+  "estado": "confirmada",
+  "stem": "Un hombre de 72 años se presenta con hiponatremia sintomática (sodio sérico de 112 mEq/L) secundaria a síndrome de secreción inadecuada de ADH (SIADH). ¿Cuál de los siguientes es el tratamiento inicial más apropiado?",
+  "opts": [
+   "Solución salina hipertónica",
+   "Diurético de asa y restricción de líquidos",
+   "Demeclociclina",
+   "Tolvaptán",
+   "Bicarbonato de sodio"
+  ],
+  "ans": 0,
+  "why": "En la hiponatremia sintomática grave por SIADH el Sabiston indica solución salina hipertónica al 3% (la restricción de agua libre es para casos leves o moderados). Los antagonistas de vasopresina (tolvaptán) se reservan para SIADH grave y persistente. La demeclociclina es un adyuvante fuera de indicación si falla la restricción, y el bicarbonato no corrige el sodio.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 286 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF (SIADH: restricción de agua, salina hipertónica, vaptanes)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 417 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "Corrección máxima del sodio: 8 mEq/L en 24 h (Sabiston p. 286). El ABSITE enumera salina hipertónica y vaptanes para el SIADH; el Sabiston precisa que la hipertónica es para el caso sintomático grave."
+ },
+ "43aef94a50": {
+  "k": "43aef94a50",
+  "estado": "confirmada",
+  "stem": "Una mujer de 35 años, previamente sana, se presenta con debilidad, fatiga y pérdida de peso. El laboratorio muestra: sodio 126 mEq/L, potasio 5.9 mEq/L, glucosa 58 mg/dL y bicarbonato 18 mEq/L. La presión arterial está en 90/60 mm Hg y no responde adecuadamente a los líquidos intravenosos. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Hipotiroidismo",
+   "Síndrome nefrótico",
+   "Insuficiencia suprarrenal primaria",
+   "Síndrome de secreción inadecuada de ADH",
+   "Insuficiencia cardíaca"
+  ],
+  "ans": 2,
+  "why": "Sodio bajo, potasio alto, glucosa baja, acidosis leve e hipotensión que no responde a líquidos corresponden a insuficiencia suprarrenal primaria: la falta de mineralocorticoides da hiponatremia, hipercalemia e hipovolemia, y la falta de glucocorticoides da hipoglucemia. En el SIADH el potasio es normal y el paciente está euvolémico, y el hipotiroidismo, el síndrome nefrótico y la insuficiencia cardíaca no dan hipotensión con hipercalemia e hipoglucemia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 283 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 418 del PDF (insuficiencia suprarrenal: hiponatremia, hipercalemia, acidosis leve)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF"
+  ],
+  "tema": "endocrino",
+  "nota": "Evidencia indirecta para descartar las otras opciones: los libros respaldan C directamente, pero no describen una a una las alternativas."
+ },
+ "b454b9d7cb": {
+  "k": "b454b9d7cb",
+  "estado": "dudosa",
+  "stem": "Un hombre de 50 años se presenta tras una caída con un hematoma en el muslo derecho. Durante su evaluación, el potasio sérico es de 7.2 mEq/L y la creatinina de 1.8 mg/dL. ¿Cuál es la causa más probable de la hipercalemia?",
+  "opts": [
+   "Hipoperfusión renal",
+   "Acidosis metabólica",
+   "Rabdomiólisis",
+   "Insuficiencia adrenal",
+   "Medicamentos"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la causa más frecuente de hipercalemia en pacientes hospitalizados es la insuficiencia renal, y que la lesión celular y la rabdomiólisis liberan potasio. La viñeta da una caída con un hematoma en el muslo, creatinina 1.8 y potasio 7.2, pero no da CK, orina oscura ni medicamentos. Con esos datos la rabdomiólisis, la hipoperfusión renal (creatinina elevada) y los fármacos son todas posibles, y ninguna fuente permite elegir una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 409 del PDF (tabla: hipercalemia por insuficiencia renal, trauma tisular, acidosis)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: C (rabdomiólisis, resaltado). Es plausible, pero el enunciado omite datos que decidirían."
+ },
+ "d73c426b02": {
+  "k": "d73c426b02",
+  "estado": "dudosa",
+  "stem": "Un hombre de 61 años con antecedentes de diabetes e hipertensión se encuentra hospitalizado por pancreatitis aguda. Recibe abundante hidratación intravenosa. Tres días después, desarrolla hiponatremia con una osmolalidad plasmática de 270 mOsm/kg y osmolalidad urinaria de 500 mOsm/kg. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "El paciente tiene pseudohiponatremia.",
+   "La causa más probable es hipovolemia con pérdida renal de sodio.",
+   "La restricción de líquidos es el tratamiento más apropiado.",
+   "El uso de solución salina hipertónica es imperativo.",
+   "La reposición con solución salina normal es el tratamiento de elección."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El enunciado no dice el estado de volemia del paciente, y eso cambia la causa y el manejo de la hiponatremia (ABSITE p. 408, Sabiston p. 286); el revisor lo supuso. Clave que proponía el revisor: C. Con osmolalidad plasmática baja (270) y osmolalidad urinaria alta (500) hay hiponatremia hipotónica dependiente de ADH. Tras abundante hidratación, el paciente no está hipovolémico, así que el tratamiento es la restricción de líquidos. No es pseudohiponatremia (esa tiene osmolalidad normal). La solución salina normal es para el caso hipovolémico, y la hipertónica solo se usa si hay síntomas graves o hiponatremia aguda.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 408 del PDF (hiponatremia hipotónica con orina concentrada: según volemia)",
+   "Sabiston 21.ª ed., p. 286 del PDF"
+  ],
+  "tema": "liquidos",
+  "nota": "INDIRECTA: la viñeta no declara el estado de volumen; se asume no hipovolémico por la hidratación abundante. Se completó la opción D con el original: 'El uso de solución salina hipertónica es imperativo'."
+ },
+ "5626504547": {
+  "k": "5626504547",
+  "estado": "dudosa",
+  "stem": "Niño de 8 años rescatado de una casa en llamas. Tiene quemaduras de segundo y tercer grado en ambos brazos. Pesa 25 kg. Se asegura la vía aérea y se colocan dos vías IV. ¿Cuánto líquido debe administrarse en las primeras 8 horas?",
+  "opts": [
+   "800 mL",
+   "1,500 mL en 16 h",
+   "1,500 mL en 8 h",
+   "4,000 mL en 8 h",
+   "8,500 mL en 8 h"
+  ],
+  "ans": null,
+  "why": "Parkland (Sabiston p. 516 y ABSITE p. 261) da 4 mL/kg por % de superficie quemada en 24 h, la mitad en las primeras 8 h. Con ambos brazos (18% por regla de los nueves, 19% por Berkow en 5-9 años) saldrían unos 900-950 mL en 8 h, que no coincide con ninguna opción. Para niños el Sabiston menciona la fórmula de Galveston, que exige el área corporal en m2 y no está en los datos. La clave original (1,500 mL en 8 h) no sale de ninguna fórmula del libro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF (tabla 20.2 y texto)",
+   "Sabiston 21.ª ed., p. 512 del PDF (tabla de Berkow)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 261 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: C (1,500 mL en 8 h, resaltado). No se pudo reproducir con las fórmulas de los libros."
+ },
+ "12c5ca3aac": {
+  "k": "12c5ca3aac",
+  "estado": "dudosa",
+  "stem": "Un niño de 5 años sufrió quemaduras por escaldadura al volcar accidentalmente una olla de agua hirviendo. Tiene quemaduras de segundo grado en el tronco anterior y en la cara anterior del brazo derecho. ¿Cuál es la superficie corporal quemada estimada (SCQ)?",
+  "opts": [
+   "9%",
+   "13.5%",
+   "18%",
+   "22.5%",
+   "27%"
+  ],
+  "ans": null,
+  "why": "Con la regla de los nueves del adulto (tronco anterior 18% + cara anterior del brazo 4.5%) sale 22.5%, que es la clave original. Pero el Sabiston dice que la regla de los nueves es para adultos y que en niños se usa la tabla de Berkow: para 5-9 años, tronco anterior 13% y brazo completo 9.5%, o sea cerca de 17.75% (unos 18%) con la cara anterior del brazo. Según el método salen dos valores distintos y el enunciado no dice cuál emplear.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 511 del PDF (regla de los nueves; niños)",
+   "Sabiston 21.ª ed., p. 512 del PDF (tabla de Berkow)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (22.5%, resaltado). El cálculo de 18% asume que la cara anterior del brazo es la mitad de 9.5%."
+ },
+ "fa1bd424b4": {
+  "k": "fa1bd424b4",
+  "estado": "confirmada",
+  "stem": "Un paciente con quemaduras por incendio presenta náuseas, vómitos y confusión. Su nivel de carboxihemoglobina es del 35%. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Oxígeno a bajo flujo por cánula",
+   "Intubación y ventilación con aire ambiente",
+   "Oxígeno al 100% por mascarilla con reservorio",
+   "Corticoides sistémicos",
+   "Inhibidores de la bomba de protones"
+  ],
+  "ans": 2,
+  "why": "En la intoxicación por monóxido de carbono el tratamiento inicial es oxígeno al 100%, que reduce la semivida de la carboxihemoglobina de unas 4 h (aire ambiente) a 1 h; con 35% hay síntomas neurológicos. Por eso no sirven el oxígeno a bajo flujo ni la ventilación con aire ambiente. Los corticoides y los inhibidores de bomba de protones no tratan la intoxicación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 518 del PDF"
+  ],
+  "tema": "quemados",
+  "nota": "El libro dice 'oxígeno al 100%'; la mascarilla con reservorio es la forma de entregarlo entre las opciones. Los corticoides y los IBP no aparecen en la fuente: se descartan por no ser tratamiento descrito (INDIRECTA para esas dos)."
+ },
+ "ba005d077b": {
+  "k": "ba005d077b",
+  "estado": "confirmada",
+  "stem": "Un paciente quemado tiene 30% de superficie corporal total quemada y orina <0.3 mL/kg/h a pesar de líquidos adecuados. La TA está estable. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Agregar dopamina a dosis baja",
+   "Aumentar la tasa de líquidos IV",
+   "Administrar furosemida",
+   "Colocar catéter de Swan-Ganz",
+   "Medir osmolaridad urinaria"
+  ],
+  "ans": 1,
+  "why": "En el quemado el objetivo de la reanimación es una diuresis adecuada (0,5 ml/kg/h en adultos) y la velocidad de líquidos se ajusta cada hora según esa respuesta. Con diuresis <0,3 ml/kg/h y TA estable, lo indicado es aumentar la tasa de líquidos IV. La oliguria del quemado se debe a la caída del volumen intravascular, no a falta de diurético o de inotrópico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF (ajuste horario de la infusión según diuresis; objetivo 0,5 ml/kg/h)",
+   "Sabiston 21.ª ed., p. 512 del PDF (la oliguria por hipovolemia y hormonas de estrés)",
+   "de Virgilio ABSITE 3.ª ed., p. 244 del PDF (primer paso en la oliguria: reto de líquidos)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: los libros respaldan directamente 'aumentar líquidos'; las otras opciones (dopamina, furosemida, Swan-Ganz, osmolaridad urinaria) no se citan en el libro para este escenario y se descartan por no ser el primer paso."
+ },
+ "1e186f27cc": {
+  "k": "1e186f27cc",
+  "estado": "dudosa",
+  "stem": "Un hombre de 50 años con quemaduras extensas desarrolla confusión, fiebre, leucocitosis y secreciones purulentas en el sitio de las quemaduras. Cultivos positivos para Pseudomonas aeruginosa. ¿Cuál es el antibiótico de elección inicial?",
+  "opts": [
+   "Vancomicina",
+   "Linezolid",
+   "Cefepime",
+   "Piperacilina-tazobactam",
+   "Aztreonam"
+  ],
+  "ans": null,
+  "why": "El enunciado original venía cortado: se trata de un hombre de 50 años con quemaduras extensas, confusión, fiebre, leucocitosis, secreción purulenta y cultivo positivo para Pseudomonas aeruginosa. Cefepime, piperacilina-tazobactam y aztreonam tienen actividad antipseudomonas; vancomicina y linezolid no. Sabiston solo indica que S. aureus, Pseudomonas y Klebsiella prevalecen en las heridas por quemadura y no da un antibiótico de primera elección entre los tres betalactámicos, por lo que ninguna fuente decide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 520 del PDF (organismos prevalentes en quemaduras: S. aureus, Pseudomonas, Klebsiella)",
+   "Sabiston 21.ª ed., p. 518 del PDF (neumonía en quemados: cobertura de MRSA y gramnegativos, especialmente Pseudomonas)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (piperacilina-tazobactam, resaltado). Es defendible, pero cefepime y aztreonam también cubren Pseudomonas y ninguna fuente de la carpeta elige uno."
+ },
+ "34ccf2544f": {
+  "k": "34ccf2544f",
+  "estado": "confirmada",
+  "stem": "Un paciente quemado presenta hiponatremia, hiperkalemia, náuseas, debilidad y presión baja persistente pese a líquidos. ¿Qué condición subyacente se debe sospechar?",
+  "opts": [
+   "Insuficiencia renal aguda",
+   "Síndrome de secreción inadecuada de ADH (SIADH)",
+   "Síndrome de Cushing",
+   "Insuficiencia suprarrenal",
+   "Síndrome compartimental"
+  ],
+  "ans": 3,
+  "why": "La hiponatremia con hiperkalemia, náuseas, debilidad e hipotensión persistente pese a líquidos es el cuadro de insuficiencia suprarrenal, que puede confundirse con shock séptico. Sabiston señala que en el paciente crítico (incluidas las quemaduras) la insuficiencia de corticoides produce hipotensión que no responde a líquidos ni vasopresores. SIADH no da hiperkalemia ni hipotensión; el Cushing cursa con hipokalemia y alcalosis; la insuficiencia renal o el síndrome compartimental no explican este patrón hormonal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 221-222 del PDF (insuficiencia suprarrenal: fiebre, náuseas, hipotensión, hiponatremia, hiperkalemia; se confunde con shock séptico)",
+   "de Virgilio ABSITE 3.ª ed., p. 418 del PDF (hiponatremia, hiperkalemia y acidosis leve en insuficiencia suprarrenal)",
+   "Sabiston 21.ª ed., p. 565 del PDF (insuficiencia suprarrenal del crítico por quemaduras: hipotensión que no responde a líquidos)"
+  ],
+  "tema": "quemados"
+ },
+ "df3f6d2da6": {
+  "k": "df3f6d2da6",
+  "estado": "dudosa",
+  "stem": "Un paciente con quemaduras en 40% de la superficie corporal está en el día 10 de hospitalización. De repente presenta taquicardia, fiebre, confusión y disminución del gasto urinario. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Deshidratación",
+   "Sepsis",
+   "Necrosis tubular aguda",
+   "Hiperglucemia hiperosmolar",
+   "Hiponatremia aguda"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 522-523 respalda la sepsis como complicación dominante, pero no describe este cuadro; las otras opciones se descartaron por la clínica, sin fuente. Clave que proponía el revisor: B. Con quemaduras extensas, la sepsis (herida y árbol traqueobronquial como fuentes principales) pasó a ser la causa principal de muerte tardía. Fiebre, taquicardia, confusión y disminución de diuresis en el día 10 indican sepsis con disfunción orgánica. Sabiston añade que la trombocitopenia es uno de los signos más fiables de sepsis en el quemado. La deshidratación, la hiperglucemia hiperosmolar o la hiponatremia aguda no producen fiebre con confusión, y la necrosis tubular aguda no explica la fiebre.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 522-523 del PDF (sepsis y fallo multiorgánico como causa principal de muerte; fuentes: herida y tráquea)",
+   "Sabiston 21.ª ed., p. 523 del PDF (insuficiencia renal en los días 2-14; el síndrome inflamatorio sistémico puede evolucionar a insuficiencia orgánica)",
+   "Greenhalgh DG et al. ABA consensus conference to define sepsis and infection in burns. J Burn Care Res 2007 (PMID 17925660): los quemados ya tienen SIRS por definición"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: el libro respalda sepsis como complicación dominante a esta altura, pero no describe este escenario exacto; las demás opciones se descartan por la clínica."
+ },
+ "94594697fe": {
+  "k": "94594697fe",
+  "estado": "corregida",
+  "stem": "¿Cuál es la velocidad adecuada de líquidos para un paciente de 80 kg con 60% SCQ según Brooke modificada (primeras 8 h)?",
+  "opts": [
+   "100 ml/h",
+   "500 ml/h",
+   "600 ml/h",
+   "1200 ml/h",
+   "9600 ml/h"
+  ],
+  "ans": 2,
+  "why": "La fórmula de Brooke da 2 ml/kg por cada % de superficie quemada en 24 h: 2 x 80 x 60 = 9600 ml. La mitad (4800 ml) va en las primeras 8 h, o sea 600 ml/h. El 1200 ml/h resulta de la fórmula de Parkland (4 ml/kg/%: 19200 ml en 24 h, 9600 ml en 8 h) y 9600 ml es el total de 24 h con Brooke, no la velocidad.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 516 del PDF, tabla 20.2 (Brooke 2 cc/kg/% de ASCT; Parkland 4 cc/kg/%) y texto (la mitad en las primeras 8 h)",
+   "Sabiston 21.ª ed., p. 515 del PDF (velocidad inicial en adultos: %ASCT x 10 = 600 ml/h)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (1200 ml/h), que corresponde a Parkland y no a Brooke modificada. Con la regla rápida de Sabiston (60 x 10) también sale 600 ml/h."
+ },
+ "0ca216a601": {
+  "k": "0ca216a601",
+  "estado": "confirmada",
+  "stem": "Varón de 18 años con contacto con electricidad de alto voltaje. ¿Qué patrón de lesión esperas?",
+  "opts": [
+   "Hollín en cara",
+   "Salpicadura en tórax",
+   "Quemaduras en mano izquierda y talones bilaterales",
+   "Patrón en medias bilateral",
+   "NA"
+  ],
+  "ans": 2,
+  "why": "La lesión de alto voltaje tiene quemaduras cutáneas en los puntos de entrada y salida con destrucción profunda oculta. Mano izquierda (entrada) y talones bilaterales (salida a tierra) es el patrón de entrada y salida. El hollín en la cara indica inhalación de humo; el patrón en medias es de escaldadura por inmersión, y la salpicadura corresponde a otro mecanismo (arco o líquidos), no a conducción por la corriente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF (síndrome de alto voltaje: quemaduras en puntos de entrada y salida; la corriente sale por un área conectada a tierra)",
+   "Sabiston 21.ª ed., p. 517 del PDF (esputo carbonáceo y hollín en la inhalación de humo)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: el libro respalda el patrón entrada-salida (opción C); el patrón 'en medias' y la 'salpicadura' no se describen en las fuentes de la carpeta y se descartan por no corresponder a conducción eléctrica."
+ },
+ "25ccfd8368": {
+  "k": "25ccfd8368",
+  "estado": "dudosa",
+  "stem": "Hombre de 22 años con lesión por corriente eléctrica, herida en región temporal, extremidad firme, dedos del pie ausentes. ¿Cuál afirmación es correcta?",
+  "opts": [
+   "Mantener gasto urinario de 0.5 mL/kg/h en adultos",
+   "Signos de síndrome compartimental requieren escarotomía urgente",
+   "Déficits neurológicos tardíos tienen mejor pronóstico",
+   "La orina rojiza se estudia con TAC abdominal",
+   "La descompresión fascial temprana preserva función."
+  ],
+  "ans": null,
+  "why": "Escenario de corriente de alto voltaje con extremidad firme (síndrome compartimental). Sabiston dice que en la lesión eléctrica puede estar indicada de inmediato la escarotomía y la fasciotomía (opción B), y que el compartimento muy necrótico puede requerir amputación. La opción E (descompresión fascial temprana preserva la función) es clínicamente razonable, pero ninguna fuente de la carpeta la afirma, y escarotomía sola libera la escara, no la fascia. A (0,5 ml/kg/h) es la meta del quemado común, y la orina rojiza (D) se evalúa con CK y mioglobina, no con TAC. C es falsa: Sabiston llama 'devastadores' a los déficits neurológicos tardíos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 525 del PDF (escarotomía y fasciotomía inmediatas ante compromiso vascular; amputación si el músculo está necrótico)",
+   "Sabiston 21.ª ed., p. 526 del PDF (hemocromógenos: bicarbonato, manitol, más líquidos; déficits neurológicos tardíos y cataratas)",
+   "de Virgilio ABSITE 3.ª ed., p. 263 del PDF (orina roja = rabdomiólisis, se pide CK; mantener diuresis alta)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: B (resaltado). B está respaldada por Sabiston, pero E también es defendible y las fuentes no permiten elegir entre ambas."
+ },
+ "23e75fb5cf": {
+  "k": "23e75fb5cf",
+  "estado": "confirmada",
+  "stem": "Varón de 80 kg con 30% de SCQ. ¿Cuántas kcal necesita por día?",
+  "opts": [
+   "3825 kcal",
+   "N.A",
+   "3200 kcal",
+   "2400 kcal",
+   "2675 kcal"
+  ],
+  "ans": 2,
+  "why": "Con la fórmula de Curreri (25 kcal/kg/día más 40 kcal por cada % de ASCT quemada): 25 x 80 + 40 x 30 = 2000 + 1200 = 3200 kcal/día. Las otras cifras no salen de esta fórmula; las alternativas (Harris-Benedict x 2) necesitan edad y talla, que el enunciado no da.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 524 del PDF (fórmula de Curreri: 25 kcal/kg/día + 40 kcal por % de ASCT quemada)"
+  ],
+  "tema": "quemados"
+ },
+ "3d7244a227": {
+  "k": "3d7244a227",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es correcto sobre la lesión por inhalación en quemaduras?",
+  "opts": [
+   "Comienza en tráquea distal",
+   "Siempre se acompaña de quemaduras faciales",
+   "Solo se diagnostica por broncoscopia",
+   "Puede causar obstrucción por edema en vía aérea superior",
+   "El tratamiento siempre incluye traqueotomía"
+  ],
+  "ans": 3,
+  "why": "El edema de la vía aérea superior, que se suma al edema generalizado del quemado, puede obstruir la vía aérea durante horas; por eso se intuba temprano. Las otras opciones son falsas: el calor se disipa en la vía aérea superior y el daño es sobre todo químico en vías grandes, no empieza en la tráquea distal; los hallazgos como quemaduras faciales solo 'pueden asociarse' y tienen baja sensibilidad; el diagnóstico se apoya en la historia, los signos clínicos y la broncoscopia, no solo en esta; y la traqueostomía temprana no mostró ventajas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514 del PDF (el edema puede obstruir la vía aérea durante horas; intubar temprano)",
+   "Sabiston 21.ª ed., p. 517 del PDF (daño sobre todo químico; el calor se dispersa en vías altas; baja sensibilidad de hallazgos aislados)",
+   "Sabiston 21.ª ed., p. 524 del PDF (traqueostomía temprana sin ventajas)"
+  ],
+  "tema": "quemados"
+ },
+ "21f8de1fcd": {
+  "k": "21f8de1fcd",
+  "estado": "confirmada",
+  "stem": "Paciente quemado llevado a curación bajo anestesia. ¿Qué relajante debe evitarse por hiperpotasemia?",
+  "opts": [
+   "Succinilcolina",
+   "Ketamina",
+   "Vecuronio",
+   "N.A",
+   "Propofol"
+  ],
+  "ans": 0,
+  "why": "La succinilcolina puede causar hiperpotasemia grave con riesgo vital en pacientes con quemaduras, paraplejía, cuadriplejía y traumatismo masivo. Por eso se evita en la curación bajo anestesia. Ketamina y propofol son inductores, y el vecuronio es un relajante no despolarizante que no provoca este efecto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 343 del PDF (efectos de la succinilcolina: hiperpotasemia grave en quemados)",
+   "de Virgilio ABSITE 3.ª ed., p. 394 del PDF (tabla de relajantes: succinilcolina despolarizante; vecuronio no despolarizante)"
+  ],
+  "tema": "quemados"
+ },
+ "9392e6051a": {
+  "k": "9392e6051a",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el microorganismo que se encuentra con mayor frecuencia en las infecciones de heridas por quemaduras?",
+  "opts": [
+   "Estreptococos hemolíticos",
+   "Clostridium tetani",
+   "Escherichia coli",
+   "Pseudomonas aeruginosa",
+   "Clostridium perfringens"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 518 y 520 nombra a Pseudomonas entre los gérmenes prevalentes en quemados, junto con S. aureus y Klebsiella, pero no dice cuál es el más frecuente. Clave que proponía el revisor: D. Sabiston cita a S. aureus, Pseudomonas y Klebsiella como los organismos prevalentes en las heridas por quemadura, y a Pseudomonas y Klebsiella como los que dominan después de 5-7 días en la flora de la herida. De las opciones, solo Pseudomonas aeruginosa aparece en esa lista; Clostridium, E. coli y estreptococos hemolíticos no se mencionan como comunes en quemaduras.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 520 del PDF (organismos prevalentes en heridas por quemadura: S. aureus, Pseudomonas, Klebsiella)",
+   "Sabiston 21.ª ed., p. 518 del PDF (flora cambiante de la herida: Pseudomonas y Klebsiella)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: ningún libro de la carpeta dice textualmente 'el más frecuente'; la epidemiología varía según el centro (S. aureus también es muy frecuente, pero no está entre las opciones)."
+ },
+ "91bda1e02a": {
+  "k": "91bda1e02a",
+  "estado": "corregida",
+  "stem": "El tipo de quemadura más común es:",
+  "opts": [
+   "Quemadura por contacto",
+   "Quemadura por llama",
+   "Quemadura por destello",
+   "Quemadura escaldada accidental",
+   "Quemadura escaldada deliberada"
+  ],
+  "ans": 1,
+  "why": "En EE. UU. alrededor del 41% de las quemaduras se deben a fuego y llamas, el 33% a escaldadura, el 9% a contacto, el 3% a químicas y el 3% a eléctricas. Por tanto, la más común es la quemadura por llama. La escaldadura predomina solo en niños pequeños (cerca del 60% en los que dan sus primeros pasos).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 508 del PDF (41% llama, 33% escaldadura, 9% contacto)",
+   "Sabiston 21.ª ed., p. 509 del PDF (niños pequeños: escaldadura en el 60%)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (escaldadura accidental, resaltado). Si el examen se refería a niños, la escaldadura sería la más común, pero el enunciado no lo dice; para la población general, Sabiston respalda llama."
+ },
+ "808125ca48": {
+  "k": "808125ca48",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes lesiones por quemadura requieren derivación a un centro especializado en quemados, EXCEPTO:",
+  "opts": [
+   "Quemadura de segundo grado del 15% de la superficie corporal total (SCT) en el tórax de un hombre de 30 años",
+   "Quemadura de segundo grado del 5% de SCT en la cara de un hombre de 40 años",
+   "Quemadura de segundo grado del 3% de SCT en la mano de una mujer de 25 años",
+   "Quemadura de espesor total (tercer grado) del 8% en la espalda de un hombre de 50 años",
+   "Quemadura de espesor total del 4% de SCT en la rodilla de una mujer de 30 años"
+  ],
+  "ans": null,
+  "why": "Hay dos criterios distintos en los libros. De Virgilio (criterios antiguos ACS/ABA): derivar quemaduras de 2.º o 3.º grado >20% de ASCT entre 10 y 50 años; así la opción A (15%, 30 años) sería la excepción. Sabiston 21.ª ed. (ABA actual): derivar toda quemadura de espesor parcial >10% de ASCT, las de cara, manos, pies, genitales, periné o articulaciones, y cualquier espesor total; con este criterio A sí requiere derivación y todas las opciones (B cara, C mano, D y E espesor total) también, de modo que ninguna sería la excepción.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 262 del PDF (derivar: >20% ASCT entre 10 y 50 años; cualquier mano, cara, pie; >5% de 3.er grado)",
+   "Sabiston 21.ª ed., p. 509 del PDF (derivar: espesor parcial >10% ASCT; cara, manos, pies, articulaciones; cualquier espesor total)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: A (resaltado), válida solo con el criterio antiguo (>20%). Con el criterio vigente de Sabiston no hay ninguna opción excepción."
+ },
+ "5fe4d61020": {
+  "k": "5fe4d61020",
+  "estado": "dudosa",
+  "stem": "En un paciente con quemadura y sospecha de inhalación de humo, un umbral útil para la intubación endotraqueal es una relación PaO₂/FiO₂ menor de:",
+  "opts": [
+   "400",
+   "350",
+   "300",
+   "250",
+   "150"
+  ],
+  "ans": null,
+  "why": "Ninguno de los libros de la carpeta da un umbral de PaO2/FiO2 para intubar en la inhalación de humo. Sabiston indica intubar ante saturación <92%, hipercapnia o taquipnea creciente. Una revisión de 2025 sitúa la ventilación mecánica ante PaO2/FiO2 <200, no <250. Sin fuente que respalde 250, no se puede confirmar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 523 del PDF (insuficiencia pulmonar: saturación <92%, aumento de frecuencia respiratoria e hipercapnia indican intubación)",
+   "Comprehensive review of airway burns. J Med Life 2025 (PMC12207697): ventilación mecánica con PaO2 <65, PaCO2 >50 o PaO2/FiO2 <200"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (250, resaltado). No se encontró respaldo en las fuentes permitidas."
+ },
+ "b2f23062e4": {
+  "k": "b2f23062e4",
+  "estado": "dudosa",
+  "stem": "El porcentaje de superficie corporal quemada a partir del cual se liberan citocinas proinflamatorias que desencadenan una respuesta inflamatoria sistémica es:",
+  "opts": [
+   "5%",
+   "10%",
+   "20%",
+   "30%",
+   "40%"
+  ],
+  "ans": null,
+  "why": "Sabiston no fija un porcentaje de ASCT para el inicio de la respuesta inflamatoria sistémica; solo dice que con quemaduras >20% el deterioro inmunitario es proporcional al tamaño y que las quemaduras graves inducen inflamación masiva. Las revisiones recientes usan umbrales de gravedad que varían entre >20% y >40%. Ninguna fuente respalda 30% de forma específica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 512 del PDF (con quemaduras >20% el deterioro inmunitario es proporcional al tamaño)",
+   "Variation of pro- and anti-inflammatory factors in severe burns: systematic review. 2025 (PMC12562903): umbrales de quemadura grave entre >20% y >40%"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (30%, resaltado). Es el dato habitual de algunos textos, pero no se pudo confirmar con las fuentes permitidas."
+ },
+ "86f54238a6": {
+  "k": "86f54238a6",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes opciones es apropiada en el manejo de las quemaduras?",
+  "opts": [
+   "Agua helada para una quemadura en la mano",
+   "Colocación rutinaria de línea central para una quemadura del 20% de SCT",
+   "Vía intravenosa en la ingle en paciente con quemaduras de espesor total en ambos brazos",
+   "Colocar líneas en fosa antecubital a través del esfacelo en paciente con quemaduras de espesor total del 40% en piernas y brazos",
+   "Morfina intramuscular para control del dolor"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Sabiston pp. 515 y 523 respalda usar venas periféricas aun a través de tejido quemado, pero la opción de vía en la ingle se descartó sin fuente. Clave que proponía el revisor: D. Sabiston indica que el acceso venoso del quemado se logra mejor con catéteres periféricos cortos en piel no quemada, pero que se pueden usar venas en piel quemada y que cuando es posible se usen venas periféricas a través incluso de tejido quemado, mejor que no tener acceso. En un paciente con 40% de espesor total en piernas y brazos, colocar líneas en la fosa antecubital a través del esfacelo es aceptable. El agua helada no se recomienda (agua a temperatura ambiente las primeras 3 h y evitar más enfriamiento); la línea central no es rutinaria; y la morfina intramuscular está contraindicada por la absorción errática, se usa IV en dosis pequeñas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 515 del PDF (periféricos cortos, venas de piel quemada mejor que ausencia de acceso; morfina IV, nunca IM)",
+   "Sabiston 21.ª ed., p. 523 del PDF (usar venas periféricas incluso a través de tejido quemado; evitar safena)",
+   "Sabiston 21.ª ed., p. 514 del PDF (agua a temperatura ambiente en las primeras 3 h; evitar enfriar más)"
+  ],
+  "tema": "quemados",
+  "nota": "INDIRECTA: la opción C (vía en la ingle) no se menciona en los libros; se descarta porque Sabiston prefiere periféricos cortos y desaconseja la safena. El libro respalda D de forma explícita."
+ },
+ "2f3ace7d1b": {
+  "k": "2f3ace7d1b",
+  "estado": "dudosa",
+  "stem": "Quemaduras de segundo grado que comprometen toda la cabeza y cuello, y quemaduras de tercer grado que comprometen toda la espalda y la mitad del tórax, se considerarían:",
+  "opts": [
+   "12% de SCT",
+   "18% de SCT",
+   "27% de SCT",
+   "36% de SCT",
+   "45% de SCT"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): La clave depende de interpretar \"mitad del tórax\" como 9 % con la regla de los nueves (ABSITE p. 261); el enunciado es ambiguo. Clave que proponía el revisor: D. Solo se cuentan las quemaduras de segundo y tercer grado. En el adulto (regla de los nueve): cabeza y cuello 9%, tronco posterior 18% y tronco anterior 18%. Cabeza y cuello (9%) + espalda completa (18%) + la mitad del tórax anterior (9%) = 36%. Las otras opciones no suman esa cantidad.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 261 del PDF (explicación 8: regla de los nueve del adulto)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (resaltado). Se interpreta 'la mitad del tórax' como la mitad del tronco anterior (9%); es la única lectura que da una de las opciones."
+ },
+ "71f300ac91": {
+  "k": "71f300ac91",
+  "estado": "dudosa",
+  "stem": "El porcentaje de superficie corporal quemada asociado con una tasa de mortalidad del 50% es:",
+  "opts": [
+   "40%",
+   "50%",
+   "60%",
+   "70%",
+   "80%"
+  ],
+  "ans": null,
+  "why": "Sabiston da una DL50 (mortalidad 50%) de 55% de ASCT para toda la población adulta de EE. UU. y valores que cambian con la edad (por ejemplo 85% en 0-14 años, 66% en 15-44, 46% en 45-64, 23% en mayores de 65 en datos recientes). Ninguna opción es 55% y el enunciado no dice la edad, así que no se puede elegir 80% (clave original) ni otra con respaldo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 509 del PDF (DL50 y puntuación de Baux)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: E (80%, resaltado). Sin edad en el enunciado y con la cifra del libro (55%) fuera de las opciones."
+ },
+ "bc66e4a8ca": {
+  "k": "bc66e4a8ca",
+  "estado": "dudosa",
+  "stem": "Los requerimientos de líquidos en niños con quemaduras son:",
+  "opts": [
+   "2 mL/kg por % de SCT",
+   "3 mL/kg por % de SCT",
+   "4 mL/kg por % de SCT",
+   "5 mL/kg por % de SCT",
+   "6 mL/kg por % de SCT"
+  ],
+  "ans": null,
+  "why": "El ABSITE dice que en niños 'algunos usan' una fórmula de Parkland modificada con 6 mL/kg por % de ASCT (la clave original), pero el mismo texto da 4 mL/kg para la fórmula estándar. Sabiston para niños usa la fórmula de Galveston (5.000 mL/m2 quemado + 1.500 mL/m2 de ASCT total), no 6 mL/kg. Una revisión indexada de reanimación en quemados indica 2-4 mL/kg por % de ASCT. Las fuentes no coinciden, así que no hay una única respuesta respaldada.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 261 del PDF (explicación 8)",
+   "Sabiston 21.ª ed., p. 516 del PDF (tabla 20.2, Galveston pediátrica)",
+   "Burn resuscitation, Scand J Trauma Resusc Emerg Med 2011 (PMC3226577, Europe PMC)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: E (6 mL/kg, resaltado), que coincide con el ABSITE (modificación 'que algunos usan'). Sabiston y la revisión no la respaldan."
+ },
+ "5f1e242c73": {
+  "k": "5f1e242c73",
+  "estado": "confirmada",
+  "stem": "En pacientes con quemaduras extensas, ¿cuál de las siguientes infusiones intravenosas ha demostrado reducir el volumen de resucitación y el edema?",
+  "opts": [
+   "Vitamina C",
+   "Albúmina al 5%",
+   "Vitamina A",
+   "Corticoides",
+   "Vitamina B6"
+  ],
+  "ans": 0,
+  "why": "Sabiston indica que con vitamina C en dosis altas inmediatamente tras la quemadura se observa menos líquido de reanimación, atribuido a su efecto antiinflamatorio. La albúmina al 5% sigue en estudio y no se muestra que reduzca el volumen (Baxter y Shires: no usar coloides en las primeras 24 h). Los corticoides, la vitamina A y la B6 no tienen respaldo en el capítulo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 512 del PDF (efecto de vitamina C en el volumen de reanimación)",
+   "Sabiston 21.ª ed., p. 515 del PDF (coloides en las primeras 24 h)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: A (vitamina C). Sabiston añade que este hallazgo se ha puesto en duda recientemente (posible efecto diurético osmótico de las dosis altas). Es la opción mejor respaldada."
+ },
+ "c89fc46553": {
+  "k": "c89fc46553",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la resucitación con líquidos en víctimas de quemaduras?",
+  "opts": [
+   "Debe evitarse el uso de solución salina normal.",
+   "Debe usarse solución salina hipertónica en quemaduras graves para reducir edema.",
+   "El dextrano es útil para prevenir la pérdida de proteínas del tejido quemado.",
+   "El uso de albúmina se asocia con mayor mortalidad.",
+   "El síndrome compartimental abdominal por sobre-resucitación no parece ocurrir."
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): Ninguna fuente dice que haya que evitar la solución salina normal en el quemado; el respaldo de las otras opciones es general de reanimación. Clave que proponía el revisor: A. El líquido de elección es lactato de Ringer; con grandes volúmenes de solución salina normal aparece acidosis metabólica hiperclorémica (ABSITE), por eso se evita la salina normal. Sabiston no recomienda el uso extenso de salina hipertónica (sin diferencias de volumen y más insuficiencia renal en algunos estudios). No hay indicios de que un coloide (albúmina, dextrano) sea superior ni peor que los cristaloides. El síndrome compartimental abdominal sí ocurre con la sobre-reanimación con cristaloides.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 261 del PDF (explicación 8: lactato de Ringer; salina normal e hiperclorémica)",
+   "Sabiston 21.ª ed., p. 516 del PDF (salina hipertónica en quemados)",
+   "Sabiston 21.ª ed., p. 99 del PDF (coloides: albúmina, dextrano)",
+   "Sabiston 21.ª ed., p. 93 del PDF (síndrome compartimental abdominal por volumen de cristaloide)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: A (resaltado). 'Debe evitarse' es una forma fuerte de decirlo; es la opción menos errónea. INDIRECTA: ninguna fuente dice literalmente 'evitar la salina normal en quemados', y el respaldo de B-E es general de reanimación, no específico de quemados."
+ },
+ "06f7082125": {
+  "k": "06f7082125",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto al envenenamiento por monóxido de carbono (CO)?",
+  "opts": [
+   "El CO desplaza la curva de disociación de oxígeno-hemoglobina hacia la derecha.",
+   "El CO se une irreversiblemente a la hemoglobina.",
+   "La oximetría de pulso es una medida precisa de la saturación de oxígeno tras una intoxicación por CO.",
+   "El CO tiene 200 veces más afinidad por la hemoglobina que el oxígeno.",
+   "La oxigenoterapia hiperbárica debe iniciarse inmediatamente al diagnosticar envenenamiento por CO en pacientes quemados."
+  ],
+  "ans": 3,
+  "why": "El CO se une a la hemoglobina con una afinidad de unas 200 veces la del oxígeno (D correcta). El CO desplaza la curva de disociación hacia la izquierda, no la derecha (A). Su efecto es reversible: con oxígeno al 100% la semivida de la carboxihemoglobina baja de 4 h a 1 h (B). La intoxicación se mide con la carboxihemoglobina, y la saturación del oxígeno-hemoglobina no refleja bien la carga de CO (C). El oxígeno hiperbárico se considera solo en situaciones extremas, no de inmediato (E).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 517 del PDF (afinidad 200 veces, desplazamiento a la izquierda)",
+   "Sabiston 21.ª ed., p. 518 del PDF (semivida de la carboxihemoglobina, hiperbárico en situaciones extremas)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D. Texto reparado con el original: la opción B dice 'El CO se une irreversiblemente a la hemoglobina.' INDIRECTA solo para C (el libro dice que la intoxicación se mide por carboxihemoglobina, pero no menciona la oximetría de pulso)."
+ },
+ "d29420b78a": {
+  "k": "d29420b78a",
+  "estado": "confirmada",
+  "stem": "Según la fórmula de Parkland, la cantidad de líquidos cristaloides que se deben administrar en las primeras 8 horas a un hombre de 70 kg con quemadura de segundo grado del 50% de SCT y quemadura de tercer grado del 20% de SCT es:",
+  "opts": [
+   "4900 mL",
+   "5600 mL",
+   "6300 mL",
+   "7350 mL",
+   "9800 mL"
+  ],
+  "ans": 4,
+  "why": "Parkland: 4 mL/kg por % de ASCT quemada en 24 h, la mitad en las primeras 8 h. Para el cálculo cuentan las quemaduras de segundo y tercer grado: 50% + 20% = 70%. 4 x 70 kg x 70 = 19.600 mL en 24 h; la mitad, 9.800 mL en las primeras 8 h.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 261 del PDF (explicación 8: Parkland)",
+   "Sabiston 21.ª ed., p. 516 del PDF (tabla 20.2 y mitad en las primeras 8 h)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: E (9800 mL)."
+ },
+ "38e8c9cffe": {
+  "k": "38e8c9cffe",
+  "estado": "confirmada",
+  "stem": "La principal desventaja del uso tópico acetato de mafenida en el tratamiento quemaduras es:",
+  "opts": [
+   "Incapacidad de penetrar el esfacelo",
+   "Asociado a hiponatremia",
+   "Asociado a metahemoglobinemia",
+   "Asociado a acidosis metabólica",
+   "Ineficaz contra organismos gramnegativos"
+  ],
+  "ans": 3,
+  "why": "El acetato de mafenida inhibe la anhidrasa carbónica y puede causar acidosis metabólica (hiperclorémica) si se aplica en superficies extensas; por eso se reserva para quemaduras de espesor total pequeñas. Sí penetra la escara (A falsa), cubre Pseudomonas y gramnegativos (E falsa). La metahemoglobinemia se asocia al nitrato de plata (C), que también depleta electrolitos (B).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 519 y 520 del PDF (mafenida, tabla 20.5)",
+   "de Virgilio, ABSITE 3.ª ed., p. 262 del PDF (explicación 14)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D."
+ },
+ "11ccb97e05": {
+  "k": "11ccb97e05",
+  "estado": "dudosa",
+  "stem": "Un bombero de 30 años es traído al hospital después de quedar atrapado en un edificio en llamas. Tiene quemaduras en la cara y está tosiendo con esputo carbonáceo. Su saturación de oxígeno es 99% en aire ambiente. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Administrar esteroides intravenosos",
+   "Intubación inmediata",
+   "Escanografía de tórax",
+   "Nebulización con salbutamol",
+   "Oxigenoterapia en alto flujo"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): El enunciado no da disfonía, estridor ni gravedad de la quemadura facial, y Sabiston p. 518 prefiere no ventilar si el paciente tose y la vía aérea es permeable. Clave que proponía el revisor: B. Quemaduras faciales con esputo carbonáceo indican lesión por inhalación. El edema de la vía aérea progresa durante horas y puede ocurrir aunque la saturación sea normal al inicio, por lo que se recomienda intubar de forma temprana antes de que el edema distorsione la anatomía. Los esteroides no benefician la lesión por inhalación, el salbutamol es solo para broncoespasmo y la TC de tórax no asegura la vía aérea.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514-515 del PDF (valoración inicial; intubación temprana)",
+   "Sabiston 21.ª ed., p. 518 del PDF (esteroides y broncodilatadores)",
+   "Smoke Inhalation Injury, Indian J Crit Care Med 2018 (PMC5879861, Europe PMC): bajo umbral para intubar; indicación en quemadura facial moderada-grave"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: B. INDIRECTA: el enunciado no da disfonía ni estridor ni la gravedad de la quemadura facial; Sabiston también dice que quien tose y tiene vía aérea permeable aclara mejor las secreciones sin ventilación si es posible. Se elige intubación por el riesgo de obstrucción progresiva y porque las otras opciones no aseguran la vía aérea ni tienen respaldo."
+ },
+ "e8b3e1f833": {
+  "k": "e8b3e1f833",
+  "estado": "confirmada",
+  "stem": "Una mujer de 30 años fue rescatada de un incendio en su casa. Presenta quemaduras en cara, cuello y parte superior del tórax. Habla con voz ronca, tose y tiene esputo carbonáceo. ¿Cuál es el principal motivo para asegurar su vía aérea ahora?",
+  "opts": [
+   "Prevención de neumonía por aspiración",
+   "Sospecha de lesión esofágica",
+   "Prevención de obstrucción progresiva de la vía aérea",
+   "Inhalación de monóxido de carbono",
+   "Necesidad de sedación prolongada"
+  ],
+  "ans": 2,
+  "why": "Tras una lesión por inhalación el edema de la vía aérea superior, sumado al edema generalizado de la quemadura, puede obstruirla durante horas; la ronquera es signo de obstrucción inminente y se intuba temprano antes de que el edema distorsione la anatomía. El motivo principal es prevenir esa obstrucción progresiva, no la aspiración, la lesión esofágica, el CO (que se trata con oxígeno al 100%) ni la sedación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514-515 del PDF (obstrucción de la vía aérea por edema; ronquera; intubación temprana)",
+   "Sabiston 21.ª ed., p. 518 del PDF (oxígeno al 100% en intoxicación por CO)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: C."
+ },
+ "6ec2cd2001": {
+  "k": "6ec2cd2001",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años con enfermedad pulmonar obstructiva crónica (EPOC) sufre quemaduras en cara, cuello y tórax. En el hospital está alerta pero presenta disfonía, estridor y dificultad respiratoria progresiva. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Broncodilatadores inhalados",
+   "Oxígeno al 100%",
+   "Intubación endotraqueal",
+   "Broncoscopia diagnóstica",
+   "Observación en UCI"
+  ],
+  "ans": 2,
+  "why": "Disfonía, estridor y dificultad respiratoria progresiva tras quemaduras de cara y cuello indican obstrucción inminente de la vía aérea por edema. Sabiston indica instituir la intubación endotraqueal de forma temprana antes de que el edema distorsione la anatomía. Broncodilatadores, oxígeno solo, broncoscopia diagnóstica u observación retrasan asegurar la vía aérea.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514-515 del PDF (ronquera progresiva, signo de obstrucción inminente; intubar de forma temprana)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: C."
+ },
+ "309d81365a": {
+  "k": "309d81365a",
+  "estado": "confirmada",
+  "stem": "Un policía de 40 años es traído al servicio de urgencias tras sufrir quemaduras al rescatar a una mujer de un almacén en llamas. Su temperatura es de 99.8 °F, presión arterial de 100/70 mmHg, pulso de 95/min y frecuencia respiratoria de 24/min. En el examen físico, presenta quemaduras de espesor parcial profundo y total en el 40 % de la superficie corporal, incluyendo cara, brazos y espalda, así como una quemadura circunferencial en el cuello. Tiene vellos nasales chamuscados y esputo carbonáceo. Los pulmones están claros en la auscultación bilateral. El ECG muestra contracciones ventriculares prematuras. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Antibióticos de amplio espectro",
+   "Intubación endotraqueal",
+   "Reanimación con líquidos intravenosos",
+   "Enzimas cardíacas y ECG seriado",
+   "Broncoscopia"
+  ],
+  "ans": 1,
+  "why": "Tiene quemaduras de espesor parcial profundo y total en el 40% de la superficie, quemadura circunferencial del cuello, vello nasal chamuscado y esputo carbonáceo. Sabiston indica que los pacientes con quemaduras de más del 40% de ASCT deben ser intubados de forma profiláctica y que estos signos indican lesión de la vía aérea; la vía aérea va antes que los líquidos. Los pulmones claros no la descartan porque el edema aparece al reanimar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 514-515 del PDF (intubación profiláctica en quemaduras de más del 40% de ASCT)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: B. El 'más del 40%' del libro: aquí el enunciado dice 40%, y los signos de inhalación y la quemadura del cuello refuerzan la indicación."
+ },
+ "feeb95d832": {
+  "k": "feeb95d832",
+  "estado": "dudosa",
+  "stem": "Los pacientes quemados están en riesgo de múltiples infecciones. ¿Cuál es el microorganismo más común en causar infecciones en pacientes con quemaduras?",
+  "opts": [
+   "Staphylococcus aureus",
+   "Streptococcus pyogenes",
+   "Streptococcus agalactiae",
+   "Pseudomonas aeruginosa",
+   "Candida albicans"
+  ],
+  "ans": null,
+  "why": "Sabiston cita S. aureus, Pseudomonas y Klebsiella como organismos prevalentes en las heridas por quemaduras, sin decir cuál es el más común. Para la neumonía precoz señala Staphylococcus y, después de 5-7 días, gramnegativos como Pseudomonas. El libro no ordena el más frecuente, por lo que no se puede decidir entre A (S. aureus) y D (Pseudomonas, clave original).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 520 del PDF (organismos prevalentes en quemaduras)",
+   "Sabiston 21.ª ed., p. 518 del PDF (flora pulmonar precoz y tardía)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: D (Pseudomonas aeruginosa, resaltado)."
+ },
+ "62e00aa1d8": {
+  "k": "62e00aa1d8",
+  "estado": "confirmada",
+  "stem": "Un alcohólico de 40 años se presenta a urgencias con un antebrazo derecho visiblemente hinchado y muy doloroso. Refiere que, tras una borrachera con heroína y alcohol, se quedó dormido sobre su brazo durante 12 horas. Al despertar, encontró su mano completamente entumecida e inmóvil. El examen físico revela pulsos braquial y radial normales. Tiene ritmo cardíaco regular. No puede extender la muñeca con la mano en pronación. El ECG muestra ondas T picudas, y los niveles de CPK son de 20,000 UI/L (normal: 60–400 UI/L). ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Propranolol",
+   "Insulina + dextrosa",
+   "Gluconato de calcio",
+   "Kayexalato (poliestireno sódico)",
+   "Furosemida"
+  ],
+  "ans": 2,
+  "why": "Es un síndrome por aplastamiento con rabdomiólisis (CPK 20.000) e hiperpotasemia con ondas T picudas. Sabiston indica que en riesgo de arritmia por hiperpotasemia el calcio i.v. reduce de inmediato el riesgo y debe ser el primer tratamiento (antagoniza el efecto despolarizante del K+ elevado). Insulina con glucosa, resina (kayexalato) y diurético de asa bajan el potasio después; el propranolol no es tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 110-111 del PDF (hiperpotasemia, rabdomiólisis, calcio como primer tratamiento)",
+   "de Virgilio, ABSITE 3.ª ed., p. 409 del PDF (tabla de hiperpotasemia: gluconato de calcio estabiliza la membrana cardíaca)"
+  ],
+  "tema": "liquidos",
+  "nota": "Clave original: C. Es probable que el enunciado además requiera fasciotomía por síndrome compartimental, pero la pregunta pide el tratamiento de la hiperpotasemia."
+ },
+ "9535b89b18": {
+  "k": "9535b89b18",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años está en recuperación en la UCI después de ser rescatado de un incendio en una cocina de restaurante. Estuvo atrapado por un tiempo prolongado. Presenta quemaduras de espesor parcial profundo y total en más del 30 % de su cuerpo. Tiene antecedentes de psoriasis controlada con esteroides tópicos. Al séptimo día postoperatorio, se muestra confundido. Su temperatura es 96.1 °F, presión arterial 98/72 mmHg y pulso 122/min. Las heridas por quemadura muestran áreas focales de color marrón. En laboratorio, su recuento de leucocitos es 14,700/μL (normal: 4,100–10,900/μL) y su glucosa sérica es de 250 mg/dL. ¿Cuál es la causa más probable de su condición aguda?",
+  "opts": [
+   "Desplazamiento de líquido intercompartimental",
+   "Insuficiencia suprarrenal",
+   "Abstinencia alcohólica",
+   "Carboxihemoglobinemia",
+   "Inflamación"
+  ],
+  "ans": null,
+  "why": "Paciente con quemadura extensa, hipotermia, hipotensión, taquicardia, leucocitosis, hiperglucemia, confusión y zonas pardas focales en la herida: el cuadro sugiere sepsis por la herida de quemadura, pero ninguna opción dice sepsis o infección. 'Inflamación' (clave original) es genérica y la insuficiencia suprarrenal (por esteroides tópicos previos) también explica hipotensión y confusión. Los libros consultados no describen este cuadro y no permiten decidir entre las dos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 519-520 del PDF (sepsis por la herida de quemadura; sin cuadro clínico comparable)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: E (Inflamación, resaltado)."
+ },
+ "6a7bd46a46": {
+  "k": "6a7bd46a46",
+  "estado": "dudosa",
+  "stem": "¿Cuál de los siguientes parámetros sería más consistente con intoxicación aguda por monóxido de carbono?",
+  "opts": [
+   "Disminución de la hemoglobina",
+   "Disminución de la PaO₂",
+   "Disminución del contenido de oxígeno en sangre",
+   "Aumento de la hemoglobina oxidada",
+   "Aumento de la ventilación alveolar"
+  ],
+  "ans": null,
+  "why": "Dudosa (revisión del supervisor): La clave se deduce de la ecuación de contenido de oxígeno (ABSITE p. 241); ninguna fuente dice que la PaO2 sea normal en la intoxicación por CO. Clave que proponía el revisor: C. El contenido arterial de O2 = Hb x 1,34 x SaO2 + PaO2 x 0,003. El CO se une a la hemoglobina (afinidad unas 200 veces la del oxígeno) y reduce la saturación de la hemoglobina por oxígeno, así que baja el contenido de oxígeno de la sangre. La hemoglobina total no disminuye por el CO, y la PaO2 solo aporta el 1-2% del contenido.",
+  "fuentes": [
+   "de Virgilio, ABSITE 3.ª ed., p. 241 del PDF (explicación 10: contenido de O2; el CO disminuye la saturación)",
+   "Sabiston 21.ª ed., p. 517 del PDF (CO y carboxihemoglobina)"
+  ],
+  "tema": "quemados",
+  "nota": "Clave original: C. INDIRECTA: la fuente no dice textualmente que la PaO2 es normal en la intoxicación por CO ni descarta una a una las otras opciones; el respaldo de C viene de la ecuación del contenido de O2."
+ },
+ "6e9e9c9506": {
+  "k": "6e9e9c9506",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años se presenta con quemaduras de segundo y tercer grado en la cara anterior de ambos brazos y toda la pierna derecha. También tiene quemaduras superficiales en ambas manos. ¿Cuál es su área de superficie corporal total (TBSA) quemada estimada?",
+  "opts": [
+   "25%",
+   "27%",
+   "29%",
+   "36%",
+   "38%"
+  ],
+  "ans": 1,
+  "why": "Cada miembro superior es 9% (su cara anterior, 4.5%) y cada miembro inferior 18%. Los dos brazos anteriores suman 9% y la pierna completa 18%, total 27%. Las quemaduras superficiales (primer grado) de las manos no se cuentan. Las otras cifras no resultan de esta suma.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 261 del PDF (explicación 8)"
+  ],
+  "tema": "quemados"
+ },
+ "980476c4b2": {
+  "k": "980476c4b2",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años es llevado al ED después de una GSW en la pierna derecha. Está hipotenso, con gran pérdida de sangre en la escena. Se inicia un protocolo de transfusión masiva. Luego de un injerto venoso interpuesto por transección de la arteria femoral superficial, es ingresado en UCI para observación. A la mañana siguiente, se encuentra oligúrico, con presión pico en vías respiratorias elevada y abdomen distendido. ¿Cuál de los siguientes hallazgos se esperaría en este paciente?",
+  "opts": [
+   "Aumento de la complianza pulmonar",
+   "Aumento de la capacidad funcional residual (FRC)",
+   "Disminución de la resistencia vascular pulmonar",
+   "Aumento de la presión capilar pulmonar en cuña",
+   "Aumento del retorno venoso"
+  ],
+  "ans": 3,
+  "why": "El cuadro es síndrome compartimental abdominal por la reanimación masiva (oliguria, presión pico alta, aumento de la presión intraabdominal). Al subir la presión abdominal sube la presión intratorácica: aumenta la presión capilar pulmonar en cuña. Disminuyen la complianza pulmonar y la FRC, baja el retorno venoso y aumenta (no disminuye) la resistencia vascular pulmonar.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 12)"
+  ],
+  "tema": "trauma"
+ },
+ "12d019d1df": {
+  "k": "12d019d1df",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a las quemaduras?",
+  "opts": [
+   "Las quemaduras superficiales de espesor parcial no forman ampollas",
+   "Las quemaduras de espesor total (tercer grado) pueden afectar la fascia subyacente",
+   "Las quemaduras profundas de espesor parcial pierden los folículos pilosos",
+   "Las quemaduras profundas de espesor parcial a menudo sanan espontáneamente",
+   "Las quemaduras superficiales de espesor parcial no son dolorosas"
+  ],
+  "ans": 2,
+  "why": "Las quemaduras profundas de espesor parcial destruyen los folículos pilosos, que son la fuente de regeneración de la piel; por eso no suelen sanar solas y requieren injerto. Las superficiales de espesor parcial sí forman ampollas y sí duelen. Según el libro, la afectación de músculo, fascia o hueso corresponde al cuarto grado, no al tercero.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 13)"
+  ],
+  "nota": "El texto de la opción C estaba cortado entre páginas del original (\"...profundas de espesor parcial / pierden los folículos pilosos\"); se unió viendo la imagen. La opción B es la más discutible: el libro la da por falsa porque ubica la fascia en el cuarto grado.",
+  "tema": "quemados"
+ },
+ "fe1d172c77": {
+  "k": "fe1d172c77",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es correcta sobre antimicrobianos tópicos comunes en el manejo de quemaduras?",
+  "opts": [
+   "El acetato de mafenida causa alcalosis respiratoria al aumentar la ventilación alveolar",
+   "La sulfadiazina de plata tiene amplia cobertura contra Pseudomonas",
+   "La bacitracina tiene cobertura contra bacterias gramnegativas",
+   "El nitrato de plata puede usarse en pacientes alérgicos a las sulfas",
+   "La sulfadiazina de plata puede causar alteraciones electrolíticas"
+  ],
+  "ans": 3,
+  "why": "El nitrato de plata no es una sulfa, por lo que puede usarse en pacientes alérgicos a las sulfas. La mafenida, inhibidora de la anhidrasa carbónica, causa acidosis metabólica hiperclorémica (no alcalosis respiratoria). La sulfadiazina de plata cubre mal Pseudomonas y causa neutropenia y trombocitopenia; las alteraciones electrolíticas graves son del nitrato de plata. La bacitracina tiene mala cobertura gramnegativa.",
+  "fuentes": [
+   "absite, p. 253 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 14)"
+  ],
+  "nota": "Las opciones de este banco difieren un poco del original (se agregó bacitracina), pero la lógica del libro cubre todas.",
+  "tema": "quemados"
+ },
+ "d461e44962": {
+  "k": "d461e44962",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es una indicación para transferir un paciente a un centro especializado en quemaduras?",
+  "opts": [
+   "Mujer de 45 años con quemaduras de primer grado en 30% de TBSA",
+   "Niña de 10 años con quemaduras de tercer grado en 4% de TBSA",
+   "Hombre de 21 años con quemadura química en la mano derecha",
+   "Mujer de 30 años con quemaduras de segundo grado en 18% de TBSA",
+   "Mujer de 71 años con quemaduras de segundo grado en 8% de TBSA"
+  ],
+  "ans": 2,
+  "why": "Criterios de transferencia: segundo/tercer grado >20% TBSA (10-50 años) o >10% (<10 o >50 años); tercer grado >5% a cualquier edad; quemaduras de manos, pies, cara, genitales o articulaciones; cualquier quemadura eléctrica o química. El hombre de 21 años cumple dos (mano y química). Las demás no llegan a los umbrales (4% tercer grado, 18% y 8% de segundo grado) y el primer grado no cuenta.",
+  "fuentes": [
+   "absite, p. 254 del PDF (pregunta)",
+   "absite, p. 262 del PDF (explicación 15)"
+  ],
+  "tema": "quemados"
+ },
+ "1422f7ae90": {
+  "k": "1422f7ae90",
+  "estado": "confirmada",
+  "stem": "Un hombre de 28 años con obesidad mórbida llega al ED tras sufrir una descarga eléctrica mientras trabajaba en su automóvil. Tiene una marca de quemadura en la mano y el antebrazo está hinchado. ¿Cuál de las siguientes afirmaciones es verdadera sobre este paciente?",
+  "opts": [
+   "La fuente del choque fue probablemente corriente directa",
+   "La falla renal es la principal causa de muerte en quienes sobreviven la lesión inicial",
+   "Probablemente tuvo contracciones musculares tetánicas repetitivas al momento de la electrocución",
+   "Su contextura corporal probablemente lo protege de lesiones térmicas profundas",
+   "Orina roja al ingreso sugiere lesión vesical"
+  ],
+  "ans": 0,
+  "why": "Una batería de auto da corriente directa. Esta produce una sola contracción grande que lanza al paciente (la corriente alterna produce tetania repetitiva). La grasa tiene alta resistencia: aumenta las quemaduras térmicas profundas, no protege. La causa principal de muerte temprana son las arritmias, y la orina roja sugiere rabdomiólisis, no lesión vesical.",
+  "fuentes": [
+   "absite, p. 254 del PDF (pregunta)",
+   "absite, p. 263 del PDF (explicación 16)"
+  ],
+  "tema": "quemados"
+ },
+ "aeb8b01b23": {
+  "k": "aeb8b01b23",
+  "estado": "confirmada",
+  "stem": "Una mujer alcohólica de 36 años llega al servicio de emergencias durante una tormenta de invierno con congelación en el brazo y la mano derechos. Se desmayó en un parque con el brazo expuesto sobre una banca metálica helada. Su mano derecha presenta varias áreas con bullas hemorrágicas. Han pasado 7 horas desde que fue llevada al hospital. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "Probablemente tiene una congelación de segundo grado",
+   "Debe recibir desbridamiento precoz del tejido necrótico evidente",
+   "Probablemente responderá bien al tratamiento con activador tisular del plasminógeno (tPA)",
+   "La lesión por reperfusión es un contribuyente importante del daño en su lesión",
+   "El recalentamiento en agua tibia debe realizarse de manera gradual"
+  ],
+  "ans": 3,
+  "why": "En la congelación contribuyen al daño tanto el congelamiento del tejido como la reperfusión. Las bullas hemorrágicas indican tercer grado (no segundo). El desbridamiento y la amputación precoces deben evitarse porque la viabilidad tarda semanas en definirse. El recalentamiento debe ser rápido (agua a 40-42 °C). Con isquemia caliente mayor de 6 horas no es candidata a tPA.",
+  "fuentes": [
+   "absite, p. 254 del PDF (pregunta)",
+   "absite, p. 263 del PDF (explicación 17)"
+  ],
+  "tema": "trauma"
+ },
+ "4661470533": {
+  "k": "4661470533",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es la anormalidad electrolítica más común en el paciente quemado?",
+  "opts": [
+   "Hipernatremia",
+   "Hiponatremia",
+   "Hipercalcemia",
+   "Hipoglucemia",
+   "Hipermagnesemia"
+  ],
+  "ans": null,
+  "why": "No se halló en Sabiston ni en el ABSITE una afirmación sobre cuál es la alteración electrolítica más frecuente en el quemado; Sabiston solo menciona que la glucosa al 5% en agua puede causar hiponatremia en pérdidas como las quemaduras. Una búsqueda en Europe PMC tampoco dio una fuente que lo establezca. Sin fuente que decida, no se confirma la clave original (hiponatremia).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 108 del PDF (hiponatremia con glucosa 5% en pérdidas como quemaduras; no responde la pregunta)",
+   "Sabiston 21.ª ed., pp. 516-522 del PDF (capítulo de quemaduras, sin dato)"
+  ],
+  "nota": "Clave original: B (hiponatremia, resaltado). Es lo más plausible pero no hay evidencia citable en los libros del curso.",
+  "tema": "quemados"
+ },
+ "fe013881ef": {
+  "k": "fe013881ef",
+  "estado": "confirmada",
+  "stem": "Un adulto de 70 kg es atropellado y presenta fracturas femorales bilaterales con pérdida sanguínea estimada en 2 L. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "El paciente se encuentra en shock hemorrágico clase II",
+   "La taquicardia y taquipnea son poco comunes",
+   "La diuresis no debería verse afectada",
+   "La presión de pulso permanecerá sin cambios",
+   "La pérdida sanguínea estimada corresponde al 30–40% de su volumen"
+  ],
+  "ans": 4,
+  "why": "Según la clasificación ATLS, la clase III corresponde a una pérdida de 30-40% del volumen (1500-2000 mL): hay taquicardia y taquipnea, presión de pulso reducida y diuresis disminuida. Por eso A (clase II, 15-30%), B, C y D son falsas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 73 del PDF (tabla 4.1 ATLS)",
+   "absite, p. 245 del PDF (clases de shock: clase 3 = 1500-2000 cc o 30-40%)"
+  ],
+  "nota": "INDIRECTA: la pregunta no está en el ABSITE; se confirma con la tabla ATLS. Con 2 L el paciente está en el límite superior de la clase III (el libro pone la clase IV en más de 2000 mL).",
+  "tema": "shock"
+ },
+ "3760edf651": {
+  "k": "3760edf651",
+  "estado": "confirmada",
+  "stem": "¿Cuándo debe programarse una herniorrafia umbilical en paciente con angioplastia reciente con stent metálico?",
+  "opts": [
+   "1 semana",
+   "2 semanas",
+   "4 semanas",
+   "8 semanas",
+   "6 meses"
+  ],
+  "ans": 2,
+  "why": "Tras un stent metálico convencional (no medicado) se debe esperar 1 mes antes de operar, porque la hernia sintomática es una cirugía con cierta urgencia pero electiva. Dos semanas corresponden a la angioplastia con balón solo y 6 meses al stent liberador de fármaco.",
+  "fuentes": [
+   "absite, p. 33 del PDF (explicación)",
+   "absite, p. 465 del PDF (resumen: BMS 1 mes, DES 6 meses, balón 2 semanas)"
+  ],
+  "nota": "El stem dice solo \"stent metálico\"; el caso original es un stent metálico convencional (bare metal).",
+  "tema": "eras"
+ },
+ "bb6486cc39": {
+  "k": "bb6486cc39",
+  "estado": "corregida",
+  "stem": "Un hombre de 85 años con hernia umbilical reducible y dolor intermitente es dado de alta recientemente tras colocación de un stent metálico por angina inestable. ¿Cuándo debería programarse su cirugía?",
+  "opts": [
+   "2 semanas",
+   "1 semana",
+   "8 semanas",
+   "6 meses",
+   "4 semanas"
+  ],
+  "ans": 4,
+  "why": "Con un stent metálico convencional (BMS) se espera 1 mes (4 semanas) antes de la cirugía. Seis meses corresponden al stent liberador de fármaco (DES); 2 semanas a la angioplastia con balón sola.",
+  "fuentes": [
+   "absite, p. 33 del PDF (explicación: con BMS esperar 1 mes; con DES 6 meses)",
+   "absite, p. 465 del PDF (resumen)"
+  ],
+  "nota": "Clave original: D (6 meses, resaltado). Eso aplica al stent liberador de fármaco; \"stent metálico\" equivale al BMS del original, cuyo plazo es 4 semanas (la edad del paciente en este banco, 85 años, difiere del original de 74 años, sin efecto en la respuesta). Para el examen de la UPAO la clave marcada pudo ser distinta.",
+  "tema": "eras"
+ },
+ "4f3b8fc380": {
+  "k": "4f3b8fc380",
+  "estado": "dudosa",
+  "stem": "Mujer de 33 años programada para colecistectomía. Tiene hipotiroidismo moderado. ¿Qué hacer?",
+  "opts": [
+   "Proceder con la cirugía si no se presentan síntomas clínicos graves",
+   "Proceder con cirugía e iniciar levotiroxina",
+   "Proceder con cirugía asumiendo complicaciones menores",
+   "Posponer la cirugía hasta lograr eutiroidismo",
+   "Proceder e iniciar tratamiento con tioamidas"
+  ],
+  "ans": null,
+  "why": "Sabiston dice en un lugar que la cirugía programada debe retrasarse hasta alcanzar el estado eutiroideo, y en otro que el hipotiroidismo asintomático puede tratarse con hormona tiroidea en cualquier momento perioperatorio y que solo el sintomático obliga a diferir. El enunciado no dice si tiene síntomas, así que tanto la opción B como la D son defendibles. Las tioamidas (opción E) son para hipertiroidismo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 285 del PDF (cirugía programada se retrasa hasta eutiroidismo)",
+   "Sabiston 21.ª ed., p. 228 del PDF (asintomático: iniciar reposición en cualquier momento; sintomático: diferir)"
+  ],
+  "nota": "Clave original: D (posponer hasta eutiroidismo). Texto de las opciones completado según el original (estaban cortadas en la conversión).",
+  "tema": "eras"
+ },
+ "1bc04cc376": {
+  "k": "1bc04cc376",
+  "estado": "confirmada",
+  "stem": "Un hombre de 39 años se presenta a consulta para discutir su manejo antes de iniciar quimiorradiación neoadyuvante por cáncer de esófago. Su albúmina es de 2.4 mg/dL. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la optimización nutricional para este paciente?",
+  "opts": [
+   "Debe iniciar nutrición parenteral.",
+   "No debe ofrecerse una gastrostomía percutánea.",
+   "Se ha demostrado consistentemente que la colocación de stent esofágico mejora el estado nutricional.",
+   "La inserción de sonda nasogástrica ha demostrado mejorar el estado nutricional.",
+   "La migración del stent y el dolor torácico se reportan raramente en pacientes con stents esofágicos."
+  ],
+  "ans": 1,
+  "why": "La gastrostomía percutánea debe desaconsejarse porque puede comprometer el estómago que se usará como conducto en la reconstrucción y retrasa la quimioterapia 2 a 4 semanas. La nutrición parenteral tiene un papel limitado por costo y complicaciones. Los stents dieron resultados inconsistentes en el estado nutricional y su migración y el malestar torácico son frecuentes. La sonda nasogástrica puede migrar y causar aspiración.",
+  "fuentes": [
+   "absite, p. 109 del PDF (pregunta 20)",
+   "absite, p. 114 del PDF (explicación 20)"
+  ],
+  "tema": "nutricion"
+ },
+ "5aed1c7d7c": {
+  "k": "5aed1c7d7c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es el principal combustible utilizado por el intestino delgado?",
+  "opts": [
+   "Arginina",
+   "Alanina",
+   "Glutamina",
+   "Tirosina",
+   "Carnitina"
+  ],
+  "ans": 2,
+  "why": "La glutamina es el principal combustible del intestino delgado (y de los enterocitos) y actúa como factor trófico intestinal. La arginina es sustrato para producir óxido nítrico; las otras opciones no son el combustible principal del enterocito.",
+  "fuentes": [
+   "absite, p. 142 del PDF (glutamina, principal combustible del intestino delgado)",
+   "absite, p. 441 del PDF (glutamina, principal combustible metabólico de los enterocitos)"
+  ],
+  "nota": "INDIRECTA para las opciones B, D y E: el libro afirma la glutamina como combustible principal pero no refuta cada una por separado.",
+  "tema": "nutricion"
+ },
+ "779faba381": {
+  "k": "779faba381",
+  "estado": "confirmada",
+  "stem": "Un hombre diabético tipo 1 de 48 años ingresa al hospital para la evaluación de un dolor abdominal vago y malestar general. Los antecedentes médicos incluyen proctocolectomía total con ileostomía por colitis ulcerosa. Sus exámenes de laboratorio son: pH 7,26; PCO2 24; PO2 100 mmHg; Na 129; K 2,9; Cl 110 y HCO3 12. ¿Cuál es su diagnóstico más probable?",
+  "opts": [
+   "Falla renal",
+   "Cetoacidosis diabética",
+   "Acidosis láctica",
+   "Ileostomía de gasto alto",
+   "Intoxicación con metanol"
+  ],
+  "ans": 3,
+  "why": "El pH bajo con PCO2 y bicarbonato bajos es acidosis metabólica. La brecha aniónica (129 - 110 - 12) es 7, es decir sin brecha aumentada, compatible con pérdidas gastrointestinales por ileostomía de gasto alto. Falla renal, cetoacidosis, acidosis láctica y metanol producen acidosis con brecha aniónica aumentada.",
+  "fuentes": [
+   "absite, p. 411 del PDF (pregunta 7)",
+   "absite, p. 414 del PDF (explicación 7)"
+  ],
+  "nota": "Texto reparado desde el original (palabras pegadas). El libro original habla de un paciente de 50 años; el banco dice 48 y no cambia la respuesta.",
+  "tema": "liquidos"
+ },
+ "4fcec685cd": {
+  "k": "4fcec685cd",
+  "estado": "dudosa",
+  "stem": "Todos los siguientes son principios del manejo de la congelación severa (frostbite) EXCEPTO:",
+  "opts": [
+   "Recalentamiento rápido",
+   "Evitar el desbridamiento",
+   "Elevación del miembro",
+   "Amputación temprana en caso de gangrena franca",
+   "Antibióticos"
+  ],
+  "ans": null,
+  "why": "El ABSITE respalda tres cosas: recalentar rápido en agua a 40-42 °C, evitar el desbridamiento y la amputación tempranos porque la viabilidad tarda semanas en definirse (opciones A, B y D como excepción). Pero no hay fuente en los libros del curso sobre la elevación del miembro ni sobre los antibióticos, y las opciones no elegidas también necesitan respaldo.",
+  "fuentes": [
+   "absite, p. 263 del PDF (explicación 17: recalentar rápido; evitar desbridamiento y amputación tempranos)"
+  ],
+  "nota": "Clave original: D (amputación temprana). Es coherente con el libro, pero no se pudo respaldar C ni E. Una búsqueda en Europe PMC (guías WMS) no dio texto sobre elevación ni antibióticos.",
+  "tema": "trauma"
  }
 }

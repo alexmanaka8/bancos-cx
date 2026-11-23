@@ -60,10 +60,10 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 342,
-   "conClave": 342,
+   "n": 382,
+   "conClave": 382,
    "secciones": 20,
-   "verificadas": 342,
+   "verificadas": 382,
    "altoValor": 128
   },
   {
@@ -232,7 +232,7 @@
    "nombre": "ERAS y cuidados perioperatorios",
    "clase": "12",
    "semana": 3,
-   "n": 32,
+   "n": 34,
    "alto": 8
   },
   {
@@ -240,7 +240,7 @@
    "nombre": "Balance hidroelectrolítico y ácido-base",
    "clase": "13",
    "semana": 3,
-   "n": 79,
+   "n": 89,
    "alto": 17
   },
   {
@@ -248,7 +248,7 @@
    "nombre": "Soporte nutricional en el paciente quirúrgico",
    "clase": "14",
    "semana": 3,
-   "n": 46,
+   "n": 48,
    "alto": 6
   },
   {
@@ -256,7 +256,7 @@
    "nombre": "Manejo de quemados",
    "clase": "15",
    "semana": 3,
-   "n": 28,
+   "n": 49,
    "alto": 9
   },
   {
@@ -264,7 +264,7 @@
    "nombre": "Shock",
    "clase": "16",
    "semana": 3,
-   "n": 40,
+   "n": 41,
    "alto": 6
   },
   {
@@ -374,7 +374,7 @@
     6,
     7
    ],
-   "n": 31,
+   "n": 33,
    "alto": 10
   },
   {
@@ -406,7 +406,7 @@
    "nombre": "Cirrosis e hipertensión portal",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 19,
+   "n": 20,
    "alto": 7
   },
   {
@@ -414,7 +414,7 @@
    "nombre": "Tiroides, paratiroides y suprarrenal",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 3,
+   "n": 4,
    "alto": 0
   },
   {
