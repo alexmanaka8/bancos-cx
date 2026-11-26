@@ -1,0 +1,305 @@
+[
+ {
+  "k": "fc109c364e",
+  "estado": "confirmada",
+  "stem": "Un hombre de 44 años se presenta con dolor en el cuadrante inferior derecho sin rebote, náuseas ni vómitos. La tomografía computarizada muestra engrosamiento de la pared intestinal cerca de la válvula ileocecal. Está programado para una apendicectomía. La patología final confirma apendicitis aguda. Además, se encuentra incidentalmente un tumor carcinoide de 2.5 cm en la punta del apéndice. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Observación",
+   "Colonoscopia dentro de los próximos 6 meses",
+   "Serie gastrointestinal alta con tránsito",
+   "Radiografía de tórax",
+   "Hemicolectomía derecha"
+  ],
+  "ans": 4,
+  "why": "En el ABSITE (de Virgilio) el carcinoide apendicular de más de 2 cm, o ubicado en la base, se trata con hemicolectomía derecha; solo los menores de 2 cm en la punta se tratan con apendicectomía simple. Este tumor mide 2.5 cm en la punta, así que corresponde la hemicolectomía derecha. Observación, colonoscopia, serie GI y radiografía de tórax no son tratamiento del tumor.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 135 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 168 del PDF (explicación de la pregunta 31)"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: E (resaltado). El libro dice 'right colectomy ... for those that are larger than 2 cm and located at the tip'."
+ },
+ {
+  "k": "cd061b74a4",
+  "estado": "dudosa",
+  "stem": "Un niño de 4 años se presenta en urgencias con dolor en el cuadrante inferior derecho, náuseas y anorexia. En el examen físico, no se auscultan ruidos intestinales y hay marcada sensibilidad con defensa en el cuadrante inferior derecho. El resto del examen abdominal es negativo. Los análisis de laboratorio muestran leucocitosis con desviación a la izquierda. ¿Cuál es el evento inicial más probable para su condición aguda?",
+  "opts": [
+   "Hiperplasia linfoide",
+   "Fecalito",
+   "Infección parasitaria",
+   "Ganglios linfáticos mesentéricos aumentados",
+   "Ingesta de cuerpo extraño"
+  ],
+  "ans": null,
+  "why": "La clave original es hiperplasia linfoide. Giménez dice que la causa parietal más común de obstrucción apendicular es la hiperplasia folicular linfoidea, que suele darse en pacientes jóvenes. En cambio Sabiston dice que las causas más habituales de obstrucción luminal son la estasis fecal y los fecalitos, sin separar por edad, y una revisión de 2023 (PMC10152406) dice que la causa más común es el fecalito y que la hiperplasia linfoide es un factor importante 'especialmente en niños'. Ninguna fuente de la carpeta dice de forma directa cuál es el evento inicial más probable en un niño de 4 años, así que no se puede decidir entre A y B sin adivinar.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 688 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "PMC10152406 (Typical and Atypical Presentations of Appendicitis, 2023), Europe PMC"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: A (Hiperplasia linfoide, resaltado). El libro de Virgilio no trae esta pregunta. Misma duda que las preguntas e48d4b382c y fc2b568f4e."
+ },
+ {
+  "k": "58eb226ba3",
+  "estado": "dudosa",
+  "stem": "Una mujer de 50 años se somete a una colonoscopia de rutina. Durante el procedimiento se observa una coloración oscura en todo el colon, con los folículos linfáticos apareciendo como parches pálidos. ¿Cuál es la causa subyacente más probable?",
+  "opts": [
+   "Ingesta excesiva de jugo de ciruela",
+   "Cáncer de colon",
+   "Abuso de laxantes",
+   "Variación anatómica normal",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción C.) Sabiston describe que en la melanosis del colon la mucosa colónica toma un color marrón-negro causado por los laxantes de antraquinona, y que no requiere tratamiento. El cuadro de la pregunta (colon oscuro en una colonoscopia de rutina) corresponde a esa descripción, por lo que la causa más probable es el abuso de laxantes. Cáncer, EII y variante normal no producen una oscurecimiento difuso de toda la mucosa según esa fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 290 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: Sabiston no menciona los folículos linfáticos pálidos ni el jugo de ciruela; la pregunta no nombra 'melanosis coli', se deduce de la coloración marrón-negra por laxantes. Clave original: C (resaltado)."
+ },
+ {
+  "k": "a322fa6393",
+  "estado": "confirmada",
+  "stem": "Un hombre de 88 años con enfermedad de Parkinson y EPOC es traído a urgencias desde un centro de enfermería por haber notado sangre roja brillante en su pañal. Su medicación incluye hidroclorotiazida, metformina, levodopa, salmeterol y docusato. A la admisión está afebril con PA y FC normales. La aspiración de la sonda nasogástrica retorna bilis amarilla. La colonoscopia muestra sangre roja brillante en el colon y múltiples divertículos, pero debido a la gran cantidad de heces y coágulos, no se identifica el sitio de sangrado. Sigue presentando rectorragia una hora después. La PA es 120/70 mmHg y la FC es 90/min. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Transfusión de dos unidades de glóbulos rojos",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Omeprazol y antibióticos"
+  ],
+  "ans": 2,
+  "why": "En de Virgilio, ante una hemorragia digestiva baja que sigue sangrando, el siguiente paso es la arteriografía mesentérica o la gammagrafía con glóbulos rojos marcados con tecnecio-99m; esta detecta sangrados de 0.1 mL/min y permite repetir imágenes hasta 24 horas. Aquí la colonoscopia no encontró el sitio por la cantidad de heces y coágulos y el paciente sigue sangrando estable; de las opciones, solo la gammagrafía es una de las dos indicadas. La EGD no aplica porque el aspirado nasogástrico trae bilis, la laparotomía se reserva si no se estabiliza o no se localiza la fuente, y la transfusión u omeprazol no localizan el sangrado.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 166-167 del PDF (explicación de la pregunta 23)"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). El libro da dos opciones (arteriografía o gammagrafía); la arteriografía no está entre las opciones del banco. La exclusión de la EGD por la bilis en la sonda nasogástrica es deducción del enunciado (el libro ve la sonda como paso inicial para descartar fuente alta)."
+ },
+ {
+  "k": "816403d014",
+  "estado": "dudosa",
+  "stem": "Una mujer de 62 años llega al servicio de urgencias con dolor abdominal agudo. Tiene antecedentes médicos significativos por diverticulitis. Se diagnostica diverticulitis no complicada y se maneja con reposo intestinal y antibióticos. Un año después, presenta otro episodio de diverticulitis que nuevamente se maneja exitosamente de forma ambulatoria. ¿Para cuál de las siguientes complicaciones tiene mayor riesgo esta paciente?",
+  "opts": [
+   "Enfermedad de Crohn",
+   "Colitis ulcerosa",
+   "Cáncer de colon",
+   "Cáncer anal",
+   "Formación de estenosis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción E.) Sabiston explica que los pacientes con diverticulitis crónica y recurrente pueden desarrollar fibrosis de la pared del colon que lleva a la formación de estenosis, con obstrucción parcial. De Virgilio también lista la estenosis como complicación electiva de la diverticulitis. El cáncer de colon en diverticulitis se menciona como 0.5% a 2.7% en la no complicada, y la enfermedad de Crohn, la colitis ulcerosa y el cáncer anal no aparecen como complicaciones de la diverticulitis recurrente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1363 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 161 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente compara el 'mayor riesgo' entre las opciones; la estenosis se confirma por Sabiston y las demás no tienen respaldo. Clave original: E (resaltado)."
+ },
+ {
+  "k": "e48d4b382c",
+  "estado": "dudosa",
+  "stem": "¿Causa más frecuente de apendicitis aguda niños?",
+  "opts": [
+   "Fecalito",
+   "Cuerpo extraño",
+   "Tumor carcinoide",
+   "Hiperplasia linfoidea",
+   "Adenocarcinoma"
+  ],
+  "ans": null,
+  "why": "La clave original es hiperplasia linfoidea. Giménez dice que la causa parietal más común de obstrucción apendicular es la hiperplasia folicular linfoidea, frecuente en pacientes jóvenes. Sabiston dice que las causas más habituales son estasis fecal y fecalitos, sin distinguir por edad, y una revisión de 2023 dice que la causa más común es el fecalito y la hiperplasia linfoide es un factor importante 'especialmente en niños'. Ninguna fuente disponible dice de forma directa cuál es la causa más frecuente en niños, así que la evidencia no decide.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 688 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "PMC10152406 (Typical and Atypical Presentations of Appendicitis, 2023), Europe PMC"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (Hiperplasia linfoidea, resaltado). Duplicada con fc2b568f4e (misma pregunta)."
+ },
+ {
+  "k": "e03e9d6144",
+  "estado": "dudosa",
+  "stem": "Varón de 27 años con sospecha de apendicitis, presenta dolor al extender el muslo derecho estando de lado izquierdo, sin dolor al rotar la cadera. ¿Dónde está la punta del apéndice?",
+  "opts": [
+   "Cuadrante inferior izquierdo",
+   "Extraperitoneal anterior al ciego",
+   "En la pelvis",
+   "Cuadrante superior derecho",
+   "Retrocecal sobre el psoas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción E.) La Tabla 46.1 de Sabiston asocia el signo del psoas (dolor al elevar la pierna extendida contra resistencia) con apendicitis aguda retrocecal, y el texto dice que los signos del psoas y del obturador sirven para localizar la posición del apéndice inflamado. Un apéndice retrocecal está en contacto con el psoas, por lo que la punta se encuentra retrocecal sobre el psoas. El cuadrante inferior izquierdo o superior derecho no tienen relación con este signo; la posición pélvica se asocia al signo del obturador.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1162 del PDF",
+   "Sabiston 21.ª ed., p. 1163 del PDF (Tabla 46.1)"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: la asociación psoas con retrocecal sale de la alineación de columnas de la Tabla 46.1 (el texto del PDF está desordenado) y no de una frase directa. Texto reparado con la imagen del original (estaba cortado). Clave original: E (resaltado)."
+ },
+ {
+  "k": "96a4d446c9",
+  "estado": "dudosa",
+  "stem": "Dolor periumbilical en apendicitis aguda. qué se debe?",
+  "opts": [
+   "Deshidratación moderada",
+   "Irritación del peritoneo parietal",
+   "Íleo secundario",
+   "Estímulo del nervio vago",
+   "Estímulo simpático"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción E.) Sabiston explica que el dolor visceral periumbilical inicial de la apendicitis se debe a la distensión e inflamación del apéndice (órgano derivado del intestino medio), y que los órganos viscerales transmiten aferencias sensoriales simpáticas a ambos lados de la médula, por eso el dolor es vago y de línea media. La irritación del peritoneo parietal causa el dolor somático posterior localizado en la fosa ilíaca derecha, no el periumbilical. Por eso la opción B es falsa y la de estímulo simpático es la mejor respaldada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1111-1112 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: el libro dice que el dolor visceral viaja por aferencias simpáticas pero no usa la frase 'estímulo simpático'. Clave original: E (resaltado)."
+ },
+ {
+  "k": "c5f64b8304",
+  "estado": "confirmada",
+  "stem": "Paciente mujer de 28 años gestante de 24 semanas presenta apendicitis aguda, presentando muerte fetal luego de apendicectomía abierta de emergencia. El factor fuertemente relacionado con mortalidad es:",
+  "opts": [
+   "edad gestacional del feto",
+   "apendicectomía abierta en lugar de laparoscópica",
+   "comorbilidades maternas",
+   "ruptura apendicular",
+   "retraso en la administración de atb"
+  ],
+  "ans": 3,
+  "why": "De Virgilio (explicación de la pregunta 8): la perforación apendicular es la variable más importante para determinar la mortalidad fetal en el embarazo. Además, la laparoscopia se asoció con mayor tasa de pérdida fetal que la apendicectomía abierta (OR 2.31), por lo que la apendicectomía abierta no es el factor de riesgo. Sabiston confirma que la apendicitis complicada eleva la pérdida fetal al 6%.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 163 del PDF",
+   "Sabiston 21.ª ed., p. 1337 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (ruptura apendicular, resaltado). Texto reparado con la imagen del original (cortado en la extracción)."
+ },
+ {
+  "k": "551fca2f72",
+  "estado": "corregida",
+  "stem": "Un hombre de 35 años presenta anorexia, dolor en el cuadrante inferior derecho y fiebre baja. Durante la cirugía, el apéndice es macroscópicamente normal, pero el ciego y el íleon terminal están inflamados. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "Apendicectomía",
+   "Hemicolectomía derecha",
+   "Biopsia del íleon terminal",
+   "Biopsia de la pared cecal",
+   "Cerrar la herida sin más intervención"
+  ],
+  "ans": 4,
+  "why": "En de Virgilio (pregunta 40), con apéndice normal y ciego e íleon terminal inflamados, el manejo correcto es cerrar la herida sin más intervención. No se debe hacer apendicectomía si el ciego está activamente inflamado porque aumenta el riesgo de fístula enterocutánea, y tampoco biopsias por el mismo riesgo; luego se hace colonoscopia con biopsias aleatorias en busca de enfermedad inflamatoria intestinal. La hemicolectomía no está indicada salvo perforación libre, fístula o estenosis.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 160 del PDF (pregunta 40)",
+   "de Virgilio ABSITE 3.ª ed., p. 169-170 del PDF (explicación 40)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: C (Biopsia del íleon terminal, resaltado). El ABSITE responde 'close wound without further intervention' y explica que la biopsia debe evitarse; el banco, o el aula virtual, pudo marcar otra respuesta. Texto reparado con la imagen del original (el inicio estaba con basura)."
+ },
+ {
+  "k": "ddc84336a3",
+  "estado": "dudosa",
+  "stem": "Un adolescente de 14 años tiene dolor en el cuadrante inferior derecho por 2 días. Él dice que el dolor ha empezado en esa localización y gradualmente está empeorando. Al examen abdominal: dolor a la palpación profunda y rebote leve en cuadrante inferior derecho y cuadrante inferior izquierdo. Su temperatura es 38.2 C y su conteo de leucocitos es 8700. Él indica que tiene hambre pero su familia tiene miedo de darle alimentos. El siguiente paso en su manejo debe ser:",
+  "opts": [
+   "apendicectomía laparoscópica",
+   "laparotomía exploratoria",
+   "tomografia abdominal",
+   "inicio de terapia antibiótica",
+   "conteo de células rojas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). En niños Sabiston prefiere la ecografía, que no está entre las opciones. (El revisor había propuesto la opción C.) Sabiston indica que la TC no se recomienda cuando la sospecha clínica de apendicitis es firme, pero en casos equívocos reduce la tasa de apendicectomías negativas. Este adolescente tiene un cuadro dudoso (el dolor empezó en el cuadrante inferior derecho sin migrar, tiene apetito y leucocitos normales de 8700) con rebote en ambos cuadrantes inferiores, así que el siguiente paso es una imagen. Operar directamente (laparoscopia o laparotomía), dar solo antibióticos o pedir un conteo de células no resuelven el diagnóstico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1329 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: Sabiston no trata este caso exacto; se aplica la regla de imagen en casos equívocos. En niños Sabiston prefiere la ecografía para evitar radiación (p. 1329), pero no está entre las opciones. Clave original: C (resaltado). Texto reparado con la imagen del original."
+ },
+ {
+  "k": "39b26c8a9e",
+  "estado": "confirmada",
+  "stem": "Un paciente varón de 30 años se presenta con antecedentes de tener dolor abdominal tipo cólico con 5 días de evolución en CID, anorexia, fiebre. En el examen físico: dolor localizado en CID y se palpa una masa. Una TAC abdominal muestra un absceso pequeño menor de 1 cm que rodea un apéndice inflamado. Después de la reanimación con líquidos y atb ev. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "drenaje guiado por TAC seguido de apendicectomía de intervalo",
+   "tratamiento no qx inicial seguido de apendicectomía de intervalo",
+   "apendicectomia laparoscopica",
+   "apendicectomía abierta",
+   "tratamiento no quirúrgico"
+  ],
+  "ans": 4,
+  "why": "De Virgilio (pregunta 27): en un paciente con historia prolongada de apendicitis y masa palpable, con absceso pequeño (<1 cm), se maneja de forma no operatoria con antibióticos IV y reposo intestinal. El libro dice que la apendicectomía de intervalo ya no se hace en la mayoría de pacientes con apendicitis perforada y que el drenaje de abscesos pequeños no se recomienda, por lo que A y B son falsas. La apendicectomía abierta o laparoscópica es aceptable pero con más riesgo de ileocecectomía.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 159 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF (explicación 27)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: E (tratamiento no quirúrgico, resaltado). Texto reparado con la imagen del original ('menor de 1 cm', 'con líquidos')."
+ },
+ {
+  "k": "a0e9152883",
+  "estado": "confirmada",
+  "stem": "Primigesta de 23 años, 22 semanas, apendicitis. ¿Cuál es la afirmación correcta?",
+  "opts": [
+   "N.A",
+   "Tratamiento quirúrgico por laparoscopía",
+   "Dar analgésicos y observar",
+   "No es la emergencia quirúrgica más frecuente del embarazo",
+   "Reevaluar en 24 h con antibióticos"
+  ],
+  "ans": 1,
+  "why": "Sabiston dice que la apendicectomía laparoscópica es el abordaje más habitual en gestantes y que se puede realizar de forma segura en embarazadas con apendicitis aguda (guías SAGES). También dice que el tratamiento conservador de la apendicitis no complicada en embarazadas no tiene papel, lo que descarta analgésicos y observar o reevaluar en 24 h con antibióticos. Y la apendicitis es la urgencia abdominal no obstétrica más frecuente que requiere cirugía en el embarazo, lo que descarta la opción D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1338 del PDF",
+   "Sabiston 21.ª ed., p. 2064 del PDF",
+   "Sabiston 21.ª ed., p. 1167 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). Sabiston p. 2064 reconoce que la evidencia de la laparoscopia como técnica de elección en el embarazo es débil, pero la considera segura y es la más usada; las demás opciones están descartadas."
+ },
+ {
+  "k": "a96b4c3a08",
+  "estado": "dudosa",
+  "stem": "La ruptura del apéndice ocurre con mayor frecuencia:",
+  "opts": [
+   "En la base",
+   "En la punta",
+   "En el borde mesentérico",
+   "En el borde antimesentérico",
+   "En mujeres"
+  ],
+  "ans": null,
+  "why": "La clave original es el borde antimesentérico, pero ninguna fuente de la carpeta dice dónde se rompe con más frecuencia el apéndice: Sabiston solo habla de isquemia y perforación sin precisar el sitio, y Giménez tampoco lo indica. Una búsqueda en Europe PMC no encontró una fuente revisada por pares que lo establezca. Además la opción E ('En mujeres') no es comparable con las demás. No hay evidencia para confirmar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Giménez 2.ª ed., p. 688 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (borde antimesentérico, resaltado). El libro de Virgilio menciona el borde antimesentérico solo para la perforación estercorácea del rectosigmoides y el mesentérico para otra perforación, no para el apéndice."
+ },
+ {
+  "k": "fc2b568f4e",
+  "estado": "dudosa",
+  "stem": "La causa más común de apendicitis aguda en niños es:",
+  "opts": [
+   "Fecalito",
+   "Tejido linfoide hipertrofiado",
+   "Ascariasis",
+   "Oxiuros",
+   "Semillas de frutas y/o verduras"
+  ],
+  "ans": null,
+  "why": "La clave original es tejido linfoide hipertrofiado. Giménez dice que la causa parietal más común de obstrucción apendicular es la hiperplasia folicular linfoidea, en pacientes jóvenes; Sabiston dice que las causas más habituales son estasis fecal y fecalitos, sin distinguir por edad; y una revisión de 2023 dice que el fecalito es la causa más común y la hiperplasia linfoide un factor importante 'especialmente en niños'. Ninguna fuente dice de forma directa cuál es la causa más común en niños, así que la evidencia no decide entre A y B.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 688 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "PMC10152406 (Typical and Atypical Presentations of Appendicitis, 2023), Europe PMC"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). Duplicada con e48d4b382c (misma pregunta)."
+ }
+]

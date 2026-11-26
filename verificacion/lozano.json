@@ -12154,7 +12154,7 @@
  },
  "1ef45405b0": {
   "k": "1ef45405b0",
-  "estado": "corregida",
+  "estado": "dudosa",
   "stem": "Una mujer de 65 años se presenta con una hemorragia masiva del tracto gastrointestinal inferior. Su presión arterial inicial en emergencias es de 80/60 mm Hg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con volumen, la presión arterial aumenta a 120/80 mm Hg. El aspirado nasogástrico es negativo para sangre. El siguiente paso en el manejo es:",
   "opts": [
    "Colonoscopía",
@@ -12163,8 +12163,8 @@
    "Proctoscopía",
    "Laparotomía exploradora"
   ],
-  "ans": 0,
-  "why": "En un sangrado digestivo bajo masivo que se estabiliza con reanimación, tras descartar fuente alta con aspirado nasogástrico, se hace colonoscopía apenas esté preparada. La arteriografía o el gammagrama se usan si continúa sangrando; la laparotomía si no se estabiliza o no se localiza la fuente. La proctoscopía solo sirve para descartar hemorroides.",
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. En el ABSITE (pregunta 23) la anoscopia ya se había hecho y por eso la respuesta es colonoscopía; sin ese dato, la proctoscopía también es defendible (Sabiston p.1185 pone primero la anoscopia). Es el mismo caso que lozano b3d4111796. (El revisor había propuesto la opción A.) En un sangrado digestivo bajo masivo que se estabiliza con reanimación, tras descartar fuente alta con aspirado nasogástrico, se hace colonoscopía apenas esté preparada. La arteriografía o el gammagrama se usan si continúa sangrando; la laparotomía si no se estabiliza o no se localiza la fuente. La proctoscopía solo sirve para descartar hemorroides.",
   "fuentes": [
    "de Virgilio ABSITE 3.ª ed., p. 166 del PDF",
    "de Virgilio ABSITE 3.ª ed., p. 167 del PDF"
@@ -12352,5 +12352,1203 @@
   ],
   "tema": "colon",
   "nota": "Clave original: B (proctocolectomía total con ileostomía, resaltado). La opción A venía cortada en el texto; se reparó con la imagen del original. Los libros se contradicen en la bolsa para Crohn, por eso se deja dudosa."
+ },
+ "4fdbad907c": {
+  "k": "4fdbad907c",
+  "estado": "confirmada",
+  "stem": "Una fuente importante de energía para los colonocitos es:",
+  "opts": [
+   "Cuerpos cetónicos",
+   "Glucosa",
+   "Aminoácidos",
+   "Butirato",
+   "Glutamina"
+  ],
+  "ans": 3,
+  "why": "El butirato, un ácido graso de cadena corta, es la principal fuente de alimentación de los colonocitos; las células de mamífero no lo producen y lo aporta la fermentación bacteriana. Los cuerpos cetónicos, la glucosa y los aminoácidos (glutamina) no se usan como fuente de energía de los colonocitos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1356 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 168 (explicación 32) del PDF",
+   "Sabiston 21.ª ed., p. 132 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "MAL HECHA: el libro (ABSITE cap. 10, preg. 32) pregunta por la fuente de energía de los colonocitos 'en el contexto de colitis por derivación' y su respuesta es propionato (otro ácido graso de cadena corta); este banco cambió la opción a butirato y quitó el contexto. La respuesta sigue siendo válida porque Sabiston dice que el butirato es la principal fuente de los colonocitos. Mismo ítem aparece en otra versión del banco con 'Propionato' marcado."
+ },
+ "0c1dbe3228": {
+  "k": "0c1dbe3228",
+  "estado": "dudosa",
+  "stem": "Un hombre de 35 años se presenta con náuseas, dos episodios de vómito, distensión abdominal y obstipación. La radiografía abdominal muestra un asa en forma de riñón en el cuadrante superior izquierdo. El enema con Gastrografin revela corte abrupto del contraste en el colon transverso. El manejo debe consistir en:",
+  "opts": [
+   "Descompresión endoscópica",
+   "Descompresión endoscópica y, si es exitosa, colectomía derecha electiva",
+   "Detorsión quirúrgica con cecopexia",
+   "Colectomía derecha con ileostomía y fístula mucosa",
+   "Colectomía derecha con ileotransversostomía primaria"
+  ],
+  "ans": null,
+  "why": "El cuadro (asa en forma de riñón del cuadrante inferior derecho al superior izquierdo, obstrucción) es de vólvulo cecal. El libro dice que el vólvulo cecal no se trata con endoscopia y requiere cirugía con colectomía derecha. En el ABSITE, para el paciente estable sin leucocitosis ni acidosis la respuesta es colectomía derecha con anastomosis primaria (opción E), y la ileostomía con fístula mucosa (opción D, la clave original) queda para colon ya gangrenoso (leucocitosis, acidosis, fiebre, peritonitis). Este enunciado no da ningún dato de estabilidad hemodinámica, laboratorio ni viabilidad intestinal, así que no se puede decidir entre D y E.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 (explicación 14) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 156 (pregunta 14) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 153 (tabla de vólvulo) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). El libro respalda E si el intestino es viable y D solo si hay gangrena; el enunciado del banco omitió esos datos (la versión del ABSITE sí los trae). Opciones A y C (descompresión endoscópica, detorsión con cecopexia) quedan descartadas por el libro."
+ },
+ "a3f0f71b4e": {
+  "k": "a3f0f71b4e",
+  "estado": "confirmada",
+  "stem": "Una úlcera rectal solitaria se asocia con mayor frecuencia a:",
+  "opts": [
+   "Infección bacteriana",
+   "Infección viral",
+   "Neoplasia maligna",
+   "Intususcepción interna",
+   "Reacción adversa a medicamentos"
+  ],
+  "ans": 3,
+  "why": "El síndrome de úlcera rectal solitaria es un proceso benigno causado por una intususcepción interna secundaria al esfuerzo crónico al defecar, que traumatiza repetidamente la mucosa. No es infección bacteriana ni viral, ni neoplasia (aunque la biopsia se hace para descartarla), ni reacción a fármacos.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 180 (explicación 9) del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "El banco redactó la pregunta como 'se asocia con mayor frecuencia a'; el libro lo plantea como causa (intususcepción interna)."
+ },
+ "f0de58ed6d": {
+  "k": "f0de58ed6d",
+  "estado": "dudosa",
+  "stem": "La causa más común de fístula colovesical es:",
+  "opts": [
+   "Carcinoma de colon",
+   "Diverticulitis",
+   "Enfermedad de Crohn",
+   "Colitis ulcerosa",
+   "Carcinoma vesical"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente dice textualmente 'causa más común'. (El revisor había propuesto la opción B.) La fístula colovesical es la complicación fistulosa más frecuente de la diverticulitis (sobre todo en hombres, a la cúpula vesical) y el ABSITE trata la fístula colovesical 'por diverticulitis' como el caso típico, con resección del colon y cierre vesical; la neoplasia y la enfermedad de Crohn son causas menos comunes que obligan a cambiar el manejo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 363 (explicación 11) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 154 (tabla de diverticulitis) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente de los libros dice textualmente 'la causa más común de fístula colovesical es la diverticulitis'; Sabiston dice que la fístula colovesical es el tipo más frecuente de fístula de la diverticulitis y el ABSITE la presenta como complicación de diverticulitis."
+ },
+ "64f2b48969": {
+  "k": "64f2b48969",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años acude a consulta después de haber tenido tres episodios de diverticulitis no complicada en el último año, cada uno de los cuales requirió hospitalización por 5 días con antibióticos intravenosos y reposo intestinal. Es diabética. Las tomografías previas mostraron inflamación en el colon sigmoide con estriación de grasa. La colonoscopía posterior mostró divertículos en todo el colon, del ascendente al sigmoide, sin otra patología. ¿Cuál sería la recomendación?",
+  "opts": [
+   "Continuar con dieta rica en fibra",
+   "Colectomía total con ileoproctostomía",
+   "Colectomía sigmoidea con margen distal justo en la unión rectosigmoidea",
+   "Hemicolectomía izquierda con anastomosis colon transverso-recto",
+   "Colectomía sigmoidea con margen distal en el recto normal"
+  ],
+  "ans": 4,
+  "why": "En la cirugía de la diverticulitis solo hay que resecar el colon inflamado y engrosado aunque haya divertículos difusos; al quitar el colon distal baja la presión intraluminal y los divertículos proximales mayoritariamente se resuelven. La recurrencia se debe sobre todo a una resección distal inadecuada, y como los divertículos no ocurren en el recto, el margen distal se toma en recto de aspecto normal (donde las tenias se abren). Por eso no corresponde colectomía total, hemicolectomía izquierda ni margen en la unión rectosigmoidea. Además, con tres episodios y diabetes hay indicación de cirugía.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 169 (explicación 38) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 160 (pregunta 38) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 154 (tabla de diverticulitis) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "MAL HECHA: el banco simplificó la pregunta del ABSITE (no menciona el margen proximal y cambió la extensión de los divertículos a 'del ascendente al sigmoide'). La explicación del propio libro mantiene el principio: margen distal en recto normal, no en la unión rectosigmoidea. Aviso: en el texto del libro la letra de la clave aparece como B (margen distal donde las tenias se abren, que equivale a recto normal)."
+ },
+ "ad116baf61": {
+  "k": "ad116baf61",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años con estreñimiento crónico se presenta con dolor abdominal severo y fiebre. La tomografía computarizada muestra aire libre y estriación en el colon. El colon y el recto aparecen dilatados y llenos de grandes masas de heces. Intraoperatoriamente, se encuentra una perforación redonda de aproximadamente 1 cm en el colon, con bolas de heces engrosadas sobresaliendo. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a este paciente?",
+  "opts": [
+   "La perforación es más probable que ocurra en el ángulo esplénico.",
+   "Está asociada al uso de antiinflamatorios no esteroideos (AINEs).",
+   "Se maneja mejor con cierre primario y lavado.",
+   "Los agentes anticolinérgicos podrían haber prevenido esta condición.",
+   "La perforación usualmente se encuentra en el borde mesentérico."
+  ],
+  "ans": 1,
+  "why": "Es una úlcera estercorácea perforada: afecta a ancianos con estreñimiento crónico, un fecaloma causa isquemia local, úlcera y perforación, y se ha descrito asociación con el uso de AINEs. La perforación es redonda y antimesentérica en el rectosigmoides (no en el ángulo esplénico ni en el borde mesentérico), se evita el cierre simple y se hace resección con colostomía (Hartmann), y los anticolinérgicos empeoran el estreñimiento.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 165-166 (explicación 19) del PDF"
+  ],
+  "tema": "colon"
+ },
+ "0474a8d849": {
+  "k": "0474a8d849",
+  "estado": "confirmada",
+  "stem": "Una mujer de 71 años con EPOC se recupera de una neumonía en la unidad de cuidados intensivos. Está en ventilación mecánica. Su abdomen está distendido agudamente y no ha tenido evacuaciones en varios días. Las imágenes demuestran un ciego de 8 cm de diámetro con un patrón gaseoso de distensión que se extiende hasta el recto. No hay heces en la ampolla rectal. Sus signos vitales son estables. Su médico desea iniciar neostigmina. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la administración de neostigmina para esta condición?",
+  "opts": [
+   "La enfermedad coronaria es una contraindicación.",
+   "El bloqueo AV de segundo grado es una contraindicación.",
+   "La neostigmina no debe administrarse como infusión continua.",
+   "La neostigmina es efectiva en el 20% de los pacientes con esta condición.",
+   "Si una dosis en bolo de neostigmina falla, deben evitarse dosis repetidas."
+  ],
+  "ans": 1,
+  "why": "Es una pseudoobstrucción colónica aguda (síndrome de Ogilvie). Las contraindicaciones de la neostigmina incluyen retención urinaria aguda, síndrome coronario agudo, asma, broncoespasmo y bloqueo cardíaco de segundo o tercer grado. Se puede dar una segunda y tercera dosis o infusión continua, y responde entre el 80 y 90% con una dosis de 2 mg.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 166 (explicación 20) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 158 (pregunta 20) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "La opción B estaba cortada en el banco ('es una'); se completó con la imagen original ('es una contraindicación'). La opción A del banco habla de 'enfermedad coronaria'; el libro habla de síndrome coronario agudo."
+ },
+ "8c98ad52d8": {
+  "k": "8c98ad52d8",
+  "estado": "dudosa",
+  "stem": "Para la paciente de la pregunta anterior, la neostigmina no mejora sus síntomas. El ácido láctico está elevado y es llevada a quirófano. Su presión arterial es 108/68 mmHg y su frecuencia cardíaca 88 lpm. Intraoperatoriamente, su colon aparece inflamado y dilatado a 10 cm, pero no hay signos de isquemia. ¿Cuál de las siguientes es la opción terapéutica más apropiada?",
+  "opts": [
+   "Colectomía abdominal total con anastomosis ileoanal",
+   "Proctocolectomía con anastomosis bolsa",
+   "Colocación de cecostomía en uno o varios sitios del colon distendido",
+   "Inserción colónica retrógrada transanal de un tubo Faucher largo y multiperforado",
+   "Colectomía subtotal con ileostomía terminal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. El banco quitó que la descompresión endoscópica también falló, que es lo que lleva a la cecostomía. (El revisor había propuesto la opción C.) Si falla el manejo conservador del Ogilvie y no hay isquemia ni perforación en la laparotomía, se evita la colectomía y se coloca una sonda de colostomía (cecostomía o colostomía de sigmoides) en uno o varios sitios, como 'blow-hole', con éxito cercano al 95% y más eficaz que una colostomía formal. El tubo de Faucher transanal es una opción menos eficaz, y la colectomía (total o subtotal) se reserva si hay compromiso del intestino; la anastomosis primaria se evita por su alta tasa de fuga.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 166 (explicación 21) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 158 (pregunta 21) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "MAL HECHA: el banco quitó del enunciado que además de la neostigmina falló la descompresión endoscópica y que la radiografía mostraba ciego de 10 cm. La respuesta no cambia."
+ },
+ "698f0c04b5": {
+  "k": "698f0c04b5",
+  "estado": "confirmada",
+  "stem": "Un hombre de 32 años con diagnóstico de colitis ulcerosa hace 1 año se presenta en emergencias con ictericia. Es hospitalizado y los estudios son consistentes con colangitis esclerosante primaria. ¿Qué se recomienda adicionalmente?",
+  "opts": [
+   "Colonoscopía de cribado inmediata",
+   "Colonoscopía inmediata con biopsias aleatorias",
+   "Colonoscopía con biopsias aleatorias entre los 8 y 10 años después del diagnóstico de CU",
+   "Colonoscopía de cribado a los 50 años",
+   "Colonoscopía dirigida por síntomas según necesidad"
+  ],
+  "ans": 1,
+  "why": "Los pacientes con colangitis esclerosante primaria (que se asocia a EII, sobre todo CU, y aumenta el riesgo de cáncer colorrectal) deben recibir colonoscopia con biopsias aleatorias de inmediato al diagnosticar la CEP y continuar cada 1 a 2 años. Esperar 8 años desde el diagnóstico de CU (opción C) es la pauta para CU sin CEP; el cribado a los 50 años o por síntomas no aplica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 166 (explicación 22) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 151 (tabla de vigilancia) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "La opción E estaba cortada en el banco; se completó con la imagen original."
+ },
+ "b21c4e826b": {
+  "k": "b21c4e826b",
+  "estado": "confirmada",
+  "stem": "Un paciente de 35 años con antecedentes de CU se somete a una anastomosis ileoanal con reconstrucción en bolsa tipo J. Cuatro meses después, se presenta con 3 días de dolor abdominal, diarrea, hematoquecia y fiebre. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Usualmente no se requiere biopsia para su manejo",
+   "Es una complicación poco frecuente",
+   "El uso de probióticos no es útil",
+   "Frecuentemente se requiere excisión urgente de la bolsa",
+   "La ciprofloxacina es más eficaz que el metronidazol para tratar esta condición"
+  ],
+  "ans": 4,
+  "why": "Es pouchitis. Un estudio Cochrane mostró que la ciprofloxacina es más eficaz que el metronidazol para inducir remisión de la pouchitis aguda. Se requiere endoscopia con biopsia para descartar Crohn (A falsa), es la complicación tardía más frecuente con incidencia de 30 a 55% (B falsa), los probióticos son útiles en casos crónicos (C falsa) y rara vez se requiere excisión de la bolsa, nunca de urgencia (D falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 (explicación 24) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 153 (tabla CU) del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Opciones A, D y E estaban cortadas en el banco; se completaron con la imagen original. El banco añadió 'Cuatro meses después'."
+ },
+ "2d1a738f3a": {
+  "k": "2d1a738f3a",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años se presenta con dolor abdominal difuso leve y diarrea, con prueba inmunoquímica fecal positiva. Su historia médica es negativa. Su recuento de leucocitos es normal, al igual que su hematocrito. La tomografía computarizada muestra engrosamiento leve de la pared del colon en el ángulo esplénico con algo de estriación de grasa pericólica. ¿Cuál de los siguientes es el mejor siguiente paso en el manejo?",
+  "opts": [
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Antibióticos intravenosos e hidratación con fluidos",
+   "Colonoscopía",
+   "Angiografía mesentérica"
+  ],
+  "ans": 2,
+  "why": "Es colitis isquémica del ángulo esplénico (zona de Griffith, la más frecuente), en un adulto mayor con cuadro leve. El tratamiento es médico: reposo intestinal, hidratación y antibióticos de amplio espectro. La cirugía se reserva para deterioro o peritonitis, la colonoscopia no es necesaria en la fase aguda y la angiografía mesentérica no sirve porque suele ser un estado de bajo flujo y no una oclusión mayor.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 (explicación 12) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 154 (tabla de colitis isquémica) del PDF"
+  ],
+  "tema": "colon"
+ },
+ "fa22635009": {
+  "k": "fa22635009",
+  "estado": "dudosa",
+  "stem": "Una mujer de 69 años es tratada con metronidazol oral por un caso no complicado de colitis seudomembranosa. Desarrolla una recurrencia 2 semanas después. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "El metronidazol oral es el tratamiento de elección",
+   "La vancomicina oral es el tratamiento de elección",
+   "La vancomicina intravenosa es el tratamiento de elección",
+   "Generalmente se requiere sigmoidoscopía antes de continuar con otro tratamiento",
+   "Esta condición solo se desarrolla tras uso de antibióticos"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la opción 'de elección' depende de la guía. El ABSITE (tabla 2021) prefiere la fidaxomicina y deja la vancomicina como alternativa. (El revisor había propuesto la opción B.) La clave original (metronidazol oral) no es respaldada. Sabiston dice que la infección recurrente por C. difficile se trata con la pauta normal de vancomicina cuando el primer episodio se trató con metronidazol, y que para episodios leves se prefiere vancomicina oral y no metronidazol. Por eso la opción B es la única defendible: A es falsa, la vancomicina intravenosa no se usa para C. difficile (el ABSITE solo da el metronidazol IV como complemento en la forma fulminante), y no se menciona la sigmoidoscopía como requisito.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 293 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 153 (tabla C. difficile) del PDF",
+   "Sabiston 21.ª ed., p. 567 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: A (resaltado). MAL HECHA: la tabla de la guía IDSA/SHEA 2021 del ABSITE (p. 153) pone fidaxomicina como preferida en la primera recurrencia y vancomicina oral como alternativa, así que 'de elección' es discutible; aun así, entre las opciones solo B tiene respaldo (Sabiston). Opción B y D estaban cortadas y se completaron con la imagen original. Opción E (solo tras antibióticos) no se verificó con cita."
+ },
+ "853aee6b89": {
+  "k": "853aee6b89",
+  "estado": "dudosa",
+  "stem": "Una mujer de 38 años se presenta con 1 día de náuseas, vómitos, distensión abdominal y obstipación. No tiene antecedentes de cirugía ni enfermedades previas. El examen físico revela distensión con una masa timpánica en el cuadrante superior izquierdo y sensibilidad abdominal leve. El recuento de leucocitos es normal. Una radiografía abdominal simple revela un asa intestinal marcadamente dilatada, en forma de riñón, con marcaciones haustrales que se proyectan del cuadrante inferior derecho al cuadrante superior izquierdo. ¿Cuál de las siguientes es probablemente la mejor opción terapéutica?",
+  "opts": [
+   "Cecostomía",
+   "Detorsión quirúrgica con cecopexia",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Detorsión endoscópica inicial seguida de hemicolectomía derecha",
+   "Hemicolectomía derecha con anastomosis primaria"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. El banco quitó 'hemodinámicamente estable' y 'sin acidosis láctica', que es lo que decide entre la resección con anastomosis y la ileostomía (ABSITE p.164). (El revisor había propuesto la opción E.) Es un vólvulo cecal (asa en forma de riñón del cuadrante inferior derecho al superior izquierdo), más frecuente en jóvenes. El tratamiento de elección es la hemicolectomía derecha con anastomosis primaria, factible aun sin preparación intestinal. La descompresión endoscópica es muy difícil, la detorsión con cecopexia tiene alta recurrencia, la ileostomía con fístula mucosa es para colon ya gangrenoso y la sonda de cecostomía no es adecuada en un paciente joven y buen candidato quirúrgico.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 (explicación 14) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 156 (pregunta 14) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Opciones C, D y E estaban cortadas en el banco; se completaron con la imagen original. El enunciado omitió 'hemodinámicamente estable' y 'sin acidosis láctica' que sí trae el libro (queda 'leucocitos normales')."
+ },
+ "8264aee8c6": {
+  "k": "8264aee8c6",
+  "estado": "dudosa",
+  "stem": "Un hombre de 30 años se presenta con síntomas y signos de apendicitis aguda. Durante la cirugía, el apéndice parece rojo e inflamado pero sin perforación. Se observa aproximadamente 200 mL de líquido purulento en el canal paracólico derecho. Se realiza apendicectomía. La anatomía patológica final revela periappendicitis. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Adenitis mesentérica aguda",
+   "Fiebre mediterránea familiar",
+   "Úlcera duodenal perforada",
+   "Tuberculosis",
+   "Peritonitis primaria"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ningún libro trae este caso y solo se apoya en reportes de caso. (El revisor había propuesto la opción C.) Una apendicitis sin perforación, con líquido purulento en la gotera paracólica derecha y solo periapendicitis en la patología, indica que el origen del pus está fuera del apéndice: una úlcera péptica perforada (síndrome de Valentino), cuyo contenido desciende por la gotera paracólica derecha hasta la fosa ilíaca derecha y simula apendicitis. Los libros incluyen la úlcera perforada en el diagnóstico diferencial de la apendicitis; la adenitis mesentérica, la fiebre mediterránea familiar, la tuberculosis y la peritonitis primaria no explican pus en esta situación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1338 del PDF",
+   "Europe PMC PMID 36755937: Valentino's syndrome: a bizarre clinical presentation. J Surg Case Rep 2023",
+   "Europe PMC PMID 41321652: Valentino's syndrome: diagnostic challenge of acute lower abdominal pain. J Surg Case Rep 2025"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: ningún libro de la carpeta trae esta pregunta; la respuesta se apoya en que Sabiston incluye la úlcera perforada en el diferencial de la apendicitis y en reportes de caso revisados por pares del síndrome de Valentino (pus en fosa ilíaca derecha con apéndice normal y duodeno perforado). Las demás opciones no tienen respaldo."
+ },
+ "481b841404": {
+  "k": "481b841404",
+  "estado": "confirmada",
+  "stem": "Un hombre de 40 años se presenta con 5 días de dolor en el cuadrante inferior derecho, anorexia y fiebre. Al examen físico, presenta sensibilidad focal en el cuadrante inferior derecho y se palpa una masa. Una tomografía computarizada muestra un pequeño absceso (<1 cm) alrededor de un apéndice inflamado. Luego de la reanimación con líquidos y antibióticos intravenosos, ¿cuál de las siguientes es la conducta más apropiada?",
+  "opts": [
+   "Drenaje guiado por TC seguido de apendicectomía diferida",
+   "Manejo no operatorio inicial seguido de apendicectomía diferida",
+   "Apendicectomía laparoscópica",
+   "Apendicectomía abierta",
+   "Manejo no operatorio"
+  ],
+  "ans": 4,
+  "why": "Un paciente con historia prolongada de apendicitis y masa palpable probablemente tiene un absceso perforado y contenido. Se maneja mejor de forma no operatoria (antibióticos IV y reposo intestinal); la apendicectomía de intervalo ya no se hace en la mayoría, la apendicectomía inmediata es aceptable pero difícil y con más riesgo de ileocecectomía, y el drenaje guiado por TC no se recomienda de rutina cuando el absceso es pequeño.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 (explicación 27) del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 159 (pregunta 27) del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Opciones A y B estaban cortadas en el banco; se completaron con la imagen original."
+ },
+ "c7cc0459e8": {
+  "k": "c7cc0459e8",
+  "estado": "confirmada",
+  "stem": "Un hombre de 65 años se presenta con 2 días de dolor en el cuadrante inferior izquierdo, náuseas y fiebre leve. Al examen físico, su temperatura es de 100.5°F (38°C) y el recuento de leucocitos es de 14,000 células/µL. Tiene dolor localizado moderado en el cuadrante inferior izquierdo sin rebote. Se administran antibióticos. ¿Cuál de los siguientes está indicado como siguiente paso en el manejo?",
+  "opts": [
+   "Radiografía simple de abdomen",
+   "Tomografía computarizada",
+   "Sigmoidoscopía flexible",
+   "Enema con bario",
+   "Enema con gastrografin"
+  ],
+  "ans": 1,
+  "why": "En un paciente con sospecha de diverticulitis (dolor en fosa ilíaca izquierda, fiebre, leucocitosis), la TC es hoy la exploración más útil para confirmar el diagnóstico, descartar otros y clasificar la gravedad (Hinchey). La radiografía simple suele ser inespecífica, y la endoscopia flexible y el enema con contraste se evitan en la fase aguda por el riesgo de perforación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 682 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sabiston dice que la radiografía simple es por lo general inespecífica y que la endoscopia flexible debe abordarse con precaución en la fase aguda por riesgo de empeorar la perforación. Giménez: la TC es el estudio de elección y gold standard. El enema con bario/gastrografin como opciones no se descartan con cita textual propia: INDIRECTA solo para esas dos opciones."
+ },
+ "7ca1dd4f6e": {
+  "k": "7ca1dd4f6e",
+  "estado": "confirmada",
+  "stem": "La lesión perianal más común en la enfermedad de Crohn es:",
+  "opts": [
+   "Fisuras",
+   "Piel redundante (skin tags)",
+   "Absceso perianal",
+   "Fístulas perianales",
+   "Hemorroides"
+  ],
+  "ans": 1,
+  "why": "La lesión perianal más frecuente en la enfermedad de Crohn es la piel redundante (skin tag), seguida de las fisuras. Crohn también aumenta el riesgo de hemorroides, abscesos perianales y fístulas, pero ninguno es el más común.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 169 del PDF (respuesta 35)",
+   "de Virgilio ABSITE 3.ª ed., p. 160 del PDF (pregunta 35)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: B (resaltado), coincide con el libro."
+ },
+ "091043bf5c": {
+  "k": "091043bf5c",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años acude a consulta tras cuatro episodios de diverticulitis no complicada en el último año, cada uno de los cuales requirió 5 días de hospitalización con antibióticos IV y reposo intestinal. Es diabética. Las TC previas demostraron inflamación en el colon sigmoide con estriación grasa. La colonoscopía posterior mostró divertículos en la mayor parte del colon transverso, descendente y sigmoide, sin otra patología. ¿Cuál es la intervención quirúrgica más adecuada?",
+  "opts": [
+   "Colectomía total con ileoproctostomía",
+   "Colectomía sigmoidea con margen proximal en un área sin hipertrofia de la muscular propia y margen distal donde se abren las tenias",
+   "Colectomía izquierda con margen proximal donde cesan los divertículos y margen distal donde se abren las tenias",
+   "Colectomía sigmoidea con margen proximal en un área sin hipertrofia de la muscular propia y margen distal en la unión rectosigmoidea",
+   "Colectomía izquierda con margen proximal donde cesan los divertículos y margen distal en la unión rectosigmoidea"
+  ],
+  "ans": 1,
+  "why": "En la diverticulitis solo hay que resecar el colon inflamado y engrosado, aunque haya divertículos difusos: al quitar el colon distal, baja la presión intraluminal y la mayoría de los divertículos proximales se resuelve. Como los divertículos no ocurren en el recto, el margen distal va en recto de aspecto normal, que se reconoce porque las tenias se abren. Por eso es correcta la sigmoidectomía con margen distal donde se abren las tenias. La colectomía total y la izquierda hasta donde cesan los divertículos no son necesarias, y el margen distal en la unión rectosigmoidea deja riesgo de recurrencia.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 169 del PDF (respuesta 38)",
+   "de Virgilio ABSITE 3.ª ed., p. 160 del PDF (pregunta 38)"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado), coincide con el libro. En el libro la cirugía en diabéticos se ofrece con umbral más bajo tras episodios recurrentes."
+ },
+ "6fd4908978": {
+  "k": "6fd4908978",
+  "estado": "dudosa",
+  "stem": "Al comparar la apendicectomía laparoscópica con la abierta, ¿cuál de las siguientes afirmaciones es verdadera respecto a la laparoscópica?",
+  "opts": [
+   "Tiene un costo igual o inferior al de la apendicectomía abierta debido a menor duración quirúrgica",
+   "No afecta la duración de la estancia",
+   "Resulta en menor tasa de abscesos",
+   "No afecta la tasa de infecciones de herida",
+   "Permite menor uso de analgésicos"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente leída trata la opción A. (El revisor había propuesto la opción E.) Frente a la apendicectomía abierta, la laparoscópica reduce el dolor postoperatorio y las complicaciones de la herida; Giménez agrega menor requerimiento de opioides, menor estancia y menos infecciones de herida. Por eso es verdadero que permite menor uso de analgésicos. No es cierto que no afecte la estancia ni las infecciones de herida, y en apendicitis complicada Sabiston describe una incidencia de abscesos intraabdominales ligeramente superior, no menor.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1332 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 692-693 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: Clave original: E (resaltado). El texto del Giménez (p. 692) tiene el OCR dañado (se lee 'menor requerimiento de ... opioides' con letras corruptas) y ninguna fuente leída trata el costo o la duración quirúrgica de la opción A, que queda descartada solo por no tener respaldo."
+ },
+ "6119d95e19": {
+  "k": "6119d95e19",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años se presenta con signos y síntomas de apendicitis aguda. En la cirugía, el apéndice parece normal. Sin embargo, hay adenopatías difusas dentro del mesenterio del intestino delgado. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Se debe extraer el apéndice normal y realizar biopsia de los ganglios linfáticos mesentéricos",
+   "Esta condición suele causar más irritación peritoneal que la apendicitis",
+   "El recuento de leucocitos tiende a ser más alto que en la apendicitis",
+   "Ocurre con igual frecuencia en adultos y niños",
+   "Suele asociarse a una infección respiratoria alta antecedente"
+  ],
+  "ans": 4,
+  "why": "El cuadro es adenitis mesentérica (pseudoapendicitis): se da más en niños y suele estar precedida por una infección respiratoria alta; también se asocia a Yersinia, Campylobacter, Salmonella/Shigella y estreptococo faríngeo. Produce molestia más vaga y difusa que la apendicitis, con leucocitosis similar (10 000-15 000), es un diagnóstico de exclusión y no requiere biopsia ganglionar.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 169 del PDF (respuesta 36)",
+   "de Virgilio ABSITE 3.ª ed., p. 160 del PDF (pregunta 36)"
+  ],
+  "tema": "apendicitis",
+  "nota": "MAL HECHA: Clave original: E (resaltado), coincide con el libro. El banco cambió el enunciado: en el libro la pregunta es con ecografía (ganglios mesentéricos hipoecoicos y sin apéndice engrosado), no un hallazgo operatorio; además la opción A del libro es 'realizar laparoscopia diagnóstica' y en el banco dice 'extraer el apéndice normal y biopsiar ganglios'. La respuesta E no cambia."
+ },
+ "b3d4111796": {
+  "k": "b3d4111796",
+  "estado": "dudosa",
+  "stem": "Una mujer de 65 años se presenta con hemorragia gastrointestinal baja masiva. Su presión arterial inicial en urgencias es 80/60 mmHg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con líquidos, la presión arterial sube a 120/80 mmHg. El aspirado nasogástrico es negativo para sangre. ¿Cuál es el siguiente paso en su manejo?",
+  "opts": [
+   "Colonoscopía",
+   "Arteriografía mesentérica",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Proctoscopía",
+   "Laparotomía exploradora"
+  ],
+  "ans": null,
+  "why": "Tras la reanimación, la paciente está estable con aspirado nasogástrico negativo. El libro de ABSITE indica que el aspirado nasogástrico es un primer paso tras la reanimación, que las hemorroides se descartan con anoscopia durante la estabilización y que, si el paciente se estabiliza, se hace colonoscopia. Sabiston dice que el primer paso es descartar fuente anorrectal con tacto rectal y anoscopia o sigmoidoscopia, y que luego, en el paciente estable, la colonoscopia es casi siempre la exploración inicial de elección. En el enunciado del banco no se dice que la anoscopia ya se hizo, así que tanto proctoscopia como colonoscopia son defendibles y la evidencia no decide.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 166-167 del PDF (respuesta 23)",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 1185 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D proctoscopia (resaltado). En el ABSITE 3.ª ed. (pregunta 23, p. 158) el mismo caso dice 'una anoscopia al lado de la cama descartó hemorragia hemorroidal' y la respuesta es A, colonoscopia; el banco quitó esa frase, lo que cambia cuál es el siguiente paso."
+ },
+ "a8ddf41cee": {
+  "k": "a8ddf41cee",
+  "estado": "anulada",
+  "stem": "Varón de 80 años con dolor abdominal y leucocitosis. ¿Diagnóstico más probable?",
+  "opts": [
+   "Divertículo de Meckel complicado",
+   "Hernia hiatal ulcerada",
+   "Diverticulitis de colon derecho",
+   "Apendicitis del adulto mayor",
+   "Sigmoidectomía"
+  ],
+  "ans": null,
+  "why": "El enunciado está incompleto en el original: solo dice 'varón de 80 años con dolor abdominal y leucocitosis' sin localización, tiempo de evolución, signos ni estudios, así que no se puede decidir entre las opciones. Además la opción E (sigmoidectomía) es un procedimiento, no un diagnóstico.",
+  "fuentes": [
+   "Original (imagen del banco, p. 148)"
+  ],
+  "tema": "otros",
+  "nota": "Clave original: C (resaltado, diverticulitis de colon derecho). Texto reparado según el original; sin datos clínicos no hay fuente que respalde una opción."
+ },
+ "6578e4480f": {
+  "k": "6578e4480f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 66 años se presenta con gran volumen de heces color granate combinadas con sangre roja. En urgencias su presión arterial es de 100/60 mmHg y la frecuencia cardíaca es 120/min. El examen físico es normal. Se le colocan dos vías intravenosas de gran calibre y se administran 2 litros de solución salina, tras lo cual sus signos vitales se normalizan. Se solicitan estudios de laboratorio, incluyendo tipificación y cruce. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Administrar dos unidades de sangre O negativa",
+   "Colocar una sonda nasogástrica para aspiración",
+   "Colonoscopia",
+   "Laparotomía exploradora",
+   "Colocación de una vía central"
+  ],
+  "ans": 1,
+  "why": "Tras reanimar a un paciente con hemorragia digestiva baja, colocar una sonda nasogástrica y aspirar es un primer paso importante para descartar una fuente alta (hasta 15% de los pacientes con hematoquecia). La colonoscopia viene después, estando estable y con preparación intestinal, y la laparotomía se reserva al paciente inestable que sigue sangrando. Ya se normalizaron los signos, así que no corresponde transfundir sangre O ni colocar una vía central.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 166-167 del PDF (respuesta 23)",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 1185 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). La opción B estaba cortada en el banco ('para'); en el original dice 'para aspiración'. Sabiston pone antes la anoscopia/sigmoidoscopia y la colonoscopia es la exploración inicial en el paciente estable, pero entre las opciones dadas el libro de ABSITE nombra la sonda nasogástrica como primer paso tras la reanimación."
+ },
+ "2dc4c2f81b": {
+  "k": "2dc4c2f81b",
+  "estado": "confirmada",
+  "stem": "Un hombre de 27 años llega a urgencias con diarrea con sangre y urgencia rectal. Refiere apetito normal y no ha perdido peso significativo. La evaluación inicial no muestra hallazgos, por lo que se lo remite al gastroenterólogo para colonoscopia. Se encuentran seudopólipos en el colon y la biopsia confirma colitis ulcerosa. Se le inician corticosteroides y sulfasalazina, con buen control de síntomas. ¿Cuál de las siguientes afirmaciones es verdadera respecto al cáncer de colon y cribado en pacientes con colitis ulcerosa?",
+  "opts": [
+   "No se requiere cribado para cáncer de colon",
+   "Colonoscopia de cribado con biopsias aleatorias a los 8 años del inicio de la enfermedad",
+   "Colonoscopia de cribado con biopsia solo si se observa un pólipo sospechoso",
+   "Colonoscopia de cribado anual una vez establecido el diagnóstico",
+   "El riesgo de cáncer de colon es mucho menor que con la enfermedad de Crohn"
+  ],
+  "ans": 1,
+  "why": "En la colitis ulcerosa el riesgo de cáncer aumenta con el tiempo, el cáncer puede aparecer sin pólipos y la displasia plana puede no verse, por eso a partir de los 8 años de enfermedad se recomienda vigilancia colonoscópica anual con biopsias aleatorias además de las de zonas sospechosas. Por tanto no se omite el cribado, no se biopsia solo si hay pólipo, no se empieza al diagnóstico, y el riesgo no es mucho menor que en Crohn: en Crohn de larga duración se recomienda vigilancia tan radical como en colitis ulcerosa extensa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 162 del PDF (respuesta 6)",
+   "Sabiston 21.ª ed., p. 1374 del PDF",
+   "Sabiston 21.ª ed., p. 1285 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). La opción B estaba cortada en el banco; en el original dice 'Colonoscopia de cribado con biopsias aleatorias a los 8 años del inicio de la enfermedad'."
+ },
+ "05389a2b63": {
+  "k": "05389a2b63",
+  "estado": "dudosa",
+  "stem": "Un hombre de 50 años acude al médico por dolor al defecar. En ocasiones, observa sangre en el papel higiénico. Refiere constipación crónica y ha probado diversos ablandadores de heces sin éxito. El examen rectal muestra papilas anales agrandadas con una etiqueta cutánea edematosa e hipertrófica en la línea media posterior, sugestiva de fisura crónica. Se lo refiere a cirugía y se programa una esfinterotomía lateral interna. ¿Cuál es la complicación más común de este procedimiento?",
+  "opts": [
+   "Sangrado",
+   "Sepsis anorectal",
+   "Incontinencia fecal",
+   "Formación de fístula",
+   "No cicatrización de la fisura"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente dice textualmente que sea 'la más común'. (El revisor había propuesto la opción C.) Tras la esfinterotomía lateral interna, la complicación que se notifica con cifras es la incontinencia fecal (8 a 30%), casi siempre menor y de gases, sobre todo en los primeros 30 días. La cicatrización de la fisura es del 88 al 100%, por lo que la no cicatrización es poco frecuente. El libro de ABSITE añade que dividir solo el largo de la fisura minimiza la incontinencia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1432 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF (respuesta 15)"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: Clave original: C (resaltado). Ninguna fuente leída dice textualmente 'la complicación más común es la incontinencia'; se deduce porque es la única complicación con tasa citada (8-30%) frente a cicatrización de 88-100%, y sangrado, sepsis y fístula no tienen cifras en esas páginas."
+ },
+ "51bac74f44": {
+  "k": "51bac74f44",
+  "estado": "confirmada",
+  "stem": "Una mujer de 88 años con demencia por infartos múltiples se somete a una revascularización coronaria con uso de la arteria mamaria interna izquierda. La operación es exitosa y se traslada a la UCI. Recibe opioides para el dolor. Durante los días siguientes, desarrolla distensión abdominal marcada sin ruidos intestinales, dolor ni rigidez. No ha tenido evacuaciones en 48 horas. El tacto rectal no muestra heces retenidas. La radiografía muestra colon muy distendido con gas en el recto, sin niveles hidroaéreos. ¿Qué parte del colon es más probable que se perfore?",
+  "opts": [
+   "Ciego",
+   "Colon transverso",
+   "Colon sigmoide",
+   "Recto",
+   "El riesgo de perforación es muy bajo"
+  ],
+  "ans": 0,
+  "why": "El cuadro es seudoobstrucción colónica aguda (Ogilvie) con distensión que continúa hasta el recto. El ciego tiene la pared más delgada y, por su gran diámetro (ley de Laplace), es el sitio con mayor probabilidad de perforarse; la dilatación aguda de más de 12 cm se asocia a necrosis isquémica y perforación. En la seudoobstrucción el diámetro mayor suele estar en el ciego y colon ascendente (10-12 cm).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1345 del PDF",
+   "Sabiston 21.ª ed., p. 1367 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: A (resaltado), coincide con la fuente."
+ },
+ "db1a220485": {
+  "k": "db1a220485",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años llega con dolor abdominal. Nunca ha tenido este síntoma, pero refiere dolor en el lado izquierdo desde hace 2 días, que mejora tras defecar. Tiene fiebre de 101.2 °F, PA de 142/88 mmHg y pulso de 88/min. Leucocitos 14×10³/μL con 10% de bandas. La TC muestra engrosamiento focal de la pared sigmoidea con inflamación paracólica significativa. Es tratado 3 días como paciente hospitalizado y dado de alta sin complicaciones. ¿Cuál es la mejor opción de seguimiento?",
+  "opts": [
+   "Solo dieta rica en fibra",
+   "TC 2 semanas después de la resolución",
+   "Colectomía sigmoidea electiva",
+   "Enema de bario",
+   "Colonoscopia"
+  ],
+  "ans": 4,
+  "why": "Tras la recuperación de una diverticulitis se recomienda colonoscopia a las 4 a 8 semanas para descartar una neoplasia que simule diverticulitis (1 a 3%, más en la enfermedad complicada). El libro de ABSITE señala la colonoscopia en la enfermedad complicada o con hallazgos de alto riesgo en TC. Este paciente es un primer episodio, por lo que no está indicada colectomía electiva ni repetir TC, y el enema de bario no es la opción recomendada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1363 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 161 del PDF (respuesta 1)"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: E (resaltado), coincide con las fuentes. INDIRECTA solo para el descarte de 'solo dieta rica en fibra' y 'enema de bario', que ninguna cita trata directamente."
+ },
+ "a7c6a0da50": {
+  "k": "a7c6a0da50",
+  "estado": "confirmada",
+  "stem": "Una mujer de 28 años se presenta por dolor abdominal iniciado hace 2 horas. Tiene náuseas y ha vomitado dos veces. El dolor está en el cuadrante inferior derecho. PA 120/60 mmHg, FC 100/min, afebril. Muy dolorosa en punto de McBurney, con dolor al extender pasivamente la cadera derecha. Leucocitosis 14,000. Examen de orina con 1+ leucocitos. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Admitir para observación",
+   "TC abdominal",
+   "Apendicectomía laparoscópica",
+   "B-hCG",
+   "Antibióticos de amplio espectro"
+  ],
+  "ans": 3,
+  "why": "En una mujer en edad de procrear con sospecha de apendicitis la prueba de embarazo es obligatoria, porque el dolor puede deberse a complicaciones del embarazo (por ejemplo embarazo ectópico) y cambia el manejo. Sabiston también indica pedir hCG en mujeres en edad fértil con dolor abdominal agudo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Sabiston 21.ª ed., p. 1164 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (resaltado). La cirugía laparoscópica (opción C) es el tratamiento de fondo, pero la fuente dice que la prueba de embarazo es obligatoria antes. INDIRECTA solo para que la opción sea 'el siguiente paso' frente a la cirugía."
+ },
+ "71bf092a16": {
+  "k": "71bf092a16",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes patologías probablemente requerirá colectomía urgente?",
+  "opts": [
+   "Vólvulo cecal",
+   "Vólvulo sigmoideo",
+   "Diverticulitis aguda",
+   "Adenocarcinoma cecal",
+   "Colitis pseudomembranosa"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): la fuente no habla de colectomía 'urgente'. (El revisor había propuesto la opción A.) El vólvulo cecal no se trata endoscópicamente y debe manejarse quirúrgicamente con colectomía derecha por el alto riesgo de recurrencia (la detorsión con cecopexia recurre mucho). El vólvulo sigmoideo sin peritonitis ni isquemia se detorsiona primero por endoscopia y la sigmoidectomía se hace en 1 a 3 días.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF (respuesta 14)"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: Clave original: A (resaltado). El libro no dice literalmente 'colectomía urgente' para el vólvulo cecal; se deduce de que no admite tratamiento endoscópico y requiere colectomía derecha. Diverticulitis aguda, adenocarcinoma cecal y colitis seudomembranosa no tienen en las fuentes leídas indicación de colectomía urgente por sí solas."
+ },
+ "765893a791": {
+  "k": "765893a791",
+  "estado": "confirmada",
+  "stem": "Un hombre de 90 años con Alzheimer llega de un asilo con distensión abdominal y dolor de 12 horas. Toma hidroclorotiazida, donepezilo, aspirina y docusato. T° 102°F, PA 90/70 mmHg, FC 112/min. Abdomen rígido, sensible, con rebote. Leucocitos 15×10³, BUN 25, creatinina 1.8. RX: colon distendido con signo del tubo doblado. ¿Cuál es el siguiente paso tras hidratación y antibióticos?",
+  "opts": [
+   "Descompresión colonoscópica",
+   "TC abdominal y pélvica",
+   "Laparotomía exploradora",
+   "Colocación de sonda rectal",
+   "Ingreso hospitalario para observación"
+  ],
+  "ans": 2,
+  "why": "El cuadro es vólvulo sigmoideo (signo del tubo doblado) con signos de toxicidad sistémica y peritonitis (abdomen rígido con rebote, fiebre, hipotensión). Cuando hay peritonitis o isquemia el paciente necesita laparotomía con colectomía sigmoidea; la detorsión endoscópica solo es opción si no hay isquemia, perforación ni peritonitis.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF (respuesta 13)",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado), coincide con el libro."
+ },
+ "fc109c364e": {
+  "k": "fc109c364e",
+  "estado": "confirmada",
+  "stem": "Un hombre de 44 años se presenta con dolor en el cuadrante inferior derecho sin rebote, náuseas ni vómitos. La tomografía computarizada muestra engrosamiento de la pared intestinal cerca de la válvula ileocecal. Está programado para una apendicectomía. La patología final confirma apendicitis aguda. Además, se encuentra incidentalmente un tumor carcinoide de 2.5 cm en la punta del apéndice. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Observación",
+   "Colonoscopia dentro de los próximos 6 meses",
+   "Serie gastrointestinal alta con tránsito",
+   "Radiografía de tórax",
+   "Hemicolectomía derecha"
+  ],
+  "ans": 4,
+  "why": "En el ABSITE (de Virgilio) el carcinoide apendicular de más de 2 cm, o ubicado en la base, se trata con hemicolectomía derecha; solo los menores de 2 cm en la punta se tratan con apendicectomía simple. Este tumor mide 2.5 cm en la punta, así que corresponde la hemicolectomía derecha. Observación, colonoscopia, serie GI y radiografía de tórax no son tratamiento del tumor.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 135 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 168 del PDF (explicación de la pregunta 31)"
+  ],
+  "tema": "onco-digestivo",
+  "nota": "Clave original: E (resaltado). El libro dice 'right colectomy ... for those that are larger than 2 cm and located at the tip'."
+ },
+ "cd061b74a4": {
+  "k": "cd061b74a4",
+  "estado": "dudosa",
+  "stem": "Un niño de 4 años se presenta en urgencias con dolor en el cuadrante inferior derecho, náuseas y anorexia. En el examen físico, no se auscultan ruidos intestinales y hay marcada sensibilidad con defensa en el cuadrante inferior derecho. El resto del examen abdominal es negativo. Los análisis de laboratorio muestran leucocitosis con desviación a la izquierda. ¿Cuál es el evento inicial más probable para su condición aguda?",
+  "opts": [
+   "Hiperplasia linfoide",
+   "Fecalito",
+   "Infección parasitaria",
+   "Ganglios linfáticos mesentéricos aumentados",
+   "Ingesta de cuerpo extraño"
+  ],
+  "ans": null,
+  "why": "La clave original es hiperplasia linfoide. Giménez dice que la causa parietal más común de obstrucción apendicular es la hiperplasia folicular linfoidea, que suele darse en pacientes jóvenes. En cambio Sabiston dice que las causas más habituales de obstrucción luminal son la estasis fecal y los fecalitos, sin separar por edad, y una revisión de 2023 (PMC10152406) dice que la causa más común es el fecalito y que la hiperplasia linfoide es un factor importante 'especialmente en niños'. Ninguna fuente de la carpeta dice de forma directa cuál es el evento inicial más probable en un niño de 4 años, así que no se puede decidir entre A y B sin adivinar.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 688 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "PMC10152406 (Typical and Atypical Presentations of Appendicitis, 2023), Europe PMC"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: A (Hiperplasia linfoide, resaltado). El libro de Virgilio no trae esta pregunta. Misma duda que las preguntas e48d4b382c y fc2b568f4e."
+ },
+ "58eb226ba3": {
+  "k": "58eb226ba3",
+  "estado": "dudosa",
+  "stem": "Una mujer de 50 años se somete a una colonoscopia de rutina. Durante el procedimiento se observa una coloración oscura en todo el colon, con los folículos linfáticos apareciendo como parches pálidos. ¿Cuál es la causa subyacente más probable?",
+  "opts": [
+   "Ingesta excesiva de jugo de ciruela",
+   "Cáncer de colon",
+   "Abuso de laxantes",
+   "Variación anatómica normal",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción C.) Sabiston describe que en la melanosis del colon la mucosa colónica toma un color marrón-negro causado por los laxantes de antraquinona, y que no requiere tratamiento. El cuadro de la pregunta (colon oscuro en una colonoscopia de rutina) corresponde a esa descripción, por lo que la causa más probable es el abuso de laxantes. Cáncer, EII y variante normal no producen una oscurecimiento difuso de toda la mucosa según esa fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 290 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: Sabiston no menciona los folículos linfáticos pálidos ni el jugo de ciruela; la pregunta no nombra 'melanosis coli', se deduce de la coloración marrón-negra por laxantes. Clave original: C (resaltado)."
+ },
+ "a322fa6393": {
+  "k": "a322fa6393",
+  "estado": "confirmada",
+  "stem": "Un hombre de 88 años con enfermedad de Parkinson y EPOC es traído a urgencias desde un centro de enfermería por haber notado sangre roja brillante en su pañal. Su medicación incluye hidroclorotiazida, metformina, levodopa, salmeterol y docusato. A la admisión está afebril con PA y FC normales. La aspiración de la sonda nasogástrica retorna bilis amarilla. La colonoscopia muestra sangre roja brillante en el colon y múltiples divertículos, pero debido a la gran cantidad de heces y coágulos, no se identifica el sitio de sangrado. Sigue presentando rectorragia una hora después. La PA es 120/70 mmHg y la FC es 90/min. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Transfusión de dos unidades de glóbulos rojos",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Omeprazol y antibióticos"
+  ],
+  "ans": 2,
+  "why": "En de Virgilio, ante una hemorragia digestiva baja que sigue sangrando, el siguiente paso es la arteriografía mesentérica o la gammagrafía con glóbulos rojos marcados con tecnecio-99m; esta detecta sangrados de 0.1 mL/min y permite repetir imágenes hasta 24 horas. Aquí la colonoscopia no encontró el sitio por la cantidad de heces y coágulos y el paciente sigue sangrando estable; de las opciones, solo la gammagrafía es una de las dos indicadas. La EGD no aplica porque el aspirado nasogástrico trae bilis, la laparotomía se reserva si no se estabiliza o no se localiza la fuente, y la transfusión u omeprazol no localizan el sangrado.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 166-167 del PDF (explicación de la pregunta 23)"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). El libro da dos opciones (arteriografía o gammagrafía); la arteriografía no está entre las opciones del banco. La exclusión de la EGD por la bilis en la sonda nasogástrica es deducción del enunciado (el libro ve la sonda como paso inicial para descartar fuente alta)."
+ },
+ "816403d014": {
+  "k": "816403d014",
+  "estado": "dudosa",
+  "stem": "Una mujer de 62 años llega al servicio de urgencias con dolor abdominal agudo. Tiene antecedentes médicos significativos por diverticulitis. Se diagnostica diverticulitis no complicada y se maneja con reposo intestinal y antibióticos. Un año después, presenta otro episodio de diverticulitis que nuevamente se maneja exitosamente de forma ambulatoria. ¿Para cuál de las siguientes complicaciones tiene mayor riesgo esta paciente?",
+  "opts": [
+   "Enfermedad de Crohn",
+   "Colitis ulcerosa",
+   "Cáncer de colon",
+   "Cáncer anal",
+   "Formación de estenosis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción E.) Sabiston explica que los pacientes con diverticulitis crónica y recurrente pueden desarrollar fibrosis de la pared del colon que lleva a la formación de estenosis, con obstrucción parcial. De Virgilio también lista la estenosis como complicación electiva de la diverticulitis. El cáncer de colon en diverticulitis se menciona como 0.5% a 2.7% en la no complicada, y la enfermedad de Crohn, la colitis ulcerosa y el cáncer anal no aparecen como complicaciones de la diverticulitis recurrente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1363 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 161 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente compara el 'mayor riesgo' entre las opciones; la estenosis se confirma por Sabiston y las demás no tienen respaldo. Clave original: E (resaltado)."
+ },
+ "e48d4b382c": {
+  "k": "e48d4b382c",
+  "estado": "dudosa",
+  "stem": "¿Causa más frecuente de apendicitis aguda niños?",
+  "opts": [
+   "Fecalito",
+   "Cuerpo extraño",
+   "Tumor carcinoide",
+   "Hiperplasia linfoidea",
+   "Adenocarcinoma"
+  ],
+  "ans": null,
+  "why": "La clave original es hiperplasia linfoidea. Giménez dice que la causa parietal más común de obstrucción apendicular es la hiperplasia folicular linfoidea, frecuente en pacientes jóvenes. Sabiston dice que las causas más habituales son estasis fecal y fecalitos, sin distinguir por edad, y una revisión de 2023 dice que la causa más común es el fecalito y la hiperplasia linfoide es un factor importante 'especialmente en niños'. Ninguna fuente disponible dice de forma directa cuál es la causa más frecuente en niños, así que la evidencia no decide.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 688 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "PMC10152406 (Typical and Atypical Presentations of Appendicitis, 2023), Europe PMC"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (Hiperplasia linfoidea, resaltado). Duplicada con fc2b568f4e (misma pregunta)."
+ },
+ "e03e9d6144": {
+  "k": "e03e9d6144",
+  "estado": "dudosa",
+  "stem": "Varón de 27 años con sospecha de apendicitis, presenta dolor al extender el muslo derecho estando de lado izquierdo, sin dolor al rotar la cadera. ¿Dónde está la punta del apéndice?",
+  "opts": [
+   "Cuadrante inferior izquierdo",
+   "Extraperitoneal anterior al ciego",
+   "En la pelvis",
+   "Cuadrante superior derecho",
+   "Retrocecal sobre el psoas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción E.) La Tabla 46.1 de Sabiston asocia el signo del psoas (dolor al elevar la pierna extendida contra resistencia) con apendicitis aguda retrocecal, y el texto dice que los signos del psoas y del obturador sirven para localizar la posición del apéndice inflamado. Un apéndice retrocecal está en contacto con el psoas, por lo que la punta se encuentra retrocecal sobre el psoas. El cuadrante inferior izquierdo o superior derecho no tienen relación con este signo; la posición pélvica se asocia al signo del obturador.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1162 del PDF",
+   "Sabiston 21.ª ed., p. 1163 del PDF (Tabla 46.1)"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: la asociación psoas con retrocecal sale de la alineación de columnas de la Tabla 46.1 (el texto del PDF está desordenado) y no de una frase directa. Texto reparado con la imagen del original (estaba cortado). Clave original: E (resaltado)."
+ },
+ "96a4d446c9": {
+  "k": "96a4d446c9",
+  "estado": "dudosa",
+  "stem": "Dolor periumbilical en apendicitis aguda. qué se debe?",
+  "opts": [
+   "Deshidratación moderada",
+   "Irritación del peritoneo parietal",
+   "Íleo secundario",
+   "Estímulo del nervio vago",
+   "Estímulo simpático"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente lo dice tal cual. (El revisor había propuesto la opción E.) Sabiston explica que el dolor visceral periumbilical inicial de la apendicitis se debe a la distensión e inflamación del apéndice (órgano derivado del intestino medio), y que los órganos viscerales transmiten aferencias sensoriales simpáticas a ambos lados de la médula, por eso el dolor es vago y de línea media. La irritación del peritoneo parietal causa el dolor somático posterior localizado en la fosa ilíaca derecha, no el periumbilical. Por eso la opción B es falsa y la de estímulo simpático es la mejor respaldada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1111-1112 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: el libro dice que el dolor visceral viaja por aferencias simpáticas pero no usa la frase 'estímulo simpático'. Clave original: E (resaltado)."
+ },
+ "c5f64b8304": {
+  "k": "c5f64b8304",
+  "estado": "confirmada",
+  "stem": "Paciente mujer de 28 años gestante de 24 semanas presenta apendicitis aguda, presentando muerte fetal luego de apendicectomía abierta de emergencia. El factor fuertemente relacionado con mortalidad es:",
+  "opts": [
+   "edad gestacional del feto",
+   "apendicectomía abierta en lugar de laparoscópica",
+   "comorbilidades maternas",
+   "ruptura apendicular",
+   "retraso en la administración de atb"
+  ],
+  "ans": 3,
+  "why": "De Virgilio (explicación de la pregunta 8): la perforación apendicular es la variable más importante para determinar la mortalidad fetal en el embarazo. Además, la laparoscopia se asoció con mayor tasa de pérdida fetal que la apendicectomía abierta (OR 2.31), por lo que la apendicectomía abierta no es el factor de riesgo. Sabiston confirma que la apendicitis complicada eleva la pérdida fetal al 6%.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 163 del PDF",
+   "Sabiston 21.ª ed., p. 1337 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (ruptura apendicular, resaltado). Texto reparado con la imagen del original (cortado en la extracción)."
+ },
+ "551fca2f72": {
+  "k": "551fca2f72",
+  "estado": "corregida",
+  "stem": "Un hombre de 35 años presenta anorexia, dolor en el cuadrante inferior derecho y fiebre baja. Durante la cirugía, el apéndice es macroscópicamente normal, pero el ciego y el íleon terminal están inflamados. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "Apendicectomía",
+   "Hemicolectomía derecha",
+   "Biopsia del íleon terminal",
+   "Biopsia de la pared cecal",
+   "Cerrar la herida sin más intervención"
+  ],
+  "ans": 4,
+  "why": "En de Virgilio (pregunta 40), con apéndice normal y ciego e íleon terminal inflamados, el manejo correcto es cerrar la herida sin más intervención. No se debe hacer apendicectomía si el ciego está activamente inflamado porque aumenta el riesgo de fístula enterocutánea, y tampoco biopsias por el mismo riesgo; luego se hace colonoscopia con biopsias aleatorias en busca de enfermedad inflamatoria intestinal. La hemicolectomía no está indicada salvo perforación libre, fístula o estenosis.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 160 del PDF (pregunta 40)",
+   "de Virgilio ABSITE 3.ª ed., p. 169-170 del PDF (explicación 40)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: C (Biopsia del íleon terminal, resaltado). El ABSITE responde 'close wound without further intervention' y explica que la biopsia debe evitarse; el banco, o el aula virtual, pudo marcar otra respuesta. Texto reparado con la imagen del original (el inicio estaba con basura)."
+ },
+ "ddc84336a3": {
+  "k": "ddc84336a3",
+  "estado": "dudosa",
+  "stem": "Un adolescente de 14 años tiene dolor en el cuadrante inferior derecho por 2 días. Él dice que el dolor ha empezado en esa localización y gradualmente está empeorando. Al examen abdominal: dolor a la palpación profunda y rebote leve en cuadrante inferior derecho y cuadrante inferior izquierdo. Su temperatura es 38.2 C y su conteo de leucocitos es 8700. Él indica que tiene hambre pero su familia tiene miedo de darle alimentos. El siguiente paso en su manejo debe ser:",
+  "opts": [
+   "apendicectomía laparoscópica",
+   "laparotomía exploratoria",
+   "tomografia abdominal",
+   "inicio de terapia antibiótica",
+   "conteo de células rojas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). En niños Sabiston prefiere la ecografía, que no está entre las opciones. (El revisor había propuesto la opción C.) Sabiston indica que la TC no se recomienda cuando la sospecha clínica de apendicitis es firme, pero en casos equívocos reduce la tasa de apendicectomías negativas. Este adolescente tiene un cuadro dudoso (el dolor empezó en el cuadrante inferior derecho sin migrar, tiene apetito y leucocitos normales de 8700) con rebote en ambos cuadrantes inferiores, así que el siguiente paso es una imagen. Operar directamente (laparoscopia o laparotomía), dar solo antibióticos o pedir un conteo de células no resuelven el diagnóstico.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1329 del PDF",
+   "Sabiston 21.ª ed., p. 1888 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: Sabiston no trata este caso exacto; se aplica la regla de imagen en casos equívocos. En niños Sabiston prefiere la ecografía para evitar radiación (p. 1329), pero no está entre las opciones. Clave original: C (resaltado). Texto reparado con la imagen del original."
+ },
+ "39b26c8a9e": {
+  "k": "39b26c8a9e",
+  "estado": "confirmada",
+  "stem": "Un paciente varón de 30 años se presenta con antecedentes de tener dolor abdominal tipo cólico con 5 días de evolución en CID, anorexia, fiebre. En el examen físico: dolor localizado en CID y se palpa una masa. Una TAC abdominal muestra un absceso pequeño menor de 1 cm que rodea un apéndice inflamado. Después de la reanimación con líquidos y atb ev. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "drenaje guiado por TAC seguido de apendicectomía de intervalo",
+   "tratamiento no qx inicial seguido de apendicectomía de intervalo",
+   "apendicectomia laparoscopica",
+   "apendicectomía abierta",
+   "tratamiento no quirúrgico"
+  ],
+  "ans": 4,
+  "why": "De Virgilio (pregunta 27): en un paciente con historia prolongada de apendicitis y masa palpable, con absceso pequeño (<1 cm), se maneja de forma no operatoria con antibióticos IV y reposo intestinal. El libro dice que la apendicectomía de intervalo ya no se hace en la mayoría de pacientes con apendicitis perforada y que el drenaje de abscesos pequeños no se recomienda, por lo que A y B son falsas. La apendicectomía abierta o laparoscópica es aceptable pero con más riesgo de ileocecectomía.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 159 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF (explicación 27)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: E (tratamiento no quirúrgico, resaltado). Texto reparado con la imagen del original ('menor de 1 cm', 'con líquidos')."
+ },
+ "a0e9152883": {
+  "k": "a0e9152883",
+  "estado": "confirmada",
+  "stem": "Primigesta de 23 años, 22 semanas, apendicitis. ¿Cuál es la afirmación correcta?",
+  "opts": [
+   "N.A",
+   "Tratamiento quirúrgico por laparoscopía",
+   "Dar analgésicos y observar",
+   "No es la emergencia quirúrgica más frecuente del embarazo",
+   "Reevaluar en 24 h con antibióticos"
+  ],
+  "ans": 1,
+  "why": "Sabiston dice que la apendicectomía laparoscópica es el abordaje más habitual en gestantes y que se puede realizar de forma segura en embarazadas con apendicitis aguda (guías SAGES). También dice que el tratamiento conservador de la apendicitis no complicada en embarazadas no tiene papel, lo que descarta analgésicos y observar o reevaluar en 24 h con antibióticos. Y la apendicitis es la urgencia abdominal no obstétrica más frecuente que requiere cirugía en el embarazo, lo que descarta la opción D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1338 del PDF",
+   "Sabiston 21.ª ed., p. 2064 del PDF",
+   "Sabiston 21.ª ed., p. 1167 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). Sabiston p. 2064 reconoce que la evidencia de la laparoscopia como técnica de elección en el embarazo es débil, pero la considera segura y es la más usada; las demás opciones están descartadas."
+ },
+ "a96b4c3a08": {
+  "k": "a96b4c3a08",
+  "estado": "dudosa",
+  "stem": "La ruptura del apéndice ocurre con mayor frecuencia:",
+  "opts": [
+   "En la base",
+   "En la punta",
+   "En el borde mesentérico",
+   "En el borde antimesentérico",
+   "En mujeres"
+  ],
+  "ans": null,
+  "why": "La clave original es el borde antimesentérico, pero ninguna fuente de la carpeta dice dónde se rompe con más frecuencia el apéndice: Sabiston solo habla de isquemia y perforación sin precisar el sitio, y Giménez tampoco lo indica. Una búsqueda en Europe PMC no encontró una fuente revisada por pares que lo establezca. Además la opción E ('En mujeres') no es comparable con las demás. No hay evidencia para confirmar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Giménez 2.ª ed., p. 688 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: D (borde antimesentérico, resaltado). El libro de Virgilio menciona el borde antimesentérico solo para la perforación estercorácea del rectosigmoides y el mesentérico para otra perforación, no para el apéndice."
+ },
+ "fc2b568f4e": {
+  "k": "fc2b568f4e",
+  "estado": "dudosa",
+  "stem": "La causa más común de apendicitis aguda en niños es:",
+  "opts": [
+   "Fecalito",
+   "Tejido linfoide hipertrofiado",
+   "Ascariasis",
+   "Oxiuros",
+   "Semillas de frutas y/o verduras"
+  ],
+  "ans": null,
+  "why": "La clave original es tejido linfoide hipertrofiado. Giménez dice que la causa parietal más común de obstrucción apendicular es la hiperplasia folicular linfoidea, en pacientes jóvenes; Sabiston dice que las causas más habituales son estasis fecal y fecalitos, sin distinguir por edad; y una revisión de 2023 dice que el fecalito es la causa más común y la hiperplasia linfoide un factor importante 'especialmente en niños'. Ninguna fuente dice de forma directa cuál es la causa más común en niños, así que la evidencia no decide entre A y B.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 688 del PDF",
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "PMC10152406 (Typical and Atypical Presentations of Appendicitis, 2023), Europe PMC"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B (resaltado). Duplicada con e48d4b382c (misma pregunta)."
+ },
+ "3f835cd7a7": {
+  "k": "3f835cd7a7",
+  "estado": "dudosa",
+  "stem": "Al comparar la apendicectomía laparoscópica con la abierta, todas las siguientes son verdaderas respecto a la laparoscópica, EXCEPTO:",
+  "opts": [
+   "Es más costosa.",
+   "Resulta en una estancia hospitalaria más corta.",
+   "Disminuye la tasa de abscesos intraabdominales.",
+   "Disminuye la tasa de infección de la herida.",
+   "Permite un retorno más rápido al trabajo."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción C.) Sabiston dice que la apendicectomía laparoscópica se asocia a menos complicaciones de la herida y a menor morbilidad global, con posible ligero acortamiento de la recuperación. En cambio, en la apendicitis complicada registró una incidencia de abscesos intraabdominales ligeramente superior, y los estudios posteriores muestran tasas iguales o menores, no una disminución clara. Por eso 'disminuye la tasa de abscesos intraabdominales' es la afirmación que no se sostiene.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1332 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original C (resaltado). El libro respalda directamente que la laparoscópica no reduce los abscesos y sí reduce las infecciones de herida; los datos de costo, estancia más corta y regreso más rápido al trabajo no los encontré en cita directa (Sabiston solo dice 'posiblemente ligero acortamiento del tiempo de recuperación'), así que esas opciones no están verificadas una a una."
+ },
+ "22746ed9e9": {
+  "k": "22746ed9e9",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años se presenta con síntomas y signos de apendicitis aguda. En la cirugía, el apéndice se ve normal, pero hay adenopatía difusa en el mesenterio del intestino delgado. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Debe retirarse el apéndice normal y hacer biopsia de ganglios mesentéricos.",
+   "Esta condición generalmente causa más irritación peritoneal que la apendicitis.",
+   "El recuento de leucocitos tiende a ser más alto que en la apendicitis.",
+   "Ocurre con igual frecuencia en adultos y niños.",
+   "Suele asociarse a una infección respiratoria alta previa."
+  ],
+  "ans": 4,
+  "why": "El cuadro es adenitis mesentérica aguda (pseudoapendicitis). El ABSITE dice que es más común en niños y que suele ir precedida de una infección respiratoria alta. Las otras no: no hace falta biopsia ganglionar, la sensibilidad es más vaga y difusa y con menos defensa que en la apendicitis, la leucocitosis es similar (10-15 mil) y es más frecuente en niños.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 169 del PDF (respuesta 36); pregunta en p. 160"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original E (resaltado). Respaldo directo del libro."
+ },
+ "abd129b3da": {
+  "k": "abd129b3da",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones son verdaderas con respecto a la apendicitis aguda, EXCEPTO:",
+  "opts": [
+   "La capacidad luminal del apéndice es de 0,1 mL.",
+   "El dolor periumbilical inicial se debe a la estimulación de fibras viscerales aferentes.",
+   "La hiperperistalsis es una característica de la apendicitis temprana.",
+   "No existe la apendicitis crónica.",
+   "Los niños menores de 5 años tienen mayor tasa de perforación."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción D.) Sabiston incluye una sección 'Apendicitis crónica como causa de dolor abdominal': hay pacientes con dolor recurrente en los que la apendicectomía alivia los síntomas y el apéndice muestra hallazgos de inflamación crónica. Por eso decir que 'no existe la apendicitis crónica' es lo falso. Sobre el dolor periumbilical, Sabiston explica que la distensión del apéndice causa el dolor difuso inicial (visceral) y que luego se localiza en el cuadrante inferior derecho al irritar el peritoneo parietal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1335 del PDF (apendicitis crónica)",
+   "Sabiston 21.ª ed., p. 1326 del PDF (dolor visceral y somático)"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original D (resaltado). La opción D queda contradicha por Sabiston; no encontré en los libros la capacidad luminal de 0,1 mL, la hiperperistalsis temprana ni la mayor tasa de perforación en menores de 5 años, así que esas opciones no están verificadas una a una."
+ },
+ "156f9be5a1": {
+  "k": "156f9be5a1",
+  "estado": "dudosa",
+  "stem": "Todos los siguientes son signos de apendicitis aguda no perforada, EXCEPTO:",
+  "opts": [
+   "Defensa voluntaria",
+   "Signo del psoas",
+   "Signo del obturador",
+   "Fiebre de 39.4 °C (103 °F)",
+   "Hiperestesia cutánea"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción D.) Sabiston describe en la apendicitis sensibilidad y defensa en el cuadrante inferior derecho, y los signos del obturador y del psoas como indicadores de peritonitis localizada, útiles para avalar el diagnóstico. Sobre la fiebre, el libro da desde elevaciones leves (<38,5 °C) y Giménez dice que lo habitual es fiebre baja (<38 °C); la rigidez o peritonitis difusa sugiere perforación. Una fiebre de 39,4 °C no es lo típico de la no perforada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 688 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original D (resaltado). Ningún libro dice textualmente que 39,4 °C indique perforación; se deduce de que el texto describe fiebre baja y deja la rigidez/peritonitis difusa para la perforada. 'Hiperestesia cutánea' no la encontré en los libros."
+ },
+ "b2e2c1d393": {
+  "k": "b2e2c1d393",
+  "estado": "dudosa",
+  "stem": "Un hombre afroamericano de 30 años se presenta con signos de apendicitis aguda. En la cirugía, el apéndice se ve inflamado pero sin perforación. Se encuentran aproximadamente 200 mL de líquido purulento en el canal paracólico derecho. La patología final revela periapendicitis. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Adenitis mesentérica aguda",
+   "Fiebre mediterránea familiar",
+   "Úlcera duodenal perforada",
+   "Tuberculosis",
+   "Peritonitis primaria"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción C.) Sabiston explica que la perforación de una úlcera péptica duodenal puede desplazar líquido hacia el espacio subhepático, el canal paracólico derecho y la pelvis. Eso explica el líquido purulento en el canal paracólico derecho con un apéndice solo inflamado (periapendicitis, sin perforación). La adenitis mesentérica no produce pus peritoneal y las otras opciones no se asocian a este hallazgo en las fuentes consultadas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1113 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original C (resaltado). La fuente da el trayecto del líquido de la úlcera duodenal perforada, pero no menciona la periapendicitis; las demás opciones se descartan por deducción."
+ },
+ "f9ff5614a6": {
+  "k": "f9ff5614a6",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años se presenta con 4 días de dolor en el cuadrante inferior derecho, anorexia y fiebre. En el examen físico se palpa una masa en ese cuadrante. La TC muestra un pequeño absceso alrededor de un apéndice inflamado. Luego de la reanimación con líquidos y antibióticos IV, ¿cuál es el manejo más apropiado?",
+  "opts": [
+   "Drenaje guiado por TC",
+   "Manejo no operatorio inicial seguido de apendicectomía diferida",
+   "Apendicectomía laparoscópica",
+   "Apendicectomía abierta",
+   "Ileocecectomía"
+  ],
+  "ans": null,
+  "why": "El ABSITE trae esta pregunta (paciente de 40 años, absceso <1 cm, con masa palpable) y su respuesta es 'manejo no operatorio' (antibióticos IV y reposo intestinal), pues hoy no se hace apendicectomía de intervalo en la mayoría de los pacientes; dice que operar con técnica abierta o laparoscópica es aceptable, que la ileocecectomía se vuelve más probable por la inflamación y que el drenaje por TC de un absceso pequeño no se recomienda. En este banco la opción 'manejo no operatorio' no existe: la B es 'manejo no operatorio inicial seguido de apendicectomía diferida', que el libro marca como incorrecta. La respuesta del libro no está entre las opciones.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF (respuesta 27); pregunta en p. 159"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original B (resaltado). El banco cambió la opción E del libro ('manejo no operatorio') por 'ileocecectomía', cambió la edad (60 vs 40 años) y quitó el tamaño del absceso (<1 cm). La clave B incluye la apendicectomía diferida, que el libro rechaza como rutina; no hay opción que coincida con la respuesta del libro. MAL HECHA: el texto de la opción B estaba cortado y se completó con la imagen."
+ },
+ "714bfd5abc": {
+  "k": "714bfd5abc",
+  "estado": "confirmada",
+  "stem": "La arteria apendicular es una rama de:",
+  "opts": [
+   "Arteria cólica derecha",
+   "Arteria cólica media",
+   "Arteria cólica izquierda",
+   "Arteria ileocólica",
+   "Arteria hipogástrica"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la irrigación del apéndice deriva de la arteria mesentérica superior; la arteria ileocólica, una de sus ramas principales, origina la arteria apendicular, que discurre por el mesoapéndice. Las arterias cólicas derecha, media e izquierda y la hipogástrica no son su origen.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1325 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original D (resaltado). Las otras opciones se descartan porque el libro da solo a la ileocólica como origen."
+ },
+ "32f9860d26": {
+  "k": "32f9860d26",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el tratamiento más recomendado para una fisura anal crónica en mujer de 38 años?",
+  "opts": [
+   "Fisurotomía",
+   "Dieta rica en fibra y baños de asiento",
+   "Esfinterotomía química",
+   "Esfinterotomía lateral interna",
+   "Esfinterotomía lateral externa"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que el paso inicial del tratamiento debe ser más líquidos y fibra y baños de asiento, que las fisuras crónicas tienen menos probabilidad de cicatrizar solo con medidas conservadoras, y que la esfinterotomía lateral interna es superior a nitratos, calcioantagonistas y toxina botulínica (cicatrización 88-100%, incontinencia 8-30%). El ABSITE llama a la esfinterotomía lateral interna el tratamiento quirúrgico de referencia, pero también dice que el tratamiento no operatorio empieza con fibra y baños de asiento y que la cirugía se reserva para quienes fallan. 'Tratamiento más recomendado' puede leerse como primer paso (B) o como el más eficaz (D); la evidencia no decide una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 y 1432 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF (respuesta 15)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D (resaltado, esfinterotomía lateral interna). Defendible, pero B también lo es según cómo se lea 'más recomendado'. La opción 'esfinterotomía química' (C) no es un término que use el libro."
+ },
+ "2cd4c9acd8": {
+  "k": "2cd4c9acd8",
+  "estado": "dudosa",
+  "stem": "Joven con hemorroides tipo IV y III. ¿Cuál es el tratamiento quirúrgico de elección?",
+  "opts": [
+   "Hemorroidectomía (Parks)",
+   "Hemorroidectomía (Milligan-Morgan)",
+   "Hemorroidectomía máximo 3 paquetes",
+   "Ligadura con banda (Barrón)",
+   "Solo tratamiento médico"
+  ],
+  "ans": null,
+  "why": "Sabiston indica la hemorroidectomía por escisión (abierta o cerrada) para hemorroides con prolapso grados III-IV. Añade que la técnica más usada es la cerrada (Ferguson), con menos dolor, cicatrización más rápida y menos hemorragia que la abierta (Milligan-Morgan). El libro no menciona la técnica de Parks ni jerarquiza una 'de elección' entre las opciones A, B y C, que describen formas de escisión; por eso la evidencia no decide una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1429 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (Milligan-Morgan, resaltado). Sabiston nombra a Milligan-Morgan como abierta y dice que la cerrada es la más usada, así que no respalda a B como 'de elección'. La opción C ('máximo 3 paquetes') no es una técnica distinta."
+ },
+ "662c8c5125": {
+  "k": "662c8c5125",
+  "estado": "confirmada",
+  "stem": "Una mujer de 80 años presenta prolapso rectal. Tiene antecedentes de estreñimiento crónico. La colonoscopia no muestra lesiones relevantes. ¿Cuál es el tratamiento quirúrgico más adecuado?",
+  "opts": [
+   "Resección de la hernia perineal y cierre del fondo de saco (procedimiento de Moschcowitz)",
+   "Técnica anal de Thiersch",
+   "Rectosigmoidectomía perineal (procedimiento de Altemeier)",
+   "Fijación del recto con malla protésica (reparación de Ripstein)",
+   "Resección anterior con rectopexia"
+  ],
+  "ans": 2,
+  "why": "En una mujer anciana con comorbilidades, el ABSITE indica un procedimiento perineal: la rectosigmoidectomía perineal (Altemeier) tiene 15% de recurrencia y es buena opción en ancianos de alto riesgo. Los procedimientos abdominales (Ripstein, resección anterior con rectopexia) se reservan para jóvenes de bajo riesgo, la Thiersch ya no se usa y la Moschcowitz se hace más bien para el prolapso vaginal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181-182 del PDF (respuesta 22); pregunta en p. 177"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado). Respaldo directo. El enunciado del banco omite 'múltiples comorbilidades significativas' del original del libro, dato que apoya la vía perineal."
+ },
+ "8433e92a17": {
+  "k": "8433e92a17",
+  "estado": "dudosa",
+  "stem": "El músculo elevador del ano incluye todos EXCEPTO:",
+  "opts": [
+   "Iliopúbico",
+   "Pubococígeo",
+   "Puborrectal",
+   "N.A",
+   "Iliococígeo"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la corrección es deducida (el revisor la marcó INDIRECTA). Sabiston no nombra al 'iliopúbico', y la pregunta EXCEPTO trae una opción 'N.A' que no tiene sentido. (El revisor había propuesto la opción A.) Sabiston dice que el elevador del ano consta de tres subdivisiones: pubococcígea, iliococcígea y puborrectal. Por eso pubococígeo, puborrectal e iliococígeo sí forman parte y el 'iliopúbico' es la única opción que no está entre ellas. La clave original (pubococígeo) es parte del elevador, así que no puede ser el EXCEPTO.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1353 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA. Clave original B (pubococígeo, resaltado): contradice a Sabiston. El libro no nombra al 'iliopúbico' ni dice que no sea parte; se deduce de que no está en la lista de tres. La opción D 'N.A' está mal definida. MAL HECHA: opción 'N.A' sin sentido en una pregunta EXCEPTO."
+ },
+ "7b2822b133": {
+  "k": "7b2822b133",
+  "estado": "dudosa",
+  "stem": "Un hombre de 54 años es intervenido quirúrgicamente por una fístula-in-ano extrasfinteriana. No tiene antecedentes quirúrgicos. Sus enfermedades actuales incluyen hipertensión, diabetes mellitus, sinusitis crónica y síndrome de intestino irritable. ¿Cuál es uno de los principios quirúrgicos clave para su manejo?",
+  "opts": [
+   "Evitar colocar una guía en el trayecto de la fístula",
+   "Eliminar el orificio primario de la fístula",
+   "Corticoides intravenosos preoperatorios",
+   "Desroofing parcial del trayecto fistuloso",
+   "Lavado rectal con antibióticos"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción B.) Sabiston: los objetivos del tratamiento de la fístula anal son eliminar el foco séptico, extirpar los trayectos epitelizados, evitar la incontinencia y la recidiva, y lo ideal es lograr el cierre del orificio interno. El ABSITE define el orificio primario como el orificio interno en la cripta anal. Las otras opciones no tienen respaldo: Sabiston pasa una sonda por la fístula (no se evita), y no habla de corticoides, desroofing parcial ni lavado con antibióticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 y 1434 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 171 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA. Clave original B (resaltado). Ningún libro dice textualmente 'eliminar el orificio primario' como principio; se deduce de eliminar el foco séptico y cerrar el orificio interno (= primario)."
+ },
+ "d02854f983": {
+  "k": "d02854f983",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de la anatomía anorrectal?",
+  "opts": [
+   "El elevador del ano marca el punto de transición entre el recto y el colon sigmoide.",
+   "La fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos.",
+   "La fascia de Waldeyer es anterior a la fascia de Denonvilliers.",
+   "En los hombres, la fascia de Denonvilliers separa el recto del sacro.",
+   "El canal anal quirúrgico es más largo en las mujeres que en los hombres."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción B.) Sabiston: la aponeurosis presacra cubre el sacro y el cóccix, y por debajo están las venas presacras (plexo venoso presacro), con hemorragia grave si se diseca profundo; la disección del recto va entre la aponeurosis presacra y la fascia propia. La fascia de Waldeyer une la presacra con la fascia propia por detrás del recto, la de Denonvilliers está por delante del recto y lo separa de las estructuras anteriores (A, C, D falsas), y la unión rectosigmoidea se ubica por las tenias a nivel del promontorio sacro, no en el elevador.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1352 del PDF",
+   "Sabiston 21.ª ed., p. 1349 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA. Clave original B (resaltado). El libro no dice textualmente que separe el recto de 'los nervios pélvicos', y no encontré la longitud del canal anal quirúrgico por sexo (opción E), así que E no está verificada. MAL HECHA: la opción B venía cortada en el banco y se completó con la imagen ('plexo venoso presacro y los nervios pélvicos')."
+ },
+ "89212781cf": {
+  "k": "89212781cf",
+  "estado": "confirmada",
+  "stem": "Hombre de 30 años con absceso pilonidal en hendidura interglútea, posterior al ano, con abundante vello. ¿Cuál es el mejor manejo?",
+  "opts": [
+   "Incisión y drenaje en la hendidura",
+   "Incisión y drenaje lateral a la hendidura interglutea",
+   "Escisión en bloque con colgajo",
+   "Escisión con cierre primario",
+   "Destechado del trayecto y marsupialización"
+  ],
+  "ans": 1,
+  "why": "El ABSITE dice que el absceso pilonidal agudo se trata con incisión y drenaje lateral a la hendidura interglútea y no directamente en ella, porque en la línea media hay fricción constante y cicatriza mal. Las otras opciones (excisión con colgajo, excisión con cierre primario, destechado y marsupialización) las reserva para la enfermedad crónica.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF (respuesta 19); pregunta en p. 177"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (resaltado). Respaldo directo."
+ },
+ "5932fbc73c": {
+  "k": "5932fbc73c",
+  "estado": "corregida",
+  "stem": "Hombre de 35 años con leucemia y neutropenia severa, dolor anal intenso e induración sin masa. ¿Cuál es la mejor conducta?",
+  "opts": [
+   "Antibióticos intravenosos solamente",
+   "Anoscopia y drenaje solo si hay masa fluctuante",
+   "Anoscopia con incisión quirúrgica sólo si hay masa",
+   "Examen bajo anestesia con desbridamiento amplio",
+   "Examen bajo anestesia con biopsia de áreas induradas e incisión y drenaje si no se detecta el pus"
+  ],
+  "ans": 0,
+  "why": "El ABSITE dice que en un paciente con neutropenia severa y sin fluctuación, los antibióticos IV solos son el tratamiento adecuado. Solo si no mejora o aparece fluctuación se hace examen bajo anestesia para drenar. La biopsia de áreas induradas se plantea en ese contexto, no como conducta inicial. El desbridamiento amplio no está indicado y la anoscopia con drenaje solo si hay masa (B, C) no es lo que el libro propone.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181-182 del PDF (respuesta 20); pregunta en p. 177"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original E (resaltado, examen bajo anestesia con biopsia e incisión y drenaje aunque no haya pus). El ABSITE responde A y explica que E es para quien no mejora. Es posible que el examen del aula virtual haya tenido otra clave; aquí manda el libro."
  }
 }

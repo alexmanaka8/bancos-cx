@@ -60,10 +60,10 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 450,
-   "conClave": 450,
+   "n": 479,
+   "conClave": 479,
    "secciones": 20,
-   "verificadas": 450,
+   "verificadas": 479,
    "altoValor": 128
   },
   {
@@ -315,7 +315,7 @@
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
    "semana": 5,
-   "n": 74,
+   "n": 88,
    "alto": 23
   },
   {
@@ -323,7 +323,7 @@
    "nombre": "Apendicitis aguda",
    "clase": "25",
    "semana": 5,
-   "n": 35,
+   "n": 44,
    "alto": 20
   },
   {
@@ -331,7 +331,7 @@
    "nombre": "Patología anorrectal benigna",
    "clase": "26",
    "semana": 5,
-   "n": 66,
+   "n": 71,
    "alto": 20
   },
   {
@@ -398,7 +398,7 @@
    "nombre": "Cáncer digestivo",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 22,
+   "n": 23,
    "alto": 19
   },
   {

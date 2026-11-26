@@ -1,0 +1,272 @@
+[
+ {
+  "k": "3f835cd7a7",
+  "sec": "Apéndice",
+  "stem": "Al comparar la apendicectomía laparoscópica con la abierta, todas las siguientes son verdaderas respecto a la laparoscópica, EXCEPTO:",
+  "opts": [
+   "Es más costosa.",
+   "Resulta en una estancia hospitalaria más corta.",
+   "Disminuye la tasa de abscesos intraabdominales.",
+   "Disminuye la tasa de infección de la herida.",
+   "Permite un retorno más rápido al trabajo."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 153,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "22746ed9e9",
+  "sec": "Apéndice",
+  "stem": "Un niño de 10 años se presenta con síntomas y signos de apendicitis aguda. En la cirugía, el apéndice se ve normal, pero hay adenopatía difusa en el mesenterio del intestino delgado. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Debe retirarse el apéndice normal y hacer biopsia de ganglios mesentéricos.",
+   "Esta condición generalmente causa más irritación peritoneal que la apendicitis.",
+   "El recuento de leucocitos tiende a ser más alto que en la apendicitis.",
+   "Ocurre con igual frecuencia en adultos y niños.",
+   "Suele asociarse a una infección respiratoria alta previa."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 153,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "abd129b3da",
+  "sec": "Apéndice",
+  "stem": "Todas las siguientes afirmaciones son verdaderas con respecto a la apendicitis aguda, EXCEPTO:",
+  "opts": [
+   "La capacidad luminal del apéndice es de 0,1 mL.",
+   "El dolor periumbilical inicial se debe a la estimulación de fibras viscerales aferentes.",
+   "La hiperperistalsis es una característica de la apendicitis temprana.",
+   "No existe la apendicitis crónica.",
+   "Los niños menores de 5 años tienen mayor tasa de perforación."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 154,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "156f9be5a1",
+  "sec": "Apéndice",
+  "stem": "Todos los siguientes son signos de apendicitis aguda no perforada, EXCEPTO:",
+  "opts": [
+   "Defensa voluntaria",
+   "Signo del psoas",
+   "Signo del obturador",
+   "Fiebre de 39.4 °C (103 °F)",
+   "Hiperestesia cutánea"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 154,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "b2e2c1d393",
+  "sec": "Apéndice",
+  "stem": "Un hombre afroamericano de 30 años se presenta con signos de apendicitis aguda. En la cirugía, el apéndice se ve inflamado pero sin perforación. Se encuentran aproximadamente 200 mL de líquido purulento en el canal paracólico derecho. La patología final revela periapendicitis. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Adenitis mesentérica aguda",
+   "Fiebre mediterránea familiar",
+   "Úlcera duodenal perforada",
+   "Tuberculosis",
+   "Peritonitis primaria"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 154,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "f9ff5614a6",
+  "sec": "Apéndice",
+  "stem": "Un hombre de 60 años se presenta con 4 días de dolor en el cuadrante inferior derecho, anorexia y fiebre. En el examen físico se palpa una masa en ese cuadrante. La TC muestra un pequeño absceso alrededor de un apéndice inflamado. Luego de la reanimación con líquidos y antibióticos IV, ¿cuál es el manejo más apropiado?",
+  "opts": [
+   "Drenaje guiado por TC",
+   "Manejo no operatorio inicial seguido de",
+   "Apendicectomía laparoscópica",
+   "Apendicectomía abierta",
+   "Ileocecectomía"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 154,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "714bfd5abc",
+  "sec": "Apéndice",
+  "stem": "La arteria apendicular es una rama de:",
+  "opts": [
+   "Arteria cólica derecha",
+   "Arteria cólica media",
+   "Arteria cólica izquierda",
+   "Arteria ileocólica",
+   "Arteria hipogástrica"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 154,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "32f9860d26",
+  "sec": "Apéndice",
+  "stem": "¿Cuál es el tratamiento más recomendado para una fisura anal crónica en mujer de 38 años?",
+  "opts": [
+   "Fisurotomía",
+   "Dieta rica en fibra y baños de asiento",
+   "Esfinterotomía química",
+   "Esfinterotomía lateral interna",
+   "Esfinterotomía lateral externa"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "2cd4c9acd8",
+  "sec": "Apéndice",
+  "stem": "Joven con hemorroides tipo IV y III. ¿Cuál es el tratamiento quirúrgico de elección?",
+  "opts": [
+   "Hemorroidectomía (Parks)",
+   "Hemorroidectomía (Milligan-Morgan)",
+   "Hemorroidectomía máximo 3 paquetes",
+   "Ligadura con banda (Barrón)",
+   "Solo tratamiento médico"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "662c8c5125",
+  "sec": "Apéndice",
+  "stem": "Una mujer de 80 años presenta prolapso rectal. Tiene antecedentes de estreñimiento crónico. La colonoscopia no muestra lesiones relevantes. ¿Cuál es el tratamiento quirúrgico más adecuado?",
+  "opts": [
+   "Resección de la hernia perineal y cierre del fondo de saco (procedimiento de Moschcowitz)",
+   "Técnica anal de Thiersch",
+   "Rectosigmoidectomía perineal (procedimiento de Altemeier)",
+   "Fijación del recto con malla protésica (reparación de Ripstein)",
+   "Resección anterior con rectopexia"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "8433e92a17",
+  "sec": "Apéndice",
+  "stem": "El músculo elevador del ano incluye todos EXCEPTO:",
+  "opts": [
+   "Iliopúbico",
+   "Pubococígeo",
+   "Puborrectal",
+   "N.A",
+   "Iliococígeo"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "7b2822b133",
+  "sec": "Apéndice",
+  "stem": "Un hombre de 54 años es intervenido quirúrgicamente por una fístula-in-ano extrasfinteriana. No tiene antecedentes quirúrgicos. Sus enfermedades actuales incluyen hipertensión, diabetes mellitus, sinusitis crónica y síndrome de intestino irritable. ¿Cuál es uno de los principios quirúrgicos clave para su manejo?",
+  "opts": [
+   "Evitar colocar una guía en el trayecto de la fístula",
+   "Eliminar el orificio primario de la fístula",
+   "Corticoides intravenosos preoperatorios",
+   "Desroofing parcial del trayecto fistuloso",
+   "Lavado rectal con antibióticos"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "d02854f983",
+  "sec": "Apéndice",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de la anatomía anorrectal?",
+  "opts": [
+   "El elevador del ano marca el punto de transición entre el recto y el colon sigmoide.",
+   "La fascia presacra separa el recto del plexo",
+   "La fascia de Waldeyer es anterior a la fascia de Denonvilliers.",
+   "En los hombres, la fascia de Denonvilliers separa el recto del sacro.",
+   "El canal anal quirúrgico es más largo en las mujeres que en los hombres."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "89212781cf",
+  "sec": "Apéndice",
+  "stem": "Hombre de 30 años con absceso pilonidal en hendidura interglútea, posterior al ano, con abundante vello. ¿Cuál es el mejor manejo?",
+  "opts": [
+   "Incisión y drenaje en la hendidura",
+   "Incisión y drenaje lateral a la hendidura interglutea",
+   "Escisión en bloque con colgajo",
+   "Escisión con cierre primario",
+   "Destechado del trayecto y marsupialización"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "5932fbc73c",
+  "sec": "Apéndice",
+  "stem": "Hombre de 35 años con leucemia y neutropenia severa, dolor anal intenso e induración sin masa. ¿Cuál es la mejor conducta?",
+  "opts": [
+   "Antibióticos intravenosos solamente",
+   "Anoscopia y drenaje solo si hay masa fluctuante",
+   "Anoscopia con incisión quirúrgica sólo si hay masa",
+   "Examen bajo anestesia con desbridamiento amplio",
+   "Examen bajo anestesia con biopsia de áreas induradas e incisión y drenaje si no se detecta el pus"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 155,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ }
+]

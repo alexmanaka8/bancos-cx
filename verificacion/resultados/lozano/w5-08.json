@@ -101,7 +101,7 @@
  },
  {
   "k": "1ef45405b0",
-  "estado": "corregida",
+  "estado": "dudosa",
   "stem": "Una mujer de 65 años se presenta con una hemorragia masiva del tracto gastrointestinal inferior. Su presión arterial inicial en emergencias es de 80/60 mm Hg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con volumen, la presión arterial aumenta a 120/80 mm Hg. El aspirado nasogástrico es negativo para sangre. El siguiente paso en el manejo es:",
   "opts": [
    "Colonoscopía",
@@ -110,8 +110,8 @@
    "Proctoscopía",
    "Laparotomía exploradora"
   ],
-  "ans": 0,
-  "why": "En un sangrado digestivo bajo masivo que se estabiliza con reanimación, tras descartar fuente alta con aspirado nasogástrico, se hace colonoscopía apenas esté preparada. La arteriografía o el gammagrama se usan si continúa sangrando; la laparotomía si no se estabiliza o no se localiza la fuente. La proctoscopía solo sirve para descartar hemorroides.",
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. En el ABSITE (pregunta 23) la anoscopia ya se había hecho y por eso la respuesta es colonoscopía; sin ese dato, la proctoscopía también es defendible (Sabiston p.1185 pone primero la anoscopia). Es el mismo caso que lozano b3d4111796. (El revisor había propuesto la opción A.) En un sangrado digestivo bajo masivo que se estabiliza con reanimación, tras descartar fuente alta con aspirado nasogástrico, se hace colonoscopía apenas esté preparada. La arteriografía o el gammagrama se usan si continúa sangrando; la laparotomía si no se estabiliza o no se localiza la fuente. La proctoscopía solo sirve para descartar hemorroides.",
   "fuentes": [
    "de Virgilio ABSITE 3.ª ed., p. 166 del PDF",
    "de Virgilio ABSITE 3.ª ed., p. 167 del PDF"

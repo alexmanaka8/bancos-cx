@@ -1,0 +1,272 @@
+[
+ {
+  "k": "4fdbad907c",
+  "sec": "Intestino delgado",
+  "stem": "Una fuente importante de energía para los colonocitos es:",
+  "opts": [
+   "Cuerpos cetónicos",
+   "Glucosa",
+   "Aminoácidos",
+   "Butirato",
+   "Glutamina"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 142,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "0c1dbe3228",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 35 años se presenta con náuseas, dos episodios de vómito, distensión abdominal y obstipación. La radiografía abdominal muestra un asa en forma de riñón en el cuadrante superior izquierdo. El enema con Gastrografin revela corte abrupto del contraste en el colon transverso. El manejo debe consistir en:",
+  "opts": [
+   "Descompresión endoscópica",
+   "Descompresión endoscópica y, si es exitosa, colectomía derecha electiva",
+   "Detorsión quirúrgica con cecopexia",
+   "Colectomía derecha con ileostomía y fístula mucosa",
+   "Colectomía derecha con ileotransversostomía primaria"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 142,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "a3f0f71b4e",
+  "sec": "Intestino delgado",
+  "stem": "Una úlcera rectal solitaria se asocia con mayor frecuencia a:",
+  "opts": [
+   "Infección bacteriana",
+   "Infección viral",
+   "Neoplasia maligna",
+   "Intususcepción interna",
+   "Reacción adversa a medicamentos"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 142,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "f0de58ed6d",
+  "sec": "Intestino delgado",
+  "stem": "La causa más común de fístula colovesical es:",
+  "opts": [
+   "Carcinoma de colon",
+   "Diverticulitis",
+   "Enfermedad de Crohn",
+   "Colitis ulcerosa",
+   "Carcinoma vesical"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 142,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "64f2b48969",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 75 años acude a consulta después de haber tenido tres episodios de diverticulitis no complicada en el último año, cada uno de los cuales requirió hospitalización por 5 días con antibióticos intravenosos y reposo intestinal. Es diabética. Las tomografías previas mostraron inflamación en el colon sigmoide con estriación de grasa. La colonoscopía posterior mostró divertículos en todo el colon, del ascendente al sigmoide, sin otra patología. ¿Cuál sería la recomendación?",
+  "opts": [
+   "Continuar con dieta rica en fibra",
+   "Colectomía total con ileoproctostomía",
+   "Colectomía sigmoidea con margen distal justo en la unión rectosigmoidea",
+   "Hemicolectomía izquierda con anastomosis colon transverso-recto",
+   "Colectomía sigmoidea con margen distal en el recto normal"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 142,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "ad116baf61",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 75 años con estreñimiento crónico se presenta con dolor abdominal severo y fiebre. La tomografía computarizada muestra aire libre y estriación en el colon. El colon y el recto aparecen dilatados y llenos de grandes masas de heces. Intraoperatoriamente, se encuentra una perforación redonda de aproximadamente 1 cm en el colon, con bolas de heces engrosadas sobresaliendo. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a este paciente?",
+  "opts": [
+   "La perforación es más probable que ocurra en el ángulo esplénico.",
+   "Está asociada al uso de antiinflamatorios no esteroideos (AINEs).",
+   "Se maneja mejor con cierre primario y lavado.",
+   "Los agentes anticolinérgicos podrían haber prevenido esta condición.",
+   "La perforación usualmente se encuentra en el borde mesentérico."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 143,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "0474a8d849",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 71 años con EPOC se recupera de una neumonía en la unidad de cuidados intensivos. Está en ventilación mecánica. Su abdomen está distendido agudamente y no ha tenido evacuaciones en varios días. Las imágenes demuestran un ciego de 8 cm de diámetro con un patrón gaseoso de distensión que se extiende hasta el recto. No hay heces en la ampolla rectal. Sus signos vitales son estables. Su médico desea iniciar neostigmina. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la administración de neostigmina para esta condición?",
+  "opts": [
+   "La enfermedad coronaria es una contraindicación.",
+   "El bloqueo AV de segundo grado es una",
+   "La neostigmina no debe administrarse como infusión continua.",
+   "La neostigmina es efectiva en el 20% de los pacientes con esta condición.",
+   "Si una dosis en bolo de neostigmina falla, deben evitarse dosis repetidas."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 143,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "8c98ad52d8",
+  "sec": "Intestino delgado",
+  "stem": "Para la paciente de la pregunta anterior, la neostigmina no mejora sus síntomas. El ácido láctico está elevado y es llevada a quirófano. Su presión arterial es 108/68 mmHg y su frecuencia cardíaca 88 lpm. Intraoperatoriamente, su colon aparece inflamado y dilatado a 10 cm, pero no hay signos de isquemia. ¿Cuál de las siguientes es la opción terapéutica más apropiada?",
+  "opts": [
+   "Colectomía abdominal total con anastomosis ileoanal",
+   "Proctocolectomía con anastomosis bolsa",
+   "Colocación de cecostomía en uno o varios sitios del colon distendido",
+   "Inserción colónica retrógrada transanal de un tubo Faucher largo y multiperforado",
+   "Colectomía subtotal con ileostomía terminal"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 143,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "698f0c04b5",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 32 años con diagnóstico de colitis ulcerosa hace 1 año se presenta en emergencias con ictericia. Es hospitalizado y los estudios son consistentes con colangitis esclerosante primaria. ¿Qué se recomienda adicionalmente?",
+  "opts": [
+   "Colonoscopía de cribado inmediata",
+   "Colonoscopía inmediata con biopsias",
+   "Colonoscopía con biopsias aleatorias entre los 8 y 10 años después del diagnóstico de CU",
+   "Colonoscopía de cribado a los 50 años",
+   "Colonoscopía dirigida por síntomas según"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 143,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "b21c4e826b",
+  "sec": "Intestino delgado",
+  "stem": "Un paciente de 35 años con antecedentes de CU se somete a una anastomosis ileoanal con reconstrucción en bolsa tipo J. Cuatro meses después, se presenta con 3 días de dolor abdominal, diarrea, hematoquecia y fiebre. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Usualmente no se requiere biopsia para su manejo",
+   "Es una complicación poco frecuente",
+   "El uso de probióticos no es útil",
+   "Frecuentemente se requiere excisión urgente de la bolsa",
+   "La ciprofloxacina es más eficaz que el"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 143,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "2d1a738f3a",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 75 años se presenta con dolor abdominal difuso leve y diarrea, con prueba inmunoquímica fecal positiva. Su historia médica es negativa. Su recuento de leucocitos es normal, al igual que su hematocrito. La tomografía computarizada muestra engrosamiento leve de la pared del colon en el ángulo esplénico con algo de estriación de grasa pericólica. ¿Cuál de los siguientes es el mejor siguiente paso en el manejo?",
+  "opts": [
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Antibióticos intravenosos e hidratación con fluidos",
+   "Colonoscopía",
+   "Angiografía mesentérica"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 144,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "fa22635009",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 69 años es tratada con metronidazol oral por un caso no complicado de colitis seudomembranosa. Desarrolla una recurrencia 2 semanas después. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta paciente?",
+  "opts": [
+   "El metronidazol oral es el tratamiento de elección",
+   "La vancomicina oral es el tratamiento de",
+   "La vancomicina intravenosa es el tratamiento de elección",
+   "Generalmente se requiere sigmoidoscopía",
+   "Esta condición solo se desarrolla tras uso de antibióticos"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 144,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "853aee6b89",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 38 años se presenta con 1 día de náuseas, vómitos, distensión abdominal y obstipación. No tiene antecedentes de cirugía ni enfermedades previas. El examen físico revela distensión con una masa timpánica en el cuadrante superior izquierdo y sensibilidad abdominal leve. El recuento de leucocitos es normal. Una radiografía abdominal simple revela un asa intestinal marcadamente dilatada, en forma de riñón, con marcaciones haustrales que se proyectan del cuadrante inferior derecho al cuadrante superior izquierdo. ¿Cuál de las siguientes es probablemente la mejor opción terapéutica?",
+  "opts": [
+   "Cecostomía",
+   "Detorsión quirúrgica con cecopexia",
+   "Hemicolectomía derecha con ileostomía y",
+   "Detorsión endoscópica inicial seguida de",
+   "Hemicolectomía derecha con anastomosis"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 144,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "8264aee8c6",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 30 años se presenta con síntomas y signos de apendicitis aguda. Durante la cirugía, el apéndice parece rojo e inflamado pero sin perforación. Se observa aproximadamente 200 mL de líquido purulento en el canal paracólico derecho. Se realiza apendicectomía. La anatomía patológica final revela periappendicitis. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Adenitis mesentérica aguda",
+   "Fiebre mediterránea familiar",
+   "Úlcera duodenal perforada",
+   "Tuberculosis",
+   "Peritonitis primaria"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 145,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "481b841404",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 40 años se presenta con 5 días de dolor en el cuadrante inferior derecho, anorexia y fiebre. Al examen físico, presenta sensibilidad focal en el cuadrante inferior derecho y se palpa una masa. Una tomografía computarizada muestra un pequeño absceso (<1 cm) alrededor de un apéndice inflamado. Luego de la reanimación con líquidos y antibióticos intravenosos, ¿cuál de las siguientes es la conducta más apropiada?",
+  "opts": [
+   "Drenaje guiado por TC seguido de apendicectomía diferida",
+   "Manejo no operatorio inicial seguido de",
+   "Apendicectomía laparoscópica",
+   "Apendicectomía abierta",
+   "Manejo no operatorio"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 145,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ }
+]

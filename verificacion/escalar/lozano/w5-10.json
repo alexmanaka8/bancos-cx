@@ -1,0 +1,272 @@
+[
+ {
+  "k": "c7cc0459e8",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 65 años se presenta con 2 días de dolor en el cuadrante inferior izquierdo, náuseas y fiebre leve. Al examen físico, su temperatura es de 100.5°F (38°C) y el recuento de leucocitos es de 14,000 células/µL. Tiene dolor localizado moderado en el cuadrante inferior izquierdo sin rebote. Se administran antibióticos. ¿Cuál de los siguientes está indicado como siguiente paso en el manejo?",
+  "opts": [
+   "Radiografía simple de abdomen",
+   "Tomografía computarizada",
+   "Sigmoidoscopía flexible",
+   "Enema con bario",
+   "Enema con gastrografin"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 145,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "7ca1dd4f6e",
+  "sec": "Intestino delgado",
+  "stem": "La lesión perianal más común en la enfermedad de Crohn es:",
+  "opts": [
+   "Fisuras",
+   "Piel redundante (skin tags)",
+   "Absceso perianal",
+   "Fístulas perianales",
+   "Hemorroides"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 146,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "091043bf5c",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 75 años acude a consulta tras cuatro episodios de diverticulitis no complicada en el último año, cada uno de los cuales requirió 5 días de hospitalización con antibióticos IV y reposo intestinal. Es diabética. Las TC previas demostraron inflamación en el colon sigmoide con estriación grasa. La colonoscopía posterior mostró divertículos en la mayor parte del colon transverso, descendente y sigmoide, sin otra patología. ¿Cuál es la intervención quirúrgica más adecuada?",
+  "opts": [
+   "Colectomía total con ileoproctostomía",
+   "Colectomía sigmoidea con margen proximal en un área sin hipertrofia de la muscular propia y margen distal donde se abren las tenias",
+   "Colectomía izquierda con margen proximal donde cesan los divertículos y margen distal donde se abren las tenias",
+   "Colectomía sigmoidea con margen proximal en un área sin hipertrofia de la muscular propia y margen distal en la unión rectosigmoidea",
+   "Colectomía izquierda con margen proximal donde cesan los divertículos y margen distal en la unión rectosigmoidea"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 146,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "6fd4908978",
+  "sec": "Intestino delgado",
+  "stem": "Al comparar la apendicectomía laparoscópica con la abierta, ¿cuál de las siguientes afirmaciones es verdadera respecto a la laparoscópica?",
+  "opts": [
+   "Tiene un costo igual o inferior al de la apendicectomía abierta debido a menor duración quirúrgica",
+   "No afecta la duración de la estancia",
+   "Resulta en menor tasa de abscesos",
+   "No afecta la tasa de infecciones de herida",
+   "Permite menor uso de analgésicos"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 147,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "6119d95e19",
+  "sec": "Intestino delgado",
+  "stem": "Un niño de 10 años se presenta con signos y síntomas de apendicitis aguda. En la cirugía, el apéndice parece normal. Sin embargo, hay adenopatías difusas dentro del mesenterio del intestino delgado. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Se debe extraer el apéndice normal y realizar biopsia de los ganglios linfáticos mesentéricos",
+   "Esta condición suele causar más irritación peritoneal que la apendicitis",
+   "El recuento de leucocitos tiende a ser más alto que en la apendicitis",
+   "Ocurre con igual frecuencia en adultos y niños",
+   "Suele asociarse a una infección respiratoria alta antecedente"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 147,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "b3d4111796",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 65 años se presenta con hemorragia gastrointestinal baja masiva. Su presión arterial inicial en urgencias es 80/60 mmHg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con líquidos, la presión arterial sube a 120/80 mmHg. El aspirado nasogástrico es negativo para sangre. ¿Cuál es el siguiente paso en su manejo?",
+  "opts": [
+   "Colonoscopía",
+   "Arteriografía mesentérica",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Proctoscopía",
+   "Laparotomía exploradora"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 147,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "a8ddf41cee",
+  "sec": "Intestino delgado",
+  "stem": "Varón de 80 años con dolor leucocitosis. ¿Diagnóstico",
+  "opts": [
+   "Divertículo de Meckel com",
+   "Hernia hiatal ulcerada",
+   "Diverticulitis de colon dere",
+   "Apendicitis del adulto may",
+   "Sigmoidectomía"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 148,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "6578e4480f",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 66 años se presenta con gran volumen de heces color granate combinadas con sangre roja. En urgencias su presión arterial es de 100/60 mmHg y la frecuencia cardíaca es 120/min. El examen físico es normal. Se le colocan dos vías intravenosas de gran calibre y se administran 2 litros de solución salina, tras lo cual sus signos vitales se normalizan. Se solicitan estudios de laboratorio, incluyendo tipificación y cruce. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Administrar dos unidades de sangre O",
+   "Colocar una sonda nasogástrica para",
+   "Colonoscopia",
+   "Laparotomía exploradora",
+   "Colocación de una vía central"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "2dc4c2f81b",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 27 años llega a urgencias con diarrea con sangre y urgencia rectal. Refiere apetito normal y no ha perdido peso significativo. La evaluación inicial no muestra hallazgos, por lo que se lo remite al gastroenterólogo para colonoscopia. Se encuentran seudopólipos en el colon y la biopsia confirma colitis ulcerosa. Se le inician corticosteroides y sulfasalazina, con buen control de síntomas. ¿Cuál de las siguientes afirmaciones es verdadera respecto al cáncer de colon y cribado en pacientes con colitis ulcerosa?",
+  "opts": [
+   "No se requiere cribado para cáncer de colon",
+   "Colonoscopia de cribado con biopsias",
+   "Colonoscopia de cribado con biopsia solo si se observa un pólipo sospechoso",
+   "Colonoscopia de cribado anual una vez",
+   "El riesgo de cáncer de colon es mucho menor que con la enfermedad de Crohn"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "05389a2b63",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 50 años acude al médico por dolor al defecar. En ocasiones, observa sangre en el papel higiénico. Refiere constipación crónica y ha probado diversos ablandadores de heces sin éxito. El examen rectal muestra papilas anales agrandadas con una etiqueta cutánea edematosa e hipertrófica en la línea media posterior, sugestiva de fisura crónica. Se lo refiere a cirugía y se programa una esfinterotomía lateral interna. ¿Cuál es la complicación más común de este procedimiento?",
+  "opts": [
+   "Sangrado",
+   "Sepsis anorectal",
+   "Incontinencia fecal",
+   "Formación de fístula",
+   "No cicatrización de la fisura"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "51bac74f44",
+  "sec": "Obstrucción intestinal",
+  "stem": "Una mujer de 88 años con demencia por infartos múltiples se somete a una revascularización coronaria con uso de la arteria mamaria interna izquierda. La operación es exitosa y se traslada a la UCI. Recibe opioides para el dolor. Durante los días siguientes, desarrolla distensión abdominal marcada sin ruidos intestinales, dolor ni rigidez. No ha tenido evacuaciones en 48 horas. El tacto rectal no muestra heces retenidas. La radiografía muestra colon muy distendido con gas en el recto, sin niveles hidroaéreos. ¿Qué parte del colon es más probable que se perfore?",
+  "opts": [
+   "Ciego",
+   "Colon transverso",
+   "Colon sigmoide",
+   "Recto",
+   "El riesgo de perforación es muy bajo"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "db1a220485",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 75 años llega con dolor abdominal. Nunca ha tenido este síntoma, pero refiere dolor en el lado izquierdo desde hace 2 días, que mejora tras defecar. Tiene fiebre de 101.2 °F, PA de 142/88 mmHg y pulso de 88/min. Leucocitos 14×10³/μL con 10% de bandas. La TC muestra engrosamiento focal de la pared sigmoidea con inflamación paracólica significativa. Es tratado 3 días como paciente hospitalizado y dado de alta sin complicaciones. ¿Cuál es la mejor opción de seguimiento?",
+  "opts": [
+   "Solo dieta rica en fibra",
+   "TC 2 semanas después de la resolución",
+   "Colectomía sigmoidea electiva",
+   "Enema de bario",
+   "Colonoscopia"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 149,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "a7c6a0da50",
+  "sec": "Obstrucción intestinal",
+  "stem": "Una mujer de 28 años se presenta por dolor abdominal iniciado hace 2 horas. Tiene náuseas y ha vomitado dos veces. El dolor está en el cuadrante inferior derecho. PA 120/60 mmHg, FC 100/min, afebril. Muy dolorosa en punto de McBurney, con dolor al extender pasivamente la cadera derecha. Leucocitosis 14,000. Examen de orina con 1+ leucocitos. ¿Cuál es el siguiente paso en el manejo?",
+  "opts": [
+   "Admitir para observación",
+   "TC abdominal",
+   "Apendicectomía laparoscópica",
+   "B-hCG",
+   "Antibióticos de amplio espectro"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "71bf092a16",
+  "sec": "Obstrucción intestinal",
+  "stem": "¿Cuál de las siguientes patologías probablemente requerirá colectomía urgente?",
+  "opts": [
+   "Vólvulo cecal",
+   "Vólvulo sigmoideo",
+   "Diverticulitis aguda",
+   "Adenocarcinoma cecal",
+   "Colitis pseudomembranosa"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "765893a791",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 90 años con Alzheimer llega de un asilo con distensión abdominal y dolor de 12 horas. Toma hidroclorotiazida, donepezilo, aspirina y docusato. T° 102°F, PA 90/70 mmHg, FC 112/min. Abdomen rígido, sensible, con rebote. Leucocitos 15×10³, BUN 25, creatinina 1.8. RX: colon distendido con signo del tubo doblado. ¿Cuál es el siguiente paso tras hidratación y antibióticos?",
+  "opts": [
+   "Descompresión colonoscópica",
+   "TC abdominal y pélvica",
+   "Laparotomía exploradora",
+   "Colocación de sonda rectal",
+   "Ingreso hospitalario para observación"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "colon"
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "k": "fc109c364e",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 44 años se presenta con dolor en el cuadrante inferior derecho sin rebote, náuseas ni vómitos. La tomografía computarizada muestra engrosamiento de la pared intestinal cerca de la válvula ileocecal. Está programado para una apendicectomía. La patología final confirma apendicitis aguda. Además, se encuentra incidentalmente un tumor carcinoide de 2.5 cm en la punta del apéndice. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Observación",
+   "Colonoscopia dentro de los próximos 6 meses",
+   "Serie gastrointestinal alta con tránsito",
+   "Radiografía de tórax",
+   "Hemicolectomía derecha"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "cd061b74a4",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un niño de 4 años se presenta en urgencias con dolor en el cuadrante inferior derecho, náuseas y anorexia. En el examen físico, no se auscultan ruidos intestinales y hay marcada sensibilidad con defensa en el cuadrante inferior derecho. El resto del examen abdominal es negativo. Los análisis de laboratorio muestran leucocitosis con desviación a la izquierda. ¿Cuál es el evento inicial más probable para su condición aguda?",
+  "opts": [
+   "Hiperplasia linfoide",
+   "Fecalito",
+   "Infección parasitaria",
+   "Ganglios linfáticos mesentéricos aumentados",
+   "Ingesta de cuerpo extraño"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "58eb226ba3",
+  "sec": "Obstrucción intestinal",
+  "stem": "Una mujer de 50 años se somete a una colonoscopia de rutina. Durante el procedimiento se observa una coloración oscura en todo el colon, con los folículos linfáticos apareciendo como parches pálidos. ¿Cuál es la causa subyacente más probable?",
+  "opts": [
+   "Ingesta excesiva de jugo de ciruela",
+   "Cáncer de colon",
+   "Abuso de laxantes",
+   "Variación anatómica normal",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "a322fa6393",
+  "sec": "Obstrucción intestinal",
+  "stem": "Un hombre de 88 años con enfermedad de Parkinson y EPOC es traído a urgencias desde un centro de enfermería por haber notado sangre roja brillante en su pañal. Su medicación incluye hidroclorotiazida, metformina, levodopa, salmeterol y docusato. A la admisión está afebril con PA y FC normales. La aspiración de la sonda nasogástrica retorna bilis amarilla. La colonoscopia muestra sangre roja brillante en el colon y múltiples divertículos, pero debido a la gran cantidad de heces y coágulos, no se identifica el sitio de sangrado. Sigue presentando rectorragia una hora después. La PA es 120/70 mmHg y la FC es 90/min. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Laparotomía exploradora",
+   "Transfusión de dos unidades de glóbulos rojos",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Omeprazol y antibióticos"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 150,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "816403d014",
+  "sec": "Obstrucción intestinal",
+  "stem": "Una mujer de 62 años llega al servicio de urgencias con dolor abdominal agudo. Tiene antecedentes médicos significativos por diverticulitis. Se diagnostica diverticulitis no complicada y se maneja con reposo intestinal y antibióticos. Un año después, presenta otro episodio de diverticulitis que nuevamente se maneja exitosamente de forma ambulatoria. ¿Para cuál de las siguientes complicaciones tiene mayor riesgo esta paciente?",
+  "opts": [
+   "Enfermedad de Crohn",
+   "Colitis ulcerosa",
+   "Cáncer de colon",
+   "Cáncer anal",
+   "Formación de estenosis"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 151,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "e48d4b382c",
+  "sec": "Apéndice",
+  "stem": "¿Causa más frecuente de apendicitis aguda niños?",
+  "opts": [
+   "Fecalito",
+   "Cuerpo extraño",
+   "Tumor carcinoide",
+   "Hiperplasia linfoidea",
+   "Adenocarcinoma"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "e03e9d6144",
+  "sec": "Apéndice",
+  "stem": "Varón de 27 años con sospecha de apendici presenta dolor al extender el muslo derec estando de lado izquierdo, sin dolor al ro cadera. ¿Dónde está la punta del apéndice?",
+  "opts": [
+   "Cuadrante inferior izquierdo",
+   "Extraperitoneal anterior al ciego",
+   "En la pelvis",
+   "Cuadrante superior derecho",
+   "Retrocecal sobre el psoas"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "96a4d446c9",
+  "sec": "Apéndice",
+  "stem": "Dolor periumbilical en apendicitis aguda. qué se debe?",
+  "opts": [
+   "Deshidratación moderada",
+   "Irritación del peritoneo parietal",
+   "Íleo secundario",
+   "Estímulo del nervio vago",
+   "Estímulo simpático"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "c5f64b8304",
+  "sec": "Apéndice",
+  "stem": "Paciente mujer de 28 años gestante de semanas presenta apendicitis agu presentando muerte fetal luego de apendicectomía abierta de emergencia. factor fuertemente relacionado con mortalid es:",
+  "opts": [
+   "edad gestacional del feto",
+   "apendicectomía abierta en lugar laparoscopica",
+   "comorbilidades maternas",
+   "ruptura apendicular",
+   "retraso en la administración de atb"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "551fca2f72",
+  "sec": "Apéndice",
+  "stem": "¿A da, la el ad de Un hombre de 35 años presenta anorexia, dolor en el cuadrante inferior derecho y fiebre baja. Durante la cirugía, el apéndice es macroscópicamente normal, pero el ciego y el íleon terminal están inflamados. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "Apendicectomía",
+   "Hemicolectomía derecha",
+   "Biopsia del íleon terminal",
+   "Biopsia de la pared cecal",
+   "Cerrar la herida sin más intervención"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "ddc84336a3",
+  "sec": "Apéndice",
+  "stem": "Un adolescente de 14 años tiene dolor en el cuadrante inferior derecho por 2días. él dice que el dolor ha empezado en esa localización y gradualmente está empeorando. al examen abdominal: dolor a la palpación profunda y rebote leve en cuadranteinferior derecho y cuadrante inferior izquierdo. Su temperatura es 38.2 C y su conteo de leucocitoses 8700. Él indica que tiene hambre pero su familia tiene miedo de darle alimentos. El siguiente paso en su manejo debe ser:",
+  "opts": [
+   "apendicectomía laparoscópica",
+   "laparotomía exploratoria",
+   "tomografia abdominal",
+   "inicio de terapia antibiótica",
+   "conteo de células rojas"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "39b26c8a9e",
+  "sec": "Apéndice",
+  "stem": "Un paciente varón de 30 años se presenta con antecedentes de tener dolor abdominal tipo cólico con 5 días de evolución en CID, anorexia, fiebre. en el examen físico: dolor localizado en CID y se palpa una masa. Una TAC abdominal muestra absceso pequeñomenor de 1 cm que rodea una apéndice inflamado. después de la reanimación conlíquidosy atb ev. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "drenaje guiado por TAC seguido de apendicectomía de intervalo",
+   "tratamiento no qx inicial seguido de apendicectomía de intervalo",
+   "apendicectomia laparoscopica",
+   "apendicectomía abierta",
+   "tratamiento no quirúrgico"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "a0e9152883",
+  "sec": "Apéndice",
+  "stem": "Primigesta de 23 años, 22 semanas, apendicitis. ¿Cuál es la afirmación correcta?",
+  "opts": [
+   "N.A",
+   "Tratamiento quirúrgico por laparoscopía",
+   "Dar analgésicos y observar",
+   "No es la emergencia quirúrgica más frecuente del embarazo",
+   "Reevaluar en 24 h con antibióticos"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "a96b4c3a08",
+  "sec": "Apéndice",
+  "stem": "La ruptura del apéndice ocurre con mayor frecuencia:",
+  "opts": [
+   "En la base",
+   "En la punta",
+   "En el borde mesentérico",
+   "En el borde antimesentérico",
+   "En mujeres"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "fc2b568f4e",
+  "sec": "Apéndice",
+  "stem": "La causa más común de apendicitis aguda en niños es:",
+  "opts": [
+   "Fecalito",
+   "Tejido linfoide hipertrofiado",
+   "Ascariasis",
+   "Oxiuros",
+   "Semillas de frutas y/o verduras"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 152,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ }
+]

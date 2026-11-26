@@ -1,0 +1,292 @@
+[
+ {
+  "k": "3f835cd7a7",
+  "estado": "dudosa",
+  "stem": "Al comparar la apendicectomía laparoscópica con la abierta, todas las siguientes son verdaderas respecto a la laparoscópica, EXCEPTO:",
+  "opts": [
+   "Es más costosa.",
+   "Resulta en una estancia hospitalaria más corta.",
+   "Disminuye la tasa de abscesos intraabdominales.",
+   "Disminuye la tasa de infección de la herida.",
+   "Permite un retorno más rápido al trabajo."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción C.) Sabiston dice que la apendicectomía laparoscópica se asocia a menos complicaciones de la herida y a menor morbilidad global, con posible ligero acortamiento de la recuperación. En cambio, en la apendicitis complicada registró una incidencia de abscesos intraabdominales ligeramente superior, y los estudios posteriores muestran tasas iguales o menores, no una disminución clara. Por eso 'disminuye la tasa de abscesos intraabdominales' es la afirmación que no se sostiene.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1332 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original C (resaltado). El libro respalda directamente que la laparoscópica no reduce los abscesos y sí reduce las infecciones de herida; los datos de costo, estancia más corta y regreso más rápido al trabajo no los encontré en cita directa (Sabiston solo dice 'posiblemente ligero acortamiento del tiempo de recuperación'), así que esas opciones no están verificadas una a una."
+ },
+ {
+  "k": "22746ed9e9",
+  "estado": "confirmada",
+  "stem": "Un niño de 10 años se presenta con síntomas y signos de apendicitis aguda. En la cirugía, el apéndice se ve normal, pero hay adenopatía difusa en el mesenterio del intestino delgado. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Debe retirarse el apéndice normal y hacer biopsia de ganglios mesentéricos.",
+   "Esta condición generalmente causa más irritación peritoneal que la apendicitis.",
+   "El recuento de leucocitos tiende a ser más alto que en la apendicitis.",
+   "Ocurre con igual frecuencia en adultos y niños.",
+   "Suele asociarse a una infección respiratoria alta previa."
+  ],
+  "ans": 4,
+  "why": "El cuadro es adenitis mesentérica aguda (pseudoapendicitis). El ABSITE dice que es más común en niños y que suele ir precedida de una infección respiratoria alta. Las otras no: no hace falta biopsia ganglionar, la sensibilidad es más vaga y difusa y con menos defensa que en la apendicitis, la leucocitosis es similar (10-15 mil) y es más frecuente en niños.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 169 del PDF (respuesta 36); pregunta en p. 160"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original E (resaltado). Respaldo directo del libro."
+ },
+ {
+  "k": "abd129b3da",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones son verdaderas con respecto a la apendicitis aguda, EXCEPTO:",
+  "opts": [
+   "La capacidad luminal del apéndice es de 0,1 mL.",
+   "El dolor periumbilical inicial se debe a la estimulación de fibras viscerales aferentes.",
+   "La hiperperistalsis es una característica de la apendicitis temprana.",
+   "No existe la apendicitis crónica.",
+   "Los niños menores de 5 años tienen mayor tasa de perforación."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción D.) Sabiston incluye una sección 'Apendicitis crónica como causa de dolor abdominal': hay pacientes con dolor recurrente en los que la apendicectomía alivia los síntomas y el apéndice muestra hallazgos de inflamación crónica. Por eso decir que 'no existe la apendicitis crónica' es lo falso. Sobre el dolor periumbilical, Sabiston explica que la distensión del apéndice causa el dolor difuso inicial (visceral) y que luego se localiza en el cuadrante inferior derecho al irritar el peritoneo parietal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1335 del PDF (apendicitis crónica)",
+   "Sabiston 21.ª ed., p. 1326 del PDF (dolor visceral y somático)"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original D (resaltado). La opción D queda contradicha por Sabiston; no encontré en los libros la capacidad luminal de 0,1 mL, la hiperperistalsis temprana ni la mayor tasa de perforación en menores de 5 años, así que esas opciones no están verificadas una a una."
+ },
+ {
+  "k": "156f9be5a1",
+  "estado": "dudosa",
+  "stem": "Todos los siguientes son signos de apendicitis aguda no perforada, EXCEPTO:",
+  "opts": [
+   "Defensa voluntaria",
+   "Signo del psoas",
+   "Signo del obturador",
+   "Fiebre de 39.4 °C (103 °F)",
+   "Hiperestesia cutánea"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción D.) Sabiston describe en la apendicitis sensibilidad y defensa en el cuadrante inferior derecho, y los signos del obturador y del psoas como indicadores de peritonitis localizada, útiles para avalar el diagnóstico. Sobre la fiebre, el libro da desde elevaciones leves (<38,5 °C) y Giménez dice que lo habitual es fiebre baja (<38 °C); la rigidez o peritonitis difusa sugiere perforación. Una fiebre de 39,4 °C no es lo típico de la no perforada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 688 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original D (resaltado). Ningún libro dice textualmente que 39,4 °C indique perforación; se deduce de que el texto describe fiebre baja y deja la rigidez/peritonitis difusa para la perforada. 'Hiperestesia cutánea' no la encontré en los libros."
+ },
+ {
+  "k": "b2e2c1d393",
+  "estado": "dudosa",
+  "stem": "Un hombre afroamericano de 30 años se presenta con signos de apendicitis aguda. En la cirugía, el apéndice se ve inflamado pero sin perforación. Se encuentran aproximadamente 200 mL de líquido purulento en el canal paracólico derecho. La patología final revela periapendicitis. Esto representa con mayor probabilidad:",
+  "opts": [
+   "Adenitis mesentérica aguda",
+   "Fiebre mediterránea familiar",
+   "Úlcera duodenal perforada",
+   "Tuberculosis",
+   "Peritonitis primaria"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción C.) Sabiston explica que la perforación de una úlcera péptica duodenal puede desplazar líquido hacia el espacio subhepático, el canal paracólico derecho y la pelvis. Eso explica el líquido purulento en el canal paracólico derecho con un apéndice solo inflamado (periapendicitis, sin perforación). La adenitis mesentérica no produce pus peritoneal y las otras opciones no se asocian a este hallazgo en las fuentes consultadas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1113 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA. Clave original C (resaltado). La fuente da el trayecto del líquido de la úlcera duodenal perforada, pero no menciona la periapendicitis; las demás opciones se descartan por deducción."
+ },
+ {
+  "k": "f9ff5614a6",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años se presenta con 4 días de dolor en el cuadrante inferior derecho, anorexia y fiebre. En el examen físico se palpa una masa en ese cuadrante. La TC muestra un pequeño absceso alrededor de un apéndice inflamado. Luego de la reanimación con líquidos y antibióticos IV, ¿cuál es el manejo más apropiado?",
+  "opts": [
+   "Drenaje guiado por TC",
+   "Manejo no operatorio inicial seguido de apendicectomía diferida",
+   "Apendicectomía laparoscópica",
+   "Apendicectomía abierta",
+   "Ileocecectomía"
+  ],
+  "ans": null,
+  "why": "El ABSITE trae esta pregunta (paciente de 40 años, absceso <1 cm, con masa palpable) y su respuesta es 'manejo no operatorio' (antibióticos IV y reposo intestinal), pues hoy no se hace apendicectomía de intervalo en la mayoría de los pacientes; dice que operar con técnica abierta o laparoscópica es aceptable, que la ileocecectomía se vuelve más probable por la inflamación y que el drenaje por TC de un absceso pequeño no se recomienda. En este banco la opción 'manejo no operatorio' no existe: la B es 'manejo no operatorio inicial seguido de apendicectomía diferida', que el libro marca como incorrecta. La respuesta del libro no está entre las opciones.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF (respuesta 27); pregunta en p. 159"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original B (resaltado). El banco cambió la opción E del libro ('manejo no operatorio') por 'ileocecectomía', cambió la edad (60 vs 40 años) y quitó el tamaño del absceso (<1 cm). La clave B incluye la apendicectomía diferida, que el libro rechaza como rutina; no hay opción que coincida con la respuesta del libro. MAL HECHA: el texto de la opción B estaba cortado y se completó con la imagen."
+ },
+ {
+  "k": "714bfd5abc",
+  "estado": "confirmada",
+  "stem": "La arteria apendicular es una rama de:",
+  "opts": [
+   "Arteria cólica derecha",
+   "Arteria cólica media",
+   "Arteria cólica izquierda",
+   "Arteria ileocólica",
+   "Arteria hipogástrica"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la irrigación del apéndice deriva de la arteria mesentérica superior; la arteria ileocólica, una de sus ramas principales, origina la arteria apendicular, que discurre por el mesoapéndice. Las arterias cólicas derecha, media e izquierda y la hipogástrica no son su origen.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1325 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original D (resaltado). Las otras opciones se descartan porque el libro da solo a la ileocólica como origen."
+ },
+ {
+  "k": "32f9860d26",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el tratamiento más recomendado para una fisura anal crónica en mujer de 38 años?",
+  "opts": [
+   "Fisurotomía",
+   "Dieta rica en fibra y baños de asiento",
+   "Esfinterotomía química",
+   "Esfinterotomía lateral interna",
+   "Esfinterotomía lateral externa"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que el paso inicial del tratamiento debe ser más líquidos y fibra y baños de asiento, que las fisuras crónicas tienen menos probabilidad de cicatrizar solo con medidas conservadoras, y que la esfinterotomía lateral interna es superior a nitratos, calcioantagonistas y toxina botulínica (cicatrización 88-100%, incontinencia 8-30%). El ABSITE llama a la esfinterotomía lateral interna el tratamiento quirúrgico de referencia, pero también dice que el tratamiento no operatorio empieza con fibra y baños de asiento y que la cirugía se reserva para quienes fallan. 'Tratamiento más recomendado' puede leerse como primer paso (B) o como el más eficaz (D); la evidencia no decide una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 y 1432 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF (respuesta 15)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D (resaltado, esfinterotomía lateral interna). Defendible, pero B también lo es según cómo se lea 'más recomendado'. La opción 'esfinterotomía química' (C) no es un término que use el libro."
+ },
+ {
+  "k": "2cd4c9acd8",
+  "estado": "dudosa",
+  "stem": "Joven con hemorroides tipo IV y III. ¿Cuál es el tratamiento quirúrgico de elección?",
+  "opts": [
+   "Hemorroidectomía (Parks)",
+   "Hemorroidectomía (Milligan-Morgan)",
+   "Hemorroidectomía máximo 3 paquetes",
+   "Ligadura con banda (Barrón)",
+   "Solo tratamiento médico"
+  ],
+  "ans": null,
+  "why": "Sabiston indica la hemorroidectomía por escisión (abierta o cerrada) para hemorroides con prolapso grados III-IV. Añade que la técnica más usada es la cerrada (Ferguson), con menos dolor, cicatrización más rápida y menos hemorragia que la abierta (Milligan-Morgan). El libro no menciona la técnica de Parks ni jerarquiza una 'de elección' entre las opciones A, B y C, que describen formas de escisión; por eso la evidencia no decide una sola.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1429 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (Milligan-Morgan, resaltado). Sabiston nombra a Milligan-Morgan como abierta y dice que la cerrada es la más usada, así que no respalda a B como 'de elección'. La opción C ('máximo 3 paquetes') no es una técnica distinta."
+ },
+ {
+  "k": "662c8c5125",
+  "estado": "confirmada",
+  "stem": "Una mujer de 80 años presenta prolapso rectal. Tiene antecedentes de estreñimiento crónico. La colonoscopia no muestra lesiones relevantes. ¿Cuál es el tratamiento quirúrgico más adecuado?",
+  "opts": [
+   "Resección de la hernia perineal y cierre del fondo de saco (procedimiento de Moschcowitz)",
+   "Técnica anal de Thiersch",
+   "Rectosigmoidectomía perineal (procedimiento de Altemeier)",
+   "Fijación del recto con malla protésica (reparación de Ripstein)",
+   "Resección anterior con rectopexia"
+  ],
+  "ans": 2,
+  "why": "En una mujer anciana con comorbilidades, el ABSITE indica un procedimiento perineal: la rectosigmoidectomía perineal (Altemeier) tiene 15% de recurrencia y es buena opción en ancianos de alto riesgo. Los procedimientos abdominales (Ripstein, resección anterior con rectopexia) se reservan para jóvenes de bajo riesgo, la Thiersch ya no se usa y la Moschcowitz se hace más bien para el prolapso vaginal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181-182 del PDF (respuesta 22); pregunta en p. 177"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado). Respaldo directo. El enunciado del banco omite 'múltiples comorbilidades significativas' del original del libro, dato que apoya la vía perineal."
+ },
+ {
+  "k": "8433e92a17",
+  "estado": "dudosa",
+  "stem": "El músculo elevador del ano incluye todos EXCEPTO:",
+  "opts": [
+   "Iliopúbico",
+   "Pubococígeo",
+   "Puborrectal",
+   "N.A",
+   "Iliococígeo"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la corrección es deducida (el revisor la marcó INDIRECTA). Sabiston no nombra al 'iliopúbico', y la pregunta EXCEPTO trae una opción 'N.A' que no tiene sentido. (El revisor había propuesto la opción A.) Sabiston dice que el elevador del ano consta de tres subdivisiones: pubococcígea, iliococcígea y puborrectal. Por eso pubococígeo, puborrectal e iliococígeo sí forman parte y el 'iliopúbico' es la única opción que no está entre ellas. La clave original (pubococígeo) es parte del elevador, así que no puede ser el EXCEPTO.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1353 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA. Clave original B (pubococígeo, resaltado): contradice a Sabiston. El libro no nombra al 'iliopúbico' ni dice que no sea parte; se deduce de que no está en la lista de tres. La opción D 'N.A' está mal definida. MAL HECHA: opción 'N.A' sin sentido en una pregunta EXCEPTO."
+ },
+ {
+  "k": "7b2822b133",
+  "estado": "dudosa",
+  "stem": "Un hombre de 54 años es intervenido quirúrgicamente por una fístula-in-ano extrasfinteriana. No tiene antecedentes quirúrgicos. Sus enfermedades actuales incluyen hipertensión, diabetes mellitus, sinusitis crónica y síndrome de intestino irritable. ¿Cuál es uno de los principios quirúrgicos clave para su manejo?",
+  "opts": [
+   "Evitar colocar una guía en el trayecto de la fístula",
+   "Eliminar el orificio primario de la fístula",
+   "Corticoides intravenosos preoperatorios",
+   "Desroofing parcial del trayecto fistuloso",
+   "Lavado rectal con antibióticos"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción B.) Sabiston: los objetivos del tratamiento de la fístula anal son eliminar el foco séptico, extirpar los trayectos epitelizados, evitar la incontinencia y la recidiva, y lo ideal es lograr el cierre del orificio interno. El ABSITE define el orificio primario como el orificio interno en la cripta anal. Las otras opciones no tienen respaldo: Sabiston pasa una sonda por la fístula (no se evita), y no habla de corticoides, desroofing parcial ni lavado con antibióticos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 y 1434 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 171 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA. Clave original B (resaltado). Ningún libro dice textualmente 'eliminar el orificio primario' como principio; se deduce de eliminar el foco séptico y cerrar el orificio interno (= primario)."
+ },
+ {
+  "k": "d02854f983",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto de la anatomía anorrectal?",
+  "opts": [
+   "El elevador del ano marca el punto de transición entre el recto y el colon sigmoide.",
+   "La fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos.",
+   "La fascia de Waldeyer es anterior a la fascia de Denonvilliers.",
+   "En los hombres, la fascia de Denonvilliers separa el recto del sacro.",
+   "El canal anal quirúrgico es más largo en las mujeres que en los hombres."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa que la diga y las otras opciones no se verificaron una por una. (El revisor había propuesto la opción B.) Sabiston: la aponeurosis presacra cubre el sacro y el cóccix, y por debajo están las venas presacras (plexo venoso presacro), con hemorragia grave si se diseca profundo; la disección del recto va entre la aponeurosis presacra y la fascia propia. La fascia de Waldeyer une la presacra con la fascia propia por detrás del recto, la de Denonvilliers está por delante del recto y lo separa de las estructuras anteriores (A, C, D falsas), y la unión rectosigmoidea se ubica por las tenias a nivel del promontorio sacro, no en el elevador.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1352 del PDF",
+   "Sabiston 21.ª ed., p. 1349 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA. Clave original B (resaltado). El libro no dice textualmente que separe el recto de 'los nervios pélvicos', y no encontré la longitud del canal anal quirúrgico por sexo (opción E), así que E no está verificada. MAL HECHA: la opción B venía cortada en el banco y se completó con la imagen ('plexo venoso presacro y los nervios pélvicos')."
+ },
+ {
+  "k": "89212781cf",
+  "estado": "confirmada",
+  "stem": "Hombre de 30 años con absceso pilonidal en hendidura interglútea, posterior al ano, con abundante vello. ¿Cuál es el mejor manejo?",
+  "opts": [
+   "Incisión y drenaje en la hendidura",
+   "Incisión y drenaje lateral a la hendidura interglutea",
+   "Escisión en bloque con colgajo",
+   "Escisión con cierre primario",
+   "Destechado del trayecto y marsupialización"
+  ],
+  "ans": 1,
+  "why": "El ABSITE dice que el absceso pilonidal agudo se trata con incisión y drenaje lateral a la hendidura interglútea y no directamente en ella, porque en la línea media hay fricción constante y cicatriza mal. Las otras opciones (excisión con colgajo, excisión con cierre primario, destechado y marsupialización) las reserva para la enfermedad crónica.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF (respuesta 19); pregunta en p. 177"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (resaltado). Respaldo directo."
+ },
+ {
+  "k": "5932fbc73c",
+  "estado": "corregida",
+  "stem": "Hombre de 35 años con leucemia y neutropenia severa, dolor anal intenso e induración sin masa. ¿Cuál es la mejor conducta?",
+  "opts": [
+   "Antibióticos intravenosos solamente",
+   "Anoscopia y drenaje solo si hay masa fluctuante",
+   "Anoscopia con incisión quirúrgica sólo si hay masa",
+   "Examen bajo anestesia con desbridamiento amplio",
+   "Examen bajo anestesia con biopsia de áreas induradas e incisión y drenaje si no se detecta el pus"
+  ],
+  "ans": 0,
+  "why": "El ABSITE dice que en un paciente con neutropenia severa y sin fluctuación, los antibióticos IV solos son el tratamiento adecuado. Solo si no mejora o aparece fluctuación se hace examen bajo anestesia para drenar. La biopsia de áreas induradas se plantea en ese contexto, no como conducta inicial. El desbridamiento amplio no está indicado y la anoscopia con drenaje solo si hay masa (B, C) no es lo que el libro propone.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181-182 del PDF (respuesta 20); pregunta en p. 177"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original E (resaltado, examen bajo anestesia con biopsia e incisión y drenaje aunque no haya pus). El ABSITE responde A y explica que E es para quien no mejora. Es posible que el examen del aula virtual haya tenido otra clave; aquí manda el libro."
+ }
+]

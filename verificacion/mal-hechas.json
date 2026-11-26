@@ -17,7 +17,10 @@
   "b3d5448652": "El enunciado no da el estadio del linfoma, que es lo que decide el tratamiento.",
   "96643df141": "El banco quitó un dato del enunciado del libro (la paciente es diabética).",
   "cb3e5e32f8": "La opción C está mal traducida: 'hernia de pequeño tamaño (petit)' quiere decir hernia de Petit.",
-  "c3089ebaba": "La opción D está mal traducida: 'cirugía de extracción' quiere decir descenso (pull-through)."
+  "c3089ebaba": "La opción D está mal traducida: 'cirugía de extracción' quiere decir descenso (pull-through).",
+  "4fdbad907c": "El banco cambió la pregunta del libro: el ABSITE pregunta por la colitis por derivación y responde propionato. Sin ese contexto, Sabiston dice que la principal fuente de energía es el butirato.",
+  "64f2b48969": "El banco simplificó la pregunta del libro (quitó el margen proximal y cambió la extensión de los divertículos).",
+  "6119d95e19": "El banco cambió el caso del libro (de un hallazgo en ecografía a uno operatorio) y cambió la opción A; la respuesta no cambia."
  },
  "pretest-2024": {
   "f861052452": "La opción C está mal escrita en el original (repite 'calcio').",
