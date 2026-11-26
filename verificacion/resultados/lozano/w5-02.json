@@ -1,0 +1,305 @@
+[
+ {
+  "k": "65c0d1639c",
+  "estado": "confirmada",
+  "stem": "Un hombre de 72 años llega con dolor súbito en flanco izquierdo, náuseas, fiebre y leucocitosis. No hay antecedentes quirúrgicos. La TAC revela engrosamiento de colon sigmoides y grasa pericolónica inflamada. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Cáncer de colon",
+   "Diverticulitis aguda",
+   "Colitis isquémica",
+   "Obstrucción intestinal",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": 1,
+  "why": "Sabiston describe la diverticulitis aguda con dolor localizado en la fosa ilíaca izquierda (sigmoides inflamado), fiebre y leucocitosis frecuente, y en la TC engrosamiento de la pared del colon y hebras de grasa pericólica. Cáncer de colon, obstrucción y EII no explican este cuadro agudo con grasa pericólica inflamada; la colitis isquémica suele dar rectorragia, que Sabiston señala como dato que debe hacer dudar de diverticulitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "553b7b2145",
+  "estado": "confirmada",
+  "stem": "Un hombre de 33 años refiere dolor epigástrico súbito tras vomitar varias veces. El examen muestra taquicardia y enfisema subcutáneo en el cuello. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Neumonía por aspiración",
+   "Perforación gástrica",
+   "Ruptura esofágica (síndrome de Boerhaave)",
+   "Úlcera gástrica sangrante",
+   "Esofagitis erosiva"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la perforación esofágica por náuseas forzadas es el síndrome de Boerhaave, y se sospecha ante dolor epigástrico o torácico, dolor cervical y crepitación en tórax, cuello o cara. El enfisema subcutáneo cervical tras vómitos repetidos con taquicardia lo señala. El ABSITE lo contrasta con Mallory-Weiss (desgarro parcial con hematemesis) y recuerda que Boerhaave es de espesor completo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1058 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 105 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "3dea5480ef",
+  "estado": "dudosa",
+  "stem": "Un hombre de 68 años llega con fiebre, vómitos y dolor abdominal en el cuadrante inferior izquierdo. Tiene antecedentes de varios episodios similares. El examen revela defensa localizada y masa palpable en esa zona. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Absceso intraabdominal por apendicitis",
+   "Fístula entero-cutánea",
+   "Diverticulitis complicada con absceso",
+   "Cáncer de colon",
+   "Megacolon tóxico"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ningún libro presenta este caso con su diagnóstico escrito. (El revisor había propuesto la opción C.) Sabiston: la diverticulitis cursa con dolor en fosa ilíaca izquierda, fiebre y, si hay flemón importante, puede palparse una masa hipersensible; la TC muestra además formación de abscesos pericólicos. Con fiebre, episodios previos similares, defensa localizada y masa en cuadrante inferior izquierdo, la opción diverticulitis complicada con absceso es la que encaja; no hay otra opción de diverticulitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 154 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro cita la masa palpable por flemón y los abscesos por TC, pero no un caso idéntico con el diagnóstico escrito. Clave original: C (resaltado)."
+ },
+ {
+  "k": "5e18d1a29d",
+  "estado": "confirmada",
+  "stem": "Un paciente anciano con antecedentes de ACV presenta con distensión abdominal, dolor leve y estreñimiento. La radiografía muestra una gran dilatación del colon, sobre todo en el ciego. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción mecánica",
+   "Pseudoobstrucción colónica (síndrome de Ogilvie)",
+   "Megacolon tóxico",
+   "Vólvulo de sigmoides",
+   "Íleo paralítico"
+  ],
+  "ans": 1,
+  "why": "El síndrome de Ogilvie es una dilatación aguda del colon sin obstrucción mecánica, típico de ancianos con enfermedades neurológicas (la tabla incluye accidente cerebrovascular). En la radiografía el mayor diámetro suele estar en el ciego y colon ascendente. No hay toxicidad ni signos peritoneales, lo que aleja al megacolon tóxico; el vólvulo de sigmoides y la obstrucción mecánica darían otro patrón.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1366-1367 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 166 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "883a29fda5",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años llega con distensión abdominal y ausencia de gases o deposiciones por 3 días. Tiene antecedentes de constipación crónica. Radiografía muestra dilatación masiva del sigmoides. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción por carcinoma",
+   "Vólvulo de sigmoides",
+   "Impactación fecal",
+   "Enfermedad diverticular",
+   "Íleo biliar"
+  ],
+  "ans": 1,
+  "why": "El ABSITE explica que en el vólvulo de sigmoides el denominador común es un colon grande y redundante, con frecuencia asociado a estreñimiento crónico (ancianos o institucionalizados), y que el diagnóstico es radiográfico: colon muy dilatado en 'cámara de bicicleta'. Sabiston muestra la radiografía del vólvulo sigmoideo con aspecto de cámara doblada. Carcinoma, impactación fecal, enfermedad diverticular e íleo biliar no dan dilatación masiva del sigmoides con este antecedente.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 164 del PDF",
+   "Sabiston 21.ª ed., p. 1364-1365 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "b4f26299fe",
+  "estado": "dudosa",
+  "stem": "Paciente post Billroth II con anemia y vómitos biliosos. ¿Qué prueba corrige la excreción urinaria de B12 en Schilling?",
+  "opts": [
+   "Factor intrínseco",
+   "Tetraciclina",
+   "Vitamina B6",
+   "Hierro",
+   "Calcio"
+  ],
+  "ans": null,
+  "why": "Según el ABSITE y Sabiston, en el síndrome del asa ciega (sobrecrecimiento bacteriano, que puede complicar el asa aferente tras Billroth II) la excreción de B12 NO se corrige al añadir factor intrínseco; se corrige con un ciclo de antibiótico de amplio espectro como tetraciclina. En cambio, el factor intrínseco corrige el Schilling en la anemia perniciosa y Sabiston también cita la falta de factor intrínseco tras gastrectomía subtotal o total. El enunciado no aclara si el mecanismo es el asa ciega (vómitos biliosos) o la pérdida de factor intrínseco, así que la evidencia no decide entre A y B.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 147 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 133 del PDF",
+   "Sabiston 21.ª ed., p. 1318 del PDF",
+   "Sabiston 21.ª ed., p. 1242 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (factor intrínseco, resaltado). Los vómitos biliosos apuntan a síndrome del asa aferente y asa ciega, donde el libro respalda tetraciclina (B); pero por la gastrectomía el factor intrínseco también podría ser la respuesta. Se deja dudosa."
+ },
+ {
+  "k": "c26027b8ed",
+  "estado": "dudosa",
+  "stem": "Un hombre diabético de 59 años con enfermedad pulmonar obstructiva crónica (EPOC) se presenta con una historia de 2 años de dificultad progresiva para tragar. No tiene otros problemas médicos. El esofagograma muestra esófago proximal dilatado con estrechamiento distal abrupto. La manometría muestra presión elevada del esfínter esofágico inferior (EEI) en reposo y falta de relajación del EEI tras la deglución. La endoscopía alta es negativa. ¿Cuál de las siguientes afirmaciones es verdadera respecto a este paciente?",
+  "opts": [
+   "La condición subyacente se caracteriza por ondas peristálticas de alta amplitud en el esófago.",
+   "La miotomía esofágica laparoscópica con fundoplicatura completa es el tratamiento de elección.",
+   "Debe iniciarse una prueba con bloqueadores de los canales de calcio.",
+   "La dilatación neumática esofágica es el siguiente paso en el manejo.",
+   "La miotomía endoscópica peroral (POEM) es el tratamiento de elección."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. El original del ABSITE incluye insuficiencia cardiaca congestiva, que es lo que da el alto riesgo operatorio y justifica la dilatación en vez de la miotomía. (El revisor había propuesto la opción D.) Es acalasia (esófago proximal dilatado con estrechamiento distal en pico, EEI hipertenso que no relaja). El ABSITE responde que la dilatación neumática es el siguiente paso en este paciente de mayor riesgo operatorio; la acalasia no tiene ondas de alta amplitud (eso es esófago en cascanueces), la miotomía con fundoplicatura completa (Nissen) causa disfagia recurrente, los bloqueadores de calcio solo se usan en quienes no son candidatos a cirugía y rinden poco, y el POEM es opción emergente con curva larga y hasta 50% de reflujo, no el tratamiento de elección.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 109 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). El enunciado original del ABSITE incluye también insuficiencia cardiaca congestiva previa (mayor riesgo operatorio); el banco la omitió, pero conserva diabetes y EPOC."
+ },
+ {
+  "k": "75413ca2f8",
+  "estado": "confirmada",
+  "stem": "Un hombre de 51 años ha estado realizándose endoscopías con biopsias anuales por esófago de Barrett. Su biopsia más reciente muestra displasia de alto grado sin nódulos. ¿Cuál es el mejor siguiente paso en el manejo?",
+  "opts": [
+   "Esofagectomía con reconstrucción",
+   "Repetir endoscopía con biopsia en 3 meses",
+   "Ablación endoscópica por radiofrecuencia",
+   "Cirugía antirreflujo",
+   "Derivación a oncología para considerar quimioterapia neoadyuvante"
+  ],
+  "ans": 2,
+  "why": "El ABSITE indica que la esofagectomía fue el estándar para la displasia de alto grado, pero fue reemplazada en gran parte por técnicas endoscópicas como la ablación por radiofrecuencia, que es el abordaje favorecido en displasia de alto grado sin nódulos. Repetir la endoscopia en 3 meses corresponde a displasia de bajo grado, la cirugía antirreflujo no trata la displasia y la derivación a oncología es prematura porque no hay cáncer.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "1e0d6a7415",
+  "estado": "confirmada",
+  "stem": "Una mujer de 40 años ha estado usando un inhibidor de bomba de protones (IBP) para controlar enfermedad por reflujo gastroesofágico (ERGE) durante los últimos 7 años. Por lo demás está sana. Fue evaluada en consulta y considerada candidata adecuada para intervención quirúrgica definitiva. Durante la operación, tras movilizar el ligamento frenoesofágico, se inspecciona el esófago distal y parece acortado. El estudio gastrointestinal superior preoperatorio no identificó hernia hiatal. ¿Qué será lo más probable que deba hacerse?",
+  "opts": [
+   "Proceder con una fundoplicatura tipo Nissen estándar.",
+   "Proceder con una fundoplicatura tipo Dor.",
+   "Realizar una gastroplastia de Collis.",
+   "Abortar la operación e iniciar tratamiento con esteroides.",
+   "Tomar varias biopsias antes de abortar la operación."
+  ],
+  "ans": 2,
+  "why": "El ABSITE explica que, si se encuentra un esófago acortado durante la cirugía antirreflujo (longitud abdominal menor de 1 cm), hay que hacer una gastroplastia de Collis para alargarlo y evitar tensión en la reparación. Nissen estándar sin alargar queda con tensión; Dor se considera en dismotilidad; los esteroides y la esclerodermia no encajan (proceso difuso, sin otros síntomas); y la biopsia no justifica abortar dada la larga historia de ERGE sin síntomas sistémicos.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "f7e096f736",
+  "estado": "confirmada",
+  "stem": "La disfagia lusoria se asocia más probablemente con:",
+  "opts": [
+   "Arco bovino",
+   "Arteria subclavia aberrante",
+   "Coartación de la aorta",
+   "Aneurisma de aorta ascendente",
+   "Conducto arterioso persistente"
+  ],
+  "ans": 1,
+  "why": "Sabiston: cuando existe una arteria subclavia derecha retroesofágica el paciente puede manifestar disfagia, lo que se conoce como disfagia lusoria; también describe la arteria subclavia aberrante derecha (arteria lusoria) que nace del cayado y cruza por detrás del esófago. Latarjet también nombra la disfagia lusoria. Arco bovino, coartación, aneurisma de aorta ascendente y conducto arterioso persistente no son la causa clásica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1617 del PDF",
+   "Sabiston 21.ª ed., p. 901 del PDF",
+   "Latarjet, Anatomía humana t. 2, p. 126 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "27ea0d6846",
+  "estado": "dudosa",
+  "stem": "Un hombre de 36 años acude a consulta por una masa esofágica incidental observada en una tomografía computarizada (TC), realizada tras un accidente automovilístico. No tuvo lesiones graves y fue dado de alta el mismo día. El esofagograma con bario muestra un defecto de llenado en forma de media luna, de bordes suaves. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta masa?",
+  "opts": [
+   "La resección es el tratamiento de elección.",
+   "Con frecuencia se presentan con tumores satélites.",
+   "No tienen riesgo de degeneración maligna.",
+   "La ecografía esofágica puede ser útil.",
+   "Debe realizarse una biopsia endoscópica preoperatoria."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la opción A fue cambiada respecto al libro ('resección con margen de 1 cm' pasó a 'La resección es el tratamiento de elección'). Como la enucleación es una forma de resección, la A también puede leerse como verdadera. (El revisor había propuesto la opción D.) El defecto de llenado liso en media luna, hallazgo incidental en un joven, es un leiomioma. El ABSITE dice que la ecografía esofágica es muy útil (región homogénea hipoecoica). Se enuclea, no se reseca con margen; suele ser solitario (múltiple en hasta 10%); tiene un pequeño riesgo de degeneración maligna; y no se debe biopsiar por riesgo de perforación mucosa y cicatriz que dificulta la resección.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). En el libro la opción A dice 'resección con margen de 1 cm' y el banco la resume como 'La resección es el tratamiento de elección'; ambas son falsas porque el tratamiento es la enucleación."
+ },
+ {
+  "k": "5505aae27f",
+  "estado": "confirmada",
+  "stem": "El esófago de Barrett:",
+  "opts": [
+   "Es una anomalía congénita",
+   "Ocurre con más frecuencia en pacientes de raza negra",
+   "Cuando se diagnostica, debe tratarse con una cirugía antirreflujo para prevenir cáncer",
+   "El diagnóstico requiere el reemplazo de un segmento de 3 cm de células escamosas por epitelio columnar",
+   "Presenta células caliciformes"
+  ],
+  "ans": 4,
+  "why": "El ABSITE indica que el rasgo distintivo del esófago de Barrett es la presencia de células caliciformes (metaplasia intestinal) en la biopsia. Es una patología adquirida, no congénita; es más frecuente en varones (3:1), y la cirugía antirreflujo no es obligatoria solo por el diagnóstico (no mostró diferencias en prevenir cáncer frente al tratamiento médico).",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 103 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). La opción B del banco dice 'raza negra' mientras el libro dice 'más frecuente en mujeres' y explica que es más común en varones; ninguna de las dos es correcta, y la opción E es la que el libro marca."
+ },
+ {
+  "k": "cb2b64b18e",
+  "estado": "confirmada",
+  "stem": "Durante una endoscopía alta por acalasia confirmada por manometría, el endoscopista sospecha que pudo haber causado una perforación inadvertida del esófago distal izquierdo. El paciente está estable y sin signos de sepsis. El esofagograma confirma un esófago marcadamente dilatado con una pequeña perforación distal libre. El manejo consiste en:",
+  "opts": [
+   "Antibióticos intravenosos (IV), mantener al paciente en ayuno (NPO), y observación estrecha",
+   "Toracotomía izquierda, reparación primaria, miotomía longitudinal en el lado contralateral",
+   "Reparación primaria laparoscópica y miotomía longitudinal en el lado ipsilateral",
+   "Esofagectomía con reconstrucción inmediata",
+   "Colocación de stent esofágico"
+  ],
+  "ans": 1,
+  "why": "El ABSITE: la perforación yatrógena en un paciente con acalasia debe repararse y, además, requiere tratamiento definitivo de la enfermedad: toracotomía izquierda, reparación primaria y miotomía longitudinal en el lado contralateral. La perforación libre pequeña requiere cirugía, no observación; el stent se reserva para cáncer irresecable y la esofagectomía para enfermedad que la exige. La reparación laparoscópica también necesita miotomía contralateral, no ipsilateral. Sabiston coincide: en acalasia, miotomía contralateral.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF",
+   "Sabiston 21.ª ed., p. 1059 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ {
+  "k": "c3cd6d2d2d",
+  "estado": "dudosa",
+  "stem": "Un niño de 4 años se presenta al servicio de urgencias tras ingerir lejía accidentalmente. Presenta estridor y disfonía. Es intubado de urgencia y se le administran líquidos IV. Una radiografía de tórax en posición erguida no muestra evidencia de perforación. El paciente es admitido a UCI. El siguiente paso en el manejo es:",
+  "opts": [
+   "Esofagoscopía",
+   "Esofagografía",
+   "Tomografía computarizada de tórax",
+   "Observación estrecha",
+   "Laparotomía exploratoria inmediata"
+  ],
+  "ans": null,
+  "why": "Sabiston sobre la ingestión de cáusticos: la afectación de la vía aérea (estridor, ronquera) requiere intubación; la evaluación posterior incluye estudios radiográficos, idealmente TC de tórax y abdomen con contraste IV y oral, y luego la evaluación continúa en quirófano con endoscopia, que debe hacerse temprano porque el riesgo de perforación aumenta pasadas 48 h. El libro pone la TC antes de la endoscopia, lo que hace defendibles tanto A como C, y el enunciado no es un caso del ABSITE ni del libro con una respuesta explícita.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 del PDF",
+   "Sabiston 21.ª ed., p. 1060 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (esofagoscopia, resaltado). Sabiston recomienda endoscopia temprana en casi todos los pacientes, pero enumera la TC antes; no hay fuente que decida cuál va primero."
+ },
+ {
+  "k": "347b3dcb07",
+  "estado": "confirmada",
+  "stem": "Durante los últimos 2 años, un hombre de 50 años ha reportado dificultad para tragar, descrita como una sensación de bulto en la garganta. Ha notado expectoración de saliva en exceso, disfagia, disfonía intermitente y algo de pérdida de peso. ¿Cuál de las siguientes afirmaciones es verdadera sobre el diagnóstico más probable?",
+  "opts": [
+   "Tragar es más fácil al despertar por la mañana y se vuelve más difícil a lo largo del día.",
+   "Se maneja mejor con diverticulectomía sola a través de una incisión cervical izquierda.",
+   "Involucra una evaginación de la muscularis propria.",
+   "La esofagectomía mejorará la supervivencia.",
+   "El paciente probablemente deba iniciar quimiorradiación."
+  ],
+  "ans": 0,
+  "why": "Es un divertículo de Zenker (bulto en la garganta, expectoración de saliva, disfonía, pérdida de peso). El ABSITE explica que los síntomas empeoran a lo largo del día conforme el divertículo se llena de comida. Es un divertículo falso (solo mucosa y submucosa), no de la muscularis propria; lo más importante es la miotomía cricofaríngea, no la diverticulectomía sola; y el cáncer es poco probable por la larga duración, por lo que no corresponden esofagectomía ni quimiorradiación.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 114 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (resaltado). Sin discrepancia."
+ }
+]

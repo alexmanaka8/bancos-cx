@@ -1,0 +1,272 @@
+[
+ {
+  "k": "6f52bd46ce",
+  "sec": "Estómago",
+  "stem": "La mejor prueba para confirmar errad de Helicobacter pylori después del tratam",
+  "opts": [
+   "Serología para H. pylori",
+   "Prueba del aliento con urea",
+   "Biopsia histológica",
+   "Prueba rápida de ureasa",
+   "Biopsia de mucosa antral con cultivo"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "8a2a7d6165",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la vagotomía altamente selectiva (VAS)?",
+  "opts": [
+   "Se dividen los troncos vagales anterior y posterior.",
+   "Se conserva el nervio de Grassi.",
+   "Se divide el nervio anterior de Latarjet.",
+   "Se preservan las “patas de cuervo” hacia el antro.",
+   "Se divide la rama celíaca."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "40065dd365",
+  "sec": "Estómago",
+  "stem": "El trastorno metabólico más común después de una resección gástrica es la deficiencia de:",
+  "opts": [
+   "Hierro",
+   "Vitamina B12",
+   "Folato",
+   "Calcio",
+   "Vitamina D"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "cb83a024d7",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al síndrome de Zollinger-Ellison (ZES)?",
+  "opts": [
+   "Los síntomas disminuyen con el ayuno.",
+   "Las úlceras se localizan con mayor frecuencia en el duodeno distal.",
+   "Es más comúnmente familiar.",
+   "Es el tumor neuroendocrino funcional más frecuente.",
+   "El tratamiento con inhibidores de bomba de protones (IBP) puede controlar los síntomas en la mayoría de los pacientes."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "2435b3e609",
+  "sec": "Estómago",
+  "stem": "Un hombre de 70 años se presenta con 8 horas de dolor abdominal agudo. En el examen, tiene fiebre de 38.3 °C (101 °F), presión arterial de 105/70 mmHg y frecuencia cardíaca de 130 lpm, con sensibilidad abdominal difusa, rebote y defensa; el tacto rectal es positivo para sangre oculta. La analítica revela leucocitosis de 16,000/μL y hematocrito de 26%. La TC muestra extravasación de contraste oral en el duodeno proximal. Luego de la reanimación, el manejo consiste en:",
+  "opts": [
+   "Cierre de la perforación con parche de epiplón más una VAS",
+   "Cierre de la perforación con parche de epiplón por vía abierta",
+   "Cierre de la perforación con parche de epiplón y duodenotomía con sobrecostura de la úlcera posterior",
+   "Vagotomía y antrectomía con sobrecostura de la úlcera posterior y parche de epiplón",
+   "Cierre de la perforación con parche de epiplón por vía laparoscópica"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "96643df141",
+  "sec": "Estómago",
+  "stem": "Una mujer de 50 años se presenta con síntomas de saciedad precoz, náuseas, vómitos y dolor epigástrico. La endoscopía superior revela una gran masa de restos alimentarios no digeridos en el estómago que obstruye parcialmente el píloro. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "La mayoría de los pacientes requiere cirugía.",
+   "Puede tratarse con administración oral de celulasa.",
+   "El tratamiento psiquiátrico es crítico en el manejo a largo plazo.",
+   "Es probable que la paciente tenga áreas de alopecia parcheada.",
+   "La enfermedad ulcerosa péptica es un factor de riesgo."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "e0e962fc52",
+  "sec": "Estómago",
+  "stem": "Un hombre de 70 años acude a urgencias con dolor epigástrico intenso de inicio súbito, asociado a arcadas con poco vómito. Su presión arterial es de 140/90 mmHg y su frecuencia cardíaca de 90 lpm. Los intentos del médico de urgencias por colocar una sonda nasogástrica fallan. La radiografía de tórax en bipedestación revela una gran burbuja de gas justo por encima del diafragma izquierdo. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Es probable que el estómago esté torcido sobre un eje que cruza la curvatura mayor y menor.",
+   "En niños se debe principalmente a una hernia paraesofágica.",
+   "Se asocia con la tríada de Bergman.",
+   "Se asocia con bazo errante.",
+   "Inicialmente se maneja de forma conservadora en la mayoría de pacientes."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "42b110ea76",
+  "sec": "Estómago",
+  "stem": "Una mujer de 68 años se presenta con una hemorragia digestiva alta. Tiene antecedentes de úlcera y recientemente completó tratamiento para Helicobacter pylori. La endoscopía superior revela sangrado arterial activo desde una úlcera duodenal en la pared posterior. A pesar de múltiples intentos endoscópicos, la úlcera sigue sangrando. Ha recibido 4 unidades de sangre. Su hematocrito es de 25%, presión arterial de 110/60 mmHg y frecuencia cardíaca de 120 lpm. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Duodenotomía, sobrecostura de la úlcera, vagotomía truncal y piloroplastía",
+   "Duodenotomía y sobrecostura de la úlcera",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Vagotomía altamente selectiva"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 126,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "0c22e73cbb",
+  "sec": "Estómago",
+  "stem": "Un hombre alcohólico de 42 años con episodios recurrentes de pancreatitis se presenta a urgencias por un episodio de hematemesis por la mañana. No hay sangrado activo. La TC muestra trombosis de la arteria esplénica. Lipasa y pruebas hepáticas son normales. La endoscopía digestiva alta muestra várices gástricas aisladas que no están sangrando y una úlcera de 2 cm en el ángulo. ¿Cuál de las siguientes características endoscópicas conlleva el menor riesgo de resangrado?",
+  "opts": [
+   "Úlcera sangrante con exudado",
+   "Úlcera sin sangrado con coágulo adherido",
+   "Vaso visible sin sangrado",
+   "Base de la úlcera visible",
+   "Mancha pigmentada plana"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 126,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "0a37fad486",
+  "sec": "Estómago",
+  "stem": "La prueba diagnóstica más sensible y específica para gastrinoma es:",
+  "opts": [
+   "Producción basal y estimulada de ácido gástrico",
+   "Gammagrafía con octreótido",
+   "Gastrina sérica en ayunas",
+   "Prueba de estimulación con calcio",
+   "Prueba de estimulación con secretina"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 126,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "0e89b1afc5",
+  "sec": "Estómago",
+  "stem": "¿Cuál de los siguientes procedimientos es de elección para una úlcera duodenal intratable que no sana a pesar de tratamiento médico máximo?",
+  "opts": [
+   "Vagotomía truncal y piloroplastía",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Vagotomía altamente selectiva",
+   "Gastrectomía distal"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 126,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "5e0118aac1",
+  "sec": "Estómago",
+  "stem": "Una mujer frágil de 85 años se presenta a urgencias con deshidratación severa y cetoacidosis por vómitos persistentes. No es diabética. Ha perdido peso significativamente. Los estudios confirman gastroparesia. Luego de esta hospitalización inicial, ¿cuál de las siguientes estrategias de tratamiento a largo plazo debe iniciarse?",
+  "opts": [
+   "Cisaprida",
+   "Metoclopramida",
+   "Inyección de toxina botulínica en el píloro",
+   "Dispositivo de estimulación eléctrica gástrica",
+   "Seis comidas al día, bajas en grasa y fibra"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 127,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "57f8bb7868",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 35 años con viaje reciente a Sudamérica se presenta con fiebre, diarrea con sangre y dolor abdominal. La radiografía muestra aire libre bajo el diafragma. En la cirugía, se encuentra una perforación única en el íleon terminal con linfadenopatía mesentérica y esplenomegalia. El manejo consiste en:",
+  "opts": [
+   "Cierre de la perforación",
+   "Resección segmentaria con anastomosis",
+   "Ileocecectomía con colostomía ileoascendente",
+   "Resección de íleon terminal con ileostomía y fístula mucosa",
+   "Resección de íleon terminal con colectomía derecha e ileotransversostomía"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 131,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "55afb5f44a",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 45 años con 3 meses de dolor epigástrico sordo, intermitente, que lo despierta en la noche. Alivia con alimentos, empeora con café. Sin pérdida de peso, vómitos ni sangre. Examen: sensibilidad epigástrica. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Enfermedad de Crohn",
+   "Úlcera duodenal",
+   "Espasmo esofágico",
+   "Úlcera gástrica",
+   "Pancreatitis"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 133,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "3575317b35",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 75 años con antecedentes de EPOC se presenta a urgencias con distensión abdominal y náuseas de 1 día de evolución. Niega dolor abdominal. El examen abdominal es benigno. Los valores de laboratorio son normales. La TC muestra aire libre bajo el diafragma y quistes llenos de aire en la pared intestinal. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Está indicada una laparotomía.",
+   "La forma primaria ocurre más comúnmente que la secundaria.",
+   "Es poco probable que esté relacionada con su EPOC.",
+   "Se observa con mayor frecuencia en el íleon.",
+   "Se asocia con el uso de esteroides."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 136,
+  "motivo": "semana 5",
+  "tema": "colon"
+ }
+]

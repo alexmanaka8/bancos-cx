@@ -53,8 +53,23 @@ def _con_verificacion(q, r):
     return q
 
 
+def mal_hechas(banco):
+    """Motivos de las preguntas marcadas como 'posible pregunta mal hecha' (verificacion/mal-hechas.json)."""
+    ruta = os.path.join(VER, 'mal-hechas.json')
+    return json.load(open(ruta, encoding='utf8')).get(banco, {}) if os.path.exists(ruta) else {}
+
+
 def aplicar(banco, preguntas):
     """Pone id estable a cada pregunta y, si ya fue verificada, su texto corregido, clave y explicación."""
+    salida = _aplicar(banco, preguntas)
+    mal = mal_hechas(banco)
+    for q in salida:
+        if q['id'] in mal:
+            q['mal'] = mal[q['id']]
+    return salida
+
+
+def _aplicar(banco, preguntas):
     regs, salida, vistos = registros(banco), [], set()
     for q in preguntas:
         k = clave(q)

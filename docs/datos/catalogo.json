@@ -9,18 +9,18 @@
    "conClave": 179,
    "secciones": 4,
    "verificadas": 179,
-   "altoValor": 75
+   "altoValor": 77
   },
   {
    "id": "pretest-2024",
    "nombre": "Pretest Cx Generales 2024-2",
    "tipo": "preguntas",
    "url": "banco.html?id=pretest-2024",
-   "n": 46,
-   "conClave": 46,
-   "secciones": 10,
-   "verificadas": 46,
-   "altoValor": 6
+   "n": 78,
+   "conClave": 78,
+   "secciones": 14,
+   "verificadas": 78,
+   "altoValor": 8
   },
   {
    "id": "final-2021",
@@ -49,21 +49,21 @@
    "nombre": "Banco traducido Cx 1",
    "tipo": "preguntas",
    "url": "banco.html?id=banco-traducido",
-   "n": 99,
-   "conClave": 99,
+   "n": 160,
+   "conClave": 160,
    "secciones": 7,
-   "verificadas": 99,
-   "altoValor": 62
+   "verificadas": 160,
+   "altoValor": 65
   },
   {
    "id": "lozano",
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 382,
-   "conClave": 382,
+   "n": 450,
+   "conClave": 450,
    "secciones": 20,
-   "verificadas": 382,
+   "verificadas": 450,
    "altoValor": 128
   },
   {
@@ -71,10 +71,10 @@
    "nombre": "Simulacros TeamMedic",
    "tipo": "preguntas",
    "url": "banco.html?id=simulacros",
-   "n": 22,
-   "conClave": 22,
-   "secciones": 4,
-   "verificadas": 22,
+   "n": 27,
+   "conClave": 27,
+   "secciones": 5,
+   "verificadas": 27,
    "altoValor": 3
   },
   {
@@ -296,8 +296,8 @@
    "nombre": "Patología esófago-gástrica benigna",
    "clase": "22",
    "semana": 5,
-   "n": 33,
-   "alto": 17
+   "n": 115,
+   "alto": 21
   },
   {
    "id": "intestino",
@@ -307,7 +307,7 @@
     4,
     5
    ],
-   "n": 110,
+   "n": 111,
    "alto": 38
   },
   {
@@ -315,24 +315,24 @@
    "nombre": "Colon: megacolon, colitis y enfermedad diverticular",
    "clase": "24",
    "semana": 5,
-   "n": 39,
-   "alto": 22
+   "n": 74,
+   "alto": 23
   },
   {
    "id": "apendicitis",
    "nombre": "Apendicitis aguda",
    "clase": "25",
    "semana": 5,
-   "n": 28,
-   "alto": 19
+   "n": 35,
+   "alto": 20
   },
   {
    "id": "anorrectal",
    "nombre": "Patología anorrectal benigna",
    "clase": "26",
    "semana": 5,
-   "n": 33,
-   "alto": 19
+   "n": 66,
+   "alto": 20
   },
   {
    "id": "higado",
@@ -406,7 +406,7 @@
    "nombre": "Cirrosis e hipertensión portal",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 20,
+   "n": 25,
    "alto": 7
   },
   {
@@ -430,7 +430,7 @@
    "nombre": "Tórax y vascular",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 10,
+   "n": 11,
    "alto": 9
   },
   {
@@ -446,7 +446,7 @@
    "nombre": "Piel, partes blandas y sarcomas",
    "clase": "fuera del sílabo",
    "semana": null,
-   "n": 6,
+   "n": 8,
    "alto": 3
   },
   {

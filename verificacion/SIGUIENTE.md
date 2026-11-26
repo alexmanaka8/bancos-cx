@@ -50,3 +50,13 @@ Al terminar responde con un resumen BREVE:
 - Hay 3 preguntas de balance hídrico (recopilacion-2021 y examenes-2026) que necesitan la fórmula de pérdidas insensibles del curso. Ya se pidió.
 - Una pregunta de quemado de 100 kg (recopilacion-2021, d44bfcc802): si el curso usa siempre Parkland, la clave es A (6000 ml).
 - El banco HTML semana1 no está en el sistema de verificación. Sus preguntas idénticas a las de otros bancos se quedan en semana1 y no salen en la app.
+
+## Preguntas mal hechas (aviso en la app)
+- `verificacion/mal-hechas.json` (banco -> k -> motivo) pone en la app la etiqueta "⚠ Posible pregunta mal hecha", y el motivo se muestra después de responder.
+- Solo sirve para preguntas que salen en la app (confirmada, corregida o nueva). Las dudosas y anuladas no se muestran.
+- Al supervisar cada tanda, agregar ahí las preguntas con clave que tengan un problema en la pregunta misma:
+  - falta un dato en el enunciado,
+  - una opción mal escrita o mal traducida,
+  - la mejor respuesta no está entre las opciones,
+  - el resultado depende de qué fórmula o libro se use.
+- Si es una pregunta repetida, usar la k de la copia que queda en la app (docs/datos/<banco>.json).

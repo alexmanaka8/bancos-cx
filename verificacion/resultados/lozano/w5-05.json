@@ -1,0 +1,300 @@
+[
+ {
+  "k": "036bbb14f3",
+  "estado": "dudosa",
+  "stem": "Un hombre de 25 años con dispepsia y diarrea crónicas es diagnosticado con úlcera duodenal mediante endoscopía, sin malignidad ni infección por H. pylori. Tras evitar AINEs y tratamiento con IBP, los síntomas persisten un año después. ¿Cuál de los siguientes resultados confirmaría el diagnóstico de síndrome de Zollinger-Ellison?",
+  "opts": [
+   "Aumento marcado de gastrina sérica tras administración de secretina",
+   "Niveles de gastrina en ayunas > 1000 pg/mL",
+   "Medición de secreción de ácido gástrico",
+   "Niveles de gastrina no en ayunas > 1000 pg/mL"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que para el diagnóstico de Zollinger-Ellison no suelen hacer falta pruebas de provocación porque la gastrina en ayunas está elevada, y que valores superiores a 1.000 pg/ml resultan diagnósticos; la gastrina estimulada por secretina (aumento mayor de 200 pg/ml) es la prueba más sensible para los casos dudosos. De Virgilio también da la secretina como la prueba más sensible y específica, y la gastrina mayor de 1000 pg/mL en ayunas, con úlcera y pH gástrico menor de 2, como confirmación. Entonces tanto A (secretina) como B (gastrina en ayunas mayor de 1000) confirman el diagnóstico según los libros, y el enunciado no da el valor de gastrina; C no confirma y D no es la medición diagnóstica. La evidencia no decide entre A y B.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1239-1242 del PDF (síndrome de Zollinger-Ellison)",
+   "de Virgilio ABSITE 3.ª ed., p. 77 del PDF (diagnóstico de gastrinoma)",
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 35)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado en el banco). Se marca dudosa porque dos opciones (A y B) están respaldadas como confirmatorias en los libros."
+ },
+ {
+  "k": "686d3a5b50",
+  "estado": "confirmada",
+  "stem": "Una mujer afroamericana de 61 años con ERGE refractaria presenta en endoscopía varias lesiones polipoides en la mucosa gástrica. La biopsia indica pólipos hiperplásicos. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Tienen tasas de adenocarcinoma de hasta 20%",
+   "Se asocian comúnmente a síndromes de poliposis familiar",
+   "Se asocian con una arteria grande que erosiona la mucosa y causa hematemesis masiva",
+   "El consumo de nitratos es un factor de riesgo",
+   "Se resuelven con la erradicación exitosa de H. pylori"
+  ],
+  "ans": 4,
+  "why": "Los pólipos hiperplásicos se asocian con H. pylori y gastritis crónica, y tras erradicar H. pylori regresan con frecuencia (hasta 70% según la guía BSG 2019), por eso se recomienda erradicar antes de pensar en resecar. A es falsa: su tasa de malignidad es menor de 2% (el 10-20% corresponde a los adenomatosos). B y D no son rasgos de estos pólipos en las fuentes revisadas (los nitratos son factor de riesgo de cáncer gástrico, no de este pólipo), y C describe la lesión de Dieulafoy.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1245 del PDF (pólipos hiperplásicos)",
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 33)",
+   "BSG guidelines on gastric adenocarcinoma risk, Gut 2019 (PMC6709778): regresión tras erradicación de H. pylori hasta 70%",
+   "Sabiston 21.ª ed., p. 1259 del PDF (Dieulafoy: arteria grande tortuosa)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). Texto de las opciones B y C completado desde la imagen del original. Redacción: 'se resuelven' es 'regresan en gran parte de los casos', no en todos."
+ },
+ {
+  "k": "f32db8fafe",
+  "estado": "confirmada",
+  "stem": "Un hombre de 59 años con hipertensión, apnea obstructiva del sueño y diabetes tipo II se queja de reflujo, eructos e hipersalivación con las comidas. ¿Cuál es el mecanismo de acción del tratamiento más apropiado para este paciente?",
+  "opts": [
+   "Disminución de prostaglandinas vía inhibición de COX-1 y COX-2",
+   "Formación de gel viscoso protector en la mucosa gástrica",
+   "Antagonismo histaminérgico que disminuye volumen y concentración del ácido",
+   "Bloqueo irreversible de la bomba H+/K+ ATPasa en la célula parietal gástrica",
+   "Análogo sintético de prostaglandina que reduce ácido y aumenta secreción de bicarbonato"
+  ],
+  "ans": 3,
+  "why": "Los síntomas son de reflujo (ERGE) y el tratamiento más eficaz es un inhibidor de la bomba de protones. Sabiston explica que los IBP bloquean la secreción de ácido de forma más completa que los antagonistas H2 por su inhibición irreversible de la H+,K+-ATPasa, y que son un tratamiento eficaz de la ERGE. A describe un AINE, B el sucralfato, C un anti-H2 (menos completo) y E el misoprostol; ninguno es el tratamiento de elección de la ERGE.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1226 del PDF (IBP, inhibición irreversible de la bomba)",
+   "Sabiston 21.ª ed., p. 1234 del PDF (IBP se unen a la ATPasa H+/K+ de forma irreversible)",
+   "Sabiston 21.ª ed., p. 1245 del PDF (IBP eficaces en ERGE)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). Opción E completada desde el original: 'Análogo sintético de prostaglandina que reduce ácido y aumenta secreción de bicarbonato'."
+ },
+ {
+  "k": "8a73d1a155",
+  "estado": "dudosa",
+  "stem": "Un hombre de 48 años acude a control anual. Tiene antecedentes de reflujo gastroesofágico, hipertensión e hipercolesterolemia. Refiere melenas desde hace 6 meses y su hemoglobina es de 9.7 g/dL. El test de guayaco en heces es positivo. ¿Cuál es la explicación más probable para estos hallazgos?",
+  "opts": [
+   "Adenocarcinoma gástrico",
+   "ERGE",
+   "Epistaxis",
+   "Aspirina en dosis baja diaria",
+   "Enfermedad ulcerosa péptica"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso. (El revisor había propuesto la opción E.) Sabiston indica que la enfermedad ulcerosa péptica sigue siendo la causa más frecuente de hemorragia digestiva alta no varicosa, lo que explica melena, anemia y guayaco positivo. El cáncer gástrico y el ERGE sangran menos, la epistaxis no produce melena crónica por sí sola, y el enunciado no dice que tome aspirina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 289 del PDF (causas de hemorragia digestiva alta)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro da la causa más frecuente de HDA; la elección de la opción E se deduce de eso (el enunciado no menciona aspirina). Clave original: E (resaltado)."
+ },
+ {
+  "k": "b3d5448652",
+  "estado": "confirmada",
+  "stem": "Una mujer de 65 años con dispepsia crónica, dolor epigástrico, pérdida de peso y melena se somete a endoscopía. Las biopsias revelan gastritis crónica y H. pylori, con una lesión mayor con “infiltrado denso de linfocitos en la lámina propia con folículos B reactivos”; tinción positiva para CD19 y CD20. ¿Cuál es el manejo más apropiado para esta paciente?",
+  "opts": [
+   "PET para determinar extensión",
+   "Radioterapia",
+   "Biopsia repetida por mala toma de muestra",
+   "Resección quirúrgica",
+   "Tratamiento de la infección subyacente"
+  ],
+  "ans": 4,
+  "why": "El linfoma MALT gástrico asociado a H. pylori en estadio temprano se trata primero con la erradicación de H. pylori (triple o cuádruple terapia), según de Virgilio. La resección quirúrgica se reserva para perforación, sangrado u obstrucción; la quimio-radioterapia para casos refractarios o estadios 3-4; y no es necesaria una nueva biopsia, pues los hallazgos ya son típicos (infiltrado linfoide B CD19/CD20).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 125 del PDF (respuesta 1)",
+   "de Virgilio ABSITE 3.ª ed., p. 117 del PDF (linfoma MALT)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). El enunciado no indica estadio; el libro respalda el tratamiento de la infección como primera línea en el estadio temprano."
+ },
+ {
+  "k": "a543ea55d6",
+  "estado": "confirmada",
+  "stem": "Un hombre de 79 años con dolor lumbar crónico y EPOC que requiere oxígeno suplementario se presenta a urgencias con dolor epigástrico que comenzó súbitamente hace 2 días. El examen abdominal revela sensibilidad epigástrica pero es por lo demás normal. Una TC muestra una pequeña cantidad de aire libre bajo el hemidiafragma derecho, sin extravasación de contraste. Un estudio gastrointestinal superior con contraste hidrosoluble revela una úlcera duodenal pero sin extravasación. ¿Cuál de las siguientes es la mejor conducta?",
+  "opts": [
+   "Descompresión con sonda nasogástrica, antibióticos IV e inhibidor de bomba de protones (IBP)",
+   "Laparotomía exploradora",
+   "Laparoscopía diagnóstica",
+   "Antibióticos orales, dieta líquida clara por 2 semanas y control ambulatorio",
+   "Examen abdominal seriado en emergencias"
+  ],
+  "ans": 0,
+  "why": "De Virgilio acepta el manejo no operatorio de la úlcera perforada en pacientes malos candidatos quirúrgicos (por ejemplo, EPOC con oxígeno domiciliario) que están estables, sin peritonitis y sin extravasación de contraste: ayuno, líquidos IV, antibióticos IV, IBP y sonda nasogástrica para descomprimir. La cirugía es el paso siguiente solo si falla el tratamiento (B, C); el manejo ambulatorio no es adecuado (D, E).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 125-126 del PDF (respuesta 6)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (resaltado)."
+ },
+ {
+  "k": "4bc3d6f45b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es la prueba de referencia para el diagnóstico de gastroparesia?",
+  "opts": [
+   "Endoscopía alta",
+   "Radiografía simple de abdomen",
+   "Gammagrafía nuclear",
+   "Tomografía computarizada",
+   "Se considera un diagnóstico clínico"
+  ],
+  "ans": 2,
+  "why": "La gammagrafía de vaciamiento gástrico es el estándar de oro para diagnosticar gastroparesia; los síntomas por sí solos no bastan y debe confirmarse con imagen. La endoscopia, la radiografía y la TC sirven para descartar causas mecánicas pero no confirman el retraso del vaciamiento.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 126 del PDF (respuesta 8)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado)."
+ },
+ {
+  "k": "663cf89809",
+  "estado": "dudosa",
+  "stem": "El factor etiológico más importante en la enfermedad ulcerosa péptica es:",
+  "opts": [
+   "Reflujo duodenogástrico",
+   "Hipersecreción ácida",
+   "Uso de AINEs",
+   "Colonización bacteriana",
+   "Tabaquismo"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que las dos causas predominantes de la enfermedad ulcerosa péptica son H. pylori y los AINE, y que la mayoría de las úlceras se deben a una de ellas; H. pylori se asoció con 50-75% de las úlceras pépticas en países desarrollados. De Virgilio también da ambas como causa casi siempre. Ningún libro consultado declara cuál es 'la más importante', y el enunciado no da un contexto (país, tipo de úlcera) que permita decidir entre C y D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1229 del PDF (causas predominantes de EUP)",
+   "Sabiston 21.ª ed., p. 1177 del PDF (principales factores etiológicos)",
+   "de Virgilio ABSITE 3.ª ed., p. 115 del PDF (PUD)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D, colonización bacteriana (resaltado). Es la clave probable del examen, pero los libros solo dicen que H. pylori y AINE son las dos causas predominantes sin jerarquizarlas, por eso queda dudosa."
+ },
+ {
+  "k": "26cdb2e7bf",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años se presenta con 12 horas de dolor epigástrico progresivo. Tiene antecedente de úlcera duodenal, con biopsia reciente negativa para H. pylori. Radiografía de tórax en bipedestación muestra aire libre subdiafragmático. Está hemodinámicamente estable. En cirugía se encuentra úlcera duodenal perforada con contaminación peritoneal leve. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Parche de Graham sobre la úlcera",
+   "Parche de Graham con vagotomía truncal y piloroplastía",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Parche de Graham con vagotomía altamente selectiva"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la propia explicación del libro (de Virgilio p.127) dice que la opción B también es aceptable. (El revisor había propuesto la opción E.) En un paciente estable, con úlcera perforada sin peritonitis extensa, con diátesis ulcerosa conocida y H. pylori negativo, se agrega una cirugía antiulcerosa al parche de Graham. De Virgilio dice que la vagotomía altamente selectiva es la preferida en el paciente estable de buen riesgo; la vagotomía con piloroplastía es la alternativa. El parche solo se reserva para inestables, peritonitis extensa o más de 24 h, y la vagotomía con antrectomía no se recomienda en perforación por la mortalidad.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 127 del PDF (respuesta 12)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). La opción B (parche más vagotomía troncal y piloroplastía) también es una opción aceptada en el libro, pero este indica que la vagotomía altamente selectiva es la preferida."
+ },
+ {
+  "k": "115e3b311c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es el tratamiento más eficaz para el síndrome de vaciamiento (dumping) intratable?",
+  "opts": [
+   "Dieta baja en grasa y sin lactosa",
+   "Antagonistas de serotonina",
+   "Dieta baja en carbohidratos y alta en grasa",
+   "Octreotida",
+   "Creación de un segmento yeyunal invertido"
+  ],
+  "ans": 3,
+  "why": "De Virgilio, en su tabla de complicaciones posgastrectomía, indica para el dumping medidas dietéticas (comidas pequeñas y frecuentes, pocos carbohidratos, alto en proteína y grasa, separar sólidos de líquidos) y que el octreótido es lo más eficaz. Sabiston coincide en que el octreótido es el fármaco mejor estudiado y puede ser muy eficaz. Las dietas (A, C) son el primer paso, no el más eficaz en los casos intratables.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 116 del PDF (tabla de complicaciones, dumping)",
+   "Sabiston 21.ª ed., p. 1241-1242 del PDF (síndrome de dumping)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). El segmento yeyunal invertido (E) no figura como tratamiento del dumping en las fuentes consultadas; Sabiston reserva la reintervención (conversión a Y de Roux) para los casos que no responden."
+ },
+ {
+  "k": "91e1d7d3b1",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años se somete a laparotomía exploratoria por síndrome de Zollinger-Ellison (ZES). Los estudios de localización preoperatorios no identificaron el tumor. En la cirugía, no se observa tumor evidente a pesar de una maniobra de Kocher extensa e inspección cuidadosa. La ecografía intraoperatoria es negativa. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Cierre del abdomen",
+   "Pancreatectomía distal y esplenectomía",
+   "Duodenopancreatectomía proximal",
+   "Duodenotomía proximal a ciegas",
+   "Duodenotomía distal a ciegas"
+  ],
+  "ans": 3,
+  "why": "Cuando el gastrinoma no se localiza ni con los estudios previos ni en la cirugía, el siguiente paso es una duodenotomía proximal a ciegas para palpar la pared duodenal, porque hasta 60% de los gastrinomas están en la pared del duodeno (primera y segunda porciones) y pueden ser muy pequeños. Cerrar el abdomen, la pancreatectomía distal, la duodenopancreatectomía o la duodenotomía distal tienen bajo rendimiento o no están indicadas.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 128 del PDF (respuesta 14)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "eee5f6b3af",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes se asocia con hipergastrinemia?",
+  "opts": [
+   "Diabetes",
+   "Hipotiroidismo",
+   "Hiperparatiroidismo",
+   "Gastritis crónica",
+   "Hiperplasia de células D"
+  ],
+  "ans": 3,
+  "why": "De Virgilio explica que la hipergastrinemia con acidez normal o baja ocurre en anemia perniciosa, posvagotomía, uso de antiácidos y gastritis crónica. El hipotiroidismo se asocia con gastrina baja, y la diabetes y el hiperparatiroidismo no afectan los niveles de gastrina; la hiperplasia de células G (no D) sí aumenta la gastrina.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 128 del PDF (respuesta 16)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "b8e8830aed",
+  "estado": "confirmada",
+  "stem": "Un hombre de 56 años se presenta con dolor epigástrico, diarrea y pérdida de peso. La endoscopía superior muestra pliegues gástricos gigantes en el estómago proximal. La biopsia revela hiperplasia difusa de las células foveolares sin evidencia de malignidad. El pH gástrico de 24 horas es compatible con aclorhidria. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la condición más probable?",
+  "opts": [
+   "No hay riesgo de desarrollar cáncer.",
+   "Está asociada con citomegalovirus en adultos.",
+   "La terapia médica es altamente eficaz.",
+   "Es una condición hereditaria.",
+   "El tratamiento incluye dieta alta en proteínas."
+  ],
+  "ans": 4,
+  "why": "El cuadro es de enfermedad de Ménétrier (pliegues gigantes con hiperplasia foveolar e hipoclorhidria). Sabiston dice que en los pacientes con pérdida cuantiosa de proteínas se usa tratamiento farmacológico óptimo y dieta hiperproteica. A es falsa porque aumenta el riesgo de neoplasia gástrica (se hace vigilancia endoscópica); B es falsa porque el citomegalovirus se asocia en niños (en adultos, H. pylori); C es falsa porque el tratamiento médico da resultados discordantes; y en las fuentes no se describe como hereditaria (se desconoce la causa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1259 del PDF (enfermedad de Ménétrier)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "6060673262",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al reflujo biliar postgastrectomía?",
+  "opts": [
+   "La mayoría de los pacientes con reflujo biliar al estómago desarrollará síntomas.",
+   "Los síntomas suelen correlacionarse con la cantidad de bilis que entra al estómago.",
+   "En pacientes sintomáticos, el tratamiento médico suele ser eficaz.",
+   "La creación de una gastroyeyunostomía en Y de Roux es una opción quirúrgica eficaz.",
+   "Es más probable que ocurra después de una reconstrucción tipo Billroth I que de una tipo Billroth II."
+  ],
+  "ans": 3,
+  "why": "Tras la gastrectomía, la solución quirúrgica del reflujo biliar sintomático es convertir la anastomosis a una gastroyeyunostomía en Y de Roux con asa larga (más de 40-45 cm). Solo una pequeña fracción de los pacientes tiene síntomas significativos (A), los síntomas no se correlacionan con la cantidad de bilis (B), el tratamiento médico no es muy eficaz (C), y es más probable tras Billroth II que tras Billroth I (E).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129 del PDF (respuesta 21)",
+   "Sabiston 21.ª ed., p. 1239-1242 del PDF (reflujo de bilis posgastrectomía)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). Texto de las opciones reparado desde la imagen del original (estaban cortadas)."
+ },
+ {
+  "k": "50be09b2c0",
+  "estado": "dudosa",
+  "stem": "La mejor prueba para la localización gastrinoma es:",
+  "opts": [
+   "Resonancia magnética",
+   "Tomografía computarizada",
+   "Ecografía abdominal",
+   "Gammagrafía con octreótido",
+   "Angiografía selectiva"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: los libros no coinciden: de Virgilio da la gammagrafía con octreótido y Sabiston pone la TC trifásica o la RM como prueba inicial. (El revisor había propuesto la opción D.) La gammagrafía con octreótido (receptores de somatostatina) es la prueba más sensible para localizar gastrinomas, porque más del 90% tienen receptores de somatostatina. La ecografía abdominal no ayuda; la TC, la angiografía y la RM son complementarias (la RM sirve sobre todo para metástasis hepáticas).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129 del PDF (respuesta 22)",
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 35)",
+   "Sabiston 21.ª ed., p. 1239-1242 del PDF (TC trifásica o RM como prueba inicial)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). Sabiston recomienda TC trifásica o RM como mejor prueba inicial de imagen y reserva el octreótido si esa no es diagnóstica; el libro de preguntas (ABSITE) da el octreótido."
+ }
+]

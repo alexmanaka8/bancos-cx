@@ -1,0 +1,271 @@
+[
+ {
+  "k": "d082fbf0aa",
+  "sec": "Intestino delgado",
+  "stem": "Hombre con 5 años de colitis ulcerosa s displasia. ¿Cirugía electiva más apropiada?",
+  "opts": [
+   "Proctocolectomía total + bolsa ileoanal mucosectomía anal + ileostomía",
+   "Proctocolectomía total + bolsa ileoanal ileostomía de derivación",
+   "Colectomía total + anastomosis ileorrectal",
+   "Colectomía + Hartmann bajo",
+   "Proctocolectomía total + ileostomía terminal"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "db5613e44f",
+  "sec": "Intestino delgado",
+  "stem": "¿Dónde se localiza más frecuentemente angiodisplasia del tracto digestivo?",
+  "opts": [
+   "Colon ascendente",
+   "Colon descendente",
+   "Íleon terminal",
+   "Sigmoides",
+   "Recto"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "4cdc7fa7b0",
+  "sec": "Intestino delgado",
+  "stem": "¿En qué procedimiento es más frecuente síndrome de asa aferente?",
+  "opts": [
+   "Gastrectomía tipo Billroth I",
+   "Gastrectomía total",
+   "Vagotomía troncular con piloroplastía",
+   "Vagotomía troncular con antrectomía ti Billroth I",
+   "Gastrectomía tipo Billroth II"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "012a53b4d5",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 28 años, una semana después una colecistectomía laparoscópica, regre con diarrea acuosa sin sangre ni fiebre. ¿C es el manejo inicial más adecuado?",
+  "opts": [
+   "Loperamida",
+   "Solo soporte médico",
+   "Vancomicina oral",
+   "Ciprofloxacino oral",
+   "Metronidazol oral"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "d8ead40fb5",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 57 años con dolor en cuadrante inferior izquierdo, distensión y estreñimiento alternando con diarrea tiene múltiples divertículos sigmoideos en enema de bario. ¿Qué los causa?",
+  "opts": [
+   "Segmento aperistáltico",
+   "Dieta rica en fibra",
+   "Presión intraluminal aumentada",
+   "Masa rectal",
+   "Poliposis colónica"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "695e674613",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 68 años con antecedentes de diverticulosis presenta dolor en el cuadrante inferior izquierdo, distensión y alternancia entre estreñimiento y diarrea. Recientemente refiere paso de aire y materia fecal por la uretra, y ha tenido cuatro infecciones urinarias en los últimos seis meses. ¿Cuál es el siguiente paso más adecuado en el manejo?",
+  "opts": [
+   "Anoscopía",
+   "Examen rectal digital",
+   "Tomografía de abdomen y pelvis",
+   "Sigmoidoscopía rígida",
+   "Ecografía"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 137,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "d392ca6eaa",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 26 años tiene 6 meses de diarrea sanguinolenta, dolor abdominal y fiebre intermitente. Tiene antecedentes de síndrome de intestino irritable, pero los síntomas se han intensificado. El examen físico muestra distensión abdominal y múltiples fisuras anales. ¿Cuál es el estudio diagnóstico más adecuado?",
+  "opts": [
+   "Anoscopía",
+   "Colonoscopía",
+   "Sigmoidoscopía flexible",
+   "Sigmoidoscopía rígida",
+   "No se requieren más estudios"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "3e584469d6",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 38 años con dx de colitis ulcerosa hace 1 año se presenta en la emergencia con ictericia, es ingresado y el dx probable colangitis esclerosante primaria. cual estudio se recomienda hacer adicionalmente.",
+  "opts": [
+   "colonoscopia para detección inmediata",
+   "colonoscopia inmediata con biopsias aleatorias",
+   "colonoscopia con biopsias a los 8- 10 años del dx de colitis ulcerativa",
+   "colonoscopia de detección a los 50 años",
+   "colonoscopia basada en síntomas según sea necesario"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "276fe1ac21",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 71 años presenta sangrado rectal. Tuvo cólicos leves en el lado izquierdo del abdomen que se resolvieron. La colonoscopía muestra diverticulosis sin sangrado ni perforación. No hay leucocitosis. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "Antibióticos",
+   "Hemicolectomía izquierda",
+   "Hemicolectomía derecha",
+   "Colectomía subtotal",
+   "Observación"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "d24df085c9",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 85 años con dolor abdominal agudo y distensión progresiva, residente de un asilo, con náuseas y sin apetito. La radiografía abdominal muestra un asa sigmoidea dilatada con aire atrapado. ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Enema con gastrografin",
+   "Dieta rica en fibra",
+   "Lactulosa",
+   "Descompresión con sonda rectal",
+   "Resección quirúrgica"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "473961f135",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 36 años con hemorragia gastrointestinal recurrente acude nuevamente por sangrado. El diagnóstico diferencial incluye angiodisplasia y enfermedad diverticular. ¿Cuál de las siguientes características favorece el diagnóstico de diverticulosis colónica?",
+  "opts": [
+   "El sangrado es rápido",
+   "El sangrado se debe a debilidad de la pared colónica",
+   "El sangrado es repentino",
+   "El sangrado es autolimitado",
+   "Degeneración submucosa en el colon"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "91fbf3ce50",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 41 años con sangrado rectal intermitente nunca tratado acude a consulta. El examen físico general es normal. ¿Cuál de los siguientes estudios es el menos costo-efectivo para buscar la causa del sangrado?",
+  "opts": [
+   "Examen anorectal",
+   "Anoscopía",
+   "Gammagrafía de sangrado",
+   "Colonoscopía",
+   "Proctosigmoidoscopía"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "495d2acdf4",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 57 años con sangrado digestivo bajo recurrente se somete a colonoscopía que no localiza el sitio del sangrado. Su hematocrito actual es 24% tras 3 unidades de glóbulos rojos. Se considera arteriografía visceral selectiva. ¿Cuál es una ventaja de esta prueba?",
+  "opts": [
+   "La embolización debe hacerse por separado",
+   "Es una prueba no invasiva",
+   "Permite localización precisa del sangrado",
+   "Funciona bien con sangrados <0.1 mL/min"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "4f91fda057",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 57 años con diverticulosis y episodios de diverticulitis es hospitalizado por dolor en el cuadrante inferior izquierdo. La TC muestra una masa inflamatoria de 2 cm sin líquido en su interior. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Diverticulitis aguda",
+   "Absceso diverticular",
+   "Flemon diverticular",
+   "Cáncer de colon sigmoide",
+   "Fístula transigmoidea"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "f051df333a",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 63 años con enfermedad diverticular recurrente presenta fiebre, náuseas, vómitos y dolor en cuadrante inferior izquierdo. La TC muestra diverticulitis con una masa inflamatoria de 2 cm sin líquido. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Antibióticos, reposo intestinal e hidratación IV",
+   "Drenaje percutáneo guiado por TC",
+   "Drenaje quirúrgico del absceso",
+   "Resección quirúrgica con colostomía terminal",
+   "Observación expectante"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ }
+]

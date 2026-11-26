@@ -1,0 +1,307 @@
+[
+ {
+  "k": "3c981c9ec4",
+  "estado": "confirmada",
+  "stem": "La manometría esofágica realizada en un paciente con una verdadera hernia paraesofágica mostrará que el EEI está:",
+  "opts": [
+   "Por encima de la posición normal",
+   "En la posición normal",
+   "Hipertensivo",
+   "Hipotensivo",
+   "Corto"
+  ],
+  "ans": 1,
+  "why": "En la hernia paraesofágica (tipo II) la unión gastroesofágica y por tanto el EEI quedan en su posición normal; solo el fondo gástrico se desplaza hacia arriba. El EEI por encima de su posición normal es propio de la hernia por deslizamiento (tipo I). En esta hernia el EEI no es ni hipertensivo (eso es la acalasia) ni hipotensivo, y el acortamiento del EEI se relaciona con el reflujo.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 11)",
+   "de Virgilio ABSITE 3.ª ed., p. 108 del PDF (enunciado 11)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado) coincide con el libro."
+ },
+ {
+  "k": "c94771a7ec",
+  "estado": "confirmada",
+  "stem": "Varón de 60 años, hepatitis C, hematemesis, PA 80/60, FC 110. ¿Qué hacer antes de endoscopia?",
+  "opts": [
+   "Propranolol",
+   "Octreótido IV",
+   "Sonda de Sengstaken-Blakemore",
+   "Tiempo de protrombina"
+  ],
+  "ans": 1,
+  "why": "En un cirrótico con hemorragia por várices, tras asegurar vía aérea, respiración y circulación, el abordaje recomendado combina fármacos vasoactivos (octreótido) con la intervención endoscópica. El tratamiento médico debe iniciarse lo antes posible porque reduce el sangrado activo y mejora el resultado de la endoscopia. El propranolol sirve para prevenir resangrado en várices crónicas, no en la hemorragia aguda; la sonda de balón es un recurso temporal con muchos inconvenientes; el tiempo de protrombina es un examen de laboratorio, no el tratamiento.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 14)",
+   "Sabiston 21.ª ed., p. 1469 del PDF (octreótido más endoscopia)",
+   "Sabiston 21.ª ed., p. 1470 del PDF (inconvenientes del balón)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original B (resaltado) coincide con el libro. El enunciado no dice que haya várices confirmadas; se asume sospecha de sangrado variceal por hepatitis C con hipertensión portal."
+ },
+ {
+  "k": "f3f6a15d60",
+  "estado": "confirmada",
+  "stem": "Manejo inicial de hemorragia por várices esofágicas:",
+  "opts": [
+   "Propanolol",
+   "Octreótido intravenoso",
+   "Sonda de Sengstaken-Blakemore",
+   "Tiempo de protrombina",
+   "Ninguna de las anteriores"
+  ],
+  "ans": 1,
+  "why": "Tras las medidas de reanimación (ABC), el manejo recomendado de la hemorragia variceal aguda es un fármaco vasoactivo (octreótido) junto con endoscopia; la combinación es más eficaz que el octreótido solo y es el tratamiento preferido. Entre las opciones, el octreótido IV es la única medida de tratamiento inicial. El propranolol previene el resangrado, el balón de Sengstaken-Blakemore es temporal y con alto resangrado, y el tiempo de protrombina es solo un examen.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 14)",
+   "Sabiston 21.ª ed., p. 1469 del PDF",
+   "Sabiston 21.ª ed., p. 1470 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original B (resaltado) coincide. Estrictamente, el primer paso global son las medidas ABC; de las opciones dadas, octreótido es la que respaldan los libros."
+ },
+ {
+  "k": "8134ca2a65",
+  "estado": "dudosa",
+  "stem": "Un paciente de 85 años con hemorragia rectal fresca ingresa en estado de shock. Tras la reanimación con líquidos y hemoderivados, el examen rectal no identifica una fuente clara de sangrado. ¿Cuál es el siguiente paso en el tratamiento?",
+  "opts": [
+   "Gammagrafía con glóbulos rojos marcados",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Laparotomía",
+   "Angiografía mesentérica",
+   "Colonoscopia"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente trata este caso. (El revisor había propuesto la opción B.) Ante hematoquecia importante, tras descartar fuente anorrectal con tacto rectal y anoscopia, es importante descartar una fuente digestiva alta: hasta el 15% de los pacientes con hematoquecia la tienen. El libro de ABSITE indica pasar sonda nasogástrica y, en el paciente inestable, descartar el sangrado alto con EGD antes de pensar en otras pruebas. La colonoscopia se prefiere solo en pacientes estables; gammagrafía y angiografía se usan si persiste el sangrado y ya se descartó una fuente alta; la laparotomía queda para quien no se logra estabilizar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1185 del PDF (hasta 15% con fuente alta; EGD si se contempla cirugía)",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF (XI. Lower GI Bleeding)",
+   "de Virgilio ABSITE 3.ª ed., p. 166 del PDF (respuesta 23)"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ningún libro dice textualmente este caso (85 años, shock, tacto rectal negativo); se deduce de que en hemorragia grave inestable se descarta primero la fuente alta con EGD. Clave original B (resaltado) coincide."
+ },
+ {
+  "k": "851267f455",
+  "estado": "confirmada",
+  "stem": "¿Cuál es una derivación selectiva para prevenir sangrado por várices esofágicas?",
+  "opts": [
+   "Shunt mesentérico-cava",
+   "TIPSS",
+   "Derivación espleno-renal distal (shunt warren)",
+   "Shunt portacava T–L",
+   "Derivación espleno-renal proximal"
+  ],
+  "ans": 2,
+  "why": "La derivación esplenorrenal distal (Warren) descomprime de forma selectiva las várices gastroesofágicas y deja intactas las venas mesentérica superior y porta. El TIPS es una derivación no selectiva (riesgo alto de encefalopatía), igual que las derivaciones portacava y mesocava; la esplenorrenal proximal (convencional) es no selectiva.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1184 del PDF",
+   "Sabiston 21.ª ed., p. 1473-1474 del PDF (Warren 1967; esplenorrenal convencional no selectiva)",
+   "de Virgilio ABSITE 3.ª ed., p. 74 del PDF (TIPS es no selectivo)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original C (resaltado) coincide. La opción 'Shunt portacava T-L' no figura como selectiva en los libros consultados."
+ },
+ {
+  "k": "775d7335d5",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años se presenta con dolor epigástrico punzante que ha estado presente durante 8 semanas. El dolor parece empeorar con la comida. Niega náuseas, vómitos o saciedad temprana. Ha perdido 10 libras y atribuye esto a una mala apetencia. Niega heces negras o con sangre. El examen físico es normal. ¿Cuál es el siguiente estudio que se debe ordenar?",
+  "opts": [
+   "Trago de bario",
+   "Tomografía computarizada",
+   "Endoscopía digestiva alta (EGD)",
+   "Prueba de inhibidor de bomba de protones por 6 semanas",
+   "Prueba para H. pylori"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): los libros no dan el algoritmo de la dispepsia con signos de alarma. (El revisor había propuesto la opción C.) Un varón de 60 años con dolor epigástrico de 8 semanas y pérdida de 10 libras necesita un estudio que visualice la mucosa y tome biopsia. Sabiston indica que la endoscopia digestiva alta es el método de elección para diagnosticar úlceras gástricas y duodenales, porque permite biopsia para descartar neoplasia, y que el cáncer gástrico se manifiesta con dolor epigástrico y adelgazamiento. El trago de bario fue sustituido en gran medida por la endoscopia; la TC no es el estudio inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1233 del PDF (endoscopia, método de elección con biopsia)",
+   "Sabiston 21.ª ed., p. 1246 del PDF (síntomas del cáncer gástrico)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: los libros consultados no traen el algoritmo explícito de dispepsia con síntomas de alarma ni descartan la prueba con IBP/H. pylori con cita directa; se deduce del papel de la EGD con biopsia. Clave original C (resaltado) coincide."
+ },
+ {
+  "k": "ae2eba2146",
+  "estado": "dudosa",
+  "stem": "Una mujer de 65 años se presenta con tres episodios de hematemesis en posos de café. Ha tenido dolor abdominal superior vago durante los últimos 2 meses, que mejora con antiácidos. Además, reporta una pérdida de peso involuntaria de 10 libras. Niega uso de AINEs o alcohol. Al examen físico, la TA es de 110/70 mmHg y la FC es de 80/min. El abdomen revela leve dolor epigástrico sin rebote ni defensa. Laboratorio: Hgb 8.3 g/dL, Hto 24%, VCM 80 fL, bilirrubina total 3.0 mg/dL, fosfatasa alcalina 250 IU/L, GGT 270 IU/L, ALT 300 IU/L, AST 320 IU/L. El diagnóstico más probable es:",
+  "opts": [
+   "Úlcera duodenal",
+   "Úlcera gástrica",
+   "Cáncer pancreático",
+   "Cáncer ampular",
+   "Lesión de Dieulafoy"
+  ],
+  "ans": null,
+  "why": "Los libros consultados no deciden esta pregunta. El cuadro (hematemesis en posos de café, anemia, pérdida de peso, patrón colestásico con bilirrubina 3.0, FA 250, GGT 270 y transaminasas elevadas) obliga a pensar en una lesión que sangre y obstruya la vía biliar, pero Sabiston solo da, para los tumores periampulares del páncreas, la ictericia (75%) y la hemorragia digestiva (1%) como síntomas de presentación y no distingue el cáncer ampular. No encontré en Sabiston, Giménez ni ABSITE un texto que atribuya a un cáncer ampular esta presentación frente a una úlcera, el cáncer de páncreas o la lesión de Dieulafoy.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1577-1578 del PDF (tumores periampulares, tabla 56.7)",
+   "de Virgilio ABSITE 3.ª ed., p. 87 del PDF (carcinoma ampular es adenocarcinoma duodenal)"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original D, cáncer ampular (resaltado). No se pudo confirmar con fuente; se deja dudosa en lugar de elegir por descarte."
+ },
+ {
+  "k": "7c96facf25",
+  "estado": "dudosa",
+  "stem": "Una mujer de 50 años se presenta con hemorragia digestiva alta masiva. En urgencias, vomita activamente grandes cantidades de sangre roja brillante. Está letárgica y pálida. TA 70/50 mmHg, FC 120/min, FR 22/min. El siguiente paso en el manejo es:",
+  "opts": [
+   "Endoscopía alta de urgencia",
+   "Intubación orotraqueal inmediata",
+   "Colocar al paciente en posición de Trendelenburg invertido",
+   "Administrar bolos de 2 litros de solución salina",
+   "Administrar dos unidades de sangre O-negativa"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la corrección es deducida (el revisor la marcó INDIRECTA): ningún libro dice que en este caso haya que intubar antes que lo demás. (El revisor había propuesto la opción B.) En una paciente con hematemesis masiva activa, letárgica y en shock, la prioridad es la vía aérea (ABCDE): la hematemesis grave o la alteración del estado mental pueden comprometer los reflejos protectores de la vía aérea, y si se necesita una vía aérea debe asegurarse. Por eso la intubación va antes de la endoscopia urgente. Los 2 litros de solución salina y la sangre O negativa son parte de la reanimación circulatoria, que sigue a la vía aérea; Sabiston prefiere hemoderivados en la hemorragia masiva. El Trendelenburg invertido no figura en las fuentes como medida de reanimación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF (ABCDE, vía aérea prioritaria en hematemesis grave)",
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 14: la vía aérea tiene precedencia)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: ningún libro dice textualmente 'intubar' en este caso; se deduce de la prioridad de la vía aérea con hematemesis masiva y letargia. Clave original A, endoscopia urgente (resaltado); en el examen de aula virtual podría haber sido A, pero la fuente prioriza la vía aérea."
+ },
+ {
+  "k": "628472dfb6",
+  "estado": "corregida",
+  "stem": "Un hombre de 48 años se presenta con hematemesis. Refiere un mes de dolor epigástrico que mejora al comer. Niega pérdida de peso. No toma medicamentos ni consume alcohol. Está hemodinámicamente estable. Tras la reanimación, se realiza una endoscopía alta que revela una úlcera posterior en el duodeno proximal con sangrado activo. A pesar de múltiples intentos de cauterización e inyección con epinefrina, el sangrado no se detiene y la presión arterial cae a 70/50 mmHg. El siguiente paso es:",
+  "opts": [
+   "Embolización angiográfica",
+   "Traslado a UCI para transfusión continua",
+   "Administrar vasopresina",
+   "Laparotomía exploradora",
+   "Administrar octreótido"
+  ],
+  "ans": 3,
+  "why": "Cuando el sangrado de una úlcera duodenal posterior no cede con múltiples intentos endoscópicos y el paciente cae en hipotensión, el tratamiento es quirúrgico. Sabiston enumera como indicaciones de cirugía el fracaso del tratamiento endoscópico y la inestabilidad hemodinámica, y reserva la embolización para pacientes hemodinámicamente estables o no aptos para cirugía. En la cirugía se abre el duodeno, se sutura el lecho de la úlcera y se considera vagotomía. La UCI con transfusión continua no controla la fuente, y las fuentes consultadas no listan vasopresina ni octreótido como tratamiento de la úlcera péptica sangrante.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1235-1236 del PDF (embolización solo si estable; indicaciones de cirugía)",
+   "de Virgilio ABSITE 3.ª ed., p. 130-131 del PDF (respuesta 31)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado), traslado a UCI para transfusión continua, no está respaldada por las fuentes."
+ },
+ {
+  "k": "600a8c1ba5",
+  "estado": "corregida",
+  "stem": "Un hombre de 45 años con antecedentes de alcoholismo se presenta con sangrado digestivo alto tras una noche de consumo excesivo. Refiere múltiples arcadas secas seguidas de hematemesis. Afebril, signos vitales normales. La endoscopía revela un desgarro parcial de la mucosa y submucosa cerca de la unión gastroesofágica. ¿Cuál de las siguientes es verdadera sobre esta condición?",
+  "opts": [
+   "Suele estar relacionada con hipertensión portal",
+   "Se asocia frecuentemente con derrame pleural izquierdo",
+   "Se asocia con infección por H. pylori",
+   "El sangrado suele provenir de la arteria gastroduodenal",
+   "El sangrado suele detenerse espontáneamente"
+  ],
+  "ans": 4,
+  "why": "El desgarro parcial de mucosa y submucosa tras arcadas es un síndrome de Mallory-Weiss. El libro dice que la mayoría de los sangrados por desgarros de Mallory-Weiss se detienen espontáneamente con manejo no quirúrgico. No se asocia a hipertensión portal ni a H. pylori, y el derrame pleural izquierdo es propio de la rotura completa de Boerhaave. El libro no atribuye el sangrado a la arteria gastroduodenal; la lesión está en la unión gastroesofágica.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 111 del PDF (respuesta 6)",
+   "de Virgilio ABSITE 3.ª ed., p. 107 del PDF (enunciado 6)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D, arteria gastroduodenal (resaltado), sin respaldo en el libro. El libro menciona que el sangrado suele ser arterial, pero no de la arteria gastroduodenal."
+ },
+ {
+  "k": "b468d19915",
+  "estado": "corregida",
+  "stem": "Un hombre de 65 años se presenta con melena. Niega dolor abdominal o vómitos. No tiene antecedentes similares. FC 120/min, TA 112/80 mmHg. Hb 9.2 g/dL, Hto 28%. Tiene antecedente de bypass aortobifemoral 5 años atrás. Aspirado de sonda nasogástrica: líquido claro. Se interna en UCI, cesa la melena y se estabiliza el hematocrito. EGD negativa. Colonoscopía tras preparación intestinal también es negativa. TC abdominal muestra gas alrededor del injerto aórtico proximal. ¿Cuál afirmación es correcta?",
+  "opts": [
+   "La angiografía formal probablemente demuestre el foco de sangrado",
+   "El gas alrededor del injerto aórtico no es patológico",
+   "El injerto aórtico probablemente requerirá extracción",
+   "El resangrado es raro",
+   "Esto representa un sangrado oculto"
+  ],
+  "ans": 2,
+  "why": "Un paciente con injerto aortobifemoral previo, melena autolimitada, EGD y colonoscopia negativas y gas alrededor del injerto en la TC tiene una fístula aortoentérica presumida. El libro indica que el manejo es la extirpación del injerto, cierre del duodeno y revascularización; la endoscopia es negativa con frecuencia y la angiografía aporta poco al diagnóstico. El sangrado inicial es un sangrado centinela, tras el cual puede detenerse temporalmente. El aire perigraft es hallazgo anormal, no normal. No se trata de un sangrado oculto: hay melena visible.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 290 del PDF (respuesta 31)",
+   "de Virgilio ABSITE 3.ª ed., p. 275 del PDF (aortoenteric fistula: graft excision)",
+   "de Virgilio ABSITE 3.ª ed., p. 144 del PDF (sangrado obscuro puede ser oculto u overt)"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Clave original E, sangrado oculto (resaltado). El libro (p. 144) define el sangrado obscuro como el que persiste o recurre sin fuente tras EGD y colonoscopia; aquí la fuente se sospecha por la TC y el sangrado cesó, por lo que se prefiere C."
+ },
+ {
+  "k": "9699a67c0c",
+  "estado": "corregida",
+  "stem": "¿Cuál es la causa más común de perforación esofágica?",
+  "opts": [
+   "Síndrome de Boerhaave (perforación espontánea)",
+   "Iatrogénica",
+   "Cuerpo extraño",
+   "Cáncer esofágico",
+   "Trauma"
+  ],
+  "ans": 1,
+  "why": "Las lesiones iatrogénicas (instrumentación, endoscopia, dilatación) son la causa más común de perforación esofágica, y ocurren en zonas de estrechez como el cricofaríngeo y la unión gastroesofágica. El síndrome de Boerhaave es la forma espontánea, y el cuerpo extraño, el trauma y el cáncer son causas menos frecuentes.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 110 del PDF (respuesta 4)",
+   "de Virgilio ABSITE 3.ª ed., p. 105 del PDF (VI. Esophageal Perforation)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (causas más reconocidas)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original C, cuerpo extraño (resaltado), no respaldada."
+ },
+ {
+  "k": "e627dd6901",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es verdadera sobre el síndrome de Boerhaave?",
+  "opts": [
+   "Se presenta con mayor frecuencia como hemorragia digestiva alta",
+   "Es causado más frecuentemente por una lesión iatrogénica",
+   "Es un desgarro de espesor parcial del esófago",
+   "Es la perforación gastrointestinal más letal",
+   "El tratamiento consiste en reposo intestinal y antibióticos IV"
+  ],
+  "ans": null,
+  "why": "Ninguna opción queda respaldada con claridad por los libros. A es falsa (la hemorragia digestiva alta es la presentación del Mallory-Weiss), B es falsa (la causa más común de perforación esofágica es iatrogénica, pero Boerhaave es la forma espontánea) y C es falsa (Boerhaave es un desgarro de espesor completo; el de espesor parcial es Mallory-Weiss). E no es correcta como único tratamiento: el libro inicia con NPO, líquidos y antibióticos, y el manejo no operatorio solo si el paciente es estable, no séptico y la perforación está contenida. La opción D, 'la perforación gastrointestinal más letal', no tiene cita en Sabiston, Giménez ni ABSITE (Sabiston solo da mortalidad global de 15 a 30% para la perforación esofágica sin compararla con otras).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 111 del PDF (Boerhaave vs Mallory-Weiss)",
+   "de Virgilio ABSITE 3.ª ed., p. 105 del PDF (manejo)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (mortalidad 15-30%)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado), causado más frecuentemente por lesión iatrogénica, no está respaldada. D podría ser la intención de la pregunta, pero sin fuente se deja dudosa."
+ },
+ {
+  "k": "20b9e58ac0",
+  "estado": "corregida",
+  "stem": "¿Cuál es el primer paso en el tratamiento del síndrome de Boerhaave?",
+  "opts": [
+   "Esofagectomía",
+   "Descompresión gástrica",
+   "Drenaje de mediastino y pleura",
+   "Reparación primaria con colgajo de avance",
+   "Resucitación con líquidos y antibióticos IV"
+  ],
+  "ans": 4,
+  "why": "En la perforación esofágica, incluido el Boerhaave, el manejo comienza con NPO, reanimación con líquidos IV y antibióticos de amplio espectro (incluidos antifúngicos); después se decide el control de la fuente. La reparación primaria, el drenaje y la esofagectomía vienen después de reanimar y confirmar el diagnóstico con esofagrama.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 105 del PDF (VI.C Management)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (antibióticos de amplio espectro y control de contaminación)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D, reparación primaria con colgajo (resaltado), no respaldada como primer paso."
+ },
+ {
+  "k": "9dcda49b02",
+  "estado": "confirmada",
+  "stem": "Un hombre septuagenario que recibe cuidados paliativos en un centro de atención prolongada comienza a desarrollar neumonías recurrentes. Se realiza un trago de bario y se observa una evidente evaginación dentro del cuello izquierdo, entre los niveles de la faringe y el esófago. ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Divertículo de Meckel",
+   "Divertículo medio esofágico por tracción",
+   "Divertículo verdadero",
+   "Divertículo de Zenker"
+  ],
+  "ans": 3,
+  "why": "El divertículo de Zenker es un divertículo falso por pulsión que se forma por el triángulo de Killian, entre el constrictor inferior y el cricofaríngeo (unión faringoesofágica), es el divertículo esofágico más común y se presenta en mayores de 60 años con disfagia y regurgitación de alimento sin digerir. El divertículo medioesofágico por tracción se debe a tracción externa (p. ej., ganglios con tuberculosis) y Zenker es falso, no verdadero; el de Meckel es un divertículo intestinal congénito, no esofágico.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 113 del PDF (respuesta 18)",
+   "de Virgilio ABSITE 3.ª ed., p. 104 del PDF (E. Zenker diverticulum)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D (resaltado) coincide."
+ }
+]

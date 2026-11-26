@@ -1,0 +1,200 @@
+[
+ {
+  "k": "d694654be5",
+  "sec": "Estómago",
+  "stem": "Una mujer de 65 años acude a emergencias por dolor perianal intenso de 12 horas de evolución, iniciado después de hacer esfuerzo durante la defecación. La exploración revela una masa perianal extremadamente dolorosa, con coloración azulada bajo la piel. ¿Cuál es el tratamiento indicado?",
+  "opts": [
+   "Ablandadores de heces y baños de asiento",
+   "Ligadura con bandas de goma",
+   "Incisión y drenaje con anestesia local en emergencias",
+   "Escisión elíptica de la piel y drenaje con anestesia local en emergencias",
+   "Exploración rectal bajo anestesia general con incisión y drenaje"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 63,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "597eeab790",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las verrugas anogenitales es correcta?",
+  "opts": [
+   "Los tipos 6 y 11 del virus del papiloma humano (VPH) predisponen a la malignidad.",
+   "No existe asociación con lesiones escamosas intraepiteliales.",
+   "El tratamiento depende de la localización y extensión de la enfermedad.",
+   "La terapia inmunomoduladora es ineficaz cuando se aplica por vía tópica.",
+   "La vacuna contra el VPH no previene las verrugas anogenitales."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 63,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "bdceb0490c",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre las fisuras anales crónicas es correcta?",
+  "opts": [
+   "El diltiazem tópico es el tratamiento de primera línea.",
+   "La nitroglicerina tópica y la inyección de toxina botulínica tienen resultados similares como tratamientos de primera línea.",
+   "Los nitratos tópicos son superiores al diltiazem tópico.",
+   "Las fisuras anteriores son más frecuentes en los hombres.",
+   "La esfinterotomía lateral interna es el tratamiento de referencia."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 63,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "c97097d37d",
+  "sec": "Estómago",
+  "stem": "La enfermedad de Hirschsprung que se presenta en un adulto:",
+  "opts": [
+   "No ocurre.",
+   "No se asocia con la mutación del gen RET.",
+   "Se diagnostica mejor mediante enema de bario.",
+   "Requiere un procedimiento de descenso intestinal (pull-through) p definitivo.",
+   "Puede tratarse mediante miomectomía anorrectal."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 63,
+  "motivo": "sin clave original",
+  "tema": "colon"
+ },
+ {
+  "k": "736a729599",
+  "sec": "Estómago",
+  "stem": "Un hombre de 30 años presenta enrojecimiento, dolor y fluctuación en el pliegue interglúteo, aproximadamente 4 cm por detrás del ano. Hay abundante vello junto a la lesión. ¿Cuál es el manejo más apropiado?",
+  "opts": [
+   "Incisión y drenaje en el pliegue interglúteo",
+   "Incisión y drenaje lateral al pliegue interglúteo",
+   "Escisión en bloque del trayecto sinusal con reconstrucción mediante colgajo",
+   "Escisión con cierre primario",
+   "Apertura del trayecto y marsupialización"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 64,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "4fb6491986",
+  "sec": "Estómago",
+  "stem": "Un hombre de 35 años con leucemia y neutropenia grave presenta dolor anal intenso. La exploración junto a la cama muestra induración, pero no una zona claramente fluctuante en la región perianal. ¿Cuál es el mejor manejo?",
+  "opts": [
+   "Solo antibióticos intravenosos",
+   "Anoscopia junto a la cama y, si se detecta una masa fluctuante, incisión y drenaje junto a la cama",
+   "Anoscopia junto a la cama y, si se detecta una masa fluctuante, incisión y drenaje en quirófano",
+   "Exploración bajo anestesia con desbridamiento amplio de la región perianal",
+   "Exploración bajo anestesia con biopsia de las zonas induradas e incisión y drenaje, incluso si no se detecta pus"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 64,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "244c9f3672",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la irrigación sanguínea del recto es correcta?",
+  "opts": [
+   "Las arterias rectales superior y media nacen de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Existe una excelente circulación colateral entre las arterias rectales superior y media."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 64,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "242d2577fd",
+  "sec": "Estómago",
+  "stem": "Una mujer de 80 años con múltiples comorbilidades médicas importantes presenta prolapso rectal. Tiene antecedentes de estreñimiento crónico y una colonoscopia sin hallazgos patológicos. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Fijación del recto con una malla protésica (reparación de Ripstein)",
+   "Resección anterior con rectopexia",
+   "Cerclaje anal de Thiersch",
+   "Resección de hernia perineal y cierre del fondo de saco de Douglas (procedimiento de Moschcowitz)",
+   "Rectosigmoidectomía perineal (procedimiento de Altemeier)"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 64,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "639070f265",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la enfermedad perianal asociada con la enfermedad de Crohn es correcta?",
+  "opts": [
+   "Las fístulas anales suelen presentar un único trayecto.",
+   "La resonancia magnética no es particularmente útil.",
+   "El uso liberal de múltiples setones es útil.",
+   "El infliximab es ineficaz para la cicatrización de estas fístulas.",
+   "El uso agresivo de la fistulotomía ofrece la mayor probabilidad de curación."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 65,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "cbccb23855",
+  "sec": "Estómago",
+  "stem": "Un hombre de 23 años que recientemente tuvo relaciones sexuales anorreceptivas sin protección presenta dolor rectal intenso y secreción mucopurulenta. ¿Cuál de las siguientes etiologías es la más probable?",
+  "opts": [
+   "Chlamydia trachomatis",
+   "Neisseria gonorrhoeae",
+   "Treponema pallidum",
+   "Haemophilus ducreyi",
+   "Especies de Shigella"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 65,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "71a373323a",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la fístula anal es correcta?",
+  "opts": [
+   "El drenaje de un absceso anorrectal rara vez produce una fístula anal persistente.",
+   "El orificio interno suele identificarse fácilmente.",
+   "Las fístulas se clasifican según su relación con la mucosa anal.",
+   "El tratamiento quirúrgico se determina según los orificios interno y externo de la fístula.",
+   "Está contraindicado inyectar peróxido de hidrógeno o azul de metileno en el orificio externo."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "BANCO TRADUCIDO - Cx 1 (1).pdf",
+  "pagina": 65,
+  "motivo": "sin clave original",
+  "tema": "anorrectal"
+ }
+]

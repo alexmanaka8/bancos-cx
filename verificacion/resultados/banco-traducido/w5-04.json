@@ -1,0 +1,230 @@
+[
+ {
+  "k": "25762b4c2e",
+  "estado": "nueva",
+  "stem": "Un niño de 10 años presenta síntomas y signos sugestivos de apendicitis aguda. La ecografía muestra ganglios linfáticos mesentéricos aumentados de tamaño e hipoecoicos, sin una estructura tubular ciega engrosada ni dilatada. ¿Cuál de las siguientes afirmaciones sobre esta condición es verdadera?",
+  "opts": [
+   "Debe realizarse una laparoscopia diagnóstica.",
+   "Habitualmente causa mayor irritación peritoneal que la apendicitis.",
+   "El recuento de leucocitos suele ser mayor que en la apendicitis.",
+   "Se presenta con igual frecuencia en adultos y niños.",
+   "Suele asociarse con una infección previa de las vías respiratorias superiores."
+  ],
+  "ans": 4,
+  "why": "La presentación es una adenitis mesentérica aguda (pseudoapendicitis), más común en niños y a menudo precedida por una infección de vías respiratorias superiores. Las otras son falsas: da dolor más vago y difuso sin defensa importante (no más irritación peritoneal), la leucocitosis es similar a la de la apendicitis (10-15 mil), y no se recomienda biopsia de ganglios ni se indica laparoscopia diagnóstica como regla.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.160 (pregunta 36), p.169 (respuesta 36 E)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "ec9e7a5156",
+  "estado": "nueva",
+  "stem": "Una mujer de 75 años acude a control después de cuatro episodios de diverticulitis no complicada durante el último año, cada uno de los cuales requirió cinco días de hospitalización, antibióticos intravenosos y reposo intestinal. Tiene diabetes. Las tomografías previas mostraron inflamación del sigmoide con infiltración de la grasa. La colonoscopia posterior mostró divertículos en gran parte del colon transverso, descendente y sigmoide, sin otras alteraciones. ¿Cuál es la intervención quirúrgica más apropiada?",
+  "opts": [
+   "Colectomía total con anastomosis ileorrectal.",
+   "Sigmoidectomía, con margen proximal en una zona sin hipertrofia de la muscular propia y margen distal donde las tenias se separan.",
+   "Colectomía izquierda, con margen proximal donde terminan los divertículos y margen distal donde las tenias se separan.",
+   "Sigmoidectomía, con margen proximal en una zona sin hipertrofia de la muscular propia y margen distal en la unión rectosigmoidea.",
+   "Colectomía izquierda, con margen proximal donde terminan los divertículos y margen distal en la unión rectosigmoidea."
+  ],
+  "ans": 1,
+  "why": "En la diverticulitis solo se reseca el colon inflamado y engrosado aunque haya divertículos difusos; al quitar el colon distal baja la presión y los divertículos proximales suelen resolverse. El margen distal debe ser en recto de aspecto normal, que se identifica porque las tenias se separan (abre en abanico). Las opciones con colectomía total o izquierda, o margen distal en la unión rectosigmoidea, son incorrectas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.160 (pregunta 38), p.169 (respuesta 38 B)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "colon"
+ },
+ {
+  "k": "a46626795e",
+  "estado": "nueva",
+  "stem": "Un adolescente de 15 años presenta dolor en el cuadrante inferior derecho del abdomen desde hace 5 días y fiebre de 103 °F (39,4 °C). En la exploración física, presenta dolor a la palpación en los cuadrantes inferior y superior derechos. La bilirrubina total es de 3 mg/dL y la fosfatasa alcalina es de 250 UI/L. La tomografía computarizada con contraste muestra múltiples lesiones en el lóbulo derecho del hígado, un flemón en el cuadrante inferior derecho y alteraciones inflamatorias alrededor de la vena mesentérica superior, con burbujas de aire en su interior. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Absceso hepático amebiano",
+   "Pileflebitis",
+   "Síndrome carcinoide",
+   "Adenocarcinoma metastásico",
+   "Enfermedad inflamatoria intestinal (EII)"
+  ],
+  "ans": 1,
+  "why": "Fiebre, abscesos múltiples en el lóbulo derecho, flemón en cuadrante inferior derecho y aire dentro de la vena mesentérica superior indican pileflebitis (tromboflebitis séptica del sistema portal, asociada a apendicitis/diverticulitis). Los abscesos amebianos suelen ser únicos; el carcinoide y la EII no explican la fosfatasa alcalina y bilirrubina elevadas.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.161 (pregunta 41), p.170 (respuesta 41 B)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "92c459cad7",
+  "estado": "nueva",
+  "stem": "¿Cuál es el parásito intestinal más frecuente en el mundo que causa apendicitis?",
+  "opts": [
+   "Enterobius vermicularis",
+   "Strongyloides stercoralis",
+   "Ascaris lumbricoides",
+   "Echinococcus granulosus",
+   "Clonorchis sinensis"
+  ],
+  "ans": 2,
+  "why": "El libro dice que la ascariasis es el parásito más frecuente en el mundo (unos 1.4 mil millones de infectados) y E. vermicularis es el segundo; los parásitos pueden causar apendicitis al obstruir la luz. Las demás opciones causan otras enfermedades (Strongyloides: neumonitis y úlceras; Echinococcus: hidatidosis; Clonorchis: cálculos pigmentados y colangiocarcinoma).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.161 (pregunta 42), p.170 (respuesta 42 C)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "f9b9ea51de",
+  "estado": "nueva",
+  "stem": "Un hombre de 32 años presenta dolor anal y refiere pequeñas manchas de sangre en el papel higiénico después de defecar. El abdomen es blando y no presenta hallazgos relevantes. No se palpan masas perirrectales, pero se encuentra una fisura perianal lateral. ¿Cuál es la causa más probable?",
+  "opts": [
+   "Evacuación de heces duras",
+   "Sexo anal receptivo",
+   "Enfermedad de Crohn",
+   "Colitis ulcerosa",
+   "Absceso perirrectal"
+  ],
+  "ans": 2,
+  "why": "Una fisura lateral (atípica) debe hacer sospechar enfermedad de Crohn; las fisuras típicas son de la línea media posterior (90%) y se deben a heces duras o coito anal. La colitis ulcerosa generalmente no afecta el ano y el absceso perirrectal no suele asociarse a fisuras.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.175 (pregunta 1), p.178 (respuesta 1 C)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "950f069e7b",
+  "estado": "nueva",
+  "stem": "Una mujer de 30 años con fístula anal, tratada hace tres meses en otro hospital, acude para continuar su manejo. En la exploración se observa un setón y el orificio externo de la fístula lateral al ano. En el tacto rectal, el orificio interno se encuentra por encima del complejo elevador. ¿Cuál es la mejor opción terapéutica?",
+  "opts": [
+   "Colgajo de avance mucoso endorrectal",
+   "Pegamento de fibrina",
+   "Setón cortante",
+   "Ligadura del trayecto de la fístula interesfinteriana (LIFT)",
+   "Fistulotomía"
+  ],
+  "ans": 0,
+  "why": "El orificio interno por encima del elevador indica una fístula extraesfintérica (compleja). El libro (ABSITE p. 178-179) dice que la fistulotomía es solo para fístulas bajas (E); el setón cortante tiene un riesgo importante de incontinencia en las extraesfintéricas (C); el pegamento de fibrina tiene una tasa de éxito muy baja y no se recomienda (B); el LIFT no es opción para una fístula extraesfintérica (D). El colgajo de avance mucoso endorrectal es una opción para las fístulas complejas, incluidas las extraesfintéricas, con éxito del 60-93% (A).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 178-179 del PDF"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "71cba6f0ad",
+  "estado": "nueva",
+  "stem": "Un hombre de 55 años con cirrosis y várices esofágicas presenta hematoquecia. El lavado por sonda nasogástrica muestra líquido bilioso. El hematocrito es de 25 y recibe dos unidades de sangre. La colonoscopia revela sangre en la ampolla rectal y elevaciones submucosas azuladas en el recto distal y el conducto anal. Está hemodinámicamente estable. ¿Cuál es el siguiente paso terapéutico más apropiado?",
+  "opts": [
+   "Manejo médico",
+   "Derivación portosistémica intrahepática transyugular (TIPS)",
+   "Hemorroidectomía",
+   "Escleroterapia por inyección",
+   "Taponamiento con balón"
+  ],
+  "ans": 3,
+  "why": "Son várices rectales (cirrosis, hipertensión portal, protrusiones azuladas que no prolapsan). El lavado nasogástrico bilioso descarta sangrado alto. La primera línea endoscópica es escleroterapia por inyección o ligadura con bandas. TIPS es último recurso, la hemorroidectomía sobre una várice puede ser catastrófica y el taponamiento neumático es solo puente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.175 (pregunta 6), p.179 (respuesta 6 D)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "hipertension-portal"
+ },
+ {
+  "k": "ff2f6374a9",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes afirmaciones sobre la hidradenitis supurativa es correcta?",
+  "opts": [
+   "Puede simular una fístula anal compleja.",
+   "La clindamicina tópica no tiene utilidad en la hidradenitis perineal.",
+   "Generalmente requiere escisión radical e injerto cutáneo.",
+   "Puede extenderse más allá del margen anal hacia el conducto anal.",
+   "No se asocia con formación de queloides."
+  ],
+  "ans": 0,
+  "why": "La hidradenitis supurativa puede simular una enfermedad fistulosa anal compleja, pero se detiene en el margen anal porque no hay glándulas apocrinas en el conducto anal. La clindamicina tópica se usa, la escisión radical con injerto casi nunca es necesaria y las cicatrices pueden formar queloides.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.175 (pregunta 7), p.179 (respuesta 7 A)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "piel-partes-blandas"
+ },
+ {
+  "k": "de58b21195",
+  "estado": "nueva",
+  "stem": "Doce horas después de una ligadura hemorroidal con bandas, un hombre de 45 años acude a emergencias por dolor rectal y abdominal e incapacidad para orinar. Tiene una temperatura de 39,4 °C y una frecuencia cardíaca de 110 latidos por minuto. ¿Cuál es el manejo apropiado?",
+  "opts": [
+   "Colocación de una sonda Foley",
+   "Antibióticos intravenosos de amplio espectro",
+   "Antibióticos de amplio espectro y exploración rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Cateterismo vesical intermitente y ablandadores de heces"
+  ],
+  "ans": 2,
+  "why": "La sepsis tras tratamiento de hemorroides (bandas, escleroterapia) se presenta en las primeras 12 horas con dolor perineal intenso, fiebre y retención urinaria. El manejo es ingreso, líquidos y antibióticos IV de amplio espectro (gramnegativos y anaerobios), con examen bajo anestesia para descartar infección necrosante. El manejo conservador no es adecuado.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.179 (pregunta 8, respuesta 8 C)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "f761f79023",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más frecuente de una fístula rectovaginal?",
+  "opts": [
+   "Carcinoma rectal",
+   "Enfermedad de Crohn",
+   "Lesión obstétrica",
+   "Colitis ulcerosa",
+   "Radioterapia"
+  ],
+  "ans": 2,
+  "why": "La fístula rectovaginal se debe con más frecuencia a lesión obstétrica tras parto vaginal con episiotomía. Crohn, colitis ulcerosa, carcinoma y radioterapia son causas menos frecuentes.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.176 (pregunta 10), p.180 (respuesta 10 C)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido. Texto reparado según la imagen original (estaba cortado).",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "482a430a13",
+  "estado": "nueva",
+  "stem": "Aproximadamente tres horas después de una hemorroidectomía, un paciente continúa sangrando por el ano. El personal de enfermería ha cambiado varias veces las gasas e intentado taponar el recto. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Ligadura con bandas del sitio sangrante",
+   "Taponamiento rectal con gasas impregnadas de adrenalina",
+   "Ligadura con sutura",
+   "Aplicación de bolsas de hielo",
+   "Compresión con balón de una sonda Foley"
+  ],
+  "ans": 2,
+  "why": "El libro indica que el sangrado leve se maneja con taponamiento con gasa con adrenalina, hielo o balón de Foley, pero si el sangrado es copioso debe llevarse a quirófano para mejor visualización, cauterio y ligadura con sutura. Aquí persiste tras el taponamiento, y la clave del libro es C.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.176 (pregunta 11), p.180 (respuesta 11 C)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido. El libro aclara que el sangrado leve se maneja con medidas simples, pero la clave es C.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "91316e4ebd",
+  "estado": "nueva",
+  "stem": "Una mujer de 60 años presenta prurito perianal intenso y persistente durante todo el día. La exploración muestra eritema mínimo y excoriaciones en la región perianal. ¿Cuál es el mejor tratamiento inicial?",
+  "opts": [
+   "Exploración bajo anestesia",
+   "Biopsia y/o cultivo",
+   "Antibióticos orales",
+   "Aplicación de una crema barrera sin perfume",
+   "Corticoides intravenosos"
+  ],
+  "ans": 3,
+  "why": "El tratamiento del prurito anal idiopático es quitar irritantes y mantener la higiene perianal; se pueden usar cremas barrera hipoalergénicas sin perfume. La biopsia o cultivo se reserva si persiste el cuadro, y los corticoides tópicos no deben usarse mucho tiempo por riesgo de atrofia dérmica.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed. (libro absite), absite p.180 (pregunta 12 D)"
+  ],
+  "nota": "Sin clave original en el banco; la clave viene del libro (respuesta con explicación). La traducción coincide con el libro en el sentido.",
+  "tema": "anorrectal"
+ }
+]

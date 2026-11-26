@@ -1,0 +1,312 @@
+[
+ {
+  "k": "afec4b8530",
+  "estado": "dudosa",
+  "stem": "Elementos que conforman la barrera esofágica: 1) Pilar derecho del diafragma 2) Palar izquierdo del diafragma 3) Esfínter esofágico inferior 4) Ligamento espleno gástrico 5) Ligamento hepatogástrico",
+  "opts": [
+   "1,2,3",
+   "2, 3, 4",
+   "3,4, 5",
+   "1, 2,4",
+   "1, 2, 5"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida; ningún libro define la 'barrera esofágica' ni separa pilar derecho e izquierdo. (El revisor había propuesto la opción A.) La barrera antirreflujo la forman el esfínter esofágico inferior (musculatura intrínseca del esófago distal) y los pilares del diafragma que rodean el hiato, junto con la fibras oblicuas del cardias y la posición intraabdominal de la unión gastroesofágica. Por eso son correctos el pilar derecho, el pilar izquierdo y el EEI (1, 2 y 3). Los ligamentos gastroesplénico y hepatogástrico no figuran entre los componentes de la barrera.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1080 del PDF",
+   "Europe PMC, PMID 22666924, \"Ethiopathogenesis of gastroesophageal reflux disease\" (la primera línea de defensa, la barrera antirreflujo, es el EEI y la actividad contráctil del diafragma)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: sin clave original. Sabiston dice \"pilares del diafragma\" (plural) y EEI como componentes; no usa la frase \"barrera esofágica\" ni menciona expresamente pilar derecho/izquierdo; que los dos ligamentos no forman parte se deduce de que no aparecen en la lista. Texto del original: \"Palar\" = pilar."
+ },
+ {
+  "k": "1cdf12b511",
+  "estado": "nueva",
+  "stem": "Para confirmar el diagnostico de ERGE la mejor prueba es:",
+  "opts": [
+   "Ecografía",
+   "Manometría",
+   "Prueba terapéutica con /8P",
+   "phmetría",
+   "Tomografía"
+  ],
+  "ans": 3,
+  "why": "La monitorización ambulatoria del pH (pHmetría de 24 h) cuantifica la exposición del esófago distal al ácido y es la prueba de referencia para el diagnóstico de ERGE (DeMeester ≥14,7). Giménez la llama el estudio diagnóstico fundamental. La ecografía y la tomografía no sirven; la manometría mide la presión y la motilidad del EEI, no confirma el reflujo; y el esofagograma con bario no puede confirmar ni descartar la ERGE.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1084 del PDF",
+   "Sabiston 21.ª ed., p. 1086 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 380 del PDF (síntesis conceptual: el estudio diagnóstico fundamental es la pHmetría)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. La prueba terapéutica con IBP (opción C) es una estrategia clínica inicial, pero no confirma el diagnóstico."
+ },
+ {
+  "k": "3b0a5cd5c9",
+  "estado": "dudosa",
+  "stem": "El epitelio del tercio inferior del esófago es:",
+  "opts": [
+   "Cilíndrico estratificado queratinizado",
+   "Cilíndrico estratificado no queratinizado",
+   "Plano estratificado no queratinizado",
+   "Plano estratificado queratinizado",
+   "Ninguna"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: los libros dicen 'escamoso estratificado' pero ninguno dice 'no queratinizado'; la clave se deduce. (El revisor había propuesto la opción C.) El esófago está revestido por epitelio escamoso (pavimentoso estratificado) en casi todo su recorrido; solo los 1 a 2 cm distales hacen la transición al epitelio cilíndrico en la línea Z. El tercio inferior conserva, por tanto, epitelio plano estratificado; el cilíndrico aparece por metaplasia (esófago de Barrett).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1039 del PDF",
+   "Sabiston 21.ª ed., p. 1087 del PDF",
+   "Latarjet, Anatomía humana t. 2, p. 392 del PDF (mucosa con epitelio pavimentoso estratificado)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: sin clave original. Los libros dicen epitelio escamoso/pavimentoso estratificado, pero ninguno de los leídos dice expresamente \"no queratinizado\" para el esófago; esa parte se apoya en que el epitelio escamoso esofágico no se describe como queratinizado, y las opciones queratinizadas (A y D) no aparecen en ninguna fuente."
+ },
+ {
+  "k": "9aa8bd328b",
+  "estado": "dudosa",
+  "stem": "En una ERGE, la disminución de la presión del EEl puede deberse a:",
+  "opts": [
+   "Hipotonicidad de la musculatura estriada del esfínter",
+   "Hipotonicidad de la capa longitudinal de la capa muscular estriada esofágica",
+   "Hipotonicidad de la musculatura circular estriada del EEI",
+   "Hipotonicidad de la musculatura circular y longitudinal estriadas del EEl",
+   "Ninguna"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave 'Ninguna' se deduce por descarte; el libro no lo dice directamente. (El revisor había propuesto la opción E.) En el esófago, la capa muscular del tercio superior es estriada, pero los dos tercios inferiores son músculo liso, y el EEI es una zona de alta presión del esófago distal formada por esa musculatura intrínseca en contracción tónica (más fibras oblicuas del cardias y pilares). Como todas las opciones A–D hablan de musculatura estriada del EEI, ninguna es correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1040 del PDF",
+   "Sabiston 21.ª ed., p. 1080 del PDF",
+   "Sabiston 21.ª ed., p. 1045 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: sin clave original. Sabiston dice que los dos tercios inferiores del esófago son músculo liso y que el EEI es musculatura intrínseca del esófago distal; no escribe literalmente \"el EEI es de músculo liso\"."
+ },
+ {
+  "k": "9a185954cf",
+  "estado": "nueva",
+  "stem": "Los factores defensivos del reflujo gastroesofágico se denominan: 1) Barrera mucosa 2) Barrera antirreflujo 3) Aclaramiento esofágico 4) Barrera miometrica 5) Barrera circulatoria",
+  "opts": [
+   "1,2,3",
+   "2,3,4",
+   "3,4,5",
+   "1,2,4",
+   "1,2,5"
+  ],
+  "ans": 0,
+  "why": "Los factores defensivos frente al reflujo son la barrera antirreflujo (EEI y diafragma), el aclaramiento esofágico (peristaltismo, gravedad y saliva) y la resistencia tisular o barrera mucosa. Sabiston confirma que los mecanismos antirreflujo endógenos son el EEI y el aclaramiento esofágico. Una \"barrera miométrica\" o \"circulatoria\" no existe como mecanismo de defensa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1080 del PDF",
+   "Europe PMC, PMID 22666924, \"Ethiopathogenesis of gastroesophageal reflux disease\" (barrera antirreflujo, aclaramiento luminal y resistencia tisular como factores protectores)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Sabiston solo nombra EEI y aclaramiento; la tercera línea (resistencia tisular/barrera mucosa) se apoya en el artículo de revisión."
+ },
+ {
+  "k": "d0963716e4",
+  "estado": "nueva",
+  "stem": "La indicación para el uso de la Sonda Sengstaken-Blakemore es:",
+  "opts": [
+   "Hemorragia digestiva por úlcera duodenal",
+   "hemorragia digestiva por úlcera gástrica",
+   "Gastritis crónica erosiva",
+   "Varices esofágicas sangrantes",
+   "Síndrome de malory Wells"
+  ],
+  "ans": 3,
+  "why": "La sonda de Sengstaken-Blakemore es un taponamiento con balón que se usa para detener la hemorragia por rotura de varices esofágicas (interrumpe el sangrado en más del 85 % de los casos, aunque con frecuente recidiva al desinflarla). No se usa en úlceras, gastritis ni desgarro de Mallory-Weiss.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1470 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 830 del PDF (Sengstaken-Blakemore para varices esofágicas)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Las opciones D y E del original aparecen al inicio de la página siguiente (D: varices esofágicas sangrantes; E: síndrome de Mallory-Weiss)."
+ },
+ {
+  "k": "818e6547b5",
+  "estado": "nueva",
+  "stem": "Mujer de 35 años, sin antecedentes de enfermedad digestiva previa ni ingesta de alcohol ni AINEs. En el curso de un cuadro agudo de náuseas y vómitos intensos presenta sangre rutilante, el diagnóstico más probable es:",
+  "opts": [
+   "Sindrome de Mallory Weiss",
+   "Gastritis erosiva aguda",
+   "Úlcera péptica sangrante",
+   "Neoplasia gástrica",
+   "Varices esofágicas"
+  ],
+  "ans": 0,
+  "why": "Los desgarros de Mallory-Weiss son desgarros de la mucosa cerca de la unión gastroesofágica tras arcadas y vómitos intensos, y pueden ocurrir en cualquier paciente con vómitos repetidos, no solo en alcohólicos. Representan el 5-10 % de las HDA. Aquí hay vómitos intensos sin alcohol ni AINE previos, lo que descarta gastritis o úlcera por fármacos; las varices exigen hipertensión portal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1180 del PDF",
+   "Sabiston 21.ª ed., p. 289 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Texto reparado con el original: \"ni ingesta de alcohol ni AINEs\" y \"presenta sangre rutilante\"."
+ },
+ {
+  "k": "26e5dd6acf",
+  "estado": "dudosa",
+  "stem": "En adultos, la causa más común de hemorragia digestiva alta:",
+  "opts": [
+   "Úlcera gástrica",
+   "Úlcera duodenal",
+   "Síndrome de Mallory-Weiss",
+   "Gastropatía erosiva hemorrágica",
+   "Varices esofágicas"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que la enfermedad ulcerosa péptica (EUP) es la causa más frecuente de HDA no varicosa y que responde de hasta dos tercios de las HDA, pero la describe como un solo grupo que puede originarse en el estómago o en el duodeno. Ningún texto leído separa cuál de las dos, úlcera gástrica (A) o duodenal (B), es más frecuente, así que la evidencia consultada no decide entre ellas. Mallory-Weiss es el 5-10 %.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1177 del PDF",
+   "Sabiston 21.ª ed., p. 289 del PDF",
+   "Sabiston 21.ª ed., p. 1180 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Dudosa: dos opciones (A y B) son tipos de EUP y los libros no dan la frecuencia relativa de cada una. Texto reparado del original: \"Gastropatía erosiva hemorragia\" (la \"E,\" sobrante es basura de conversión)."
+ },
+ {
+  "k": "cbc532276d",
+  "estado": "nueva",
+  "stem": "Paciente de 50 años que acude a emergencia por presentar hematemesis y melena profusa. Al examen P.A.: 70/40, FC: 135 x minuto, palidez marcada, agitado-sudoroso y oligúrico. El manejo inicial más adecuado es:",
+  "opts": [
+   "Catéter venoso central y cristaloides",
+   "Reposición de sangre y coloides",
+   "Paquete globular por vía periférica",
+   "Dos catéteres venosos periféricos y NaCl 0,9%",
+   "Catéter venoso central y paquete globular"
+  ],
+  "ans": 3,
+  "why": "Ante hematemesis con shock (PA 70/40, FC 135, oliguria), la reanimación inicial es ABCDE con dos catéteres venosos periféricos de gran calibre y cristaloides (1 L de solución isotónica); el catéter central se reserva para la hemorragia masiva y la reposición con hemoderivados se hace si no responde a los cristaloides. Por eso el manejo inicial es D. Las opciones con catéter central o sangre primero, o coloides, no son el primer paso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF",
+   "Sabiston 21.ª ed., p. 418 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 838 del PDF (reanimación IV con cristaloides en inestabilidad hemodinámica)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Texto reparado con el original: \"profusa\" y \"El manejo inicial más adecuado es:\"; \"NaCl 0,9%\" figura como \"CINA 0,9%\" por la conversión."
+ },
+ {
+  "k": "02e40dda0b",
+  "estado": "dudosa",
+  "stem": "Varón de 43 años de edad, con antecedente de úlcera duodenal. Presenta hematemesis y melena. Al examen: FC: 110 por minuto, PA 100/60 mmHg, pálido, ansioso, lúcido, abdomen blando, depresible. Hemoglobina 6 8%, Hematocrito 48%. ¿Cuál es el manejo inicial?",
+  "opts": [
+   "Radiografía contrastada de estómago y duodeno - endoscopia digestiva alta",
+   "RX contrastada de estómago y duodeno - cirugía urgente",
+   "Cirugía urgente - transfundir sangre",
+   "Transfundir sangre - endoscopia digestiva alta",
+   "RX contrastada de estómago y duodeno - transfundir sangre"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: falta un dato clave: la hemoglobina del original es ilegible y la clave depende de ella. (El revisor había propuesto la opción D.) Con hemorragia digestiva activa se reanima y se localiza la fuente en paralelo; la endoscopia digestiva alta es el estudio que se hace cuando se sospecha enfermedad ulcerosa, y permite además tratar. Los estudios contrastados baritados no se usan en la localización de HDA (Sabiston menciona la endoscopia, la angio-TC y la gammagrafía), y la cirugía urgente se reserva para el desangrado o el que falla el tratamiento. Con Hb en el rango de 7 g/dl o menos hay que transfundir (umbral restrictivo de 7 g/dl). Opción D: transfundir y luego endoscopia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1176 del PDF",
+   "Sabiston 21.ª ed., p. 1175 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 838 del PDF (transfusión con Hb <7 g/dl)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: sin clave original. Los valores de laboratorio del original no son legibles o son incoherentes (\"Hemoglobina 6 8%, Hematocrito 48%\", probablemente Hb 6,8): la clave D supone Hb ≈6,8 g/dl, por debajo del umbral de transfusión de 7. Sabiston no trae este caso; se aplica el algoritmo general (reanimar + endoscopia)."
+ },
+ {
+  "k": "9df9a75c7e",
+  "estado": "dudosa",
+  "stem": "Varón de 46 años que acude a emergencia por lipotimia posterior a hematemesis y melena de aproximadamente 860 cc. Examen físico: taquicardia, palidez, hipotensión y sudoración profusa. Hematocrito: 1895. ¿Cuál es la indicación inmediata más adecuada?",
+  "opts": [
+   "Endoscopia alta",
+   "Venoclisis con solución salina a chorro",
+   "Transfusión sanguínea",
+   "Dosaje de tiempo de protrombina",
+   "Radiografía de esófago, estómago y duodeno"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: falta un dato clave: el hematocrito del original es ilegible ('1895') y decide entre reponer volumen o transfundir. (El revisor había propuesto la opción B.) Un paciente con hematemesis y melena, taquicardia, hipotensión, sudoración y lipotimia está en shock hipovolémico: lo inmediato es el acceso intravenoso y la reanimación con cristaloides (ATLS: 1 L de solución isotónica), reservando la reposición con hemoderivados para quien no responde. El hematocrito no es fiable al inicio de una hemorragia aguda, así que no guía la transfusión. La endoscopia, el tiempo de protrombina y la radiografía vienen después de estabilizar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF",
+   "Sabiston 21.ª ed., p. 1175 del PDF",
+   "Sabiston 21.ª ed., p. 418 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Texto del original: \"Hematocrito: 1895\" (dato ilegible/erróneo en el original); no cambia la respuesta porque Sabiston indica que el hematocrito no es marcador fiable de la pérdida aguda. Reparado: \"melena de aproximadamente 860 cc\" y \"Dosaje de tiempo de protrombina\"."
+ },
+ {
+  "k": "ba7cbc963a",
+  "estado": "nueva",
+  "stem": "Varón de 6 años, que luego de ingesta alcohólica presenta hematemesis, melena y d examen: PA 80/50 mmHg, FC: 110 por minuto, sudorosa, pálido y ruidos hidroaéreos au ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Sucralfato",
+   "Suero fisiológico EV",
+   "Antiácidos",
+   "Transfusión de sangre",
+   "Inhibidores de bomba de protones"
+  ],
+  "ans": 1,
+  "why": "Con hematemesis, melena, PA 80/50, FC 110 y sudoración (shock hipovolémico), el tratamiento inicial es reanimar con vía IV y cristaloides (suero fisiológico); la transfusión se reserva a quien no responde o tiene hemorragia masiva. Sucralfato, antiácidos e IBP no tratan el shock.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF",
+   "Sabiston 21.ª ed., p. 418 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. El original solo muestra A-D en la página 24; la opción E (\"Inhibidores de bomba de protones\") está al inicio de la página siguiente y se agregó. El original dice \"Varón de 6 años\" (probablemente 46, error del original); no cambia la respuesta. \"Sucralftato\" = sucralfato."
+ },
+ {
+  "k": "8968b77e35",
+  "estado": "dudosa",
+  "stem": "Mujer de 65 años hace 7 años presento distensión abdominal y melena. Acude a emergencia por hematemesis de 340 ml. Al examen físico: PA: 70/40 mmHg FC: 130 lat/min FR: 28 resp/min. Somnolencia, con palidez marcada. ¿Cuál es la conducta a seguir?",
+  "opts": [
+   "Coloides a chorro, transfusión de paquetes de GR y plasma fresco congelado.",
+   "Dos vías EV, plasma, solución salina a chorro, transfusión de paquetes de GR",
+   "Vía EV periférica, vía central a la brevedad, cristalides y coloides",
+   "Lactato de ringer EV, transfusión de plaquetas y de paquetes de GR",
+   "Dos vías EV periféricas, vía central, transfusión depaquetes de GR ycrioprecipitado"
+  ],
+  "ans": null,
+  "why": "Hay shock hemorrágico (PA 70/40, FC 130, somnolencia) con probable hipertensión portal. Sabiston indica dos catéteres de gran calibre, un catéter central solo ocasionalmente en la hemorragia masiva, y en hemorragia voluminosa plasma y concentrado de hematíes en proporciones preespecificadas (≈1 plasma por 2 GR), con corrección de coagulopatía y fibrinógeno. Eso respalda en parte la B (dos vías, solución salina, plasma, GR) y en parte la E (dos vías, vía central, GR, crioprecipitado), pero ninguna fuente decide entre ellas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF",
+   "Sabiston 21.ª ed., p. 1175 del PDF",
+   "Sabiston 21.ª ed., p. 418 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Dudosa: B y E son defendibles y el libro no resuelve si se requiere vía central ni crioprecipitado en este caso; no hay datos de coagulación ni fibrinógeno en el enunciado."
+ },
+ {
+  "k": "a59e3723e1",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más frecuente de hemorragia digestiva alta?",
+  "opts": [
+   "Desgarro del esófago",
+   "Gastritis",
+   "Úlcera péptica",
+   "Esofagitis",
+   "Malformaciones arteriovenosas"
+  ],
+  "ans": 2,
+  "why": "La enfermedad ulcerosa péptica es la causa más frecuente de HDA (no varicosa) y responde de hasta dos tercios de las HDA. El desgarro de Mallory-Weiss es el 5-10 %, y esofagitis y gastritis son causas menos frecuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 289 del PDF",
+   "Sabiston 21.ª ed., p. 1177 del PDF",
+   "Sabiston 21.ª ed., p. 1180 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original. Texto reparado: \"hemorragia digestiva alta\"."
+ },
+ {
+  "k": "36257e2e54",
+  "estado": "dudosa",
+  "stem": "Paciente varón presenta hematemesis de 300 ml, ictericia y dolor abdominal. Examen físico: matidez en el espacio de Traube. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Várices esofágicas",
+   "Úlcera gástrica",
+   "Lesión aguda de la mucosa gástrica",
+   "Cáncer gástrico",
+   "Síndrome de Mallory-Weiss"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida; ningún libro relaciona directamente la matidez en el espacio de Traube con várices. (El revisor había propuesto la opción A.) Hematemesis con ictericia y dolor abdominal más matidez en el espacio de Traube (que normalmente es hipersonoro por el estómago con aire) orienta a esplenomegalia por hipertensión portal con hepatopatía crónica. La hemorragia por varices esofágicas es la complicación de la hipertensión portal que más pone en riesgo la vida. Úlcera, lesión aguda de mucosa, cáncer gástrico y Mallory-Weiss no explican ictericia ni esplenomegalia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1469 del PDF",
+   "Latarjet, Anatomía humana t. 2, p. 440 del PDF (espacio semilunar de Traube, hipersonoro a la percusión)",
+   "Sabiston 21.ª ed., p. 1183 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: sin clave original. Ningún libro leído dice textualmente \"matidez en el espacio de Traube = esplenomegalia\"; se deduce de que el espacio es normalmente hipersonoro (Latarjet) y de que la hipertensión portal con varices causa la hemorragia (Sabiston). Texto del original: \"Trauble\" = Traube."
+ }
+]

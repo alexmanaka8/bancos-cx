@@ -374,6 +374,7 @@ function renderQ() {
     if (UN_TEMA) h += `<span class="pill">${esc(q.bn)}</span>`;
     else if (grupo(q)) h += `<span class="pill">${esc(grupo(q))}</span>`;
   }
+  if (q.mal) h += '<span class="pill warn">⚠ Posible pregunta mal hecha</span>';
   if (P.flag[q.id]) h += '<span class="pill warn">⚑ marcada</span>';
   h += `</div><p class="stem">${esc(q.stem)}</p><ol class="opts">`;
   const corregir = respondida && !sim && !editando && tieneClave(q);
@@ -400,6 +401,7 @@ function renderQ() {
       if (verificada(q)) h += fuentes(q);
       else h += `<p class="muted" style="font-size:14px">Clave elegida por ti.</p>`;
     }
+    if (q.mal) h += `<p class="muted" style="font-size:14px">⚠ <b>Posible pregunta mal hecha:</b> ${esc(q.mal)}</p>`;
     h += '</div>';
     if (q.rep) h += `<p class="muted" style="font-size:14px;margin-top:10px">⭐ <b>Alto valor:</b> esta pregunta (o una muy parecida) aparece ${q.rep.n} veces ${q.rep.en.length > 1 ? 'en ' + q.rep.en.length + ' bancos' : 'en el mismo banco'} (${q.rep.en.map(esc).join(', ')}). Es probable que vuelva a salir.</p>`;
   }
@@ -533,7 +535,7 @@ function revision(ids, ans, titulo) {
     const q = byId[id], k = clave(q), a = ans[id];
     const est = a === undefined ? 'blanco' : a === k ? 'bien' : 'mal';
     h += `<details class="r-${est}"><summary><span class="dot"></span><span>${esc(q.stem.slice(0, 110))}${q.stem.length > 110 ? '…' : ''}</span></summary><div class="body">
-      <p>${esc(q.stem)}</p>` +
+      ${q.mal ? `<p class="muted">⚠ <b>Posible pregunta mal hecha:</b> ${esc(q.mal)}</p>` : ''}<p>${esc(q.stem)}</p>` +
       (a === undefined ? '<p class="muted">No la respondiste.</p>' : a !== k ? `<p>Tu respuesta: <b>${L[a]}.</b> ${esc(q.opts[a])}</p>` : '') +
       `<p style="color:var(--ok)">Correcta: <b>${L[k]}.</b> ${esc(q.opts[k])}</p>${q.why ? `<p><span class="lbl">Por qué:</span> ${esc(q.why)}</p>` : ''}${fuentes(q)}</div></details>`;
   });

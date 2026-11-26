@@ -1,0 +1,272 @@
+[
+ {
+  "k": "6af80020c9",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 36 años con colitis ulcerosa acude a consulta de seguimiento. Ha sido tratada con enemas de corticoides y sulfasalazina. El examen físico de corazón, pulmones y abdomen es normal. En miembros inferiores presenta pápulas rojas y dolorosas. ¿Cuál es la causa más probable de esta manifestación?",
+  "opts": [
+   "Coagulopatía",
+   "Acropaquias",
+   "Eritema nudoso",
+   "Escleritis",
+   "Uveítis"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 138,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "a3fad39814",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 28 años con colitis ulcerosa tratada con enemas de corticoides y sulfasalazina se queja de diarrea en aumento. La VSG es normal. ¿Cuál es el propósito del uso de antidiarreicos en este caso?",
+  "opts": [
+   "Inducir la remisión de la colitis ulcerosa",
+   "Prevenir el desarrollo de cáncer en colon sigmoide",
+   "Prevenir el desarrollo de cáncer rectal",
+   "Prevenir la recurrencia de la enfermedad",
+   "Reducir los episodios de diarrea"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "cd9f06b504",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 37 años, hirsuto, acude por dolor anal de 2 semanas. El examen físico del área sacrococcígea revela un folículo piloso inflamado y doloroso. Si existe un trayecto sinusal asociado, ¿en qué dirección se espera que se extienda?",
+  "opts": [
+   "Caudal",
+   "Cefálica",
+   "Lateral",
+   "Medial",
+   "Ventral"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ae22eb7ee0",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 86 años con Alzheimer severo en un asilo presenta dolor abdominal cólico agudo, náuseas y vómitos. En urgencias tiene dolor en el cuadrante inferior izquierdo. Las radiografías muestran un sigmoide dilatado. El enema de bario evidencia estrechamiento en un punto de torsión. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Descompresión por sigmoidoscopía",
+   "Ampicilina y gentamicina IV",
+   "Metilprednisolona IV",
+   "Resección laparoscópica del sigmoides",
+   "Nutrición parenteral periférica"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "a90e093cb1",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 52 años con celulitis recurrente en el pie derecho ha estado tomando cefalosporina oral hasta 6 veces al día durante el último mes por su cuenta. Acude a urgencias con diarrea acuosa sin sangre ni moco y dolor abdominal cólico. No hay neumoperitoneo en la radiografía. Se solicitan estudios para toxina de Clostridium difficile. ¿Cuál es el siguiente paso más adecuado?",
+  "opts": [
+   "Cambiar antibiótico a ampicilina",
+   "Cambiar antibiótico a clindamicina",
+   "Enema con corticosteroides",
+   "Corticoides orales",
+   "Suspender la cefalosporina"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "1ef45405b0",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 65 años se presenta con una hemorragia masiva del tracto gastrointestinal inferior. Su presión arterial inicial en emergencias es de 80/60 mm Hg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con volumen, la presión arterial aumenta a 120/80 mm Hg. El aspirado nasogástrico es negativo para sangre. El siguiente paso en el manejo es:",
+  "opts": [
+   "Colonoscopía",
+   "Arteriografía mesentérica",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Proctoscopía",
+   "Laparotomía exploradora"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 139,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "1607badd51",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 75 años se presenta con dolor abdominal difuso leve y diarrea guayaco-positiva. Sus antecedentes médicos son negativos. El recuento de leucocitos y el hematocrito son normales. Una TC muestra engrosamiento leve de la pared del colon en el ángulo esplénico con estriación de la grasa pericólica asociada. El manejo consiste en:",
+  "opts": [
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Antibióticos IV e hidratación",
+   "Colonoscopía",
+   "Angiografía mesentérica"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 140,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "9cfa5dfe8b",
+  "sec": "Intestino delgado",
+  "stem": "Un paciente de 35 años con antecedentes de colitis ulcerosa se somete a anastomosis ileoanal con reconstrucción en bolsa en J. Cuatro meses después, presenta dolor abdominal de 3 días, diarrea, hematoquecia y fiebre. Todo lo siguiente es verdadero sobre esta condición, EXCEPTO:",
+  "opts": [
+   "Debe realizarse una endoscopía con biopsia.",
+   "Podría tratarse de una enfermedad de Crohn no diagnosticada.",
+   "El uso de probióticos es útil.",
+   "La excisión urgente de la bolsa en J suele ser necesaria.",
+   "Metronidazol y ciprofloxacina son útiles para el tratamiento."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 140,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "1face4fc3c",
+  "sec": "Intestino delgado",
+  "stem": "Todas las siguientes son características más consistentes con colitis de Crohn que con colitis ulcerosa, EXCEPTO:",
+  "opts": [
+   "Envoltura grasa serosa",
+   "Enfermedad segmentaria",
+   "Enfermedad perianal",
+   "Abscesos crípticos",
+   "Granulomas"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 140,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "88e9eb1a95",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 69 años presenta distensión abdominal, fiebre de hasta 39.4 °C (103 °F), dolor abdominal difuso leve a moderado y diarrea de 2 días de evolución. Se encuentra en tratamiento con trimetoprima/sulfametoxazol oral por pielonefritis. La radiografía simple muestra dilatación colónica de hasta 7 cm sin evidencia de obstrucción. Todo lo siguiente es verdadero sobre esta condición, EXCEPTO:",
+  "opts": [
+   "El tratamiento de elección es metronidazol oral",
+   "La bacteria produce dos exotoxinas",
+   "Se debe suspender el Bactrim y administrar cefalosporina IV para tratar la pielonefritis",
+   "La sigmoidoscopía es útil para establecer el diagnóstico",
+   "Esta condición puede desarrollarse tras una sola dosis previa de antibiótico"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 141,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "f8eb99f120",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 38 años presenta náuseas, vómitos, distensión abdominal y obstipación de un día de evolución. No tiene antecedentes médicos ni quirúrgicos. El examen físico revela masa timpánica en cuadrante superior izquierdo, distensión leve y dolor leve. Recuento leucocitario normal. Radiografía abdominal: asa intestinal dilatada en forma de riñón, con haustras visibles, proyectada del cuadrante inferior derecho al superior izquierdo. ¿Cuál afirmación es verdadera?",
+  "opts": [
+   "La cecostomía es el tratamiento quirúrgico de elección",
+   "Se indica detorsión quirúrgica con cecopexia",
+   "Requiere hemicolectomía derecha con",
+   "Está indicada la detorsión endoscópica",
+   "Lo más probable es que requiera"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 141,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "bd9f08dd2c",
+  "sec": "Intestino delgado",
+  "stem": "Todas las siguientes afirmaciones sobre la enfermedad diverticular del colon son verdaderas, EXCEPTO:",
+  "opts": [
+   "Ocurre con mayor frecuencia en el colon",
+   "El recto está respetado",
+   "Son divertículos por pulsión",
+   "Son divertículos verdaderos",
+   "Se asocian a una dieta baja en fibra"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 141,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "479d85cecd",
+  "sec": "Intestino delgado",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la colitis ulcerosa (CU) y el cáncer de colon?",
+  "opts": [
+   "El riesgo de cáncer de colon no se relaciona con la extensión de la inflamación.",
+   "La malignidad típicamente se desarrolla en un pólipo.",
+   "Los niveles de antígeno carcinoembrionario (CEA) son útiles para determinar cuándo hacer una colonoscopía.",
+   "El riesgo de cáncer de colon está relacionado con la duración de la enfermedad.",
+   "Las biopsias aleatorias no son efectivas."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 141,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "350779175a",
+  "sec": "Intestino delgado",
+  "stem": "Un hombre de 65 años presenta dolor en el cuadrante inferior izquierdo, náuseas y fiebre baja desde hace 2 días. Al examen, temperatura de 38.1 °C y leucocitosis de 14,000/μL. Tiene dolor localizado sin rebote. ¿Cuál es el siguiente paso más indicado?",
+  "opts": [
+   "Descompresión con sonda nasogástrica",
+   "Antibióticos intravenosos",
+   "Sigmoidoscopía flexible",
+   "Enema con bario",
+   "Enema con Gastrografin"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 141,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "58bb30f323",
+  "sec": "Intestino delgado",
+  "stem": "Una mujer de 40 años con pancolitis por enfermedad de Crohn de 10 años de evolución se somete a colonoscopía. La biopsia del colon sigmoide revela displasia severa. El tratamiento debe ser:",
+  "opts": [
+   "Proctocolectomía restauradora con",
+   "Proctocolectomía total con ileostomía",
+   "Colectomía sigmoidea",
+   "Repetir colonoscopía con biopsias en 3 meses",
+   "Curso de esteroides orales"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 142,
+  "motivo": "semana 5",
+  "tema": "colon"
+ }
+]

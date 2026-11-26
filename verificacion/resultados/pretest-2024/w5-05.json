@@ -1,0 +1,286 @@
+[
+ {
+  "k": "ae007e4c22",
+  "estado": "dudosa",
+  "stem": "¿Cuál es el diagnóstico diferencial más común en mujeres jóvenes con dolor en la fosa iliaca derecha?",
+  "opts": [
+   "Diverticulitis",
+   "Quiste ovárico roto",
+   "Cálculos renales",
+   "Colecistitis",
+   "Salpingitis aguda"
+  ],
+  "ans": null,
+  "why": "Sabiston (p. 1326) enumera, en mujeres en edad de procrear, quistes ováricos rotos, mittelschmerz, endometriosis, torsión ovárica, embarazo ectópico y enfermedad inflamatoria pélvica, y Giménez (p. 690) lista rotura de quiste ovárico y salpingitis aguda. Ninguno dice cuál es 'la más común', así que la fuente no decide entre quiste roto y salpingitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Giménez 2.ª ed., p. 690 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Sin clave original. Dos opciones (B y E) están en las listas de los libros, sin jerarquía de frecuencia."
+ },
+ {
+  "k": "041317b5cf",
+  "estado": "dudosa",
+  "stem": "La mayoría de pacientes con diverticulosis son asintomáticos, pero en aquellos que lo presentan, la manifestación más frecuente es:",
+  "opts": [
+   "Flatulencia",
+   "Constipación",
+   "Sangrado rectal",
+   "Dolor",
+   "Diarrea"
+  ],
+  "ans": null,
+  "why": "Giménez (síntesis, p. 686) dice que la diverticulosis suele ser asintomática y que a veces da síntomas inespecíficos (distensión abdominal, meteorismo, alteración del hábito evacuatorio). Sabiston (p. 1361) no jerarquiza los síntomas. El sangrado ocurre en 5-15 % (Giménez p. 682) y no es el síntoma más frecuente, pero ninguna fuente leída dice cuál es 'el más frecuente' entre dolor, flatulencia, constipación y diarrea.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 686 del PDF",
+   "Giménez 2.ª ed., p. 682 del PDF",
+   "Sabiston 21.ª ed., p. 1361 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave original. Opción D (dolor) probable pero no respaldada por fuente."
+ },
+ {
+  "k": "eb1d5c6062",
+  "estado": "nueva",
+  "stem": "Paciente con dolor en fosa iliaca izquierda y masa palpable, con diagnóstico probable de diverticulitis aguda, ¿qué examen está contraindicado?",
+  "opts": [
+   "Radiografía de colon con enema",
+   "Tomografía computarizada",
+   "Ecografía",
+   "Radiografía abdomen simple",
+   "Resonancia magnética"
+  ],
+  "ans": 0,
+  "why": "Giménez dice que la realización de un colon por enema con contraste hidrosoluble o una videocolonoscopia en la urgencia está desaconsejada porque podría agravar el cuadro inflamatorio e incluso desencadenar una perforación. Sabiston también pide precaución con la endoscopia en la fase aguda. La TC es el estudio de elección y la ecografía y la radiografía simple son útiles (la simple para neumoperitoneo/obstrucción); la RM también se ha usado.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 682 del PDF",
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Giménez habla de contraste hidrosoluble y colonoscopia; la opción A es 'radiografía de colon con enema'. Se ve en la imagen de la página."
+ },
+ {
+  "k": "d2779f0e71",
+  "estado": "dudosa",
+  "stem": "Mujer de 50 años acude de emergencia por dolor en el cuadrante inferior izquierdo, febril. tumoración en el mismo lado desde hace 48 horas. Tuvo episodios de estrenimiento y diarrea. Examen: T: 39°C, PA: 130/80 mmHg, FC: 100 x min, FR: 24 x min. Abdomen: blando, presencia de masa dolorosa en cuadrante inferior izquierdo y región suprapúbica Hemograma: leucocitos 18,000 abastonados: 8%. TAC de abdomen: tumoración en fosa iliaca izquierda y presencia de aire alrededor. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Quiste de ovario a pedículo torcido",
+   "Diverticulitis",
+   "Absceso tubo-ovárico",
+   "Neoplasia de colon izquierdo",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el libro no menciona el dato del enunciado (aire alrededor); la clave se deduce del cuadro. (El revisor había propuesto la opción B.) El cuadro (dolor en fosa ilíaca izquierda, fiebre, cambio del hábito intestinal, leucocitosis y masa dolorosa por flemón) es el de la diverticulitis aguda según Sabiston, y la TC la confirma al mostrar engrosamiento de pared, hebras de grasa y abscesos. Quiste torcido, absceso tubo-ovárico, neoplasia o EII no encajan tan bien con este conjunto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro describe el cuadro clínico y la TC de diverticulitis, pero no menciona el 'aire alrededor' ni compara con las otras opciones."
+ },
+ {
+  "k": "ef3255549d",
+  "estado": "dudosa",
+  "stem": "Varón de 60 años con dolor abdominal cólico y desde hace cuatro dias se localiza en fosa iliaca y flanco izquierdo, estreñimiento, con fiebre y malestar general. Al examen fisico: abdomen poco distendido, dolor a la palpación superficial, ruidos hidroaéreos alejados y se esbozan signos peritoneales. ¿Cuál es el tratamiento quirúrgico de elección?",
+  "opts": [
+   "Sigmoidectomía y anastomosis",
+   "Colostomía en asa",
+   "Colostomía Hartmann",
+   "Colectomía total",
+   "Hemicolectomia izquierda"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: falta un dato clave: el caso no da el estadio de Hinchey, y el libro indica Hartmann solo en Hinchey 3 y 4. (El revisor había propuesto la opción C.) Sabiston: los Hinchey 3 y 4 (peritonitis) son urgencia quirúrgica y la base del tratamiento ha sido tradicionalmente la técnica de Hartmann (resección del colon afectado con colostomía terminal). La resección con anastomosis primaria e ileostomía de derivación es una alternativa solo en pacientes estables. La anastomosis sin derivación, la colostomía en asa o la colectomía total no se citan como tratamiento.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el caso solo 'esboza' signos peritoneales y no dice Hinchey; se asume peritonitis. Sabiston respalda Hartmann como técnica tradicional, no como única opción."
+ },
+ {
+  "k": "65919ba65a",
+  "estado": "dudosa",
+  "stem": "Varón de 10 años de edad, que inició su enfermedad hace 12 horas aproximadamente, caracterizada por dolor abdominal intenso y progresivo, náuseas y anorexia. Al examen clínico: T° 38°C, funciones vitales dentro de límites normales.Abdomen ligeramente distendido con disminución de RHA, hay mayor resistencia en hemiabdomen derecho, dolor localizado en FID. El diagnóstico probable es:",
+  "opts": [
+   "Apendicitis aguda",
+   "Diverticulitis",
+   "Obstrucción intestinal",
+   "Pancreatitis aguda",
+   "Gastroenterocolitis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida del cuadro típico; el libro no trata esta viñeta. (El revisor había propuesto la opción A.) Sabiston: la apendicitis produce dolor visceral difuso inicial que luego se localiza en el cuadrante inferior derecho cuando se irrita el peritoneo parietal; en niños mayores de 5 años es una de las causas principales de dolor abdominal. Aquí hay dolor localizado en FID con resistencia derecha, fiebre, náuseas y anorexia en un niño de 10 años. Diverticulitis es de adultos; obstrucción, pancreatitis y gastroenterocolitis no explican el dolor localizado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1169 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: diagnóstico clínico por cuadro típico; el libro describe el patrón de dolor pero no esta viñeta."
+ },
+ {
+  "k": "86ffac0726",
+  "estado": "dudosa",
+  "stem": "La apendicitis aguda se inicia por:",
+  "opts": [
+   "Enfermedad celíaca",
+   "Hipotrofia de las placas de Peyer.",
+   "Hipertrofia de las amigdalas de Roux",
+   "Malabsorción intestinal",
+   "Fagocitosis bacteriana del ciego"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el libro dice hiperplasia linfoide pero no 'amígdalas de Roux', y da el fecalito (que no está entre las opciones) como causa más habitual. (El revisor había propuesto la opción C.) Sabiston: la apendicitis se produce por obstrucción luminal, y entre las causas cita la hiperplasia linfoide. Giménez: la causa parietal más común es la hiperplasia folicular linfoidea. De las opciones, solo C alude a hipertrofia de tejido linfoide. La enfermedad celíaca, la malabsorción y la 'fagocitosis bacteriana' no se citan como inicio; 'hipotrofia' de Peyer es lo contrario.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Giménez 2.ª ed., p. 688 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: los libros dicen hiperplasia linfoide folicular, no 'amígdalas de Roux'. Además, Sabiston considera que la causa más habitual es el fecalito/estasis fecal, que no está entre las opciones."
+ },
+ {
+  "k": "2ff6195241",
+  "estado": "dudosa",
+  "stem": "Escolar con antecedente de resfriado común, con dolor en hemiabdomen inferior a predominio de FID y 48 horas de evolución, presenta fiebre de 39.8°, malestar general. Al examen físico: garganta congestiva, Mac Burney positivo, signo de rebote positivo. Exámenes de laboratorio: leucocitosis con linfocitosis relativa, sin desviación izquierda. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis aguda",
+   "Litiasis renal",
+   "Divertículo de Meckel",
+   "Infección urinaria",
+   "Adenitis mesentérica"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: ninguna fuente menciona la linfocitosis, y con rebote y McBurney positivos la apendicitis sigue siendo posible. (El revisor había propuesto la opción E.) Sabiston: en niños la adenitis mesentérica es frecuente tras una enfermedad vírica reciente y simula apendicitis. de Virgilio: suele haber infección respiratoria superior reciente, el dolor es difuso y la defensa involuntaria es rara. Aquí hay resfriado, garganta congestiva y linfocitosis relativa sin desviación izquierda, lo que orienta a adenitis. Litiasis renal, ITU y Meckel no explican la faringitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE, p. 432 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "INDIRECTA: los libros no mencionan la linfocitosis relativa. El rebote positivo y McBurney positivo hacen que la apendicitis sea posible; la clave se apoya en el cuadro de resfriado y la fórmula leucocitaria."
+ },
+ {
+  "k": "9aed64253a",
+  "estado": "dudosa",
+  "stem": "El dolor periumbilical o epigástrico al inicio de una apendicitis aguda se debe a:",
+  "opts": [
+   "Estímulo del sistema parasimpático",
+   "Irritación del peritoneo parietal",
+   "Estímulo del sistema simpático",
+   "Distensión abdominal",
+   "lleó secundario"
+  ],
+  "ans": null,
+  "why": "Sabiston (p. 1326): 'la distensión del apéndice es responsable del dolor abdominal difuso (visceral) inicial', y el dolor se localiza luego al irritar el peritoneo parietal, por lo que B es incorrecta. Pero la opción D dice 'distensión abdominal' (no del apéndice) y la C 'estímulo del sistema simpático'; ningún libro leído atribuye el dolor visceral al simpático, y la opción D no coincide exactamente con el texto. No hay fuente que decida entre C y D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1159 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Sin clave original. La opción D es la más cercana al texto de Sabiston."
+ },
+ {
+  "k": "488eba90e5",
+  "estado": "nueva",
+  "stem": "Señale Cuál de las siguientes premisas es verdadero:",
+  "opts": [
+   "el conducto anal, mide aproximadamente 6 cm de longitud",
+   "el anatomista considera que se extiende desde el borde anal hasta la parte superior del anillo a no rectal",
+   "el cirujano/ médico considera que el ano se encuentra a 2 cm del borde a la línea dentada",
+   "normalmente, la porción proximal de conducto anal está revestido por epitelio cilíndrico y la porción distal de la no por epitelio pavimentoso"
+  ],
+  "ans": 3,
+  "why": "Sabiston: el conducto anal quirúrgico mide unos 4 cm (no 6) y va del borde anal al borde superior del anillo anorrectal; el anatomista lo ubica a 2 cm del borde anal a la línea dentada. Las opciones B y C cambian esas definiciones entre cirujano y anatomista. La D copia el texto: la porción proximal tiene epitelio cilíndrico y la distal pavimentoso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "0cde242505",
+  "estado": "confirmada",
+  "stem": "La unión entre el ectodermo y el endodermo, situada en el punto medio del conducto anal, aparece como una demarcación conocida como:",
+  "opts": [
+   "línea dentada",
+   "columna de morgagni",
+   "Borde anal",
+   "línea anorrectal"
+  ],
+  "ans": 0,
+  "why": "Sabiston: la unión entre ectodermo y endodermo, en el punto medio del conducto anal, es una demarcación ondulada llamada línea dentada. Las columnas de Morgagni son los pliegues longitudinales por encima de ella; el borde anal es el orificio distal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original A (resaltado), respaldada."
+ },
+ {
+  "k": "7c2f648d69",
+  "estado": "corregida",
+  "stem": "en relación a las glándulas que están en el conducto anal, Cuál es la alternativa correcta?",
+  "opts": [
+   "el número de glándulas es de 6 a 12",
+   "se concentran principalmente en la cara posterior del ano",
+   "El conducto de la glándula anal atraviesa el plano submucoso y sus ramas terminan dentro del esfínter interno del ano o se extiende hasta el plano interfinteriano",
+   "Todas"
+  ],
+  "ans": 3,
+  "why": "Sabiston: el número de glándulas anales es de 6 a 12, se concentran principalmente en la cara posterior del ano, y su conducto atraviesa el plano submucoso con ramas que terminan en el esfínter interno o llegan al plano interesfinteriano. Las tres afirmaciones (A, B y C) son verdaderas, por lo que 'Todas' es la correcta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado). Como A y B también son verdaderas según Sabiston, la correcta es D."
+ },
+ {
+  "k": "b2939e7777",
+  "estado": "nueva",
+  "stem": "En el área de la porción distal del conducto anal la submucosa está formada por una capa discontinua de tejido engrosado que crea “almohadillas” hemorroidales; por lo general estas almohadillas reciben su irrigación de seis arterias hemorroidales distribuidas a lo largo del perímetro de la porción distal del recto y el ano. Normalmente se encuentran en las siguientes posiciones, excepto:",
+  "opts": [
+   "Lateral izquierda",
+   "Anterior derecha",
+   "Medial izquierda",
+   "posterior derecha"
+  ],
+  "ans": 2,
+  "why": "Sabiston: las almohadillas hemorroidales se encuentran normalmente en las posiciones lateral izquierda, anterior derecha y posterior derecha. 'Medial izquierda' no está entre ellas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "376f826f6a",
+  "estado": "nueva",
+  "stem": "El drenaje venoso y linfático por encima de la línea dentada son drenados a través de:",
+  "opts": [
+   "Vasos hemorroidales medios",
+   "vasos ilíacos internos",
+   "sistema hemorroidal inferior",
+   "b + c"
+  ],
+  "ans": 1,
+  "why": "Sabiston: el drenaje venoso y linfático por encima de la línea dentada fluye hacia los vasos ilíacos internos; por debajo, lo proporciona el sistema hemorroidal inferior. Por tanto solo B es correcta; C corresponde a por debajo de la línea, y 'b + c' y los vasos hemorroidales medios no cumplen.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "7bf327ae04",
+  "estado": "confirmada",
+  "stem": "Las hemorroides internas que se presentan sin prolapso y hemorragia hemorroidal, corresponde a Hemorroides:",
+  "opts": [
+   "Grado I",
+   "Grado II",
+   "Grado III",
+   "Grado IV"
+  ],
+  "ans": 0,
+  "why": "Sabiston, tabla 53.1: grado 1 = sin prolapso, con hemorragia hemorroidal; grado 2 = protrusión que se reduce sola; grado 3 = requiere reducción manual; grado 4 = no reducible.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1428 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original A (resaltado), respaldada."
+ }
+]

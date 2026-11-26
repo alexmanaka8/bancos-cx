@@ -1,0 +1,263 @@
+[
+ {
+  "k": "a2ad1af99d",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Enfermedad por reflujo gastroesofágico. Son indicaciones quirúrgicas, absolutas, todas las siguientes, excepto:",
+  "opts": [
+   "El tratamiento médico no controla las regurgitaciones.",
+   "El tratamiento médico no controla la pirosis.",
+   "Infecciones respiratorias de repetición en lactantes.",
+   "Anemia crónica en hernias mixtas voluminosas.",
+   "El paciente tiene un esófago de Barrett y, correctamente informado, decide operarse."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 18,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "5370a29fbf",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Esófago de Barrett. Todo es cierto, excepto:",
+  "opts": [
+   "Su diagnóstico actual es solo endoscópico.",
+   "Predispone al adenocarcinoma esofágico.",
+   "El reflujo biliopancreático al esófago es muy importante en su etiopatogenia.",
+   "Debe controlarse periódicamente sea cual fuere el tratamiento.",
+   "No desaparece completamente sea cual fuere el tratamiento."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 18,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "8bd0f28b40",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál es la exploración más adecuada para el diagnóstico de una hernia de hiato paraesofágica?",
+  "opts": [
+   "Tránsito baritado.",
+   "pHmetría esofágica de 24 h.",
+   "Hemograma.",
+   "Endoscopia.",
+   "Manometría esofágica."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 18,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "24a7d16976",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Datos clínicos del reflujo gastroesofágico. Todo es cierto, excepto:",
+  "opts": [
+   "La disfagia lógica y continua o progresiva debe hacer pensar en una estenosis péptica.",
+   "La disfagia paradójica y caprichosa debe hacer pensar en un trastorno motor del cuerpo esofágico.",
+   "El dato clínico fundamental es la pirosis.",
+   "La hemorragia digestiva se debe generalmente a la presencia de un esófago de Barrett.",
+   "Las regurgitaciones pueden provocar crisis de tos e infecciones broncopulmonares."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 18,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "45dbaab827",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Paciente de 46 años con antecedentes de pirosis y regurgitaciones ácidas de 20 años de evolución, que refiere disfagia lógica y progresiva de 14 meses de evolución y localización distal. La exploración complementaria diagnóstica es:",
+  "opts": [
+   "Manometría intraluminal esofágica.",
+   "pHmetría esofágica de 24 h.",
+   "Endoscopia.",
+   "Tomografía axial computarizada.",
+   "Tránsito baritado."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 18,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c1369bf0cb",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál de las siguientes opciones es más fiable para confimar la sospecha de una lesión cáustica esofágica importante?",
+  "opts": [
+   "Historia del suceso.",
+   "Exploración física del paciente.",
+   "Esofagrafia con bario.",
+   "Endoscopia."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "d1f0dfdcea",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál es la causa más frecuente de una perforación esofágica?",
+  "opts": [
+   "Ingestión de huesos de animales",
+   "Ingestión de cáusticos",
+   "Iatrogénica",
+   "Vómitos intensos"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "4bafc76099",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Un paciente de 35 años ingiere accidentalmente una sustancia cáustica. Presenta disfagia intensa y dolor torácico. En la evaluación inicial, ¿ Cuál de las siguientes medidas es la más apropiada?",
+  "opts": [
+   "Administrar inmediatamente corticosteroides por vía intravenosa.",
+   "Realizar una endoscopia digestiva alta de emergencia",
+   "Iniciar la alimentación por sonda nasogástrica para evitar la ingestión adicional de sustancias irritantes.",
+   "No realizar ninguna intervención hasta que se presente una complicación evidente."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "ee8d0c6beb",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál es la recomendación respecto a la evaluación endoscópica en pacientes adultos con lesiones por ingestión cáustica que se presentan asintomáticos después del evento?",
+  "opts": [
+   "No se necesita realizar una esófagogastroduodenoscopia (EGD) de rutina.",
+   "Se debe realizar una OGD dentro de las primeras 24 horas. Independientemente de los síntomas.",
+   "Se debe buscar una opinión quirúrgica de manera urgente.",
+   "Se debe observar a los pacientes en un periodo de observación sin intervención endoscópica."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "624cae3b9e",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Una mujer de 60 años ingiere inadvertidamente un producto de limpieza que contiene lejía. Se presenta a la sala de emergencias con quemaduras en la boca y el esófago. ¿Cuál de las siguientes opciones es el tratamiento inicial recomendado?",
+  "opts": [
+   "Administrar carbón activado para adsorber el producto cáustico en el estómago.",
+   "Realizar una endoscopia digestiva alta para evaluar el grado de lesión.",
+   "Administrar líquidos alcalinos para neutralizar el ácido en el esófago.",
+   "No administrar nada por vía oral y mantener al paciente en ayunas …(falta texto). evaluación del gastroenterólogo."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "af0562207c",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Un adolescente ingiere accidentalmente un líquido corrosivo y presenta dolor intenso en el pecho y dificultad para tragar punto en la evaluación inicial. ¿Cuál de las siguientes intervenciones es más apropiada?",
+  "opts": [
+   "Administrar analgésicos orales para aliviar el dolor",
+   "Realizar una radiografía de tórax para evaluar la presencia de perforación esofágica",
+   "No administrar nada por vía oral y evitar la inducción del vómito",
+   "Administrar un análogo un antiácido para neutralizar el ácido en el estómago"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "10eefd319e",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "Un niño de 4 años acude a urgencias tras una ingestión accidental de lejía. El niño presenta estridor y ronquera. El niño es intubado de urgencia y reanimado con líquidos intravenosos. La radiografía de tórax no muestra signos de perforación. El paciente ingresa en la unidad de cuidados intensivos. El siguiente paso en el tratamiento es:",
+  "opts": [
+   "Esofagoscopio",
+   "Esofagografía",
+   "Tomografía computarizada de tórax",
+   "Observación estrecha",
+   "Laparotomía exploratoria inmediata"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 19,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "25a2497525",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál es la indicación principal para la cirugía correctiva de las estenosis esofágic cáusticas?",
+  "opts": [
+   "Cuando el tratamiento endoscópico es exitoso",
+   "En Casos leves de estenosis esofágica",
+   "En Casos graves cuando el tratamiento endoscópico fracasa o se considera",
+   "Como primera opción de tratamiento para todas las estenosis esofágicas"
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 20,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "9b6412fc57",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál es una diferencia clave entre el pull-up gástrico y la interposición colónic reconstructiva de estenosis esofágicas por lesiones cáusticas?",
+  "opts": [
+   "El pull-up gástrico requiere menos anastomosis que la interposición colónica",
+   "La interposición colónica es un procedimiento más rápido que el pull-up gás",
+   "La interposición colónica está asociada a una mayor incidencia de formaci que el pull-up gástrico.",
+   "El pull-up gástrico es más complejo y requiere tres anastomosis."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 20,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "a410e8235a",
+  "sec": "Semana 4 · Tema 10",
+  "stem": "¿Cuál es una desventaja principal de los stents autoexpandibles de metal tratamiento de estenosis esofágicas benignas refractarias asociadas a las lesiones",
+  "opts": [
+   "Tienen una tasa alta de migración del tejido.",
+   "Son propensos a la formación de nuevas estenosis.",
+   "Requieren intervenciones endoscópicas repetidas para su extracción.",
+   "Tienen una tasa alta de necrosis y ulceración, así como tendencia a incrusta esofágica."
+  ],
+  "clave_original": null,
+  "origen_clave": null,
+  "archivo": "CX. GENERALES_PRETEST 2024.2.pdf",
+  "pagina": 20,
+  "motivo": "sin clave original",
+  "tema": "esofago-estomago"
+ }
+]

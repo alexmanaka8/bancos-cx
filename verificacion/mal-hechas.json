@@ -1,0 +1,32 @@
+{
+ "_leeme": "Preguntas que la app muestra con el aviso 'Posible pregunta mal hecha'. Formato: banco -> k -> motivo (se muestra después de responder). Las dudosas y anuladas no salen en la app, así que aquí solo van preguntas con clave.",
+ "examenes-2026": {
+  "9f1ae8e143": "La opción correcta está mal redactada: pone el cálculo en la vesícula (está en el intestino) y le agrega datos que no son de la tríada de Rigler.",
+  "0846c9c304": "La respuesta clásica (pancreatitis aguda hemorrágica) no está entre las opciones; se elige la que más se acerca."
+ },
+ "lozano": {
+  "ea6a37643f": "El banco cambió una opción respecto al libro (ABSITE) y, según Sabiston, la opción A del banco también es verdadera.",
+  "d3045b78a3": "El banco cambió la opción A respecto al libro ('ACV' por 'muerte'); las dos versiones se respaldan con el estudio POISE.",
+  "31fee44f2b": "El enunciado dice '120 mEq/L' sin decir que es el sodio; hay que suponerlo.",
+  "ebe2205455": "Los libros usan factores de corrección distintos (Sabiston 1,6 y ABSITE 2 por cada 100 mg/dL); la clave solo sale con el de Sabiston.",
+  "dfab60a1e1": "La opción C está mal redactada ('depresión de la onda U'); Sabiston habla de aparición de ondas U.",
+  "98e21047bb": "El enunciado no da datos para distinguir hernia directa de indirecta; se elige la más frecuente.",
+  "91bda1e02a": "El enunciado no dice si el paciente es niño o adulto, y eso cambia la respuesta (en niños es la escaldadura).",
+  "5505aae27f": "El banco cambió la opción B respecto al libro ('raza negra' en vez de 'mujeres'); no cambia la clave.",
+  "c94771a7ec": "El enunciado no dice que haya várices; hay que suponer un sangrado variceal.",
+  "b3d5448652": "El enunciado no da el estadio del linfoma, que es lo que decide el tratamiento.",
+  "96643df141": "El banco quitó un dato del enunciado del libro (la paciente es diabética).",
+  "cb3e5e32f8": "La opción C está mal traducida: 'hernia de pequeño tamaño (petit)' quiere decir hernia de Petit.",
+  "c3089ebaba": "La opción D está mal traducida: 'cirugía de extracción' quiere decir descenso (pull-through)."
+ },
+ "pretest-2024": {
+  "f861052452": "La opción C está mal escrita en el original (repite 'calcio').",
+  "c1369bf0cb": "La mejor prueba según la guía WSES (TC con contraste) no está entre las opciones."
+ },
+ "recopilacion-2021": {
+  "75d985761d": "El resultado depende de la fórmula de agua corporal (50% o 60% del peso) y la unidad de las opciones está mal (debe ser mEq, no mEq/L).",
+  "29ae240612": "La mejor opción según el ABSITE (concentrado de complejo protrombínico) no está entre las opciones.",
+  "e3292ad68b": "El examen quitó un dato del caso del libro (aire en la pared de la vesícula).",
+  "073dfb6360": "El resultado depende de la fórmula que se use; con la de Sabiston la cifra no está entre las opciones."
+ }
+}

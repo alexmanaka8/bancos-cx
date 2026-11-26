@@ -1,0 +1,271 @@
+[
+ {
+  "k": "036bbb14f3",
+  "sec": "Estómago",
+  "stem": "Un hombre de 25 años con dispepsia y diarrea crónicas es diagnosticado con úlcera duodenal mediante endoscopía, sin malignidad ni infección por H. pylori. Tras evitar AINEs y tratamiento con IBP, los síntomas persisten un año después. ¿Cuál de los siguientes resultados confirmaría el diagnóstico de síndrome de Zollinger-Ellison?",
+  "opts": [
+   "Aumento marcado de gastrina sérica tras administración de secretina",
+   "Niveles de gastrina en ayunas > 1000 pg/mL",
+   "Medición de secreción de ácido gástrico",
+   "Niveles de gastrina no en ayunas > 1000 pg/mL"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "686d3a5b50",
+  "sec": "Estómago",
+  "stem": "Una mujer afroamericana de 61 años con ERGE refractaria presenta en endoscopía varias lesiones polipoides en la mucosa gástrica. La biopsia indica pólipos hiperplásicos. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Tienen tasas de adenocarcinoma de hasta 20%",
+   "Se asocian comúnmente a síndromes de",
+   "Se asocian con una arteria grande que",
+   "El consumo de nitratos es un factor de riesgo",
+   "Se resuelven con la erradicación exitosa de H. pylori"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "f32db8fafe",
+  "sec": "Estómago",
+  "stem": "Un hombre de 59 años con hipertensión, apnea obstructiva del sueño y diabetes tipo II se queja de reflujo, eructos e hipersalivación con las comidas. ¿Cuál es el mecanismo de acción del tratamiento más apropiado para este paciente?",
+  "opts": [
+   "Disminución de prostaglandinas vía inhibición de COX-1 y COX-2",
+   "Formación de gel viscoso protector en la mucosa gástrica",
+   "Antagonismo histaminérgico que disminuye volumen y concentración del ácido",
+   "Bloqueo irreversible de la bomba H+/K+",
+   "Análogo sintético de prostaglandina que"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "8a73d1a155",
+  "sec": "Estómago",
+  "stem": "Un hombre de 48 años acude a control anual. Tiene antecedentes de reflujo gastroesofágico, hipertensión e hipercolesterolemia. Refiere melenas desde hace 6 meses y su hemoglobina es de 9.7 g/dL. El test de guayaco en heces es positivo. ¿Cuál es la explicación más probable para estos hallazgos?",
+  "opts": [
+   "Adenocarcinoma gástrico",
+   "ERGE",
+   "Epistaxis",
+   "Aspirina en dosis baja diaria",
+   "Enfermedad ulcerosa péptica"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "b3d5448652",
+  "sec": "Estómago",
+  "stem": "Una mujer de 65 años con dispepsia crónica, dolor epigástrico, pérdida de peso y melena se somete a endoscopía. Las biopsias revelan gastritis crónica y H. pylori, con una lesión mayor con “infiltrado denso de linfocitos en la lámina propia con folículos B reactivos”; tinción positiva para CD19 y CD20. ¿Cuál es el manejo más apropiado para esta paciente?",
+  "opts": [
+   "PET para determinar extensión",
+   "Radioterapia",
+   "Biopsia repetida por mala toma de muestra",
+   "Resección quirúrgica",
+   "Tratamiento de la infección subyacente"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "a543ea55d6",
+  "sec": "Estómago",
+  "stem": "Un hombre de 79 años con dolor lumbar crónico y EPOC que requiere oxígeno suplementario se presenta a urgencias con dolor epigástrico que comenzó súbitamente hace 2 días. El examen abdominal revela sensibilidad epigástrica pero es por lo demás normal. Una TC muestra una pequeña cantidad de aire libre bajo el hemidiafragma derecho, sin extravasación de contraste. Un estudio gastrointestinal superior con contraste hidrosoluble revela una úlcera duodenal pero sin extravasación. ¿Cuál de las siguientes es la mejor conducta?",
+  "opts": [
+   "Descompresión con sonda nasogástrica, antibióticos IV e inhibidor de bomba de protones (IBP)",
+   "Laparotomía exploradora",
+   "Laparoscopía diagnóstica",
+   "Antibióticos orales, dieta líquida clara por 2 semanas y control ambulatorio",
+   "Examen abdominal seriado en emergencias"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 123,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "4bc3d6f45b",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes es la prueba de referencia para el diagnóstico de gastroparesia?",
+  "opts": [
+   "Endoscopía alta",
+   "Radiografía simple de abdomen",
+   "Gammagrafía nuclear",
+   "Tomografía computarizada",
+   "Se considera un diagnóstico clínico"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 123,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "663cf89809",
+  "sec": "Estómago",
+  "stem": "El factor etiológico más importante en la enfermedad ulcerosa péptica es:",
+  "opts": [
+   "Reflujo duodenogástrico",
+   "Hipersecreción ácida",
+   "Uso de AINEs",
+   "Colonización bacteriana",
+   "Tabaquismo"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 123,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "26cdb2e7bf",
+  "sec": "Estómago",
+  "stem": "Un hombre de 60 años se presenta con 12 horas de dolor epigástrico progresivo. Tiene antecedente de úlcera duodenal, con biopsia reciente negativa para H. pylori. Radiografía de tórax en bipedestación muestra aire libre subdiafragmático. Está hemodinámicamente estable. En cirugía se encuentra úlcera duodenal perforada con contaminación peritoneal leve. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Parche de Graham sobre la úlcera",
+   "Parche de Graham con vagotomía truncal y piloroplastía",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Parche de Graham con vagotomía altamente selectiva"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 123,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "115e3b311c",
+  "sec": "Estómago",
+  "stem": "¿Cuál de los siguientes es el tratamiento más eficaz para el síndrome de vaciamiento (dumping) intratable?",
+  "opts": [
+   "Dieta baja en grasa y sin lactosa",
+   "Antagonistas de serotonina",
+   "Dieta baja en carbohidratos y alta en grasa",
+   "Octreotida",
+   "Creación de un segmento yeyunal invertido"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 124,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "91e1d7d3b1",
+  "sec": "Estómago",
+  "stem": "Una mujer de 45 años se somete a laparotomía exploratoria por síndrome de Zollinger-Ellison (ZES). Los estudios de localización preoperatorios no identificaron el tumor. En la cirugía, no se observa tumor evidente a pesar de una maniobra de Kocher extensa e inspección cuidadosa. La ecografía intraoperatoria es negativa. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Cierre del abdomen",
+   "Pancreatectomía distal y esplenectomía",
+   "Duodenopancreatectomía proximal",
+   "Duodenotomía proximal a ciegas",
+   "Duodenotomía distal a ciegas"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 124,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "eee5f6b3af",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes se asocia con hipergastrinemia?",
+  "opts": [
+   "Diabetes",
+   "Hipotiroidismo",
+   "Hiperparatiroidismo",
+   "Gastritis crónica",
+   "Hiperplasia de células D"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 124,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "b8e8830aed",
+  "sec": "Estómago",
+  "stem": "Un hombre de 56 años se presenta con dolor epigástrico, diarrea y pérdida de peso. La endoscopía superior muestra pliegues gástricos gigantes en el estómago proximal. La biopsia revela hiperplasia difusa de las células foveolares sin evidencia de malignidad. El pH gástrico de 24 horas es compatible con aclorhidria. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la condición más probable?",
+  "opts": [
+   "No hay riesgo de desarrollar cáncer.",
+   "Está asociada con citomegalovirus en adultos.",
+   "La terapia médica es altamente eficaz.",
+   "Es una condición hereditaria.",
+   "El tratamiento incluye dieta alta en proteínas."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 124,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "6060673262",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes afirmaciones verdadera respecto al reflujo biliar postgastrectomía?",
+  "opts": [
+   "La mayoría de los pacientes con reflu estómago desarrollará síntomas.",
+   "Los síntomas suelen correlacionarse cantidad de bilis que entra al estómago.",
+   "En pacientes sintomáticos, el tratami médico suele ser eficaz.",
+   "La creación de una gastro-yeyunosto de Roux es una opción quirúrgica eficaz.",
+   "Es más probable que ocurra después reconstrucción tipo Billroth I que una tipo II."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "50be09b2c0",
+  "sec": "Estómago",
+  "stem": "La mejor prueba para la localización gastrinoma es:",
+  "opts": [
+   "Resonancia magnética",
+   "Tomografía computarizada",
+   "Ecografía abdominal",
+   "Gammagrafía con octreótido",
+   "Angiografía selectiva"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 125,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ }
+]

@@ -1,0 +1,288 @@
+[
+ {
+  "k": "ceb95df8df",
+  "estado": "nueva",
+  "stem": "Una mujer de 40 años con antecedentes de enfermedad de Raynaud acude para evaluación de disfagia. El esofagograma con bario muestra reflujo, pero no anomalías estructurales, y la endoscopia digestiva alta evidencia esofagitis por reflujo. La manometría muestra ausencia de peristaltismo en el esófago distal y disminución del tono del esfínter esofágico inferior (EEI). ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Miotomía de Heller laparoscópica con funduplicatura parcial.",
+   "Inhibidor de la bomba de protones (IBP) y metoclopramida.",
+   "Dilatación neumática.",
+   "Bloqueador de los canales de calcio.",
+   "Funduplicatura de Nissen."
+  ],
+  "ans": 1,
+  "why": "La esclerodermia (Raynaud) cursa con fibrosis del músculo liso esofágico: menos peristaltismo distal y EEI hipotónico, con reflujo. El manejo inicial es un IBP más un procinético (metoclopramida). Heller y dilatación neumática son para acalasia, no para dismotilidad por esclerodermia. Los bloqueadores de calcio pueden empeorar la dismotilidad. La funduplicatura de Nissen está relativamente contraindicada (hasta 70% con disfagia posoperatoria).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 107 y 110 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta B.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "471d6ece48",
+  "estado": "nueva",
+  "stem": "Un hombre de 20 años acude a consulta después de haber sido hospitalizado por ingestión de lejía. La esofagoscopia reveló una lesión esofágica cáustica de alto grado, y el paciente recibió tratamiento de soporte. Pregunta acerca de las complicaciones a largo plazo de esta lesión. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "Tiene mayor riesgo de desarrollar adenocarcinoma esofágico.",
+   "Debe someterse a vigilancia endoscópica a partir de las seis semanas de la ingestión.",
+   "La complicación más frecuente es la formación de una estenosis esofágica.",
+   "La ingestión de sustancias cáusticas en adultos es menos grave que en niños.",
+   "El uso temprano de un agente neutralizante disminuye el riesgo de formación posterior de estenosis."
+  ],
+  "ans": 2,
+  "why": "Tras una lesión cáustica, la complicación más frecuente es la estenosis esofágica, y su probabilidad depende de la gravedad. El cáncer a largo plazo es escamoso, no adenocarcinoma. La vigilancia endoscópica se recomienda desde 10-20 años después, no a las 6 semanas. En adultos la ingestión suele ser más grave que en niños. Los neutralizantes nunca están indicados porque generan calor adicional.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 107 y 110 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta C.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "103533d3ee",
+  "estado": "nueva",
+  "stem": "Una mujer de 35 años se encuentra en la sala de recuperación después de una dilatación endoscópica de una estenosis péptica en el tercio medio del esófago. Comienza a presentar dolor torácico y odinofagia. Está hemodinámicamente estable y la radiografía de tórax no muestra aire libre ni derrame pleural. El esofagograma con contraste hidrosoluble es normal. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Tomografía computarizada de tórax, abdomen y pelvis con contraste intravenoso y oral.",
+   "Esofagograma con bario diluido.",
+   "Colocación de una sonda nasogástrica.",
+   "Toracotomía posterolateral izquierda.",
+   "Toracotomía posterolateral derecha."
+  ],
+  "ans": 1,
+  "why": "Dolor torácico y odinofagia tras dilatación sugieren perforación esofágica iatrogénica. Si el esofagograma con contraste hidrosoluble es normal, el siguiente paso es un esofagograma con bario diluido, más sensible. La TC es menos sensible que el esofagograma. La sonda nasogástrica a ciegas no es apropiada y puede lesionar más. La cirugía sin confirmar el diagnóstico es prematura.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 107 y 110 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta B.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "4a2f4dc4b9",
+  "estado": "nueva",
+  "stem": "Una mujer de 40 años ha utilizado un inhibidor de la bomba de protones durante siete años para controlar su ERGE. Por lo demás, está sana y se considera candidata adecuada para tratamiento quirúrgico definitivo. Durante la operación, después de movilizar el ligamento frenoesofágico, se observa que el esófago distal parece acortado. El estudio gastrointestinal superior preoperatorio no identificó una hernia hiatal. ¿Qué procedimiento probablemente será necesario?",
+  "opts": [
+   "Proceder con una funduplicatura de Nissen estándar.",
+   "Proceder con una funduplicatura de Dor.",
+   "Realizar una gastroplastia de Collis.",
+   "Suspender la operación e iniciar tratamiento con corticoides.",
+   "Tomar varias biopsias antes de suspender la operación."
+  ],
+  "ans": 2,
+  "why": "Si se encuentra un esófago acortado durante la cirugía antirreflujo (longitud abdominal menor de 1 cm), hay que hacer una gastroplastia de Collis para alargarlo y evitar tensión. Nissen estándar con esófago corto tiene tensión. La Dor se considera en dismotilidad. La esclerodermia sería un proceso difuso con enfermedad extraesofágica, y la corticoterapia no corresponde.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 108 y 111 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta C.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "97a623a24e",
+  "estado": "nueva",
+  "stem": "Un hombre de 51 años se ha sometido anualmente a endoscopia con biopsia por esófago de Barrett. Su biopsia más reciente muestra displasia de alto grado sin nódulos. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Esofagectomía con reconstrucción.",
+   "Repetir la endoscopia con biopsia en tres meses.",
+   "Ablación endoscópica por radiofrecuencia.",
+   "Cirugía antirreflujo.",
+   "Derivación a oncología para considerar quimioterapia neoadyuvante."
+  ],
+  "ans": 2,
+  "why": "En esófago de Barrett con displasia de alto grado sin nódulos, el abordaje favorecido hoy es la terapia endoscópica, como la ablación por radiofrecuencia. La esofagectomía fue antes el estándar pero fue reemplazada en gran parte. Repetir endoscopia a los 3-6 meses es una opción para displasia de bajo grado. La derivación a oncología es prematura porque no hay cáncer.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 108 y 111 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta C.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "7fdaa71443",
+  "estado": "nueva",
+  "stem": "La manometría esofágica realizada en un paciente con una verdadera hernia paraesofágica demostrará que el esfínter esofágico inferior (EEI) se encuentra:",
+  "opts": [
+   "Por encima de su posición normal.",
+   "En su posición normal.",
+   "Hipertónico.",
+   "Hipotónico.",
+   "Acortado."
+  ],
+  "ans": 1,
+  "why": "En la hernia paraesofágica verdadera (tipo II) la unión gastroesofágica y por tanto el EEI están en su posición normal; solo el fondo gástrico se desplaza hacia arriba. El EEI no es hipertónico ni hipotónico. Estar por encima de su posición normal es característico de la hernia por deslizamiento (tipo I).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 108 y 112 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta B.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "d78d191e8e",
+  "estado": "nueva",
+  "stem": "Un hombre diabético de 59 años con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC) e insuficiencia cardíaca congestiva presenta una historia de dos años de dificultad progresiva para deglutir. El esofagograma muestra dilatación del esófago proximal con estrechamiento abrupto en su porción distal. La manometría evidencia una presión elevada del EEI en reposo y ausencia de relajación después de la deglución. La endoscopia digestiva alta es negativa. ¿Cuál de las siguientes afirmaciones sobre este paciente es verdadera?",
+  "opts": [
+   "La enfermedad subyacente se caracteriza por ondas peristálticas esofágicas de gran amplitud.",
+   "La miotomía esofágica laparoscópica con funduplicatura completa es el tratamiento de elección.",
+   "Debe iniciarse una prueba terapéutica con bloqueadores de los canales de calcio.",
+   "El siguiente paso del tratamiento es la dilatación neumática esofágica.",
+   "La miotomía endoscópica peroral (POEM) es el tratamiento de elección."
+  ],
+  "ans": 3,
+  "why": "El cuadro es de acalasia (dilatación proximal, estrechamiento distal en pico, EEI hipertenso sin relajación). En este paciente de mayor riesgo operatorio (EPOC, ICC) el libro indica la dilatación neumática como siguiente paso. La onda peristáltica de gran amplitud es del esófago en cascanueces. El Heller con Nissen completo causa disfagia recurrente. Los bloqueadores de calcio alivian a menos del 10% y son solo para quienes no son candidatos quirúrgicos. La POEM se describe como opción emergente, no de elección.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 109 y 112-113 del PDF",
+   "Sabiston 21.ª ed., p. 1051 del PDF (la dilatación neumática alivia bien los síntomas, con frecuencia requiere repetirse y conlleva riesgo de perforación)"
+  ],
+  "nota": "Clave original: sin clave. El libro (de Virgilio, ABSITE) trae esta misma pregunta con respuesta D; el paciente tiene alto riesgo quirúrgico (EPOC, ICC).",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c2bdd4ceaa",
+  "estado": "nueva",
+  "stem": "Durante una endoscopia digestiva alta realizada a un paciente con acalasia confirmada por manometría, el endoscopista sospecha que ha provocado accidentalmente una perforación del esófago distal inferior izquierdo. El paciente está estable y no presenta signos de sepsis. El esofagograma confirma un esófago marcadamente dilatado con una perforación libre distal. El tratamiento consiste en:",
+  "opts": [
+   "Antibióticos intravenosos, mantener al paciente en ayuno y observación estrecha.",
+   "Toracotomía izquierda, reparación primaria y miotomía longitudinal contralateral.",
+   "Reparación primaria laparoscópica y miotomía longitudinal ipsilateral.",
+   "Esofagectomía con reconstrucción inmediata.",
+   "Colocación de un stent esofágico."
+  ],
+  "ans": 1,
+  "why": "En una perforación iatrogénica libre en un paciente con acalasia hay que reparar la perforación y tratar la enfermedad de fondo con una miotomía longitudinal en el lado contralateral. El libro da como tratamiento de elección toracotomía izquierda, reparación primaria y miotomía contralateral. El manejo conservador es solo para perforación contenida. La esofagectomía y el stent no corresponden (stent se reserva para cáncer irresecable).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 109 y 113 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta B.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "6484d37511",
+  "estado": "nueva",
+  "stem": "Un hombre de 36 años acude para evaluación de una masa esofágica incidental observada en una tomografía computarizada realizada después de un accidente automovilístico. No sufrió lesiones graves y fue dado de alta el mismo día. El estudio baritado muestra un defecto de llenado liso y en forma de media luna. ¿Cuál de las siguientes afirmaciones sobre esta masa es verdadera?",
+  "opts": [
+   "El tratamiento de elección es la resección con un margen de 1 cm.",
+   "Habitualmente se presenta con tumores satélite.",
+   "No existe riesgo de transformación maligna.",
+   "La ecografía esofágica puede ser útil.",
+   "Debe realizarse una biopsia endoscópica preoperatoria."
+  ],
+  "ans": 3,
+  "why": "El defecto de llenado liso en media luna es típico del leiomioma esofágico. La ecografía endoscópica es muy útil y muestra una región homogénea hipoecoica. No se debe biopsiar si tiene la apariencia típica por riesgo de perforación mucosa y cicatrices. Se trata con enucleación, no con resección con margen. Suele ser solitario y tiene un pequeño riesgo de degeneración maligna.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 109 y 113 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta D.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "7acb54fbce",
+  "estado": "nueva",
+  "stem": "Durante los últimos dos años, un hombre de 50 años ha referido repetidamente dificultad para tragar, que describe como una sensación de bulto en la garganta. Ha notado expulsión de saliva, disfagia, ronquera intermitente, regurgitación de alimentos no digeridos varias horas después de comer y cierta pérdida de peso. ¿Cuál de las siguientes afirmaciones es verdadera respecto al diagnóstico más probable?",
+  "opts": [
+   "La deglución es más fácil inmediatamente después de despertarse y se vuelve progresivamente más difícil a lo largo del día.",
+   "El mejor tratamiento es la diverticulectomía aislada mediante una incisión cervical izquierda.",
+   "Implica una evaginación de la muscular propia.",
+   "La esofagectomía mejorará la supervivencia.",
+   "Probablemente deba iniciarse quimiorradioterapia."
+  ],
+  "ans": 0,
+  "why": "El cuadro es de divertículo de Zenker (disfunción cricofaríngea). Los síntomas empeoran a lo largo del día conforme el divertículo se llena de alimento. Es un divertículo falso (mucosa y submucosa), no de la muscular propia. Lo más importante del tratamiento es la miotomía cricofaríngea, no la diverticulectomía sola. La larga duración hace poco probable un cáncer, así que no corresponde esofagectomía ni quimiorradioterapia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 109 y 114 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta A.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "97dde58b1e",
+  "estado": "nueva",
+  "stem": "Un hombre de 40 años con dolor epigástrico intenso presenta múltiples úlceras duodenales en la endoscopia digestiva alta. ¿Cuál es la localización normal de las células que secretan la mayor parte de la hormona que está siendo producida en exceso en este paciente?",
+  "opts": [
+   "Cuerpo del estómago.",
+   "Antro gástrico.",
+   "Páncreas.",
+   "Duodeno.",
+   "Yeyuno."
+  ],
+  "ans": 1,
+  "why": "Múltiples úlceras duodenales sugieren síndrome de Zollinger-Ellison, con exceso de gastrina. La gastrina la producen normalmente las células G del antro gástrico. El cuerpo gástrico tiene células parietales y principales. El páncreas secreta somatostatina, insulina y glucagón. El duodeno y yeyuno secretan CCK y secretina.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 120 y 125 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta B.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "37b8646612",
+  "estado": "nueva",
+  "stem": "Un hombre de 79 años con dolor de espalda crónico y EPOC que requiere oxígeno suplementario acude a emergencias por dolor epigástrico que comenzó súbitamente hace dos días. El examen abdominal revela sensibilidad epigástrica, sin otros hallazgos relevantes. La tomografía muestra una pequeña cantidad de aire libre debajo del hemidiafragma derecho, pero sin extravasación de contraste. Un estudio gastrointestinal superior con contraste hidrosoluble muestra una úlcera duodenal, pero no evidencia extravasación. ¿Cuál es el mejor tratamiento?",
+  "opts": [
+   "Descompresión con sonda nasogástrica, antibióticos intravenosos e inhibidor de la bomba de protones.",
+   "Laparotomía exploratoria.",
+   "Laparoscopia diagnóstica.",
+   "Antibióticos orales, dieta de líquidos claros durante dos semanas y control ambulatorio.",
+   "Exámenes abdominales seriados en emergencias durante 6–8 horas y, si mejora, alta con antibióticos orales."
+  ],
+  "ans": 0,
+  "why": "En perforación de úlcera péptica, el manejo no operatorio es primera línea aceptada en malos candidatos quirúrgicos (por ejemplo EPOC con oxígeno domiciliario) que están estables, sin peritonitis y sin extravasación de contraste. El tratamiento es sonda nasogástrica, antibióticos IV e IBP. La cirugía no es necesaria en este escenario y el alta con antibióticos orales tras 6-8 h no es la opción que da el libro.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 121 y 125-126 del PDF"
+  ],
+  "nota": "Clave original: sin clave. El libro trae esta misma pregunta con respuesta A.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "5b71481616",
+  "estado": "nueva",
+  "stem": "¿Cuál es el estándar de oro para el diagnóstico de gastroparesia?",
+  "opts": [
+   "Endoscopia digestiva alta.",
+   "Radiografías simples de abdomen.",
+   "Gammagrafía de medicina nuclear.",
+   "Tomografía computarizada.",
+   "Se considera un diagnóstico clínico."
+  ],
+  "ans": 2,
+  "why": "La gastroparesia es el retraso del vaciamiento gástrico sin obstrucción mecánica. Los síntomas sugieren el diagnóstico pero debe confirmarse con imagen. El estándar de oro es la gammagrafía de vaciamiento gástrico (más de 10% del alimento a las 4 horas). Endoscopia, radiografía simple y TC no la diagnostican.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 121 y 126 del PDF"
+  ],
+  "nota": "Clave original: sin clave en el texto; la imagen original muestra C marcado con círculo rojo, que coincide con el libro. El enunciado venía cortado; se completó con la imagen original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "b4c1d394b7",
+  "estado": "nueva",
+  "stem": "Un hombre de 60 años presenta dolor epigástrico progresivo desde hace 12 horas. Tiene antecedentes de úlcera duodenal y una biopsia realizada dos semanas antes fue negativa para Helicobacter pylori. La radiografía de tórax en bipedestación muestra aire libre debajo del diafragma. El paciente está hemodinámicamente estable. Durante la cirugía se encuentra una úlcera duodenal perforada con contaminación peritoneal leve. ¿Cuál es la mejor opción terapéutica?",
+  "opts": [
+   "Parche de Graham para la úlcera duodenal.",
+   "Parche de Graham, vagotomía troncal y piloroplastia.",
+   "Vagotomía troncal y antrectomía con reconstrucción Billroth I.",
+   "Vagotomía troncal y antrectomía con reconstrucción Billroth II.",
+   "Parche de Graham y vagotomía altamente selectiva."
+  ],
+  "ans": 4,
+  "why": "En úlcera duodenal perforada con diátesis ulcerosa conocida, H. pylori negativo, paciente estable, buen riesgo y contaminación leve, se agrega cirugía de la úlcera al parche de Graham. La vagotomía altamente selectiva es el abordaje preferido en el paciente estable de buen riesgo. El parche solo se usa si hay inestabilidad, peritonitis extensa o perforación de más de 24 h. Vagotomía troncal con antrectomía no se recomienda en perforación por su alta morbimortalidad.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 122 y 127 del PDF"
+  ],
+  "nota": "Clave original: sin clave en el texto; la imagen original muestra E marcado con círculo rojo, que coincide con el libro.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "708685e441",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes condiciones se asocia con hipergastrinemia?",
+  "opts": [
+   "Diabetes mellitus.",
+   "Hipotiroidismo.",
+   "Hiperparatiroidismo.",
+   "Gastritis crónica.",
+   "Hiperplasia de células D."
+  ],
+  "ans": 3,
+  "why": "Entre las causas de hipergastrinemia con acidez normal o baja están la anemia perniciosa, el estado posvagotomía, los antiácidos supresores y la gastritis crónica. La hiperplasia es de células G, no D. El hipotiroidismo se asocia con gastrina baja. Diabetes e hiperparatiroidismo no alteran la gastrina.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE and Boards, 3.ª ed., p. 122 y 128 del PDF"
+  ],
+  "nota": "Clave original: sin clave en el texto; la imagen original muestra D marcado con círculo rojo, que coincide con el libro. El enunciado venía cortado; se completó con la imagen original.",
+  "tema": "esofago-estomago"
+ }
+]

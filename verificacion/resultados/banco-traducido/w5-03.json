@@ -1,0 +1,230 @@
+[
+ {
+  "k": "fa81c766f4",
+  "estado": "nueva",
+  "stem": "En una paciente embarazada con apendicitis, ¿qué factor se asocia más estrechamente con la mortalidad fetal?",
+  "opts": [
+   "Edad gestacional del feto.",
+   "Apendicectomía abierta en lugar de laparoscópica.",
+   "Comorbilidades maternas.",
+   "Rotura del apéndice.",
+   "Retraso en la administración de antibióticos."
+  ],
+  "ans": 3,
+  "why": "En la apendicitis durante el embarazo, la perforación del apéndice es la variable más importante para la mortalidad fetal; por eso el diagnóstico debe ser temprano. Las pérdidas fetales fueron mayores en la apendicitis complicada (6 %) que en la simple (2 %). La apendicectomía abierta no es peor: la laparoscopia se asoció a más pérdida fetal (OR 2,31). Edad gestacional, comorbilidades y retraso de antibióticos no se señalan como el factor principal.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 163 del PDF (pregunta 8)"
+  ],
+  "nota": "Sin clave original; clave según el libro (D, rotura del apéndice).",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "bbb5d040d0",
+  "estado": "nueva",
+  "stem": "Una mujer de 75 años presenta dolor abdominal difuso leve y diarrea, con prueba inmunoquímica fecal positiva. No tiene antecedentes médicos relevantes; el recuento de leucocitos y el hematocrito son normales. La tomografía muestra engrosamiento leve de la pared del colon en el ángulo esplénico y cierta inflamación de la grasa pericólica. ¿Cuál es el siguiente paso más apropiado?",
+  "opts": [
+   "Laparoscopia diagnóstica.",
+   "Laparotomía exploratoria.",
+   "Antibióticos intravenosos e hidratación con líquidos.",
+   "Colonoscopia.",
+   "Angiografía mesentérica."
+  ],
+  "ans": 2,
+  "why": "Es una colitis isquémica (anciana, diarrea, ángulo esplénico = zona de 'cuenca' vascular, engrosamiento con grasa pericólica). Los casos leves se tratan con reposo intestinal, antibióticos de amplio espectro e hidratación. La cirugía se reserva para peritonitis o necrosis; la angiografía no ayuda porque no suele haber oclusión mayor; la colonoscopia no es necesaria en la fase aguda.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 del PDF (pregunta 12)"
+  ],
+  "nota": "Sin clave original; clave según el libro (C).",
+  "tema": "colon"
+ },
+ {
+  "k": "921b90f51a",
+  "estado": "nueva",
+  "stem": "Una paciente de 65 años, institucionalizada, presenta dos días de distensión abdominal, náuseas y obstipación. El abdomen está muy distendido, con sensibilidad difusa leve, sin defensa ni rebote. Los leucocitos son 10 000/μL. La radiografía muestra un asa intestinal masivamente dilatada, invertida y en forma de U, con signo de omega. ¿Cuál es el tratamiento?",
+  "opts": [
+   "Destorsión endoscópica.",
+   "Destorsión endoscópica seguida de sigmoidectomía durante la misma hospitalización.",
+   "Destorsión endoscópica y sigmoidectomía electiva si hay recurrencia.",
+   "Laparotomía exploratoria con sigmoidectomía, lavado intestinal intraoperatorio y anastomosis primaria.",
+   "Laparotomía exploratoria con sigmoidectomía, colostomía proximal y cierre del muñón rectal."
+  ],
+  "ans": 1,
+  "why": "Es un vólvulo de sigmoides sin signos de isquemia ni peritonitis: se hace destorsión endoscópica, y como la recurrencia llega hasta 40 %, se recomienda colectomía sigmoidea posterior en la misma hospitalización. La destorsión sola o con cirugía solo si recurre no previene la recidiva; la laparotomía inmediata se reserva para intestino isquémico o peritonitis.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 164 del PDF (pregunta 13)"
+  ],
+  "nota": "Sin clave original; clave según el libro (B).",
+  "tema": "colon"
+ },
+ {
+  "k": "8fa5394bee",
+  "estado": "nueva",
+  "stem": "Un hombre de 75 años con estreñimiento crónico presenta dolor abdominal intenso y fiebre. La tomografía muestra aire libre e inflamación alrededor del colon. El colon y el recto están dilatados y llenos de grandes masas de heces. Durante la cirugía se identifica una perforación redonda de aproximadamente 1 cm, con bolas de heces endurecidas protruyendo a través de ella. ¿Cuál de las siguientes afirmaciones es verdadera?",
+  "opts": [
+   "La perforación ocurre con mayor probabilidad en el ángulo esplénico.",
+   "Se asocia con el uso de antiinflamatorios no esteroideos.",
+   "Se trata mejor mediante cierre primario y lavado.",
+   "Los anticolinérgicos podrían haber prevenido esta condición.",
+   "La perforación suele localizarse en el borde mesentérico."
+  ],
+  "ans": 1,
+  "why": "Es una perforación estercorácea. El libro la asocia al uso de AINE. Se localiza en el borde antimesentérico del rectosigmoides (no en el ángulo esplénico ni en el borde mesentérico), requiere resección formal con colostomía proximal (Hartmann), no cierre simple, y los anticolinérgicos empeoran el estreñimiento en lugar de prevenirla.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 165-166 del PDF (pregunta 19)"
+  ],
+  "nota": "Sin clave original; clave según el libro (B).",
+  "tema": "colon"
+ },
+ {
+  "k": "b265f4b758",
+  "estado": "nueva",
+  "stem": "Una mujer de 71 años con EPOC se recupera de una neumonía en la unidad de cuidados intensivos y permanece conectada a ventilación mecánica. Presenta distensión abdominal aguda y no ha evacuado en varios días. Las imágenes muestran un ciego de 8 cm de diámetro, con distensión gaseosa que se extiende hasta el recto. No hay heces en la ampolla rectal y sus signos vitales son estables. Su médico desea administrar neostigmina. ¿Cuál de las siguientes afirmaciones sobre su administración es verdadera?",
+  "opts": [
+   "El antecedente de enfermedad coronaria se considera una contraindicación.",
+   "El antecedente de bloqueo cardíaco de segundo grado se considera una contraindicación.",
+   "La neostigmina no debe administrarse en infusión continua.",
+   "La neostigmina es eficaz en el 20 % de los pacientes con esta condición.",
+   "Si falla un bolo de neostigmina, deben evitarse los bolos repetidos."
+  ],
+  "ans": 1,
+  "why": "Es un síndrome de Ogilvie. Las contraindicaciones de la neostigmina son retención urinaria aguda, síndrome coronario agudo, asma, broncoespasmo y bloqueo cardíaco de segundo o tercer grado. El antecedente de enfermedad coronaria no equivale a síndrome coronario agudo. Se puede dar infusión continua (0,4-0,8 mg/h), la respuesta es de 80-90 % y si falla el bolo se puede repetir.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 158 y 166 del PDF (pregunta 20)"
+  ],
+  "nota": "Sin clave original; clave según el libro (B).",
+  "tema": "colon"
+ },
+ {
+  "k": "fcb544d114",
+  "estado": "nueva",
+  "stem": "En la paciente de la pregunta 20, la neostigmina y la descompresión endoscópica no mejoran los síntomas. La distensión y las molestias aumentan. Una nueva radiografía muestra que el ciego mide 10 cm de diámetro. Se decide operar. Durante la intervención, el colon está edematoso y dilatado hasta 10 cm, pero no hay signos de isquemia. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Colectomía abdominal total con anastomosis ileoanal.",
+   "Proctocolectomía con anastomosis de reservorio ileal al ano.",
+   "Colocación de una sonda de cecostomía.",
+   "Inserción retrógrada transanal de una sonda larga multiperforada de Faucher.",
+   "Colectomía subtotal con ileostomía terminal."
+  ],
+  "ans": 2,
+  "why": "Si no hay isquemia ni perforación en la laparotomía, se evita la colectomía; el libro indica una sonda de colostomía/cecostomía en tubo (éxito de 95 %, mejor descompresión que una colostomía formal). La sonda de Faucher transanal es una opción menos eficaz. La colectomía con anastomosis primaria debe evitarse por alta tasa de fuga.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 158 y 166 del PDF (pregunta 21)"
+  ],
+  "nota": "Sin clave original; clave según el libro (C).",
+  "tema": "colon"
+ },
+ {
+  "k": "de8b52ad62",
+  "estado": "nueva",
+  "stem": "Un hombre de 32 años, diagnosticado de colitis ulcerosa hace un año, acude a emergencias con ictericia. El estudio es compatible con colangitis esclerosante primaria. ¿Qué medida adicional se recomienda?",
+  "opts": [
+   "Colonoscopia de cribado inmediata.",
+   "Colonoscopia inmediata con biopsias aleatorias.",
+   "Colonoscopia con biopsias aleatorias a los 8–10 años del diagnóstico de colitis ulcerosa.",
+   "Colonoscopia de cribado a los 50 años.",
+   "Colonoscopia según la aparición de síntomas."
+  ],
+  "ans": 1,
+  "why": "En la colangitis esclerosante primaria aumenta el riesgo de cáncer colorrectal; debe hacerse colonoscopia con biopsias aleatorias de inmediato, al momento del diagnóstico de la CEP, y repetirla cada 1-2 años. Esperar 8 años de colitis ulcerosa, los 50 años o los síntomas aplica a pacientes sin CEP.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 166 del PDF (pregunta 22)"
+  ],
+  "nota": "Sin clave original; clave según el libro (B).",
+  "tema": "colon"
+ },
+ {
+  "k": "e855b1db6a",
+  "estado": "nueva",
+  "stem": "Una mujer de 65 años presenta hemorragia rectal masiva. Su presión arterial inicial es de 80/60 mmHg y su frecuencia cardíaca de 120 latidos por minuto. Tras la reposición de volumen, la presión arterial aumenta a 120/80 mmHg. La aspiración nasogástrica no muestra sangre, se descarta sangrado hemorroidal mediante anoscopia y la paciente permanece hemodinámicamente estable. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Colonoscopia.",
+   "Arteriografía mesentérica.",
+   "Gammagrafía con eritrocitos marcados.",
+   "Endoscopia digestiva alta.",
+   "Laparotomía exploratoria."
+  ],
+  "ans": 0,
+  "why": "Hemorragia baja masiva que se estabiliza tras reanimación, con aspirado nasogástrico negativo y hemorroides descartadas: se hace colonoscopia en cuanto esté lista la preparación. Arteriografía o gammagrafía se usan si el paciente sigue sangrando; la laparotomía solo si no se estabiliza y no se halla la fuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 166-167 del PDF (pregunta 23)"
+  ],
+  "nota": "Sin clave original; clave según el libro (A).",
+  "tema": "colon"
+ },
+ {
+  "k": "0b01e19bf6",
+  "estado": "nueva",
+  "stem": "Una paciente de 35 años con colitis ulcerosa, sometida a proctocolectomía restauradora total con reservorio ileal y anastomosis ileoanal, presenta tres días de dolor abdominal, aumento de las deposiciones, hematoquecia y fiebre. ¿Cuál de las siguientes afirmaciones sobre esta condición es verdadera?",
+  "opts": [
+   "Habitualmente no se necesita biopsia.",
+   "Es una complicación poco frecuente.",
+   "El uso de probióticos no es útil.",
+   "A menudo es necesaria la extirpación urgente del reservorio en J.",
+   "La ciprofloxacina es más eficaz que el metronidazol."
+  ],
+  "ans": 4,
+  "why": "Es una reservoritis (pouchitis). El libro cita una revisión Cochrane en que la ciprofloxacina fue más eficaz que el metronidazol para inducir remisión. La biopsia sí es importante (descartar Crohn), es una complicación frecuente (30-55 %), los probióticos son útiles en casos crónicos y la extirpación del reservorio es rara y no urgente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 del PDF (pregunta 24)"
+  ],
+  "nota": "Sin clave original; clave según el libro (E).",
+  "tema": "colon"
+ },
+ {
+  "k": "590d3b07e4",
+  "estado": "nueva",
+  "stem": "Un niño de 10 años con leucemia mieloide aguda presenta dolor y sensibilidad en el cuadrante inferior derecho del abdomen. Recientemente terminó quimioterapia. Tiene temperatura de 39 °C y leucocitos de 900 células/μL. La tomografía muestra inflamación y engrosamiento del colon derecho, con inflamación de la grasa adyacente. ¿Cuál es el tratamiento?",
+  "opts": [
+   "Antibióticos intravenosos, reposo intestinal y líquidos intravenosos.",
+   "Hemicolectomía derecha con anastomosis ileotransversa primaria.",
+   "Hemicolectomía derecha con ileostomía y fístula mucosa.",
+   "Cecostomía.",
+   "Apendicectomía."
+  ],
+  "ans": 0,
+  "why": "Es una enterocolitis neutropénica (tiflitis): dolor, fiebre y neutropenia grave con engrosamiento del ciego. La mayoría responde a reposo intestinal y antibióticos IV; la cirugía se reserva para perforación.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 167 del PDF (pregunta 26)"
+  ],
+  "nota": "Sin clave original; clave según el libro (A).",
+  "tema": "colon"
+ },
+ {
+  "k": "60ed97efb7",
+  "estado": "nueva",
+  "stem": "Un hombre de 40 años presenta cinco días de dolor en el cuadrante inferior derecho, anorexia y fiebre. El examen revela sensibilidad localizada y una masa palpable. La tomografía muestra un pequeño absceso de menos de 1 cm alrededor de un apéndice inflamado. Después de la reanimación con líquidos y la administración de antibióticos intravenosos, ¿cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Drenaje guiado por tomografía seguido de apendicectomía diferida.",
+   "Tratamiento no operatorio inicial seguido de apendicectomía diferida.",
+   "Apendicectomía laparoscópica.",
+   "Apendicectomía abierta.",
+   "Tratamiento no operatorio sin cirugía posterior."
+  ],
+  "ans": 4,
+  "why": "Con cuadro de varios días y masa palpable (absceso delimitado), el libro recomienda tratamiento no operatorio (antibióticos, reposo intestinal); la apendicectomía de intervalo ya no se hace de rutina en la mayoría. El drenaje guiado por TC no se recomienda de rutina en abscesos pequeños, y la apendicectomía inmediata es aceptable pero técnicamente difícil.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 159 y 167 del PDF (pregunta 27)"
+  ],
+  "nota": "Sin clave original; clave según el libro (E). Ojo: en la opción B (no operatorio seguido de apendicectomía de intervalo) el libro la descarta por la baja recurrencia.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "1a0f928516",
+  "estado": "nueva",
+  "stem": "Una fuente importante de energía para los colonocitos, en particular en el contexto de la colitis por derivación, es:",
+  "opts": [
+   "Cuerpos cetónicos.",
+   "Glucosa.",
+   "Aminoácidos.",
+   "Propionato.",
+   "Glutamina."
+  ],
+  "ans": 3,
+  "why": "En la colitis por derivación los colonocitos dejan de recibir nutrientes luminales. Los ácidos grasos de cadena corta (acetato, butirato y propionato), producidos por fermentación bacteriana, son su fuente de energía y el tratamiento de primera línea (enemas). Cuerpos cetónicos, glucosa y aminoácidos (glutamina) no se usan como fuente.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 159 y 168 del PDF (pregunta 32)"
+  ],
+  "nota": "Sin clave original; clave según el libro (D, propionato). Enunciado reparado según el libro: 'para los colonocitos, en particular en el contexto de la colitis por derivación'.",
+  "tema": "colon"
+ }
+]

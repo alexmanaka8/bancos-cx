@@ -1,0 +1,272 @@
+[
+ {
+  "k": "65c0d1639c",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 72 años llega con dolor súbito en flanco izquierdo, náuseas, fiebre y leucocitosis. No hay antecedentes quirúrgicos. La TAC revela engrosamiento de colon sigmoides y grasa pericolónica inflamada. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Cáncer de colon",
+   "Diverticulitis aguda",
+   "Colitis isquémica",
+   "Obstrucción intestinal",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "553b7b2145",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 33 años refiere dolor epigástrico súbito tras vomitar varias veces. El examen muestra taquicardia y enfisema subcutáneo en el cuello. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Neumonía por aspiración",
+   "Perforación gástrica",
+   "Ruptura esofágica (síndrome de Boerhaave)",
+   "Úlcera gástrica sangrante",
+   "Esofagitis erosiva"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "3dea5480ef",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 68 años llega con fiebre, vómitos y dolor abdominal en el cuadrante inferior izquierdo. Tiene antecedentes de varios episodios similares. El examen revela defensa localizada y masa palpable en esa zona. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Absceso intraabdominal por apendicitis",
+   "Fístula entero-cutánea",
+   "Diverticulitis complicada con absceso",
+   "Cáncer de colon",
+   "Megacolon tóxico"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "5e18d1a29d",
+  "sec": "Abdomen general",
+  "stem": "Un paciente anciano con antecedentes de ACV presenta con distensión abdominal, dolor leve y estreñimiento. La radiografía muestra una gran dilatación del colon, sobre todo en el ciego. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción mecánica",
+   "Pseudoobstrucción colónica (síndrome de Ogilvie)",
+   "Megacolon tóxico",
+   "Vólvulo de sigmoides",
+   "Íleo paralítico"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "883a29fda5",
+  "sec": "Abdomen general",
+  "stem": "Una mujer de 75 años llega con distensión abdominal y ausencia de gases o deposiciones por 3 días. Tiene antecedentes de constipación crónica. Radiografía muestra dilatación masiva del sigmoides. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción por carcinoma",
+   "Vólvulo de sigmoides",
+   "Impactación fecal",
+   "Enfermedad diverticular",
+   "Íleo biliar"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 68,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "b4f26299fe",
+  "sec": "Vías biliares",
+  "stem": "Paciente post Billroth II con anemia y vó biliosos. ¿Qué prueba corrige la excreció urinaria de B12 en Schilling?",
+  "opts": [
+   "Factor intrínseco",
+   "Tetraciclina",
+   "Vitamina B6",
+   "Hierro",
+   "Calcio"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 84,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c26027b8ed",
+  "sec": "Esofago",
+  "stem": "Un hombre diabético de 59 años con enfermedad pulmonar obstructiva crónica (EPO se presenta con una historia de 2 años de dificultad progresiva para tragar. No tiene otros problemas médicos. El esofagograma muestra esófago proximal dilatado con estrechamiento distal abrupto. La manometría muestra presión elevada del esfínter esofágico inferior (EEI) en reposo y falta de relajación del EEI tras la deglución. La endoscopía alta es negativa. ¿Cu de las siguientes afirmaciones es verdadera respecto a este paciente?",
+  "opts": [
+   "La condición subyacente se caracteriza por ondas peristálticas de alta amplitud en el esófa",
+   "La miotomía esofágica laparoscópica con fundoplicatura completa es el tratamiento de elección.",
+   "Debe iniciarse una prueba con bloqueadore de los canales de calcio.",
+   "La dilatación neumática esofágica es el siguiente paso en el manejo.",
+   "La miotomía endoscópica peroral (POEM) e el tratamiento de elección."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 116,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "75413ca2f8",
+  "sec": "Esofago",
+  "stem": "Un hombre de 51 años ha estado realizándo endoscopías con biopsias anuales por esófago Barrett. Su biopsia más reciente muestra displa de alto grado sin nódulos. ¿Cuál es el mejor siguiente paso en el manejo?",
+  "opts": [
+   "Esofagectomía con reconstrucción",
+   "Repetir endoscopía con biopsia en 3 meses",
+   "Ablación endoscópica por radiofrecuencia",
+   "Cirugía antirreflujo",
+   "Derivación a oncología para considerar quimioterapia neoadyuvante"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 116,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "1e0d6a7415",
+  "sec": "Esofago",
+  "stem": "Una mujer de 40 años ha estado usando un inhibidor de bomba de protones (IBP) para controlar enfermedad por reflujo gastroesofágico (ERGE) durante los últimos 7 años. Por lo demás está sana. Fue evaluada en consulta y considerada candidata adecuada para intervención quirúrgica definitiva. Durante la operación, tras movilizar el ligamento frenoesofágico, se inspecciona el esófago distal y parece acortado. El estudio gastrointestinal superior preoperatorio no identificó hernia hiatal. ¿Qué será lo más probable que deba hacerse?",
+  "opts": [
+   "Proceder con una fundoplicatura tipo Nissen estándar.",
+   "Proceder con una fundoplicatura tipo Dor.",
+   "Realizar una gastroplastia de Collis.",
+   "Abortar la operación e iniciar tratamiento con esteroides.",
+   "Tomar varias biopsias antes de abortar la operación."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 116,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "f7e096f736",
+  "sec": "Esofago",
+  "stem": "La disfagia lusoria se asocia más probablemente con:",
+  "opts": [
+   "Arco bovino",
+   "Arteria subclavia aberrante",
+   "Coartación de la aorta",
+   "Aneurisma de aorta ascendente",
+   "Conducto arterioso persistente"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "27ea0d6846",
+  "sec": "Esofago",
+  "stem": "Un hombre de 36 años acude a consulta por una masa esofágica incidental observada en una tomografía computarizada (TC), realizada tras un accidente automovilístico. No tuvo lesiones graves y fue dado de alta el mismo día. El esofagograma con bario muestra un defecto de llenado en forma de media luna, de bordes suaves. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta masa?",
+  "opts": [
+   "La resección es el tratamiento de elección.",
+   "Con frecuencia se presentan con tumores satélites.",
+   "No tienen riesgo de degeneración maligna.",
+   "La ecografía esofágica puede ser útil.",
+   "Debe realizarse una biopsia endoscópica preoperatoria."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "5505aae27f",
+  "sec": "Esofago",
+  "stem": "El esófago de Barrett:",
+  "opts": [
+   "Es una anomalía congénita",
+   "Ocurre con más frecuencia en pacientes de raza negra",
+   "Cuando se diagnostica, debe tratarse con una cirugía antirreflujo para prevenir cáncer",
+   "El diagnóstico requiere el reemplazo de un segmento de 3 cm de células escamosas por epitelio columnar",
+   "Presenta células caliciformes"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "cb2b64b18e",
+  "sec": "Esofago",
+  "stem": "Durante una endoscopía alta por acalasia confirmada por manometría, el endoscopista sospecha que pudo haber causado una perforación inadvertida del esófago distal izquierdo. El paciente está estable y sin signos de sepsis. El esofagograma confirma un esófago marcadamente dilatado con una pequeña perforación distal libre. El manejo consiste en:",
+  "opts": [
+   "Antibióticos intravenosos (IV), mantener al paciente en ayuno (NPO), y observación estrecha",
+   "Toracotomía izquierda, reparación primaria, miotomía longitudinal en el lado contralateral",
+   "Reparación primaria laparoscópica y miotomía longitudinal en el lado ipsilateral",
+   "Esofagectomía con reconstrucción inmediata",
+   "Colocación de stent esofágico"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c3cd6d2d2d",
+  "sec": "Esofago",
+  "stem": "Un niño de 4 años se presenta al servicio de urgencias tras ingerir lejía accidentalmente. Presenta estridor y disfonía. Es intubado de urgencia y se le administran líquidos IV. Una radiografía de tórax en posición erguida no muestra evidencia de perforación. El paciente es admitido a UCI. El siguiente paso en el manejo es:",
+  "opts": [
+   "Esofagoscopía",
+   "Esofagografía",
+   "Tomografía computarizada de tórax",
+   "Observación estrecha",
+   "Laparotomía exploratoria inmediata"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "347b3dcb07",
+  "sec": "Esofago",
+  "stem": "Durante los últimos 2 años, un hombre de 50 años ha reportado dificultad para tragar, descrita como una sensación de bulto en la garganta. Ha notado expectoración de saliva en exceso, disfagia, disfonía intermitente y algo de pérdida de peso. ¿Cuál de las siguientes afirmaciones es verdadera sobre el diagnóstico más probable?",
+  "opts": [
+   "Tragar es más fácil al despertar por la mañana y se vuelve más difícil a lo largo del día.",
+   "Se maneja mejor con diverticulectomía sola a través de una incisión cervical izquierda.",
+   "Involucra una evaginación de la muscularis propria.",
+   "La esofagectomía mejorará la supervivencia.",
+   "El paciente probablemente deba iniciar quimiorradiación."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ }
+]

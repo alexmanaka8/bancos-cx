@@ -1,0 +1,303 @@
+[
+ {
+  "k": "6af80020c9",
+  "estado": "dudosa",
+  "stem": "Una mujer de 36 años con colitis ulcerosa acude a consulta de seguimiento. Ha sido tratada con enemas de corticoides y sulfasalazina. El examen físico de corazón, pulmones y abdomen es normal. En miembros inferiores presenta pápulas rojas y dolorosas. ¿Cuál es la causa más probable de esta manifestación?",
+  "opts": [
+   "Coagulopatía",
+   "Acropaquias",
+   "Eritema nudoso",
+   "Escleritis",
+   "Uveítis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa de la opción marcada. (El revisor había propuesto la opción C.) El eritema nudoso se presenta como nódulos rojos dolorosos y es una manifestación cutánea extraintestinal de la enfermedad inflamatoria intestinal (Sabiston 1369). Coagulopatía, acropaquias, escleritis y uveítis no producen lesiones cutáneas dolorosas en las piernas; la uveítis y la escleritis son oculares.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1369 del PDF",
+   "Sabiston 21.ª ed., p. 1287 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). INDIRECTA para el descarte de las otras opciones: el libro describe el eritema nudoso (nódulos rojos dolorosos) y no menciona lesiones cutáneas dolorosas en las otras opciones; Sabiston aclara que en la EII el pioderma gangrenoso es más frecuente, pero no es opción aquí."
+ },
+ {
+  "k": "a3fad39814",
+  "estado": "dudosa",
+  "stem": "Una mujer de 28 años con colitis ulcerosa tratada con enemas de corticoides y sulfasalazina se queja de diarrea en aumento. La VSG es normal. ¿Cuál es el propósito del uso de antidiarreicos en este caso?",
+  "opts": [
+   "Inducir la remisión de la colitis ulcerosa",
+   "Prevenir el desarrollo de cáncer en colon sigmoide",
+   "Prevenir el desarrollo de cáncer rectal",
+   "Prevenir la recurrencia de la enfermedad",
+   "Reducir los episodios de diarrea"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). La fuente habla de loperamida en la incontinencia fecal, no en la colitis ulcerosa. (El revisor había propuesto la opción E.) Los antidiarreicos (p. ej. loperamida) enlentecen el tránsito y disminuyen la frecuencia de las heces sueltas: su propósito es solo sintomático. No inducen remisión de la colitis ulcerosa ni previenen recurrencias ni cáncer.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1442 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 456 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: Sabiston describe el efecto de la loperamida (en el contexto de la incontinencia fecal), no en colitis ulcerosa; el tratamiento de la CU (mesalamina, esteroides) y la prevención de cáncer por vigilancia colonoscópica están en de Virgilio p. 153 y 162. Clave original: E (resaltado)."
+ },
+ {
+  "k": "cd9f06b504",
+  "estado": "dudosa",
+  "stem": "Un hombre de 37 años, hirsuto, acude por dolor anal de 2 semanas. El examen físico del área sacrococcígea revela un folículo piloso inflamado y doloroso. Si existe un trayecto sinusal asociado, ¿en qué dirección se espera que se extienda?",
+  "opts": [
+   "Caudal",
+   "Cefálica",
+   "Lateral",
+   "Medial",
+   "Ventral"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Sabiston habla de un absceso en dirección cefálica, no del trayecto. (El revisor había propuesto la opción B.) En la enfermedad pilonidal el absceso agudo aparece en dirección cefálica a la hendidura interglútea, con orificios en la línea media a 4-8 cm del ano; no compromete el conducto anal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1435 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 172 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: Sabiston dice que el absceso se presenta en dirección cefálica a la hendidura interglútea; no dice textualmente 'trayecto sinusal hacia cefálico'. Clave original: B (resaltado)."
+ },
+ {
+  "k": "ae22eb7ee0",
+  "estado": "confirmada",
+  "stem": "Una mujer de 86 años con Alzheimer severo en un asilo presenta dolor abdominal cólico agudo, náuseas y vómitos. En urgencias tiene dolor en el cuadrante inferior izquierdo. Las radiografías muestran un sigmoide dilatado. El enema de bario evidencia estrechamiento en un punto de torsión. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Descompresión por sigmoidoscopía",
+   "Ampicilina y gentamicina IV",
+   "Metilprednisolona IV",
+   "Resección laparoscópica del sigmoides",
+   "Nutrición parenteral periférica"
+  ],
+  "ans": 0,
+  "why": "Un volvulo de sigmoide sin peritonitis, isquemia ni perforación se maneja con sigmoidoscopía flexible para destorcer y descomprimir, y luego sigmoidectomía por el alto riesgo de recurrencia. Antibióticos, esteroides y nutrición parenteral no tratan el volvulo, y la resección laparoscópica urgente no es el primer paso sin signos de isquemia.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: A (resaltado). El enunciado no menciona peritonitis ni isquemia, por eso la descompresión endoscópica es la conducta inicial."
+ },
+ {
+  "k": "a90e093cb1",
+  "estado": "confirmada",
+  "stem": "Una mujer de 52 años con celulitis recurrente en el pie derecho ha estado tomando cefalosporina oral hasta 6 veces al día durante el último mes por su cuenta. Acude a urgencias con diarrea acuosa sin sangre ni moco y dolor abdominal cólico. No hay neumoperitoneo en la radiografía. Se solicitan estudios para toxina de Clostridium difficile. ¿Cuál es el siguiente paso más adecuado?",
+  "opts": [
+   "Cambiar antibiótico a ampicilina",
+   "Cambiar antibiótico a clindamicina",
+   "Enema con corticosteroides",
+   "Corticoides orales",
+   "Suspender la cefalosporina"
+  ],
+  "ans": 4,
+  "why": "El factor de riesgo más importante de infección por C. difficile es la exposición a antibióticos (las cefalosporinas de 3.ª y 4.ª generación se relacionan con mayor riesgo), y el tratamiento inicial consiste en suspender o reducir al mínimo los antibióticos previos. Ampicilina y clindamicina mantienen el riesgo; los esteroides no tratan la ICD.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1380 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: E (resaltado)."
+ },
+ {
+  "k": "1ef45405b0",
+  "estado": "corregida",
+  "stem": "Una mujer de 65 años se presenta con una hemorragia masiva del tracto gastrointestinal inferior. Su presión arterial inicial en emergencias es de 80/60 mm Hg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con volumen, la presión arterial aumenta a 120/80 mm Hg. El aspirado nasogástrico es negativo para sangre. El siguiente paso en el manejo es:",
+  "opts": [
+   "Colonoscopía",
+   "Arteriografía mesentérica",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Proctoscopía",
+   "Laparotomía exploradora"
+  ],
+  "ans": 0,
+  "why": "En un sangrado digestivo bajo masivo que se estabiliza con reanimación, tras descartar fuente alta con aspirado nasogástrico, se hace colonoscopía apenas esté preparada. La arteriografía o el gammagrama se usan si continúa sangrando; la laparotomía si no se estabiliza o no se localiza la fuente. La proctoscopía solo sirve para descartar hemorroides.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 166 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (Proctoscopía, resaltado). El libro de Virgilio responde A (colonoscopía) a esta misma pregunta; la proctoscopía solo descarta hemorroides como causa."
+ },
+ {
+  "k": "1607badd51",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años se presenta con dolor abdominal difuso leve y diarrea guayaco-positiva. Sus antecedentes médicos son negativos. El recuento de leucocitos y el hematocrito son normales. Una TC muestra engrosamiento leve de la pared del colon en el ángulo esplénico con estriación de la grasa pericólica asociada. El manejo consiste en:",
+  "opts": [
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Antibióticos IV e hidratación",
+   "Colonoscopía",
+   "Angiografía mesentérica"
+  ],
+  "ans": 2,
+  "why": "El engrosamiento de la pared en el ángulo esplénico con estriación pericólica en una paciente anciana con leucocitos y hematocrito normales es una colitis isquémica leve (zona de cuenca en el ángulo esplénico). Casi siempre se trata con reposo intestinal, hidratación y antibióticos de amplio espectro. La angiografía no suele ayudar, la colonoscopía no es necesaria en la fase aguda y la cirugía se reserva para peritonitis o necrosis.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 156 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). Es la pregunta 12 del libro, con respuesta C."
+ },
+ {
+  "k": "9cfa5dfe8b",
+  "estado": "confirmada",
+  "stem": "Un paciente de 35 años con antecedentes de colitis ulcerosa se somete a anastomosis ileoanal con reconstrucción en bolsa en J. Cuatro meses después, presenta dolor abdominal de 3 días, diarrea, hematoquecia y fiebre. Todo lo siguiente es verdadero sobre esta condición, EXCEPTO:",
+  "opts": [
+   "Debe realizarse una endoscopía con biopsia.",
+   "Podría tratarse de una enfermedad de Crohn no diagnosticada.",
+   "El uso de probióticos es útil.",
+   "La excisión urgente de la bolsa en J suele ser necesaria.",
+   "Metronidazol y ciprofloxacina son útiles para el tratamiento."
+  ],
+  "ans": 3,
+  "why": "Es una pouchitis: se diagnostica con endoscopía y biopsia (que descarta Crohn no diagnosticado), mejora con probióticos en casos crónicos y responde a ciprofloxacino o metronidazol. La escisión de la bolsa es rara y no se hace de forma urgente, por eso la opción D es la falsa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado)."
+ },
+ {
+  "k": "1face4fc3c",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes son características más consistentes con colitis de Crohn que con colitis ulcerosa, EXCEPTO:",
+  "opts": [
+   "Envoltura grasa serosa",
+   "Enfermedad segmentaria",
+   "Enfermedad perianal",
+   "Abscesos crípticos",
+   "Granulomas"
+  ],
+  "ans": 3,
+  "why": "Los abscesos crípticos son característicos de la colitis ulcerosa. La envoltura grasa, la enfermedad segmentaria, la enfermedad perianal y los granulomas no caseificantes son propios de Crohn.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 163 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 135 del PDF",
+   "Sabiston 21.ª ed., p. 1289 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). Es el tipo EXCEPTO: las otras cuatro opciones están respaldadas por los libros."
+ },
+ {
+  "k": "88e9eb1a95",
+  "estado": "dudosa",
+  "stem": "Una mujer de 69 años presenta distensión abdominal, fiebre de hasta 39.4 °C (103 °F), dolor abdominal difuso leve a moderado y diarrea de 2 días de evolución. Se encuentra en tratamiento con trimetoprima/sulfametoxazol oral por pielonefritis. La radiografía simple muestra dilatación colónica de hasta 7 cm sin evidencia de obstrucción. Todo lo siguiente es verdadero sobre esta condición, EXCEPTO:",
+  "opts": [
+   "El tratamiento de elección es metronidazol oral",
+   "La bacteria produce dos exotoxinas",
+   "Se debe suspender el Bactrim y administrar cefalosporina IV para tratar la pielonefritis",
+   "La sigmoidoscopía es útil para establecer el diagnóstico",
+   "Esta condición puede desarrollarse tras una sola dosis previa de antibiótico"
+  ],
+  "ans": null,
+  "why": "Es una infección por C. difficile con dilatación colónica. El libro respalda que produce toxinas A y B (B), que la sigmoidoscopía flexible ayuda al diagnóstico (D) y que aparece incluso tras una sola dosis de antibiótico (E). Pero dos opciones son falsas según los libros actuales: A (el metronidazol oral ya no es de elección; la guía 2021 prefiere fidaxomicina o vancomicina oral, y metronidazol solo si no hay otras) y C (se debe suspender el antibiótico, pero las cefalosporinas son factor de riesgo de ICD). Con dos opciones falsas, la pregunta EXCEPTO no tiene una única respuesta.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF",
+   "Sabiston 21.ª ed., p. 1379 del PDF",
+   "Sabiston 21.ª ed., p. 1380 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). La pregunta es antigua: cuando metronidazol era de elección, solo C era falsa. Con las guías actuales (de Virgilio 3.ª ed. y Sabiston 21.ª ed.) A y C son ambas falsas, así que se deja dudosa."
+ },
+ {
+  "k": "f8eb99f120",
+  "estado": "confirmada",
+  "stem": "Una mujer de 38 años presenta náuseas, vómitos, distensión abdominal y obstipación de un día de evolución. No tiene antecedentes médicos ni quirúrgicos. El examen físico revela masa timpánica en cuadrante superior izquierdo, distensión leve y dolor leve. Recuento leucocitario normal. Radiografía abdominal: asa intestinal dilatada en forma de riñón, con haustras visibles, proyectada del cuadrante inferior derecho al superior izquierdo. ¿Cuál afirmación es verdadera?",
+  "opts": [
+   "La cecostomía es el tratamiento quirúrgico de elección",
+   "Se indica detorsión quirúrgica con cecopexia",
+   "Requiere hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Está indicada la detorsión endoscópica seguida de hemicolectomía derecha",
+   "Lo más probable es que requiera hemicolectomía derecha con anastomosis primaria"
+  ],
+  "ans": 4,
+  "why": "Es un vólvulo cecal (asa en riñón con haustras del cuadrante inferior derecho al superior izquierdo, sin isquemia). El cecal no se trata bien con endoscopía, y el tratamiento de elección es la colectomía derecha con anastomosis primaria, factible aun sin preparación. La cecopexia tiene alta recurrencia, la cecostomía no es apropiada en un paciente joven y la hemicolectomía con ileostomía y fístula mucosa se reserva para colon gangrenoso.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: E (resaltado). Las opciones C y E venían cortadas en el texto; se repararon con la imagen del original."
+ },
+ {
+  "k": "bd9f08dd2c",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes afirmaciones sobre la enfermedad diverticular del colon son verdaderas, EXCEPTO:",
+  "opts": [
+   "Ocurre con mayor frecuencia en el colon sigmoide",
+   "El recto está respetado",
+   "Son divertículos por pulsión",
+   "Son divertículos verdaderos",
+   "Se asocian a una dieta baja en fibra"
+  ],
+  "ans": 3,
+  "why": "Los divertículos del colon son falsos (solo mucosa y submucosa), de pulsión, ocurren sobre todo en el sigmoides, respetan el recto porque las tenias se abren allí, y se asocian a una dieta baja en fibra. Por eso la afirmación 'son divertículos verdaderos' es la falsa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 165 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). Se reparó la opción A con la imagen del original ('colon sigmoide'). La asociación con dieta baja en fibra está en el libro (p. 164)."
+ },
+ {
+  "k": "479d85cecd",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la colitis ulcerosa (CU) y el cáncer de colon?",
+  "opts": [
+   "El riesgo de cáncer de colon no se relaciona con la extensión de la inflamación.",
+   "La malignidad típicamente se desarrolla en un pólipo.",
+   "Los niveles de antígeno carcinoembrionario (CEA) son útiles para determinar cuándo hacer una colonoscopía.",
+   "El riesgo de cáncer de colon está relacionado con la duración de la enfermedad.",
+   "Las biopsias aleatorias no son efectivas."
+  ],
+  "ans": 3,
+  "why": "El riesgo de cáncer de colon en la colitis ulcerosa aumenta con el tiempo (aprox. 10% a los 20 años), por eso se vigila con colonoscopía anual desde los 8 años. El cáncer se desarrolla sin pólipos (B falsa) y se recomiendan biopsias aleatorias (E falsa).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 162 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). INDIRECTA para A y C: el libro no menciona la extensión de la inflamación ni el CEA; D es la única opción apoyada con cita directa."
+ },
+ {
+  "k": "350779175a",
+  "estado": "dudosa",
+  "stem": "Un hombre de 65 años presenta dolor en el cuadrante inferior izquierdo, náuseas y fiebre baja desde hace 2 días. Al examen, temperatura de 38.1 °C y leucocitosis de 14,000/μL. Tiene dolor localizado sin rebote. ¿Cuál es el siguiente paso más indicado?",
+  "opts": [
+   "Descompresión con sonda nasogástrica",
+   "Antibióticos intravenosos",
+   "Sigmoidoscopía flexible",
+   "Enema con bario",
+   "Enema con Gastrografin"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente trata este caso. (El revisor había propuesto la opción B.) Es una diverticulitis aguda probablemente no complicada, pero con fiebre y leucocitosis. El libro solo permite omitir antibióticos en casos leves sin signos sistémicos, así que aquí se indican antibióticos IV. La sigmoidoscopía, el enema con bario o con Gastrografin no son el primer paso en la fase aguda y la sonda nasogástrica no es necesaria sin obstrucción.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente cita textualmente estas opciones; se deduce del criterio de de Virgilio (sin antibióticos solo si no hay signos sistémicos) y de Sabiston (antibióticos como base del tratamiento, aunque su beneficio está discutido). Sabiston recomienda colonoscopía a las 4-8 semanas, no en la fase aguda. Clave original: B (resaltado). El enunciado no menciona la TC."
+ },
+ {
+  "k": "58bb30f323",
+  "estado": "dudosa",
+  "stem": "Una mujer de 40 años con pancolitis por enfermedad de Crohn de 10 años de evolución se somete a colonoscopía. La biopsia del colon sigmoide revela displasia severa. El tratamiento debe ser:",
+  "opts": [
+   "Proctocolectomía restauradora con reconstrucción ileoanal en bolsa",
+   "Proctocolectomía total con ileostomía",
+   "Colectomía sigmoidea",
+   "Repetir colonoscopía con biopsias en 3 meses",
+   "Curso de esteroides orales"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que si hay displasia en el colon por Crohn se prefiere la proctocolectomía total a la resección segmentaria, porque la displasia es multifocal. De Virgilio dice que la bolsa ileal con anastomosis ileoanal está contraindicada en Crohn. Pero Sabiston también considera la proctocolectomía con reservorio una opción posible en pacientes motivados sin enfermedad perianal, así que A no queda descartada con certeza. Ninguna fuente decide entre A y B para este caso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1375 del PDF",
+   "Sabiston 21.ª ed., p. 1379 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 141 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (proctocolectomía total con ileostomía, resaltado). La opción A venía cortada en el texto; se reparó con la imagen del original. Los libros se contradicen en la bolsa para Crohn, por eso se deja dudosa."
+ }
+]

@@ -1,0 +1,296 @@
+[
+ {
+  "k": "6ff47cd635",
+  "estado": "corregida",
+  "stem": "Cuál es el tratamiento más eficaz en pacientes con enfermedad hemorroidal interna de grado I y II que permanecen sintomáticos a pesar del tratamiento médico?",
+  "opts": [
+   "Coagulación infrarroja",
+   "Escleroterapia",
+   "Ligadura con goma elástica",
+   "Hemorroidectomía"
+  ],
+  "ans": 2,
+  "why": "Sabiston dice que a la mayoría de los pacientes con hemorroides internas de grado I y II que siguen sintomáticos a pesar del tratamiento médico se les ofrece una técnica de consultorio, y que la ligadura con goma elástica es con frecuencia la opción más eficaz, superior a la escleroterapia y a la coagulación infrarroja. La hemorroidectomía se reserva para grados III-IV sintomáticos o para quienes no mejoraron o no son tributarios de técnicas de consultorio. Por eso, en grado I-II, la ligadura es la respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1428 del PDF",
+   "Sabiston 21.ª ed., p. 1429 del PDF"
+  ],
+  "nota": "Clave original: D (hemorroidectomía, resaltado). El texto de la batería omitía 'de grado I y II', que sí aparece en la foto original; con ese dato la pregunta calca la frase de Sabiston y la clave pasa a C. Sabiston también llama a la hemorroidectomía 'método muy eficaz', pero para pacientes que no mejoraron o con grados III-IV.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "f701e0f23e",
+  "estado": "nueva",
+  "stem": "Respecto al conducto anal NO es cierto: (2 ptos)",
+  "opts": [
+   "Se extiende 4 cm desde el anillo anorrectal hasta la piel vellosa de los márgenes anales.",
+   "El músculo par elevador del ano configura la mayor parte del suelo pélvico.",
+   "El esfínter interno es inervado por un ramo rectal inferior del nervio pudendo interno.",
+   "El esfínter externo se halla sujeto a control voluntario."
+  ],
+  "ans": 2,
+  "why": "Sabiston: el esfínter interno está inervado por nervios simpáticos (L5) y parasimpáticos (S2-S4); la rama rectal inferior del nervio pudendo inerva el esfínter externo. Por eso C es la falsa. El conducto anal quirúrgico mide unos 4 cm (A, cierto en lo esencial), el elevador del ano forma el suelo pélvico (B) y el esfínter externo es voluntario (D).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF",
+   "Sabiston 21.ª ed., p. 1427 del PDF",
+   "Sabiston 21.ª ed., p. 1353 del PDF"
+  ],
+  "nota": "En el original la opción D dice 'extremo' (error de tipeo por 'externo'); aquí se escribe 'externo'. En la foto original la palabra NO aparece resaltada, pero no es una clave de opción. Sabiston define el conducto anal como el que va del borde anal al anillo anorrectal (4 cm); la opción A dice 'piel vellosa', imprecisión que no cambia la respuesta porque C es claramente falsa.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "b3e4233870",
+  "estado": "dudosa",
+  "stem": "Dada las siguientes premisas indique si es V o F: (1 pto por premisa)(4 ptos) ( ) Fisura anal es úlcera lineal habitualmente en línea media de comisura anterior del ano. ( ) Se ignora la causa exacta de las fisuras anales. ( ) La fístula puede presentarse como un absceso agudo. ( ) En TTO Qx de prolapso el abordaje perineal tiene menor tasas de recidivas.",
+  "opts": [
+   "Verdadero",
+   "Falso"
+  ],
+  "ans": null,
+  "why": "Es una pregunta de cuatro premisas V/F sin opciones de selección única, y una premisa no se puede decidir con las fuentes. Premisa 1: Sabiston dice que la fisura es más habitual en la línea media posterior (75%) y que la anterior es otro sitio frecuente, más en mujeres; 'habitualmente anterior' es falsa. Premisa 3: Sabiston describe que la mayoría de los abscesos perianales dejan fístula tras el drenaje; la fístula como cuadro de absceso agudo es coherente con eso, pero no se dice en esas palabras. Premisa 4: Sabiston indica que el abordaje perineal se asocia con mayor tasa de recidiva (aunque estudios recientes no hallan diferencia significativa), así que 'menor tasa de recidiva' es falsa. Premisa 2 (causa exacta de la fisura): ninguna fuente consultada lo afirma.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "Sabiston 21.ª ed., p. 1432 del PDF",
+   "Sabiston 21.ª ed., p. 1418 del PDF"
+  ],
+  "nota": "Pregunta de formato V/F sin opciones: no se puede marcar una sola clave. La parte 3 del mismo ítem ('El tratamiento quirúrgico está indicado en, excepto') se separó en 'dividir'.",
+  "tema": "anorrectal",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "El tratamiento quirúrgico está indicado en, excepto: (2ptos)",
+    "opts": [
+     "Hemorroides Internas Grado IV",
+     "Fracaso de tratamiento conservador.",
+     "Hemorroides internas Grado III",
+     "Hemorroides internas de Grado II"
+    ],
+    "ans": null,
+    "why": "Pasada a dudosa por el supervisor: pregunta EXCEPTO resuelta por deducción, sin cita directa para cada opción. (El revisor había propuesto la opción D.) Sabiston: la hemorroidectomía se ofrece a pacientes sintomáticos con hemorroides internas y externas combinadas con prolapso (grados III-IV) y a quienes no mejoraron con otros tratamientos. Los grados I y II (y algunos III) que siguen sintomáticos se manejan primero con técnicas de consultorio (ligadura, escleroterapia, coagulación infrarroja). Por eso la excepción es el grado II.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1428 del PDF",
+     "Sabiston 21.ª ed., p. 1429 del PDF"
+    ],
+    "nota": "INDIRECTA: Sabiston no escribe 'la cirugía no está indicada en grado II'; lo deduce el contraste entre técnicas de consultorio para grado I-II y hemorroidectomía para grado III-IV y fracasos.",
+    "tema": "anorrectal"
+   }
+  ]
+ },
+ {
+  "k": "64f9d655be",
+  "estado": "nueva",
+  "stem": "Mujer de 43 años presenta sangrado rojo brillante, indoloro, sensación de prolapso asociado con la defecación. ¿El probable diagnóstico será? ( 2 ptos)",
+  "opts": [
+   "Hemorroides externas",
+   "Hemorroides internas",
+   "Fisura anal",
+   "Puede ser: a, b o c."
+  ],
+  "ans": 1,
+  "why": "Sabiston: la hemorragia indolora con las deposiciones, con o sin protrusión de tejido, es el síntoma más frecuente de las hemorroides internas sintomáticas. En cambio, la fisura anal produce dolor agudo con la defecación y las hemorroides externas trombosadas producen dolor anal intenso. Por eso no sirven A, C ni 'a, b o c'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1428 del PDF",
+   "Sabiston 21.ª ed., p. 1429 del PDF",
+   "Sabiston 21.ª ed., p. 1431 del PDF"
+  ],
+  "nota": "Texto reparado con la foto original (en el banco faltaban palabras: 'sensación de prolapso asociado con la defecación').",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "04a353f7c9",
+  "estado": "dudosa",
+  "stem": "En cuanto a localización de las fisuras anales, las que están relacionadas con malignidad son:",
+  "opts": [
+   "Anterior",
+   "Posterior",
+   "Lateral",
+   "a y b",
+   "NA"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el libro dice que las fisuras fuera de la línea media son atípicas, pero no dice 'lateral'; la clave se deduce. (El revisor había propuesto la opción C.) Sabiston: la fisura habitual está en la línea media posterior (75%) y la otra localización frecuente es la línea media anterior; las que están fuera de la línea media se consideran atípicas, y su diagnóstico diferencial incluye Crohn, cáncer anal, tuberculosis, VIH, sífilis, herpes y leucemia. Una fisura lateral es, por tanto, la que obliga a pensar en malignidad; anterior y posterior son las típicas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 178 del PDF"
+  ],
+  "nota": "INDIRECTA: la fuente no dice 'lateral' con esa palabra; dice 'fuera de la línea media = atípicas', con el cáncer anal entre sus causas. En el original la opción C está en negrita.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "b8430aae62",
+  "estado": "nueva",
+  "stem": "Del tratamiento quirúrgico de las fisuras anales:",
+  "opts": [
+   "Se realiza Esfinterotomía Externa Lateral.",
+   "Se realiza Esfinterotomía Interna Lateral.",
+   "Se realiza Esfinterotomía Interna Medial.",
+   "Se realiza Esfinterotomía Externa Medial.",
+   "NA."
+  ],
+  "ans": 1,
+  "why": "Sabiston describe la esfinterotomía lateral interna (ELI) como el procedimiento quirúrgico de la fisura: sección parcial del esfínter interno que reduce el tono y permite cicatrizar, con cicatrización del 88 al 100%, superior a nitratos, calcioantagonistas o toxina botulínica. No se secciona el esfínter externo ni se hace en la línea media.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1432 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF"
+  ],
+  "nota": "En el original la opción B está en negrita.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "aab58a47ec",
+  "estado": "nueva",
+  "stem": "Correspondiente a los abscesos anorrectales:",
+  "opts": [
+   "Se les llama abscesos criptoglandulares.",
+   "Los espacios interesfinterianos y supraelevador, son los más habituales.",
+   "Espacios perianal e isquiorectal, son los más habituales.",
+   "a y c.",
+   "todas."
+  ],
+  "ans": 3,
+  "why": "Sabiston: los abscesos perianales nacen de la infección de las glándulas anales y a menudo se llaman abscesos criptoglandulares (A cierta). Habitualmente se extienden al espacio perianal o a la fosa isquiorrectal, mientras que el supraelevador es una vía menos frecuente. ABSITE añade que perianal e isquiorrectal suman el 90%. Por eso B es falsa y la respuesta es 'a y c'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1432 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 171 del PDF"
+  ],
+  "nota": "En el original 'a y c' está en negrita.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "e6c8ecd211",
+  "estado": "dudosa",
+  "stem": "Objetivo primario del tratamiento quirúrgico de las fístulas anales consiste en:",
+  "opts": [
+   "Obliterar la abertura fistulosa interna.",
+   "Obliterar la abertura fistulosa externa",
+   "Preservar la función del esfínter anal.",
+   "a y c.",
+   "Todas."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el libro lista objetivos de la cirugía de fístula, pero no cuál es el 'primario'; la clave se deduce. (El revisor había propuesto la opción D.) Sabiston enumera los objetivos del tratamiento de la fístula anal: eliminar el foco séptico, extirpar los trayectos epitelizados, evitar o reducir al mínimo la incontinencia fecal y evitar la recidiva; y dice que lo ideal sería cerrar el orificio interno y los trayectos sin dividir esfínteres. Eso respalda cerrar la abertura interna (a) y preservar la función del esfínter (c); cerrar solo el orificio externo no cura la fístula y por eso no es objetivo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "nota": "INDIRECTA: Sabiston no usa la expresión 'objetivo primario'; la elección de 'a y c' se deduce de su lista de objetivos y de la frase sobre cerrar el orificio interno sin dividir esfínteres. En el original 'a y c' está en negrita.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "f0338f959b",
+  "estado": "dudosa",
+  "stem": "Etiología más frecuente de las fisuras anales:",
+  "opts": [
+   "Hemorroides Externas.",
+   "Hipertonía del esfínter interno.",
+   "Diarrea crónica.",
+   "a y c.",
+   "Todas."
+  ],
+  "ans": null,
+  "why": "Sabiston describe que la fisura se produce por un desgarro (heces duras, diarrea explosiva, coito anal, traumatismo), que a su vez causa espasmo del esfínter e isquemia relativa; ABSITE habla de isquemia relativa de la línea media posterior y alto estrés mecánico. Ninguna fuente consultada ordena las causas por frecuencia ni usa la palabra 'hipertonía', y la diarrea aparece entre los desencadenantes, así que no se puede afirmar cuál opción es 'la más frecuente'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 178 del PDF"
+  ],
+  "nota": "En el original la opción B está en negrita (clave probable del examen), pero ninguna fuente de la carpeta la respalda de forma directa.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "4f4ceb7505",
+  "estado": "dudosa",
+  "stem": "En relación a la Regla de Goodsall:",
+  "opts": [
+   "Una fístula anterior sigue un tracto radial a la abertura interna, típicamente en la línea media anterior.",
+   "Una fístula posterior sigue un camino curvilíneo hacia la abertura interna en la línea media posterior.",
+   "Una fístula posterior sigue un tracto radial a la abertura interna, típicamente en la línea media anterior.",
+   "a y b",
+   "Todas."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el libro no respalda una de las afirmaciones de la opción elegida (orificio interno en la línea media anterior). (El revisor había propuesto la opción D.) Sabiston: las fístulas con orificio externo anterior al ano siguen un trayecto radial directo al conducto anal (salvo las situadas a más de 3 cm del borde anal), y las de orificio externo posterior suelen seguir un trayecto curvilíneo hasta un orificio interno en la línea media posterior. Eso respalda A y B; C es falsa porque una fístula posterior no va en radio hacia la línea media anterior.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 174 del PDF"
+  ],
+  "nota": "INDIRECTA: Sabiston respalda el trayecto radial anterior y el curvilíneo posterior, pero no menciona que el orificio interno anterior esté 'típicamente en la línea media anterior'. Texto reparado con la foto original. En el original 'a y b' está en negrita.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ecfd81514a",
+  "estado": "dudosa",
+  "stem": "La descripción clásica de Parks, clasifica a las fístulas, en relación a:",
+  "opts": [
+   "Su relación con los paquetes hemorroidales.",
+   "Su trayectoria por los músculos esfinterianos.",
+   "A la ubicación por encima o por debajo de la línea dentada.",
+   "Todas.",
+   "NA."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el criterio de la clasificación de Parks se deduce de los nombres de los tipos; no hay cita directa. (El revisor había propuesto la opción B.) Sabiston clasifica la fístula anal según Parks en interesfinteriana, transesfinteriana, supraesfinteriana y extraesfinteriana, es decir, por cómo el trayecto cruza el aparato esfinteriano. ABSITE da los mismos tipos. No es por paquetes hemorroidales ni por la línea dentada.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1433 del PDF",
+   "Sabiston 21.ª ed., p. 1434 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 171 del PDF"
+  ],
+  "nota": "INDIRECTA: la fuente nombra los tipos de Parks, pero no escribe la frase 'según su trayectoria por los músculos esfinterianos'; se deduce de los nombres. Opciones reparadas con la foto original (en el banco solo había 2 y cortadas). En el original la opción B está en negrita.",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "0e21971e2b",
+  "estado": "dudosa",
+  "stem": "Cuando un paciente tiene el cuadro agudo de diverticulitis, la colonoscopia se debería realizar aproximadamente a …………….un de la resolución de los síntomas y antes de la cirugía para descartar otros diagnósticos.",
+  "opts": [
+   "7 días",
+   "4- 6 semanas",
+   "Salir",
+   "los 4 meses"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: ninguna fuente dice '4-6 semanas': Sabiston da 4-8 y ABSITE 6-8; la clave se deduce por estar dentro del rango. (El revisor había propuesto la opción B.) Sabiston recomienda colonoscopia tras la recuperación, a las 4 a 8 semanas, para descartar neoplasia que simule una diverticulitis (1-3%). ABSITE cita a la ASCRS: 6 a 8 semanas tras resolver los síntomas. De las opciones, 4-6 semanas es la que cae dentro de ese intervalo; 7 días es muy pronto (inflamación aguda) y 4 meses queda fuera del rango.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1363 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 161 del PDF"
+  ],
+  "nota": "INDIRECTA: ninguna fuente dice exactamente '4-6 semanas' (Sabiston 4-8, ASCRS 6-8); se confirma porque es la única opción compatible con ese rango. La opción C 'Salir' es basura del original, se conserva tal cual.",
+  "tema": "colon"
+ },
+ {
+  "k": "460013c2cd",
+  "estado": "dudosa",
+  "stem": "La detorsión colonoscópica del vólvulo de sigmoides es un procedimiento simple, mini-invasivo asociado con:",
+  "opts": [
+   "Tasa de éxito de 70 al 95% y 4% de morbilidad.",
+   "Tasa de éxito de 50 al 70% y 4% de morbilidad.",
+   "Tasa de éxito de 30 al 50% y 4% de mortalidad.",
+   "Tasa de éxito del 100% y 0% de morbilidad"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la opción incluye una morbilidad del 4% que ninguna fuente respalda. (El revisor había propuesto la opción A.) Sabiston dice que en el vólvulo sigmoideo la descompresión endoscópica a menudo tiene éxito. Un metaanálisis de 2026 (19 estudios) da una tasa de éxito técnico combinada del 80% (IC 95% 75-83%), compatible con el rango de 70-95% y no con 50-70%, 30-50% ni 100%. No hay detorsión sin riesgo (recidiva alta), por lo que 100% y 0% de morbilidad es incorrecto.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1365 del PDF",
+   "Safety and Efficacy of Endoscopic Derotation in Colonic Volvulus Occlusion: Systematic Review and Meta-Analysis, 2026, PMID 41682876 (Europe PMC)"
+  ],
+  "nota": "INDIRECTA: ninguna fuente consultada confirma la cifra de '4% de morbilidad'; se confirma A porque el éxito combinado del 80% solo es compatible con el rango 70-95%. Texto reparado con la foto original.",
+  "tema": "colon"
+ },
+ {
+  "k": "1e7ea4bd97",
+  "estado": "confirmada",
+  "stem": "Sobre el dolor abdominal típico en apendicitis aguda en niños, la razón por la cual es pre umbilical inicialmente y luego se localiza el cuadrante inferior derecho:",
+  "opts": [
+   "Inicialmente es de origen nervioso aferente somático y luego visceral",
+   "Inicialmente es de origen nervioso aferente visceral y luego somático",
+   "Inicialmente es de origen nervioso aferente simpático y luego parasimpático",
+   "Inicialmente es de origen nervioso aferente parasimpático y luego simpático"
+  ],
+  "ans": 1,
+  "why": "Sabiston: la distensión del apéndice causa el dolor difuso inicial (visceral), y el dolor se localiza en el cuadrante inferior derecho cuando la punta apendicular inflamada irrita el peritoneo parietal adyacente (somático). Otro capítulo lo resume como dolor visceral periumbilical vago seguido de dolor somatoparietal localizado. Por eso el orden es visceral y luego somático; las opciones simpático/parasimpático no describen esta secuencia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1326 del PDF",
+   "Sabiston 21.ª ed., p. 1112 del PDF"
+  ],
+  "tema": "apendicitis"
+ }
+]

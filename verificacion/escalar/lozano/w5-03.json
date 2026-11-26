@@ -1,0 +1,270 @@
+[
+ {
+  "k": "3c981c9ec4",
+  "sec": "Esofago",
+  "stem": "La manometría esofágica realizada en un paciente con una verdadera hernia paraesofágica mostrará que el EEI está:",
+  "opts": [
+   "Por encima de la posición normal",
+   "En la posición normal",
+   "Hipertensivo",
+   "Hipotensivo",
+   "Corto"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 117,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c94771a7ec",
+  "sec": "Estómago",
+  "stem": "Varón de 60 años, hepatitis C, hematemesis, PA 80/60, FC 110. ¿Qué hacer antes de endoscopia?",
+  "opts": [
+   "Propranolol",
+   "Octreótido IV",
+   "Sonda de Sengstaken-Blakemore",
+   "Tiempo de protrombina"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 118,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "f3f6a15d60",
+  "sec": "Estómago",
+  "stem": "Manejo inicial de hemorragia por várices esofágicas:",
+  "opts": [
+   "Propanolol",
+   "Octreótido intravenoso",
+   "Sonda de Sengstaken-Blakemore",
+   "Tiempo de protrombina",
+   "Ninguna de las anteriores"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 118,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "8134ca2a65",
+  "sec": "Estómago",
+  "stem": "Un paciente de 85 años con hemorragia rectal fresca ingresa en estado de shock. Tras la reanimación con líquidos y hemoderivados, el examen rectal no identifica una fuente clara de sangrado. ¿Cuál es el siguiente paso en el tratamiento?",
+  "opts": [
+   "Gammagrafía con glóbulos rojos marcados",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Laparotomía",
+   "Angiografía mesentérica",
+   "Colonoscopia"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 118,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "851267f455",
+  "sec": "Estómago",
+  "stem": "¿Cuál es una derivación selectiva para prevenir sangrado por várices esofágicas?",
+  "opts": [
+   "Shunt mesentérico-cava",
+   "TIPSS",
+   "Derivación espleno-renal distal (shunt warren)",
+   "Shunt portacava T–L",
+   "Derivación espleno-renal proximal"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 118,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "775d7335d5",
+  "sec": "Estómago",
+  "stem": "Un hombre de 60 años se presenta con dolor epigástrico punzante que ha estado presente durante 8 semanas. El dolor parece empeorar con la comida. Niega náuseas, vómitos o saciedad temprana. Ha perdido 10 libras y atribuye esto a una mala apetencia. Niega heces negras o con sangre. El examen físico es normal. ¿Cuál es el siguiente estudio que se debe ordenar?",
+  "opts": [
+   "Trago de bario",
+   "Tomografía computarizada",
+   "Endoscopía digestiva alta (EGD)",
+   "Prueba de inhibidor de bomba de protones por 6 semanas",
+   "Prueba para H. pylori"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 118,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "ae2eba2146",
+  "sec": "Estómago",
+  "stem": "Una mujer de 65 años se presenta con tres episodios de hematemesis en posos de café. Ha tenido dolor abdominal superior vago durante los últimos 2 meses, que mejora con antiácidos. Además, reporta una pérdida de peso involuntaria de 10 libras. Niega uso de AINEs o alcohol. Al examen físico, la TA es de 110/70 mmHg y la FC es de 80/min. El abdomen revela leve dolor epigástrico sin rebote ni defensa. Laboratorio: Hgb 8.3 g/dL, Hto 24%, VCM 80 fL, bilirrubina total 3.0 mg/dL, fosfatasa alcalina 250 IU/L, GGT 270 IU/L, ALT 300 IU/L, AST 320 IU/L. El diagnóstico más probable es:",
+  "opts": [
+   "Úlcera duodenal",
+   "Úlcera gástrica",
+   "Cáncer pancreático",
+   "Cáncer ampular",
+   "Lesión de Dieulafoy"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 118,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "7c96facf25",
+  "sec": "Estómago",
+  "stem": "Una mujer de 50 años se presenta con hemorragia digestiva alta masiva. En urgencias, vomita activamente grandes cantidades de sangre roja brillante. Está letárgica y pálida. TA 70/50 mmHg, FC 120/min, FR 22/min. El siguiente paso en el manejo es:",
+  "opts": [
+   "Endoscopía alta de urgencia",
+   "Intubación orotraqueal inmediata",
+   "Colocar al paciente en posición de",
+   "Administrar bolos de 2 litros de solución",
+   "Administrar dos unidades de sangre"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "628472dfb6",
+  "sec": "Estómago",
+  "stem": "Un hombre de 48 años se presenta con hematemesis. Refiere un mes de dolor epigástrico que mejora al comer. Niega pérdida de peso. No toma medicamentos ni consume alcohol. Está hemodinámicamente estable. Tras la reanimación, se realiza una endoscopía alta que revela una úlcera posterior en el duodeno proximal con sangrado activo. A pesar de múltiples intentos de cauterización e inyección con epinefrina, el sangrado no se detiene y la presión arterial cae a 70/50 mmHg. El siguiente paso es:",
+  "opts": [
+   "Embolización angiográfica",
+   "Traslado a UCI para transfusión continua",
+   "Administrar vasopresina",
+   "Laparotomía exploradora",
+   "Administrar octreótido"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "600a8c1ba5",
+  "sec": "Estómago",
+  "stem": "Un hombre de 45 años con antecedentes de alcoholismo se presenta con sangrado digestivo alto tras una noche de consumo excesivo. Refiere múltiples arcadas secas seguidas de hematemesis. Afebril, signos vitales normales. La endoscopía revela un desgarro parcial de la mucosa y submucosa cerca de la unión gastroesofágica. ¿Cuál de las siguientes es verdadera sobre esta condición?",
+  "opts": [
+   "Suele estar relacionada con hipertensión portal",
+   "Se asocia frecuentemente con derrame",
+   "Se asocia con infección por H. pylori",
+   "El sangrado suele provenir de la arteria",
+   "El sangrado suele detenerse"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "b468d19915",
+  "sec": "Estómago",
+  "stem": "Un hombre de 65 años se presenta con melena. Niega dolor abdominal o vómitos. No tiene antecedentes similares. FC 120/min, TA 112/80 mmHg. Hb 9.2 g/dL, Hto 28%. Tiene antecedente de bypass aortobifemoral 5 años atrás. Aspirado de sonda nasogástrica: líquido claro. Se interna en UCI, cesa la melena y se estabiliza el hematocrito. EGD negativa. Colonoscopía tras preparación intestinal también es negativa. TC abdominal muestra gas alrededor del injerto aórtico proximal. ¿Cuál afirmación es correcta?",
+  "opts": [
+   "La angiografía formal probablemente demuestre el foco de sangrado",
+   "El gas alrededor del injerto aórtico no es patológico",
+   "El injerto aórtico probablemente requerirá",
+   "El resangrado es raro",
+   "Esto representa un sangrado oculto"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "9699a67c0c",
+  "sec": "Estómago",
+  "stem": "¿Cuál es la causa más común de perforación esofágica?",
+  "opts": [
+   "Síndrome de Boerhaave (perforación espontánea)",
+   "Iatrogénica",
+   "Cuerpo extraño",
+   "Cáncer esofágico",
+   "Trauma"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "e627dd6901",
+  "sec": "Estómago",
+  "stem": "¿Cuál de las siguientes es verdadera sobre el síndrome de Boerhaave?",
+  "opts": [
+   "Se presenta con mayor frecuencia como hemorragia digestiva alta",
+   "Es causado más frecuentemente por una lesión iatrogénica",
+   "Es un desgarro de espesor parcial del",
+   "Es la perforación gastrointestinal más letal",
+   "El tratamiento consiste en reposo intestinal y antibióticos IV"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "20b9e58ac0",
+  "sec": "Estómago",
+  "stem": "¿Cuál es el primer paso en el tratamiento del síndrome de Boerhaave?",
+  "opts": [
+   "Esofagectomía",
+   "Descompresión gástrica",
+   "Drenaje de mediastino y pleura",
+   "Reparación primaria con colgajo de avance",
+   "Resucitación con líquidos y antibióticos IV"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 119,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "9dcda49b02",
+  "sec": "Estómago",
+  "stem": "Un hombre septuagenario que recibe cuidados paliativos en un centro de atención prolongada comienza a desarrollar neumonías recurrentes. Se realiza un trago de bario y se observa una evidente evaginación dentro del cuello izquierdo, entre los niveles de la faringe y el esófago. ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Divertículo de Meckel",
+   "Divertículo medio esofágico por tracción",
+   "Divertículo verdadero",
+   "Divertículo de Zenker"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ }
+]

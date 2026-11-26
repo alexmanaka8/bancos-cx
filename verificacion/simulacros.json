@@ -764,5 +764,256 @@
   ],
   "tema": "abdomen-agudo",
   "nota": "Clave vacía. Respaldo indirecto: se basa en la anatomía de irrigación, no en un texto de isquemia aguda. Clínicamente, una embolia suele respetar el yeyuno proximal (ABSITE p. 283), lo que no cambia la opción elegida."
+ },
+ "e440cf0110": {
+  "k": "e440cf0110",
+  "estado": "nueva",
+  "tema": "apendicitis",
+  "stem": "Paciente varón de 30 años, ingresa a emergencia con dolor abdominal de un día de evolución con migración a FID, asociada a hiporexia, náuseas, vómitos y fiebre. Se realizó ecografía abdominal que concluye signos sugestivos de apendicitis aguda no complicada. ¿Cuál sería la incisión de pared abdominal de elección para la realización de la apendicectomía abierta?",
+  "opts": [
+   "Laparotomía mediana infraumbilical",
+   "Incisión de Rockey Davis",
+   "Incisión Kocher",
+   "Incisión Pfannenstiel",
+   "NA"
+  ],
+  "ans": 1,
+  "why": "Para la apendicectomía abierta, Sabiston indica que la incisión depende de la preferencia del cirujano y menciona la oblicua con separación muscular (McArthur-McBurney), la transversal (Rockey-Davis) o la de la línea media conservadora. Giménez ilustra para la vía abierta las incisiones de McBurney y de Rockey-Davis en fosa ilíaca derecha. De las opciones, solo Rockey-Davis es una incisión de apendicectomía abierta. La laparotomía mediana infraumbilical no es la elección en apendicitis no complicada y Kocher y Pfannenstiel no se citan como incisiones de apendicectomía en estas fuentes.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1330 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 690 del PDF"
+  ],
+  "nota": "Sin clave original. Las fuentes citan Rockey-Davis como una de las incisiones válidas; que las demás no se usen en apendicectomía abierta no está dicho literalmente en las fuentes leídas, pero Kocher y Pfannenstiel no figuran como opción."
+ },
+ "8b0e178896": {
+  "k": "8b0e178896",
+  "estado": "nueva",
+  "tema": "apendicitis",
+  "stem": "Es correcto, respecto a la apendicitis aguda en el paciente geriátrico:",
+  "opts": [
+   "Se encuentra la presentación clásica en aproximadamente 50% de los pacientes",
+   "Representa 15 a 25% de los casos de abdomen agudo",
+   "Cuadro clínico inespecífico que retrasa el diagnóstico de 48 a 72 horas",
+   "Sólo el 0.5 a 1% de los casos se presentan en la senectud"
+  ],
+  "ans": 2,
+  "why": "Sabiston: en ancianos la naturaleza indolente e inespecífica de los síntomas suele provocar retrasos de 48 a 72 h antes de que busquen atención médica, y además hay demora diagnóstica en el hospital. Las otras no coinciden: la presentación clásica aparece en menos del 20% de los ancianos (no 50%), la apendicitis supone el 2,5-5% de los cuadros de abdomen agudo en mayores de 60-70 años (no 15-25%) y el 5-10% de los casos se presentan en la senectud (no 0,5-1%).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 328 del PDF"
+  ],
+  "nota": "Sin clave original. El texto extraído venía mezclado con la pregunta 9 (fístula); se separó con la imagen del original. Las opciones de la pregunta 8 se tomaron del original (el registro traía las de la pregunta 9).",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "tema": "complicaciones",
+    "stem": "Paciente varón postoperado de hemicolectomía izquierda por vólvulo del sigmoides, con fístula secundaria a anastomosis término-terminal. Dentro de los factores que impiden el cierre espontáneo de la fístula, señale la alternativa INCORRECTA:",
+    "opts": [
+     "Obstrucción intestinal distal al trayecto fistuloso",
+     "Secundaria a enfermedad inflamatoria intestinal",
+     "Obstrucción intestinal proximal al trayecto fistuloso",
+     "Trayecto corto fistuloso menor de 2cm",
+     "Ninguna de las anteriores"
+    ],
+    "ans": null,
+    "why": "Pasada a dudosa por el supervisor: pregunta INCORRECTO resuelta por deducción: el libro no dice que la obstrucción proximal no impida el cierre de la fístula. (El revisor había propuesto la opción C.) Sabiston enumera como factores que impiden el cierre espontáneo de las fístulas: cuerpo extraño, enteritis por radiación, enfermedad inflamatoria intestinal, infección, epitelización del trayecto, neoplasia y obstrucción distal. En su tabla de pronóstico, la longitud < 2 cm y la obstrucción de la porción distal son desfavorables. La obstrucción proximal al trayecto no figura entre esos factores (lo que cuenta es la distal), por lo que es la alternativa incorrecta.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1315 del PDF",
+     "Sabiston 21.ª ed., p. 1316 del PDF"
+    ],
+    "nota": "INDIRECTA: Sabiston lista la obstrucción distal, la EII y el trayecto < 2 cm como factores desfavorables (a, b, d correctas), pero no dice textualmente que la obstrucción proximal no impida el cierre; se deduce de que no figura en la lista. Sin clave original."
+   }
+  ]
+ },
+ "405a564cf2": {
+  "k": "405a564cf2",
+  "estado": "dudosa",
+  "tema": "intestino",
+  "stem": "Mujer de 29 años que presenta dolor abdominal mesogástrico, continuo, de cinco días de evolución, sin antecedentes de importancia. Se realiza estudio de imagen mediante tomografía, en donde se observa engrosamiento de las paredes del íleon. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Apendicitis aguda",
+   "Ileítis isquémica",
+   "Enfermedad de Crohn",
+   "Invaginación ileocólica",
+   "TBC intestinal"
+  ],
+  "ans": null,
+  "why": "Los libros describen la enfermedad de Crohn con afectación del íleon terminal y la ileítis aguda con dolor en fosa ilíaca derecha (Sabiston), pero ninguna fuente leída establece que el engrosamiento ileal en una mujer joven con dolor mesogástrico de cinco días sea más probable por Crohn que por TBC intestinal u otras causas. Sin dato de imagen más específico (longitud, localización, ganglios, fístulas) la evidencia no decide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1288 del PDF",
+   "Sabiston 21.ª ed., p. 1292 del PDF"
+  ],
+  "nota": "Sin clave original. Posible clave esperada: Crohn (C), pero no hay fuente que respalde que sea el diagnóstico más probable para este cuadro; por eso queda dudosa."
+ },
+ "101c36f73a": {
+  "k": "101c36f73a",
+  "estado": "nueva",
+  "tema": "apendicitis",
+  "stem": "El signo de Klein se explica en el diagnóstico diferencial de la apendicitis aguda con la:",
+  "opts": [
+   "Apendicitis de localización pélvica.",
+   "Colecistitis aguda.",
+   "Apendicitis retrocecal",
+   "Linfadenitis mesentérica.",
+   "Obstrucción intestinal por bridas"
+  ],
+  "ans": 3,
+  "why": "El signo de Klein (1938) es el dolor que cambia de lado: al poner al paciente en decúbito lateral izquierdo, la zona dolorosa se desplaza hacia la izquierda, porque los ganglios mesentéricos inflamados se mueven con el mesenterio. Se describió para diferenciar la adenitis (linfadenitis) mesentérica inespecífica de la apendicitis aguda, en la que el dolor queda fijo en la fosa ilíaca derecha. No se usa para diferenciar la apendicitis pélvica o retrocecal, la colecistitis ni la obstrucción por bridas.",
+  "fuentes": [
+   "Abdominal Physical Signs and Medical Eponyms: Part III. Physical Examination of Palpation, 1926-1976. Clin Med Res 2019 (PMID 31308023; PMC6886893)",
+   "Sabiston 21.ª ed., p. 1326 del PDF"
+  ],
+  "nota": "Sin clave original. Texto de la opción A completado desde el original (venía cortado). Supervisor: misma pregunta que fotos 5a39705874, ya verificada con el texto completo de PMC6886893; se usa la misma clave (D)."
+ },
+ "2cfc07f5c7": {
+  "k": "2cfc07f5c7",
+  "estado": "nueva",
+  "tema": "colon",
+  "stem": "Mujer de 80 años que acude a urgencias con dolor abdominal de inicio en epigastrio e irradiado posteriormente a fosa iliaca izquierda. Se acompaña de fiebre de 37.5 °C. Se le realiza una tomografía abdominal objetivando inflamación en las paredes del sigma y absceso mesentérico de 2 cm. El tratamiento de elección es:",
+  "opts": [
+   "Hospitalización con dieta absoluta y tratamiento antibiótico de amplio espectro",
+   "Colostomía de descarga",
+   "Drenaje mediante cirugía laparoscópica",
+   "Cirugía urgente con sigmoidectomía y anastomosis colorrectal"
+  ],
+  "ans": 0,
+  "why": "Es una diverticulitis complicada con absceso pequeño (Hinchey II, 2 cm). Sabiston indica que los abscesos más pequeños a menudo pueden tratarse con éxito con antibióticos solos y que los grandes requieren drenaje; Giménez señala que los antibióticos son la primera línea y que solo los abscesos > 3 cm deben drenarse de forma percutánea. Con 2 cm no hay indicación de drenaje, colostomía ni cirugía urgente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 684 del PDF"
+  ],
+  "nota": "Sin clave original. El diagnóstico de diverticulitis se infiere del cuadro (sigma inflamado con absceso); las fuentes citadas dan el umbral de 3 cm y la conducta."
+ },
+ "29e12c2a69": {
+  "k": "29e12c2a69",
+  "estado": "dudosa",
+  "tema": "apendicitis",
+  "stem": "¿Cuál de los siguientes tipos de apendicitis agudas cursa más frecuentemente con signos de psoas positivo?",
+  "opts": [
+   "Apendicitis pélvica",
+   "Apendicitis mesoceliaca",
+   "Apendicitis retrocecal",
+   "Apendicitis medioinguinal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida: ningún libro nombra el tipo de apéndice que da el signo del psoas (igual que la pregunta repetida de pretest-2024, que también quedó dudosa). (El revisor había propuesto la opción C.) Sabiston define el signo del psoas como dolor por extensión de la cadera homolateral. Giménez asocia la apendicitis retrocecal con dolor al flexionar la cadera derecha por contacto del apéndice con el psoas, y describe la localización pélvica con síntomas urinarios o rectales. El apéndice retrocecal es el que queda en contacto con el psoas, no el pélvico, el mesoceliaco ni el medioinguinal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 688-689 del PDF"
+  ],
+  "nota": "INDIRECTA: la página de Giménez tiene el texto extraído muy dañado; se lee dolor al flexionar la cadera derecha en la apendicitis retrocecal pero la frase está incompleta. Sabiston define el signo del psoas sin nombrar el tipo de apéndice. Sin clave original. El registro mezclaba las preguntas 7, 8 y 9; se separaron con el original.",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "tema": "intestino",
+    "stem": "El tratamiento quirúrgico de elección de la compresión vascular del duodeno, conocida como síndrome de Wilkie, es:",
+    "opts": [
+     "La división del ligamento de Treitz",
+     "La duodenoyeyunostomía",
+     "El cambio de posición del duodeno",
+     "El bypass de la arteria mesentérica superior"
+    ],
+    "ans": null,
+    "why": "Pasada a dudosa por el supervisor: dos opciones defendibles: Sabiston lista también la desrotación de Strong, que se parece a la opción C. (El revisor había propuesto la opción B.) ABSITE: el tratamiento operatorio del síndrome de la AMS (Wilkie) es la duodenoyeyunostomía. Sabiston la lista primero entre las opciones quirúrgicas, junto con la gastroyeyunostomía y la desrotación duodenal de Strong, tras probar medidas conservadoras. La sección del ligamento de Treitz y el bypass de la AMS no se mencionan como tratamiento.",
+    "fuentes": [
+     "ABSITE de Virgilio 3.ª ed., p. 145 del PDF",
+     "Sabiston 21.ª ed., p. 1321 del PDF"
+    ],
+    "nota": "Sin clave original. Sabiston también cita la desrotación duodenal (técnica de Strong), que se parece a la opción C, pero ABSITE nombra solo la duodenoyeyunostomía como tratamiento operatorio."
+   },
+   {
+    "estado": "dudosa",
+    "tema": "apendicitis",
+    "stem": "Paciente varón de 80 años de edad, de escasos recursos, que acude a hospital MINSA de nivel II con dolor abdominal de moderada intensidad a predominio de fosa iliaca derecha. Presión arterial de 100/60 mmHg, pulso de 96x'. Antecedente de hipertensión arterial no controlada. Al examen McBurney positivo, sin evidencia de signos peritoneales. Laboratorio: Hm 12 500 sin desviación a la izquierda. El paciente es reevaluado a las 12 y 24 horas, y se presenta con las mismas características. ¿Qué acciones tomaría usted en esta situación?",
+    "opts": [
+     "Interconsulta a urología",
+     "Ingreso a quirófano por apendicitis",
+     "Reevaluación en 12 horas",
+     "Tomografía abdominopélvica TBC intestinal"
+    ],
+    "ans": null,
+    "why": "Pasada a dudosa por el supervisor: clave deducida: el libro recomienda la TC en ancianos pero no trata este caso, y la opción D del original trae un texto erróneo ('TBC intestinal'). (El revisor había propuesto la opción D.) En ancianos la apendicitis tiene presentación atípica (la clásica en menos del 20%) y un diagnóstico diferencial ampliado; Sabiston refiere que se ha recomendado la TC por ello. Tras 24 h de observación sin cambios, con signos dudosos, la TC aclara el diagnóstico antes de operar. La reevaluación ya se hizo dos veces, la urología no tiene base en el cuadro y operar sin confirmar no corresponde a un caso sin signos peritoneales.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 328 del PDF"
+    ],
+    "nota": "INDIRECTA: Sabiston recomienda la TC en ancianos con apendicitis por su presentación atípica, pero no describe este caso ni dice que sea la conducta tras 24 h de observación. El texto de la opción D, tal como está en el original, termina con 'TBC intestinal' (probable error de impresión); se conserva. Sin clave original."
+   }
+  ]
+ },
+ "ca47dda7ab": {
+  "k": "ca47dda7ab",
+  "estado": "nueva",
+  "tema": "anorrectal",
+  "stem": "Respecto a la fisura anal, señale la afirmación incorrecta:",
+  "opts": [
+   "Consiste en un desgarro longitudinal de la piel que recubre la porción del canal anal distal a la línea de entrada y origina un dolor intenso con la defecación",
+   "Tiene dos formas típicas: la primaria o idiopática aparecen en individuos sanos y no se asocia ningún tipo de enfermedad; la secundaria se detecta en pacientes que sufren otro proceso",
+   "La mayoría de fisuras primarias se localizan en la comisura anterior al ser una zona del canal anal más susceptible al traumatismo y a la isquemia de la mucosa",
+   "Las fisuras secundarias a otras enfermedades aparecen con frecuencia en porciones más laterales"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la localización más habitual de la fisura anal es la línea media posterior (75%); la línea media anterior es otro sitio frecuente, más en mujeres. Por tanto, decir que la mayoría de las fisuras primarias están en la comisura anterior es falso. Las fisuras fuera de la línea media se consideran atípicas y sugieren enfermedad subyacente (Crohn, cáncer anal, TBC, VIH, sífilis), lo que respalda la opción D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF"
+  ],
+  "nota": "Sin clave original. Las opciones A y B no se verificaron una por una en las fuentes; la clave se apoya en la opción C, que Sabiston contradice directamente. El registro mezclaba las preguntas 10 y 11; se separaron con el original.",
+  "dividir": [
+   {
+    "estado": "nueva",
+    "tema": "anorrectal",
+    "stem": "Mujer de 42 años acude a consulta por presentar masa en región anal, que apareció luego de su última gestación. Al examen: se observa protrusión de almohadilla hemorroidal a horas 3, que protruye al realizar Valsalva y se reduce digitalmente. Mencione el diagnóstico:",
+    "opts": [
+     "Hemorroides externas",
+     "Hemorroides internas grado IV",
+     "Hemorroides internas grado III",
+     "Hemorroides trombosadas"
+    ],
+    "ans": 2,
+    "why": "Sabiston clasifica las hemorroides internas: grado 3 cuando hay hemorragia y protrusión y es necesaria la reducción manual; grado 2 se reducen de forma espontánea y grado 4 no pueden reducirse. Aquí la almohadilla protruye con Valsalva y se reduce digitalmente, es decir, grado III. Las externas son distales a la línea dentada y las trombosadas cursan con dolor agudo, sin este patrón de prolapso reducible.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1428 del PDF",
+     "Sabiston 21.ª ed., p. 1429 del PDF"
+    ],
+    "nota": "Sin clave original. Se corrigió el error de escritura 'interas' en la opción C. Sabiston p. 1429 describe las externas distales a la línea dentada y la trombosada con dolor anal."
+   }
+  ]
+ },
+ "f4ab802536": {
+  "k": "f4ab802536",
+  "estado": "nueva",
+  "tema": "esofago-estomago",
+  "stem": "Paciente de 50 años acude por disfagia y regurgitación. Examen físico normal; pesa 55 kg y mide 1,70 m. Radiológicamente se muestra el signo del «pico de pájaro». Señale lo correcto:",
+  "opts": [
+   "El diagnóstico más probable es ERGE con hernia hiatal",
+   "La alteración asienta en el plexo de Auerbach (mientérico) de la pared esofágica",
+   "El sistema parasimpático conserva íntegra su capacidad para relajar el esfínter esofágico inferior",
+   "Solo se afecta la capa muscular circular del tercio medio del esófago",
+   "El tratamiento está orientado a incrementar la contractilidad del músculo liso esofágico"
+  ],
+  "ans": 1,
+  "why": "Disfagia, regurgitación, pérdida de peso y pico de pájaro en el esofagograma son la acalasia. ABSITE: se debe a la degeneración progresiva de las células ganglionares del plexo mientérico de la pared esofágica. Sabiston añade que el EEI es hipertenso y no se relaja al deglutir. Por eso el EEI no relaja bien (no se conserva la relajación), no es ERGE, no se limita al tercio medio y el tratamiento (Heller, dilatación) busca abrir el EEI, no aumentar la contractilidad.",
+  "fuentes": [
+   "ABSITE de Virgilio 3.ª ed., p. 104 del PDF",
+   "Sabiston 21.ª ed., p. 1050 del PDF"
+  ],
+  "nota": "Sin clave original. Lo que dice cada fuente: ABSITE da plexo mientérico, pico de pájaro y manometría con EEI que no relaja; Sabiston describe el pico de pájaro y la destrucción de los nervios del EEI. Las opciones D y E se descartan por lo descrito del tratamiento y la manometría (esófago completo afectado), no por una frase literal."
+ },
+ "459b2d0739": {
+  "k": "459b2d0739",
+  "estado": "nueva",
+  "tema": "anorrectal",
+  "stem": "Mujer de 42 años con protrusión de almohadilla hemorroidal a horas 3, que protruye con Valsalva y se reduce digitalmente. Se le realiza ligadura con bandas elásticas, con evolución favorable. ¿Por qué este procedimiento es bien tolerado?",
+  "opts": [
+   "Porque la banda se coloca en el anodermo",
+   "Porque causa estrangulación del pedículo hemorroidal",
+   "Porque la banda se retira de forma precoz",
+   "Porque la banda se coloca proximal a la línea dentada",
+   "Porque se asocia siempre a esfinterotomía interna lateral"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la ligadura con goma elástica por lo general se tolera bien porque la goma se coloca proximal a la línea dentada, en el área del ano desprovista de fibras somáticas de dolor. La estrangulación del tejido hemorroidal es el mecanismo de acción (isquemia y necrosis), no la razón de la buena tolerancia. La banda no se coloca en el anodermo ni se retira precozmente, y no se asocia a esfinterotomía.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1428 del PDF"
+  ],
+  "nota": "Sin clave original. Que la banda no se retira precozmente y que no se asocia a esfinterotomía no figura literalmente en la página; el texto citado respalda directamente la opción D."
  }
 }

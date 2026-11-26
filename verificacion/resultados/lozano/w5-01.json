@@ -1,0 +1,299 @@
+[
+ {
+  "k": "6bf261252c",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre la anatomía anorrectal son verdaderas, EXCEPTO:",
+  "opts": [
+   "La línea dentada marca la transición entre la mucosa columnar y escamosa.",
+   "La fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos.",
+   "La fascia de Waldeyer se adhiere a la fascia propia en la unión anorrectal.",
+   "En los hombres, la fascia de Denonvilliers separa el recto de la próstata y las vesículas seminales.",
+   "El canal anal quirúrgico es más largo en mujeres que en hombres."
+  ],
+  "ans": null,
+  "why": "Sabiston respalda tres opciones: la línea dentada separa el epitelio cilíndrico (proximal) del pavimentoso (distal); la fascia de Waldeyer une la aponeurosis presacra con la fascia propia; y la fascia de Denonvilliers separa el recto de las estructuras anteriores (próstata, vesículas). La opción B (la fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos) solo se respalda en parte: Sabiston dice que las venas presacras están bajo la aponeurosis presacra, pero no dice que separe los nervios pélvicos. La opción E (canal anal quirúrgico más largo en mujeres) no tiene respaldo: Sabiston da unos 4 cm sin distinguir sexo y Latarjet da 3-4 cm sin distinguir sexo, así que ninguna fuente de la carpeta permite decir cuál es la falsa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF",
+   "Sabiston 21.ª ed., p. 1351-1352 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 586 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: E (resaltado). Es la respuesta esperable (el canal anal quirúrgico suele ser más largo en el hombre), pero ninguna fuente de la carpeta lo dice y no se confirma de memoria. B también queda a medias."
+ },
+ {
+  "k": "18e37dac5f",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre el drenaje linfático anorrectal son verdaderas, EXCEPTO:",
+  "opts": [
+   "El recto superior y medio drenan hacia los ganglios linfáticos mesentéricos inferiores e ilíacos internos.",
+   "El recto inferior drena hacia los ganglios mesentéricos inferiores e ilíacos internos.",
+   "Proximal a la línea dentada, la linfa drena hacia los ganglios mesentéricos inferiores e ilíacos internos.",
+   "Distal a la línea dentada, el drenaje primario es hacia los ganglios linfáticos inguinales.",
+   "El drenaje linfático del recto sigue el mismo trayecto que el suministro vascular."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Es una pregunta EXCEPTO y ninguna fuente dice literalmente que la opción marcada sea falsa. (El revisor había propuesto la opción A.) Sabiston: los dos tercios superiores del recto drenan hacia arriba, a los ganglios mesentéricos inferiores y paraaórticos; solo la porción inferior drena en dos direcciones (mesentéricos inferiores e ilíacos internos); por debajo de la línea dentada drena a los ganglios inguinales. De Virgilio dice lo mismo (recto superior y medio, sobre todo a los mesentéricos inferiores; el inferior, a los mesentéricos inferiores y a los ilíacos internos). Por eso A es la falsa: atribuye también a los ilíacos internos el drenaje del recto superior y medio. B, C y D concuerdan con esos textos y E concuerda con el principio de que el drenaje linfático acompaña a los vasos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1352 del PDF",
+   "de Virgilio ABSITE, p. 181 del PDF",
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: ninguna fuente dice literalmente que el recto superior y medio NO drenen a los ilíacos internos; se deduce de que Sabiston y de Virgilio los hacen drenar a los mesentéricos inferiores. Clave original A (resaltado)."
+ },
+ {
+  "k": "fd7d70ce57",
+  "estado": "corregida",
+  "stem": "Un hombre de 35 años con leucemia y neutropenia grave presenta dolor anal severo. Hay induración sin masa evidente. ¿Qué hacer?",
+  "opts": [
+   "Solo antibióticos IV",
+   "Anoscopía y drenaje solo si se detecta masa fluctuante",
+   "Anoscopía y drenaje en quirófano si hay masa fluctuante",
+   "Examen bajo anestesia con desbridamiento amplio",
+   "Examen bajo anestesia con biopsia y drenaje aunque no haya pus"
+  ],
+  "ans": 0,
+  "why": "En el libro (ABSITE, pregunta 20), en un paciente con leucemia y neutropenia grave, con induración pero sin fluctuación, basta con antibióticos IV solos, porque el paciente no monta respuesta inflamatoria. Solo si no mejora o aparece fluctuación se hace examen bajo anestesia (opciones B y C). La opción E (biopsia de áreas induradas y drenaje aunque no haya pus) es lo que el libro describe como paso posterior, no como manejo inicial; D (desbridamiento amplio) no está indicado en un absceso perianal.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 177 del PDF (pregunta)",
+   "de Virgilio ABSITE, p. 182 del PDF (explicación 20)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: E (resaltado). El libro da A como respuesta. Aunque indica biopsiar las zonas induradas durante un examen bajo anestesia, esto es para pacientes que no mejoran o desarrollan fluctuación; si el aula virtual usó E, la clave del examen pudo diferir del libro."
+ },
+ {
+  "k": "d9f81b11e1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es verdadera sobre el suministro sanguíneo del recto?",
+  "opts": [
+   "Las arterias rectales superior y media provienen de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Hay pobre colateralización entre las arterias rectales superior e inferior."
+  ],
+  "ans": 1,
+  "why": "Sabiston: las arterias rectales medias vienen de las ilíacas internas (la superior es rama de la mesentérica inferior); la parte inferior del recto y el ano drenan en las venas rectales media e inferior, unidas a la circulación ilíaca interna. De Virgilio: las venas rectales medias e inferiores drenan en ramas de las ilíacas internas, las superiores a la mesentérica inferior y al sistema porta. Por eso B es verdadera; A (la media no sale de la mesentérica inferior), C y D son falsas, y E es falsa porque hay buena colateralización entre las arterias rectales.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1352 del PDF",
+   "de Virgilio ABSITE, p. 177 y 182 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (resaltado)."
+ },
+ {
+  "k": "bb98096925",
+  "estado": "confirmada",
+  "stem": "12 horas después de ligadura hemorroidal, un hombre tiene dolor rectal y abdominal, fiebre y no puede orinar:",
+  "opts": [
+   "Colocación de sonda Foley",
+   "Antibióticos IV de amplio espectro",
+   "Antibióticos IV y examen rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Sondaje vesical intermitente y ablandadores"
+  ],
+  "ans": 2,
+  "why": "Tras ligadura o hemorroidectomía, fiebre, dolor perineal y retención urinaria en las primeras 12 horas indican sepsis perineal. El libro indica ingreso, líquidos y antibióticos IV con cobertura de gramnegativos y anaerobios, más examen bajo anestesia para descartar infección necrosante que requiera desbridamiento. El manejo conservador (sonda, antibióticos solos o antibióticos orales) no es adecuado.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 179 del PDF (explicación 8)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado)."
+ },
+ {
+  "k": "dbebe85d78",
+  "estado": "confirmada",
+  "stem": "Sangrado anal abundante 3 horas después de hemorroidectomía se maneja con:",
+  "opts": [
+   "Ligadura con banda",
+   "Taponamiento rectal con gasa con epinefrina",
+   "Ligadura con sutura",
+   "Compresas frías",
+   "Compresión con balón de sonda Foley"
+  ],
+  "ans": 2,
+  "why": "Si el sangrado tras hemorroidectomía es copioso y persiste pese a empaquetar, el libro indica volver al quirófano, donde hay mejor visualización y anestesia, y hacer ligadura con sutura. Taponamiento con gasa con epinefrina, hielo y balón de Foley son medidas para sangrado leve que cede con medidas simples. La banda no se menciona como tratamiento del sangrado.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 180 del PDF (explicación 11)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado)."
+ },
+ {
+  "k": "ca8b891014",
+  "estado": "confirmada",
+  "stem": "Mujer con dolor perianal y masa azulada tras pujo, se maneja con:",
+  "opts": [
+   "Ablandadores y baños de asiento",
+   "Ligadura con banda",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Examen rectal bajo anestesia general con drenaje"
+  ],
+  "ans": 3,
+  "why": "Dolor perianal intenso tras pujo con masa azulada es una hemorroide externa trombosada. El libro indica escisión de una elipse de piel y drenaje con anestesia local. La incisión simple no previene recidiva ni drena bien; la ligadura con banda no se tolera por el dolor; el manejo conservador solo vale si los síntomas llevan más de 72 horas y ya ceden; el examen bajo anestesia general no hace falta.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 180 del PDF (explicación 13)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D (resaltado). En la pregunta del libro la paciente tiene 65 años y 12 horas de dolor."
+ },
+ {
+  "k": "7f14be36e0",
+  "estado": "dudosa",
+  "stem": "Hombre con hemorroides prolapsadas irreductibles, se maneja con:",
+  "opts": [
+   "Hemorroidectomía urgente",
+   "Ligadura urgente con banda",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Examen rectal bajo anestesia general con drenaje"
+  ],
+  "ans": null,
+  "why": "Sabiston: las hemorroides internas estranguladas o muy trombosadas pueden presentarse irreductibles y muy dolorosas. Si no hay tejido necrótico, se puede ingresar para una prueba de alivio del dolor, baños calientes y tratamiento intestinal, y dejar el cerclaje (ligadura con banda) para más tarde; precisan operación inmediata los que no responden a esa prueba limitada o los que tienen estrangulación y necrosis. El enunciado solo dice irreductibles, sin dolor refractario ni necrosis, así que no permite decidir entre manejo conservador inicial y hemorroidectomía urgente. Las opciones C, D y E son de otros cuadros (absceso, trombosis externa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1440 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: A, hemorroidectomía urgente (resaltado). Es la única opción quirúrgica razonable y coincide con lo que Sabiston indica para estrangulación o necrosis, pero falta ese dato."
+ },
+ {
+  "k": "80719bea70",
+  "estado": "dudosa",
+  "stem": "¿Cuál hallazgo anorrectal es MENOS preocupante por patología subyacente grave?",
+  "opts": [
+   "Fisura anal lateral aguda",
+   "Fisura posterior crónica",
+   "Fístula perianal recurrente",
+   "Múltiples fístulas perianales",
+   "Fístula perianal con múltiples trayectos"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente dice cuál es el hallazgo 'menos preocupante'. (El revisor había propuesto la opción B.) Sabiston: la localización más habitual de la fisura anal es la línea media posterior; las fisuras fuera de la línea media se consideran atípicas y su diagnóstico diferencial incluye Crohn, cáncer anal, tuberculosis, VIH, sífilis, herpes y leucemia. De Virgilio dice que una fisura en ubicación inusual (lateral) debe hacer sospechar Crohn, y Sabiston dice que las fístulas complejas (varios trayectos) también hacen pensar en Crohn. La fisura posterior crónica es la localización típica, la menos sospechosa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "Sabiston 21.ª ed., p. 1439 del PDF",
+   "de Virgilio ABSITE, p. 169 y 171 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: ninguna fuente compara estas cinco opciones; se deduce de que la localización posterior es la típica y las demás (lateral, fístulas recurrentes o múltiples) son los hallazgos que sugieren Crohn u otra enfermedad. Clave original B (resaltado)."
+ },
+ {
+  "k": "9b32faf79d",
+  "estado": "dudosa",
+  "stem": "Mujer de 80 años con prolapso rectal y constipación crónica. Colonoscopía normal. Tratamiento más adecuado:",
+  "opts": [
+   "Fijación con malla (Ripstein)",
+   "Resección anterior con rectopexia",
+   "Encirclemento anal tipo Thiersch",
+   "Resección del perineo (Moschcowitz)",
+   "Rectosigmoidectomía perineal (Altemeier)"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. La pregunta original del ABSITE dice 'múltiples comorbilidades significativas', que es lo que lleva a elegir la vía perineal (Altemeier). (El revisor había propuesto la opción E.) En el libro (ABSITE, pregunta 22), en una mujer de 80 años con múltiples comorbilidades y prolapso rectal, el abordaje perineal está indicado para pacientes mayores de alto riesgo, y la rectosigmoidectomía perineal (Altemeier) es una buena opción. El abordaje abdominal (rectopexia con resección anterior) se reserva para pacientes jóvenes de bajo riesgo. El Ripstein, la operación de Thiersch (ya no se usa) y el Moschcowitz no son la mejor opción.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 177 del PDF (pregunta 22)",
+   "de Virgilio ABSITE, p. 182 del PDF (explicación 22)",
+   "de Virgilio ABSITE, p. 173 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: A, Ripstein (resaltado). El libro da E, Altemeier. El enunciado del banco omite la frase de comorbilidades múltiples significativas que está en la pregunta del libro, pero el cuadro (80 años, estreñimiento crónico, colonoscopia negativa) apunta al abordaje perineal."
+ },
+ {
+  "k": "cdf3360229",
+  "estado": "dudosa",
+  "stem": "Mujer con fístula rectovaginal baja tras parto vaginal hace 1 semana. Se maneja con:",
+  "opts": [
+   "2 a 3 meses de tratamiento conservador",
+   "Colgajo de avance endorrectal",
+   "Colostomía de derivación temporal",
+   "Reparación primaria transabdominal",
+   "Reparación primaria transabdominal con colgajo muscular interpuesto"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la respuesta del libro no está entre las opciones. Sabiston recomienda esperar 3 a 6 meses y la opción dice 2 a 3 meses. (El revisor había propuesto la opción A.) Sabiston: la reparación quirúrgica definitiva de una fístula rectovaginal baja se recomienda a los 3-6 meses de su aparición para disminuir la inflamación y permitir una reparación exitosa; durante la espera algunas fístulas pueden incluso cerrarse solas. El colgajo de avance endorrectal es la reparación más usada, pero después de esa espera. Una semana tras el parto no corresponde ni a la reparación ni a la derivación temporal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: Sabiston no menciona el intervalo de 2-3 meses de la opción A; solo dice espera de 3-6 meses antes de reparar. Clave original A (resaltado)."
+ },
+ {
+  "k": "ec3639a41b",
+  "estado": "confirmada",
+  "stem": "La melanosis coli:",
+  "opts": [
+   "Aumenta el riesgo de melanoma",
+   "Aumenta el riesgo de adenocarcinoma colorrectal",
+   "Está relacionada con el síndrome de Peutz-Jeghers",
+   "Es irreversible",
+   "Se relaciona con el uso de ciertos laxantes"
+  ],
+  "ans": 4,
+  "why": "Sabiston: en la melanosis del colon hay una coloración marrón-negra de la mucosa colónica causada por laxantes de antraquinona, y no requiere tratamiento. Eso la relaciona con ciertos laxantes (E). Las demás opciones (riesgo de melanoma, de adenocarcinoma, síndrome de Peutz-Jeghers, irreversible) no aparecen respaldadas en esa fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 290 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original E (resaltado)."
+ },
+ {
+  "k": "f701f7845f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años, VIH positivo, se presenta al DE con dolor perianal durante los últimos 2 días. El examen físico revela una pequeña área de sensibilidad en la posición posterolateral derecha distal al esfínter externo, extremadamente sensible. Su recuento de CD4 es 550 células/mL y actualmente está bajo terapia antirretroviral de alta actividad (TARGA). ¿Cuál es el manejo más adecuado para este paciente?",
+  "opts": [
+   "Antibióticos intravenosos (IV), examen bajo anestesia (EUA) y, si se identifica un área de fluctuación, luego incisión y drenaje (I&D) y biopsia.",
+   "EUA y, si se identifica un área de fluctuación, luego I&D y biopsia.",
+   "Antibióticos IV, EUA, I&D y biopsia del área de sensibilidad, incluso si no se identifica fluctuación.",
+   "EUA, I&D y biopsia del área de sensibilidad, incluso si no se identifica fluctuación.",
+   "Solo antibióticos IV."
+  ],
+  "ans": 2,
+  "why": "De Virgilio (ABSITE, pregunta 16): en un paciente con VIH con CD4 de 550 en TARGA y dolor perianal muy sensible, la respuesta es antibióticos IV, examen bajo anestesia, incisión y drenaje y biopsia de la zona sensible aunque no haya fluctuación, porque estos pacientes pueden no tener un absceso evidente. La opción A del banco condiciona el drenaje a que se encuentre fluctuación, y D omite los antibióticos; el procedimiento se hace en quirófano y los antibióticos son de uso rutinario en el paciente con VIH.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 429 del PDF (pregunta 16)",
+   "de Virgilio ABSITE, p. 434 del PDF (explicación 16)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado). Las letras de las opciones del banco no coinciden con las del libro, pero el texto sí."
+ },
+ {
+  "k": "57ade8f72f",
+  "estado": "dudosa",
+  "stem": "Un hombre de 40 años se presenta con dolor en el cuadrante inferior derecho y fiebre. El dolor comenzó hace 12 horas alrededor del ombligo y se ha desplazado. Tiene náuseas y anorexia. El examen revela sensibilidad y defensa en el cuadrante inferior derecho. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Laparotomía inmediata",
+   "Tomografía abdominal",
+   "Enema de bario",
+   "Administración de antibióticos únicamente",
+   "Colonoscopía"
+  ],
+  "ans": null,
+  "why": "Sabiston: la TC es la prueba de imagen más común para apendicitis y reduce las apendicectomías negativas, pero dice textualmente que no se recomienda la TC cuando la sospecha clínica es firme según la historia, el examen físico y el laboratorio; la TC se reserva para casos equívocos. Este paciente tiene presentación clásica (dolor periumbilical migratorio, anorexia, náuseas, fiebre, defensa en fosa ilíaca derecha), por lo que según Sabiston iría directo a apendicectomía; ninguna opción dice apendicectomía, solo laparotomía inmediata. El enunciado no da laboratorio ni puntuación de Alvarado, así que no se puede asegurar si la sospecha es firme o equívoca.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327-1329 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B, tomografía (resaltado). Es la respuesta habitual de examen para un adulto, pero Sabiston la desaconseja si la clínica es firme, y aquí sí lo es."
+ },
+ {
+  "k": "d978c84d72",
+  "estado": "dudosa",
+  "stem": "Un hombre de 62 años con historia de úlcera péptica acude con dolor abdominal súbito, intenso y generalizado. El abdomen está rígido y doloroso. La radiografía de tórax en bipedestación muestra aire libre bajo el diafragma. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Colecistitis aguda",
+   "Pancreatitis aguda",
+   "Úlcera gástrica perforada",
+   "Apendicitis",
+   "Obstrucción intestinal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave sale por descarte (el revisor la marcó INDIRECTA). La fuente habla de perforación duodenal y la opción dice gástrica. (El revisor había propuesto la opción C.) Dolor abdominal súbito, abdomen en tabla y aire libre bajo el diafragma en bipedestación indican perforación de víscera hueca. Sabiston: la perforación duodenal da dolor abdominal generalizado y vientre en tabla, y el aire libre bajo el diafragma es diagnóstico de perforación de víscera hueca. Con antecedente de úlcera péptica, la única opción que corresponde es úlcera perforada; colecistitis, pancreatitis, apendicitis y obstrucción no dan neumoperitoneo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1159 del PDF",
+   "Sabiston 21.ª ed., p. 1164 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: ninguna fuente describe este caso exacto, y Sabiston habla de perforación duodenal mientras la opción dice gástrica. Es la única opción de úlcera perforada. Clave original C (resaltado)."
+ }
+]

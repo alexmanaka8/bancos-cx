@@ -9962,5 +9962,2395 @@
   ],
   "nota": "Clave original: D (amputación temprana). Es coherente con el libro, pero no se pudo respaldar C ni E. Una búsqueda en Europe PMC (guías WMS) no dio texto sobre elevación ni antibióticos.",
   "tema": "trauma"
+ },
+ "6bf261252c": {
+  "k": "6bf261252c",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre la anatomía anorrectal son verdaderas, EXCEPTO:",
+  "opts": [
+   "La línea dentada marca la transición entre la mucosa columnar y escamosa.",
+   "La fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos.",
+   "La fascia de Waldeyer se adhiere a la fascia propia en la unión anorrectal.",
+   "En los hombres, la fascia de Denonvilliers separa el recto de la próstata y las vesículas seminales.",
+   "El canal anal quirúrgico es más largo en mujeres que en hombres."
+  ],
+  "ans": null,
+  "why": "Sabiston respalda tres opciones: la línea dentada separa el epitelio cilíndrico (proximal) del pavimentoso (distal); la fascia de Waldeyer une la aponeurosis presacra con la fascia propia; y la fascia de Denonvilliers separa el recto de las estructuras anteriores (próstata, vesículas). La opción B (la fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos) solo se respalda en parte: Sabiston dice que las venas presacras están bajo la aponeurosis presacra, pero no dice que separe los nervios pélvicos. La opción E (canal anal quirúrgico más largo en mujeres) no tiene respaldo: Sabiston da unos 4 cm sin distinguir sexo y Latarjet da 3-4 cm sin distinguir sexo, así que ninguna fuente de la carpeta permite decir cuál es la falsa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1425 del PDF",
+   "Sabiston 21.ª ed., p. 1351-1352 del PDF",
+   "Latarjet, Anatomía humana, tomo 2, p. 586 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: E (resaltado). Es la respuesta esperable (el canal anal quirúrgico suele ser más largo en el hombre), pero ninguna fuente de la carpeta lo dice y no se confirma de memoria. B también queda a medias."
+ },
+ "18e37dac5f": {
+  "k": "18e37dac5f",
+  "estado": "dudosa",
+  "stem": "Todas las siguientes afirmaciones sobre el drenaje linfático anorrectal son verdaderas, EXCEPTO:",
+  "opts": [
+   "El recto superior y medio drenan hacia los ganglios linfáticos mesentéricos inferiores e ilíacos internos.",
+   "El recto inferior drena hacia los ganglios mesentéricos inferiores e ilíacos internos.",
+   "Proximal a la línea dentada, la linfa drena hacia los ganglios mesentéricos inferiores e ilíacos internos.",
+   "Distal a la línea dentada, el drenaje primario es hacia los ganglios linfáticos inguinales.",
+   "El drenaje linfático del recto sigue el mismo trayecto que el suministro vascular."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Es una pregunta EXCEPTO y ninguna fuente dice literalmente que la opción marcada sea falsa. (El revisor había propuesto la opción A.) Sabiston: los dos tercios superiores del recto drenan hacia arriba, a los ganglios mesentéricos inferiores y paraaórticos; solo la porción inferior drena en dos direcciones (mesentéricos inferiores e ilíacos internos); por debajo de la línea dentada drena a los ganglios inguinales. De Virgilio dice lo mismo (recto superior y medio, sobre todo a los mesentéricos inferiores; el inferior, a los mesentéricos inferiores y a los ilíacos internos). Por eso A es la falsa: atribuye también a los ilíacos internos el drenaje del recto superior y medio. B, C y D concuerdan con esos textos y E concuerda con el principio de que el drenaje linfático acompaña a los vasos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1352 del PDF",
+   "de Virgilio ABSITE, p. 181 del PDF",
+   "Sabiston 21.ª ed., p. 1425 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: ninguna fuente dice literalmente que el recto superior y medio NO drenen a los ilíacos internos; se deduce de que Sabiston y de Virgilio los hacen drenar a los mesentéricos inferiores. Clave original A (resaltado)."
+ },
+ "fd7d70ce57": {
+  "k": "fd7d70ce57",
+  "estado": "corregida",
+  "stem": "Un hombre de 35 años con leucemia y neutropenia grave presenta dolor anal severo. Hay induración sin masa evidente. ¿Qué hacer?",
+  "opts": [
+   "Solo antibióticos IV",
+   "Anoscopía y drenaje solo si se detecta masa fluctuante",
+   "Anoscopía y drenaje en quirófano si hay masa fluctuante",
+   "Examen bajo anestesia con desbridamiento amplio",
+   "Examen bajo anestesia con biopsia y drenaje aunque no haya pus"
+  ],
+  "ans": 0,
+  "why": "En el libro (ABSITE, pregunta 20), en un paciente con leucemia y neutropenia grave, con induración pero sin fluctuación, basta con antibióticos IV solos, porque el paciente no monta respuesta inflamatoria. Solo si no mejora o aparece fluctuación se hace examen bajo anestesia (opciones B y C). La opción E (biopsia de áreas induradas y drenaje aunque no haya pus) es lo que el libro describe como paso posterior, no como manejo inicial; D (desbridamiento amplio) no está indicado en un absceso perianal.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 177 del PDF (pregunta)",
+   "de Virgilio ABSITE, p. 182 del PDF (explicación 20)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: E (resaltado). El libro da A como respuesta. Aunque indica biopsiar las zonas induradas durante un examen bajo anestesia, esto es para pacientes que no mejoran o desarrollan fluctuación; si el aula virtual usó E, la clave del examen pudo diferir del libro."
+ },
+ "d9f81b11e1": {
+  "k": "d9f81b11e1",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es verdadera sobre el suministro sanguíneo del recto?",
+  "opts": [
+   "Las arterias rectales superior y media provienen de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Hay pobre colateralización entre las arterias rectales superior e inferior."
+  ],
+  "ans": 1,
+  "why": "Sabiston: las arterias rectales medias vienen de las ilíacas internas (la superior es rama de la mesentérica inferior); la parte inferior del recto y el ano drenan en las venas rectales media e inferior, unidas a la circulación ilíaca interna. De Virgilio: las venas rectales medias e inferiores drenan en ramas de las ilíacas internas, las superiores a la mesentérica inferior y al sistema porta. Por eso B es verdadera; A (la media no sale de la mesentérica inferior), C y D son falsas, y E es falsa porque hay buena colateralización entre las arterias rectales.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1352 del PDF",
+   "de Virgilio ABSITE, p. 177 y 182 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (resaltado)."
+ },
+ "bb98096925": {
+  "k": "bb98096925",
+  "estado": "confirmada",
+  "stem": "12 horas después de ligadura hemorroidal, un hombre tiene dolor rectal y abdominal, fiebre y no puede orinar:",
+  "opts": [
+   "Colocación de sonda Foley",
+   "Antibióticos IV de amplio espectro",
+   "Antibióticos IV y examen rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Sondaje vesical intermitente y ablandadores"
+  ],
+  "ans": 2,
+  "why": "Tras ligadura o hemorroidectomía, fiebre, dolor perineal y retención urinaria en las primeras 12 horas indican sepsis perineal. El libro indica ingreso, líquidos y antibióticos IV con cobertura de gramnegativos y anaerobios, más examen bajo anestesia para descartar infección necrosante que requiera desbridamiento. El manejo conservador (sonda, antibióticos solos o antibióticos orales) no es adecuado.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 179 del PDF (explicación 8)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado)."
+ },
+ "dbebe85d78": {
+  "k": "dbebe85d78",
+  "estado": "confirmada",
+  "stem": "Sangrado anal abundante 3 horas después de hemorroidectomía se maneja con:",
+  "opts": [
+   "Ligadura con banda",
+   "Taponamiento rectal con gasa con epinefrina",
+   "Ligadura con sutura",
+   "Compresas frías",
+   "Compresión con balón de sonda Foley"
+  ],
+  "ans": 2,
+  "why": "Si el sangrado tras hemorroidectomía es copioso y persiste pese a empaquetar, el libro indica volver al quirófano, donde hay mejor visualización y anestesia, y hacer ligadura con sutura. Taponamiento con gasa con epinefrina, hielo y balón de Foley son medidas para sangrado leve que cede con medidas simples. La banda no se menciona como tratamiento del sangrado.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 180 del PDF (explicación 11)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado)."
+ },
+ "ca8b891014": {
+  "k": "ca8b891014",
+  "estado": "confirmada",
+  "stem": "Mujer con dolor perianal y masa azulada tras pujo, se maneja con:",
+  "opts": [
+   "Ablandadores y baños de asiento",
+   "Ligadura con banda",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Examen rectal bajo anestesia general con drenaje"
+  ],
+  "ans": 3,
+  "why": "Dolor perianal intenso tras pujo con masa azulada es una hemorroide externa trombosada. El libro indica escisión de una elipse de piel y drenaje con anestesia local. La incisión simple no previene recidiva ni drena bien; la ligadura con banda no se tolera por el dolor; el manejo conservador solo vale si los síntomas llevan más de 72 horas y ya ceden; el examen bajo anestesia general no hace falta.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 180 del PDF (explicación 13)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D (resaltado). En la pregunta del libro la paciente tiene 65 años y 12 horas de dolor."
+ },
+ "7f14be36e0": {
+  "k": "7f14be36e0",
+  "estado": "dudosa",
+  "stem": "Hombre con hemorroides prolapsadas irreductibles, se maneja con:",
+  "opts": [
+   "Hemorroidectomía urgente",
+   "Ligadura urgente con banda",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Examen rectal bajo anestesia general con drenaje"
+  ],
+  "ans": null,
+  "why": "Sabiston: las hemorroides internas estranguladas o muy trombosadas pueden presentarse irreductibles y muy dolorosas. Si no hay tejido necrótico, se puede ingresar para una prueba de alivio del dolor, baños calientes y tratamiento intestinal, y dejar el cerclaje (ligadura con banda) para más tarde; precisan operación inmediata los que no responden a esa prueba limitada o los que tienen estrangulación y necrosis. El enunciado solo dice irreductibles, sin dolor refractario ni necrosis, así que no permite decidir entre manejo conservador inicial y hemorroidectomía urgente. Las opciones C, D y E son de otros cuadros (absceso, trombosis externa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1440 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: A, hemorroidectomía urgente (resaltado). Es la única opción quirúrgica razonable y coincide con lo que Sabiston indica para estrangulación o necrosis, pero falta ese dato."
+ },
+ "80719bea70": {
+  "k": "80719bea70",
+  "estado": "dudosa",
+  "stem": "¿Cuál hallazgo anorrectal es MENOS preocupante por patología subyacente grave?",
+  "opts": [
+   "Fisura anal lateral aguda",
+   "Fisura posterior crónica",
+   "Fístula perianal recurrente",
+   "Múltiples fístulas perianales",
+   "Fístula perianal con múltiples trayectos"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente dice cuál es el hallazgo 'menos preocupante'. (El revisor había propuesto la opción B.) Sabiston: la localización más habitual de la fisura anal es la línea media posterior; las fisuras fuera de la línea media se consideran atípicas y su diagnóstico diferencial incluye Crohn, cáncer anal, tuberculosis, VIH, sífilis, herpes y leucemia. De Virgilio dice que una fisura en ubicación inusual (lateral) debe hacer sospechar Crohn, y Sabiston dice que las fístulas complejas (varios trayectos) también hacen pensar en Crohn. La fisura posterior crónica es la localización típica, la menos sospechosa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1431 del PDF",
+   "Sabiston 21.ª ed., p. 1439 del PDF",
+   "de Virgilio ABSITE, p. 169 y 171 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: ninguna fuente compara estas cinco opciones; se deduce de que la localización posterior es la típica y las demás (lateral, fístulas recurrentes o múltiples) son los hallazgos que sugieren Crohn u otra enfermedad. Clave original B (resaltado)."
+ },
+ "9b32faf79d": {
+  "k": "9b32faf79d",
+  "estado": "dudosa",
+  "stem": "Mujer de 80 años con prolapso rectal y constipación crónica. Colonoscopía normal. Tratamiento más adecuado:",
+  "opts": [
+   "Fijación con malla (Ripstein)",
+   "Resección anterior con rectopexia",
+   "Encirclemento anal tipo Thiersch",
+   "Resección del perineo (Moschcowitz)",
+   "Rectosigmoidectomía perineal (Altemeier)"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. La pregunta original del ABSITE dice 'múltiples comorbilidades significativas', que es lo que lleva a elegir la vía perineal (Altemeier). (El revisor había propuesto la opción E.) En el libro (ABSITE, pregunta 22), en una mujer de 80 años con múltiples comorbilidades y prolapso rectal, el abordaje perineal está indicado para pacientes mayores de alto riesgo, y la rectosigmoidectomía perineal (Altemeier) es una buena opción. El abordaje abdominal (rectopexia con resección anterior) se reserva para pacientes jóvenes de bajo riesgo. El Ripstein, la operación de Thiersch (ya no se usa) y el Moschcowitz no son la mejor opción.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 177 del PDF (pregunta 22)",
+   "de Virgilio ABSITE, p. 182 del PDF (explicación 22)",
+   "de Virgilio ABSITE, p. 173 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: A, Ripstein (resaltado). El libro da E, Altemeier. El enunciado del banco omite la frase de comorbilidades múltiples significativas que está en la pregunta del libro, pero el cuadro (80 años, estreñimiento crónico, colonoscopia negativa) apunta al abordaje perineal."
+ },
+ "cdf3360229": {
+  "k": "cdf3360229",
+  "estado": "dudosa",
+  "stem": "Mujer con fístula rectovaginal baja tras parto vaginal hace 1 semana. Se maneja con:",
+  "opts": [
+   "2 a 3 meses de tratamiento conservador",
+   "Colgajo de avance endorrectal",
+   "Colostomía de derivación temporal",
+   "Reparación primaria transabdominal",
+   "Reparación primaria transabdominal con colgajo muscular interpuesto"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la respuesta del libro no está entre las opciones. Sabiston recomienda esperar 3 a 6 meses y la opción dice 2 a 3 meses. (El revisor había propuesto la opción A.) Sabiston: la reparación quirúrgica definitiva de una fístula rectovaginal baja se recomienda a los 3-6 meses de su aparición para disminuir la inflamación y permitir una reparación exitosa; durante la espera algunas fístulas pueden incluso cerrarse solas. El colgajo de avance endorrectal es la reparación más usada, pero después de esa espera. Una semana tras el parto no corresponde ni a la reparación ni a la derivación temporal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1434 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: Sabiston no menciona el intervalo de 2-3 meses de la opción A; solo dice espera de 3-6 meses antes de reparar. Clave original A (resaltado)."
+ },
+ "ec3639a41b": {
+  "k": "ec3639a41b",
+  "estado": "confirmada",
+  "stem": "La melanosis coli:",
+  "opts": [
+   "Aumenta el riesgo de melanoma",
+   "Aumenta el riesgo de adenocarcinoma colorrectal",
+   "Está relacionada con el síndrome de Peutz-Jeghers",
+   "Es irreversible",
+   "Se relaciona con el uso de ciertos laxantes"
+  ],
+  "ans": 4,
+  "why": "Sabiston: en la melanosis del colon hay una coloración marrón-negra de la mucosa colónica causada por laxantes de antraquinona, y no requiere tratamiento. Eso la relaciona con ciertos laxantes (E). Las demás opciones (riesgo de melanoma, de adenocarcinoma, síndrome de Peutz-Jeghers, irreversible) no aparecen respaldadas en esa fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 290 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original E (resaltado)."
+ },
+ "f701f7845f": {
+  "k": "f701f7845f",
+  "estado": "confirmada",
+  "stem": "Un hombre de 45 años, VIH positivo, se presenta al DE con dolor perianal durante los últimos 2 días. El examen físico revela una pequeña área de sensibilidad en la posición posterolateral derecha distal al esfínter externo, extremadamente sensible. Su recuento de CD4 es 550 células/mL y actualmente está bajo terapia antirretroviral de alta actividad (TARGA). ¿Cuál es el manejo más adecuado para este paciente?",
+  "opts": [
+   "Antibióticos intravenosos (IV), examen bajo anestesia (EUA) y, si se identifica un área de fluctuación, luego incisión y drenaje (I&D) y biopsia.",
+   "EUA y, si se identifica un área de fluctuación, luego I&D y biopsia.",
+   "Antibióticos IV, EUA, I&D y biopsia del área de sensibilidad, incluso si no se identifica fluctuación.",
+   "EUA, I&D y biopsia del área de sensibilidad, incluso si no se identifica fluctuación.",
+   "Solo antibióticos IV."
+  ],
+  "ans": 2,
+  "why": "De Virgilio (ABSITE, pregunta 16): en un paciente con VIH con CD4 de 550 en TARGA y dolor perianal muy sensible, la respuesta es antibióticos IV, examen bajo anestesia, incisión y drenaje y biopsia de la zona sensible aunque no haya fluctuación, porque estos pacientes pueden no tener un absceso evidente. La opción A del banco condiciona el drenaje a que se encuentre fluctuación, y D omite los antibióticos; el procedimiento se hace en quirófano y los antibióticos son de uso rutinario en el paciente con VIH.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 429 del PDF (pregunta 16)",
+   "de Virgilio ABSITE, p. 434 del PDF (explicación 16)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C (resaltado). Las letras de las opciones del banco no coinciden con las del libro, pero el texto sí."
+ },
+ "57ade8f72f": {
+  "k": "57ade8f72f",
+  "estado": "dudosa",
+  "stem": "Un hombre de 40 años se presenta con dolor en el cuadrante inferior derecho y fiebre. El dolor comenzó hace 12 horas alrededor del ombligo y se ha desplazado. Tiene náuseas y anorexia. El examen revela sensibilidad y defensa en el cuadrante inferior derecho. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Laparotomía inmediata",
+   "Tomografía abdominal",
+   "Enema de bario",
+   "Administración de antibióticos únicamente",
+   "Colonoscopía"
+  ],
+  "ans": null,
+  "why": "Sabiston: la TC es la prueba de imagen más común para apendicitis y reduce las apendicectomías negativas, pero dice textualmente que no se recomienda la TC cuando la sospecha clínica es firme según la historia, el examen físico y el laboratorio; la TC se reserva para casos equívocos. Este paciente tiene presentación clásica (dolor periumbilical migratorio, anorexia, náuseas, fiebre, defensa en fosa ilíaca derecha), por lo que según Sabiston iría directo a apendicectomía; ninguna opción dice apendicectomía, solo laparotomía inmediata. El enunciado no da laboratorio ni puntuación de Alvarado, así que no se puede asegurar si la sospecha es firme o equívoca.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327-1329 del PDF"
+  ],
+  "tema": "apendicitis",
+  "nota": "Clave original: B, tomografía (resaltado). Es la respuesta habitual de examen para un adulto, pero Sabiston la desaconseja si la clínica es firme, y aquí sí lo es."
+ },
+ "d978c84d72": {
+  "k": "d978c84d72",
+  "estado": "dudosa",
+  "stem": "Un hombre de 62 años con historia de úlcera péptica acude con dolor abdominal súbito, intenso y generalizado. El abdomen está rígido y doloroso. La radiografía de tórax en bipedestación muestra aire libre bajo el diafragma. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Colecistitis aguda",
+   "Pancreatitis aguda",
+   "Úlcera gástrica perforada",
+   "Apendicitis",
+   "Obstrucción intestinal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave sale por descarte (el revisor la marcó INDIRECTA). La fuente habla de perforación duodenal y la opción dice gástrica. (El revisor había propuesto la opción C.) Dolor abdominal súbito, abdomen en tabla y aire libre bajo el diafragma en bipedestación indican perforación de víscera hueca. Sabiston: la perforación duodenal da dolor abdominal generalizado y vientre en tabla, y el aire libre bajo el diafragma es diagnóstico de perforación de víscera hueca. Con antecedente de úlcera péptica, la única opción que corresponde es úlcera perforada; colecistitis, pancreatitis, apendicitis y obstrucción no dan neumoperitoneo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1159 del PDF",
+   "Sabiston 21.ª ed., p. 1164 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: ninguna fuente describe este caso exacto, y Sabiston habla de perforación duodenal mientras la opción dice gástrica. Es la única opción de úlcera perforada. Clave original C (resaltado)."
+ },
+ "65c0d1639c": {
+  "k": "65c0d1639c",
+  "estado": "confirmada",
+  "stem": "Un hombre de 72 años llega con dolor súbito en flanco izquierdo, náuseas, fiebre y leucocitosis. No hay antecedentes quirúrgicos. La TAC revela engrosamiento de colon sigmoides y grasa pericolónica inflamada. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Cáncer de colon",
+   "Diverticulitis aguda",
+   "Colitis isquémica",
+   "Obstrucción intestinal",
+   "Enfermedad inflamatoria intestinal"
+  ],
+  "ans": 1,
+  "why": "Sabiston describe la diverticulitis aguda con dolor localizado en la fosa ilíaca izquierda (sigmoides inflamado), fiebre y leucocitosis frecuente, y en la TC engrosamiento de la pared del colon y hebras de grasa pericólica. Cáncer de colon, obstrucción y EII no explican este cuadro agudo con grasa pericólica inflamada; la colitis isquémica suele dar rectorragia, que Sabiston señala como dato que debe hacer dudar de diverticulitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ "553b7b2145": {
+  "k": "553b7b2145",
+  "estado": "confirmada",
+  "stem": "Un hombre de 33 años refiere dolor epigástrico súbito tras vomitar varias veces. El examen muestra taquicardia y enfisema subcutáneo en el cuello. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Neumonía por aspiración",
+   "Perforación gástrica",
+   "Ruptura esofágica (síndrome de Boerhaave)",
+   "Úlcera gástrica sangrante",
+   "Esofagitis erosiva"
+  ],
+  "ans": 2,
+  "why": "Sabiston: la perforación esofágica por náuseas forzadas es el síndrome de Boerhaave, y se sospecha ante dolor epigástrico o torácico, dolor cervical y crepitación en tórax, cuello o cara. El enfisema subcutáneo cervical tras vómitos repetidos con taquicardia lo señala. El ABSITE lo contrasta con Mallory-Weiss (desgarro parcial con hematemesis) y recuerda que Boerhaave es de espesor completo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1058 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 105 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado). Sin discrepancia."
+ },
+ "3dea5480ef": {
+  "k": "3dea5480ef",
+  "estado": "dudosa",
+  "stem": "Un hombre de 68 años llega con fiebre, vómitos y dolor abdominal en el cuadrante inferior izquierdo. Tiene antecedentes de varios episodios similares. El examen revela defensa localizada y masa palpable en esa zona. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Absceso intraabdominal por apendicitis",
+   "Fístula entero-cutánea",
+   "Diverticulitis complicada con absceso",
+   "Cáncer de colon",
+   "Megacolon tóxico"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ningún libro presenta este caso con su diagnóstico escrito. (El revisor había propuesto la opción C.) Sabiston: la diverticulitis cursa con dolor en fosa ilíaca izquierda, fiebre y, si hay flemón importante, puede palparse una masa hipersensible; la TC muestra además formación de abscesos pericólicos. Con fiebre, episodios previos similares, defensa localizada y masa en cuadrante inferior izquierdo, la opción diverticulitis complicada con absceso es la que encaja; no hay otra opción de diverticulitis.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 154 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro cita la masa palpable por flemón y los abscesos por TC, pero no un caso idéntico con el diagnóstico escrito. Clave original: C (resaltado)."
+ },
+ "5e18d1a29d": {
+  "k": "5e18d1a29d",
+  "estado": "confirmada",
+  "stem": "Un paciente anciano con antecedentes de ACV presenta con distensión abdominal, dolor leve y estreñimiento. La radiografía muestra una gran dilatación del colon, sobre todo en el ciego. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción mecánica",
+   "Pseudoobstrucción colónica (síndrome de Ogilvie)",
+   "Megacolon tóxico",
+   "Vólvulo de sigmoides",
+   "Íleo paralítico"
+  ],
+  "ans": 1,
+  "why": "El síndrome de Ogilvie es una dilatación aguda del colon sin obstrucción mecánica, típico de ancianos con enfermedades neurológicas (la tabla incluye accidente cerebrovascular). En la radiografía el mayor diámetro suele estar en el ciego y colon ascendente. No hay toxicidad ni signos peritoneales, lo que aleja al megacolon tóxico; el vólvulo de sigmoides y la obstrucción mecánica darían otro patrón.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1366-1367 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 166 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ "883a29fda5": {
+  "k": "883a29fda5",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años llega con distensión abdominal y ausencia de gases o deposiciones por 3 días. Tiene antecedentes de constipación crónica. Radiografía muestra dilatación masiva del sigmoides. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Obstrucción por carcinoma",
+   "Vólvulo de sigmoides",
+   "Impactación fecal",
+   "Enfermedad diverticular",
+   "Íleo biliar"
+  ],
+  "ans": 1,
+  "why": "El ABSITE explica que en el vólvulo de sigmoides el denominador común es un colon grande y redundante, con frecuencia asociado a estreñimiento crónico (ancianos o institucionalizados), y que el diagnóstico es radiográfico: colon muy dilatado en 'cámara de bicicleta'. Sabiston muestra la radiografía del vólvulo sigmoideo con aspecto de cámara doblada. Carcinoma, impactación fecal, enfermedad diverticular e íleo biliar no dan dilatación masiva del sigmoides con este antecedente.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 164 del PDF",
+   "Sabiston 21.ª ed., p. 1364-1365 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ "b4f26299fe": {
+  "k": "b4f26299fe",
+  "estado": "dudosa",
+  "stem": "Paciente post Billroth II con anemia y vómitos biliosos. ¿Qué prueba corrige la excreción urinaria de B12 en Schilling?",
+  "opts": [
+   "Factor intrínseco",
+   "Tetraciclina",
+   "Vitamina B6",
+   "Hierro",
+   "Calcio"
+  ],
+  "ans": null,
+  "why": "Según el ABSITE y Sabiston, en el síndrome del asa ciega (sobrecrecimiento bacteriano, que puede complicar el asa aferente tras Billroth II) la excreción de B12 NO se corrige al añadir factor intrínseco; se corrige con un ciclo de antibiótico de amplio espectro como tetraciclina. En cambio, el factor intrínseco corrige el Schilling en la anemia perniciosa y Sabiston también cita la falta de factor intrínseco tras gastrectomía subtotal o total. El enunciado no aclara si el mecanismo es el asa ciega (vómitos biliosos) o la pérdida de factor intrínseco, así que la evidencia no decide entre A y B.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 147 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 133 del PDF",
+   "Sabiston 21.ª ed., p. 1318 del PDF",
+   "Sabiston 21.ª ed., p. 1242 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (factor intrínseco, resaltado). Los vómitos biliosos apuntan a síndrome del asa aferente y asa ciega, donde el libro respalda tetraciclina (B); pero por la gastrectomía el factor intrínseco también podría ser la respuesta. Se deja dudosa."
+ },
+ "c26027b8ed": {
+  "k": "c26027b8ed",
+  "estado": "dudosa",
+  "stem": "Un hombre diabético de 59 años con enfermedad pulmonar obstructiva crónica (EPOC) se presenta con una historia de 2 años de dificultad progresiva para tragar. No tiene otros problemas médicos. El esofagograma muestra esófago proximal dilatado con estrechamiento distal abrupto. La manometría muestra presión elevada del esfínter esofágico inferior (EEI) en reposo y falta de relajación del EEI tras la deglución. La endoscopía alta es negativa. ¿Cuál de las siguientes afirmaciones es verdadera respecto a este paciente?",
+  "opts": [
+   "La condición subyacente se caracteriza por ondas peristálticas de alta amplitud en el esófago.",
+   "La miotomía esofágica laparoscópica con fundoplicatura completa es el tratamiento de elección.",
+   "Debe iniciarse una prueba con bloqueadores de los canales de calcio.",
+   "La dilatación neumática esofágica es el siguiente paso en el manejo.",
+   "La miotomía endoscópica peroral (POEM) es el tratamiento de elección."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave. El original del ABSITE incluye insuficiencia cardiaca congestiva, que es lo que da el alto riesgo operatorio y justifica la dilatación en vez de la miotomía. (El revisor había propuesto la opción D.) Es acalasia (esófago proximal dilatado con estrechamiento distal en pico, EEI hipertenso que no relaja). El ABSITE responde que la dilatación neumática es el siguiente paso en este paciente de mayor riesgo operatorio; la acalasia no tiene ondas de alta amplitud (eso es esófago en cascanueces), la miotomía con fundoplicatura completa (Nissen) causa disfagia recurrente, los bloqueadores de calcio solo se usan en quienes no son candidatos a cirugía y rinden poco, y el POEM es opción emergente con curva larga y hasta 50% de reflujo, no el tratamiento de elección.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 109 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). El enunciado original del ABSITE incluye también insuficiencia cardiaca congestiva previa (mayor riesgo operatorio); el banco la omitió, pero conserva diabetes y EPOC."
+ },
+ "75413ca2f8": {
+  "k": "75413ca2f8",
+  "estado": "confirmada",
+  "stem": "Un hombre de 51 años ha estado realizándose endoscopías con biopsias anuales por esófago de Barrett. Su biopsia más reciente muestra displasia de alto grado sin nódulos. ¿Cuál es el mejor siguiente paso en el manejo?",
+  "opts": [
+   "Esofagectomía con reconstrucción",
+   "Repetir endoscopía con biopsia en 3 meses",
+   "Ablación endoscópica por radiofrecuencia",
+   "Cirugía antirreflujo",
+   "Derivación a oncología para considerar quimioterapia neoadyuvante"
+  ],
+  "ans": 2,
+  "why": "El ABSITE indica que la esofagectomía fue el estándar para la displasia de alto grado, pero fue reemplazada en gran parte por técnicas endoscópicas como la ablación por radiofrecuencia, que es el abordaje favorecido en displasia de alto grado sin nódulos. Repetir la endoscopia en 3 meses corresponde a displasia de bajo grado, la cirugía antirreflujo no trata la displasia y la derivación a oncología es prematura porque no hay cáncer.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado). Sin discrepancia."
+ },
+ "1e0d6a7415": {
+  "k": "1e0d6a7415",
+  "estado": "confirmada",
+  "stem": "Una mujer de 40 años ha estado usando un inhibidor de bomba de protones (IBP) para controlar enfermedad por reflujo gastroesofágico (ERGE) durante los últimos 7 años. Por lo demás está sana. Fue evaluada en consulta y considerada candidata adecuada para intervención quirúrgica definitiva. Durante la operación, tras movilizar el ligamento frenoesofágico, se inspecciona el esófago distal y parece acortado. El estudio gastrointestinal superior preoperatorio no identificó hernia hiatal. ¿Qué será lo más probable que deba hacerse?",
+  "opts": [
+   "Proceder con una fundoplicatura tipo Nissen estándar.",
+   "Proceder con una fundoplicatura tipo Dor.",
+   "Realizar una gastroplastia de Collis.",
+   "Abortar la operación e iniciar tratamiento con esteroides.",
+   "Tomar varias biopsias antes de abortar la operación."
+  ],
+  "ans": 2,
+  "why": "El ABSITE explica que, si se encuentra un esófago acortado durante la cirugía antirreflujo (longitud abdominal menor de 1 cm), hay que hacer una gastroplastia de Collis para alargarlo y evitar tensión en la reparación. Nissen estándar sin alargar queda con tensión; Dor se considera en dismotilidad; los esteroides y la esclerodermia no encajan (proceso difuso, sin otros síntomas); y la biopsia no justifica abortar dada la larga historia de ERGE sin síntomas sistémicos.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado). Sin discrepancia."
+ },
+ "f7e096f736": {
+  "k": "f7e096f736",
+  "estado": "confirmada",
+  "stem": "La disfagia lusoria se asocia más probablemente con:",
+  "opts": [
+   "Arco bovino",
+   "Arteria subclavia aberrante",
+   "Coartación de la aorta",
+   "Aneurisma de aorta ascendente",
+   "Conducto arterioso persistente"
+  ],
+  "ans": 1,
+  "why": "Sabiston: cuando existe una arteria subclavia derecha retroesofágica el paciente puede manifestar disfagia, lo que se conoce como disfagia lusoria; también describe la arteria subclavia aberrante derecha (arteria lusoria) que nace del cayado y cruza por detrás del esófago. Latarjet también nombra la disfagia lusoria. Arco bovino, coartación, aneurisma de aorta ascendente y conducto arterioso persistente no son la causa clásica.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1617 del PDF",
+   "Sabiston 21.ª ed., p. 901 del PDF",
+   "Latarjet, Anatomía humana t. 2, p. 126 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ "27ea0d6846": {
+  "k": "27ea0d6846",
+  "estado": "dudosa",
+  "stem": "Un hombre de 36 años acude a consulta por una masa esofágica incidental observada en una tomografía computarizada (TC), realizada tras un accidente automovilístico. No tuvo lesiones graves y fue dado de alta el mismo día. El esofagograma con bario muestra un defecto de llenado en forma de media luna, de bordes suaves. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta masa?",
+  "opts": [
+   "La resección es el tratamiento de elección.",
+   "Con frecuencia se presentan con tumores satélites.",
+   "No tienen riesgo de degeneración maligna.",
+   "La ecografía esofágica puede ser útil.",
+   "Debe realizarse una biopsia endoscópica preoperatoria."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la opción A fue cambiada respecto al libro ('resección con margen de 1 cm' pasó a 'La resección es el tratamiento de elección'). Como la enucleación es una forma de resección, la A también puede leerse como verdadera. (El revisor había propuesto la opción D.) El defecto de llenado liso en media luna, hallazgo incidental en un joven, es un leiomioma. El ABSITE dice que la ecografía esofágica es muy útil (región homogénea hipoecoica). Se enuclea, no se reseca con margen; suele ser solitario (múltiple en hasta 10%); tiene un pequeño riesgo de degeneración maligna; y no se debe biopsiar por riesgo de perforación mucosa y cicatriz que dificulta la resección.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). En el libro la opción A dice 'resección con margen de 1 cm' y el banco la resume como 'La resección es el tratamiento de elección'; ambas son falsas porque el tratamiento es la enucleación."
+ },
+ "5505aae27f": {
+  "k": "5505aae27f",
+  "estado": "confirmada",
+  "stem": "El esófago de Barrett:",
+  "opts": [
+   "Es una anomalía congénita",
+   "Ocurre con más frecuencia en pacientes de raza negra",
+   "Cuando se diagnostica, debe tratarse con una cirugía antirreflujo para prevenir cáncer",
+   "El diagnóstico requiere el reemplazo de un segmento de 3 cm de células escamosas por epitelio columnar",
+   "Presenta células caliciformes"
+  ],
+  "ans": 4,
+  "why": "El ABSITE indica que el rasgo distintivo del esófago de Barrett es la presencia de células caliciformes (metaplasia intestinal) en la biopsia. Es una patología adquirida, no congénita; es más frecuente en varones (3:1), y la cirugía antirreflujo no es obligatoria solo por el diagnóstico (no mostró diferencias en prevenir cáncer frente al tratamiento médico).",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 111 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 103 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). La opción B del banco dice 'raza negra' mientras el libro dice 'más frecuente en mujeres' y explica que es más común en varones; ninguna de las dos es correcta, y la opción E es la que el libro marca."
+ },
+ "cb2b64b18e": {
+  "k": "cb2b64b18e",
+  "estado": "confirmada",
+  "stem": "Durante una endoscopía alta por acalasia confirmada por manometría, el endoscopista sospecha que pudo haber causado una perforación inadvertida del esófago distal izquierdo. El paciente está estable y sin signos de sepsis. El esofagograma confirma un esófago marcadamente dilatado con una pequeña perforación distal libre. El manejo consiste en:",
+  "opts": [
+   "Antibióticos intravenosos (IV), mantener al paciente en ayuno (NPO), y observación estrecha",
+   "Toracotomía izquierda, reparación primaria, miotomía longitudinal en el lado contralateral",
+   "Reparación primaria laparoscópica y miotomía longitudinal en el lado ipsilateral",
+   "Esofagectomía con reconstrucción inmediata",
+   "Colocación de stent esofágico"
+  ],
+  "ans": 1,
+  "why": "El ABSITE: la perforación yatrógena en un paciente con acalasia debe repararse y, además, requiere tratamiento definitivo de la enfermedad: toracotomía izquierda, reparación primaria y miotomía longitudinal en el lado contralateral. La perforación libre pequeña requiere cirugía, no observación; el stent se reserva para cáncer irresecable y la esofagectomía para enfermedad que la exige. La reparación laparoscópica también necesita miotomía contralateral, no ipsilateral. Sabiston coincide: en acalasia, miotomía contralateral.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF",
+   "Sabiston 21.ª ed., p. 1059 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado). Sin discrepancia."
+ },
+ "c3cd6d2d2d": {
+  "k": "c3cd6d2d2d",
+  "estado": "dudosa",
+  "stem": "Un niño de 4 años se presenta al servicio de urgencias tras ingerir lejía accidentalmente. Presenta estridor y disfonía. Es intubado de urgencia y se le administran líquidos IV. Una radiografía de tórax en posición erguida no muestra evidencia de perforación. El paciente es admitido a UCI. El siguiente paso en el manejo es:",
+  "opts": [
+   "Esofagoscopía",
+   "Esofagografía",
+   "Tomografía computarizada de tórax",
+   "Observación estrecha",
+   "Laparotomía exploratoria inmediata"
+  ],
+  "ans": null,
+  "why": "Sabiston sobre la ingestión de cáusticos: la afectación de la vía aérea (estridor, ronquera) requiere intubación; la evaluación posterior incluye estudios radiográficos, idealmente TC de tórax y abdomen con contraste IV y oral, y luego la evaluación continúa en quirófano con endoscopia, que debe hacerse temprano porque el riesgo de perforación aumenta pasadas 48 h. El libro pone la TC antes de la endoscopia, lo que hace defendibles tanto A como C, y el enunciado no es un caso del ABSITE ni del libro con una respuesta explícita.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 del PDF",
+   "Sabiston 21.ª ed., p. 1060 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (esofagoscopia, resaltado). Sabiston recomienda endoscopia temprana en casi todos los pacientes, pero enumera la TC antes; no hay fuente que decida cuál va primero."
+ },
+ "347b3dcb07": {
+  "k": "347b3dcb07",
+  "estado": "confirmada",
+  "stem": "Durante los últimos 2 años, un hombre de 50 años ha reportado dificultad para tragar, descrita como una sensación de bulto en la garganta. Ha notado expectoración de saliva en exceso, disfagia, disfonía intermitente y algo de pérdida de peso. ¿Cuál de las siguientes afirmaciones es verdadera sobre el diagnóstico más probable?",
+  "opts": [
+   "Tragar es más fácil al despertar por la mañana y se vuelve más difícil a lo largo del día.",
+   "Se maneja mejor con diverticulectomía sola a través de una incisión cervical izquierda.",
+   "Involucra una evaginación de la muscularis propria.",
+   "La esofagectomía mejorará la supervivencia.",
+   "El paciente probablemente deba iniciar quimiorradiación."
+  ],
+  "ans": 0,
+  "why": "Es un divertículo de Zenker (bulto en la garganta, expectoración de saliva, disfonía, pérdida de peso). El ABSITE explica que los síntomas empeoran a lo largo del día conforme el divertículo se llena de comida. Es un divertículo falso (solo mucosa y submucosa), no de la muscularis propria; lo más importante es la miotomía cricofaríngea, no la diverticulectomía sola; y el cáncer es poco probable por la larga duración, por lo que no corresponden esofagectomía ni quimiorradiación.",
+  "fuentes": [
+   "absite (de Virgilio, 3.ª ed.), p. 114 del PDF",
+   "absite (de Virgilio, 3.ª ed.), p. 113 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (resaltado). Sin discrepancia."
+ },
+ "3c981c9ec4": {
+  "k": "3c981c9ec4",
+  "estado": "confirmada",
+  "stem": "La manometría esofágica realizada en un paciente con una verdadera hernia paraesofágica mostrará que el EEI está:",
+  "opts": [
+   "Por encima de la posición normal",
+   "En la posición normal",
+   "Hipertensivo",
+   "Hipotensivo",
+   "Corto"
+  ],
+  "ans": 1,
+  "why": "En la hernia paraesofágica (tipo II) la unión gastroesofágica y por tanto el EEI quedan en su posición normal; solo el fondo gástrico se desplaza hacia arriba. El EEI por encima de su posición normal es propio de la hernia por deslizamiento (tipo I). En esta hernia el EEI no es ni hipertensivo (eso es la acalasia) ni hipotensivo, y el acortamiento del EEI se relaciona con el reflujo.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 11)",
+   "de Virgilio ABSITE 3.ª ed., p. 108 del PDF (enunciado 11)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado) coincide con el libro."
+ },
+ "c94771a7ec": {
+  "k": "c94771a7ec",
+  "estado": "confirmada",
+  "stem": "Varón de 60 años, hepatitis C, hematemesis, PA 80/60, FC 110. ¿Qué hacer antes de endoscopia?",
+  "opts": [
+   "Propranolol",
+   "Octreótido IV",
+   "Sonda de Sengstaken-Blakemore",
+   "Tiempo de protrombina"
+  ],
+  "ans": 1,
+  "why": "En un cirrótico con hemorragia por várices, tras asegurar vía aérea, respiración y circulación, el abordaje recomendado combina fármacos vasoactivos (octreótido) con la intervención endoscópica. El tratamiento médico debe iniciarse lo antes posible porque reduce el sangrado activo y mejora el resultado de la endoscopia. El propranolol sirve para prevenir resangrado en várices crónicas, no en la hemorragia aguda; la sonda de balón es un recurso temporal con muchos inconvenientes; el tiempo de protrombina es un examen de laboratorio, no el tratamiento.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 14)",
+   "Sabiston 21.ª ed., p. 1469 del PDF (octreótido más endoscopia)",
+   "Sabiston 21.ª ed., p. 1470 del PDF (inconvenientes del balón)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original B (resaltado) coincide con el libro. El enunciado no dice que haya várices confirmadas; se asume sospecha de sangrado variceal por hepatitis C con hipertensión portal."
+ },
+ "f3f6a15d60": {
+  "k": "f3f6a15d60",
+  "estado": "confirmada",
+  "stem": "Manejo inicial de hemorragia por várices esofágicas:",
+  "opts": [
+   "Propanolol",
+   "Octreótido intravenoso",
+   "Sonda de Sengstaken-Blakemore",
+   "Tiempo de protrombina",
+   "Ninguna de las anteriores"
+  ],
+  "ans": 1,
+  "why": "Tras las medidas de reanimación (ABC), el manejo recomendado de la hemorragia variceal aguda es un fármaco vasoactivo (octreótido) junto con endoscopia; la combinación es más eficaz que el octreótido solo y es el tratamiento preferido. Entre las opciones, el octreótido IV es la única medida de tratamiento inicial. El propranolol previene el resangrado, el balón de Sengstaken-Blakemore es temporal y con alto resangrado, y el tiempo de protrombina es solo un examen.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 14)",
+   "Sabiston 21.ª ed., p. 1469 del PDF",
+   "Sabiston 21.ª ed., p. 1470 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original B (resaltado) coincide. Estrictamente, el primer paso global son las medidas ABC; de las opciones dadas, octreótido es la que respaldan los libros."
+ },
+ "8134ca2a65": {
+  "k": "8134ca2a65",
+  "estado": "dudosa",
+  "stem": "Un paciente de 85 años con hemorragia rectal fresca ingresa en estado de shock. Tras la reanimación con líquidos y hemoderivados, el examen rectal no identifica una fuente clara de sangrado. ¿Cuál es el siguiente paso en el tratamiento?",
+  "opts": [
+   "Gammagrafía con glóbulos rojos marcados",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Laparotomía",
+   "Angiografía mesentérica",
+   "Colonoscopia"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente trata este caso. (El revisor había propuesto la opción B.) Ante hematoquecia importante, tras descartar fuente anorrectal con tacto rectal y anoscopia, es importante descartar una fuente digestiva alta: hasta el 15% de los pacientes con hematoquecia la tienen. El libro de ABSITE indica pasar sonda nasogástrica y, en el paciente inestable, descartar el sangrado alto con EGD antes de pensar en otras pruebas. La colonoscopia se prefiere solo en pacientes estables; gammagrafía y angiografía se usan si persiste el sangrado y ya se descartó una fuente alta; la laparotomía queda para quien no se logra estabilizar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1185 del PDF (hasta 15% con fuente alta; EGD si se contempla cirugía)",
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF (XI. Lower GI Bleeding)",
+   "de Virgilio ABSITE 3.ª ed., p. 166 del PDF (respuesta 23)"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ningún libro dice textualmente este caso (85 años, shock, tacto rectal negativo); se deduce de que en hemorragia grave inestable se descarta primero la fuente alta con EGD. Clave original B (resaltado) coincide."
+ },
+ "851267f455": {
+  "k": "851267f455",
+  "estado": "confirmada",
+  "stem": "¿Cuál es una derivación selectiva para prevenir sangrado por várices esofágicas?",
+  "opts": [
+   "Shunt mesentérico-cava",
+   "TIPSS",
+   "Derivación espleno-renal distal (shunt warren)",
+   "Shunt portacava T–L",
+   "Derivación espleno-renal proximal"
+  ],
+  "ans": 2,
+  "why": "La derivación esplenorrenal distal (Warren) descomprime de forma selectiva las várices gastroesofágicas y deja intactas las venas mesentérica superior y porta. El TIPS es una derivación no selectiva (riesgo alto de encefalopatía), igual que las derivaciones portacava y mesocava; la esplenorrenal proximal (convencional) es no selectiva.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1184 del PDF",
+   "Sabiston 21.ª ed., p. 1473-1474 del PDF (Warren 1967; esplenorrenal convencional no selectiva)",
+   "de Virgilio ABSITE 3.ª ed., p. 74 del PDF (TIPS es no selectivo)"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Clave original C (resaltado) coincide. La opción 'Shunt portacava T-L' no figura como selectiva en los libros consultados."
+ },
+ "775d7335d5": {
+  "k": "775d7335d5",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años se presenta con dolor epigástrico punzante que ha estado presente durante 8 semanas. El dolor parece empeorar con la comida. Niega náuseas, vómitos o saciedad temprana. Ha perdido 10 libras y atribuye esto a una mala apetencia. Niega heces negras o con sangre. El examen físico es normal. ¿Cuál es el siguiente estudio que se debe ordenar?",
+  "opts": [
+   "Trago de bario",
+   "Tomografía computarizada",
+   "Endoscopía digestiva alta (EGD)",
+   "Prueba de inhibidor de bomba de protones por 6 semanas",
+   "Prueba para H. pylori"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): los libros no dan el algoritmo de la dispepsia con signos de alarma. (El revisor había propuesto la opción C.) Un varón de 60 años con dolor epigástrico de 8 semanas y pérdida de 10 libras necesita un estudio que visualice la mucosa y tome biopsia. Sabiston indica que la endoscopia digestiva alta es el método de elección para diagnosticar úlceras gástricas y duodenales, porque permite biopsia para descartar neoplasia, y que el cáncer gástrico se manifiesta con dolor epigástrico y adelgazamiento. El trago de bario fue sustituido en gran medida por la endoscopia; la TC no es el estudio inicial.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1233 del PDF (endoscopia, método de elección con biopsia)",
+   "Sabiston 21.ª ed., p. 1246 del PDF (síntomas del cáncer gástrico)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: los libros consultados no traen el algoritmo explícito de dispepsia con síntomas de alarma ni descartan la prueba con IBP/H. pylori con cita directa; se deduce del papel de la EGD con biopsia. Clave original C (resaltado) coincide."
+ },
+ "ae2eba2146": {
+  "k": "ae2eba2146",
+  "estado": "dudosa",
+  "stem": "Una mujer de 65 años se presenta con tres episodios de hematemesis en posos de café. Ha tenido dolor abdominal superior vago durante los últimos 2 meses, que mejora con antiácidos. Además, reporta una pérdida de peso involuntaria de 10 libras. Niega uso de AINEs o alcohol. Al examen físico, la TA es de 110/70 mmHg y la FC es de 80/min. El abdomen revela leve dolor epigástrico sin rebote ni defensa. Laboratorio: Hgb 8.3 g/dL, Hto 24%, VCM 80 fL, bilirrubina total 3.0 mg/dL, fosfatasa alcalina 250 IU/L, GGT 270 IU/L, ALT 300 IU/L, AST 320 IU/L. El diagnóstico más probable es:",
+  "opts": [
+   "Úlcera duodenal",
+   "Úlcera gástrica",
+   "Cáncer pancreático",
+   "Cáncer ampular",
+   "Lesión de Dieulafoy"
+  ],
+  "ans": null,
+  "why": "Los libros consultados no deciden esta pregunta. El cuadro (hematemesis en posos de café, anemia, pérdida de peso, patrón colestásico con bilirrubina 3.0, FA 250, GGT 270 y transaminasas elevadas) obliga a pensar en una lesión que sangre y obstruya la vía biliar, pero Sabiston solo da, para los tumores periampulares del páncreas, la ictericia (75%) y la hemorragia digestiva (1%) como síntomas de presentación y no distingue el cáncer ampular. No encontré en Sabiston, Giménez ni ABSITE un texto que atribuya a un cáncer ampular esta presentación frente a una úlcera, el cáncer de páncreas o la lesión de Dieulafoy.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1577-1578 del PDF (tumores periampulares, tabla 56.7)",
+   "de Virgilio ABSITE 3.ª ed., p. 87 del PDF (carcinoma ampular es adenocarcinoma duodenal)"
+  ],
+  "tema": "pancreas-bazo",
+  "nota": "Clave original D, cáncer ampular (resaltado). No se pudo confirmar con fuente; se deja dudosa en lugar de elegir por descarte."
+ },
+ "7c96facf25": {
+  "k": "7c96facf25",
+  "estado": "dudosa",
+  "stem": "Una mujer de 50 años se presenta con hemorragia digestiva alta masiva. En urgencias, vomita activamente grandes cantidades de sangre roja brillante. Está letárgica y pálida. TA 70/50 mmHg, FC 120/min, FR 22/min. El siguiente paso en el manejo es:",
+  "opts": [
+   "Endoscopía alta de urgencia",
+   "Intubación orotraqueal inmediata",
+   "Colocar al paciente en posición de Trendelenburg invertido",
+   "Administrar bolos de 2 litros de solución salina",
+   "Administrar dos unidades de sangre O-negativa"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la corrección es deducida (el revisor la marcó INDIRECTA): ningún libro dice que en este caso haya que intubar antes que lo demás. (El revisor había propuesto la opción B.) En una paciente con hematemesis masiva activa, letárgica y en shock, la prioridad es la vía aérea (ABCDE): la hematemesis grave o la alteración del estado mental pueden comprometer los reflejos protectores de la vía aérea, y si se necesita una vía aérea debe asegurarse. Por eso la intubación va antes de la endoscopia urgente. Los 2 litros de solución salina y la sangre O negativa son parte de la reanimación circulatoria, que sigue a la vía aérea; Sabiston prefiere hemoderivados en la hemorragia masiva. El Trendelenburg invertido no figura en las fuentes como medida de reanimación.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF (ABCDE, vía aérea prioritaria en hematemesis grave)",
+   "de Virgilio ABSITE 3.ª ed., p. 112 del PDF (respuesta 14: la vía aérea tiene precedencia)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: ningún libro dice textualmente 'intubar' en este caso; se deduce de la prioridad de la vía aérea con hematemesis masiva y letargia. Clave original A, endoscopia urgente (resaltado); en el examen de aula virtual podría haber sido A, pero la fuente prioriza la vía aérea."
+ },
+ "628472dfb6": {
+  "k": "628472dfb6",
+  "estado": "corregida",
+  "stem": "Un hombre de 48 años se presenta con hematemesis. Refiere un mes de dolor epigástrico que mejora al comer. Niega pérdida de peso. No toma medicamentos ni consume alcohol. Está hemodinámicamente estable. Tras la reanimación, se realiza una endoscopía alta que revela una úlcera posterior en el duodeno proximal con sangrado activo. A pesar de múltiples intentos de cauterización e inyección con epinefrina, el sangrado no se detiene y la presión arterial cae a 70/50 mmHg. El siguiente paso es:",
+  "opts": [
+   "Embolización angiográfica",
+   "Traslado a UCI para transfusión continua",
+   "Administrar vasopresina",
+   "Laparotomía exploradora",
+   "Administrar octreótido"
+  ],
+  "ans": 3,
+  "why": "Cuando el sangrado de una úlcera duodenal posterior no cede con múltiples intentos endoscópicos y el paciente cae en hipotensión, el tratamiento es quirúrgico. Sabiston enumera como indicaciones de cirugía el fracaso del tratamiento endoscópico y la inestabilidad hemodinámica, y reserva la embolización para pacientes hemodinámicamente estables o no aptos para cirugía. En la cirugía se abre el duodeno, se sutura el lecho de la úlcera y se considera vagotomía. La UCI con transfusión continua no controla la fuente, y las fuentes consultadas no listan vasopresina ni octreótido como tratamiento de la úlcera péptica sangrante.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1235-1236 del PDF (embolización solo si estable; indicaciones de cirugía)",
+   "de Virgilio ABSITE 3.ª ed., p. 130-131 del PDF (respuesta 31)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado), traslado a UCI para transfusión continua, no está respaldada por las fuentes."
+ },
+ "600a8c1ba5": {
+  "k": "600a8c1ba5",
+  "estado": "corregida",
+  "stem": "Un hombre de 45 años con antecedentes de alcoholismo se presenta con sangrado digestivo alto tras una noche de consumo excesivo. Refiere múltiples arcadas secas seguidas de hematemesis. Afebril, signos vitales normales. La endoscopía revela un desgarro parcial de la mucosa y submucosa cerca de la unión gastroesofágica. ¿Cuál de las siguientes es verdadera sobre esta condición?",
+  "opts": [
+   "Suele estar relacionada con hipertensión portal",
+   "Se asocia frecuentemente con derrame pleural izquierdo",
+   "Se asocia con infección por H. pylori",
+   "El sangrado suele provenir de la arteria gastroduodenal",
+   "El sangrado suele detenerse espontáneamente"
+  ],
+  "ans": 4,
+  "why": "El desgarro parcial de mucosa y submucosa tras arcadas es un síndrome de Mallory-Weiss. El libro dice que la mayoría de los sangrados por desgarros de Mallory-Weiss se detienen espontáneamente con manejo no quirúrgico. No se asocia a hipertensión portal ni a H. pylori, y el derrame pleural izquierdo es propio de la rotura completa de Boerhaave. El libro no atribuye el sangrado a la arteria gastroduodenal; la lesión está en la unión gastroesofágica.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 111 del PDF (respuesta 6)",
+   "de Virgilio ABSITE 3.ª ed., p. 107 del PDF (enunciado 6)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D, arteria gastroduodenal (resaltado), sin respaldo en el libro. El libro menciona que el sangrado suele ser arterial, pero no de la arteria gastroduodenal."
+ },
+ "b468d19915": {
+  "k": "b468d19915",
+  "estado": "corregida",
+  "stem": "Un hombre de 65 años se presenta con melena. Niega dolor abdominal o vómitos. No tiene antecedentes similares. FC 120/min, TA 112/80 mmHg. Hb 9.2 g/dL, Hto 28%. Tiene antecedente de bypass aortobifemoral 5 años atrás. Aspirado de sonda nasogástrica: líquido claro. Se interna en UCI, cesa la melena y se estabiliza el hematocrito. EGD negativa. Colonoscopía tras preparación intestinal también es negativa. TC abdominal muestra gas alrededor del injerto aórtico proximal. ¿Cuál afirmación es correcta?",
+  "opts": [
+   "La angiografía formal probablemente demuestre el foco de sangrado",
+   "El gas alrededor del injerto aórtico no es patológico",
+   "El injerto aórtico probablemente requerirá extracción",
+   "El resangrado es raro",
+   "Esto representa un sangrado oculto"
+  ],
+  "ans": 2,
+  "why": "Un paciente con injerto aortobifemoral previo, melena autolimitada, EGD y colonoscopia negativas y gas alrededor del injerto en la TC tiene una fístula aortoentérica presumida. El libro indica que el manejo es la extirpación del injerto, cierre del duodeno y revascularización; la endoscopia es negativa con frecuencia y la angiografía aporta poco al diagnóstico. El sangrado inicial es un sangrado centinela, tras el cual puede detenerse temporalmente. El aire perigraft es hallazgo anormal, no normal. No se trata de un sangrado oculto: hay melena visible.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 290 del PDF (respuesta 31)",
+   "de Virgilio ABSITE 3.ª ed., p. 275 del PDF (aortoenteric fistula: graft excision)",
+   "de Virgilio ABSITE 3.ª ed., p. 144 del PDF (sangrado obscuro puede ser oculto u overt)"
+  ],
+  "tema": "torax-vascular",
+  "nota": "Clave original E, sangrado oculto (resaltado). El libro (p. 144) define el sangrado obscuro como el que persiste o recurre sin fuente tras EGD y colonoscopia; aquí la fuente se sospecha por la TC y el sangrado cesó, por lo que se prefiere C."
+ },
+ "9699a67c0c": {
+  "k": "9699a67c0c",
+  "estado": "corregida",
+  "stem": "¿Cuál es la causa más común de perforación esofágica?",
+  "opts": [
+   "Síndrome de Boerhaave (perforación espontánea)",
+   "Iatrogénica",
+   "Cuerpo extraño",
+   "Cáncer esofágico",
+   "Trauma"
+  ],
+  "ans": 1,
+  "why": "Las lesiones iatrogénicas (instrumentación, endoscopia, dilatación) son la causa más común de perforación esofágica, y ocurren en zonas de estrechez como el cricofaríngeo y la unión gastroesofágica. El síndrome de Boerhaave es la forma espontánea, y el cuerpo extraño, el trauma y el cáncer son causas menos frecuentes.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 110 del PDF (respuesta 4)",
+   "de Virgilio ABSITE 3.ª ed., p. 105 del PDF (VI. Esophageal Perforation)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (causas más reconocidas)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original C, cuerpo extraño (resaltado), no respaldada."
+ },
+ "e627dd6901": {
+  "k": "e627dd6901",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes es verdadera sobre el síndrome de Boerhaave?",
+  "opts": [
+   "Se presenta con mayor frecuencia como hemorragia digestiva alta",
+   "Es causado más frecuentemente por una lesión iatrogénica",
+   "Es un desgarro de espesor parcial del esófago",
+   "Es la perforación gastrointestinal más letal",
+   "El tratamiento consiste en reposo intestinal y antibióticos IV"
+  ],
+  "ans": null,
+  "why": "Ninguna opción queda respaldada con claridad por los libros. A es falsa (la hemorragia digestiva alta es la presentación del Mallory-Weiss), B es falsa (la causa más común de perforación esofágica es iatrogénica, pero Boerhaave es la forma espontánea) y C es falsa (Boerhaave es un desgarro de espesor completo; el de espesor parcial es Mallory-Weiss). E no es correcta como único tratamiento: el libro inicia con NPO, líquidos y antibióticos, y el manejo no operatorio solo si el paciente es estable, no séptico y la perforación está contenida. La opción D, 'la perforación gastrointestinal más letal', no tiene cita en Sabiston, Giménez ni ABSITE (Sabiston solo da mortalidad global de 15 a 30% para la perforación esofágica sin compararla con otras).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 111 del PDF (Boerhaave vs Mallory-Weiss)",
+   "de Virgilio ABSITE 3.ª ed., p. 105 del PDF (manejo)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (mortalidad 15-30%)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado), causado más frecuentemente por lesión iatrogénica, no está respaldada. D podría ser la intención de la pregunta, pero sin fuente se deja dudosa."
+ },
+ "20b9e58ac0": {
+  "k": "20b9e58ac0",
+  "estado": "corregida",
+  "stem": "¿Cuál es el primer paso en el tratamiento del síndrome de Boerhaave?",
+  "opts": [
+   "Esofagectomía",
+   "Descompresión gástrica",
+   "Drenaje de mediastino y pleura",
+   "Reparación primaria con colgajo de avance",
+   "Resucitación con líquidos y antibióticos IV"
+  ],
+  "ans": 4,
+  "why": "En la perforación esofágica, incluido el Boerhaave, el manejo comienza con NPO, reanimación con líquidos IV y antibióticos de amplio espectro (incluidos antifúngicos); después se decide el control de la fuente. La reparación primaria, el drenaje y la esofagectomía vienen después de reanimar y confirmar el diagnóstico con esofagrama.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 105 del PDF (VI.C Management)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (antibióticos de amplio espectro y control de contaminación)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D, reparación primaria con colgajo (resaltado), no respaldada como primer paso."
+ },
+ "9dcda49b02": {
+  "k": "9dcda49b02",
+  "estado": "confirmada",
+  "stem": "Un hombre septuagenario que recibe cuidados paliativos en un centro de atención prolongada comienza a desarrollar neumonías recurrentes. Se realiza un trago de bario y se observa una evidente evaginación dentro del cuello izquierdo, entre los niveles de la faringe y el esófago. ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Divertículo de Meckel",
+   "Divertículo medio esofágico por tracción",
+   "Divertículo verdadero",
+   "Divertículo de Zenker"
+  ],
+  "ans": 3,
+  "why": "El divertículo de Zenker es un divertículo falso por pulsión que se forma por el triángulo de Killian, entre el constrictor inferior y el cricofaríngeo (unión faringoesofágica), es el divertículo esofágico más común y se presenta en mayores de 60 años con disfagia y regurgitación de alimento sin digerir. El divertículo medioesofágico por tracción se debe a tracción externa (p. ej., ganglios con tuberculosis) y Zenker es falso, no verdadero; el de Meckel es un divertículo intestinal congénito, no esofágico.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 113 del PDF (respuesta 18)",
+   "de Virgilio ABSITE 3.ª ed., p. 104 del PDF (E. Zenker diverticulum)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D (resaltado) coincide."
+ },
+ "ad01090633": {
+  "k": "ad01090633",
+  "estado": "confirmada",
+  "stem": "Un hombre de 42 años con alcoholismo de larga data es llevado al departamento de emergencias por su familia después de vomitar grandes volúmenes de sangre roja brillante. La esofagoscopia a pie de cama revela desgarros de la mucosa cerca de la unión gastroesofágica (UGE). ¿Cuál de las siguientes afirmaciones con respecto a esta condición es verdadera?",
+  "opts": [
+   "No se puede establecer el diagnóstico sin el uso de tomografía computarizada (TC)",
+   "La endoscopia no solo es diagnóstica, sino también terapéutica",
+   "La enfermedad suele ser fatal",
+   "La morbilidad de esta enfermedad normalmente requiere intervención quirúrgica",
+   "La presentación de esta enfermedad es una indicación para tamizaje de Helicobacter pylori"
+  ],
+  "ans": 1,
+  "why": "El desgarro de Mallory-Weiss es una lesión de espesor parcial de la mucosa y submucosa cerca de la unión gastroesofágica, típica del alcohólico con arcadas y vómitos. Se diagnostica por historia y la endoscopia confirma el diagnóstico; además, la hemorragia se trata por endoscopia (inyección de epinefrina o esclerosantes), por lo que la endoscopia es diagnóstica y terapéutica. No hace falta TC (A), la mayoría deja de sangrar espontáneamente sin cirugía (D), y no suele ser fatal ni se relaciona con tamizaje de H. pylori (C, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 111 del PDF",
+   "Sabiston 21.ª ed., p. 1180 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Texto reparado con el original (opciones A y D estaban cortadas). Cita ABSITE: la mayoría de los sangrados de Mallory-Weiss cesa con manejo no quirúrgico, se hace endoscopia para confirmar el diagnóstico y se inyectan esclerosantes o epinefrina para evitar el resangrado."
+ },
+ "c5325a2442": {
+  "k": "c5325a2442",
+  "estado": "confirmada",
+  "stem": "Un hombre de 50 años se presenta al servicio de urgencias después de la aparición repentina de dolor constante en la espalda y el abdomen tras vómitos prolongados en los últimos días. Niega hematemesis. La exploración física de la cavidad oral es normal, pero la palpación del tórax revela crepitaciones, y la auscultación revela ruidos de crujido con cada respiración. ¿Cuál de los siguientes es el mejor primer paso para el diagnóstico?",
+  "opts": [
+   "Tomografía computarizada",
+   "Tomografía computarizada con contraste",
+   "Esofagoscopía",
+   "Estudio con contraste oral con bario",
+   "Estudio con contraste oral con Gastrografin"
+  ],
+  "ans": 4,
+  "why": "Vómitos prolongados con dolor súbito y crepitación en tórax (enfisema subcutáneo) sugieren perforación esofágica (síndrome de Boerhaave). El estudio inicial recomendado es el esofagograma con contraste hidrosoluble (Gastrografin); si es negativo o dudoso, se repite con bario diluido, que es más sensible pero causa mediastinitis/peritonitis si hay fuga. La TC y la esofagoscopia no son el primer paso (la endoscopia puede agrandar una perforación pequeña).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 105 del PDF",
+   "Sabiston 21.ª ed., p. 434 del PDF",
+   "Sabiston 21.ª ed., p. 1058 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original E, confirmada. Diferencia entre fuentes: Sabiston p. 1058 llama estándar al esofagograma con bario (y acepta TC con contraste oral), pero ABSITE p. 105 y Sabiston p. 434 indican contraste hidrosoluble primero y luego bario fino; se sigue esa secuencia porque la pregunta pide el 'primer paso'."
+ },
+ "a44f7fa404": {
+  "k": "a44f7fa404",
+  "estado": "dudosa",
+  "stem": "Una mujer de 22 años es traída por los servicios de emergencia al departamento de urgencias tras un intento suicida fallido. Al llegar, se le informa que consumió una gran cantidad de un limpiador doméstico no identificado y fue encontrada cubierta de vómito. Tiene fiebre, signos vitales normales, se retuerce de dolor en la camilla y no puede proporcionar información. El examen oral revela eritema e hipersalivación. ¿Cuál de los siguientes es el paso más crucial en el tratamiento de esta paciente?",
+  "opts": [
+   "Administración de un emético",
+   "Estimular la hidratación oral",
+   "Esofagoscopía",
+   "Intervención quirúrgica con resección de las porciones esofágicas afectadas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Ninguna fuente dice cuál es el 'paso más crucial' ni descarta con cita las otras opciones; además, en una pregunta parecida (lozano c3cd6d2d2d) Sabiston pone la TC antes de la endoscopia. (El revisor había propuesto la opción C.) En la ingestión de cáusticos el paso clave es la evaluación endoscópica temprana del grado y extensión de la lesión: Sabiston indica que, salvo raras excepciones, debe hacerse en la mayoría de los pacientes, al inicio del curso hospitalario (el riesgo de perforación aumenta pasadas 48 h), y la clasificación endoscópica guía el tratamiento. La cirugía depende de la evolución clínica y del hallazgo de necrosis o perforación (D). Emético e hidratación oral no figuran en el manejo descrito por el libro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 del PDF",
+   "Sabiston 21.ª ed., p. 1060 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro respalda la esofagoscopia temprana pero no dice textualmente 'paso más crucial' ni descarta con cita el emético (A) ni la hidratación oral (B); estas se descartan por razonamiento. Sabiston también menciona antes la vía aérea y la TC con contraste, que no figuran como opciones."
+ },
+ "7c69bed5ac": {
+  "k": "7c69bed5ac",
+  "estado": "dudosa",
+  "stem": "Una mujer de 86 años acude a tu consulta para seguimiento programado después de una mastectomía. En la revisión de sistemas, refieres que ha tenido una pérdida de peso involuntaria de 15 libras y ha desarrollado disfunción aguda de la deglución con regurgitación ocasional. Al indagar, menciona que la disfagia ocurre con sólidos y líquidos, y que su dolor disfágico se alivia con nitroglicerina que le fue prescrita por su cardiólogo. Su dolor no está relacionado con el ejercicio físico. El examen físico, incluyendo un examen cardiovascular completo, es normal. Se obtiene una serie gastrointestinal superior y se muestra una imagen representativa en la Figura 5-2. ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Acalasia",
+   "Enfermedad por reflujo gastroesofágico",
+   "Angina estable",
+   "Hernia hiatal tipo I",
+   "Divertículo de Zenker"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Falta en el banco la figura de la que depende la pregunta. (El revisor había propuesto la opción A.) La disfagia que aparece tanto con sólidos como con líquidos orienta a un trastorno neuromuscular; junto con regurgitación y pérdida de peso forma la tríada clásica de la acalasia. La nitroglicerina (relajante del músculo liso del EEI) puede dar horas de alivio del dolor torácico en acalasia. El esofagograma suele mostrar el 'pico de pájaro'. La angina estable se descarta por la ausencia de relación con el ejercicio y el examen cardiovascular normal; el divertículo de Zenker es cervical y la hernia tipo I o la ERGE no explican este cuadro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1049 del PDF",
+   "Sabiston 21.ª ed., p. 1051 del PDF",
+   "Sabiston 21.ª ed., p. 1087 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 104 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: ninguna fuente describe esta viñeta completa; la clave se deduce de la tríada y del alivio con nitroglicerina. La Figura 5-2 (esofagograma) no está en el banco ni en el texto, y la ancianidad con pérdida de peso obliga a descartar pseudoacalasia por tumor (Sabiston p. 1051 recomienda endoscopia), pero ninguna otra opción encaja."
+ },
+ "34cf6d3fde": {
+  "k": "34cf6d3fde",
+  "estado": "confirmada",
+  "stem": "Un hombre de 27 años acude a tu consulta con pirosis retroesternal posprandial y náuseas. Sus síntomas ocurren todas las noches, empeoran después de comidas copiosas y son comunes al acostarse después de cenar. Nunca ha buscado tratamiento por este nuevo problema. Tiene antecedentes médicos y quirúrgicos benignos. Su historia familiar no aporta nada relevante. Consume dos o tres tazas de café al día y toma una o dos cervezas los fines de semana con la cena. ¿Cuál de los siguientes es el mejor método para establecer el diagnóstico de este paciente?",
+  "opts": [
+   "Electrocardiograma",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Estudio con bario por vía oral",
+   "Prueba terapéutica con nitroglicerina",
+   "Monitoreo del pH esofágico por 24 horas"
+  ],
+  "ans": 4,
+  "why": "La monitorización ambulatoria del pH durante 24 h cuantifica la exposición ácida del esófago distal y es la prueba de referencia para el diagnóstico de ERGE. El ECG y la prueba con nitroglicerina buscan causa cardíaca o espasmo, el bario no puede confirmar ni descartar ERGE, y la endoscopia evalúa daño de mucosa (esofagitis, Barrett) pero no mide el reflujo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1084 del PDF",
+   "Sabiston 21.ª ed., p. 1086 del PDF",
+   "Giménez, Cirugía 2.ª ed., p. 380 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Matiz: Sabiston p. 1083 y 1088 señalan que en síntomas típicos el diagnóstico clínico con respuesta a IBP suele bastar; esa opción no está entre las alternativas, por lo que la respuesta es la prueba de referencia."
+ },
+ "19a2dfbb38": {
+  "k": "19a2dfbb38",
+  "estado": "confirmada",
+  "stem": "El paciente del caso anterior regresa a tu consulta después de realizarse los estudios ambulatorios que tú solicitaste. ¿Cuál de los siguientes es el manejo ideal para este paciente asumiendo que se confirma tu diagnóstico sospechado?",
+  "opts": [
+   "Dilatación endoscópica y/o colocación de stent",
+   "Funduplicatura total de Nissen",
+   "Tratamiento farmacológico con ranitidina",
+   "Tratamiento farmacológico con omeprazol",
+   "Observación"
+  ],
+  "ans": 3,
+  "why": "Para síntomas típicos de ERGE sin signos de alarma, el tratamiento inicial es un curso de 8 semanas de inhibidor de bomba de protones (omeprazol es un IBP). La respuesta de los síntomas se considera diagnóstica y terapéutica. La dilatación/stent es para estenosis, la funduplicatura se reserva para falla del tratamiento médico, los anti-H2 (ranitidina) han sido superados por los IBP y la observación no trata una ERGE sintomática.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1088 del PDF",
+   "Sabiston 21.ª ed., p. 1055 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Texto reparado con el original: la opción A completa es 'Dilatación endoscópica y/o colocación de stent'. La pregunta depende del caso anterior (ERGE)."
+ },
+ "6e00a943df": {
+  "k": "6e00a943df",
+  "estado": "confirmada",
+  "stem": "Una mujer de 47 años regresa a tu consultorio después de una endoscopia alta realizada por síntomas persistentes de ERGE. El informe operatorio indica la presencia de parches de mucosa esofágica de color rojo aterciopelado a nivel de la unión gastroesofágica (UGE). Se tomaron múltiples biopsias. El informe patológico correspondiente indica la presencia de esófago de Barrett. Le comunicas a la paciente su mayor riesgo de malignidad esofágica y la necesidad de tratamiento médico continuo y posible tratamiento quirúrgico. ¿Cuál de las siguientes afirmaciones describe con mayor precisión los hallazgos patológicos del esófago de Barrett?",
+  "opts": [
+   "Maduración escamosa anormal con numerosos eosinófilos intraepiteliales",
+   "Invasión de células glandulares displásicas en la lámina propia",
+   "Metaplasia de epitelio columnar a epitelio escamoso",
+   "Metaplasia de epitelio escamoso a epitelio columnar",
+   "Células endoteliales gigantes multinucleadas con inclusiones citoplásmicas"
+  ],
+  "ans": 3,
+  "why": "El esófago de Barrett es la metaplasia intestinal del esófago distal por reflujo ácido: el epitelio escamoso estratificado normal es reemplazado por epitelio columnar con células caliciformes. La opción C invierte el sentido de la metaplasia; B describe invasión (adenocarcinoma), A y E no corresponden a Barrett.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 103 del PDF",
+   "Sabiston 21.ª ed., p. 1087 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Texto reparado con el original: opción A completa 'Maduración escamosa anormal con numerosos eosinófilos intraepiteliales'."
+ },
+ "d95410f2ac": {
+  "k": "d95410f2ac",
+  "estado": "dudosa",
+  "stem": "Un hombre de 39 años acude a seguimiento por ERGE de larga data y una hernia hiatal sospechada. Sus síntomas incluyen disfagia y plenitud posprandial. Toma omeprazol desde hace 6 meses sin alivio de los síntomas. No se han realizado estudios endoscópicos. El esofagograma con bario muestra una unión gastroesofágica estable con herniación del estómago más allá del diafragma. ¿Cuál de los siguientes es el diagnóstico más probable actualmente?",
+  "opts": [
+   "Hernia hiatal tipo I (deslizante)",
+   "Hernia hiatal tipo II (paraesofágica)",
+   "Hernia hiatal tipo III (mixta)",
+   "Hernia hiatal tipo IV (mixta con participación de otro órgano)"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): el libro define los tipos de hernia, pero no presenta este caso. (El revisor había propuesto la opción B.) En la hernia paraesofágica (tipo II) la unión gastroesofágica y el EEI permanecen en su posición normal bajo el diafragma, mientras el fondo gástrico se hernia hacia el tórax; produce disfagia y plenitud posprandial y no mejora con IBP. En la tipo I (deslizante) la propia unión sube al mediastino y predomina el reflujo; la tipo III es la combinación de I y II.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro define los tipos, pero no la viñeta; se deduce de 'unión gastroesofágica estable' con herniación del estómago. El stem no menciona tipo IV en el libro ABSITE (solo describe tres tipos); la opción D no se pudo contrastar."
+ },
+ "e68699db02": {
+  "k": "e68699db02",
+  "estado": "confirmada",
+  "stem": "Una mujer de 56 años con cirrosis hepática terminal por alcoholismo acude a urgencias con hematemesis difusa. A la admisión, su presión sistólica es 85 mmHg y no se detecta presión diastólica. En el examen, presenta estado mental alterado, gran cantidad de sangre en su ropa y sangre seca en la mucosa oral. Parece caquéctica e ictérica. Según el informe de urgencias, ha vomitado 750 ml de sangre roja brillante desde su llegada, hace 30 minutos. ¿Cuál de los siguientes es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Ensayo de manejo médico con octreótido intravenoso continuo",
+   "Cirugía urgente con creación de derivación portocava",
+   "Taponamiento endoscópico con balón",
+   "Ligadura endoscópica de várices",
+   "Derivación portosistémica intrahepática"
+  ],
+  "ans": 3,
+  "why": "En la hemorragia aguda por várices el manejo inicial es reanimación (vía aérea y volumen) junto con fármacos vasoactivos y antibióticos, y la endoscopia temprana con ligadura con bandas, que es la modalidad de elección para el control inicial (controla 80-90% de los episodios y es mejor que la escleroterapia). El taponamiento con balón es un rescate, la DPIT (TIPS) se usa si fallan fármacos y endoscopia, y la derivación quirúrgica de urgencia tiene mortalidad mayor de 25%.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1469 del PDF",
+   "Sabiston 21.ª ed., p. 1470 del PDF",
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 112 del PDF"
+  ],
+  "tema": "hipertension-portal",
+  "nota": "Matiz: Sabiston dice que el octreótido solo es tan eficaz como la endoscopia en ensayos, pero que la combinación con endoscopia es la preferida y que la ligadura con bandas es la modalidad de elección para el control inicial; la opción A es un manejo médico solo, por eso la clave D. La reanimación inicial no aparece entre las opciones."
+ },
+ "114ff6cadd": {
+  "k": "114ff6cadd",
+  "estado": "dudosa",
+  "stem": "Una mujer de 39 años acude a su médico de atención primaria por pirosis. Tiene antecedentes de artritis reumatoide y lupus eritematoso sistémico (LES), ambos tratados por su reumatólogo. Informa que tiene ANA positivo. Antes de realizar tu examen físico, ¿cuál de los siguientes hallazgos esperarías encontrar en esta paciente?",
+  "opts": [
+   "Ausencia de células ganglionares en biopsia rectal",
+   "Estrechamiento en “pico de pájaro” en esofagograma",
+   "Anticuerpos antimitocondriales positivos",
+   "Esclerodactilia"
+  ],
+  "ans": null,
+  "why": "El stem menciona artritis reumatoide, lupus y ANA positivo, pero no esclerodermia ni Raynaud. Sabiston p. 1046 cita el LES entre las causas de trastorno secundario de la motilidad esofágica junto con la esclerodermia, pero ninguna fuente consultada dice que la esclerodactilia sea un hallazgo esperado en RA o LES. Las otras opciones corresponden a otras enfermedades (ausencia de células ganglionares: Hirschsprung/acalasia; pico de pájaro: acalasia; AMA: cirrosis biliar primaria). Como el enunciado no establece el diagnóstico de esclerodermia, la evidencia no decide la respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1046 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D (resaltado), no verificable: parece que falta el dato 'esclerodermia' en el enunciado traducido. Texto reparado con el original (opciones A y B completas)."
+ },
+ "84221af825": {
+  "k": "84221af825",
+  "estado": "dudosa",
+  "stem": "Tu servicio de cirugía recibe la interconsulta de una mujer de 51 años en urgencias, paciente institucionalizada en un hospital psiquiátrico. Recientemente ha comenzado a quejarse de intolerancia a la vía oral y vómitos en proyectil asociados a las comidas. La TC abdominal muestra distensión gástrica inmensa, con contenido que incluye cabello. ¿Cuál de las siguientes es la intervención más apropiada a ejecutar por el equipo quirúrgico?",
+  "opts": [
+   "Gastrectomía",
+   "Esplenectomía",
+   "Terapia endoscópica",
+   "Vagotomía y piloroplastía",
+   "Inhibidores de bomba de protones y dos antibióticos por 3 semanas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave sale por descarte (el revisor la marcó INDIRECTA). El tratamiento quirúrgico que da la fuente (gastrotomía) no está entre las opciones. (El revisor había propuesto la opción C.) Es un tricobezoar gástrico (paciente psiquiátrica con cabello en el estómago). Sabiston indica que los tricobezoares suelen resistir la disolución química y que, si esta no sirve, se recurre a la fragmentación endoscópica con extracción; la cirugía se reserva para falla del tratamiento conservador o complicaciones. Entre las opciones, la terapia endoscópica es la única que corresponde; gastrectomía, esplenectomía y vagotomía-piloroplastia no tienen indicación, y los IBP con antibióticos tratan úlcera por H. pylori.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1261 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: Sabiston no trata exactamente este caso (distensión gástrica inmensa); la clave se deduce del escalón endoscópico y de que la opción quirúrgica adecuada (gastrotomía) no figura. Texto reparado con el original: E es 'Inhibidores de bomba de protones y dos antibióticos por 3 semanas'."
+ },
+ "e3d108785d": {
+  "k": "e3d108785d",
+  "estado": "dudosa",
+  "stem": "Una mujer de 63 años presenta dolor epigástrico sordo, náuseas posteriores a las comidas y alivio con carbonato de calcio de venta libre desde hace 11 meses. Tiene antecedentes de endometriosis y dos cesáreas, la más reciente hace 28 años. El examen físico solo muestra sensibilidad epigástrica vaga. La prueba de sangre oculta en heces es positiva. Las colonoscopías previas son normales. ¿Cuál de los siguientes es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Medición de niveles séricos de gastrina",
+   "Serología para anticuerpos contra H. pylori",
+   "Laparoscopia diagnóstica",
+   "Tratamiento médico con omeprazol",
+   "Esofagogastroduodenoscopia"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente trata este caso. (El revisor había propuesto la opción E.) Dispepsia crónica con sangre oculta en heces positiva en una paciente de 63 años sugiere enfermedad ulcerosa o neoplasia gástrica. La endoscopia digestiva alta es el método de elección y el más fiable para diagnosticar úlceras gástricas y duodenales, permite biopsiar para descartar cáncer y probar H. pylori, y ha reemplazado al tránsito con bario. La serología de H. pylori o el IBP empírico tratarían sin descartar malignidad, y la gastrina o la laparoscopia no son el siguiente paso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1233 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: Sabiston respalda la endoscopia como método de elección en úlcera, pero no trata textualmente la dispepsia con sangre oculta en heces a esa edad."
+ },
+ "f6423d0644": {
+  "k": "f6423d0644",
+  "estado": "confirmada",
+  "stem": "La paciente del caso anterior sigue el plan de manejo indicado. Los resultados confirman úlcera péptica e infección por H. pylori. ¿Cuál de los siguientes es el tratamiento más apropiado para esta paciente?",
+  "opts": [
+   "Amoxicilina, claritromicina y omeprazol por 10 a 14 días",
+   "Amoxicilina, claritromicina y omeprazol por 30 días",
+   "Metronidazol, claritromicina y omeprazol por 30 días",
+   "Metronidazol, tetraciclina y omeprazol con bismuto por 10 a 14 días",
+   "Metronidazol, tetraciclina y omeprazol con bismuto por 30 días"
+  ],
+  "ans": 0,
+  "why": "En úlcera péptica con H. pylori, sin alergia a penicilina ni exposición previa a macrólidos, el tratamiento es la terapia triple estándar: IBP más claritromicina y amoxicilina, en tanda de 14 días según las guías citadas por Sabiston. Los esquemas de 30 días no están recomendados; metronidazol con tetraciclina, bismuto e IBP es la terapia cuádruple, reservada para riesgo de resistencia a macrólidos o alergia a penicilina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1234 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "La opción A dice '10 a 14 días' (Sabiston: 14 días para triple, 10-14 para cuádruple); incluye los 14 días. La pregunta depende del caso anterior, que no menciona alergia ni macrólidos."
+ },
+ "19b24a589f": {
+  "k": "19b24a589f",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años con antecedentes de ERGE, úlcera péptica, hipertensión y obesidad acude a seguimiento. Recientemente completó terapia para erradicar H. pylori y continúa tomando omeprazol. Sus pruebas de sangre oculta en heces han sido negativas en el último año. ¿Cuál de los siguientes síntomas del paciente ayuda a diferenciar entre úlcera gástrica y duodenal en la enfermedad ulcerosa péptica?",
+  "opts": [
+   "Alivio de los síntomas con modificaciones dietéticas",
+   "Eliminación de las lesiones ulcerosas tras erradicar H. pylori",
+   "Relación entre severidad del dolor y el consumo de alimentos",
+   "Resultados de estudios radiológicos"
+  ],
+  "ans": null,
+  "why": "Sabiston p. 1232 dice que la anamnesis y la exploración física tienen valor limitado para distinguir entre úlcera gástrica y duodenal, y describe el dolor de la duodenal como bien localizado y que con frecuencia se alivia con la comida; no describe un patrón equivalente de la gástrica. Ningún libro consultado establece que la relación entre el dolor y la ingesta distinga ambas úlceras, así que la clave original C no tiene cita directa y no se puede confirmar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1232 del PDF",
+   "Sabiston 21.ª ed., p. 1231 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original C (resaltado). Texto reparado con el original: la opción C completa es 'Relación entre severidad del dolor y el consumo de alimentos'. En ABSITE no se halló pasaje sobre el tema."
+ },
+ "a4ce8f3575": {
+  "k": "a4ce8f3575",
+  "estado": "dudosa",
+  "stem": "Una mujer japonesa de 87 años, con antecedente de adenocarcinoma gástrico tratado con gastrectomía parcial, presenta fatiga creciente. En la evaluación, sus signos vitales son estables pero con taquicardia de 117 lpm, palidez marcada y mucosas pálidas. ¿Cuál de las siguientes afirmaciones describe correctamente el resultado del test de Schilling en esta paciente?",
+  "opts": [
+   "Administración oral de B12 radiomarcada junto con B12 intramuscular → excreción urinaria del 30%",
+   "Administración de B12 radiomarcada junto con factor intrínseco → excreción urinaria del 30%",
+   "Administración de B12 radiomarcada después de 10 días de antibióticos → excreción urinaria del 30%",
+   "Administración de B12 radiomarcada con 5 días de enzimas pancreáticas orales → excreción urinaria del 30%"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Además, otra pregunta de Schilling tras gastrectomía (lozano b4f26299fe) quedó dudosa porque las fuentes dan dos causas posibles. (El revisor había propuesto la opción B.) En el test de Schilling se da B12 oral radiomarcada con B12 intramuscular sin marcar para forzar su excreción urinaria; si no se excreta, se repite con factor intrínseco, y si entonces aparece en orina (normal 7-25%) se confirma déficit de factor intrínseco (anemia perniciosa). Tras gastrectomía parcial falta factor intrínseco, por lo que la excreción se normaliza al agregarlo (B). La opción C (antibióticos) corrige el sobrecrecimiento bacteriano, la D (enzimas pancreáticas) la insuficiencia pancreática y la A es el paso inicial, donde esta paciente excretaría poco.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE 3.ª ed., p. 133 del PDF",
+   "Sabiston 21.ª ed., p. 1318 del PDF",
+   "Sabiston 21.ª ed., p. 1242 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro describe el test en general y que la gastrectomía subtotal causa déficit de B12 por falta de factor intrínseco; aplicar ambos a la paciente es deducción. Texto reparado con el original: opción A completa 'Administración oral de B12 radiomarcada junto con B12 intramuscular → excreción urinaria del 30%'."
+ },
+ "036bbb14f3": {
+  "k": "036bbb14f3",
+  "estado": "dudosa",
+  "stem": "Un hombre de 25 años con dispepsia y diarrea crónicas es diagnosticado con úlcera duodenal mediante endoscopía, sin malignidad ni infección por H. pylori. Tras evitar AINEs y tratamiento con IBP, los síntomas persisten un año después. ¿Cuál de los siguientes resultados confirmaría el diagnóstico de síndrome de Zollinger-Ellison?",
+  "opts": [
+   "Aumento marcado de gastrina sérica tras administración de secretina",
+   "Niveles de gastrina en ayunas > 1000 pg/mL",
+   "Medición de secreción de ácido gástrico",
+   "Niveles de gastrina no en ayunas > 1000 pg/mL"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que para el diagnóstico de Zollinger-Ellison no suelen hacer falta pruebas de provocación porque la gastrina en ayunas está elevada, y que valores superiores a 1.000 pg/ml resultan diagnósticos; la gastrina estimulada por secretina (aumento mayor de 200 pg/ml) es la prueba más sensible para los casos dudosos. De Virgilio también da la secretina como la prueba más sensible y específica, y la gastrina mayor de 1000 pg/mL en ayunas, con úlcera y pH gástrico menor de 2, como confirmación. Entonces tanto A (secretina) como B (gastrina en ayunas mayor de 1000) confirman el diagnóstico según los libros, y el enunciado no da el valor de gastrina; C no confirma y D no es la medición diagnóstica. La evidencia no decide entre A y B.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1239-1242 del PDF (síndrome de Zollinger-Ellison)",
+   "de Virgilio ABSITE 3.ª ed., p. 77 del PDF (diagnóstico de gastrinoma)",
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 35)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: B (resaltado en el banco). Se marca dudosa porque dos opciones (A y B) están respaldadas como confirmatorias en los libros."
+ },
+ "686d3a5b50": {
+  "k": "686d3a5b50",
+  "estado": "confirmada",
+  "stem": "Una mujer afroamericana de 61 años con ERGE refractaria presenta en endoscopía varias lesiones polipoides en la mucosa gástrica. La biopsia indica pólipos hiperplásicos. ¿Cuál de las siguientes afirmaciones es verdadera sobre esta condición?",
+  "opts": [
+   "Tienen tasas de adenocarcinoma de hasta 20%",
+   "Se asocian comúnmente a síndromes de poliposis familiar",
+   "Se asocian con una arteria grande que erosiona la mucosa y causa hematemesis masiva",
+   "El consumo de nitratos es un factor de riesgo",
+   "Se resuelven con la erradicación exitosa de H. pylori"
+  ],
+  "ans": 4,
+  "why": "Los pólipos hiperplásicos se asocian con H. pylori y gastritis crónica, y tras erradicar H. pylori regresan con frecuencia (hasta 70% según la guía BSG 2019), por eso se recomienda erradicar antes de pensar en resecar. A es falsa: su tasa de malignidad es menor de 2% (el 10-20% corresponde a los adenomatosos). B y D no son rasgos de estos pólipos en las fuentes revisadas (los nitratos son factor de riesgo de cáncer gástrico, no de este pólipo), y C describe la lesión de Dieulafoy.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1245 del PDF (pólipos hiperplásicos)",
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 33)",
+   "BSG guidelines on gastric adenocarcinoma risk, Gut 2019 (PMC6709778): regresión tras erradicación de H. pylori hasta 70%",
+   "Sabiston 21.ª ed., p. 1259 del PDF (Dieulafoy: arteria grande tortuosa)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). Texto de las opciones B y C completado desde la imagen del original. Redacción: 'se resuelven' es 'regresan en gran parte de los casos', no en todos."
+ },
+ "f32db8fafe": {
+  "k": "f32db8fafe",
+  "estado": "confirmada",
+  "stem": "Un hombre de 59 años con hipertensión, apnea obstructiva del sueño y diabetes tipo II se queja de reflujo, eructos e hipersalivación con las comidas. ¿Cuál es el mecanismo de acción del tratamiento más apropiado para este paciente?",
+  "opts": [
+   "Disminución de prostaglandinas vía inhibición de COX-1 y COX-2",
+   "Formación de gel viscoso protector en la mucosa gástrica",
+   "Antagonismo histaminérgico que disminuye volumen y concentración del ácido",
+   "Bloqueo irreversible de la bomba H+/K+ ATPasa en la célula parietal gástrica",
+   "Análogo sintético de prostaglandina que reduce ácido y aumenta secreción de bicarbonato"
+  ],
+  "ans": 3,
+  "why": "Los síntomas son de reflujo (ERGE) y el tratamiento más eficaz es un inhibidor de la bomba de protones. Sabiston explica que los IBP bloquean la secreción de ácido de forma más completa que los antagonistas H2 por su inhibición irreversible de la H+,K+-ATPasa, y que son un tratamiento eficaz de la ERGE. A describe un AINE, B el sucralfato, C un anti-H2 (menos completo) y E el misoprostol; ninguno es el tratamiento de elección de la ERGE.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1226 del PDF (IBP, inhibición irreversible de la bomba)",
+   "Sabiston 21.ª ed., p. 1234 del PDF (IBP se unen a la ATPasa H+/K+ de forma irreversible)",
+   "Sabiston 21.ª ed., p. 1245 del PDF (IBP eficaces en ERGE)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). Opción E completada desde el original: 'Análogo sintético de prostaglandina que reduce ácido y aumenta secreción de bicarbonato'."
+ },
+ "8a73d1a155": {
+  "k": "8a73d1a155",
+  "estado": "dudosa",
+  "stem": "Un hombre de 48 años acude a control anual. Tiene antecedentes de reflujo gastroesofágico, hipertensión e hipercolesterolemia. Refiere melenas desde hace 6 meses y su hemoglobina es de 9.7 g/dL. El test de guayaco en heces es positivo. ¿Cuál es la explicación más probable para estos hallazgos?",
+  "opts": [
+   "Adenocarcinoma gástrico",
+   "ERGE",
+   "Epistaxis",
+   "Aspirina en dosis baja diaria",
+   "Enfermedad ulcerosa péptica"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso. (El revisor había propuesto la opción E.) Sabiston indica que la enfermedad ulcerosa péptica sigue siendo la causa más frecuente de hemorragia digestiva alta no varicosa, lo que explica melena, anemia y guayaco positivo. El cáncer gástrico y el ERGE sangran menos, la epistaxis no produce melena crónica por sí sola, y el enunciado no dice que tome aspirina.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 289 del PDF (causas de hemorragia digestiva alta)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro da la causa más frecuente de HDA; la elección de la opción E se deduce de eso (el enunciado no menciona aspirina). Clave original: E (resaltado)."
+ },
+ "b3d5448652": {
+  "k": "b3d5448652",
+  "estado": "confirmada",
+  "stem": "Una mujer de 65 años con dispepsia crónica, dolor epigástrico, pérdida de peso y melena se somete a endoscopía. Las biopsias revelan gastritis crónica y H. pylori, con una lesión mayor con “infiltrado denso de linfocitos en la lámina propia con folículos B reactivos”; tinción positiva para CD19 y CD20. ¿Cuál es el manejo más apropiado para esta paciente?",
+  "opts": [
+   "PET para determinar extensión",
+   "Radioterapia",
+   "Biopsia repetida por mala toma de muestra",
+   "Resección quirúrgica",
+   "Tratamiento de la infección subyacente"
+  ],
+  "ans": 4,
+  "why": "El linfoma MALT gástrico asociado a H. pylori en estadio temprano se trata primero con la erradicación de H. pylori (triple o cuádruple terapia), según de Virgilio. La resección quirúrgica se reserva para perforación, sangrado u obstrucción; la quimio-radioterapia para casos refractarios o estadios 3-4; y no es necesaria una nueva biopsia, pues los hallazgos ya son típicos (infiltrado linfoide B CD19/CD20).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 125 del PDF (respuesta 1)",
+   "de Virgilio ABSITE 3.ª ed., p. 117 del PDF (linfoma MALT)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). El enunciado no indica estadio; el libro respalda el tratamiento de la infección como primera línea en el estadio temprano."
+ },
+ "a543ea55d6": {
+  "k": "a543ea55d6",
+  "estado": "confirmada",
+  "stem": "Un hombre de 79 años con dolor lumbar crónico y EPOC que requiere oxígeno suplementario se presenta a urgencias con dolor epigástrico que comenzó súbitamente hace 2 días. El examen abdominal revela sensibilidad epigástrica pero es por lo demás normal. Una TC muestra una pequeña cantidad de aire libre bajo el hemidiafragma derecho, sin extravasación de contraste. Un estudio gastrointestinal superior con contraste hidrosoluble revela una úlcera duodenal pero sin extravasación. ¿Cuál de las siguientes es la mejor conducta?",
+  "opts": [
+   "Descompresión con sonda nasogástrica, antibióticos IV e inhibidor de bomba de protones (IBP)",
+   "Laparotomía exploradora",
+   "Laparoscopía diagnóstica",
+   "Antibióticos orales, dieta líquida clara por 2 semanas y control ambulatorio",
+   "Examen abdominal seriado en emergencias"
+  ],
+  "ans": 0,
+  "why": "De Virgilio acepta el manejo no operatorio de la úlcera perforada en pacientes malos candidatos quirúrgicos (por ejemplo, EPOC con oxígeno domiciliario) que están estables, sin peritonitis y sin extravasación de contraste: ayuno, líquidos IV, antibióticos IV, IBP y sonda nasogástrica para descomprimir. La cirugía es el paso siguiente solo si falla el tratamiento (B, C); el manejo ambulatorio no es adecuado (D, E).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 125-126 del PDF (respuesta 6)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: A (resaltado)."
+ },
+ "4bc3d6f45b": {
+  "k": "4bc3d6f45b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes es la prueba de referencia para el diagnóstico de gastroparesia?",
+  "opts": [
+   "Endoscopía alta",
+   "Radiografía simple de abdomen",
+   "Gammagrafía nuclear",
+   "Tomografía computarizada",
+   "Se considera un diagnóstico clínico"
+  ],
+  "ans": 2,
+  "why": "La gammagrafía de vaciamiento gástrico es el estándar de oro para diagnosticar gastroparesia; los síntomas por sí solos no bastan y debe confirmarse con imagen. La endoscopia, la radiografía y la TC sirven para descartar causas mecánicas pero no confirman el retraso del vaciamiento.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 126 del PDF (respuesta 8)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: C (resaltado)."
+ },
+ "663cf89809": {
+  "k": "663cf89809",
+  "estado": "dudosa",
+  "stem": "El factor etiológico más importante en la enfermedad ulcerosa péptica es:",
+  "opts": [
+   "Reflujo duodenogástrico",
+   "Hipersecreción ácida",
+   "Uso de AINEs",
+   "Colonización bacteriana",
+   "Tabaquismo"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que las dos causas predominantes de la enfermedad ulcerosa péptica son H. pylori y los AINE, y que la mayoría de las úlceras se deben a una de ellas; H. pylori se asoció con 50-75% de las úlceras pépticas en países desarrollados. De Virgilio también da ambas como causa casi siempre. Ningún libro consultado declara cuál es 'la más importante', y el enunciado no da un contexto (país, tipo de úlcera) que permita decidir entre C y D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1229 del PDF (causas predominantes de EUP)",
+   "Sabiston 21.ª ed., p. 1177 del PDF (principales factores etiológicos)",
+   "de Virgilio ABSITE 3.ª ed., p. 115 del PDF (PUD)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D, colonización bacteriana (resaltado). Es la clave probable del examen, pero los libros solo dicen que H. pylori y AINE son las dos causas predominantes sin jerarquizarlas, por eso queda dudosa."
+ },
+ "26cdb2e7bf": {
+  "k": "26cdb2e7bf",
+  "estado": "dudosa",
+  "stem": "Un hombre de 60 años se presenta con 12 horas de dolor epigástrico progresivo. Tiene antecedente de úlcera duodenal, con biopsia reciente negativa para H. pylori. Radiografía de tórax en bipedestación muestra aire libre subdiafragmático. Está hemodinámicamente estable. En cirugía se encuentra úlcera duodenal perforada con contaminación peritoneal leve. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Parche de Graham sobre la úlcera",
+   "Parche de Graham con vagotomía truncal y piloroplastía",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Parche de Graham con vagotomía altamente selectiva"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la propia explicación del libro (de Virgilio p.127) dice que la opción B también es aceptable. (El revisor había propuesto la opción E.) En un paciente estable, con úlcera perforada sin peritonitis extensa, con diátesis ulcerosa conocida y H. pylori negativo, se agrega una cirugía antiulcerosa al parche de Graham. De Virgilio dice que la vagotomía altamente selectiva es la preferida en el paciente estable de buen riesgo; la vagotomía con piloroplastía es la alternativa. El parche solo se reserva para inestables, peritonitis extensa o más de 24 h, y la vagotomía con antrectomía no se recomienda en perforación por la mortalidad.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 127 del PDF (respuesta 12)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado). La opción B (parche más vagotomía troncal y piloroplastía) también es una opción aceptada en el libro, pero este indica que la vagotomía altamente selectiva es la preferida."
+ },
+ "115e3b311c": {
+  "k": "115e3b311c",
+  "estado": "confirmada",
+  "stem": "¿Cuál de los siguientes es el tratamiento más eficaz para el síndrome de vaciamiento (dumping) intratable?",
+  "opts": [
+   "Dieta baja en grasa y sin lactosa",
+   "Antagonistas de serotonina",
+   "Dieta baja en carbohidratos y alta en grasa",
+   "Octreotida",
+   "Creación de un segmento yeyunal invertido"
+  ],
+  "ans": 3,
+  "why": "De Virgilio, en su tabla de complicaciones posgastrectomía, indica para el dumping medidas dietéticas (comidas pequeñas y frecuentes, pocos carbohidratos, alto en proteína y grasa, separar sólidos de líquidos) y que el octreótido es lo más eficaz. Sabiston coincide en que el octreótido es el fármaco mejor estudiado y puede ser muy eficaz. Las dietas (A, C) son el primer paso, no el más eficaz en los casos intratables.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 116 del PDF (tabla de complicaciones, dumping)",
+   "Sabiston 21.ª ed., p. 1241-1242 del PDF (síndrome de dumping)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). El segmento yeyunal invertido (E) no figura como tratamiento del dumping en las fuentes consultadas; Sabiston reserva la reintervención (conversión a Y de Roux) para los casos que no responden."
+ },
+ "91e1d7d3b1": {
+  "k": "91e1d7d3b1",
+  "estado": "confirmada",
+  "stem": "Una mujer de 45 años se somete a laparotomía exploratoria por síndrome de Zollinger-Ellison (ZES). Los estudios de localización preoperatorios no identificaron el tumor. En la cirugía, no se observa tumor evidente a pesar de una maniobra de Kocher extensa e inspección cuidadosa. La ecografía intraoperatoria es negativa. ¿Cuál es el siguiente paso?",
+  "opts": [
+   "Cierre del abdomen",
+   "Pancreatectomía distal y esplenectomía",
+   "Duodenopancreatectomía proximal",
+   "Duodenotomía proximal a ciegas",
+   "Duodenotomía distal a ciegas"
+  ],
+  "ans": 3,
+  "why": "Cuando el gastrinoma no se localiza ni con los estudios previos ni en la cirugía, el siguiente paso es una duodenotomía proximal a ciegas para palpar la pared duodenal, porque hasta 60% de los gastrinomas están en la pared del duodeno (primera y segunda porciones) y pueden ser muy pequeños. Cerrar el abdomen, la pancreatectomía distal, la duodenopancreatectomía o la duodenotomía distal tienen bajo rendimiento o no están indicadas.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 128 del PDF (respuesta 14)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado)."
+ },
+ "eee5f6b3af": {
+  "k": "eee5f6b3af",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes se asocia con hipergastrinemia?",
+  "opts": [
+   "Diabetes",
+   "Hipotiroidismo",
+   "Hiperparatiroidismo",
+   "Gastritis crónica",
+   "Hiperplasia de células D"
+  ],
+  "ans": 3,
+  "why": "De Virgilio explica que la hipergastrinemia con acidez normal o baja ocurre en anemia perniciosa, posvagotomía, uso de antiácidos y gastritis crónica. El hipotiroidismo se asocia con gastrina baja, y la diabetes y el hiperparatiroidismo no afectan los niveles de gastrina; la hiperplasia de células G (no D) sí aumenta la gastrina.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 128 del PDF (respuesta 16)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado)."
+ },
+ "b8e8830aed": {
+  "k": "b8e8830aed",
+  "estado": "confirmada",
+  "stem": "Un hombre de 56 años se presenta con dolor epigástrico, diarrea y pérdida de peso. La endoscopía superior muestra pliegues gástricos gigantes en el estómago proximal. La biopsia revela hiperplasia difusa de las células foveolares sin evidencia de malignidad. El pH gástrico de 24 horas es compatible con aclorhidria. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la condición más probable?",
+  "opts": [
+   "No hay riesgo de desarrollar cáncer.",
+   "Está asociada con citomegalovirus en adultos.",
+   "La terapia médica es altamente eficaz.",
+   "Es una condición hereditaria.",
+   "El tratamiento incluye dieta alta en proteínas."
+  ],
+  "ans": 4,
+  "why": "El cuadro es de enfermedad de Ménétrier (pliegues gigantes con hiperplasia foveolar e hipoclorhidria). Sabiston dice que en los pacientes con pérdida cuantiosa de proteínas se usa tratamiento farmacológico óptimo y dieta hiperproteica. A es falsa porque aumenta el riesgo de neoplasia gástrica (se hace vigilancia endoscópica); B es falsa porque el citomegalovirus se asocia en niños (en adultos, H. pylori); C es falsa porque el tratamiento médico da resultados discordantes; y en las fuentes no se describe como hereditaria (se desconoce la causa).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1259 del PDF (enfermedad de Ménétrier)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: E (resaltado)."
+ },
+ "6060673262": {
+  "k": "6060673262",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al reflujo biliar postgastrectomía?",
+  "opts": [
+   "La mayoría de los pacientes con reflujo biliar al estómago desarrollará síntomas.",
+   "Los síntomas suelen correlacionarse con la cantidad de bilis que entra al estómago.",
+   "En pacientes sintomáticos, el tratamiento médico suele ser eficaz.",
+   "La creación de una gastroyeyunostomía en Y de Roux es una opción quirúrgica eficaz.",
+   "Es más probable que ocurra después de una reconstrucción tipo Billroth I que de una tipo Billroth II."
+  ],
+  "ans": 3,
+  "why": "Tras la gastrectomía, la solución quirúrgica del reflujo biliar sintomático es convertir la anastomosis a una gastroyeyunostomía en Y de Roux con asa larga (más de 40-45 cm). Solo una pequeña fracción de los pacientes tiene síntomas significativos (A), los síntomas no se correlacionan con la cantidad de bilis (B), el tratamiento médico no es muy eficaz (C), y es más probable tras Billroth II que tras Billroth I (E).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129 del PDF (respuesta 21)",
+   "Sabiston 21.ª ed., p. 1239-1242 del PDF (reflujo de bilis posgastrectomía)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). Texto de las opciones reparado desde la imagen del original (estaban cortadas)."
+ },
+ "50be09b2c0": {
+  "k": "50be09b2c0",
+  "estado": "dudosa",
+  "stem": "La mejor prueba para la localización gastrinoma es:",
+  "opts": [
+   "Resonancia magnética",
+   "Tomografía computarizada",
+   "Ecografía abdominal",
+   "Gammagrafía con octreótido",
+   "Angiografía selectiva"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: los libros no coinciden: de Virgilio da la gammagrafía con octreótido y Sabiston pone la TC trifásica o la RM como prueba inicial. (El revisor había propuesto la opción D.) La gammagrafía con octreótido (receptores de somatostatina) es la prueba más sensible para localizar gastrinomas, porque más del 90% tienen receptores de somatostatina. La ecografía abdominal no ayuda; la TC, la angiografía y la RM son complementarias (la RM sirve sobre todo para metástasis hepáticas).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129 del PDF (respuesta 22)",
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 35)",
+   "Sabiston 21.ª ed., p. 1239-1242 del PDF (TC trifásica o RM como prueba inicial)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original: D (resaltado). Sabiston recomienda TC trifásica o RM como mejor prueba inicial de imagen y reserva el octreótido si esa no es diagnóstica; el libro de preguntas (ABSITE) da el octreótido."
+ },
+ "6f52bd46ce": {
+  "k": "6f52bd46ce",
+  "estado": "confirmada",
+  "stem": "La mejor prueba para confirmar la erradicación de Helicobacter pylori después del tratamiento es:",
+  "opts": [
+   "Serología para H. pylori",
+   "Prueba del aliento con urea",
+   "Biopsia histológica",
+   "Prueba rápida de ureasa",
+   "Biopsia de mucosa antral con cultivo"
+  ],
+  "ans": 1,
+  "why": "La prueba del aliento con urea es la mejor forma de confirmar la erradicación de H. pylori: la bacteria hidroliza la urea marcada y se exhala CO2 marcado. La serología sigue positiva aunque se haya curado. La biopsia con histología o cultivo es invasiva y cara, y la ureasa rápida se usa si de todos modos se repite una endoscopia.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129 del PDF (respuesta 23)",
+   "de Virgilio ABSITE 3.ª ed., p. 123 del PDF (pregunta)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (resaltado) respaldada por el libro. Texto reparado: en el original aparecía cortado ('errad', 'tratam')."
+ },
+ "8a2a7d6165": {
+  "k": "8a2a7d6165",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la vagotomía altamente selectiva (VAS)?",
+  "opts": [
+   "Se dividen los troncos vagales anterior y posterior.",
+   "Se conserva el nervio de Grassi.",
+   "Se divide el nervio anterior de Latarjet.",
+   "Se preservan las “patas de cuervo” hacia el antro.",
+   "Se divide la rama celíaca."
+  ],
+  "ans": 3,
+  "why": "En la vagotomía altamente selectiva se dividen las ramas de los nervios de Latarjet que van a los dos tercios proximales del estómago y se conservan los últimos ~7 cm (las 'patas de cuervo') que inervan antro y píloro. Se conservan los troncos vagos principales (A) y las ramas celíaca y hepática (E). Se divide el nervio de Grassi (B). Se dividen las ramas de Latarjet, no el nervio como tal (C).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129 del PDF (respuesta 24)",
+   "de Virgilio ABSITE 3.ª ed., p. 115 del PDF (tabla)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D respaldada. Sabiston p. 1238 también describe la sección de las patas de gallo del fundus y cuerpo y la sección del nervio de Grassi."
+ },
+ "40065dd365": {
+  "k": "40065dd365",
+  "estado": "confirmada",
+  "stem": "El trastorno metabólico más común después de una resección gástrica es la deficiencia de:",
+  "opts": [
+   "Hierro",
+   "Vitamina B12",
+   "Folato",
+   "Calcio",
+   "Vitamina D"
+  ],
+  "ans": 0,
+  "why": "Tras la resección gástrica la deficiencia más frecuente es la de hierro: baja la ingesta y la menor acidez dificulta su absorción en el duodeno. Pueden faltar también B12, folato, vitaminas liposolubles y calcio, pero el libro dice que la de hierro es la más común.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 130 del PDF (respuesta 25)",
+   "de Virgilio ABSITE 3.ª ed., p. 442 del PDF (respuesta 6, otra pregunta: hierro 'most common')"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original A respaldada."
+ },
+ "cb83a024d7": {
+  "k": "cb83a024d7",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto al síndrome de Zollinger-Ellison (ZES)?",
+  "opts": [
+   "Los síntomas disminuyen con el ayuno.",
+   "Las úlceras se localizan con mayor frecuencia en el duodeno distal.",
+   "Es más comúnmente familiar.",
+   "Es el tumor neuroendocrino funcional más frecuente.",
+   "El tratamiento con inhibidores de bomba de protones (IBP) puede controlar los síntomas en la mayoría de los pacientes."
+  ],
+  "ans": 4,
+  "why": "Los IBP son muy eficaces para aliviar los síntomas del síndrome de Zollinger-Ellison, aunque el tratamiento definitivo es localizar y resecar el tumor. La diarrea secretora persiste con el ayuno (A). La úlcera es más frecuente en el duodeno proximal (B). Solo ~20% son familiares (C). El gastrinoma es el tumor neuroendocrino funcional más frecuente en MEN-1, pero el insulinoma es el más común en general (D).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 130 del PDF (respuesta 26)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original E respaldada."
+ },
+ "2435b3e609": {
+  "k": "2435b3e609",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años se presenta con 8 horas de dolor abdominal agudo. En el examen, tiene fiebre de 38.3 °C (101 °F), presión arterial de 105/70 mmHg y frecuencia cardíaca de 130 lpm, con sensibilidad abdominal difusa, rebote y defensa; el tacto rectal es positivo para sangre oculta. La analítica revela leucocitosis de 16,000/μL y hematocrito de 26%. La TC muestra extravasación de contraste oral en el duodeno proximal. Luego de la reanimación, el manejo consiste en:",
+  "opts": [
+   "Cierre de la perforación con parche de epiplón más una VAS",
+   "Cierre de la perforación con parche de epiplón por vía abierta",
+   "Cierre de la perforación con parche de epiplón y duodenotomía con sobrecostura de la úlcera posterior",
+   "Vagotomía y antrectomía con sobrecostura de la úlcera posterior y parche de epiplón",
+   "Cierre de la perforación con parche de epiplón por vía laparoscópica"
+  ],
+  "ans": 2,
+  "why": "Extravasación de contraste oral en duodeno proximal más melena y anemia sugiere una úlcera 'en espejo': una anterior perforada y otra posterior sangrante (arteria gastroduodenal). Se trata con duodenotomía anterior a través del píloro, sobrecostura de la úlcera posterior y parche de epiplón (Graham). El simple parche abierto o laparoscópico (B, E) no controla la úlcera posterior sangrante. VAS (A) y vagotomía con antrectomía (D) no son lo indicado.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 130 del PDF (respuesta 27)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original C respaldada."
+ },
+ "96643df141": {
+  "k": "96643df141",
+  "estado": "confirmada",
+  "stem": "Una mujer de 50 años se presenta con síntomas de saciedad precoz, náuseas, vómitos y dolor epigástrico. La endoscopía superior revela una gran masa de restos alimentarios no digeridos en el estómago que obstruye parcialmente el píloro. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "La mayoría de los pacientes requiere cirugía.",
+   "Puede tratarse con administración oral de celulasa.",
+   "El tratamiento psiquiátrico es crítico en el manejo a largo plazo.",
+   "Es probable que la paciente tenga áreas de alopecia parcheada.",
+   "La enfermedad ulcerosa péptica es un factor de riesgo."
+  ],
+  "ans": 1,
+  "why": "El cuadro es de bezoar fitobezoar (restos vegetales). Puede tratarse con enzimas; se prefiere celulasa porque la papaína se asoció con hipernatremia, úlcera gástrica y perforación esofágica. La mayoría no necesita cirugía (A). El apoyo psiquiátrico es clave en el tricobezoar, no en el fitobezoar (C). La alopecia parcheada es del tricobezoar (D). La úlcera péptica no es factor de riesgo (E).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 130 del PDF (respuesta 28)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B respaldada. Texto original del libro: mujer de 50 años con diabetes; el banco omitió el dato de diabetes."
+ },
+ "e0e962fc52": {
+  "k": "e0e962fc52",
+  "estado": "confirmada",
+  "stem": "Un hombre de 70 años acude a urgencias con dolor epigástrico intenso de inicio súbito, asociado a arcadas con poco vómito. Su presión arterial es de 140/90 mmHg y su frecuencia cardíaca de 90 lpm. Los intentos del médico de urgencias por colocar una sonda nasogástrica fallan. La radiografía de tórax en bipedestación revela una gran burbuja de gas justo por encima del diafragma izquierdo. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Es probable que el estómago esté torcido sobre un eje que cruza la curvatura mayor y menor.",
+   "En niños se debe principalmente a una hernia paraesofágica.",
+   "Se asocia con la tríada de Bergman.",
+   "Se asocia con bazo errante.",
+   "Inicialmente se maneja de forma conservadora en la mayoría de pacientes."
+  ],
+  "ans": 3,
+  "why": "Arcadas sin vómito, dolor epigástrico súbito, imposibilidad de pasar la sonda y burbuja de gas supradiafragmática corresponden a un vólvulo gástrico (tríada de Borchardt). Puede ocurrir sin defecto diafragmático, con ausencia congénita de fijaciones peritoneales, y se asocia con bazo errante. El eje más común es el organoaxial (A es del tipo mesenteroaxial, menos frecuente). En niños el defecto es congénito (Bochdalek), no paraesofágico (B). La tríada de Bergman es de la embolia grasa (C). Es una urgencia quirúrgica (E).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 130-131 del PDF (respuesta 29)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D respaldada."
+ },
+ "42b110ea76": {
+  "k": "42b110ea76",
+  "estado": "confirmada",
+  "stem": "Una mujer de 68 años se presenta con una hemorragia digestiva alta. Tiene antecedentes de úlcera y recientemente completó tratamiento para Helicobacter pylori. La endoscopía superior revela sangrado arterial activo desde una úlcera duodenal en la pared posterior. A pesar de múltiples intentos endoscópicos, la úlcera sigue sangrando. Ha recibido 4 unidades de sangre. Su hematocrito es de 25%, presión arterial de 110/60 mmHg y frecuencia cardíaca de 120 lpm. ¿Cuál es la mejor opción de manejo?",
+  "opts": [
+   "Duodenotomía, sobrecostura de la úlcera, vagotomía truncal y piloroplastía",
+   "Duodenotomía y sobrecostura de la úlcera",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Vagotomía altamente selectiva"
+  ],
+  "ans": 0,
+  "why": "En hemorragia duodenal por úlcera posterior que no cede con endoscopia, con antecedente de úlcera ya tratada por H. pylori y estabilidad en quirófano, el libro indica como mejor opción es duodenotomía a través del píloro, sobrecostura de la úlcera y vagotomía troncal con cierre transversal tipo piloroplastia. Solo sobrecostura (B) es para pacientes inestables o de alto riesgo. Vagotomía con antrectomía (D, E) tiene más morbilidad en emergencia y la VAS (C) no resuelve el sangrado.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 131 del PDF (respuesta 31)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original A respaldada (es también la letra A del libro). El libro condiciona la opción a que la paciente esté estable en quirófano."
+ },
+ "0c22e73cbb": {
+  "k": "0c22e73cbb",
+  "estado": "confirmada",
+  "stem": "Un hombre alcohólico de 42 años con episodios recurrentes de pancreatitis se presenta a urgencias por un episodio de hematemesis por la mañana. No hay sangrado activo. La TC muestra trombosis de la arteria esplénica. Lipasa y pruebas hepáticas son normales. La endoscopía digestiva alta muestra várices gástricas aisladas que no están sangrando y una úlcera de 2 cm en el ángulo. ¿Cuál de las siguientes características endoscópicas conlleva el menor riesgo de resangrado?",
+  "opts": [
+   "Úlcera sangrante con exudado",
+   "Úlcera sin sangrado con coágulo adherido",
+   "Vaso visible sin sangrado",
+   "Base de la úlcera visible",
+   "Mancha pigmentada plana"
+  ],
+  "ans": 3,
+  "why": "Según la clasificación de Forrest, el riesgo de resangrado desciende así: sangrado activo, vaso visible sin sangrado, coágulo adherido, mancha pigmentada plana y base de úlcera limpia (0-10%). La base visible (limpia) es la de menor riesgo.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 131 del PDF (respuesta 32)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original D respaldada."
+ },
+ "0a37fad486": {
+  "k": "0a37fad486",
+  "estado": "confirmada",
+  "stem": "La prueba diagnóstica más sensible y específica para gastrinoma es:",
+  "opts": [
+   "Producción basal y estimulada de ácido gástrico",
+   "Gammagrafía con octreótido",
+   "Gastrina sérica en ayunas",
+   "Prueba de estimulación con calcio",
+   "Prueba de estimulación con secretina"
+  ],
+  "ans": 4,
+  "why": "La prueba más sensible y específica para gastrinoma es la prueba de estimulación con secretina (aumento de gastrina ≥120 pg/mL). La gammagrafía con octreótido es la más sensible para localizar el tumor, no para diagnosticar. La gastrina en ayunas es poco específica salvo valores >1000 pg/mL, y la prueba de calcio es menos sensible y específica.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 132 del PDF (respuesta 35)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original E respaldada."
+ },
+ "0e89b1afc5": {
+  "k": "0e89b1afc5",
+  "estado": "dudosa",
+  "stem": "¿Cuál de los siguientes procedimientos es de elección para una úlcera duodenal intratable que no sana a pesar de tratamiento médico máximo?",
+  "opts": [
+   "Vagotomía truncal y piloroplastía",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth I",
+   "Vagotomía truncal y antrectomía con reconstrucción tipo Billroth II",
+   "Vagotomía altamente selectiva",
+   "Gastrectomía distal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). La pregunta no está en el libro, y Sabiston también propone la vagotomía con antrectomía, que recidiva menos. (El revisor había propuesto la opción D.) De Virgilio menciona que la vagotomía altamente selectiva sigue indicada en situaciones raras, entre ellas los pacientes que no responden al manejo médico. Conserva antro y píloro, por lo que no requiere drenaje y da menos complicaciones que la vagotomía troncal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 129-130 del PDF (respuesta 24)",
+   "Sabiston 21.ª ed., p. 1237 y 1238 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: la pregunta no aparece textual en el libro; la clave D se apoya en la frase de de Virgilio sobre HSV en pacientes que no responden al tratamiento médico. Sabiston p. 1237 dice que la úlcera verdaderamente resistente se trata con vagotomía 'con o sin antrectomía' y p. 1238 que la antrectomía recidiva menos (0-2%) pero con más complicaciones. Clave original D."
+ },
+ "5e0118aac1": {
+  "k": "5e0118aac1",
+  "estado": "dudosa",
+  "stem": "Una mujer frágil de 85 años se presenta a urgencias con deshidratación severa y cetoacidosis por vómitos persistentes. No es diabética. Ha perdido peso significativamente. Los estudios confirman gastroparesia. Luego de esta hospitalización inicial, ¿cuál de las siguientes estrategias de tratamiento a largo plazo debe iniciarse?",
+  "opts": [
+   "Cisaprida",
+   "Metoclopramida",
+   "Inyección de toxina botulínica en el píloro",
+   "Dispositivo de estimulación eléctrica gástrica",
+   "Seis comidas al día, bajas en grasa y fibra"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que el tratamiento inicial de primera línea de la gastroparesia leve es la modificación de la dieta (comidas pequeñas y frecuentes, pobres en grasa y fibra), y que el tratamiento farmacológico (metoclopramida primero) se usa si persisten los síntomas. Pero esta paciente presenta un cuadro grave, y ninguna fuente leída indica qué iniciar a largo plazo en una anciana frágil con gastroparesia grave, por lo que E y B son defendibles y la evidencia no decide.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1228 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original E (dieta) coincide con la primera línea para gastroparesia leve según Sabiston, pero la pregunta es de caso grave y no está en el libro de Virgilio. No se encontró la pregunta en el libro ABSITE."
+ },
+ "57f8bb7868": {
+  "k": "57f8bb7868",
+  "estado": "dudosa",
+  "stem": "Un hombre de 35 años con viaje reciente a Sudamérica se presenta con fiebre, diarrea con sangre y dolor abdominal. La radiografía muestra aire libre bajo el diafragma. En la cirugía, se encuentra una perforación única en el íleon terminal con linfadenopatía mesentérica y esplenomegalia. El manejo consiste en:",
+  "opts": [
+   "Cierre de la perforación",
+   "Resección segmentaria con anastomosis",
+   "Ileocecectomía con colostomía ileoascendente",
+   "Resección de íleon terminal con ileostomía y fístula mucosa",
+   "Resección de íleon terminal con colectomía derecha e ileotransversostomía"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): el enunciado no nombra la tifoidea, que es el caso en que Sabiston indica el cierre simple. (El revisor había propuesto la opción A.) El cuadro (fiebre, diarrea, viaje a zona endémica, esplenomegalia, linfadenopatía, perforación en íleon terminal) corresponde a fiebre tifoidea. Sabiston dice que la perforación suele ser única en el íleon terminal y que el tratamiento de elección es el cierre simple. La resección con anastomosis o exteriorización se reserva para perforaciones múltiples (una cuarta parte de los casos).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1296 del PDF"
+  ],
+  "tema": "intestino",
+  "nota": "INDIRECTA: el enunciado no nombra la tifoidea; el diagnóstico se deduce del cuadro clínico. Clave original A respaldada."
+ },
+ "55afb5f44a": {
+  "k": "55afb5f44a",
+  "estado": "dudosa",
+  "stem": "Un hombre de 45 años con 3 meses de dolor epigástrico sordo, intermitente, que lo despierta en la noche. Alivia con alimentos, empeora con café. Sin pérdida de peso, vómitos ni sangre. Examen: sensibilidad epigástrica. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Enfermedad de Crohn",
+   "Úlcera duodenal",
+   "Espasmo esofágico",
+   "Úlcera gástrica",
+   "Pancreatitis"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que el dolor de la úlcera duodenal suele aliviarse con la comida, pero también que la anamnesis y la exploración tienen valor limitado para distinguir entre úlcera gástrica y duodenal. Ninguna fuente leída da el criterio de despertar nocturno ni de empeorar con café, por lo que B (duodenal) y D (gástrica) no se pueden separar solo con el libro.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1232 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Clave original B (úlcera duodenal) es la clásica, pero la fuente leída no la decide. No está en el libro ABSITE."
+ },
+ "3575317b35": {
+  "k": "3575317b35",
+  "estado": "confirmada",
+  "stem": "Un hombre de 75 años con antecedentes de EPOC se presenta a urgencias con distensión abdominal y náuseas de 1 día de evolución. Niega dolor abdominal. El examen abdominal es benigno. Los valores de laboratorio son normales. La TC muestra aire libre bajo el diafragma y quistes llenos de aire en la pared intestinal. ¿Cuál de las siguientes afirmaciones es verdadera respecto a esta condición?",
+  "opts": [
+   "Está indicada una laparotomía.",
+   "La forma primaria ocurre más comúnmente que la secundaria.",
+   "Es poco probable que esté relacionada con su EPOC.",
+   "Se observa con mayor frecuencia en el íleon.",
+   "Se asocia con el uso de esteroides."
+  ],
+  "ans": 4,
+  "why": "El cuadro describe neumatosis intestinal con neumoperitoneo benigno, hallazgo radiológico que no requiere laparotomía en un paciente asintomático (A es falsa). La secundaria es más común que la primaria (B). En adultos se asocia más a EPOC (C es falsa). Aparece sobre todo en el colon (D). Entre sus causas el libro menciona colagenopatías, celiaquía, Crohn, uso de esteroides e inmunodeficiencia.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 146 del PDF (respuesta 19)"
+  ],
+  "tema": "intestino",
+  "nota": "Clave original E respaldada."
+ },
+ "d082fbf0aa": {
+  "k": "d082fbf0aa",
+  "estado": "dudosa",
+  "stem": "Hombre con 5 años de colitis ulcerosa sin displasia. ¿Cirugía electiva más apropiada?",
+  "opts": [
+   "Proctocolectomía total + bolsa ileoanal + mucosectomía anal + ileostomía",
+   "Proctocolectomía total + bolsa ileoanal + ileostomía de derivación",
+   "Colectomía total + anastomosis ileorrectal",
+   "Colectomía + Hartmann bajo",
+   "Proctocolectomía total + ileostomía terminal"
+  ],
+  "ans": null,
+  "why": "Para la colitis ulcerosa con indicación electiva, el Sabiston y el de Virgilio respaldan la proctocolectomía con reservorio ileal y anastomosis ileoanal (RIARA). El Sabiston dice que se puede hacer grapada o cosida a mano tras mucosectomía, y que clásicamente se añade una ileostomía de derivación temporal. Por eso tanto A (RIARA con mucosectomía e ileostomía) como B (RIARA con ileostomía de derivación) son defendibles; C, D y E no son la cirugía de elección. Ninguna fuente decide entre A y B con los datos del enunciado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1376 del PDF",
+   "Sabiston 21.ª ed., p. 1395 del PDF",
+   "de Virgilio ABSITE, p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sabiston p. 1376 indica que hoy se prefiere la anastomosis grapada, pero p. 1394 acepta ambas (con mucosectomía o grapada), así que A no queda descartada."
+ },
+ "db5613e44f": {
+  "k": "db5613e44f",
+  "estado": "confirmada",
+  "stem": "¿Dónde se localiza más frecuentemente angiodisplasia del tracto digestivo?",
+  "opts": [
+   "Colon ascendente",
+   "Colon descendente",
+   "Íleon terminal",
+   "Sigmoides",
+   "Recto"
+  ],
+  "ans": 0,
+  "why": "Las angiodisplasias pueden estar en cualquier parte del tubo digestivo pero aparecen por lo general en el ciego, y es ahí donde más sangran. El Giménez las localiza con mayor frecuencia en el colon derecho. Colon ascendente es la opción que corresponde a esa zona; descendente, sigmoides, recto e íleo terminal no son las localizaciones típicas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1187 del PDF",
+   "Giménez 2.ª ed., p. 836 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa: ciego (Sabiston) y colon derecho (Giménez); el ciego forma parte del colon derecho, por eso la opción A."
+ },
+ "4cdc7fa7b0": {
+  "k": "4cdc7fa7b0",
+  "estado": "dudosa",
+  "stem": "¿En qué procedimiento es más frecuente el síndrome de asa aferente?",
+  "opts": [
+   "Gastrectomía tipo Billroth I",
+   "Gastrectomía total",
+   "Vagotomía troncular con piloroplastía",
+   "Vagotomía troncular con antrectomía tipo Billroth I",
+   "Gastrectomía tipo Billroth II"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción E.) El asa aferente es el asa duodenoyeyunal proximal a la anastomosis gastroyeyunal tras una reconstrucción de Billroth II o una gastroyeyunostomía; su obstrucción parcial produce el síndrome. En Billroth I no hay asa aferente (anastomosis gastroduodenal), y el Sabiston dice que la gastroduodenostomía evita la obstrucción del asa aferente. Vagotomía con piloroplastía tampoco crea asa aferente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1242 del PDF",
+   "Sabiston 21.ª ed., p. 1238 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro define el asa aferente en Billroth II y dice que la gastroduodenostomía la evita, pero no escribe literalmente 'más frecuente en Billroth II'. La gastrectomía total no se menciona en esa definición."
+ },
+ "012a53b4d5": {
+  "k": "012a53b4d5",
+  "estado": "dudosa",
+  "stem": "Una mujer de 28 años, una semana después de una colecistectomía laparoscópica, regresa con diarrea acuosa sin sangre ni fiebre. ¿Cuál es el manejo inicial más adecuado?",
+  "opts": [
+   "Loperamida",
+   "Solo soporte médico",
+   "Vancomicina oral",
+   "Ciprofloxacino oral",
+   "Metronidazol oral"
+  ],
+  "ans": null,
+  "why": "El enunciado no menciona antibióticos recientes, prueba de heces ni diagnóstico de Clostridioides difficile. Según el Sabiston, la diarrea acuosa tras cirugía digestiva y antibióticos debe hacer sospechar infección por C. difficile; solo se trata a los casos sintomáticos, con vancomicina o fidaxomicina, y el metronidazol es alternativa. Ninguna fuente respalda 'solo soporte médico' como manejo inicial, ni tampoco permite elegir vancomicina sin confirmar el diagnóstico. Falta un dato para decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 293 del PDF",
+   "Sabiston 21.ª ed., p. 256 del PDF",
+   "de Virgilio ABSITE, p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). No se encontró en los libros la pregunta original ABSITE ni una cita que sostenga B."
+ },
+ "d8ead40fb5": {
+  "k": "d8ead40fb5",
+  "estado": "confirmada",
+  "stem": "Un hombre de 57 años con dolor en cuadrante inferior izquierdo, distensión y estreñimiento alternando con diarrea tiene múltiples divertículos sigmoideos en enema de bario. ¿Qué los causa?",
+  "opts": [
+   "Segmento aperistáltico",
+   "Dieta rica en fibra",
+   "Presión intraluminal aumentada",
+   "Masa rectal",
+   "Poliposis colónica"
+  ],
+  "ans": 2,
+  "why": "Los divertículos sigmoideos aparecen por aumento de la presión intraluminal, por eso se llaman divertículos por pulsión; son falsos (solo mucosa y submucosa) y se forman en puntos débiles entre las tenias donde penetran los vasos. La dieta alta en fibra no los causa (la dieta baja en fibra favorece la enfermedad diverticular), y no se forman en el recto.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 164-165 del PDF (respuesta 15)"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa del libro: 'They occur due to increased intraluminal pressure'."
+ },
+ "695e674613": {
+  "k": "695e674613",
+  "estado": "dudosa",
+  "stem": "Un hombre de 68 años con antecedentes de diverticulosis presenta dolor en el cuadrante inferior izquierdo, distensión y alternancia entre estreñimiento y diarrea. Recientemente refiere paso de aire y materia fecal por la uretra, y ha tenido cuatro infecciones urinarias en los últimos seis meses. ¿Cuál es el siguiente paso más adecuado en el manejo?",
+  "opts": [
+   "Anoscopía",
+   "Examen rectal digital",
+   "Tomografía de abdomen y pelvis",
+   "Sigmoidoscopía rígida",
+   "Ecografía"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción C.) Neumaturia, fecaluria e infecciones urinarias recurrentes en un paciente con diverticulosis indican fístula colovesical. El Sabiston dice que la TC puede mostrar aire o contraste en la vejiga sin instrumentación previa. Anoscopía, tacto rectal, sigmoidoscopía rígida y ecografía no demuestran la fístula.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "de Virgilio ABSITE, p. 154 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: la fuente dice que la TC muestra aire en la vejiga, pero no usa la frase 'siguiente paso'. Clave original: C."
+ },
+ "d392ca6eaa": {
+  "k": "d392ca6eaa",
+  "estado": "dudosa",
+  "stem": "Una mujer de 26 años tiene 6 meses de diarrea sanguinolenta, dolor abdominal y fiebre intermitente. Tiene antecedentes de síndrome de intestino irritable, pero los síntomas se han intensificado. El examen físico muestra distensión abdominal y múltiples fisuras anales. ¿Cuál es el estudio diagnóstico más adecuado?",
+  "opts": [
+   "Anoscopía",
+   "Colonoscopía",
+   "Sigmoidoscopía flexible",
+   "Sigmoidoscopía rígida",
+   "No se requieren más estudios"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción B.) Diarrea sanguinolenta, fiebre y fisuras anales múltiples sugieren enfermedad inflamatoria intestinal (Crohn). El Sabiston dice que en el Crohn la fisura anal suele ser múltiple y no dolorosa, y que el diagnóstico de EII se hace con endoscopia, con evaluación completa del colon mediante colonoscopía y examen del íleon terminal. Anoscopía y sigmoidoscopía no evalúan todo el colon ni el íleon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1369 del PDF",
+   "Sabiston 21.ª ed., p. 1370 del PDF",
+   "Sabiston 21.ª ed., p. 1287 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro respalda colonoscopía como estudio diagnóstico de EII/Crohn, pero no menciona esta viñeta exacta. Clave original: B."
+ },
+ "3e584469d6": {
+  "k": "3e584469d6",
+  "estado": "confirmada",
+  "stem": "Un hombre de 38 años con diagnóstico de colitis ulcerosa hace 1 año se presenta en emergencia con ictericia, es ingresado y el diagnóstico probable es colangitis esclerosante primaria. ¿Qué estudio adicional se recomienda?",
+  "opts": [
+   "Colonoscopia de detección inmediata",
+   "Colonoscopia inmediata con biopsias aleatorias",
+   "Colonoscopia con biopsias a los 8-10 años del diagnóstico de colitis ulcerosa",
+   "Colonoscopia de detección a los 50 años",
+   "Colonoscopia según síntomas, si es necesario"
+  ],
+  "ans": 1,
+  "why": "Los pacientes con colangitis esclerosante primaria deben recibir una colonoscopía con biopsias aleatorias de inmediato, en el momento del diagnóstico de la CEP, y repetirla cada 1 a 2 años. Esperar 8 a 10 años desde el diagnóstico de colitis ulcerosa aplica a pacientes sin CEP.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 166 del PDF (respuesta 22)",
+   "de Virgilio ABSITE, p. 151 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa del libro (misma pregunta de ABSITE, respuesta B)."
+ },
+ "276fe1ac21": {
+  "k": "276fe1ac21",
+  "estado": "dudosa",
+  "stem": "Una mujer de 71 años presenta sangrado rectal. Tuvo cólicos leves en el lado izquierdo del abdomen que se resolvieron. La colonoscopía muestra diverticulosis sin sangrado ni perforación. No hay leucocitosis. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "Antibióticos",
+   "Hemicolectomía izquierda",
+   "Hemicolectomía derecha",
+   "Colectomía subtotal",
+   "Observación"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción E.) La hemorragia diverticular se detiene de forma espontánea en más del 75% de los casos, y los divertículos asintomáticos no requieren cirugía. Aquí no hay sangrado activo, perforación ni leucocitosis (no hay diverticulitis), así que no hay indicación de antibióticos ni de resección; corresponde observar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1186-1187 del PDF",
+   "de Virgilio ABSITE, p. 165 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente trata esta viñeta exacta; se deduce de que la hemorragia diverticular cede sola y de que la diverticulosis sin complicaciones no se opera. Clave original: E."
+ },
+ "d24df085c9": {
+  "k": "d24df085c9",
+  "estado": "dudosa",
+  "stem": "Un hombre de 85 años con dolor abdominal agudo y distensión progresiva, residente de un asilo, con náuseas y sin apetito. La radiografía abdominal muestra un asa sigmoidea dilatada con aire atrapado. ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Enema con gastrografin",
+   "Dieta rica en fibra",
+   "Lactulosa",
+   "Descompresión con sonda rectal",
+   "Resección quirúrgica"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). El libro indica primero la detorsión endoscópica y después la sonda rectal. (El revisor había propuesto la opción D.) Un asa sigmoidea dilatada con aire atrapado en un anciano de asilo corresponde a vólvulo sigmoideo. Sin peritonitis, isquemia ni perforación, se maneja primero con detorsión endoscópica y colocación de sonda rectal para descomprimir; la resección se reserva para peritonitis, isquemia o imposibilidad de detorsión, o como cirugía diferida por la alta recurrencia.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 153 del PDF",
+   "de Virgilio ABSITE, p. 164 del PDF (respuesta 13)"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro describe sigmoidoscopía para detorsionar y luego sonda rectal; la opción D solo nombra la sonda rectal. El resto de opciones (gastrografin, fibra, lactulosa, resección inmediata) no tienen respaldo como tratamiento inicial."
+ },
+ "473961f135": {
+  "k": "473961f135",
+  "estado": "dudosa",
+  "stem": "Una mujer de 36 años con hemorragia gastrointestinal recurrente acude nuevamente por sangrado. El diagnóstico diferencial incluye angiodisplasia y enfermedad diverticular. ¿Cuál de las siguientes características favorece el diagnóstico de diverticulosis colónica?",
+  "opts": [
+   "El sangrado es rápido",
+   "El sangrado se debe a debilidad de la pared colónica",
+   "El sangrado es repentino",
+   "El sangrado es autolimitado",
+   "Degeneración submucosa en el colon"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la hemorragia diverticular ocurre en puntos de debilidad de la pared donde penetran los vasos rectos, y que es más brusca que la de la angiodisplasia (que es venosa, menos brusca y degenerativa). Entonces B, y también 'rápido' (A) y 'repentino' (C), son compatibles con diverticulosis; 'autolimitada' (D) la comparten ambas. No hay una única opción decidible con la fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1186-1187 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Tres opciones (A, B, C) son defendibles según el mismo texto; no se halló la pregunta ABSITE original."
+ },
+ "91fbf3ce50": {
+  "k": "91fbf3ce50",
+  "estado": "dudosa",
+  "stem": "Un hombre de 41 años con sangrado rectal intermitente nunca tratado acude a consulta. El examen físico general es normal. ¿Cuál de los siguientes estudios es el menos costo-efectivo para buscar la causa del sangrado?",
+  "opts": [
+   "Examen anorectal",
+   "Anoscopía",
+   "Gammagrafía de sangrado",
+   "Colonoscopía",
+   "Proctosigmoidoscopía"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente da datos de costo-efectividad. (El revisor había propuesto la opción C.) En el sangrado rectal intermitente de un paciente estable, la evaluación empieza con tacto rectal y anoscopía o sigmoidoscopía, y la colonoscopía es casi siempre el estudio inicial. La gammagrafía con eritrocitos marcados se reserva cuando la endoscopia no localiza la fuente, y fue positiva solo en alrededor del 39-45% de los casos de hemorragia baja, por lo que es la menos rentable en este escenario.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1184 del PDF",
+   "Sabiston 21.ª ed., p. 1186 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: las fuentes no dan datos de costo-efectividad; se deduce del lugar que ocupa cada estudio y de la baja positividad de la gammagrafía. Clave original: C."
+ },
+ "495d2acdf4": {
+  "k": "495d2acdf4",
+  "estado": "confirmada",
+  "stem": "Un hombre de 57 años con sangrado digestivo bajo recurrente se somete a colonoscopía que no localiza el sitio del sangrado. Su hematocrito actual es 24% tras 3 unidades de glóbulos rojos. Se considera arteriografía visceral selectiva. ¿Cuál es una ventaja de esta prueba?",
+  "opts": [
+   "La embolización debe hacerse por separado",
+   "Es una prueba no invasiva",
+   "Permite localización precisa del sangrado",
+   "Funciona bien con sangrados <0.1 mL/min"
+  ],
+  "ans": 2,
+  "why": "La arteriografía permite localización precisa del sangrado y además puede ser terapéutica (embolización). Es invasiva y necesita sangrado rápido (0.5-1 mL/min); detecta peor los sangrados lentos, que son el dominio de la gammagrafía (0.1 mL/min). Por eso A, B y D son falsas.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 154 del PDF",
+   "de Virgilio ABSITE, p. 166-167 del PDF (respuesta 23)",
+   "Sabiston 21.ª ed., p. 1186 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa del libro: angiografía 'therapeutic, accurate localization'; 'invasive'; bleeding must be brisk."
+ },
+ "4f91fda057": {
+  "k": "4f91fda057",
+  "estado": "dudosa",
+  "stem": "Un hombre de 57 años con diverticulosis y episodios de diverticulitis es hospitalizado por dolor en el cuadrante inferior izquierdo. La TC muestra una masa inflamatoria de 2 cm sin líquido en su interior. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Diverticulitis aguda",
+   "Absceso diverticular",
+   "Flemon diverticular",
+   "Cáncer de colon sigmoide",
+   "Fístula transigmoidea"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción C.) El flemón diverticular es la inflamación pericólica localizada sin absceso (Hinchey Ia), mientras que el absceso (Ib) incluye una colección. Una masa inflamatoria de 2 cm sin líquido corresponde a flemón.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "Giménez 2.ª ed., p. 680 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: la fuente define flemón como inflamación sin absceso, pero no describe literalmente 'masa de 2 cm sin líquido'. Clave original: C."
+ },
+ "f051df333a": {
+  "k": "f051df333a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 63 años con enfermedad diverticular recurrente presenta fiebre, náuseas, vómitos y dolor en cuadrante inferior izquierdo. La TC muestra diverticulitis con una masa inflamatoria de 2 cm sin líquido. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Antibióticos, reposo intestinal e hidratación IV",
+   "Drenaje percutáneo guiado por TC",
+   "Drenaje quirúrgico del absceso",
+   "Resección quirúrgica con colostomía terminal",
+   "Observación expectante"
+  ],
+  "ans": 0,
+  "why": "La diverticulitis no complicada con flemón, sin absceso drenable, se trata con antibióticos, reposo intestinal e hidratación IV. El drenaje percutáneo se recomienda para abscesos mayores de 3 cm, y la resección con colostomía es para peritonitis difusa o fracaso del tratamiento. La observación sola no cubre a un paciente con fiebre y vómitos.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa: antibióticos, reposo intestinal y drenaje percutáneo solo si absceso >3 cm. Clave original: A."
+ },
+ "6af80020c9": {
+  "k": "6af80020c9",
+  "estado": "dudosa",
+  "stem": "Una mujer de 36 años con colitis ulcerosa acude a consulta de seguimiento. Ha sido tratada con enemas de corticoides y sulfasalazina. El examen físico de corazón, pulmones y abdomen es normal. En miembros inferiores presenta pápulas rojas y dolorosas. ¿Cuál es la causa más probable de esta manifestación?",
+  "opts": [
+   "Coagulopatía",
+   "Acropaquias",
+   "Eritema nudoso",
+   "Escleritis",
+   "Uveítis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): no hay cita directa de la opción marcada. (El revisor había propuesto la opción C.) El eritema nudoso se presenta como nódulos rojos dolorosos y es una manifestación cutánea extraintestinal de la enfermedad inflamatoria intestinal (Sabiston 1369). Coagulopatía, acropaquias, escleritis y uveítis no producen lesiones cutáneas dolorosas en las piernas; la uveítis y la escleritis son oculares.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1369 del PDF",
+   "Sabiston 21.ª ed., p. 1287 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). INDIRECTA para el descarte de las otras opciones: el libro describe el eritema nudoso (nódulos rojos dolorosos) y no menciona lesiones cutáneas dolorosas en las otras opciones; Sabiston aclara que en la EII el pioderma gangrenoso es más frecuente, pero no es opción aquí."
+ },
+ "a3fad39814": {
+  "k": "a3fad39814",
+  "estado": "dudosa",
+  "stem": "Una mujer de 28 años con colitis ulcerosa tratada con enemas de corticoides y sulfasalazina se queja de diarrea en aumento. La VSG es normal. ¿Cuál es el propósito del uso de antidiarreicos en este caso?",
+  "opts": [
+   "Inducir la remisión de la colitis ulcerosa",
+   "Prevenir el desarrollo de cáncer en colon sigmoide",
+   "Prevenir el desarrollo de cáncer rectal",
+   "Prevenir la recurrencia de la enfermedad",
+   "Reducir los episodios de diarrea"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). La fuente habla de loperamida en la incontinencia fecal, no en la colitis ulcerosa. (El revisor había propuesto la opción E.) Los antidiarreicos (p. ej. loperamida) enlentecen el tránsito y disminuyen la frecuencia de las heces sueltas: su propósito es solo sintomático. No inducen remisión de la colitis ulcerosa ni previenen recurrencias ni cáncer.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1442 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 456 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: Sabiston describe el efecto de la loperamida (en el contexto de la incontinencia fecal), no en colitis ulcerosa; el tratamiento de la CU (mesalamina, esteroides) y la prevención de cáncer por vigilancia colonoscópica están en de Virgilio p. 153 y 162. Clave original: E (resaltado)."
+ },
+ "cd9f06b504": {
+  "k": "cd9f06b504",
+  "estado": "dudosa",
+  "stem": "Un hombre de 37 años, hirsuto, acude por dolor anal de 2 semanas. El examen físico del área sacrococcígea revela un folículo piloso inflamado y doloroso. Si existe un trayecto sinusal asociado, ¿en qué dirección se espera que se extienda?",
+  "opts": [
+   "Caudal",
+   "Cefálica",
+   "Lateral",
+   "Medial",
+   "Ventral"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). Sabiston habla de un absceso en dirección cefálica, no del trayecto. (El revisor había propuesto la opción B.) En la enfermedad pilonidal el absceso agudo aparece en dirección cefálica a la hendidura interglútea, con orificios en la línea media a 4-8 cm del ano; no compromete el conducto anal.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1435 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 172 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: Sabiston dice que el absceso se presenta en dirección cefálica a la hendidura interglútea; no dice textualmente 'trayecto sinusal hacia cefálico'. Clave original: B (resaltado)."
+ },
+ "ae22eb7ee0": {
+  "k": "ae22eb7ee0",
+  "estado": "confirmada",
+  "stem": "Una mujer de 86 años con Alzheimer severo en un asilo presenta dolor abdominal cólico agudo, náuseas y vómitos. En urgencias tiene dolor en el cuadrante inferior izquierdo. Las radiografías muestran un sigmoide dilatado. El enema de bario evidencia estrechamiento en un punto de torsión. ¿Cuál es el manejo más adecuado?",
+  "opts": [
+   "Descompresión por sigmoidoscopía",
+   "Ampicilina y gentamicina IV",
+   "Metilprednisolona IV",
+   "Resección laparoscópica del sigmoides",
+   "Nutrición parenteral periférica"
+  ],
+  "ans": 0,
+  "why": "Un volvulo de sigmoide sin peritonitis, isquemia ni perforación se maneja con sigmoidoscopía flexible para destorcer y descomprimir, y luego sigmoidectomía por el alto riesgo de recurrencia. Antibióticos, esteroides y nutrición parenteral no tratan el volvulo, y la resección laparoscópica urgente no es el primer paso sin signos de isquemia.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: A (resaltado). El enunciado no menciona peritonitis ni isquemia, por eso la descompresión endoscópica es la conducta inicial."
+ },
+ "a90e093cb1": {
+  "k": "a90e093cb1",
+  "estado": "confirmada",
+  "stem": "Una mujer de 52 años con celulitis recurrente en el pie derecho ha estado tomando cefalosporina oral hasta 6 veces al día durante el último mes por su cuenta. Acude a urgencias con diarrea acuosa sin sangre ni moco y dolor abdominal cólico. No hay neumoperitoneo en la radiografía. Se solicitan estudios para toxina de Clostridium difficile. ¿Cuál es el siguiente paso más adecuado?",
+  "opts": [
+   "Cambiar antibiótico a ampicilina",
+   "Cambiar antibiótico a clindamicina",
+   "Enema con corticosteroides",
+   "Corticoides orales",
+   "Suspender la cefalosporina"
+  ],
+  "ans": 4,
+  "why": "El factor de riesgo más importante de infección por C. difficile es la exposición a antibióticos (las cefalosporinas de 3.ª y 4.ª generación se relacionan con mayor riesgo), y el tratamiento inicial consiste en suspender o reducir al mínimo los antibióticos previos. Ampicilina y clindamicina mantienen el riesgo; los esteroides no tratan la ICD.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1380 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: E (resaltado)."
+ },
+ "1ef45405b0": {
+  "k": "1ef45405b0",
+  "estado": "corregida",
+  "stem": "Una mujer de 65 años se presenta con una hemorragia masiva del tracto gastrointestinal inferior. Su presión arterial inicial en emergencias es de 80/60 mm Hg, con una frecuencia cardíaca de 120 lpm. Tras la reanimación con volumen, la presión arterial aumenta a 120/80 mm Hg. El aspirado nasogástrico es negativo para sangre. El siguiente paso en el manejo es:",
+  "opts": [
+   "Colonoscopía",
+   "Arteriografía mesentérica",
+   "Gammagrafía con glóbulos rojos marcados",
+   "Proctoscopía",
+   "Laparotomía exploradora"
+  ],
+  "ans": 0,
+  "why": "En un sangrado digestivo bajo masivo que se estabiliza con reanimación, tras descartar fuente alta con aspirado nasogástrico, se hace colonoscopía apenas esté preparada. La arteriografía o el gammagrama se usan si continúa sangrando; la laparotomía si no se estabiliza o no se localiza la fuente. La proctoscopía solo sirve para descartar hemorroides.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 166 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (Proctoscopía, resaltado). El libro de Virgilio responde A (colonoscopía) a esta misma pregunta; la proctoscopía solo descarta hemorroides como causa."
+ },
+ "1607badd51": {
+  "k": "1607badd51",
+  "estado": "confirmada",
+  "stem": "Una mujer de 75 años se presenta con dolor abdominal difuso leve y diarrea guayaco-positiva. Sus antecedentes médicos son negativos. El recuento de leucocitos y el hematocrito son normales. Una TC muestra engrosamiento leve de la pared del colon en el ángulo esplénico con estriación de la grasa pericólica asociada. El manejo consiste en:",
+  "opts": [
+   "Laparoscopía diagnóstica",
+   "Laparotomía exploradora",
+   "Antibióticos IV e hidratación",
+   "Colonoscopía",
+   "Angiografía mesentérica"
+  ],
+  "ans": 2,
+  "why": "El engrosamiento de la pared en el ángulo esplénico con estriación pericólica en una paciente anciana con leucocitos y hematocrito normales es una colitis isquémica leve (zona de cuenca en el ángulo esplénico). Casi siempre se trata con reposo intestinal, hidratación y antibióticos de amplio espectro. La angiografía no suele ayudar, la colonoscopía no es necesaria en la fase aguda y la cirugía se reserva para peritonitis o necrosis.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 156 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). Es la pregunta 12 del libro, con respuesta C."
+ },
+ "9cfa5dfe8b": {
+  "k": "9cfa5dfe8b",
+  "estado": "confirmada",
+  "stem": "Un paciente de 35 años con antecedentes de colitis ulcerosa se somete a anastomosis ileoanal con reconstrucción en bolsa en J. Cuatro meses después, presenta dolor abdominal de 3 días, diarrea, hematoquecia y fiebre. Todo lo siguiente es verdadero sobre esta condición, EXCEPTO:",
+  "opts": [
+   "Debe realizarse una endoscopía con biopsia.",
+   "Podría tratarse de una enfermedad de Crohn no diagnosticada.",
+   "El uso de probióticos es útil.",
+   "La excisión urgente de la bolsa en J suele ser necesaria.",
+   "Metronidazol y ciprofloxacina son útiles para el tratamiento."
+  ],
+  "ans": 3,
+  "why": "Es una pouchitis: se diagnostica con endoscopía y biopsia (que descarta Crohn no diagnosticado), mejora con probióticos en casos crónicos y responde a ciprofloxacino o metronidazol. La escisión de la bolsa es rara y no se hace de forma urgente, por eso la opción D es la falsa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 167 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado)."
+ },
+ "1face4fc3c": {
+  "k": "1face4fc3c",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes son características más consistentes con colitis de Crohn que con colitis ulcerosa, EXCEPTO:",
+  "opts": [
+   "Envoltura grasa serosa",
+   "Enfermedad segmentaria",
+   "Enfermedad perianal",
+   "Abscesos crípticos",
+   "Granulomas"
+  ],
+  "ans": 3,
+  "why": "Los abscesos crípticos son característicos de la colitis ulcerosa. La envoltura grasa, la enfermedad segmentaria, la enfermedad perianal y los granulomas no caseificantes son propios de Crohn.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 163 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 135 del PDF",
+   "Sabiston 21.ª ed., p. 1289 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). Es el tipo EXCEPTO: las otras cuatro opciones están respaldadas por los libros."
+ },
+ "88e9eb1a95": {
+  "k": "88e9eb1a95",
+  "estado": "dudosa",
+  "stem": "Una mujer de 69 años presenta distensión abdominal, fiebre de hasta 39.4 °C (103 °F), dolor abdominal difuso leve a moderado y diarrea de 2 días de evolución. Se encuentra en tratamiento con trimetoprima/sulfametoxazol oral por pielonefritis. La radiografía simple muestra dilatación colónica de hasta 7 cm sin evidencia de obstrucción. Todo lo siguiente es verdadero sobre esta condición, EXCEPTO:",
+  "opts": [
+   "El tratamiento de elección es metronidazol oral",
+   "La bacteria produce dos exotoxinas",
+   "Se debe suspender el Bactrim y administrar cefalosporina IV para tratar la pielonefritis",
+   "La sigmoidoscopía es útil para establecer el diagnóstico",
+   "Esta condición puede desarrollarse tras una sola dosis previa de antibiótico"
+  ],
+  "ans": null,
+  "why": "Es una infección por C. difficile con dilatación colónica. El libro respalda que produce toxinas A y B (B), que la sigmoidoscopía flexible ayuda al diagnóstico (D) y que aparece incluso tras una sola dosis de antibiótico (E). Pero dos opciones son falsas según los libros actuales: A (el metronidazol oral ya no es de elección; la guía 2021 prefiere fidaxomicina o vancomicina oral, y metronidazol solo si no hay otras) y C (se debe suspender el antibiótico, pero las cefalosporinas son factor de riesgo de ICD). Con dos opciones falsas, la pregunta EXCEPTO no tiene una única respuesta.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF",
+   "Sabiston 21.ª ed., p. 1379 del PDF",
+   "Sabiston 21.ª ed., p. 1380 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: C (resaltado). La pregunta es antigua: cuando metronidazol era de elección, solo C era falsa. Con las guías actuales (de Virgilio 3.ª ed. y Sabiston 21.ª ed.) A y C son ambas falsas, así que se deja dudosa."
+ },
+ "f8eb99f120": {
+  "k": "f8eb99f120",
+  "estado": "confirmada",
+  "stem": "Una mujer de 38 años presenta náuseas, vómitos, distensión abdominal y obstipación de un día de evolución. No tiene antecedentes médicos ni quirúrgicos. El examen físico revela masa timpánica en cuadrante superior izquierdo, distensión leve y dolor leve. Recuento leucocitario normal. Radiografía abdominal: asa intestinal dilatada en forma de riñón, con haustras visibles, proyectada del cuadrante inferior derecho al superior izquierdo. ¿Cuál afirmación es verdadera?",
+  "opts": [
+   "La cecostomía es el tratamiento quirúrgico de elección",
+   "Se indica detorsión quirúrgica con cecopexia",
+   "Requiere hemicolectomía derecha con ileostomía y fístula mucosa",
+   "Está indicada la detorsión endoscópica seguida de hemicolectomía derecha",
+   "Lo más probable es que requiera hemicolectomía derecha con anastomosis primaria"
+  ],
+  "ans": 4,
+  "why": "Es un vólvulo cecal (asa en riñón con haustras del cuadrante inferior derecho al superior izquierdo, sin isquemia). El cecal no se trata bien con endoscopía, y el tratamiento de elección es la colectomía derecha con anastomosis primaria, factible aun sin preparación. La cecopexia tiene alta recurrencia, la cecostomía no es apropiada en un paciente joven y la hemicolectomía con ileostomía y fístula mucosa se reserva para colon gangrenoso.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 164 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: E (resaltado). Las opciones C y E venían cortadas en el texto; se repararon con la imagen del original."
+ },
+ "bd9f08dd2c": {
+  "k": "bd9f08dd2c",
+  "estado": "confirmada",
+  "stem": "Todas las siguientes afirmaciones sobre la enfermedad diverticular del colon son verdaderas, EXCEPTO:",
+  "opts": [
+   "Ocurre con mayor frecuencia en el colon sigmoide",
+   "El recto está respetado",
+   "Son divertículos por pulsión",
+   "Son divertículos verdaderos",
+   "Se asocian a una dieta baja en fibra"
+  ],
+  "ans": 3,
+  "why": "Los divertículos del colon son falsos (solo mucosa y submucosa), de pulsión, ocurren sobre todo en el sigmoides, respetan el recto porque las tenias se abren allí, y se asocian a una dieta baja en fibra. Por eso la afirmación 'son divertículos verdaderos' es la falsa.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 165 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). Se reparó la opción A con la imagen del original ('colon sigmoide'). La asociación con dieta baja en fibra está en el libro (p. 164)."
+ },
+ "479d85cecd": {
+  "k": "479d85cecd",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la colitis ulcerosa (CU) y el cáncer de colon?",
+  "opts": [
+   "El riesgo de cáncer de colon no se relaciona con la extensión de la inflamación.",
+   "La malignidad típicamente se desarrolla en un pólipo.",
+   "Los niveles de antígeno carcinoembrionario (CEA) son útiles para determinar cuándo hacer una colonoscopía.",
+   "El riesgo de cáncer de colon está relacionado con la duración de la enfermedad.",
+   "Las biopsias aleatorias no son efectivas."
+  ],
+  "ans": 3,
+  "why": "El riesgo de cáncer de colon en la colitis ulcerosa aumenta con el tiempo (aprox. 10% a los 20 años), por eso se vigila con colonoscopía anual desde los 8 años. El cáncer se desarrolla sin pólipos (B falsa) y se recomiendan biopsias aleatorias (E falsa).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 162 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: D (resaltado). INDIRECTA para A y C: el libro no menciona la extensión de la inflamación ni el CEA; D es la única opción apoyada con cita directa."
+ },
+ "350779175a": {
+  "k": "350779175a",
+  "estado": "dudosa",
+  "stem": "Un hombre de 65 años presenta dolor en el cuadrante inferior izquierdo, náuseas y fiebre baja desde hace 2 días. Al examen, temperatura de 38.1 °C y leucocitosis de 14,000/μL. Tiene dolor localizado sin rebote. ¿Cuál es el siguiente paso más indicado?",
+  "opts": [
+   "Descompresión con sonda nasogástrica",
+   "Antibióticos intravenosos",
+   "Sigmoidoscopía flexible",
+   "Enema con bario",
+   "Enema con Gastrografin"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente trata este caso. (El revisor había propuesto la opción B.) Es una diverticulitis aguda probablemente no complicada, pero con fiebre y leucocitosis. El libro solo permite omitir antibióticos en casos leves sin signos sistémicos, así que aquí se indican antibióticos IV. La sigmoidoscopía, el enema con bario o con Gastrografin no son el primer paso en la fase aguda y la sonda nasogástrica no es necesaria sin obstrucción.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente cita textualmente estas opciones; se deduce del criterio de de Virgilio (sin antibióticos solo si no hay signos sistémicos) y de Sabiston (antibióticos como base del tratamiento, aunque su beneficio está discutido). Sabiston recomienda colonoscopía a las 4-8 semanas, no en la fase aguda. Clave original: B (resaltado). El enunciado no menciona la TC."
+ },
+ "58bb30f323": {
+  "k": "58bb30f323",
+  "estado": "dudosa",
+  "stem": "Una mujer de 40 años con pancolitis por enfermedad de Crohn de 10 años de evolución se somete a colonoscopía. La biopsia del colon sigmoide revela displasia severa. El tratamiento debe ser:",
+  "opts": [
+   "Proctocolectomía restauradora con reconstrucción ileoanal en bolsa",
+   "Proctocolectomía total con ileostomía",
+   "Colectomía sigmoidea",
+   "Repetir colonoscopía con biopsias en 3 meses",
+   "Curso de esteroides orales"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que si hay displasia en el colon por Crohn se prefiere la proctocolectomía total a la resección segmentaria, porque la displasia es multifocal. De Virgilio dice que la bolsa ileal con anastomosis ileoanal está contraindicada en Crohn. Pero Sabiston también considera la proctocolectomía con reservorio una opción posible en pacientes motivados sin enfermedad perianal, así que A no queda descartada con certeza. Ninguna fuente decide entre A y B para este caso.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1375 del PDF",
+   "Sabiston 21.ª ed., p. 1379 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 141 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (proctocolectomía total con ileostomía, resaltado). La opción A venía cortada en el texto; se reparó con la imagen del original. Los libros se contradicen en la bolsa para Crohn, por eso se deja dudosa."
  }
 }

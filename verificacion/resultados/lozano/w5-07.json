@@ -1,0 +1,303 @@
+[
+ {
+  "k": "d082fbf0aa",
+  "estado": "dudosa",
+  "stem": "Hombre con 5 años de colitis ulcerosa sin displasia. ¿Cirugía electiva más apropiada?",
+  "opts": [
+   "Proctocolectomía total + bolsa ileoanal + mucosectomía anal + ileostomía",
+   "Proctocolectomía total + bolsa ileoanal + ileostomía de derivación",
+   "Colectomía total + anastomosis ileorrectal",
+   "Colectomía + Hartmann bajo",
+   "Proctocolectomía total + ileostomía terminal"
+  ],
+  "ans": null,
+  "why": "Para la colitis ulcerosa con indicación electiva, el Sabiston y el de Virgilio respaldan la proctocolectomía con reservorio ileal y anastomosis ileoanal (RIARA). El Sabiston dice que se puede hacer grapada o cosida a mano tras mucosectomía, y que clásicamente se añade una ileostomía de derivación temporal. Por eso tanto A (RIARA con mucosectomía e ileostomía) como B (RIARA con ileostomía de derivación) son defendibles; C, D y E no son la cirugía de elección. Ninguna fuente decide entre A y B con los datos del enunciado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1376 del PDF",
+   "Sabiston 21.ª ed., p. 1395 del PDF",
+   "de Virgilio ABSITE, p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Sabiston p. 1376 indica que hoy se prefiere la anastomosis grapada, pero p. 1394 acepta ambas (con mucosectomía o grapada), así que A no queda descartada."
+ },
+ {
+  "k": "db5613e44f",
+  "estado": "confirmada",
+  "stem": "¿Dónde se localiza más frecuentemente angiodisplasia del tracto digestivo?",
+  "opts": [
+   "Colon ascendente",
+   "Colon descendente",
+   "Íleon terminal",
+   "Sigmoides",
+   "Recto"
+  ],
+  "ans": 0,
+  "why": "Las angiodisplasias pueden estar en cualquier parte del tubo digestivo pero aparecen por lo general en el ciego, y es ahí donde más sangran. El Giménez las localiza con mayor frecuencia en el colon derecho. Colon ascendente es la opción que corresponde a esa zona; descendente, sigmoides, recto e íleo terminal no son las localizaciones típicas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1187 del PDF",
+   "Giménez 2.ª ed., p. 836 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa: ciego (Sabiston) y colon derecho (Giménez); el ciego forma parte del colon derecho, por eso la opción A."
+ },
+ {
+  "k": "4cdc7fa7b0",
+  "estado": "dudosa",
+  "stem": "¿En qué procedimiento es más frecuente el síndrome de asa aferente?",
+  "opts": [
+   "Gastrectomía tipo Billroth I",
+   "Gastrectomía total",
+   "Vagotomía troncular con piloroplastía",
+   "Vagotomía troncular con antrectomía tipo Billroth I",
+   "Gastrectomía tipo Billroth II"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción E.) El asa aferente es el asa duodenoyeyunal proximal a la anastomosis gastroyeyunal tras una reconstrucción de Billroth II o una gastroyeyunostomía; su obstrucción parcial produce el síndrome. En Billroth I no hay asa aferente (anastomosis gastroduodenal), y el Sabiston dice que la gastroduodenostomía evita la obstrucción del asa aferente. Vagotomía con piloroplastía tampoco crea asa aferente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1242 del PDF",
+   "Sabiston 21.ª ed., p. 1238 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro define el asa aferente en Billroth II y dice que la gastroduodenostomía la evita, pero no escribe literalmente 'más frecuente en Billroth II'. La gastrectomía total no se menciona en esa definición."
+ },
+ {
+  "k": "012a53b4d5",
+  "estado": "dudosa",
+  "stem": "Una mujer de 28 años, una semana después de una colecistectomía laparoscópica, regresa con diarrea acuosa sin sangre ni fiebre. ¿Cuál es el manejo inicial más adecuado?",
+  "opts": [
+   "Loperamida",
+   "Solo soporte médico",
+   "Vancomicina oral",
+   "Ciprofloxacino oral",
+   "Metronidazol oral"
+  ],
+  "ans": null,
+  "why": "El enunciado no menciona antibióticos recientes, prueba de heces ni diagnóstico de Clostridioides difficile. Según el Sabiston, la diarrea acuosa tras cirugía digestiva y antibióticos debe hacer sospechar infección por C. difficile; solo se trata a los casos sintomáticos, con vancomicina o fidaxomicina, y el metronidazol es alternativa. Ninguna fuente respalda 'solo soporte médico' como manejo inicial, ni tampoco permite elegir vancomicina sin confirmar el diagnóstico. Falta un dato para decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 293 del PDF",
+   "Sabiston 21.ª ed., p. 256 del PDF",
+   "de Virgilio ABSITE, p. 153 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). No se encontró en los libros la pregunta original ABSITE ni una cita que sostenga B."
+ },
+ {
+  "k": "d8ead40fb5",
+  "estado": "confirmada",
+  "stem": "Un hombre de 57 años con dolor en cuadrante inferior izquierdo, distensión y estreñimiento alternando con diarrea tiene múltiples divertículos sigmoideos en enema de bario. ¿Qué los causa?",
+  "opts": [
+   "Segmento aperistáltico",
+   "Dieta rica en fibra",
+   "Presión intraluminal aumentada",
+   "Masa rectal",
+   "Poliposis colónica"
+  ],
+  "ans": 2,
+  "why": "Los divertículos sigmoideos aparecen por aumento de la presión intraluminal, por eso se llaman divertículos por pulsión; son falsos (solo mucosa y submucosa) y se forman en puntos débiles entre las tenias donde penetran los vasos. La dieta alta en fibra no los causa (la dieta baja en fibra favorece la enfermedad diverticular), y no se forman en el recto.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 164-165 del PDF (respuesta 15)"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa del libro: 'They occur due to increased intraluminal pressure'."
+ },
+ {
+  "k": "695e674613",
+  "estado": "dudosa",
+  "stem": "Un hombre de 68 años con antecedentes de diverticulosis presenta dolor en el cuadrante inferior izquierdo, distensión y alternancia entre estreñimiento y diarrea. Recientemente refiere paso de aire y materia fecal por la uretra, y ha tenido cuatro infecciones urinarias en los últimos seis meses. ¿Cuál es el siguiente paso más adecuado en el manejo?",
+  "opts": [
+   "Anoscopía",
+   "Examen rectal digital",
+   "Tomografía de abdomen y pelvis",
+   "Sigmoidoscopía rígida",
+   "Ecografía"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción C.) Neumaturia, fecaluria e infecciones urinarias recurrentes en un paciente con diverticulosis indican fístula colovesical. El Sabiston dice que la TC puede mostrar aire o contraste en la vejiga sin instrumentación previa. Anoscopía, tacto rectal, sigmoidoscopía rígida y ecografía no demuestran la fístula.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "de Virgilio ABSITE, p. 154 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: la fuente dice que la TC muestra aire en la vejiga, pero no usa la frase 'siguiente paso'. Clave original: C."
+ },
+ {
+  "k": "d392ca6eaa",
+  "estado": "dudosa",
+  "stem": "Una mujer de 26 años tiene 6 meses de diarrea sanguinolenta, dolor abdominal y fiebre intermitente. Tiene antecedentes de síndrome de intestino irritable, pero los síntomas se han intensificado. El examen físico muestra distensión abdominal y múltiples fisuras anales. ¿Cuál es el estudio diagnóstico más adecuado?",
+  "opts": [
+   "Anoscopía",
+   "Colonoscopía",
+   "Sigmoidoscopía flexible",
+   "Sigmoidoscopía rígida",
+   "No se requieren más estudios"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción B.) Diarrea sanguinolenta, fiebre y fisuras anales múltiples sugieren enfermedad inflamatoria intestinal (Crohn). El Sabiston dice que en el Crohn la fisura anal suele ser múltiple y no dolorosa, y que el diagnóstico de EII se hace con endoscopia, con evaluación completa del colon mediante colonoscopía y examen del íleon terminal. Anoscopía y sigmoidoscopía no evalúan todo el colon ni el íleon.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1369 del PDF",
+   "Sabiston 21.ª ed., p. 1370 del PDF",
+   "Sabiston 21.ª ed., p. 1287 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro respalda colonoscopía como estudio diagnóstico de EII/Crohn, pero no menciona esta viñeta exacta. Clave original: B."
+ },
+ {
+  "k": "3e584469d6",
+  "estado": "confirmada",
+  "stem": "Un hombre de 38 años con diagnóstico de colitis ulcerosa hace 1 año se presenta en emergencia con ictericia, es ingresado y el diagnóstico probable es colangitis esclerosante primaria. ¿Qué estudio adicional se recomienda?",
+  "opts": [
+   "Colonoscopia de detección inmediata",
+   "Colonoscopia inmediata con biopsias aleatorias",
+   "Colonoscopia con biopsias a los 8-10 años del diagnóstico de colitis ulcerosa",
+   "Colonoscopia de detección a los 50 años",
+   "Colonoscopia según síntomas, si es necesario"
+  ],
+  "ans": 1,
+  "why": "Los pacientes con colangitis esclerosante primaria deben recibir una colonoscopía con biopsias aleatorias de inmediato, en el momento del diagnóstico de la CEP, y repetirla cada 1 a 2 años. Esperar 8 a 10 años desde el diagnóstico de colitis ulcerosa aplica a pacientes sin CEP.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 166 del PDF (respuesta 22)",
+   "de Virgilio ABSITE, p. 151 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa del libro (misma pregunta de ABSITE, respuesta B)."
+ },
+ {
+  "k": "276fe1ac21",
+  "estado": "dudosa",
+  "stem": "Una mujer de 71 años presenta sangrado rectal. Tuvo cólicos leves en el lado izquierdo del abdomen que se resolvieron. La colonoscopía muestra diverticulosis sin sangrado ni perforación. No hay leucocitosis. ¿Cuál es el tratamiento más adecuado?",
+  "opts": [
+   "Antibióticos",
+   "Hemicolectomía izquierda",
+   "Hemicolectomía derecha",
+   "Colectomía subtotal",
+   "Observación"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción E.) La hemorragia diverticular se detiene de forma espontánea en más del 75% de los casos, y los divertículos asintomáticos no requieren cirugía. Aquí no hay sangrado activo, perforación ni leucocitosis (no hay diverticulitis), así que no hay indicación de antibióticos ni de resección; corresponde observar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1186-1187 del PDF",
+   "de Virgilio ABSITE, p. 165 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: ninguna fuente trata esta viñeta exacta; se deduce de que la hemorragia diverticular cede sola y de que la diverticulosis sin complicaciones no se opera. Clave original: E."
+ },
+ {
+  "k": "d24df085c9",
+  "estado": "dudosa",
+  "stem": "Un hombre de 85 años con dolor abdominal agudo y distensión progresiva, residente de un asilo, con náuseas y sin apetito. La radiografía abdominal muestra un asa sigmoidea dilatada con aire atrapado. ¿Cuál es el tratamiento inicial?",
+  "opts": [
+   "Enema con gastrografin",
+   "Dieta rica en fibra",
+   "Lactulosa",
+   "Descompresión con sonda rectal",
+   "Resección quirúrgica"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA). El libro indica primero la detorsión endoscópica y después la sonda rectal. (El revisor había propuesto la opción D.) Un asa sigmoidea dilatada con aire atrapado en un anciano de asilo corresponde a vólvulo sigmoideo. Sin peritonitis, isquemia ni perforación, se maneja primero con detorsión endoscópica y colocación de sonda rectal para descomprimir; la resección se reserva para peritonitis, isquemia o imposibilidad de detorsión, o como cirugía diferida por la alta recurrencia.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 153 del PDF",
+   "de Virgilio ABSITE, p. 164 del PDF (respuesta 13)"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro describe sigmoidoscopía para detorsionar y luego sonda rectal; la opción D solo nombra la sonda rectal. El resto de opciones (gastrografin, fibra, lactulosa, resección inmediata) no tienen respaldo como tratamiento inicial."
+ },
+ {
+  "k": "473961f135",
+  "estado": "dudosa",
+  "stem": "Una mujer de 36 años con hemorragia gastrointestinal recurrente acude nuevamente por sangrado. El diagnóstico diferencial incluye angiodisplasia y enfermedad diverticular. ¿Cuál de las siguientes características favorece el diagnóstico de diverticulosis colónica?",
+  "opts": [
+   "El sangrado es rápido",
+   "El sangrado se debe a debilidad de la pared colónica",
+   "El sangrado es repentino",
+   "El sangrado es autolimitado",
+   "Degeneración submucosa en el colon"
+  ],
+  "ans": null,
+  "why": "El Sabiston dice que la hemorragia diverticular ocurre en puntos de debilidad de la pared donde penetran los vasos rectos, y que es más brusca que la de la angiodisplasia (que es venosa, menos brusca y degenerativa). Entonces B, y también 'rápido' (A) y 'repentino' (C), son compatibles con diverticulosis; 'autolimitada' (D) la comparten ambas. No hay una única opción decidible con la fuente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1186-1187 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Clave original: B (resaltado). Tres opciones (A, B, C) son defendibles según el mismo texto; no se halló la pregunta ABSITE original."
+ },
+ {
+  "k": "91fbf3ce50",
+  "estado": "dudosa",
+  "stem": "Un hombre de 41 años con sangrado rectal intermitente nunca tratado acude a consulta. El examen físico general es normal. ¿Cuál de los siguientes estudios es el menos costo-efectivo para buscar la causa del sangrado?",
+  "opts": [
+   "Examen anorectal",
+   "Anoscopía",
+   "Gammagrafía de sangrado",
+   "Colonoscopía",
+   "Proctosigmoidoscopía"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente da datos de costo-efectividad. (El revisor había propuesto la opción C.) En el sangrado rectal intermitente de un paciente estable, la evaluación empieza con tacto rectal y anoscopía o sigmoidoscopía, y la colonoscopía es casi siempre el estudio inicial. La gammagrafía con eritrocitos marcados se reserva cuando la endoscopia no localiza la fuente, y fue positiva solo en alrededor del 39-45% de los casos de hemorragia baja, por lo que es la menos rentable en este escenario.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1184 del PDF",
+   "Sabiston 21.ª ed., p. 1186 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: las fuentes no dan datos de costo-efectividad; se deduce del lugar que ocupa cada estudio y de la baja positividad de la gammagrafía. Clave original: C."
+ },
+ {
+  "k": "495d2acdf4",
+  "estado": "confirmada",
+  "stem": "Un hombre de 57 años con sangrado digestivo bajo recurrente se somete a colonoscopía que no localiza el sitio del sangrado. Su hematocrito actual es 24% tras 3 unidades de glóbulos rojos. Se considera arteriografía visceral selectiva. ¿Cuál es una ventaja de esta prueba?",
+  "opts": [
+   "La embolización debe hacerse por separado",
+   "Es una prueba no invasiva",
+   "Permite localización precisa del sangrado",
+   "Funciona bien con sangrados <0.1 mL/min"
+  ],
+  "ans": 2,
+  "why": "La arteriografía permite localización precisa del sangrado y además puede ser terapéutica (embolización). Es invasiva y necesita sangrado rápido (0.5-1 mL/min); detecta peor los sangrados lentos, que son el dominio de la gammagrafía (0.1 mL/min). Por eso A, B y D son falsas.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 154 del PDF",
+   "de Virgilio ABSITE, p. 166-167 del PDF (respuesta 23)",
+   "Sabiston 21.ª ed., p. 1186 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa del libro: angiografía 'therapeutic, accurate localization'; 'invasive'; bleeding must be brisk."
+ },
+ {
+  "k": "4f91fda057",
+  "estado": "dudosa",
+  "stem": "Un hombre de 57 años con diverticulosis y episodios de diverticulitis es hospitalizado por dolor en el cuadrante inferior izquierdo. La TC muestra una masa inflamatoria de 2 cm sin líquido en su interior. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Diverticulitis aguda",
+   "Absceso diverticular",
+   "Flemon diverticular",
+   "Cáncer de colon sigmoide",
+   "Fístula transigmoidea"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la clave es deducida (el revisor la marcó INDIRECTA): ninguna fuente presenta este caso con su respuesta escrita. (El revisor había propuesto la opción C.) El flemón diverticular es la inflamación pericólica localizada sin absceso (Hinchey Ia), mientras que el absceso (Ib) incluye una colección. Una masa inflamatoria de 2 cm sin líquido corresponde a flemón.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1362 del PDF",
+   "Giménez 2.ª ed., p. 680 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: la fuente define flemón como inflamación sin absceso, pero no describe literalmente 'masa de 2 cm sin líquido'. Clave original: C."
+ },
+ {
+  "k": "f051df333a",
+  "estado": "confirmada",
+  "stem": "Un hombre de 63 años con enfermedad diverticular recurrente presenta fiebre, náuseas, vómitos y dolor en cuadrante inferior izquierdo. La TC muestra diverticulitis con una masa inflamatoria de 2 cm sin líquido. ¿Cuál es el tratamiento más apropiado?",
+  "opts": [
+   "Antibióticos, reposo intestinal e hidratación IV",
+   "Drenaje percutáneo guiado por TC",
+   "Drenaje quirúrgico del absceso",
+   "Resección quirúrgica con colostomía terminal",
+   "Observación expectante"
+  ],
+  "ans": 0,
+  "why": "La diverticulitis no complicada con flemón, sin absceso drenable, se trata con antibióticos, reposo intestinal e hidratación IV. El drenaje percutáneo se recomienda para abscesos mayores de 3 cm, y la resección con colostomía es para peritonitis difusa o fracaso del tratamiento. La observación sola no cubre a un paciente con fiebre y vómitos.",
+  "fuentes": [
+   "de Virgilio ABSITE, p. 154 del PDF",
+   "Sabiston 21.ª ed., p. 1363 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "Cita directa: antibióticos, reposo intestinal y drenaje percutáneo solo si absceso >3 cm. Clave original: A."
+ }
+]

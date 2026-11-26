@@ -1,0 +1,292 @@
+[
+ {
+  "k": "a2ad1af99d",
+  "estado": "dudosa",
+  "stem": "Enfermedad por reflujo gastroesofágico. Son indicaciones quirúrgicas, absolutas, todas las siguientes, excepto:",
+  "opts": [
+   "El tratamiento médico no controla las regurgitaciones.",
+   "El tratamiento médico no controla la pirosis.",
+   "Infecciones respiratorias de repetición en lactantes.",
+   "Anemia crónica en hernias mixtas voluminosas.",
+   "El paciente tiene un esófago de Barrett y, correctamente informado, decide operarse."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: no se pudieron verificar las opciones C y D; la clave sale en parte por descarte. (El revisor había propuesto la opción E.) Sabiston dice que la regresión del Barrett tras la cirugía antirreflujo es variable (remitió en poco más del 50 %) y que por eso 'no debe considerarse una indicación para la cirugía antirreflujo'; solo se debe seguir con la vigilancia endoscópica. Por eso la opción E es la excepción. Las opciones A y B coinciden con la indicación de Sabiston: síntomas típicos persistentes a pesar del tratamiento médico máximo.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1087 del PDF (Esófago de Barrett en ERGE)",
+   "Sabiston 21.ª ed., p. 1088 del PDF (Tratamiento quirúrgico)"
+  ],
+  "nota": "INDIRECTA: el libro dice directamente que el Barrett no es indicación de cirugía, pero no habla de las opciones C (infecciones respiratorias en lactantes) ni D (anemia en hernia mixta); no se verificaron esas dos. Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "5370a29fbf",
+  "estado": "dudosa",
+  "stem": "Esófago de Barrett. Todo es cierto, excepto:",
+  "opts": [
+   "Su diagnóstico actual es solo endoscópico.",
+   "Predispone al adenocarcinoma esofágico.",
+   "El reflujo biliopancreático al esófago es muy importante en su etiopatogenia.",
+   "Debe controlarse periódicamente sea cual fuere el tratamiento.",
+   "No desaparece completamente sea cual fuere el tratamiento."
+  ],
+  "ans": null,
+  "why": "Sabiston respalda B (riesgo de adenocarcinoma unas 40 veces mayor), C ('reflujos ácido y alcalino de larga duración') y D (continuar la vigilancia endoscópica tras la cirugía y tras la ablación). Pero dos opciones chocan con el libro: A, porque el Barrett se define por metaplasia intestinal histológica y exige biopsias, no solo endoscopia; y E, porque Sabiston describe la erradicación completa del Barrett con ablación por radiofrecuencia y regresión tras la cirugía antirreflujo en 40-64 %. Al haber dos opciones defendibles como 'falsa', ninguna fuente permite elegir una.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1087 del PDF (Esófago de Barrett)",
+   "Sabiston 21.ª ed., p. 1068 y p. 1069 del PDF (ablación por radiofrecuencia, erradicación y vigilancia)"
+  ],
+  "nota": "Sin clave original. Posible clave esperada por el examen: A o E; no se pudo decidir con fuente.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "8bd0f28b40",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la exploración más adecuada para el diagnóstico de una hernia de hiato paraesofágica?",
+  "opts": [
+   "Tránsito baritado.",
+   "pHmetría esofágica de 24 h.",
+   "Hemograma.",
+   "Endoscopia.",
+   "Manometría esofágica."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: dos opciones defendibles: Sabiston prefiere el esofagograma con bario pero también acepta la endoscopia para el diagnóstico. (El revisor había propuesto la opción A.) Sabiston indica que el diagnóstico de la hernia paraesofágica suele hacerse con un esofagograma con bario o una endoscopia, y que el esofagograma con bario da al cirujano 'la imagen más precisa de la anatomía gastroesofágica'. La endoscopia sirve sobre todo para ver la mucosa (úlceras de Cameron, Barrett); la manometría y la pHmetría valoran función y reflujo, y el hemograma no diagnostica la hernia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1097 del PDF (Hernia paraesofágica: presentación clínica y evaluación preoperatoria)"
+  ],
+  "nota": "INDIRECTA: el libro admite como diagnóstico tanto el esofagograma con bario como la endoscopia; elige el bario por ser la imagen anatómica más precisa. Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "24a7d16976",
+  "estado": "nueva",
+  "stem": "Datos clínicos del reflujo gastroesofágico. Todo es cierto, excepto:",
+  "opts": [
+   "La disfagia lógica y continua o progresiva debe hacer pensar en una estenosis péptica.",
+   "La disfagia paradójica y caprichosa debe hacer pensar en un trastorno motor del cuerpo esofágico.",
+   "El dato clínico fundamental es la pirosis.",
+   "La hemorragia digestiva se debe generalmente a la presencia de un esófago de Barrett.",
+   "Las regurgitaciones pueden provocar crisis de tos e infecciones broncopulmonares."
+  ],
+  "ans": 3,
+  "why": "Sabiston dice que cuando el esófago sangra (fuera de las várices) lo hace más habitualmente por esofagitis, es decir, la inflamación por el reflujo ácido, y no por el Barrett. Por eso D es la falsa. Las demás concuerdan con el libro: la estenosis péptica causa disfagia progresiva, la disfagia simultánea a líquidos y sólidos sugiere trastorno neuromuscular, la pirosis es el síntoma típico y específico, y los síntomas extraesofágicos incluyen tos.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1180 del PDF (Esofagitis como causa de hemorragia digestiva)",
+   "Sabiston 21.ª ed., p. 1086 y p. 1087 del PDF (disfagia en ERGE, estenosis péptica)",
+   "Sabiston 21.ª ed., p. 1081 del PDF (síntomas típicos de la ERGE)"
+  ],
+  "nota": "Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "45dbaab827",
+  "estado": "dudosa",
+  "stem": "Paciente de 46 años con antecedentes de pirosis y regurgitaciones ácidas de 20 años de evolución, que refiere disfagia lógica y progresiva de 14 meses de evolución y localización distal. La exploración complementaria diagnóstica es:",
+  "opts": [
+   "Manometría intraluminal esofágica.",
+   "pHmetría esofágica de 24 h.",
+   "Endoscopia.",
+   "Tomografía axial computarizada.",
+   "Tránsito baritado."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida; el libro no trata este caso exacto. (El revisor había propuesto la opción C.) Con reflujo de larga evolución y disfagia progresiva distal se sospecha estenosis péptica (o neoplasia). Sabiston dice que la endoscopia permite ver estenosis péptica y Barrett, y que la estenosis debe biopsiarse para descartar metaplasia intestinal, displasia y malignidad. La manometría y la pHmetría miden función o reflujo, no la lesión; la TC y el tránsito baritado no permiten biopsia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1085 del PDF (Esofagogastroduodenoscopia en ERGE)",
+   "Sabiston 21.ª ed., p. 1086 del PDF (Estenosis péptica: biopsia para descartar malignidad)"
+  ],
+  "nota": "INDIRECTA: el libro no plantea este caso exacto; la clave se apoya en que la endoscopia con biopsia es lo que identifica y caracteriza la estenosis péptica. Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c1369bf0cb",
+  "estado": "nueva",
+  "stem": "¿Cuál de las siguientes opciones es más fiable para confirmar la sospecha de una lesión cáustica esofágica importante?",
+  "opts": [
+   "Historia del suceso.",
+   "Exploración física del paciente.",
+   "Esofagrafia con bario.",
+   "Endoscopia."
+  ],
+  "ans": 3,
+  "why": "Sabiston indica que, salvo raras excepciones, debe hacerse una evaluación endoscópica del grado y la extensión de la lesión, y la gradúa con la clasificación endoscópica de Zargar. La historia y la exploración no miden la profundidad de la lesión, y el estudio con bario es un complemento de imagen (idealmente tras la TC), no la prueba que clasifica la lesión.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 y p. 1060 del PDF (Ingestión de cáusticos, tabla 42.5)",
+   "WSES 2019, Esophageal emergencies: WSES guidelines (World J Emerg Surg 2019;14:26; PMC6544956)"
+  ],
+  "nota": "Sin clave original. La guía WSES 2019 señala que la TC con contraste detecta mejor la necrosis transmural que la endoscopia, pero la TC no está entre las opciones.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "d1f0dfdcea",
+  "estado": "nueva",
+  "stem": "¿Cuál es la causa más frecuente de una perforación esofágica?",
+  "opts": [
+   "Ingestión de huesos de animales",
+   "Ingestión de cáusticos",
+   "Iatrogénica",
+   "Vómitos intensos"
+  ],
+  "ans": 2,
+  "why": "La guía WSES indica que la gran mayoría (60 %) de las perforaciones esofágicas son iatrogénicas, durante procedimientos endoscópicos diagnósticos o terapéuticos; la rotura por vómito (Boerhaave) explica alrededor del 15 %, y los cuerpos extraños y los cáusticos son causas raras. Sabiston también cita la perforación iatrogénica durante la endoscopia como la causa más comúnmente reconocida.",
+  "fuentes": [
+   "WSES 2019, Esophageal emergencies: WSES guidelines (World J Emerg Surg 2019;14:26; PMC6544956)",
+   "Sabiston 21.ª ed., p. 1058 del PDF (Perforación esofágica)"
+  ],
+  "nota": "Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "4bafc76099",
+  "estado": "dudosa",
+  "stem": "Un paciente de 35 años ingiere accidentalmente una sustancia cáustica. Presenta disfagia intensa y dolor torácico. En la evaluación inicial, ¿cuál de las siguientes medidas es la más apropiada?",
+  "opts": [
+   "Administrar inmediatamente corticosteroides por vía intravenosa.",
+   "Realizar una endoscopia digestiva alta de emergencia",
+   "Iniciar la alimentación por sonda nasogástrica para evitar la ingestión adicional de sustancias irritantes.",
+   "No realizar ninguna intervención hasta que se presente una complicación evidente."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: ninguna fuente dice endoscopia 'de emergencia' y la guía WSES prefiere la TC primero; la clave no queda respaldada. (El revisor había propuesto la opción B.) Sabiston indica que, salvo raras excepciones, debe hacerse la evaluación endoscópica, de preferencia al principio de la hospitalización porque el riesgo de perforación aumenta pasadas 48 h. Además, ya no se recomienda el uso sistemático de corticoides, no deben colocarse sondas nasogástricas a ciegas, y esperar a una complicación es contrario a la evaluación temprana.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 y p. 1060 del PDF (Ingestión de cáusticos)",
+   "WSES 2019, Esophageal emergencies: WSES guidelines (World J Emerg Surg 2019;14:26; PMC6544956)"
+  ],
+  "nota": "INDIRECTA: ninguna fuente dice literalmente 'endoscopia de emergencia'; se elige porque es la única opción compatible con la evaluación endoscópica temprana, mientras que las otras tres las contradice el libro. La guía WSES 2019 prefiere la TC con contraste en la urgencia y reserva la endoscopia urgente para cuando no hay TC; la TC no está entre las opciones. Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "ee8d0c6beb",
+  "estado": "dudosa",
+  "stem": "¿Cuál es la recomendación respecto a la evaluación endoscópica en pacientes adultos con lesiones por ingestión cáustica que se presentan asintomáticos después del evento?",
+  "opts": [
+   "No se necesita realizar una esófagogastroduodenoscopia (EGD) de rutina.",
+   "Se debe realizar una OGD dentro de las primeras 24 horas. Independientemente de los síntomas.",
+   "Se debe buscar una opinión quirúrgica de manera urgente.",
+   "Se debe observar a los pacientes en un periodo de observación sin intervención endoscópica."
+  ],
+  "ans": null,
+  "why": "Sabiston dice que, salvo raras excepciones, debe hacerse evaluación endoscópica en la mayoría de los pacientes, de preferencia temprano, pero no trata de forma específica al adulto asintomático. La revisión polaca cita que en niños asintomáticos hay lesiones graves en 12-35 %, y WSES 2019 reserva la endoscopia urgente para cuando no puede usarse TC. Ninguna de las fuentes consultadas da una recomendación explícita para el adulto asintomático, así que no se puede elegir entre A y B.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 del PDF (Ingestión de cáusticos)",
+   "WSES 2019, Esophageal emergencies: WSES guidelines (World J Emerg Surg 2019;14:26; PMC6544956)",
+   "Kardiochirurgia i Torakochirurgia Polska 2021, Diagnosis and management of gastrointestinal chemical burns and post-burn oesophageal stenosis (PMC8768856)"
+  ],
+  "nota": "Sin clave original. Se buscó una guía con la recomendación para adultos asintomáticos y no se encontró.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "624cae3b9e",
+  "estado": "anulada",
+  "stem": "Una mujer de 60 años ingiere inadvertidamente un producto de limpieza que contiene lejía. Se presenta a la sala de emergencias con quemaduras en la boca y el esófago. ¿Cuál de las siguientes opciones es el tratamiento inicial recomendado?",
+  "opts": [
+   "Administrar carbón activado para adsorber el producto cáustico en el estómago.",
+   "Realizar una endoscopia digestiva alta para evaluar el grado de lesión.",
+   "Administrar líquidos alcalinos para neutralizar el ácido en el esófago.",
+   "No administrar nada por vía oral y mantener al paciente en ayunas …(falta texto). evaluación del gastroenterólogo."
+  ],
+  "ans": null,
+  "why": "En el original la opción D está cortada: dice '…(falta texto). evaluación del gastroenterólogo'. Sin ese texto no se puede saber qué plantea D, y B (endoscopia para evaluar el grado de lesión) también es defendible como manejo inicial según Sabiston. Con la opción D incompleta la pregunta no se puede resolver.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1059 y p. 1060 del PDF (Ingestión de cáusticos)"
+  ],
+  "nota": "Anulada por texto incompleto en el propio original (opción D). Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "af0562207c",
+  "estado": "dudosa",
+  "stem": "Un adolescente ingiere accidentalmente un líquido corrosivo y presenta dolor intenso en el pecho y dificultad para tragar en la evaluación inicial. ¿Cuál de las siguientes intervenciones es más apropiada?",
+  "opts": [
+   "Administrar analgésicos orales para aliviar el dolor",
+   "Realizar una radiografía de tórax para evaluar la presencia de perforación esofágica",
+   "No administrar nada por vía oral y evitar la inducción del vómito",
+   "Administrar un antiácido para neutralizar el ácido en el estómago"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la fuente no menciona el ayuno ni descarta las opciones A y B; la clave sale por descarte. (El revisor había propuesto la opción C.) La revisión de quemaduras químicas indica que no debe inducirse el vómito ni usarse antiácidos, por el riesgo de nueva quemadura con el contenido regurgitado o por reacción exotérmica. Por eso D es incorrecta y C es la medida inicial segura. Sabiston añade que el manejo se guía por imagen y endoscopia, no por una radiografía simple como paso inicial.",
+  "fuentes": [
+   "Kardiochirurgia i Torakochirurgia Polska 2021, Diagnosis and management of gastrointestinal chemical burns and post-burn oesophageal stenosis (PMC8768856)",
+   "Sabiston 21.ª ed., p. 1059 del PDF (Ingestión de cáusticos)"
+  ],
+  "nota": "INDIRECTA: la fuente dice 'no inducir el vómito ni dar antiácidos'; la parte 'no administrar nada por vía oral' (ayuno) y el descarte de A y B se apoyan en que ninguna fuente las propone, no en un texto que las niegue. En el original, la opción D dice 'un análogo un antiácido' y el enunciado tiene 'punto' suelto; se limpiaron ambos. Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "10eefd319e",
+  "estado": "nueva",
+  "stem": "Un niño de 4 años acude a urgencias tras una ingestión accidental de lejía. El niño presenta estridor y ronquera. El niño es intubado de urgencia y reanimado con líquidos intravenosos. La radiografía de tórax no muestra signos de perforación. El paciente ingresa en la unidad de cuidados intensivos. El siguiente paso en el tratamiento es:",
+  "opts": [
+   "Esofagoscopio",
+   "Esofagografía",
+   "Tomografía computarizada de tórax",
+   "Observación estrecha",
+   "Laparotomía exploratoria inmediata"
+  ],
+  "ans": 0,
+  "why": "Estridor y ronquera indicaban compromiso de la vía aérea, ya resuelto con la intubación, y no hay signos de perforación. La guía WSES dice que la endoscopia sigue siendo el examen inicial de evaluación en niños, y Sabiston indica que debe hacerse una evaluación endoscópica del grado y la extensión de la lesión. La laparotomía no está indicada sin perforación o necrosis, y la observación sola no define la gravedad.",
+  "fuentes": [
+   "WSES 2019, Esophageal emergencies: WSES guidelines (World J Emerg Surg 2019;14:26; PMC6544956)",
+   "Sabiston 21.ª ed., p. 1059 del PDF (Ingestión de cáusticos)"
+  ],
+  "nota": "Sin clave original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "25a2497525",
+  "estado": "nueva",
+  "stem": "¿Cuál es la indicación principal para la cirugía correctiva de las estenosis esofágicas por lesiones cáusticas?",
+  "opts": [
+   "Cuando el tratamiento endoscópico es exitoso",
+   "En casos leves de estenosis esofágica",
+   "En casos graves cuando el tratamiento endoscópico fracasa o se considera perjudicial",
+   "Como primera opción de tratamiento para todas las estenosis esofágicas"
+  ],
+  "ans": 2,
+  "why": "La guía WSES indica que la dilatación endoscópica es el tratamiento inicial de la estenosis cáustica y que la cirugía reconstructiva debe considerarse tras el fracaso recurrente de la dilatación (grado 2A). La revisión polaca coincide: la dilatación va primero y la reconstrucción se hace cuando la cicatriz ya está formada. Si el tratamiento endoscópico tiene éxito, o la estenosis es leve, no hay indicación de cirugía.",
+  "fuentes": [
+   "WSES 2019, Esophageal emergencies: WSES guidelines (World J Emerg Surg 2019;14:26; PMC6544956)",
+   "Kardiochirurgia i Torakochirurgia Polska 2021, Diagnosis and management of gastrointestinal chemical burns and post-burn oesophageal stenosis (PMC8768856)"
+  ],
+  "nota": "Sin clave original. La parte 'o se considera perjudicial' de la opción C no aparece literal en las fuentes; el núcleo (fracaso de la dilatación endoscópica) sí. Texto de las opciones completado desde la imagen del original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "9b6412fc57",
+  "estado": "dudosa",
+  "stem": "¿Cuál es una diferencia clave entre el pull-up gástrico y la interposición colónica en la cirugía reconstructiva de estenosis esofágicas por lesiones cáusticas?",
+  "opts": [
+   "El pull-up gástrico requiere menos anastomosis que la interposición colónica.",
+   "La interposición colónica es un procedimiento más rápido que el pull-up gástrico.",
+   "La interposición colónica está asociada a una mayor incidencia de formación de estenosis que el pull-up gástrico.",
+   "El pull-up gástrico es más complejo y requiere tres anastomosis."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la fuente no da el número de anastomosis del colon; la clave se deduce. (El revisor había propuesto la opción A.) La revisión de estenosis post-quemadura describe la plastia gástrica con una sola anastomosis y más sencilla y corta que otros métodos, mientras que las técnicas con colon son más complejas y largas. Por eso B y D son falsas. Para C no hay dato comparativo: la revisión da estenosis anastomótica de 8-46 % con estómago y no la compara con el colon.",
+  "fuentes": [
+   "Kardiochirurgia i Torakochirurgia Polska 2021, Diagnosis and management of gastrointestinal chemical burns and post-burn oesophageal stenosis (PMC8768856)"
+  ],
+  "nota": "INDIRECTA: la fuente dice que el estómago usa una sola anastomosis y que el colon es más complejo y lento, pero no da el número de anastomosis del colon; A se acepta porque es la única opción compatible con los datos y B y D son contradichas. Sin clave original. Texto de las opciones completado desde la imagen del original.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "a410e8235a",
+  "estado": "dudosa",
+  "stem": "¿Cuál es una desventaja principal de los stents autoexpandibles de metal (SEMS) en el tratamiento de estenosis esofágicas benignas refractarias asociadas a las lesiones por cáusticos?",
+  "opts": [
+   "Tienen una tasa alta de migración del tejido.",
+   "Son propensos a la formación de nuevas estenosis.",
+   "Requieren intervenciones endoscópicas repetidas para su extracción.",
+   "Tienen una tasa alta de necrosis y ulceración, así como tendencia a incrustarse en la pared esofágica."
+  ],
+  "ans": null,
+  "why": "La revisión de stents esofágicos señala como limitación principal la migración del stent (24,5 % en estenosis benignas) y, con stents parcialmente cubiertos, el crecimiento de tejido hiperplásico que los incrusta en la mucosa y dificulta su retiro. Eso da apoyo parcial a A y a D, y la fuente no dice cuál es 'la desventaja principal' en estenosis por cáusticos. Sabiston solo dice que las endoprótesis se consideran caso por caso. La opción A además está mal redactada ('migración del tejido').",
+  "fuentes": [
+   "Curr Treat Options Gastroenterol 2018, Esophageal Stenting in Clinical Practice: an Overview (PMC5932108)",
+   "Sabiston 21.ª ed., p. 1060 del PDF (endoprótesis esofágicas, caso por caso)"
+  ],
+  "nota": "Sin clave original. Texto de las opciones completado desde la imagen del original.",
+  "tema": "esofago-estomago"
+ }
+]

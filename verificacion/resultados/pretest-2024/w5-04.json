@@ -1,0 +1,321 @@
+[
+ {
+  "k": "9bdcb762aa",
+  "estado": "nueva",
+  "stem": "La diferencia entre HDA y HDB viene determinada por:",
+  "opts": [
+   "La forma de presentación",
+   "Según la hemorragia se exteriorice por la boca o el ano respectivamente",
+   "Según se origine por encima o por debajo del ángulo de Treitz",
+   "Ninguna es correcta",
+   "A y C son ciertas"
+  ],
+  "ans": 2,
+  "why": "Sabiston clasifica la hemorragia digestiva por su situación anatómica respecto al ligamento de Treitz: la alta es proximal a él y la baja es distal a él. Por eso la forma de presentación (A) o por dónde se exterioriza la sangre (B) no es lo que las define, y 'A y C' no es correcta porque A es falsa.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF",
+   "Sabiston 21.ª ed., p. 1184 del PDF (HDB: distal al ligamento de Treitz)"
+  ],
+  "nota": "El original no traía clave. El enunciado venía con el año '2024 1.' pegado al inicio.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "0aeea72d0c",
+  "estado": "nueva",
+  "stem": "Señale la EXCEPCIÓN en la hemorragia digestiva alta:",
+  "opts": [
+   "La HD alta se define como proximal al ligamento de Treitz",
+   "La hemorragia de la porción alta del tubo digestivo es la forma de presentación más frecuente de Hemorragia Digestiva",
+   "Suele deberse a enfermedad ulcerosa péptica (EUP) o varices esofágicas",
+   "Este término no abarca los orígenes pancreático, hepático y biliar de la hemorragia"
+  ],
+  "ans": 3,
+  "why": "Sabiston: la HD alta es proximal al ligamento de Treitz, es la forma de presentación más frecuente de HD y suele deberse a EUP o varices esofágicas. Además, 'este término también abarca los orígenes pancreático, hepático y biliar de la hemorragia', así que la opción D es la falsa (la excepción).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1174 del PDF"
+  ],
+  "nota": "El original no traía clave. En el original venían pegadas dos preguntas (la 2 y la 3); la 3 va en 'dividir'.",
+  "tema": "esofago-estomago",
+  "dividir": [
+   {
+    "estado": "dudosa",
+    "stem": "Paciente varón, de 70 años, con estenosis aórtica leve, ingresa a Emergencia por FR: 26/min. Pálido ++/+++, Resto de examen sin variaciones. ¿Cuál es el Primer Paso en el tratamiento?",
+    "opts": [
+     "Ingresar a Endoscopía",
+     "Iniciar Infusión de Inhibidores de Bomba de Protones",
+     "Iniciar ABC de Reanimación",
+     "Desfibrilación Cardíaca"
+    ],
+    "ans": null,
+    "why": "Pasada a dudosa por el supervisor: al enunciado le falta un dato clave, porque no menciona ninguna hemorragia (solo FR 26 y palidez), así que no se puede saber qué se trata. (El revisor había propuesto la opción C.) Sabiston indica que en la hemorragia digestiva la evaluación inicial sigue el ABCDE (vía aérea, respiración, circulación, discapacidad, exposición) con reanimación, y que la endoscopia y los fármacos vienen después de la reanimación y la localización. Un paciente pálido con taquipnea es un paciente con hemorragia: no hay ritmo de paro que justifique desfibrilar.",
+    "fuentes": [
+     "Sabiston 21.ª ed., p. 1174 del PDF (ABCDE y reanimación)",
+     "Giménez 2.ª ed., p. 825 del PDF (endoscopia tras una óptima recuperación hemodinámica)"
+    ],
+    "tema": "esofago-estomago"
+   }
+  ]
+ },
+ {
+  "k": "8f0ab48730",
+  "estado": "nueva",
+  "stem": "Mujer de 35 años, sin antecedentes de enfermedad digestiva previa ni ingesta de alcohol ni AINEs. En el curso de un cuadro agudo de náuseas y vómitos intensos e incoercibles presenta sangre rutilante. El diagnóstico MÁS probable es:",
+  "opts": [
+   "Úlcera péptica sangrante",
+   "Síndrome de Mallory Weiss",
+   "Gastritis erosiva",
+   "Lesión de Dieulafoy"
+  ],
+  "ans": 1,
+  "why": "Sabiston describe el desgarro de Mallory-Weiss como un desgarro de mucosa y submucosa cerca de la unión gastroesofágica que aparece tras arcadas y vómitos intensos, aunque puede ocurrir en cualquier paciente con vómitos repetidos. Giménez lo vincula a un aumento repentino de la presión intraabdominal. La úlcera y la gastritis erosiva se asocian a AINE, H. pylori o alcohol, que la paciente niega.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1180 del PDF",
+   "Giménez 2.ª ed., p. 826-827 del PDF (síndrome de Mallory-Weiss; erosiones y úlceras asociadas a AINE)"
+  ],
+  "nota": "El original no traía clave.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "924a750bbc",
+  "estado": "dudosa",
+  "stem": "En Hemorragia digestiva:",
+  "opts": [
+   "Una puntuación de cero en la escala de Blatchford permite identificar a un pequeño subgrupo de pacientes de muy bajo riesgo que podrían ser dados de alta incluso sin necesidad de realizar gastroscopia urgente.",
+   "La escala de Rockall incluye variables endoscópicas.",
+   "La escala de Blatchford utiliza datos clínicos y de laboratorio",
+   "Todas son verdaderas"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: las fuentes se contradicen: Giménez pone el corte de bajo riesgo de Blatchford en 0-3 y la guía ESGE en 0-1, así que 'todas verdaderas' no queda respaldada. (El revisor había propuesto la opción D.) La guía ESGE 2021 recomienda el puntaje de Glasgow-Blatchford y dice que con GBS 0-1 el riesgo es muy bajo y se puede manejar de forma ambulatoria con endoscopia ambulatoria (una puntuación de cero entra en ese grupo). Giménez dice que Rockall combina variables clínicas y endoscópicas, y su cuadro de Glasgow-Blatchford usa urea, hemoglobina, presión arterial, frecuencia cardíaca, melena, síncope y enfermedad hepática o cardíaca (datos clínicos y de laboratorio). Las tres afirmaciones son ciertas.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 824 del PDF (cuadro 82-2, Glasgow-Blatchford)",
+   "Giménez 2.ª ed., p. 826 del PDF (Rockall: variables clínicas y endoscópicas)",
+   "ESGE Guideline Update 2021, Gralnek et al., Endoscopy (PMID 33567467, resumen en Europe PMC)"
+  ],
+  "nota": "El original no traía clave. La parte de 'puntuación cero' viene de la guía ESGE (GBS 0-1); Giménez da como corte de bajo riesgo 0-3 puntos.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "ac5b20a015",
+  "estado": "dudosa",
+  "stem": "Paciente previamente sano, que acude al hospital por hemorragia rectal masiva, el diagnóstico más probable es:",
+  "opts": [
+   "Enfermedad diverticular de colon",
+   "Cáncer de colon derecho",
+   "Enfermedad inflamatoria intestinal",
+   "Úlcera péptica",
+   "Diverticulitis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida; ningún libro compara las cinco opciones para este caso. (El revisor había propuesto la opción A.) Sabiston señala la enfermedad diverticular como la causa más frecuente de hemorragia digestiva baja grave (30-40% de las HDB) y ABSITE dice que la diverticulosis explica más de la mitad de los casos. Las otras opciones no son la causa habitual de hemorragia rectal masiva en un paciente sano; la úlcera péptica es una fuente alta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF",
+   "Sabiston 21.ª ed., p. 1184 del PDF (tabla 47.2)",
+   "ABSITE (de Virgilio), p. 166 del PDF"
+  ],
+  "nota": "INDIRECTA: ningún libro compara las cinco opciones; la clave A se apoya en que la enfermedad diverticular es la causa más frecuente de HDB grave. 'Diverticulitis' (E) no se cita como causa de hemorragia en las fuentes. El original no traía clave.",
+  "tema": "colon"
+ },
+ {
+  "k": "9dbfa7a6ad",
+  "estado": "nueva",
+  "stem": "Respecto a las indicaciones de Tratamiento Quirúrgico de la Hemorragia Digestiva Alta de Origen No Varicoso: Señale la respuesta INCORRECTA:",
+  "opts": [
+   "Cada caso debe ser individualizado y abordado de forma multidisciplinaria entre gastroenterólogos, cirujanos y radiólogos intervencionistas.",
+   "En la valoración quirúrgica debe considerarse en los siguientes supuestos: Hemorragia masiva, shock refractario sin opción a tratamiento endoscópico",
+   "Fracaso del tercer intento de endoscopia terapéutica para cohibir la hemorragia",
+   "Recidiva hemorrágica, una vez valorado un segundo intento de endoscopia terapéutica."
+  ],
+  "ans": 2,
+  "why": "Las fuentes ponen el límite en el segundo intento endoscópico, no en el tercero: Sabiston incluye como indicación quirúrgica la hemorragia recurrente tras estabilización inicial 'hasta con dos intentos' de hemostasia endoscópica, y la guía ESGE 2021 indica que tras el fallo del segundo intento se considera la embolización y, si no está disponible o falla, la cirugía. Por eso la C (tercer intento) es la incorrecta; la inestabilidad hemodinámica pese a reanimación enérgica también es indicación (opción B).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1179 del PDF (cuadro 47.1, indicaciones de cirugía)",
+   "Giménez 2.ª ed., p. 826 del PDF (fracaso del tratamiento endoscópico por segunda vez)",
+   "ESGE Guideline Update 2021, Gralnek et al., Endoscopy (PMID 33567467, recomendación 8)"
+  ],
+  "nota": "El original no traía clave.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "3b7273dc66",
+  "estado": "dudosa",
+  "stem": "Paciente mujer de 32 años ingresa por presentar 2 episodios de hematemesis. No alcoholismo. Después de varias horas en el hospital, el paciente tiene hemorragia recurrente masiva y es transferida a la unidad de cuidados intensivos con hipotensión persistente a pesar de la transfusión de 9 U de concentrado eritrocítico. ¿Cuál es el paso siguiente más apropiado en su atención?",
+  "opts": [
+   "Endoscopía GI de la porción superior con intento de cauterización del sitio sangrante.",
+   "Traslado a la unidad de radiología intervencionista para identificar y embolizar la fuente de hemorragia.",
+   "Colocación de una sonda de Sengstaken-Blakemore para taponar momentáneamente la hemorragia y permitir que se estabilice la presión arterial",
+   "Laparotomía para control de la hemorragia"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: dos opciones defendibles: Sabiston indica cirugía con más de 6 U transfundidas, y Giménez y la ESGE proponen la embolización como paso previo. (El revisor había propuesto la opción D.) Sabiston incluye entre las indicaciones de cirugía la inestabilidad hemodinámica a pesar de una reanimación enérgica (más de 6 unidades transfundidas) y la hemorragia recurrente tras estabilización. Esta paciente cumple ambas con 9 U, así que corresponde laparotomía. La sonda de Sengstaken-Blakemore es un recurso temporal para varices en cirrosis, y la paciente no tiene alcoholismo ni hepatopatía.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1179 del PDF (cuadro 47.1 y texto sobre unidades transfundidas)",
+   "Sabiston 21.ª ed., p. 1184 del PDF (sonda con balón como medida temporal en varices)"
+  ],
+  "nota": "La embolización (B) es la alternativa de Giménez y ESGE cuando el tratamiento endoscópico ya falló dos veces; el enunciado no dice que se hayan hecho dos intentos y sí describe inestabilidad pese a 9 U, por eso se elige D. El original no traía clave.",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "9e1f7c3c84",
+  "estado": "dudosa",
+  "stem": "Aproximadamente el 90% de los pacientes con hematoquezia sangra por el:",
+  "opts": [
+   "Recto",
+   "Esófago",
+   "Estómago",
+   "Duodeno",
+   "Colon"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida; el libro no da la cifra del 90% que pide el enunciado. (El revisor había propuesto la opción E.) Sabiston define la hematoquecia como sangre roja brillante por el ano y la liga con la hemorragia digestiva baja, cuya fuente está en el colon en más del 95% de los casos. La causa anorrectal es solo del 5 al 15%, por lo que 'Recto' no puede explicar el 90%. Esófago, estómago y duodeno son fuentes altas: solo hasta el 15% de las hematoquecias vienen de allí.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1184 del PDF (HDB, tabla 47.2: colon 95%, enfermedad anorrectal 5-15%)",
+   "Sabiston 21.ª ed., p. 1185 del PDF (hasta el 15% de hematoquecias con fuente alta)"
+  ],
+  "nota": "INDIRECTA: el libro no dice textualmente '90% de la hematoquecia sangra por el colon'; se deduce de que más del 95% de las HDB son colónicas y hasta 15% de las hematoquecias son de origen alto. El original no traía clave.",
+  "tema": "colon"
+ },
+ {
+  "k": "a389e3a381",
+  "estado": "dudosa",
+  "stem": "Cuál de los siguientes parámetros es el menos útil para valorar la presencia de actividad en la colitis ulcerativa:",
+  "opts": [
+   "Plaquetopenia",
+   "Albúmina sérica inferior a 3.5 g/L",
+   "Fiebre",
+   "Más de tres deposiciones al día",
+   "Dolor abdominal crónico"
+  ],
+  "ans": null,
+  "why": "Sabiston cita los criterios de Truelove y Witts (intensidad de diarrea, sangre en heces, fiebre, taquicardia, anemia, VSG elevada): fiebre y número de deposiciones sí cuentan. No menciona plaquetas ni albúmina como criterios (solo hipoalbuminemia menor de 3 g/dl dentro de la definición de megacolon tóxico). Sobre el dolor, Sabiston (tabla 50.7) dice que en la colitis ulcerosa es leve o moderado, pero ninguna fuente declara cuál de 'plaquetopenia' o 'dolor abdominal crónico' es el menos útil, así que no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1373 del PDF (Truelove y Witts; megacolon tóxico)",
+   "Sabiston 21.ª ed., p. 1289 del PDF (tabla 50.7, dolor leve o moderado en CU)"
+  ],
+  "nota": "Sin clave original. Dos opciones (plaquetopenia y dolor abdominal crónico) son defendibles y ningún libro de la carpeta zanja la pregunta.",
+  "tema": "colon"
+ },
+ {
+  "k": "2937d788a8",
+  "estado": "dudosa",
+  "stem": "Cuál de estas complicaciones No es propia de la colitis ulcerosa:",
+  "opts": [
+   "Carcinoma de colon",
+   "Lesiones perianales",
+   "Megacolon tóxico",
+   "Artritis",
+   "Fistulas"
+  ],
+  "ans": null,
+  "why": "Carcinoma de colon, megacolon tóxico y artritis (manifestación extraintestinal más habitual) sí corresponden a la colitis ulcerosa según Sabiston y ABSITE. Pero 'lesiones perianales' y 'fístulas' son ambas propias de la enfermedad de Crohn: la tabla 50.7 de Sabiston da 'fisura, fístula, abscesos anales' como raros en CU y ABSITE dice que la CU generalmente respeta el ano. Las dos opciones son igual de defendibles como respuesta.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1289 del PDF (tabla 50.7; perianal y fístulas rectovaginales raras en CU)",
+   "Sabiston 21.ª ed., p. 1369 del PDF (artritis, manifestación extraintestinal más habitual)",
+   "Sabiston 21.ª ed., p. 1373 del PDF (megacolon tóxico en colitis fulminante)",
+   "ABSITE (de Virgilio), p. 153 del PDF (CU respeta el ano; fístulas en Crohn)"
+  ],
+  "nota": "Sin clave original. Dos opciones (B y E) son típicas de Crohn y no de CU.",
+  "tema": "colon"
+ },
+ {
+  "k": "7126d59428",
+  "estado": "dudosa",
+  "stem": "La localización más frecuente de la enfermedad diverticular del colon es:",
+  "opts": [
+   "Sigmoides",
+   "Colon derecho",
+   "Colon transverso",
+   "Ciego",
+   "Colon izquierdo"
+  ],
+  "ans": null,
+  "why": "Giménez indica que cerca del 95% de los pacientes con enfermedad diverticular tienen divertículos en el sigmoides y que se ubican principalmente en el colon descendente y sigmoides; Sabiston dice que el sigma y el colon descendente suelen estar afectados. 'Sigmoides' y 'colon izquierdo' son ambas coherentes con esos textos (el sigmoides es parte del colon izquierdo) y la pregunta no distingue cuál se espera.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 680-681 del PDF (95% en sigmoides; principalmente colon descendente y sigmoides)",
+   "Sabiston 21.ª ed., p. 1361 del PDF (sigma y colon descendente afectados)"
+  ],
+  "nota": "Sin clave original. Lo más específico según Giménez es el sigmoides, pero 'colon izquierdo' también es verdadero; se deja dudosa para no elegir por probabilidad.",
+  "tema": "colon"
+ },
+ {
+  "k": "5d169e49a7",
+  "estado": "nueva",
+  "stem": "La causa más frecuente de hemorragia digestiva baja masiva es:",
+  "opts": [
+   "TBC intestinal",
+   "Enfermedad de Crohn",
+   "Colitis ulcerativa",
+   "Carcinoma",
+   "Diverticulosis"
+  ],
+  "ans": 4,
+  "why": "Sabiston: la enfermedad diverticular es la causa más frecuente de hemorragia digestiva baja grave (30-40% de las HDB), y ABSITE añade que la diverticulosis explica más de la mitad de los casos. Crohn y colitis ulcerosa sangran, pero sobre todo de forma leve o crónica; el carcinoma suele dar sangrado oculto o crónico; la TBC intestinal no es causa relevante de hemorragia masiva.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1361 del PDF (causa más frecuente de HDB grave)",
+   "Sabiston 21.ª ed., p. 1184 del PDF (tabla 47.2: enfermedad diverticular 30-40%)",
+   "ABSITE (de Virgilio), p. 166 del PDF (diverticulosis, más de la mitad de las HDB)"
+  ],
+  "nota": "El original no traía clave.",
+  "tema": "colon"
+ },
+ {
+  "k": "12b77cded8",
+  "estado": "dudosa",
+  "stem": "¿Cual es el tratamiento estándar para la apendicitis aguda no complicada?",
+  "opts": [
+   "Antibióticos solos",
+   "Apendicectomía laparoscópica",
+   "Observación",
+   "Apendicectomía abierta",
+   "Apendicectomia con incisión Rockey Davis"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: dos opciones defendibles: Sabiston acepta como válidas la apendicectomía abierta y la laparoscópica. (El revisor había propuesto la opción B.) Sabiston llama a la apendicectomía urgente el tratamiento de referencia de la apendicitis no complicada, y su equipo prefiere el abordaje laparoscópico. Giménez dice que, en centros con experiencia, el abordaje de elección debe ser el laparoscópico (menos dolor, menos infección de herida, retorno laboral más rápido). Antibióticos solos y observación no son el estándar.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1329-1330 del PDF",
+   "Giménez 2.ª ed., p. 692-693 del PDF (abordaje de elección laparoscópico)"
+  ],
+  "nota": "Sabiston aclara que ambos abordajes (abierto y laparoscópico) son aceptables; la clave B se apoya en que ambos libros prefieren la laparoscopía. La opción D (abierta) también es una apendicectomía válida. El original no traía clave.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "b8ee89212e",
+  "estado": "dudosa",
+  "stem": "¿Qué variante anatómica del apéndice es más propensa a provocar síntomas atípicos en la apendicitis aguda?",
+  "opts": [
+   "Retrocecal",
+   "Pélvico",
+   "Paracecal",
+   "Subhepático",
+   "Retroileal"
+  ],
+  "ans": null,
+  "why": "Sabiston describe presentaciones atípicas tanto con el apéndice retroperitoneal (dolor de espalda o flanco) como con la punta en la pelvis (dolor suprapúbico que simula infección urinaria). Giménez describe el dolor en flanco o región lumbar en el retrocecal y el dolor hipogástrico con diarrea o síntomas urinarios en el pélvico. Ambas variantes producen síntomas atípicos y ningún libro dice cuál es 'más propensa'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1327 del PDF",
+   "Giménez 2.ª ed., p. 688-689 del PDF"
+  ],
+  "nota": "Sin clave original. Retrocecal y pélvico son igualmente defendibles.",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "39115f1add",
+  "estado": "dudosa",
+  "stem": "¿Qué hallazgo en la exploración física sugiere apendicitis retrocecal?",
+  "opts": [
+   "Dolor al levantar la pierna derecha extendida (signo del psoas)",
+   "Dolor al comprimir la fosa iliaca derecha (signo de McBurney)",
+   "Dolor al rotar el muslo derecho hacia adentro (signo del obturador)",
+   "Dolor al palpar el epigastrio",
+   "Signo de kehr"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: clave deducida del orden de las filas de una tabla desordenada; no hay cita directa. (El revisor había propuesto la opción A.) En la tabla 46.1 de Sabiston el signo del psoas (dolor al elevar la pierna extendida contra resistencia) se asocia con la apendicitis aguda retrocecal. El signo del obturador (rotación de la cadera) se asocia con apéndice o absceso pélvico, McBurney es el punto clásico de la apendicitis en general, el dolor epigástrico corresponde al signo de Aaron y el signo de Kehr no figura entre los signos de apendicitis de las fuentes consultadas.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1163 del PDF (tabla 46.1, signo del psoas y apendicitis retrocecal)",
+   "Sabiston 21.ª ed., p. 1327 del PDF (signos del psoas y del obturador)"
+  ],
+  "nota": "INDIRECTA: la tabla 46.1 de Sabiston viene con las columnas desordenadas en el texto del PDF; la correspondencia psoas con retrocecal se dedujo por el orden de las filas. El original no traía clave.",
+  "tema": "apendicitis"
+ }
+]

@@ -1,0 +1,267 @@
+[
+ {
+  "k": "ad01090633",
+  "sec": "Estómago",
+  "stem": "Un hombre de 42 años con alcoholismo de larga data es llevado al departamento de emergencias por su familia después de vomitar grandes volúmenes de sangre roja brillante. La esofagoscopia a pie de cama revela desgarros de la mucosa cerca de la unión gastroesofágica (UGE). ¿Cuál de las siguientes afirmaciones con respecto a esta condición es verdadera?",
+  "opts": [
+   "No se puede establecer el diagnóstico sin el",
+   "La endoscopia no solo es diagnóstica, sino también terapéutica",
+   "La enfermedad suele ser fatal",
+   "La morbilidad de esta enfermedad",
+   "La presentación de esta enfermedad es una indicación para tamizaje de Helicobacter pylori"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "c5325a2442",
+  "sec": "Estómago",
+  "stem": "Un hombre de 50 años se presenta al servicio de urgencias después de la aparición repentina de dolor constante en la espalda y el abdomen tras vómitos prolongados en los últimos días. Niega hematemesis. La exploración física de la cavidad oral es normal, pero la palpación del tórax revela crepitaciones, y la auscultación revela ruidos de crujido con cada respiración. ¿Cuál de los siguientes es el mejor primer paso para el diagnóstico?",
+  "opts": [
+   "Tomografía computarizada",
+   "Tomografía computarizada con contraste",
+   "Esofagoscopía",
+   "Estudio con contraste oral con bario",
+   "Estudio con contraste oral con Gastrografin"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "a44f7fa404",
+  "sec": "Estómago",
+  "stem": "Una mujer de 22 años es traída por los servicios de emergencia al departamento de urgencias tras un intento suicida fallido. Al llegar, se le informa que consumió una gran cantidad de un limpiador doméstico no identificado y fue encontrada cubierta de vómito. Tiene fiebre, signos vitales normales, se retuerce de dolor en la camilla y no puede proporcionar información. El examen oral revela eritema e hipersalivación. ¿Cuál de los siguientes es el paso más crucial en el tratamiento de esta paciente?",
+  "opts": [
+   "Administración de un emético",
+   "Estimular la hidratación oral",
+   "Esofagoscopía",
+   "Intervención quirúrgica con resección de las porciones esofágicas afectadas"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "7c69bed5ac",
+  "sec": "Estómago",
+  "stem": "Una mujer de 86 años acude a tu consulta para seguimiento programado después de una mastectomía. En la revisión de sistemas, refieres que ha tenido una pérdida de peso involuntaria de 15 libras y ha desarrollado disfunción aguda de la deglución con regurgitación ocasional. Al indagar, menciona que la disfagia ocurre con sólidos y líquidos, y que su dolor disfágico se alivia con nitroglicerina que le fue prescrita por su cardiólogo. Su dolor no está relacionado con el ejercicio físico. El examen físico, incluyendo un examen cardiovascular completo, es normal. Se obtiene una serie gastrointestinal superior y se muestra una imagen representativa en la Figura 5-2. ¿Cuál de los siguientes es el diagnóstico más probable?",
+  "opts": [
+   "Acalasia",
+   "Enfermedad por reflujo gastroesofágico",
+   "Angina estable",
+   "Hernia hiatal tipo I",
+   "Divertículo de Zenker"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "34cf6d3fde",
+  "sec": "Estómago",
+  "stem": "Un hombre de 27 años acude a tu consulta con pirosis retroesternal posprandial y náuseas. Sus síntomas ocurren todas las noches, empeoran después de comidas copiosas y son comunes al acostarse después de cenar. Nunca ha buscado tratamiento por este nuevo problema. Tiene antecedentes médicos y quirúrgicos benignos. Su historia familiar no aporta nada relevante. Consume dos o tres tazas de café al día y toma una o dos cervezas los fines de semana con la cena. ¿Cuál de los siguientes es el mejor método para establecer el diagnóstico de este paciente?",
+  "opts": [
+   "Electrocardiograma",
+   "Esofagogastroduodenoscopia (EGD)",
+   "Estudio con bario por vía oral",
+   "Prueba terapéutica con nitroglicerina",
+   "Monitoreo del pH esofágico por 24 horas"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "19a2dfbb38",
+  "sec": "Estómago",
+  "stem": "El paciente del caso anterior regresa a tu consulta después de realizarse los estudios ambulatorios que tú solicitaste. ¿Cuál de los siguientes es el manejo ideal para este paciente asumiendo que se confirma tu diagnóstico sospechado?",
+  "opts": [
+   "Dilatación endoscópica y/o colocación de",
+   "Funduplicatura total de Nissen",
+   "Tratamiento farmacológico con ranitidina",
+   "Tratamiento farmacológico con omeprazol",
+   "Observación"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 120,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "6e00a943df",
+  "sec": "Estómago",
+  "stem": "Una mujer de 47 años regresa a tu consultorio después de una endoscopia alta realizada por síntomas persistentes de ERGE. El informe operatorio indica la presencia de parches de mucosa esofágica de color rojo aterciopelado a nivel de la unión gastroesofágica (UGE). Se tomaron múltiples biopsias. El informe patológico correspondiente indica la presencia de esófago de Barrett. Le comunicas a la paciente su mayor riesgo de malignidad esofágica y la necesidad de tratamiento médico continuo y posible tratamiento quirúrgico. ¿Cuál de las siguientes afirmaciones describe con mayor precisión los hallazgos patológicos del esófago de Barrett?",
+  "opts": [
+   "Maduración escamosa anormal con",
+   "Invasión de células glandulares displásicas en la lámina propia",
+   "Metaplasia de epitelio columnar a epitelio escamoso",
+   "Metaplasia de epitelio escamoso a epitelio columnar",
+   "Células endoteliales gigantes multinucleadas con inclusiones citoplásmicas"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "d95410f2ac",
+  "sec": "Estómago",
+  "stem": "Un hombre de 39 años acude a seguimiento por ERGE de larga data y una hernia hiatal sospechada. Sus síntomas incluyen disfagia y plenitud posprandial. Toma omeprazol desde hace 6 meses sin alivio de los síntomas. No se han realizado estudios endoscópicos. El esofagograma con bario muestra una unión gastroesofágica estable con herniación del estómago más allá del diafragma. ¿Cuál de los siguientes es el diagnóstico más probable actualmente?",
+  "opts": [
+   "Hernia hiatal tipo I (deslizante)",
+   "Hernia hiatal tipo II (paraesofágica)",
+   "Hernia hiatal tipo III (mixta)",
+   "Hernia hiatal tipo IV (mixta con participación de otro órgano)"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "e68699db02",
+  "sec": "Estómago",
+  "stem": "Una mujer de 56 años con cirrosis hepática terminal por alcoholismo acude a urgencias con hematemesis difusa. A la admisión, su presión sistólica es 85 mmHg y no se detecta presión diastólica. En el examen, presenta estado mental alterado, gran cantidad de sangre en su ropa y sangre seca en la mucosa oral. Parece caquéctica e ictérica. Según el informe de urgencias, ha vomitado 750 ml de sangre roja brillante desde su llegada, hace 30 minutos. ¿Cuál de los siguientes es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Ensayo de manejo médico con octreótido intravenoso continuo",
+   "Cirugía urgente con creación de derivación portocava",
+   "Taponamiento endoscópico con balón",
+   "Ligadura endoscópica de várices",
+   "Derivación portosistémica intrahepática"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "114ff6cadd",
+  "sec": "Estómago",
+  "stem": "Una mujer de 39 años acude a su médico de atención primaria por pirosis. Tiene antecedentes de artritis reumatoide y lupus eritematoso sistémico (LES), ambos tratados por su reumatólogo. Informa que tiene ANA positivo. Antes de realizar tu examen físico, ¿cuál de los siguientes hallazgos esperarías encontrar en esta paciente?",
+  "opts": [
+   "Ausencia de células ganglionares en biopsia",
+   "Estrechamiento en “pico de pájaro” en",
+   "Anticuerpos antimitochondriales positivos",
+   "Esclerodactilia"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "84221af825",
+  "sec": "Estómago",
+  "stem": "Tu servicio de cirugía recibe la interconsulta de una mujer de 51 años en urgencias, paciente institucionalizada en un hospital psiquiátrico. Recientemente ha comenzado a quejarse de intolerancia a la vía oral y vómitos en proyectil asociados a las comidas. La TC abdominal muestra distensión gástrica inmensa, con contenido que incluye cabello. ¿Cuál de las siguientes es la intervención más apropiada a ejecutar por el equipo quirúrgico?",
+  "opts": [
+   "Gastrectomía",
+   "Esplenectomía",
+   "Terapia endoscópica",
+   "Vagotomía y piloroplastía",
+   "Inhibidores de bomba de protones y dos"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "e3d108785d",
+  "sec": "Estómago",
+  "stem": "Una mujer de 63 años presenta dolor epigástrico sordo, náuseas posteriores a las comidas y alivio con carbonato de calcio de venta libre desde hace 11 meses. Tiene antecedentes de endometriosis y dos cesáreas, la más reciente hace 28 años. El examen físico solo muestra sensibilidad epigástrica vaga. La prueba de sangre oculta en heces es positiva. Las colonoscopías previas son normales. ¿Cuál de los siguientes es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Medición de niveles séricos de gastrina",
+   "Serología para anticuerpos contra H. pylori",
+   "Laparoscopia diagnóstica",
+   "Tratamiento médico con omeprazol",
+   "Esofagogastroduodenoscopia"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "f6423d0644",
+  "sec": "Estómago",
+  "stem": "La paciente del caso anterior sigue el plan de manejo indicado. Los resultados confirman úlcera péptica e infección por H. pylori. ¿Cuál de los siguientes es el tratamiento más apropiado para esta paciente?",
+  "opts": [
+   "Amoxicilina, claritromicina y omeprazol por 10 a 14 días",
+   "Amoxicilina, claritromicina y omeprazol por 30 días",
+   "Metronidazol, claritromicina y omeprazol por 30 días",
+   "Metronidazol, tetraciclina y omeprazol con bismuto por 10 a 14 días",
+   "Metronidazol, tetraciclina y omeprazol con bismuto por 30 días"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 121,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "19b24a589f",
+  "sec": "Estómago",
+  "stem": "Un hombre de 45 años con antecedentes de ERGE, úlcera péptica, hipertensión y obesidad acude a seguimiento. Recientemente completó terapia para erradicar H. pylori y continúa tomando omeprazol. Sus pruebas de sangre oculta en heces han sido negativas en el último año. ¿Cuál de los siguientes síntomas del paciente ayuda a diferenciar entre úlcera gástrica y duodenal en la enfermedad ulcerosa péptica?",
+  "opts": [
+   "Alivio de los síntomas con modificaciones dietéticas",
+   "Eliminación de las lesiones ulcerosas tras erradicar H. pylori",
+   "Relación entre severidad del dolor y el",
+   "Resultados de estudios radiológicos"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "a4ce8f3575",
+  "sec": "Estómago",
+  "stem": "Una mujer japonesa de 87 años, con antecedente de adenocarcinoma gástrico tratado con gastrectomía parcial, presenta fatiga creciente. En la evaluación, sus signos vitales son estables pero con taquicardia de 117 lpm, palidez marcada y mucosas pálidas. ¿Cuál de las siguientes afirmaciones describe correctamente el resultado del test de Schilling en esta paciente?",
+  "opts": [
+   "Administración oral de B12 radiomarcada",
+   "Administración de B12 radiomarcada junto con factor intrínseco → excreción urinaria del 30%",
+   "Administración de B12 radiomarcada después de 10 días de antibióticos → excreción urinaria del 30%",
+   "Administración de B12 radiomarcada con 5 días de enzimas pancreáticas orales → excreción urinaria del 30%"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 122,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "k": "6bf261252c",
+  "sec": "Quirúrgicas",
+  "stem": "Todas las siguientes afirmaciones sobre la anatomía anorrectal son verdaderas, EXCEPTO:",
+  "opts": [
+   "La línea dentada marca la transición entre la mucosa columnar y escamosa.",
+   "La fascia presacra separa el recto del plexo venoso presacro y los nervios pélvicos.",
+   "La fascia de Waldeyer se adhiere a la fascia propia en la unión anorrectal.",
+   "En los hombres, la fascia de Denonvilliers separa el recto de la próstata y las vesículas seminales.",
+   "El canal anal quirúrgico es más largo en mujeres que en hombres."
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 18,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "18e37dac5f",
+  "sec": "Quirúrgicas",
+  "stem": "Todas las siguientes afirmaciones sobre el drenaje linfático anorrectal son verdaderas, EXCEPTO:",
+  "opts": [
+   "El recto superior y medio drenan hacia los ganglios linfáticos mesentéricos inferiores e ilíacos internos.",
+   "El recto inferior drena hacia los ganglios mesentéricos inferiores e ilíacos internos.",
+   "Proximal a la línea dentada, la linfa drena hacia los ganglios mesentéricos inferiores e ilíacos internos.",
+   "Distal a la línea dentada, el drenaje primario es hacia los ganglios linfáticos inguinales.",
+   "El drenaje linfático del recto sigue el mismo trayecto que el suministro vascular."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 18,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "fd7d70ce57",
+  "sec": "Quirúrgicas",
+  "stem": "Un hombre de 35 años con leucemia y neutropenia grave presenta dolor anal severo. Hay induración sin masa evidente. ¿Qué hacer?",
+  "opts": [
+   "Solo antibióticos IV",
+   "Anoscopía y drenaje solo si se detecta masa fluctuante",
+   "Anoscopía y drenaje en quirófano si hay masa fluctuante",
+   "Examen bajo anestesia con desbridamiento amplio",
+   "Examen bajo anestesia con biopsia y drenaje aunque no haya pus"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 18,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "d9f81b11e1",
+  "sec": "Quirúrgicas",
+  "stem": "¿Cuál de las siguientes es verdadera sobre el suministro sanguíneo del recto?",
+  "opts": [
+   "Las arterias rectales superior y media provienen de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Hay pobre colateralización entre las arterias rectales superior e inferior."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 18,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "bb98096925",
+  "sec": "Quirúrgicas",
+  "stem": "12 horas después de ligadura hemorroidal, un hombre tiene dolor rectal y abdominal, fiebre y no puede orinar:",
+  "opts": [
+   "Colocación de sonda Foley",
+   "Antibióticos IV de amplio espectro",
+   "Antibióticos IV y examen rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Sondaje vesical intermitente y ablandadores"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 18,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "dbebe85d78",
+  "sec": "Quirúrgicas",
+  "stem": "Sangrado anal abundante 3 horas después de hemorroidectomía se maneja con:",
+  "opts": [
+   "Ligadura con banda",
+   "Taponamiento rectal con gasa con epinefrina",
+   "Ligadura con sutura",
+   "Compresas frías",
+   "Compresión con balón de sonda Foley"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 18,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ca8b891014",
+  "sec": "Quirúrgicas",
+  "stem": "Mujer con dolor perianal y masa azulada tras pujo, se maneja con:",
+  "opts": [
+   "Ablandadores y baños de asiento",
+   "Ligadura con banda",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Examen rectal bajo anestesia general con drenaje"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 19,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "7f14be36e0",
+  "sec": "Quirúrgicas",
+  "stem": "Hombre con hemorroides prolapsadas irreductibles, se maneja con:",
+  "opts": [
+   "Hemorroidectomía urgente",
+   "Ligadura urgente con banda",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Examen rectal bajo anestesia general con drenaje"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 19,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "80719bea70",
+  "sec": "Quirúrgicas",
+  "stem": "¿Cuál hallazgo anorrectal es MENOS preocupante por patología subyacente grave?",
+  "opts": [
+   "Fisura anal lateral aguda",
+   "Fisura posterior crónica",
+   "Fístula perianal recurrente",
+   "Múltiples fístulas perianales",
+   "Fístula perianal con múltiples trayectos"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 19,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "9b32faf79d",
+  "sec": "Quirúrgicas",
+  "stem": "Mujer de 80 años con prolapso rectal y constipación crónica. Colonoscopía normal. Tratamiento más adecuado:",
+  "opts": [
+   "Fijación con malla (Ripstein)",
+   "Resección anterior con rectopexia",
+   "Encirclemento anal tipo Thiersch",
+   "Resección del perineo (Moschcowitz)",
+   "Rectosigmoidectomía perineal (Altemeier)"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 19,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "cdf3360229",
+  "sec": "Quirúrgicas",
+  "stem": "Mujer con fístula rectovaginal baja tras parto vaginal hace 1 semana. Se maneja con:",
+  "opts": [
+   "2 a 3 meses de tratamiento conservador",
+   "Colgajo de avance endorrectal",
+   "Colostomía de derivación temporal",
+   "Reparación primaria transabdominal",
+   "Reparación primaria transabdominal con colgajo muscular interpuesto"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 19,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ec3639a41b",
+  "sec": "Quirúrgicas",
+  "stem": "La melanosis coli:",
+  "opts": [
+   "Aumenta el riesgo de melanoma",
+   "Aumenta el riesgo de adenocarcinoma colorrectal",
+   "Está relacionada con el síndrome de Peutz-Jeghers",
+   "Es irreversible",
+   "Se relaciona con el uso de ciertos laxantes"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 19,
+  "motivo": "semana 5",
+  "tema": "colon"
+ },
+ {
+  "k": "f701f7845f",
+  "sec": "Antibioticoterapia",
+  "stem": "Un hombre de 45 años, VIH positivo, se presenta al DE con dolor perianal durante los últimos 2 días. El examen físico revela una pequeña área de sensibilidad en la posición posterolateral derecha distal al esfínter externo, extremadamente sensible. Su recuento de CD4 es 550 células/mL y actualmente está bajo terapia antirretroviral de alta actividad (TARGA). ¿Cuál es el manejo más adecuado para este paciente?",
+  "opts": [
+   "Antibióticos intravenosos (IV), examen bajo anestesia (EUA) y, si se identifica un área de fluctuación, luego incisión y drenaje (I&D) y biopsia.",
+   "EUA y, si se identifica un área de fluctuación, luego I&D y biopsia.",
+   "Antibióticos IV, EUA, I&D y biopsia del área de sensibilidad, incluso si no se identifica fluctuación.",
+   "EUA, I&D y biopsia del área de sensibilidad, incluso si no se identifica fluctuación.",
+   "Solo antibióticos IV."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 38,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "57ade8f72f",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 40 años se presenta con dolor en el cuadrante inferior derecho y fiebre. El dolor comenzó hace 12 horas alrededor del ombligo y se ha desplazado. Tiene náuseas y anorexia. El examen revela sensibilidad y defensa en el cuadrante inferior derecho. ¿Cuál es el siguiente paso más apropiado en el manejo?",
+  "opts": [
+   "Laparotomía inmediata",
+   "Tomografía abdominal",
+   "Enema de bario",
+   "Administración de antibióticos únicamente",
+   "Colonoscopía"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "d978c84d72",
+  "sec": "Abdomen general",
+  "stem": "Un hombre de 62 años con historia de úlcera péptica acude con dolor abdominal súbito, intenso y generalizado. El abdomen está rígido y doloroso. La radiografía de tórax en bipedestación muestra aire libre bajo el diafragma. ¿Cuál es el diagnóstico más probable?",
+  "opts": [
+   "Colecistitis aguda",
+   "Pancreatitis aguda",
+   "Úlcera gástrica perforada",
+   "Apendicitis",
+   "Obstrucción intestinal"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 67,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ }
+]

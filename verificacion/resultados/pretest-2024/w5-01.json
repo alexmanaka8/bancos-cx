@@ -1,0 +1,294 @@
+[
+ {
+  "k": "829c1f7aa2",
+  "estado": "dudosa",
+  "stem": "El tipo de ostomía donde existe una colostomía + fístula mucosa se denomina:",
+  "opts": [
+   "Hartmann",
+   "Mickuliks",
+   "Devine",
+   "En asa",
+   "Terminal"
+  ],
+  "ans": null,
+  "why": "Las opciones Mikulicz (doble boca) y Devine (colostomía dividida con fístula mucosa distal) son ambas defendibles para 'colostomía + fístula mucosa', y Hartmann también puede dejar fístula mucosa. Los libros de la carpeta no nombran ni definen Devine ni Mikulicz (solo mencionan 'colostomía terminal con fístula mucosa', Sabiston p. 1886), y la búsqueda en fuentes científicas no dio una definición de Devine.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1886 del PDF (colostomía terminal con fístula mucosa, sin nombre propio)",
+   "Giménez 2.ª ed., p. 784 del PDF (colostomía con cabos divorciados, sin nombre propio)"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave original. No se encontró fuente fiable que defina Devine; queda dudosa."
+ },
+ {
+  "k": "633d7cc4b9",
+  "estado": "dudosa",
+  "stem": "RESPECTO A LA DEFINICIÓN DE OSTOMÍAS, SEÑALE LA RESPUESTA CORRECTA",
+  "opts": [
+   "COMUNICACIÓN DE UNA VÍSCERA HUECA CON LA PIEL",
+   "ES UNA DERIVACIÓN FECAL SOLAMENTE.",
+   "ES UNA ANASTOMOSIS COLÓNICA",
+   "ES UNA PERFORACIÓN DEL COLON",
+   "FÍSTULA MUCOSA"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el libro describe el estoma pero no trae la definición; la clave se deduce. (El revisor había propuesto la opción A.) Una ostomía (estoma) es la comunicación de una víscera hueca con la piel a través de la pared abdominal: el intestino se lleva a la piel por una abertura en la pared (Sabiston). B es falsa porque los estomas pueden drenar heces u orina y no son solo derivación fecal; C, D y E no son definiciones (la fístula mucosa es un tipo de estoma distal, no la definición).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1358-1359 del PDF (tipos de estoma, abertura en la pared abdominal)",
+   "Sabiston 21.ª ed., p. 1154 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro describe el estoma y sus tipos, pero no trae la frase de definición literal; la opción A es la definición estándar. Sin clave original."
+ },
+ {
+  "k": "6b874e5134",
+  "estado": "dudosa",
+  "stem": "SON INDICACIONES TEMPORALES DE ILEOS",
+  "opts": [
+   "PROTEGER ANASTOMOSIS",
+   "MANEJO DE OBSTRUCCIÓN DISTAL",
+   "LESIONES PENETRANTES RECTALES",
+   "TODAS LAS ANTERIORES.",
+   "NINGUNA DE LAS ANTERIORES"
+  ],
+  "ans": null,
+  "why": "Sabiston respalda que los estomas temporales (p. ej. ileostomía en asa) sirven para proteger/cicatrizar la anastomosis (A). Pero no dice que el manejo de obstrucción distal o las lesiones penetrantes rectales sean indicaciones de ILEOSTOMÍA temporal; Giménez trata la lesión rectal con colostomía. No alcanza para elegir D.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1358 del PDF (estomas temporales para cicatrización anastomótica)",
+   "Giménez 2.ª ed., p. 784 del PDF (heridas de recto: colostomía)"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave original; solo A está respaldada directamente."
+ },
+ {
+  "k": "245e92c573",
+  "estado": "dudosa",
+  "stem": "LA PRINCIPAL INDICACIÓN DE COLOSTOMÍA PERMANENTE ES:",
+  "opts": [
+   "INCONTINENCIA FECAL",
+   "FÍSTULA RECTO VAGINAL",
+   "CÁNCER RECTAL",
+   "LESIONES MEDULARES",
+   "GANGRENA DE FOURNIER"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: los libros no dicen que el cáncer rectal sea la indicación 'principal' de colostomía permanente; se deduce. (El revisor había propuesto la opción C.) Sabiston indica que si el tumor infiltra los esfínteres se hace resección abdominoperineal con colostomía permanente, y Giménez también señala que la AAP deja colostomía definitiva. Las otras opciones (incontinencia, fístula, lesiones medulares, Fournier) no se describen como la indicación principal de colostomía permanente.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1409 del PDF",
+   "Giménez 2.ª ed., p. 722 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: los libros vinculan la colostomía permanente con la resección abdominoperineal por cáncer rectal, pero no dicen literalmente que sea la 'principal' indicación. Sin clave original."
+ },
+ {
+  "k": "db5ec85634",
+  "estado": "nueva",
+  "stem": "¿CUÁLES DE LAS SIGUIENTES CONDICIONES SE CONSIDERAN COMPLICACIONES TARDÍAS DE UN OSTOMA ?",
+  "opts": [
+   "HERNIA PARAOSTOMAL",
+   "PROLAPSO DEL ESTOMA",
+   "ESTENOSIS ESTOMAL",
+   "TODAS LAS ANTERIORES",
+   "NINGUNA DE LAS ANTERIORES"
+  ],
+  "ans": 3,
+  "why": "La tabla de complicaciones del estoma de Sabiston coloca prolapso, estenosis y hernia parastomal entre las tardías, y el texto cita el prolapso y la hernia parastomal como complicaciones tardías. Por eso la respuesta es 'todas las anteriores'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 290-292 del PDF (tabla 12.16 y texto)"
+  ],
+  "tema": "colon",
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "8e3cb3d68e",
+  "estado": "dudosa",
+  "stem": "EN CUÁL DE LAS SIGUIENTES SITUACIONES ESTÁ INDICADA UNA CIRUGÍA DE EMERGENCIA. RESPECTO DEL ESTOMA.:",
+  "opts": [
+   "DERMATITIS PERIOSTOMAL",
+   "HUNDIMIENTO TOTAL DEL OSTOMA",
+   "DESHIDRATACIÓN POR EXCESO DE EVACUACIONES",
+   "GRANULOMA DEL ESTOMA",
+   "ESTRECHAMIENTO ESTOMAL PROGRESIVO"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: se asume que 'hundimiento total' equivale a la retracción completa con separación mucocutánea del libro; no hay cita directa. (El revisor había propuesto la opción B.) Sabiston: la retracción completa del estoma con separación mucocutánea requiere laparotomía inmediata por contaminación subfascial, peritonitis y sepsis. La dermatitis, el granuloma, la estenosis progresiva (leve: dilatación o revisión si es recurrente) y la deshidratación por ileostomía se manejan sin cirugía de emergencia.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 291-292 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: se asume que 'hundimiento total del ostoma' equivale a retracción completa con separación mucocutánea. Sin clave original."
+ },
+ {
+  "k": "2a34e99bb2",
+  "estado": "dudosa",
+  "stem": "PACIENTE DE 60 AÑOS DE EDAD CON DIAGNÓSTICO DE VÓLVULO DE SIGMOIDES NECROSADO, CON INESTABILIDAD HEMODINÁMICA. ¿ QUÉ TIPO DE OSTOMÍA RECOMENDARÍA?",
+  "opts": [
+   "COLOSTOMÍA EN ASA",
+   "YEYUNOSTOMÍA",
+   "COLOSTOMÍA DE HARTMAN",
+   "COLOSTOMÍA DE DEVINE",
+   "ILEOSTOMÍA."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: la indicación de Hartmann para vólvulo necrosado con inestabilidad se deduce; no hay cita directa. (El revisor había propuesto la opción C.) En el vólvulo sigmoideo que no se puede descomprimir, Sabiston indica resección con colostomía y técnica de Hartmann, y las isquemias con peritonitis van de inmediato a cirugía. En un paciente inestable con asa necrosada se reseca y se evita la anastomosis, con colostomía terminal (Hartmann).",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1365 del PDF",
+   "Giménez 2.ª ed., p. 678 del PDF (vólvulo con compromiso vascular)"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: el libro no menciona literalmente 'inestable' y 'necrosado' juntos; la elección de Hartmann se deduce. Sin clave original."
+ },
+ {
+  "k": "1ea9bf4e1c",
+  "estado": "dudosa",
+  "stem": "Paciente con el diagnóstico de cáncer rectal, quien es portadora de colostomía definitiva en flanco izquierdo, dos años después presenta distensión abdominal circunscrita al área periférica al estoma, la cual va aumentando de volumen progresivamente hasta presentar dificultad al ponerse de pie. Este aumento de volumen del abdomen desaparece al reposo. Mencione ¿Cuál es el Dx más probable?",
+  "opts": [
+   "Obstrucción intestinal",
+   "Meteorismo",
+   "Hernia paraostomal",
+   "Prolapso de ostoma",
+   "Estenosis de ostoma"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: el dato del enunciado (que desaparece en reposo) no está en el libro; la clave se deduce. (El revisor había propuesto la opción C.) El bulto peristomal que crece de pie y desaparece en reposo, años después de una colostomía definitiva, corresponde a hernia parastomal, que Sabiston describe como bulto adyacente al estoma y complicación más frecuente de la colostomía. El prolapso es protrusión del intestino por el propio estoma, no del área circundante.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 291 del PDF"
+  ],
+  "tema": "colon",
+  "nota": "INDIRECTA: la reducción en reposo no la dice el libro; se apoya en la localización periestomal y en la definición del prolapso. Sin clave original."
+ },
+ {
+  "k": "647513652c",
+  "estado": "dudosa",
+  "stem": "En los casos de traumatismo rectal penetrante severo ¿cual de los procedimientos e recomendado",
+  "opts": [
+   "Yeyunostomía",
+   "Colostomía tipo Hartman",
+   "Gastrostomía",
+   "Traqueostomía",
+   "Colostomía de Devine"
+  ],
+  "ans": null,
+  "why": "Giménez: en heridas destructivas del recto intraperitoneal se hace resección y operación de Hartmann, y en las extraperitoneales colostomía con cabos divorciados más drenaje. La pregunta no dice la localización, y los libros no nombran la colostomía de Devine, así que no se puede decidir entre Hartmann y Devine.",
+  "fuentes": [
+   "Giménez 2.ª ed., p. 784-785 del PDF"
+  ],
+  "tema": "trauma",
+  "nota": "Sin clave original; depende de la localización del trauma, que no se indica."
+ },
+ {
+  "k": "3a59f00785",
+  "estado": "dudosa",
+  "stem": "¿Qué se debe hacer si se encuentra un apéndice normal durante laparoscopia por sospecha de apendicitis?",
+  "opts": [
+   "Realizar una biopsia del apéndice",
+   "No realizar la apendicectomía",
+   "Realizar la apendicectomía de todos modos",
+   "Convertir a cirugía abierta para exploración adicional",
+   "apendicectomía y disección ganglionar"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que extirpar o no el apéndice normal es controvertido; los autores lo extirpan de rutina tras explorar el abdomen (C), pero no lo establece como norma. Hay dos posturas defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1333 del PDF (aspecto normal del apéndice en la operación)",
+   "Sabiston 21.ª ed., p. 1335 del PDF (apendicectomía profiláctica, controvertida)"
+  ],
+  "tema": "apendicitis",
+  "nota": "Sin clave original. La práctica de los autores de Sabiston favorece C, pero el libro la llama controvertida."
+ },
+ {
+  "k": "d0b61cfc1c",
+  "estado": "dudosa",
+  "stem": "A nivel cervical, el esófago se relaciona con todas estas estructuras, excepto:",
+  "opts": [
+   "Tráquea.",
+   "Glándula submandibular.",
+   "Fascia prevertebral.",
+   "Arteria carótida común.",
+   "Lóbulo tiroideo ipsilateral."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: pregunta EXCEPTO resuelta por descarte: la clave sale de que la glándula no figura en las relaciones del esófago, sin cita que lo diga. (El revisor había propuesto la opción B.) Latarjet describe el esófago cervical en relación con la tráquea, la fascia prevertebral, la carótida común, el lóbulo tiroideo izquierdo (y la arteria tiroidea inferior). La glándula submandibular es suprahioidea y no figura entre sus relaciones.",
+  "fuentes": [
+   "Latarjet, Anatomía humana t. 2, p. 392-393 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: la exclusión de la glándula submandibular es por ausencia en la lista de relaciones. Sin clave original."
+ },
+ {
+  "k": "d3bc1e584b",
+  "estado": "dudosa",
+  "stem": "Las ondas primarias en el esófago se caracterizan por:",
+  "opts": [
+   "Ser propulsivas.",
+   "Ser monofásicas.",
+   "Aparecer tras la deglución.",
+   "La amplitud, la duración y la velocidad van creciendo en sentido distal.",
+   "Todas las anteriores son ciertas."
+  ],
+  "ans": null,
+  "why": "Sabiston: las contracciones primarias son progresivas, se inician con la deglución y generan 40-80 mmHg, pero llama monofásicas o multifásicas a las terciarias. No dice que las primarias sean monofásicas ni que amplitud, duración y velocidad crezcan hacia distal, así que no se puede validar 'todas'.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1045 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "61adf62b26",
+  "estado": "nueva",
+  "stem": "En el estudio microscópico, las siguientes capas forman parte de la pared esofágica, excepto:",
+  "opts": [
+   "Mucosa.",
+   "Muscularis mucosa.",
+   "Serosa.",
+   "Submucosa.",
+   "Muscular propia."
+  ],
+  "ans": 2,
+  "why": "Sabiston: el esófago tiene dos capas propias, la mucosa y la muscular propia, y se distingue por la ausencia de serosa. Latarjet lo describe con adventicia, músculo, submucosa y mucosa. La serosa no forma parte de su pared.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1039 del PDF",
+   "Latarjet, Anatomía humana t. 2, p. 392 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original."
+ },
+ {
+  "k": "78139db970",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes enfermedades no suele manifestarse con disfagia?",
+  "opts": [
+   "Enfermedad por reflujo gastroesofágico no complicada.",
+   "Esclerodermia.",
+   "Acalasia.",
+   "Neoplasia maligna de esófago.",
+   "Divertículo esofágico."
+  ],
+  "ans": null,
+  "why": "Esclerodermia, acalasia, cáncer y divertículo cursan con disfagia. Pero Sabiston lista la disfagia para sólidos en el 23% de los pacientes con ERGE; los síntomas típicos son pirosis y regurgitación. El libro no dice que la ERGE no complicada 'no suele' dar disfagia, así que elegir A sería por descarte.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1081-1082 del PDF (tabla 43.1)"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "Sin clave original; A es la respuesta esperable, pero sin respaldo directo."
+ },
+ {
+  "k": "5221cfd056",
+  "estado": "dudosa",
+  "stem": "Con respecto a la manometría, señale la respuesta falsa:",
+  "opts": [
+   "Para la realización de la prueba, se introduce la sonda por vía oral o nasal hasta el estómago.",
+   "Es una prueba que nos permite cuantificar la función motora del cuerpo esofágico y de sus esfínteres midiendo sus presiones intraluminales.",
+   "En la MIE convencional hay que realizar el estudio recolocando la sonda en cada parte del esófago a estudiar.",
+   "Se debe realizar con el paciente sedado.",
+   "En la MIE de alta resolución la sonda se coloca sin modificar su posición hasta la retirada, siendo rápida su realización."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: pregunta de opción falsa resuelta por deducción: el libro no dice que el estudio se haga sin sedación. (El revisor había propuesto la opción D.) Sabiston describe la manometría con un catéter que se pasa por la nariz y durante el estudio el paciente debe realizar 10 degluciones, lo que exige que esté despierto, por eso 'se debe realizar sedado' es la falsa. La de alta resolución se hace con un catéter fijo de 32 canales en unos 15 min.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1084 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: el libro no dice 'sin sedación'; se deduce de las degluciones requeridas. Sabiston cita solo la vía nasal. Sin clave original."
+ }
+]
