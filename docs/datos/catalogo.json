@@ -60,10 +60,10 @@
    "nombre": "Banco Lozano",
    "tipo": "preguntas",
    "url": "banco.html?id=lozano",
-   "n": 479,
-   "conClave": 479,
+   "n": 500,
+   "conClave": 500,
    "secciones": 20,
-   "verificadas": 479,
+   "verificadas": 500,
    "altoValor": 128
   },
   {
@@ -296,7 +296,7 @@
    "nombre": "Patología esófago-gástrica benigna",
    "clase": "22",
    "semana": 5,
-   "n": 115,
+   "n": 117,
    "alto": 21
   },
   {
@@ -331,7 +331,7 @@
    "nombre": "Patología anorrectal benigna",
    "clase": "26",
    "semana": 5,
-   "n": 71,
+   "n": 90,
    "alto": 20
   },
   {

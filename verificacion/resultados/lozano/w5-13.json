@@ -1,0 +1,301 @@
+[
+ {
+  "k": "9741c05106",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto del suministro de sangre al recto?",
+  "opts": [
+   "Las arterias rectales superior y media surgen de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Existe una excelente colateralización entre las arterias rectales superior y media."
+  ],
+  "ans": 1,
+  "why": "Según de Virgilio, la arteria rectal superior nace de la mesentérica inferior, pero la media nace de la ilíaca interna y la inferior de la pudenda (A es falsa). Las venas siguen a las arterias: las rectales medias e inferiores drenan en ramas de las venas ilíacas internas (B verdadera). Las rectales superiores drenan en la vena mesentérica inferior y luego a la porta (C y D falsas). Entre las arterias rectales hay colaterales ricas, pero el punto de Sudeck (unión rectal superior-media) es una zona divisoria con poca irrigación (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 182 del PDF (respuesta 21) y p. 177 (pregunta)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (resaltado); coincide con el libro."
+ },
+ {
+  "k": "1a3f1bc3df",
+  "estado": "confirmada",
+  "stem": "¿Cuál afirmación es cierta sobre la hidradenitis supurativa?",
+  "opts": [
+   "Puede simular una fístula anal compleja.",
+   "Se debe a infección de glándulas sudoríparas ecrinas.",
+   "Requiere escisión radical e injerto de piel.",
+   "Puede extenderse al canal anal.",
+   "No se asocia a formación de queloides."
+  ],
+  "ans": 0,
+  "why": "De Virgilio: la hidradenitis supurativa es enfermedad del epitelio folicular en zonas con glándulas sudoríparas apocrinas, y puede simular una fístula anal compleja (A verdadera). Se detiene en el margen anal porque el canal anal no tiene glándulas apocrinas (D falsa), la causa no son glándulas ecrinas (B falsa), la escisión radical con injerto casi nunca es necesaria (C falsa) y la cicatrización puede dar queloides (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 179 del PDF (respuesta 7)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 175 (pregunta 7)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: el banco cambió la opción B del libro (clindamicina tópica) por 'glándulas sudoríparas ecrinas'; sigue siendo falsa y la respuesta no cambia."
+ },
+ {
+  "k": "ed38590bda",
+  "estado": "dudosa",
+  "stem": "Sangrado rectal por proctitis crónica por radiación sin respuesta a sucralfato:",
+  "opts": [
+   "Coagulación con plasma de argón",
+   "Colostomía de derivación",
+   "Enemas con esteroides",
+   "Formalina",
+   "Proctectomía"
+  ],
+  "ans": null,
+  "why": "Sabiston dice que las guías de la ASCRS para la hemorragia por proctitis rádica incluyen recomendaciones sólidas para formalina al 4-10%, enemas de sucralfato y oxígeno hiperbárico, y que además se recomienda el tratamiento endoscópico con coagulación con argón como tratamiento eficaz (con fístulas y estenosis en el 3%). Por tanto la coagulación con plasma de argón (A) y la formalina (D) tienen respaldo en el libro como opciones tras el sucralfato; ninguna fuente consultada las jerarquiza. Colostomía, enemas de esteroides y proctectomía no aparecen como tratamiento recomendado. Hay dos opciones defendibles.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1188 del PDF (sección Radioterapia en hemorragia digestiva)",
+   "Sabiston 21.ª ed., p. 1319 del PDF (sucralfato en proctitis por radiación)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original A (resaltado). Esta pregunta no está en de Virgilio (ABSITE). No se encontró una guía consultable que ponga una opción por encima de la otra."
+ },
+ {
+  "k": "c4a1a4f2a1",
+  "estado": "confirmada",
+  "stem": "Hombre de 45 años con fiebre, dolor rectal y retención urinaria 12 h tras ligadura hemorroidal. ¿Tratamiento?",
+  "opts": [
+   "Sonda Foley",
+   "Antibióticos IV",
+   "Antibióticos IV y examen rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Cateterismo vesical y ablandadores"
+  ],
+  "ans": 2,
+  "why": "De Virgilio: la sepsis tras tratamiento de hemorroides (ligadura, esclerosis, grapado) se presenta en las primeras 12 h con dolor perineal intenso, fiebre y retención urinaria. El manejo es ingreso, líquidos, antibióticos IV con cobertura de gramnegativos y anaerobios, y examen bajo anestesia para descartar infección necrotizante que requiera desbridamiento. Solo sonda, solo antibióticos IV o manejo con ablandadores y antibióticos orales no son adecuados.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 179-180 del PDF (respuesta 8)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 176 (pregunta 8)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C del libro = opción 3 del banco; coincide."
+ },
+ {
+  "k": "45e096620a",
+  "estado": "dudosa",
+  "stem": "Paciente con sangrado persistente horas después de hemorroidectomía. ¿Mejor conducta?",
+  "opts": [
+   "Ligadura con bandas elásticas",
+   "Taponamiento con gasa y epinefrina",
+   "Ligadura con sutura",
+   "Compresas frías",
+   "Compresión con balón de Foley"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: Supervisión: el banco quitó del enunciado que ya se intentó taponar con gasa; sin ese dato, el taponamiento (B) también es defendible. (El revisor había propuesto la opción C.) De Virgilio: si el sangrado tras hemorroidectomía es copioso, hay que volver a la sala de procedimientos, donde hay mejor visión y anestesia, y se puede usar cauterio y ligadura con sutura. El taponamiento con gasa con epinefrina, hielo y balón de Foley son medidas para sangrados leves, y el libro no propone la ligadura con banda en este escenario.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 180 del PDF (respuesta 11)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 176 (pregunta 11)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: el banco quitó del enunciado el dato clave del libro (a las 3 horas, la enfermera ya cambió el apósito varias veces y ya intentó empaquetar con gasa), que es lo que hace que el taponamiento ya no sea el siguiente paso. La respuesta no cambia."
+ },
+ {
+  "k": "bb0236614a",
+  "estado": "confirmada",
+  "stem": "Mujer de 60 años con prurito perianal intenso constante. Al examen hay eritema y excoriación leve. ¿Tratamiento inicial?",
+  "opts": [
+   "Examen bajo anestesia",
+   "Biopsia y/o cultivo",
+   "Antimicóticos orales",
+   "Mejorar higiene perianal",
+   "Esteroides intravenosos"
+  ],
+  "ans": 3,
+  "why": "De Virgilio: la mayoría de los prurito anal es idiopático y se relaciona con la higiene local. El tratamiento se centra en retirar irritantes, mantener buena higiene perianal sin frotar fuerte ni usar productos perfumados, ajustar la dieta y evitar rascarse; se pueden usar cremas barrera sin aroma. La biopsia o cultivo se reserva si persiste, y la hidrocortisona solo por poco tiempo. No hay indicación de examen bajo anestesia, antibióticos orales ni esteroides IV.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 180 del PDF (respuesta 12)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 176 (pregunta 12)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: el banco cambió la opción D del libro (aplicar crema barrera sin aroma) por 'mejorar higiene perianal', que el libro también respalda como parte del tratamiento. Clave original D."
+ },
+ {
+  "k": "e1f597af57",
+  "estado": "confirmada",
+  "stem": "Mujer de 65 años con dolor perianal súbito tras defecar. Tiene una masa azulada muy dolorosa bajo la piel. ¿Tratamiento?",
+  "opts": [
+   "Ablandadores y baños de asiento",
+   "Ligadura con banda elástica",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Tacto rectal bajo anestesia general"
+  ],
+  "ans": 3,
+  "why": "De Virgilio: una masa perianal azulada muy dolorosa tras esfuerzo es una hemorroide externa trombosada. Se trata con escisión de una elipse de piel y drenaje bajo anestesia local, para evitar recurrencia o drenaje inadecuado. No se hace solo incisión (estrella), no se liga con banda por el dolor intenso, y el manejo conservador solo vale si los síntomas llevan más de 72 h y ya mejoran.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 180 del PDF (respuesta 13)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 176 (pregunta 13)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D; coincide con el libro."
+ },
+ {
+  "k": "4f2a0f702c",
+  "estado": "confirmada",
+  "stem": "¿Cuál afirmación es cierta respecto a las verrugas anogenitales?",
+  "opts": [
+   "Los tipos 6 y 11 del VPH predisponen a malignidad.",
+   "No hay asociación con lesiones escamosas intraepiteliales.",
+   "El tratamiento depende de la ubicación y extensión de la enfermedad.",
+   "La inmunoterapia tópica es ineficaz.",
+   "La vacuna contra el VPH no previene las verrugas."
+  ],
+  "ans": 2,
+  "why": "De Virgilio: el tratamiento del condiloma depende de la ubicación y extensión de la enfermedad (C verdadera). Los tipos 6 y 11 están en verrugas benignas; los 16 y 18 se asocian con displasia y malignidad (A falsa). Hay asociación con lesiones escamosas intraepiteliales y cáncer escamoso (B falsa). El imiquimod (inmunomodulador) es una opción (D falsa) y existen vacunas que previenen las verrugas anogenitales (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 180-181 del PDF (respuesta 14)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 176 (pregunta 14)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original C; coincide."
+ },
+ {
+  "k": "b32589fb08",
+  "estado": "dudosa",
+  "stem": "¿Cuál es cierta sobre enfermedad perianal en pacientes con VIH?",
+  "opts": [
+   "Rara vez coexiste con otras ITS",
+   "Igual incidencia de displasia que en personas sin VIH",
+   "Baja incidencia de condiloma anal",
+   "Es necesario examen bajo anestesia para diagnóstico perianal.",
+   "La TAR ha reducido su incidencia"
+  ],
+  "ans": null,
+  "why": "No se encontró en de Virgilio ni en Sabiston una frase que respalde ninguna opción. Sabiston dice que la inmunodepresión por VIH se asocia con infección anal por VPH y que el VIH es un factor de riesgo independiente de carcinoma epidermoide anal, lo que contradice 'igual incidencia de displasia' (B) y 'baja incidencia de condiloma' (C). Pero ninguna fuente consultada dice que el examen bajo anestesia sea necesario para el diagnóstico perianal (D), ni que la TAR haya reducido su incidencia (E), ni que rara vez coexista con otras ITS (A). Sin cita directa, no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1436 del PDF (VPH anal e inmunodepresión por VIH)",
+   "Sabiston 21.ª ed., p. 1443-1444 del PDF (displasia y cáncer anal en VIH)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D (resaltado). Pregunta no localizada en de Virgilio. Europe PMC no dio una fuente que decida."
+ },
+ {
+  "k": "1ec7631529",
+  "estado": "dudosa",
+  "stem": "Mujer de 80 años con prolapso rectal y colonoscopía negativa. ¿Tratamiento más adecuado?",
+  "opts": [
+   "Rectopexia con malla (Ripstein)",
+   "Resección anterior baja con rectopexia",
+   "Cierre anal de Thiersch",
+   "Reparación perineal tipo Moschcowitz",
+   "Rectosigmoidectomía perineal (Altemeier)"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: Supervisión: el banco quitó del enunciado 'múltiples comorbilidades', el dato que orienta a la vía perineal; sin él, una rectopexia abdominal también es defendible. (El revisor había propuesto la opción E.) De Virgilio: en la mujer mayor con prolapso rectal, los procedimientos abdominales tienen menor recurrencia pero más complicaciones, por lo que se usan en jóvenes de bajo riesgo; los perineales se usan en ancianos de alto riesgo. La rectosigmoidectomía perineal (Altemeier) tiene unos 15% de recurrencia y es buena opción en ancianos (E). La rectopexia con malla (Ripstein) y la resección anterior con rectopexia son abdominales (A, B), la cerclaje de Thiersch ya no se usa (C) y el Moschcowitz se usa más para el prolapso vaginal (D).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 182 del PDF (respuesta 22)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 177 (pregunta 22)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: el banco quitó del enunciado el dato 'múltiples comorbilidades importantes' y 'antecedente de estreñimiento crónico', que son los que orientan a la vía perineal. Clave original E; coincide."
+ },
+ {
+  "k": "6cf220409d",
+  "estado": "dudosa",
+  "stem": "¿Cuál es cierta sobre enfermedad perianal asociada a Crohn?",
+  "opts": [
+   "Las fístulas tienden a ser simples con un trayecto unico.",
+   "La RM no es útil",
+   "El infliximab es efectivo",
+   "La fistulotomía agresiva es el mejor enfoque",
+   "El uso de múltiples setons"
+  ],
+  "ans": null,
+  "why": "De Virgilio da como verdadera 'el uso liberal de setones múltiples' (la fístula de Crohn suele ser compleja con varios trayectos, la RM sí es útil, la fistulotomía agresiva se evita). Pero el mismo libro dice que de los inmunomoduladores 'infliximab parece ser el más eficaz'. En el libro la opción D era 'infliximab es ineficaz' (falsa), pero el banco la cambió por 'el infliximab es efectivo', que según el libro también es verdadera. Quedan dos opciones verdaderas (C y E del banco).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 182 del PDF (respuesta 23)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 177 (pregunta 23)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original E (múltiples setones; resaltado), que es la del libro, pero el cambio de la opción de infliximab la deja con dos respuestas verdaderas."
+ },
+ {
+  "k": "b274367c59",
+  "estado": "confirmada",
+  "stem": "¿Cuál afirmación es cierta sobre fístula anal?",
+  "opts": [
+   "El drenaje raramente causa fístula persistente",
+   "La abertura interna es fácil de localizar",
+   "Se clasifican según relación con mucosa anal",
+   "El tratamiento quirúrgico viene determinado por la apertura interna y externa de la fístula.",
+   "Está contraindicado el uso de azul de metileno"
+  ],
+  "ans": 3,
+  "why": "De Virgilio: el tratamiento quirúrgico de la fístula se decide según la ubicación de las aberturas interna y externa y el trayecto (D verdadera). Tras drenar un absceso, el 26-50% desarrolla fístula persistente (A falsa); la abertura interna suele ser difícil de identificar (B falsa); inyectar con suavidad peróxido de hidrógeno o azul de metileno por la abertura externa ayuda a identificarla (E falsa).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 182 del PDF (respuesta 25)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 178 (pregunta 25)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: la opción C del banco dice 'relación con la mucosa anal', pero el libro dice 'relación con el complejo esfinteriano'. Sigue siendo falsa, la clave no cambia. Clave original D."
+ },
+ {
+  "k": "98f126429d",
+  "estado": "confirmada",
+  "stem": "Mujer de 50 años con úlcera rectal solitaria en recto distal y evacuación incompleta. ¿Tratamiento?",
+  "opts": [
+   "Escisión transanal de la úlcera",
+   "Rectosigmoidectomía perineal",
+   "Rectopexia abdominal",
+   "Dieta rica en fibra y reentrenamiento evacuatorio",
+   "Fijación con malla protésica"
+  ],
+  "ans": 3,
+  "why": "De Virgilio: el síndrome de úlcera rectal solitaria es benigno, por intususcepción interna con esfuerzo crónico, y su tratamiento es no quirúrgico: dieta rica en fibra, reentrenamiento defecatorio y laxantes o enemas. La reparación abdominal o perineal (rectopexia, rectosigmoidectomía) solo si falla el manejo médico; la escisión transanal es para cáncer rectal y la malla es para procidencia.",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 180 del PDF (respuesta 9)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 176 (pregunta 9)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original D; coincide. Typo del banco en el texto ('solitari') corregido en el stem."
+ },
+ {
+  "k": "18238df35a",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía anorrectal?",
+  "opts": [
+   "El elevador del ano marca el punto de transición entre el recto y el colon sigmoide.",
+   "La fascia presacra separa el recto del plex venoso presacro y de los nervios pélvicos.",
+   "La fascia de Waldeyer está anterior a la fa de Denonvilliers.",
+   "En los hombres, la fascia de Denonvilliers separa el recto del sacro.",
+   "El canal anal quirúrgico es más largo en mujeres que en hombres."
+  ],
+  "ans": null,
+  "why": "Esta pregunta no está en de Virgilio. Según Sabiston, la fascia de Waldeyer (aponeurosis rectosacra) une la aponeurosis presacra con la fascia propia a nivel de S4 en la parte posterior (C falsa) y la fascia de Denonvilliers está por delante del recto y lo separa de las estructuras anteriores (D falsa). El recto comienza en la unión rectosigmoidea, no en el elevador (A falsa). Sobre B, Sabiston dice que la aponeurosis presacra cubre el sacro y que bajo ella está el plexo venoso presacro, y que la disección va entre ella y la fascia propia, pero no dice que separe al recto de los nervios pélvicos. Sobre E (longitud del canal anal quirúrgico según sexo) no se encontró dato. Sin cita directa para B ni para refutar E, no se puede decidir.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1350-1352 del PDF (anatomía rectal y relaciones aponeuróticas)",
+   "Sabiston 21.ª ed., p. 1405 del PDF (plano de disección y nervios hipogástricos)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B (resaltado). Habría sido INDIRECTA para B, pero la afirmación de los nervios pélvicos y la opción E no tienen respaldo, y el banco escribió 'plex' y 'fa' (texto mal transcrito)."
+ },
+ {
+  "k": "47b2c9bbe7",
+  "estado": "confirmada",
+  "stem": "Un hombre de 30 años se presenta con enrojecimiento, dolor y fluctuación en la hendidura interglútea, aproximadamente a 4 cm del ano. Hay considerable cantidad de vello alrededor de la lesión. ¿Cuál de las siguientes es la conducta más apropiada?",
+  "opts": [
+   "Incisión y drenaje en la hendidura interglútea",
+   "Incisión y drenaje lateral a la hendidura interglútea",
+   "Escisión en bloque del trayecto sinusal con reconstrucción con colgajo",
+   "Escisión con cierre primario",
+   "Abrir el trayecto y marsupializar"
+  ],
+  "ans": 1,
+  "why": "De Virgilio: la enfermedad pilonidal aguda con absceso se trata con incisión y drenaje lateral a la hendidura interglútea, no directamente en la hendidura, porque ahí la fricción constante hace que cicatrice mal (A falsa). Las demás opciones (escisión con cierre primario, escisión en bloque con colgajo, abrir y marsupializar) son para la enfermedad crónica (C, D, E).",
+  "fuentes": [
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 181 del PDF (respuesta 19)",
+   "de Virgilio, Review of Surgery for ABSITE, 3.ª ed., p. 177 (pregunta 19)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original B; coincide. MAL HECHA: el banco quitó 'posterior al ano' del enunciado ('a 4 cm del ano'), dato que ubica la lesión."
+ }
+]

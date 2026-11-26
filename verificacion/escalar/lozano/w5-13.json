@@ -1,0 +1,272 @@
+[
+ {
+  "k": "9741c05106",
+  "sec": "Apéndice",
+  "stem": "¿Cuál de las siguientes afirmaciones es cierta respecto del suministro de sangre al recto?",
+  "opts": [
+   "Las arterias rectales superior y media surgen de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Existe una excelente colateralización entre las arterias rectales superior y media."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "1a3f1bc3df",
+  "sec": "Apéndice",
+  "stem": "¿Cuál afirmación es cierta sobre la hidradenitis supurativa?",
+  "opts": [
+   "Puede simular una fístula anal compleja.",
+   "Se debe a infección de glándulas sudoríparas ecrinas.",
+   "Requiere escisión radical e injerto de piel.",
+   "Puede extenderse al canal anal.",
+   "No se asocia a formación de queloides."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "ed38590bda",
+  "sec": "Apéndice",
+  "stem": "Sangrado rectal por proctitis crónica por radiación sin respuesta a sucralfato:",
+  "opts": [
+   "Coagulación con plasma de argón",
+   "Colostomía de derivación",
+   "Enemas con esteroides",
+   "Formalina",
+   "Proctectomía"
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "c4a1a4f2a1",
+  "sec": "Apéndice",
+  "stem": "Hombre de 45 años con fiebre, dolor rectal y retención urinaria 12 h tras ligadura hemorroidal. ¿Tratamiento?",
+  "opts": [
+   "Sonda Foley",
+   "Antibióticos IV",
+   "Antibióticos IV y examen rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Cateterismo vesical y ablandadores"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "45e096620a",
+  "sec": "Apéndice",
+  "stem": "Paciente con sangrado persistente horas después de hemorroidectomía. ¿Mejor conducta?",
+  "opts": [
+   "Ligadura con bandas elásticas",
+   "Taponamiento con gasa y epinefrina",
+   "Ligadura con sutura",
+   "Compresas frías",
+   "Compresión con balón de Foley"
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "bb0236614a",
+  "sec": "Apéndice",
+  "stem": "Mujer de 60 años con prurito perianal intenso constante. Al examen hay eritema y excoriación leve. ¿Tratamiento inicial?",
+  "opts": [
+   "Examen bajo anestesia",
+   "Biopsia y/o cultivo",
+   "Antimicóticos orales",
+   "Mejorar higiene perianal",
+   "Esteroides intravenosos"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "e1f597af57",
+  "sec": "Apéndice",
+  "stem": "Mujer de 65 años con dolor perianal súbito tras defecar. Tiene una masa azulada muy dolorosa bajo la piel. ¿Tratamiento?",
+  "opts": [
+   "Ablandadores y baños de asiento",
+   "Ligadura con banda elástica",
+   "Incisión y drenaje bajo anestesia local",
+   "Escisión elíptica y drenaje bajo anestesia local",
+   "Tacto rectal bajo anestesia general"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "4f2a0f702c",
+  "sec": "Apéndice",
+  "stem": "¿Cuál afirmación es cierta respecto a las verrugas anogenitales?",
+  "opts": [
+   "Los tipos 6 y 11 del VPH predisponen a malignidad.",
+   "No hay asociación con lesiones escamosas intraepiteliales.",
+   "El tratamiento depende de la ubicación y extensión de la enfermedad.",
+   "La inmunoterapia tópica es ineficaz.",
+   "La vacuna contra el VPH no previene las verrugas."
+  ],
+  "clave_original": 2,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "b32589fb08",
+  "sec": "Apéndice",
+  "stem": "¿Cuál es cierta sobre enfermedad perianal en pacientes con VIH?",
+  "opts": [
+   "Rara vez coexiste con otras ITS",
+   "Igual incidencia de displasia que en personas sin VIH",
+   "Baja incidencia de condiloma anal",
+   "Es necesario examen bajo anestesia para diagnóstico perianal.",
+   "La TAR ha reducido su incidencia"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "1ec7631529",
+  "sec": "Apéndice",
+  "stem": "Mujer de 80 años con prolapso rectal y colonoscopía negativa. ¿Tratamiento más adecuado?",
+  "opts": [
+   "Rectopexia con malla (Ripstein)",
+   "Resección anterior baja con rectopexia",
+   "Cierre anal de Thiersch",
+   "Reparación perineal tipo Moschcowitz",
+   "Rectosigmoidectomía perineal (Altemeier)"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "6cf220409d",
+  "sec": "Apéndice",
+  "stem": "¿Cuál es cierta sobre enfermedad perianal asociada a Crohn?",
+  "opts": [
+   "Las fístulas tienden a ser simples con un trayecto unico.",
+   "La RM no es útil",
+   "El infliximab es efectivo",
+   "La fistulotomía agresiva es el mejor enfoque",
+   "El uso de múltiples setons"
+  ],
+  "clave_original": 4,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "b274367c59",
+  "sec": "Apéndice",
+  "stem": "¿Cuál afirmación es cierta sobre fístula anal?",
+  "opts": [
+   "El drenaje raramente causa fístula persistente",
+   "La abertura interna es fácil de localizar",
+   "Se clasifican según relación con mucosa anal",
+   "El tratamiento quirúrgico viene determinado por la apertura interna y externa de la fístula.",
+   "Está contraindicado el uso de azul de metileno"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 156,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "98f126429d",
+  "sec": "Apéndice",
+  "stem": "Mujer de 50 años con úlcera rectal solitari recto distal y evacuación incompleta. ¿Tratamiento?",
+  "opts": [
+   "Escisión transanal de la úlcera",
+   "Rectosigmoidectomía perineal",
+   "Rectopexia abdominal",
+   "Dieta rica en fibra y reentrenamiento evacuatorio",
+   "Fijación con malla protésica"
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 157,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "18238df35a",
+  "sec": "Apéndice",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la anatomía anorrectal?",
+  "opts": [
+   "El elevador del ano marca el punto de transición entre el recto y el colon sigmoide.",
+   "La fascia presacra separa el recto del plex venoso presacro y de los nervios pélvicos.",
+   "La fascia de Waldeyer está anterior a la fa de Denonvilliers.",
+   "En los hombres, la fascia de Denonvilliers separa el recto del sacro.",
+   "El canal anal quirúrgico es más largo en mujeres que en hombres."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 157,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ },
+ {
+  "k": "47b2c9bbe7",
+  "sec": "Apéndice",
+  "stem": "Un hombre de 30 años se presenta con enrojecimiento, dolor y fluctuación en la hendidura interglútea, aproximadamente a 4 cm del ano. Hay considerable cantidad de vello alrededor de la lesión. ¿Cuál de las siguientes es la conducta más apropiada?",
+  "opts": [
+   "Incisión y drenaje en la hendidura interglútea",
+   "Incisión y drenaje lateral a la hendidura interglútea",
+   "Escisión en bloque del trayecto sinusal con reconstrucción con colgajo",
+   "Escisión con cierre primario",
+   "Abrir el trayecto y marsupializar"
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 157,
+  "motivo": "semana 5",
+  "tema": "anorrectal"
+ }
+]

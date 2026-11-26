@@ -1,0 +1,73 @@
+[
+ {
+  "k": "c53b7a0518",
+  "sec": "Anatomía",
+  "stem": "Una mujer de 24 años tiene un dolor sordo en la región umbilical y la flexión de la cadera contra resistencia (prueba del psoas) causa un dolor agudo en el cuadrante abdominal inferior derecho. ¿Cuál de las siguientes estructuras está muy probablemente inflamada para causar el dolor?",
+  "opts": [
+   "Apéndice.",
+   "Vejiga.",
+   "Vesícula biliar.",
+   "Páncreas.",
+   "Útero."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 177,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "1df2b3f8f9",
+  "sec": "Anatomía",
+  "stem": "Un hombre de 63 años con historia de alcoholismo es llevado a urgencias con hematemesis (vómitos de sangre). Los hallazgos de la endoscopia sugieren una hemorragia de varices esofágicas. Es muy probable que las varices se deban a anastomosis entre la vena gástrica izquierda y ¿qué otro(s) vaso(s)?",
+  "opts": [
+   "Sistema venoso ácigos.",
+   "Vena cava inferior.",
+   "Vena umbilical izquierda.",
+   "Vena mesentérica superior.",
+   "Venas subcostales."
+  ],
+  "clave_original": 0,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 178,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ },
+ {
+  "k": "792bf263d8",
+  "sec": "Anatomía",
+  "stem": "Una mujer de 32 años ingresó en el hospital con dolor en el ombligo. La exploración radiológica reveló una apendicitis aguda. El apéndice se extirpó satisfactoriamente en una apendectomía de urgencia. Una semana después de la intervención, la paciente presentó parestesia en la piel de la región púbica y la porción anterior del periné . ¿Cuál de los siguientes nervios se lesionó muy probablemente durante la apendectomía?",
+  "opts": [
+   "Genitofemoral.",
+   "Ilioinguinal.",
+   "Subcostal.",
+   "Iliohipogástrico.",
+   "Nervio raquídeo T9."
+  ],
+  "clave_original": 1,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 178,
+  "motivo": "semana 5",
+  "tema": "apendicitis"
+ },
+ {
+  "k": "367cd47be1",
+  "sec": "Anatomía",
+  "stem": "Un hombre de 48 años ha tenido tres episodios de hemorragia digestiva alta por várices esofágicas. Tiene antecedentes de alcoholismo crónico, aunque recientemente se ha rehabilitado. La exploración muestra ascitis y esplenomegalia. ¿Cuál de las siguientes anastomosis venosas quirúrgicas se usa con mayor frecuencia para aliviar estos síntomas y signos antes de intentar un trasplante hepático?",
+  "opts": [
+   "Vena gástrica izquierda a esplénica.",
+   "Vena gástrica derecha a gástrica izquierda.",
+   "Vena renal derecha a gonadal derecha.",
+   "Vena esplénica a renal izquierda."
+  ],
+  "clave_original": 3,
+  "origen_clave": "resaltado",
+  "archivo": "JIJAS LOZANO.pdf",
+  "pagina": 180,
+  "motivo": "semana 5",
+  "tema": "esofago-estomago"
+ }
+]

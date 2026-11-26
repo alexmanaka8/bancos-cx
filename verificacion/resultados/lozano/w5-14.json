@@ -1,0 +1,283 @@
+[
+ {
+  "k": "de9c70b63a",
+  "estado": "corregida",
+  "stem": "Un hombre de 35 años con leucemia y neutropenia grave se presenta con dolor anal severo. El examen físico junto a la cama muestra induración pero sin masa evidente en la región perianal. ¿Cuál de las siguientes es la mejor conducta?",
+  "opts": [
+   "Solo antibióticos intravenosos",
+   "Anoscopía junto a la cama con incisión y drenaje solo si se detecta masa fluctuante",
+   "Anoscopía junto a la cama con incisión y drenaje quirúrgico solo si se detecta masa fluctuante",
+   "Examen bajo anestesia con desbridamiento amplio del área perianal",
+   "Examen bajo anestesia con biopsia de áreas induradas e incisión y drenaje incluso si no se detecta pus"
+  ],
+  "ans": 0,
+  "why": "En un paciente con neutropenia grave y dolor perianal sin fluctuación, el libro indica que los antibióticos IV solos son el tratamiento apropiado. Solo si no mejora o aparece fluctuación se hace examen bajo anestesia para descartar un absceso que requiera drenaje. El desbridamiento amplio no está indicado en un absceso perianal. La biopsia de zonas induradas con incisión y drenaje aunque no haya pus (la opción marcada) no es lo que propone el libro.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 182 del PDF (respuesta 20.A) y p. 177 (pregunta 20)"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: E (resaltado). El ABSITE da A. MAL HECHA: el banco perdió la diferencia de las opciones B y C (en el original B es incisión y drenaje junto a la cama y C es incisión y drenaje operatorio; aquí quedaron casi iguales). No afecta la respuesta A."
+ },
+ {
+  "k": "e099c7a6a3",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la irrigación del recto?",
+  "opts": [
+   "Las arterias rectales superior y media se originan de la arteria mesentérica inferior.",
+   "Las venas rectales medias drenan en las venas ilíacas internas.",
+   "Las venas rectales inferiores drenan en la vena mesentérica inferior.",
+   "Las venas rectales superiores drenan en la vena cava inferior.",
+   "Existe una excelente colateralización entre las arterias rectales superior y media."
+  ],
+  "ans": 1,
+  "why": "Las venas rectales medias e inferiores drenan hacia ramas de las venas ilíacas internas. Las arterias rectales superiores nacen de la mesentérica inferior, pero la media nace de la ilíaca interna (A falsa). Las venas rectales superiores drenan a la mesentérica inferior y a la porta, no a la cava (C y D falsas). Hay colaterales ricas pero el punto de Sudak es zona de poca irrigación (E falsa).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 182 del PDF (respuesta 21.B)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "64cc71d9ee",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la hidradenitis supurativa?",
+  "opts": [
+   "Puede simular una fístula anal compleja.",
+   "Se debe a una infección de las glándulas sudoríparas ecrinas.",
+   "Generalmente se requiere escisión radical e injertos de piel.",
+   "Puede progresar más allá del margen anal hacia el canal anal.",
+   "No está asociada a formación de queloides."
+  ],
+  "ans": 0,
+  "why": "La hidradenitis supurativa puede simular una enfermedad fistulosa anal compleja. Afecta zonas con glándulas sudoríparas apocrinas (no ecrinas) y se detiene en el margen anal porque el conducto anal no tiene glándulas apocrinas (D falsa). La cicatrización puede dar queloides (E falsa) y casi nunca se necesita escisión radical con injertos (C falsa).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 179 del PDF (respuesta 7.A)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: el banco cambió una opción. En el libro la B dice que no hay papel de la clindamicina tópica en la hidradenitis perineal (falsa); el banco la reemplazó por 'infección de glándulas sudoríparas ecrinas' (también falsa). No cambia la respuesta A."
+ },
+ {
+  "k": "c17d8ef1d2",
+  "estado": "confirmada",
+  "stem": "Doce horas después de una ligadura hemorroidal, un hombre de 45 años se presenta a urgencias con dolor rectal y abdominal e incapacidad para orinar. Su temperatura es de 102 °F (38.9 °C) y su frecuencia cardíaca es de 110 lpm. El manejo consiste en:",
+  "opts": [
+   "Colocación de sonda Foley",
+   "Antibióticos IV de amplio espectro",
+   "Antibióticos de amplio espectro y examen rectal bajo anestesia",
+   "Ablandadores de heces y antibióticos orales",
+   "Cateterismo vesical intermitente y ablandadores de heces"
+  ],
+  "ans": 2,
+  "why": "Tras la ligadura hemorroidal, dolor severo, fiebre y retención urinaria dentro de las primeras 12 horas sugieren sepsis perineal. El manejo es ingreso, líquidos y antibióticos IV de amplio espectro (gramnegativos y anaerobios), más examen bajo anestesia para descartar infección necrosante que requiera desbridamiento. El manejo conservador no es adecuado.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 179 del PDF (respuesta 8.C) y p. 176 (pregunta 8)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "8919d6f587",
+  "estado": "confirmada",
+  "stem": "Aproximadamente 3 horas después de una hemorroidectomía, un paciente continúa con sangrado anal. La enfermera ha cambiado la gasa múltiples veces y ha intentado empaquetar el recto con gasas. ¿Cuál es el siguiente mejor paso en el manejo?",
+  "opts": [
+   "Ligadura con banda elástica en el sitio sangrante",
+   "Empaquetado rectal con gasa con epinefrina",
+   "Ligadura con sutura",
+   "Compresas frías",
+   "Compresión con balón de sonda Foley"
+  ],
+  "ans": 2,
+  "why": "Si el sangrado tras la hemorroidectomía es abundante y el empaquetado no funciona, se lleva al paciente al quirófano o sala de procedimientos, donde hay mejor visualización y anestesia adecuada, para cauterizar o hacer ligadura con sutura. El empaquetado con epinefrina, el hielo y el balón de Foley son medidas para sangrado leve.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 180 del PDF (respuesta 11.C)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "574b7034c1",
+  "estado": "confirmada",
+  "stem": "Una mujer de 60 años se presenta con prurito perianal severo, constante durante todo el día. El examen revela eritema mínimo y excoriaciones. ¿Cuál es el mejor tratamiento inicial?",
+  "opts": [
+   "Examen bajo anestesia",
+   "Biopsia y/o cultivo",
+   "Antibióticos orales",
+   "Mejorar la higiene perianal",
+   "Esteroides intravenosos"
+  ],
+  "ans": 3,
+  "why": "El prurito anal es casi siempre idiopático y a menudo se relaciona con la higiene local (excesiva o insuficiente). El tratamiento inicial es quitar irritantes, mantener buena higiene perianal y evitar el rascado; no se debe frotar fuerte ni usar productos perfumados. Examen bajo anestesia, antibióticos y esteroides IV no son el manejo inicial; biopsia o cultivo se reservan si persiste.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 180 del PDF (respuesta 12.D)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: el banco cambió la opción D. En el libro es 'aplicación de crema barrera sin perfume'; aquí dice 'mejorar la higiene perianal'. Ambas van en la línea del tratamiento que describe el libro (higiene y evitar irritantes), por eso se mantiene D."
+ },
+ {
+  "k": "93161a57ae",
+  "estado": "confirmada",
+  "stem": "Una mujer de 65 años se presenta a urgencias con dolor perianal severo desde hace 12 horas, que comenzó tras pujar durante la defecación. El examen físico revela una masa perianal muy dolorosa con decoloración azulada bajo la piel. El manejo consiste en:",
+  "opts": [
+   "Ablandadores de heces y baños de asiento",
+   "Ligadura con banda elástica",
+   "Incisión y drenaje con anestesia local en urgencias",
+   "Escisión elíptica de piel y drenaje con anestesia local en urgencias",
+   "Examen rectal bajo anestesia general con incisión y drenaje"
+  ],
+  "ans": 3,
+  "why": "Una masa perianal muy dolorosa azulada tras pujar es una hemorroide externa trombosada. El tratamiento es escisión de una elipse de piel con drenaje del coágulo bajo anestesia local. Hay que escindir una elipse y no solo hacer una incisión simple para evitar recurrencia o drenaje inadecuado. No se liga con banda (dolor intenso) y el manejo conservador solo sirve si lleva más de 72 horas y el dolor ya cede.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 180 del PDF (respuesta 13.D)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "3bf03fcd1b",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a las verrugas anogenitales?",
+  "opts": [
+   "El virus del papiloma humano (VPH) tipo 6 y 11 predisponen a malignidad",
+   "No existe asociación con lesiones escamosas intraepiteliales",
+   "El tratamiento depende de la localización y la extensión de la enfermedad",
+   "La terapia inmunomoduladora tópica es inefectiva",
+   "La vacuna contra el VPH no previene las verrugas anogenitales"
+  ],
+  "ans": 2,
+  "why": "El tratamiento de las verrugas anogenitales depende de la localización y la extensión de la enfermedad. Los VPH 6 y 11 son de verrugas benignas; los 16 y 18 se asocian con displasia y malignidad. Sí hay asociación con lesiones escamosas intraepiteliales y carcinoma escamoso, el imiquimod (inmunomodulador tópico) es una opción y existen vacunas que potencialmente previenen las verrugas.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 180-181 del PDF (respuesta 14.C)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "d9ee79abb9",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes terapias médicas produce las mayores tasas de curación de fisuras anales crónicas?",
+  "opts": [
+   "Agentes formadores de masa y ablandadores de heces",
+   "Nitroglicerina tópica",
+   "Diltiazem tópico",
+   "Betanecol tópico",
+   "Inyección de toxina botulínica"
+  ],
+  "ans": null,
+  "why": "Ninguna fuente respalda que la toxina botulínica sea la terapia médica con mayor tasa de curación. El ABSITE dice que la toxina tiene eficacia similar a la nitroglicerina como tratamiento de primera línea y que los nitratos no son superiores al diltiazem. Sabiston la describe como un aumento moderado de la cicatrización, como segunda línea tras fallar los tópicos, con 65% al combinarla con diltiazem tópico. Sabiston da 88-100% solo para la esfinterotomía lateral interna, que es cirugía y no está entre las opciones. Esta pregunta no es la del libro (la del libro pide afirmaciones verdaderas), así que no hay una fuente que ordene las terapias por tasa de curación.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 181 del PDF (respuesta 15.E, explicación)",
+   "Sabiston 21.ª ed., p. 1431-1432 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "Clave original: E (toxina botulínica, resaltado). No hay cita que la decida: queda dudosa."
+ },
+ {
+  "k": "ff41ac8414",
+  "estado": "dudosa",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la enfermedad perianal en pacientes con VIH?",
+  "opts": [
+   "Es poco común encontrar infección concomitante con otras ITS",
+   "La incidencia de displasia es igual a la de los pacientes sin VIH",
+   "La incidencia de condilomas anales es baja en pacientes con VIH",
+   "El examen bajo anestesia es necesario para determinar la etiología de muchos problemas perianales",
+   "La terapia antirretroviral altamente activa (HAART) ha disminuido la incidencia de enfermedad perianal"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: Supervisión: clave deducida (INDIRECTA); ninguna fuente lo dice literalmente y A y E no están refutadas. (El revisor había propuesto la opción D.) En el paciente con VIH el diagnóstico de la enfermedad anorrectal es difícil: puede haber absceso sin fluctuación y dolor desproporcionado al examen, por lo que el libro recomienda examen bajo anestesia con drenaje y biopsia, porque un absceso puede ser la primera manifestación de un cáncer anal o rectal. La displasia anal y el cáncer anal son más frecuentes en pacientes con VIH (no iguales a los sin VIH), y el VPH se asocia con la inmunosupresión por VIH (no hay baja incidencia de condilomas).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 434 del PDF (respuesta 16.E)",
+   "Sabiston 21.ª ed., p. 1443-1444 y 1436 del PDF"
+  ],
+  "tema": "anorrectal",
+  "nota": "INDIRECTA: ninguna fuente dice literalmente que el examen bajo anestesia sea necesario para determinar la etiología de muchos problemas perianales; se deduce del ABSITE (pregunta de VIH con dolor perianal, resp. E). Las opciones A y E (otras ITS frecuentes; HAART disminuyó la enfermedad perianal) no tienen cita que las refute directamente: el ABSITE solo dice que con HAART estos pacientes se manejan con el mismo estándar que los no infectados."
+ },
+ {
+  "k": "15724d6ac8",
+  "estado": "dudosa",
+  "stem": "Una mujer de 80 años se presenta con prolapso rectal. Tiene antecedentes de estreñimiento crónico. La colonoscopía no muestra hallazgos anormales. El tratamiento se logra mejor mediante:",
+  "opts": [
+   "Fijación del recto con malla protésica (reparación de Ripstein)",
+   "Resección anterior con rectopexia",
+   "Encerramiento anal con sutura de Thiersch",
+   "Resección del saco perineal y cierre del fondo de saco (procedimiento de Moschcowitz)",
+   "Resección perineal rectosigmoidea (procedimiento de Altemeier)"
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: Supervisión: el banco quitó del enunciado 'múltiples comorbilidades', el dato que orienta a la vía perineal; sin él, una rectopexia abdominal también es defendible. (El revisor había propuesto la opción E.) En ancianas de alto riesgo el prolapso rectal se trata con un procedimiento perineal; la rectosigmoidectomía perineal (Altemeier) tiene recurrencia de 15% y es buena opción en pacientes mayores. Los procedimientos abdominales (Ripstein, resección anterior con rectopexia) se reservan para pacientes más jóvenes y de bajo riesgo. La encerradura de Thiersch ya no se usa y el Moschcowitz se hace más para prolapso vaginal.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 182 del PDF (respuesta 22.E)"
+  ],
+  "tema": "anorrectal",
+  "nota": "MAL HECHA: al banco le falta el dato del libro 'con múltiples comorbilidades médicas significativas', que es lo que lleva a elegir un procedimiento perineal. Además la opción D traduce 'perineal hernia' como 'saco perineal' y A dice 'malla protésica' donde el libro dice 'sling'."
+ },
+ {
+  "k": "795dd317df",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la enfermedad perianal en asociación con la enfermedad de Crohn?",
+  "opts": [
+   "Las fístulas anales tienden a tener un solo trayecto",
+   "La resonancia magnética (RM) no es particularmente útil",
+   "El uso liberal de múltiples setones es útil",
+   "El infliximab es ineficaz en la curación de estas fístulas",
+   "El uso agresivo de fistulotomía brinda la mejor posibilidad de cura"
+  ],
+  "ans": 2,
+  "why": "En la enfermedad perianal de Crohn se recomienda el uso liberal de setones. Las fístulas suelen ser complejas con múltiples trayectos, la RM es especialmente útil para ver el trayecto, abscesos y esfínteres, el infliximab parece ser el inmunomodulador más efectivo y la fistulotomía agresiva debe evitarse por cicatrización lenta y riesgo de incontinencia.",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 182 del PDF (respuesta 23.C)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "c3c9d99f36",
+  "estado": "confirmada",
+  "stem": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la fístula ano-rectal (fístula-in-ano)?",
+  "opts": [
+   "El drenaje de un absceso anorectal rara vez resulta en una fístula persistente",
+   "El orificio interno generalmente es fácil de identificar",
+   "Las fístulas se categorizan según su relación con la mucosa anal",
+   "El tratamiento quirúrgico se determina por el orificio interno y externo de la fístula",
+   "Está contraindicado inyectar peróxido de hidrógeno o azul de metileno en el orificio externo"
+  ],
+  "ans": 3,
+  "why": "El tratamiento quirúrgico de la fístula se determina por la ubicación de los orificios interno y externo y el trayecto. Tras drenar un absceso, 26-50% desarrolla fístula persistente (A falsa). El orificio interno suele ser difícil de identificar (B falsa). Se clasifican según su relación con el complejo esfinteriano, no con la mucosa (C falsa). Inyectar peróxido de hidrógeno o azul de metileno por el orificio externo ayuda a identificar el interno (E falsa).",
+  "fuentes": [
+   "de Virgilio ABSITE 3.ª ed., p. 182 del PDF (respuesta 25.D) y p. 178 (pregunta 25)"
+  ],
+  "tema": "anorrectal"
+ },
+ {
+  "k": "32dfec1184",
+  "estado": "confirmada",
+  "stem": "La arteria que es sujeta a erosion por una ulcera penetrante de la pared posterior de la primera parte del duodeno",
+  "opts": [
+   "Arteria gastrica izquierda",
+   "Arteria gastrica derecha",
+   "Arteria gastroduodenal",
+   "Arteria gastroepiploica izquierda",
+   "Arteria gastroepiploica derecha"
+  ],
+  "ans": 2,
+  "why": "El vaso con mayor probabilidad de sangrar en una úlcera duodenal posterior es la arteria gastroduodenal, que se erosiona. El ABSITE dice que las úlceras posteriores penetran y sangran por erosión de la gastroduodenal, mientras que las anteriores perforan libremente. Las demás arterias de las opciones son gástricas y gastroepiploicas, que no se mencionan como la fuente de este sangrado.",
+  "fuentes": [
+   "Sabiston 21.ª ed., p. 1236 del PDF",
+   "de Virgilio ABSITE 3.ª ed., p. 131 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "El enunciado dice 'primera parte del duodeno'; las fuentes hablan de úlcera duodenal posterior en general (bulbo duodenal) y no repiten la frase literal. Las opciones A, B, D y E no están descartadas de forma explícita en las fuentes."
+ },
+ {
+  "k": "7ae1de0d8d",
+  "estado": "dudosa",
+  "stem": "Un hombre de 55 años ingresó en el hospital con dolor abdominal intenso. La gastroscopia y la TC revelaron una úlcera perforada en la pared posterior del estómago. ¿Dónde se desarrollaría inicialmente con más probabilidad una peritonitis?",
+  "opts": [
+   "Espacio subhepático derecho.",
+   "Espacio hepatorrenal (de Morison).",
+   "Bolsa omental (saco menor).",
+   "Espacio subfrénico derecho.",
+   "Saco mayor."
+  ],
+  "ans": null,
+  "why": "Pasada a dudosa por el supervisor: Supervisión: clave deducida (INDIRECTA) de la anatomía de la bolsa omental; ninguna fuente dice dónde empieza la peritonitis. (El revisor había propuesto la opción C.) La pared anterior de la bolsa omental (saco menor) corresponde a la cara posterior del estómago. Por eso una úlcera perforada en la pared posterior gástrica vierte su contenido primero hacia la bolsa omental, y la peritonitis se desarrollaría ahí inicialmente.",
+  "fuentes": [
+   "Latarjet, Anatomía humana, tomo 2, p. 527 del PDF"
+  ],
+  "tema": "esofago-estomago",
+  "nota": "INDIRECTA: ningún libro de la carpeta dice literalmente dónde empieza la peritonitis de una úlcera gástrica posterior perforada; se deduce de la relación anatómica que da Latarjet (pared anterior de la bolsa omental = cara posterior del estómago)."
+ }
+]
